@@ -404,5 +404,18 @@
   "brightness": "Brighter background, but deep red.",
   "confidence": "medium",
   "source": ""
+ },
+ "stones__chiastolite": {
+  "source": "Canva stock photo (Canva Content License, used inside a Canva design)",
+  "page_url": "https://www.canva.com/photos/MAC3-P1k1s0/",
+  "image_url": "canva design DAHbTCaV_bc page 1",
+  "license": "Canva Content License",
+  "creator": "Canva contributor",
+  "credit": "Photo via Canva",
+  "canva_id": "MAC3-P1k1s0",
+  "canva_title": "Tumbled Chiastolite Gemstone",
+  "visual": "Tumbled chiastolite with a clear dark cross on white marble, bright and sharp; title names the stone.",
+  "brightness": "Bright, clean, white marble.",
+  "confidence": "high"
  }
 }

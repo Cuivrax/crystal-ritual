@@ -105,6 +105,51 @@ export function processLinks(tree, { isBuilt, allowExternal, markHidden = false 
   });
 }
 
+/**
+ * Citation-only parentheses that point to dealer pages or crystal guides, "(Crystals.com)" or
+ * "(CrystalVaults, Fire Mountain Gems)", are removed whole, so the page never shows which guides
+ * we read. The sentence around them already says "crystal guides" or "a seller". A parenthesis
+ * with other words in it, or with a reference link, is left alone. Runs before processLinks.
+ */
+export function dropGuideCitations(tree, { allowExternal } = {}) {
+  if (!allowExternal) return;
+  const isExt = (n) => isEl(n, 'a') && /^https?:\/\//i.test(n.properties?.href || '');
+  const isGuide = (n) => isExt(n) && !allowExternal(n.properties.href);
+  const isSep = (n) => n && n.type === 'text' && /^\s*(,|;|and|, and)\s*$/.test(n.value);
+  const visit = (node) => {
+    const kids = node.children;
+    if (!kids) return;
+    for (let i = 0; i < kids.length; i++) {
+      const open = kids[i];
+      if (open.type === 'text' && /\s?\($/.test(open.value)) {
+        let j = i + 1;
+        const links = [];
+        while (j < kids.length && isExt(kids[j])) {
+          links.push(kids[j]); j++;
+          if (isSep(kids[j]) && isExt(kids[j + 1])) { j++; continue; }
+          break;
+        }
+        const close = kids[j];
+        if (links.some(isGuide) && close && close.type === 'text' && close.value.startsWith(')')) {
+          const keep = links.filter((n) => !isGuide(n));
+          if (!keep.length) {
+            open.value = open.value.replace(/\s?\($/, '');
+            close.value = close.value.slice(1);
+            kids.splice(i + 1, j - i - 1);
+            continue;
+          }
+          const rebuilt = keep.flatMap((n, k) => (k ? [txt(', '), n] : [n]));
+          kids.splice(i + 1, j - i - 1, ...rebuilt);
+          i += rebuilt.length;
+          continue;
+        }
+      }
+      visit(open);
+    }
+  };
+  visit(tree);
+}
+
 /** Removes the temporary markers left by processLinks({ markHidden: true }). */
 export function unwrapHidden(tree) {
   walk(tree, (node) => (isEl(node, 'span') && node.properties?.dataHiddenHref ? node.children : undefined));

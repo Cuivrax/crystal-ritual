@@ -12,7 +12,7 @@ import remarkGfm from 'remark-gfm';
 import remarkRehype from 'remark-rehype';
 import { isEl, meaningful, textOf, html, makeSlugger, el } from './hast.mjs';
 import {
-  processComments, processPlaceholders, processLinks, processCallouts, processLabels,
+  processComments, processPlaceholders, processLinks, dropGuideCitations, processCallouts, processLabels,
   processTables, processLists, processHeadings, unwrapHidden,
 } from './transforms.mjs';
 import { filterSourcesNodes, extractTrailers } from './sources-section.mjs';
@@ -95,6 +95,7 @@ export async function renderDocument(page, ctx) {
 
   // Generic transforms over everything but Sources.
   const work = { type: 'root', children: [...introSplit.nodes, ...body.flatMap((s) => [s.heading, ...s.nodes])] };
+  dropGuideCitations(work, { allowExternal: ctx.policy.isBodyLinkAllowed });
   processLinks(work, { isBuilt: ctx.isBuilt, allowExternal: ctx.policy.isBodyLinkAllowed, markHidden: true });
   processCallouts(work);
   processLabels(work);

@@ -99,3 +99,17 @@ test('a page without a Sources section gets one list from the frontmatter, never
   const both = filterSourcesNodes([{ type: 'element', tagName: 'ul', properties: {}, children: [{ type: 'element', tagName: 'li', properties: {}, children: [{ type: 'text', value: 'IMA List of Minerals' }] }] }], { policy, isBuilt: () => true, frontmatterSources: ['https://www.gia.edu/a'] });
   assert.equal((html(both.nodes).match(/<ul>/g) || []).length, 1, 'the body list wins, the frontmatter list is not added');
 });
+
+test('citation-only parentheses to dealer pages are removed, other parentheses stay', async () => {
+  const { dropGuideCitations } = await import('../src/lib/md/transforms.mjs');
+  const { el, txt } = await import('../src/lib/md/hast.mjs');
+  const a = (href, t) => el('a', { href }, [txt(t)]);
+  const p = el('p', {}, [
+    txt('A bedside crystal ('), a('https://www.crystals.com/x', 'Crystals.com'), txt('). Guides agree ('),
+    a('https://www.crystalvaults.com/x', 'CrystalVaults'), txt(', '), a('https://www.firemountaingems.com/x', 'Fire Mountain Gems'),
+    txt('). Hardness 7 ('), a('https://www.gia.edu/x', 'GIA'), txt('). Mixed ('), a('https://www.gia.edu/y', 'GIA'), txt(', '),
+    a('https://www.crystals.com/y', 'Crystals.com'), txt('). In a ('), a('https://www.crystals.com/z', 'shop'), txt(' guide).'),
+  ]);
+  dropGuideCitations({ type: 'root', children: [p] }, { allowExternal: policy.isBodyLinkAllowed });
+  assert.equal(html(p), '<p>A bedside crystal. Guides agree. Hardness 7 (<a href="https://www.gia.edu/x">GIA</a>). Mixed (<a href="https://www.gia.edu/y">GIA</a>). In a (<a href="https://www.crystals.com/z">shop</a> guide).</p>');
+});
