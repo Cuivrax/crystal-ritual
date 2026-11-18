@@ -11,6 +11,7 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parsePhotoComments, photoFolder, PHOTO_EXTS } from '../src/lib/photos.mjs';
 import { idToUrl } from '../src/lib/urls.mjs';
+import sharp from 'sharp';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const dry = process.argv.includes('--dry-run');
@@ -29,6 +30,16 @@ function imageUrl(u) {
   return u;
 }
 
+/** Smithsonian files are kept at 1200 px on the long side, whatever size the server sent. */
+async function capSize(file) {
+  const meta = await sharp(file).metadata();
+  if (Math.max(meta.width || 0, meta.height || 0) <= 1200) return;
+  const img = sharp(file).rotate().resize({ width: 1200, height: 1200, fit: 'inside' });
+  const buf = await (meta.format === 'jpeg' ? img.jpeg({ quality: 88, mozjpeg: true }) : img.toFormat(meta.format)).toBuffer();
+  writeFileSync(file, buf);
+  console.log(`resized ${file.slice(ROOT.length + 1)} to 1200 px (was ${meta.width}x${meta.height})`);
+}
+
 const pages = readdirSync(join(ROOT, 'content/pages')).filter((f) => f.endsWith('.md'));
 let ok = 0; let skipped = 0; let failed = 0;
 for (const f of pages) {
@@ -43,8 +54,10 @@ for (const f of pages) {
     const have = PHOTO_EXTS.find((e) => existsSync(join(dir, `${p.role}.${e}`)));
     const pickedHero = p.hero && picks[id] && PHOTO_EXTS.some((e) => existsSync(join(ROOT, 'src/assets/photos', id, `hero.${e}`)));
     if (p.hero && isCommons(p.image)) {
-      todo.push({ page: id, file_page: p.page, image_url: p.image, credit: p.credit, license: p.license, status: pickedHero ? 'not needed, a checked photo in site/photos is used' : have ? `in the repo at src/assets/stones/${folder}/${p.role}.${have}` : 'missing, no figure until the file is there', target: `src/assets/stones/${folder}/hero.jpg` });
+      // The status is filled in after the fetch attempt below.
+      todo.push({ page: id, file_page: p.page, image_url: p.image, credit: p.credit, license: p.license, status: pickedHero ? 'not needed, a checked photo in site/photos is used' : null, target: `src/assets/stones/${folder}/hero.jpg`, dir, role: p.role, folder });
     }
+    if (have && isSmithsonian(p.image) && !dry) await capSize(join(dir, `${p.role}.${have}`));
     if (have && !(refreshSmithsonian && isSmithsonian(p.image))) { skipped++; continue; }
     const url = imageUrl(p.image);
     if (dry) { console.log(`would fetch ${folder}/${p.role} from ${url}`); continue; }
@@ -58,6 +71,7 @@ for (const f of pages) {
       if (buf.length < 5000) throw new Error('file too small');
       mkdirSync(dir, { recursive: true });
       writeFileSync(join(dir, `${p.role}.${ext}`), buf);
+      if (isSmithsonian(p.image)) await capSize(join(dir, `${p.role}.${ext}`));
       console.log(`fetched ${folder}/${p.role}.${ext} (${Math.round(buf.length / 1024)} KB)`);
       ok++;
     } catch (e) {
@@ -67,6 +81,13 @@ for (const f of pages) {
   }
 }
 console.log(`${ok} fetched, ${skipped} already there, ${failed} failed`);
+for (const t of todo) {
+  if (!t.status) {
+    const have = PHOTO_EXTS.find((e) => existsSync(join(t.dir, `${t.role}.${e}`)));
+    t.status = have ? `in the repo at src/assets/stones/${t.folder}/${t.role}.${have}` : 'missing, no figure until the file is there';
+  }
+  delete t.dir; delete t.role; delete t.folder;
+}
 if (!dry) {
   mkdirSync(dirname(todoPath), { recursive: true });
   writeFileSync(todoPath, `${JSON.stringify({ generated: new Date().toISOString(), note: 'Hero photos whose note points to Wikimedia Commons. Save each image as the target path, then rebuild.', items: todo }, null, 1)}\n`);
