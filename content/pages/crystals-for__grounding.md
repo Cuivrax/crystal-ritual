@@ -72,9 +72,9 @@ Crystals for grounding are dark, dense or earthy stones that people hold to feel
 
 In crystal practice, grounding means feeling rooted, calm and present in your body, and guides credit dark or earth-colored stones with helping.
 
-**Modern Association.** Most guides tie grounding to the root chakra, which Crystals.com calls "the energy center governing stability, safety, and groundedness" ([Crystals.com](https://www.crystals.com/blogs/news/black-obsidian-meaning-properties)). Modern charts color that chakra red, so red, brown and black stones collect the label. The color scheme is younger than it looks. An article in the Theosophical Society's *Quest* magazine traces the first printed pairing of rainbow colors with today's list of chakra qualities to Ken Dychtwald in 1977 ([Quest](https://www.theosophical.org/publications/quest-magazine/the-rainbow-body-how-the-western-chakra-system-came-to-be)).
+**Modern Association.** Most guides tie grounding to the root chakra, which one seller describes as the energy center of stability, safety and groundedness. Modern charts color that chakra red, so red, brown and black stones collect the label. The color scheme is younger than it looks. An article in the Theosophical Society's *Quest* magazine traces the first printed pairing of rainbow colors with today's list of chakra qualities to Ken Dychtwald in 1977.
 
-**The other grounding.** Therapists use the word too. The Cleveland Clinic describes grounding techniques as "a set of simple strategies that help calm your anxiety by focusing on the here and now," and the doctor it quotes calls them "a form of distraction from those difficult emotions" ([Cleveland Clinic](https://health.clevelandclinic.org/grounding-techniques)). That second meaning is the one you can count on, whatever you believe about the stone in your hand.
+**The other grounding.** Therapists use the word too. The [Cleveland Clinic](https://health.clevelandclinic.org/grounding-techniques) describes grounding techniques as "a set of simple strategies that help calm your anxiety by focusing on the here and now," and the doctor it quotes calls them "a form of distraction from those difficult emotions". That second meaning is the one you can count on, whatever you believe about the stone in your hand.
 
 ## The 5-4-3-2-1 Technique with a Stone
 
@@ -82,7 +82,7 @@ In crystal practice, grounding means feeling rooted, calm and present in your bo
 
 **You need.** One stone that fits your hand. A tumbled hematite, an Apache tear or a small smoky quartz all work.
 
-**Steps.** The countdown comes from a coping guide by the University of Rochester Medical Center ([URMC](https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety)). The stone is our addition.
+**Steps.** The countdown comes from a [coping guide by the University of Rochester Medical Center](https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety). The stone is our addition.
 
 1. **Breathe first.** Take a few slow, long breaths.
 2. **5 things you can see.** Name them, silently or out loud. Make the stone the first, its color and the way light sits on it.
@@ -102,67 +102,67 @@ In crystal practice, grounding means feeling rooted, calm and present in your bo
 
 ### 1. Obsidian
 
-**Classic.** [Obsidian](/stones/obsidian/) is volcanic glass, lava that cooled too fast for crystals to form. Its sharp broken fragments may have prompted its first use by people, and it was traded over distances of up to a thousand miles ([Geology.com](https://geology.com/rocks/obsidian.shtml)). Modern guides use it in grounding meditation, held as a tumbled stone in both hands ([Lebensquelle Plus](https://lebensquelle-plus.de/en/blogs/magazin/obsidian-wirkung)).
+**Classic.** [Obsidian](/stones/obsidian/) is volcanic glass, lava that cooled too fast for crystals to form. Its sharp broken fragments may have prompted its first use by people, and it was traded over distances of up to a thousand miles. Modern guides use it in grounding meditation, held as a tumbled stone in both hands.
 
-**Care.** It scratches and chips easily, so Geology.com steers it away from rings and bracelets. Wipe it with a lint-free cloth or wash it briefly in warm soapy water, and keep it away from heat ([International Gem Society](https://www.gemsociety.org/article/obsidian-jewelry-and-gemstone-information/)). Broken edges are sharper than any steel knife, the same source warns.
+**Care.** It scratches and chips easily, so it is a poor choice for rings and bracelets. Wipe it with a lint-free cloth or wash it briefly in warm soapy water, and keep it away from heat. Broken edges are sharper than any steel knife.
 
 ### 2. Apache Tears
 
-**Classic.** [Apache tears](/stones/apache-tears/) are small obsidian nodules, about one inch or less, from volcanic areas of the southwestern United States ([Geology.com](https://geology.com/rocks/obsidian.shtml)). Geology.com tells the Native American legend behind the name, in which the tears of Apache families, mourning warriors who rode off a cliff during an 1870 battle with the US Cavalry, turned to stone. Their size makes them natural pocket stones for the touch step above.
+**Classic.** [Apache tears](/stones/apache-tears/) are small obsidian nodules, about one inch or less, from volcanic areas of the southwestern United States. Behind the name is a Native American legend in which the tears of Apache families, mourning warriors who rode off a cliff during an 1870 battle with the US Cavalry, turned to stone. Their size makes them natural pocket stones for the touch step above.
 
-**Care.** Our care data does not cover Apache tears yet. Geology.com notes they are hard to polish because the glass chips and bruises easily.
+**Care.** Our care data does not cover Apache tears yet. They are hard to polish because the glass chips and bruises easily.
 
 ### 3. Petrified Wood
 
-**Classic.** [Petrified wood](/stones/petrified-wood/) is ancient wood replaced by minerals, which the International Gem Society describes as colorful agate that has replaced tree trunks and limbs ([IGS](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/)). Ancestral Puebloan people built Agate House, an eight-room pueblo in what is now Petrified Forest National Park, from petrified wood sometime between 1050 and 1300, according to the [National Park Service](https://www.nps.gov/pefo/learn/historyculture/agate-house.htm), and modern guides call it "deeply grounding" ([Spiral Nature](https://www.spiralnature.com/magick/petrified-wood-deep-roots)). A polished slice on the desk, growth rings and all, is a reminder that slow change still counts.
+**Classic.** [Petrified wood](/stones/petrified-wood/) is ancient wood replaced by minerals, colorful agate that has replaced tree trunks and limbs. Ancestral Puebloan people built Agate House, an eight-room pueblo in what is now Petrified Forest National Park, from petrified wood sometime between 1050 and 1300, and modern guides call it deeply grounding. A polished slice on the desk, growth rings and all, is a reminder that slow change still counts.
 
-No visible rings? The same IGS page says the woody structure is preserved in many cases and can be seen with a microscope, so a piece without obvious rings is not automatically fake.
+No visible rings? The woody structure is preserved in many cases and can be seen with a microscope, so a piece without obvious rings is not automatically fake.
 
 **Care.** Our care data does not cover petrified wood yet.
 
 ### 4. Hematite
 
-**Classic.** [Hematite](/stones/hematite/) is an iron oxide and the most important ore of iron, dense enough (specific gravity 5.0 to 5.3) that a small palm stone feels heavy ([Geology.com](https://geology.com/minerals/hematite.shtml)). Kunz explains that its name comes from the Greek *haima*, blood, for its red streak, and that as an iron ore tied to Mars, the god of war, it was thought a great help to a warrior who rubbed it on his body (*The Curious Lore of Precious Stones*, 1913, pages 80 to 81). Today the habit is gentler, a cool, smooth palm stone in the hand, or rubbed on the soles of the feet as one crystal shop suggests ([Crystals.com](https://www.crystals.com/blogs/news/hematite-meaning-healing-properties-and-powers)).
+**Classic.** [Hematite](/stones/hematite/) is an iron oxide and the most important ore of iron, dense enough (specific gravity 5.0 to 5.3) that a small palm stone feels heavy. Kunz explains that its name comes from the Greek *haima*, blood, for its red streak, and that as an iron ore tied to Mars, the god of war, it was thought a great help to a warrior who rubbed it on his body (*The Curious Lore of Precious Stones*, 1913, pages 80 to 81). Today the habit is gentler, a cool, smooth palm stone in the hand, or rubbed on the soles of the feet as one crystal shop suggests.
 
-Bracelet pulling in pins and paper clips? Magnetic "hematite" is usually hematine, a look-alike that contains no hematite at all ([International Gem Society](https://www.gemsociety.org/article/hematite-jewelry-and-gemstone-information/)).
+Bracelet pulling in pins and paper clips? Magnetic "hematite" is usually hematine, a look-alike that contains no hematite at all.
 
-**Care.** Reasonably tough but brittle, so rings need protective settings. Clean it with a soft brush, mild soap and warm water, never steam or ultrasonic (IGS).
+**Care.** Reasonably tough but brittle, so rings need protective settings. Clean it with a soft brush, mild soap and warm water, never steam or ultrasonic.
 
 ### 5. Smoky Quartz
 
-**Classic.** [Smoky quartz](/stones/smoky-quartz/) is quartz turned brown by natural radiation acting on traces of aluminum. It is the national gem of Scotland, where it is called cairngorm, and since 1985 the state gem of New Hampshire ([Geology.com](https://geology.com/gemstones/smoky-quartz/)). Crystals.com lists it with black tourmaline and hematite as a grounding partner for moldavite (see below), and a small point on a desk is the usual placement.
+**Classic.** [Smoky quartz](/stones/smoky-quartz/) is quartz turned brown by natural radiation acting on traces of aluminum. It is the national gem of Scotland, where it is called cairngorm, and since 1985 the state gem of New Hampshire. One crystal seller lists it with black tourmaline and hematite as a grounding partner for moldavite (see below), and a small point on a desk is the usual placement.
 
-**Care.** Heat lightens its color (Geology.com). Sunlight is often blamed for fading too, and our care data rates sun as one to avoid, so a shaded desk beats a sunny windowsill.
+**Care.** Heat lightens its color. Sunlight is often blamed for fading too, and our care data rates sun as one to avoid, so a shaded desk beats a sunny windowsill.
 
 ### 6. Leopardskin Jasper
 
-**Classic.** Despite the name, [leopardskin jasper](/stones/leopardskin-jasper/) is silicified rhyolite, a volcanic rock, according to the collector site Rock Seeker, and its spots are spheres that grew outward from a crystal seed ([Rock Seeker](https://rockseeker.com/?p=9422)). It has no old lore, and one crystal shop says it is "regarded first and foremost as a grounding stone" ([Rare Earth Gallery](https://rareearthgallerycc.com/blogs/about-crystals-minerals/leopard-skin-jasper-stone-information-healing-properties-uses)). Its busy pattern gives your eyes somewhere to rest during the seeing step.
+**Classic.** Despite the name, [leopardskin jasper](/stones/leopardskin-jasper/) is silicified rhyolite, a volcanic rock, according to one collector site, and its spots are spheres that grew outward from a crystal seed. It has no old lore, and one crystal shop says it is seen first and foremost as a grounding stone. Its busy pattern gives your eyes somewhere to rest during the seeing step.
 
 **Care.** Our care data does not cover leopardskin jasper yet.
 
 ### 7. Mahogany Obsidian
 
-**Classic.** [Mahogany obsidian](/stones/mahogany-obsidian/) is obsidian with reddish-brown swirls from iron impurities ([International Gem Society](https://www.gemsociety.org/article/obsidian-jewelry-and-gemstone-information/)), and Glass Butte in central Oregon is one place it turns up ([Geology.com](https://geology.com/rocks/obsidian.shtml)). Some crystal writers prefer it to black obsidian as a gentler grounding stone, "without emotional overwhelm" ([The Crystal Studio](https://thecrystalstudio.blogspot.com/2025/06/obsidian-mahogany.html)).
+**Classic.** [Mahogany obsidian](/stones/mahogany-obsidian/) is obsidian with reddish-brown swirls from iron impurities, and Glass Butte in central Oregon is one place it turns up. Some crystal writers prefer it to black obsidian as a gentler grounding stone, one that grounds without emotional overwhelm.
 
 **Care.** Like all obsidian it scratches and chips on impact, so earrings, pendants and pocket stones suit it better than rings and bracelets. Keep it away from heat.
 
 ### 8. Aragonite
 
-**Classic.** [Aragonite](/stones/aragonite/) is a calcium carbonate mineral, a sister form of calcite ([International Gem Society](https://www.gemsociety.org/article/aragonite-jewelry-and-gemstone-information/)). Kunz describes ancient Mexicans carving figures, ornaments and beads from "Mexican onyx," an aragonite stalagmite (1913, page 251), and one large crystal encyclopedia credits the crystal author Melody with tying aragonite to patience and calm under stress ([Crystal Vaults](https://www.crystalvaults.com/crystal-encyclopedia/aragonite/)).
+**Classic.** [Aragonite](/stones/aragonite/) is a calcium carbonate mineral, a sister form of calcite. Kunz describes ancient Mexicans carving figures, ornaments and beads from "Mexican onyx," an aragonite stalagmite (1913, page 251), and one large crystal encyclopedia credits the crystal author Melody with tying aragonite to patience and calm under stress.
 
-**Care.** It is too soft (Mohs 3.5 to 4) to wear safely in jewelry, says the IGS, and our care data rates acids and salt water as ones to avoid. Clean it with a soft brush and warm water and skip salt cleansing entirely.
+**Care.** It is too soft (Mohs 3.5 to 4) to wear safely in jewelry, and our care data rates acids and salt water as ones to avoid. Clean it with a soft brush and warm water and skip salt cleansing entirely.
 
 ## What Is a Grounding Stone for Moldavite?
 
-A grounding stone for moldavite is a dark, steady stone that sellers pair with moldavite, most often smoky quartz, black tourmaline or hematite. Crystals.com says "many practitioners recommend" that trio, because shops describe moldavite as intense and some buyers report "heat, tingling, or a flush" when they hold it ([Crystals.com](https://www.crystals.com/blogs/news/moldavite-crystal)).
+A grounding stone for moldavite is a dark, steady stone that sellers pair with moldavite, most often smoky quartz, black tourmaline or hematite. One seller says many practitioners recommend that trio, because shops describe moldavite as intense and some buyers report heat, tingling or a flush when they hold it.
 
-**The Stone.** [Moldavite](/stones/moldavite/) is a natural glass thought to have formed in an asteroid impact in Germany about 15 million years ago. Geology.com warns that "much of the moldavite offered for sale, especially online, is a green man-made glass," and finds no scientific evidence of any medical effect beyond placebo ([Geology.com](https://geology.com/gemstones/moldavite/)).
+**The Stone.** [Moldavite](/stones/moldavite/) is a natural glass thought to have formed in an asteroid impact in Germany about 15 million years ago. Geology.com warns that "much of the moldavite offered for sale, especially online, is a green man-made glass," and finds no scientific evidence of any medical effect beyond placebo.
 
 **What Research Says.** That tingle may come from expectation. In two studies with 80 volunteers each, presented at psychology conferences in 1999 and 2001 and never published in a peer-reviewed journal, the psychologist Chris French and colleagues at Goldsmiths had people hold a real or fake crystal for five minutes. Most reported at least one odd sensation, and the reports tracked belief in the paranormal, not whether the crystal was real ([The Skeptic](https://www.skeptic.org.uk/?p=40532)). Because the work was never peer reviewed, it is known only through French's own account. If any stone leaves you dizzy or unwell, put it down, and if the feeling continues, see a doctor.
 
 ## Black Tourmaline, Grounding & Protection
 
-Black tourmaline is a stone shops often pair with both grounding and protection. One German shop describes it as "a classic root chakra stone" said to bring "a feeling of safety, groundedness, and 'being here'" ([Lebensquelle Plus](https://lebensquelle-plus.de/blogs/magazin/schwarzer-turmalin-wirkung)). In our ranking it rates Widely Linked for grounding and Classic for protection. More on the stone itself on our [black tourmaline page](/stones/black-tourmaline/).
+Black tourmaline is a stone shops often pair with both grounding and protection. One German shop describes it as a classic root chakra stone, said to bring a feeling of safety and groundedness, of being here. In our ranking it rates Widely Linked for grounding and Classic for protection. More on the stone itself on our [black tourmaline page](/stones/black-tourmaline/).
 
 Obsidian, Apache tears, hematite and smoky quartz rate Classic for both grounding and protection in our ranking, which is why guides treat the two ideas as a pair. The protection side, with a doorway ritual, is on our page of [crystals for protection](/crystals-for/protection/).
 
@@ -190,4 +190,4 @@ For a shorter routine built around anxious moments, see [crystals for anxiety](/
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

@@ -18,17 +18,17 @@ sources:
 
 # About Crystal & Ritual
 
-Crystal & Ritual is an independent encyclopedia of crystals and stones, written in US English. Every page tells you what a stone really is, where its meaning comes from and what you can actually do with it in everyday life. Beliefs are labeled as beliefs, facts link to their sources, and nothing here promises that a stone will heal you.
+Crystal & Ritual is an independent encyclopedia of crystals and stones, written in US English. Every page tells you what a stone really is, where its meaning comes from and what you can actually do with it in everyday life. Beliefs are labeled as beliefs, facts are checked against the sources listed at the end of each page, and nothing here promises that a stone will heal you.
 
 ## Who Writes Crystal & Ritual
 
-Iris Holloway is the pen name of the founder and editor of Crystal & Ritual. It is a pen name, and we say so up front. The site claims no gemology diploma and no healer's certificate. What it offers instead is a method you can check on every page. The stone comes first, every belief is labeled with who held it and when, and every fact links to the source it came from.
+Iris Holloway is the pen name of the founder and editor of Crystal & Ritual. It is a pen name, and we say so up front. The site claims no gemology diploma and no healer's certificate. What it offers instead is a method you can check on every page. The stone comes first, every belief is labeled with who held it and when, and every fact is checked against the sources listed at the end of the page.
 
 <!-- AVATAR. Illustrated avatar for Iris Holloway, never a stock photo of a real person and never a generated face presented as a real one (doc 07 section 11). -->
 
 ### Why the Name
 
-Iris is for iris agate, an agate whose fine repeating structure splits light passing through a thin slice into rainbow colors. GIA's journal *Gems & Gemology* names iris agate among the well-known examples of iridescence made by repeating transparent structures, light split by the stone's build rather than by pigment ([GIA](https://gia.edu/gems-gemology/spring-2017-iridescence-natural-quartz)).
+Iris is for iris agate, an agate whose fine repeating structure splits light passing through a thin slice into rainbow colors. It is one of the well-known examples of iridescence made by repeating transparent structures, light split by the stone's build rather than by pigment.
 
 A holloway is an English word for a sunken lane, a path worn down into the ground by centuries of feet, hooves and wheels. Rock shaped by small acts repeated over a long time felt like the right picture for a site about stones and everyday rituals.
 
@@ -75,4 +75,4 @@ Spotted a mistake, or a question a page did not answer? See the [contact page](/
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the founder and editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the founder and editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

@@ -50,7 +50,7 @@ There is no official Sagittarius birthstone, because birthstones belong to month
 
 ## What Is the Sagittarius Birthstone?
 
-Birthstones and zodiac stones are two different lists, and Sagittarius sits on the seam. If you were born in the last days of November, your birthstone is [topaz or citrine](/birthstones/november/). From December 1 to 21 it is [tanzanite, turquoise or zircon](/birthstones/december/), the modern US list from the [American Gem Society](https://www.americangemsociety.org/birthstones/).
+Birthstones and zodiac stones are two different lists, and Sagittarius sits on the seam. If you were born in the last days of November, your birthstone is [topaz or citrine](/birthstones/november/). From December 1 to 21 it is [tanzanite, turquoise or zircon](/birthstones/december/), the modern US list from the American Gem Society.
 
 Zodiac stones follow the sign instead of the month. **Tradition.** In the zodiac rhymes George Frederick Kunz printed in 1913, the verse for Sagittarius runs from November 21 to December 21 and says "their true gem should ever show a topaz" (*The Curious Lore of Precious Stones*, page 347). An old Spanish list he reproduced on the same page, which he believed reflected Arab tradition, gives Sagittarius the emerald instead.
 
@@ -58,7 +58,7 @@ So when a site names one Sagittarius birthstone, it is choosing. Topaz has the b
 
 ### A Quick Note on the Dates
 
-Kunz's table runs the sign from November 21 to December 21, and horoscope sources do not all use the same dates, so check the ones you follow. The sign is also not the same thing as the constellation. Astrology's signs were mapped long ago, and because of a slow shift called precession, they no longer line up with the star patterns that share their names ([We The Curious planetarium](https://wethecurious.org/planetariumblog/star-signs-and-precession)). The same planetarium team notes that the constellation Ophiuchus sits between Scorpius and Sagittarius. Western astrology ties its signs to the seasons instead, starting Aries at the March equinox, so your sign stays the same either way.
+Kunz's table runs the sign from November 21 to December 21, and horoscope sources do not all use the same dates, so check the ones you follow. The sign is also not the same thing as the constellation. Astrology's signs were mapped long ago, and because of a slow shift called precession, they no longer line up with the star patterns that share their names. The constellation Ophiuchus sits between Scorpius and Sagittarius. Western astrology ties its signs to the seasons instead, starting Aries at the March equinox, so your sign stays the same either way.
 
 ## Where the Sagittarius Links Come From
 
@@ -92,7 +92,7 @@ We grade each link with the same words we use across the site, from Classic down
 | Lapis lazuli | Sometimes Linked | 1912 December alternate, and one guide calls it the main Sagittarius stone | Often dyed, soft, and porous |
 | Labradorite, obsidian | Sometimes Linked | Guides that pair the sign with truth seeking or grounding | Both chip or break on a hard knock |
 
-Sources for the notes. Turquoise from [Geology.com](https://geology.com/minerals/turquoise.shtml). Topaz from [Geology.com](https://geology.com/minerals/topaz.shtml). Azurite from the [International Gem Society](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/) and [Geology.com](https://geology.com/minerals/azurite.shtml). Sodalite from [Geology.com](https://geology.com/minerals/sodalite.shtml). Blue topaz from the [International Gem Society](https://www.gemsociety.org/article/december-birthstone/). Care notes from the same data as our Care Checker.
+Care notes in the table come from the same data as our Care Checker.
 
 Some guides also list health benefits for these stones. Nothing in the mineral or medical sources behind this page supports them.
 
@@ -100,7 +100,7 @@ Some guides also list health benefits for these stones. Nothing in the mineral o
 
 Start with the birthday. A late November Sagittarius gets the warm side of the season, topaz and [citrine](/stones/citrine/). A December Sagittarius gets the blues, tanzanite, turquoise and zircon. If you want one stone for the whole sign, topaz works twice, as the November birthstone and as Kunz's zodiac stone.
 
-Then think about wear. Topaz is the hardest of the group at 8 on the Mohs scale, but it can split along its cleavage, so a protective setting helps ([Geology.com](https://geology.com/minerals/topaz.shtml)). Citrine is a quartz, and most citrine on the market is heated amethyst ([GIA](https://www.gia.edu/citrine/gem-overview)), which is a treatment, not a fake. Turquoise, sodalite and azurite are softer and happier in pendants and earrings than in a ring you wear every day.
+Then think about wear. Topaz is the hardest of the group at 8 on the Mohs scale, but it can split along its cleavage, so a protective setting helps. Citrine is a quartz, and most citrine on the market is heated amethyst, which is a treatment, not a fake. Turquoise, sodalite and azurite are softer and happier in pendants and earrings than in a ring you wear every day.
 
 Before any cleansing ritual, look the stone up in the [Care Checker](/tools/crystal-care-checker/). Azurite slowly loses its blue in air, heat and light, blue zircon can turn brown under UV, and turquoise does not like long soaks.
 
@@ -120,7 +120,7 @@ Before any cleansing ritual, look the stone up in the [Care Checker](/tools/crys
 
 **Try This.** Shopping for a Sagittarius? Give the birthstone of their month and tuck in a card with the zodiac story. "Your birthstone is turquoise. Your old zodiac stone is topaz, from a rhyme printed in 1913." It turns one stone into two stories.
 
-**Safety.** Azurite and lapis lazuli never go in water you drink. Azurite is a copper mineral, and its cutting dust is toxic, though wearing finished azurite is considered safe ([International Gem Society](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/)). Small tumbled stones are not toys, so keep them away from small children and pets.
+**Safety.** Azurite and lapis lazuli never go in water you drink. Azurite is a copper mineral, and its cutting dust is toxic, though wearing finished azurite is considered safe. Small tumbled stones are not toys, so keep them away from small children and pets.
 
 ## Sources
 
@@ -134,4 +134,4 @@ Before any cleansing ritual, look the stone up in the [Care Checker](/tools/crys
 
 Last reviewed November 18, 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

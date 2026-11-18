@@ -59,15 +59,15 @@ Crystal meanings are the beliefs people attach to stones, such as amethyst for s
 
 ## How the Stone Atlas Works
 
-Search by name or by alias. Type "rainbow moonstone" and you land on labradorite, which the [International Gem Society](https://www.gemsociety.org/article/moonstone-jewelry-gem-information/) says it technically is. Type "Herkimer diamond" and you land on quartz, since the name covers doubly terminated quartz crystals from Herkimer County, New York ([Geology.com](https://geology.com/articles/herkimer-diamonds.shtml)).
+Search by name or by alias. Type "rainbow moonstone" and you land on labradorite, which is what it technically is. Type "Herkimer diamond" and you land on quartz, since the name covers doubly terminated quartz crystals from Herkimer County, New York.
 
 Each card gives one honest fact about the stone and the belief it is best known for, labeled as a belief. A name without a link is a page we are still writing. Every name is listed from the first day, so you can find the right one before its page is ready. Looking for selenite, tiger's eye or carnelian? They are already in the Atlas.
 
 ## Browse by Color
 
-Color is the first thing you notice and the least reliable clue to what a stone is. One mineral can come in many colors, and quartz alone gives purple [amethyst](/stones/amethyst/), yellow [citrine](/stones/citrine/), pink [rose quartz](/stones/rose-quartz/) and colorless [clear quartz](/stones/clear-quartz/). Different minerals can share a color, so a pink tourmaline and a rose quartz can sit side by side in the same bowl. And some color is added. Most citrine on the market is heated amethyst, according to [GIA](https://www.gia.edu/citrine/gem-overview).
+Color is the first thing you notice and the least reliable clue to what a stone is. One mineral can come in many colors, and quartz alone gives purple [amethyst](/stones/amethyst/), yellow [citrine](/stones/citrine/), pink [rose quartz](/stones/rose-quartz/) and colorless [clear quartz](/stones/clear-quartz/). Different minerals can share a color, so a pink tourmaline and a rose quartz can sit side by side in the same bowl. And some color is added. Most citrine on the market is heated amethyst.
 
-**Mineral Fact.** Every stone page says what causes its color. Amethyst owes its purple to traces of iron and natural radiation from the surrounding rock ([International Gem Society](https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/), [Geology.com](https://geology.com/gemstones/amethyst/)), and chrysoprase owes its green to nickel ([International Gem Society](https://www.gemsociety.org/article/chrysoprase-gem-information/)).
+**Mineral Fact.** Every stone page says what causes its color. Amethyst owes its purple to traces of iron and natural radiation from the surrounding rock, and chrysoprase owes its green to nickel.
 
 ## Browse by Intention
 
@@ -103,19 +103,19 @@ The honest way to sort types of crystals is by what each one is, and every stone
 | Treated | A real stone changed by heat, dye or a coating | Aqua aura quartz, quartz with a metal coating |
 | Trade name | A selling name that hides what the stone is | Rainbow moonstone, Herkimer diamond |
 
-The International Mineralogical Association's list of July 2026 recognizes 6,226 mineral species ([IMA CNMNC](https://cnmnc.units.it/)). Many of the best-loved stones are not on it, because they are varieties, rocks, glasses or organic gems.
+The International Mineralogical Association's list of July 2026 recognizes 6,226 mineral species. Many of the best-loved stones are not on it, because they are varieties, rocks, glasses or organic gems.
 
 ## Start With These Stones
 
-- [Amethyst](/stones/amethyst/), the purple color variety of quartz ([GIA](https://www.gia.edu/amethyst/gem-overview)).
+- [Amethyst](/stones/amethyst/), the purple color variety of quartz.
 - [Citrine](/stones/citrine/), yellow to orange quartz, most of it heated amethyst.
-- [Rose Quartz](/stones/rose-quartz/), pink quartz, usually found as solid masses rather than clear crystals ([GIA](https://www.gia.edu/rose-quartz/gem-overview)).
+- [Rose Quartz](/stones/rose-quartz/), pink quartz, usually found as solid masses rather than clear crystals.
 - [Clear Quartz](/stones/clear-quartz/), colorless quartz, the rock crystal of old books.
-- [Jade](/stones/jade/), one name for two minerals, jadeite and nephrite ([Geology.com](https://geology.com/gemstones/jade/)).
-- [Red Jasper](/stones/red-jasper/), an opaque microcrystalline quartz colored red by iron oxide, according to the dealer guide at [Stonemania](https://www.stonemania.co.uk/crystals/i-j/jasper-stone).
-- [Sunstone](/stones/sunstone/), a feldspar whose tiny reflective inclusions catch the light ([Geology.com](https://geology.com/gemstones/sunstone/)).
-- [Moldavite](/stones/moldavite/), a natural glass thought to have formed in the heat of an asteroid impact ([Geology.com](https://geology.com/gemstones/moldavite/)).
-- [Pink Tourmaline](/stones/pink-tourmaline/), a pink color of tourmaline, not a species of its own ([IGS](https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/)).
+- [Jade](/stones/jade/), one name for two minerals, jadeite and nephrite.
+- [Red Jasper](/stones/red-jasper/), an opaque microcrystalline quartz colored red by iron oxide, as one dealer guide describes it.
+- [Sunstone](/stones/sunstone/), a feldspar whose tiny reflective inclusions catch the light.
+- [Moldavite](/stones/moldavite/), a natural glass thought to have formed in the heat of an asteroid impact.
+- [Pink Tourmaline](/stones/pink-tourmaline/), a pink color of tourmaline, not a species of its own.
 - [Chrysoprase](/stones/chrysoprase/), apple green chalcedony colored by nickel.
 
 **Next Step.** Not sure what your stone is? Start with its color in the Atlas, then read its page from the top. The first lines tell you what it is.
@@ -132,4 +132,4 @@ The International Mineralogical Association's list of July 2026 recognizes 6,226
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

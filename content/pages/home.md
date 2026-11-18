@@ -140,23 +140,23 @@ Short, honest reads for the questions people actually ask. The newest first.
 
 ## The Stone Atlas
 
-Every stone by name and alias, with what it is, what people believe about it and how to care for it. Type the name on a label and the Atlas tells you what it usually means. Not every "crystal" is one, by the way. Obsidian is volcanic glass that cooled too fast for crystals to form ([Geology.com](https://geology.com/rocks/obsidian.shtml)), and amber is fossilized tree resin ([GIA](https://www.gia.edu/amber/gem-overview)).
+Every stone by name and alias, with what it is, what people believe about it and how to care for it. Type the name on a label and the Atlas tells you what it usually means. Not every "crystal" is one, by the way. Obsidian is volcanic glass that cooled too fast for crystals to form, and amber is fossilized tree resin.
 
 ### Pink Tourmaline
 
-A pink color of tourmaline, not a mineral species of its own ([IGS](https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/)). Hardness 7 to 7.5. Love, Widely Linked. [Read the page](/stones/pink-tourmaline/)
+A pink color of tourmaline, not a mineral species of its own. Hardness 7 to 7.5. Love, Widely Linked. [Read the page](/stones/pink-tourmaline/)
 
 ### Amethyst
 
-The purple color variety of quartz ([GIA](https://www.gia.edu/amethyst/gem-overview)). Hardness 7. Sleep, Classic. [Read the page](/stones/amethyst/)
+The purple color variety of quartz. Hardness 7. Sleep, Classic. [Read the page](/stones/amethyst/)
 
 ### Moldavite
 
-A natural glass thought to have formed in the heat of an asteroid impact ([Geology.com](https://geology.com/gemstones/moldavite/)). Hardness 5 to 5.5. Natural Glass. [Read the page](/stones/moldavite/)
+A natural glass thought to have formed in the heat of an asteroid impact. Hardness 5 to 5.5. Natural Glass. [Read the page](/stones/moldavite/)
 
 ### Jade
 
-One name for two different minerals, jadeite and nephrite ([Geology.com](https://geology.com/gemstones/jade/)). Hardness 6 to 7. Money, Classic. [Read the page](/stones/jade/)
+One name for two different minerals, jadeite and nephrite. Hardness 6 to 7. Money, Classic. [Read the page](/stones/jade/)
 
 [Open the Stone Atlas](/stones/)
 
@@ -183,6 +183,15 @@ Keep the stone in your pocket on the day of the talk. Before you walk in, hold i
 [Read the Pink Tourmaline Page](/stones/pink-tourmaline/)
 
 <!-- PHOTO for the band. R3 used "Pink tourmaline, Mesa Grande, California. Smithsonian NMNH, CC0", record http://n2t.net/ark:/65665/3ff6e21bd-aa98-48fa-8a9c-b1800cffa2c5, same file as the Atlas card. -->
+
+<!-- SOURCES, added by the citation cleanup of 2026-11-19. The Stone Atlas facts above are stated plainly, so their reference sources are listed here, as a small list before the footer in the style of the other pages. -->
+
+## Sources
+
+- GIA, [Amethyst](https://www.gia.edu/amethyst/gem-overview) and [Amber](https://www.gia.edu/amber/gem-overview)
+- International Gem Society, [Tourmaline](https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/)
+- Hobart M. King, Geology.com, [Obsidian](https://geology.com/rocks/obsidian.shtml), [Moldavite](https://geology.com/gemstones/moldavite/) and [Jade](https://geology.com/gemstones/jade/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 <!-- SECTION 11, FOOTER. Brand "Crystal & Ritual". Nav labels "Stone Atlas" (/stones/), "Find Your Stone" (/#find-your-stone), "Moon" (/moon/), "Care Checker" (/tools/crystal-care-checker/), "Label Decoder" (/tools/crystal-label-decoder/, live from week 3), "About Iris Holloway" (/about/), "Editorial Policy" (/editorial-policy/), "How We Use AI" (/editorial-policy/#how-we-use-ai), "Sources & Methods" (/sources/), "Contact" (/contact/). -->
 

@@ -55,11 +55,11 @@ These rules decide what you see. They lean cautious on purpose, because a cautio
 
 **Every rating rests on a quote.** Each one comes from a sentence we checked against the source page it links to. We never work a rating out from hardness or from what a stone is made of.
 
-**Soak is Brief Only unless a source clears it.** Most reference guides describe washing a stone, warm water, mild detergent and a soft brush ([International Gem Society](https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/)), and say nothing about leaving it in a bowl. So when a stone is OK for a rinse, the checker still shows Brief Only for a long soak, unless the source itself says soaking is fine. Today that is true for three stones, black agate, flower agate and grape agate, through a dealer's care table for agate in general ([GemSelect](https://gemselect.com/gem-info/cleaning.php)).
+**Soak is Brief Only unless a source clears it.** Most reference guides describe washing a stone, warm water, mild detergent and a soft brush, and say nothing about leaving it in a bowl. So when a stone is OK for a rinse, the checker still shows Brief Only for a long soak, unless the source itself says soaking is fine. Today that is true for three stones, black agate, flower agate and grape agate, through a dealer's care table for agate in general.
 
 **An encyclopedia-only OK is not used.** An open online encyclopedia is a useful lead, not a source we publish on its own. If it is the only page saying a contact is fine, the rating drops to Not Enough Data. A warning that rests on it alone stays, because caution is the safe side to err on, and the card says plainly how thin the support is. Orange calcite and water is one of those.
 
-**A source has to fit the stone.** When the only source does not match the stone or the use, we leave the rating out. Our only sunlight source for rainbow moonstone was about orthoclase moonstone ([GIA](https://www.gia.edu/moonstone-care-cleaning)), and rainbow moonstone is a labradorite. Our only salt source for clear quartz was a ritual page, not gem care advice ([Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/clear-quartz)). Both show Not Enough Data.
+**A source has to fit the stone.** When the only source does not match the stone or the use, we leave the rating out. Our only sunlight source for rainbow moonstone was about orthoclase moonstone, and rainbow moonstone is a labradorite. Our only salt source for clear quartz was a ritual page, not gem care advice. Both show Not Enough Data.
 
 **Dealer guides are labeled.** Some ratings come from shops that sell stones. Their links carry a small "dealer guide" tag, so you can weigh them yourself.
 
@@ -67,13 +67,13 @@ These rules decide what you see. They lean cautious on purpose, because a cautio
 
 ## Three Results Worth Knowing
 
-- **Selenite and water.** Brief Only. Gypsum, the mineral behind selenite, is water soluble, and the International Gem Society cleans it by hand with warm water only ([IGS](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/)). A quick wipe, then dry it.
-- **Amethyst and sunlight.** Brief Only. GIA says some amethyst color can fade with prolonged exposure to intense light ([GIA](https://www.gia.edu/amethyst-care-cleaning)). A morning on the sill is not the same as a month on it.
-- **Fluorite and a soak.** Avoid. Fluorite is slightly soluble in water, so it should never be submerged ([International Gem Society](https://www.gemsociety.org/article/fluorite-jewelry-gemstone-information/)).
+- **Selenite and water.** Brief Only. Gypsum, the mineral behind selenite, is water soluble, and it should be cleaned by hand with warm water only. A quick wipe, then dry it.
+- **Amethyst and sunlight.** Brief Only. Some amethyst color can fade with prolonged exposure to intense light. A morning on the sill is not the same as a month on it.
+- **Fluorite and a soak.** Avoid. Fluorite is slightly soluble in water, so it should never be submerged.
 
 ## What the Checker Does Not Cover
 
-**Water you drink.** The checker rates contact with water, not whether water a stone sat in is safe to swallow, and our data clears no stone for that. The International Gem Society advises crystal healers to avoid making potions with toxic gems ([IGS](https://www.gemsociety.org/article/gemstone-toxicity-table)). Our [full water safety table](/care/crystals-that-cant-go-in-water/) lists the stones to keep out of drinking water, and [our moon water guide](/rituals/moon-water/) keeps the stone beside the jar.
+**Water you drink.** The checker rates contact with water, not whether water a stone sat in is safe to swallow, and our data clears no stone for that. Crystal healers should avoid making potions with toxic gems. Our [full water safety table](/care/crystals-that-cant-go-in-water/) lists the stones to keep out of drinking water, and [our moon water guide](/rituals/moon-water/) keeps the stone beside the jar.
 
 **Dyed, coated or stabilized pieces.** Ratings describe the stone itself. A dye, a metal coating or a resin can change the answer, and a dyed stone should never go in water you drink. The [Label Decoder](/tools/crystal-label-decoder/) helps you work out what a tag really means.
 
@@ -95,4 +95,4 @@ Every card in the checker links the pages its rating comes from. The examples on
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

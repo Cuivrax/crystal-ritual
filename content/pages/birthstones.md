@@ -47,7 +47,7 @@ A birthstone chart pairs each month of the year with one or more gems. The moder
 | [November](/birthstones/november/) | Topaz, citrine | Topaz | Topaz, pearl |
 | [December](/birthstones/december/) | Tanzanite, turquoise, zircon | Turquoise, alternate lapis lazuli | Ruby, bloodstone |
 
-Sources for the chart. Modern list from the [American Gem Society](https://www.americangemsociety.org/birthstones/), read November 12, 2026. The 1912 list and the older column come from George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 315 and 319 to 320, where the older column is his summary of usage from the 15th to the 20th century.
+Sources for the chart. Modern list read November 12, 2026. The 1912 list and the older column come from George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 315 and 319 to 320, where the older column is his summary of usage from the 15th to the 20th century.
 
 ## Where Birthstone Lists Come From
 
@@ -61,9 +61,9 @@ In August 1912 the National Association of Jewelers met in Kansas City and adopt
 
 The trade kept adding stones anyway.
 
-- **1952.** The Jewelry Industry Council of America modified the list, adding alexandrite to June, citrine to November, pink tourmaline to October and zircon to December ([International Gem Society](https://www.gemsociety.org/article/history-of-birthstones/)).
-- **2002.** Tanzanite became a modern December birthstone ([Geology.com](https://geology.com/gemstones/tanzanite/)), joining turquoise and zircon ([International Gem Society](https://www.gemsociety.org/article/december-birthstone/)).
-- **July 2016.** The American Gem Trade Association and Jewelers of America named spinel a birthstone for August ([Geology.com](https://geology.com/gemstones/spinel/)).
+- **1952.** The Jewelry Industry Council of America modified the list, adding alexandrite to June, citrine to November, pink tourmaline to October and zircon to December.
+- **2002.** Tanzanite became a modern December birthstone, joining turquoise and zircon.
+- **July 2016.** The American Gem Trade Association and Jewelers of America named spinel a birthstone for August.
 
 The sources we checked do not list every change between 1912 and 1952.
 
@@ -73,7 +73,7 @@ The sources we checked do not list every change between 1912 and 1952.
 
 ## Why Some Months Have Several Birthstones
 
-GIA's birthstone exhibit notes that differing traditions are often cited, but says "the more significant reason is that some gemstones are too rare and expensive, and others just aren't as popular" ([GIA](https://my.gia.edu/gia-museum-exhibit-birthstones)). A second or third stone gives buyers another price and another look. June has pearl, moonstone and alexandrite, December has three blue stones, and January stays with garnet, which already comes in almost every color.
+GIA's birthstone exhibit notes that differing traditions are often cited, but says "the more significant reason is that some gemstones are too rare and expensive, and others just aren't as popular." A second or third stone gives buyers another price and another look. June has pearl, moonstone and alexandrite, December has three blue stones, and January stays with garnet, which already comes in almost every color.
 
 ## Birthstones vs Zodiac Stones
 
@@ -97,4 +97,4 @@ Start with the month, then pick from whichever list you like. All of them are re
 
 Last reviewed November 18, 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

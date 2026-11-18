@@ -78,25 +78,25 @@ Clear quartz, long called rock crystal, is the colorless and transparent form of
 
 ## What Clear Quartz Actually Is
 
-**The Stone.** Quartz is silicon dioxide, the most abundant and widely distributed mineral at Earth's surface, according to [Geology.com](https://geology.com/minerals/quartz.shtml). It forms at all temperatures, in igneous, metamorphic and sedimentary rocks alike, and it resists weathering so well that most beach sand is quartz. The [International Gem Society](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/) calls the colorless kind rock crystal. It is the same mineral as [amethyst](/stones/amethyst/), citrine and [rose quartz](/stones/rose-quartz/), minus the extras that color them, such as ferric iron in citrine or fibrous inclusions in rose quartz.
+**The Stone.** Quartz is silicon dioxide, the most abundant and widely distributed mineral at Earth's surface. It forms at all temperatures, in igneous, metamorphic and sedimentary rocks alike, and it resists weathering so well that most beach sand is quartz. The colorless kind is called rock crystal. It is the same mineral as [amethyst](/stones/amethyst/), citrine and [rose quartz](/stones/rose-quartz/), minus the extras that color them, such as ferric iron in citrine or fibrous inclusions in rose quartz.
 
-**Mineral Fact.** Crystalline quartz usually grows in pegmatites and veins from water solutions, slowly enough that many crystals reach great internal perfection (International Gem Society). It can grow enormous. The Smithsonian holds a flawless Burmese sphere 12.75 inches (32.4 cm) across that weighs 107 pounds (48.5 kg), which the IGS calls the largest fine crystal ball in the world. Classic localities include Hot Springs in Arkansas, Herkimer in New York, the Swiss Alps, Minas Gerais in Brazil, Japan and Madagascar.
+**Mineral Fact.** Crystalline quartz usually grows in pegmatites and veins from water solutions, slowly enough that many crystals reach great internal perfection. It can grow enormous. The Smithsonian holds a flawless Burmese sphere 12.75 inches (32.4 cm) across that weighs 107 pounds (48.5 kg), which the International Gem Society calls the largest fine crystal ball in the world. Classic localities include Hot Springs in Arkansas, Herkimer in New York, the Swiss Alps, Minas Gerais in Brazil, Japan and Madagascar.
 
 <!-- PHOTO 2, beside the sizes paragraph. photo pass to confirm Same candidates as the hero, nothing checked yet. A museum sphere photo would fit the Smithsonian sentence if one with a recorded license is found. -->
 
 ### Why Is My Clear Quartz Cloudy?
 
-Cloudy clear quartz is normal. Most natural clear quartz shows visible inclusions, and eye-clean pieces are hard to find, according to the dealer guide at [Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/clear-quartz). A stone that is white all through is milky quartz, clouded by myriad tiny cavities and bubbles filled with carbon dioxide or water (International Gem Society). Lab-grown quartz, by contrast, is always clean.
+Cloudy clear quartz is normal. Most natural clear quartz shows visible inclusions, and eye-clean pieces are hard to find. A stone that is white all through is milky quartz, clouded by myriad tiny cavities and bubbles filled with carbon dioxide or water. Lab-grown quartz, by contrast, is always clean.
 
 ### What Does Clear Quartz Actually Do?
 
-Its best-documented talent is keeping time. Quartz crystals vibrate at such precise frequencies that they run extremely accurate clocks and radio equipment, and billions of them now sit in watches, phones, computers and GPS receivers, most of them grown in labs ([Geology.com](https://geology.com/minerals/quartz.shtml)). Rock crystal is rarely used as a gem, but carvers prize it for spheres, beads, decorative objects and lamps (International Gem Society). Everything else said about what clear quartz does is belief, and the next two sections show where it comes from.
+Its best-documented talent is keeping time. Quartz crystals vibrate at such precise frequencies that they run extremely accurate clocks and radio equipment, and billions of them now sit in watches, phones, computers and GPS receivers, most of them grown in labs. Rock crystal is rarely used as a gem, but carvers prize it for spheres, beads, decorative objects and lamps. Everything else said about what clear quartz does is belief, and the next two sections show where it comes from.
 
 ## Where the Meaning Comes From
 
 **The Story.** Much of what people believe about clear quartz grew out of one old mistake, the idea that it was ice that never melted.
 
-- **Ancient Greece & Rome.** **Tradition.** The Greek word krystallos meant ice, says the International Gem Society, and the antique jewelry reference at [Lang Antiques](https://www.langantiques.com/university/rock-crystal/) traces the name rock crystal to the same word. The Roman writer Pliny the Elder took crystal for ice frozen hard by winter cold, writing that "crystal is only to be found in places where the winter snow freezes with the greatest intensity" (*Natural History*, Book 37, chapter 9, Bostock and Riley translation, [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D9)).
+- **Ancient Greece & Rome.** **Tradition.** The Greek word krystallos meant ice, and the name rock crystal comes from the same word. The Roman writer Pliny the Elder took crystal for ice frozen hard by winter cold, writing that "crystal is only to be found in places where the winter snow freezes with the greatest intensity" (*Natural History*, Book 37, chapter 9, Bostock and Riley translation).
 - **Early Christian era.** **Tradition.** St. Jerome, repeating Pliny, wrote that rock crystal was water frozen in dark, bitterly cold mountain caverns, so that "while a stone to the touch, it seems like water to the eye." For the Church it signified a pure faith (George Frederick Kunz, *The Curious Lore of Precious Stones*, 1913, page 100).
 - **5th century.** **Tradition.** A rock crystal sphere 1.5 inches (3.8 cm) across lay in the tomb of Childeric, father of Clovis, perhaps because crystal balls were thought to hold magic, Kunz suggests (1913, pages 219 to 220).
 - **16th century.** **Tradition.** In a colloquy by Erasmus, a speaker says rock crystal "preserved the form and coldness of the hailstone even if cast into the fire" (Kunz 1913, page 34).
@@ -125,7 +125,7 @@ A few sites go further and list headaches, fatigue or the immune system. Nothing
 
 ### One Point, One Task
 
-**Try This.** Keep a small quartz point next to your keyboard. Before you open email, write the day's most important task on a sticky note and set the point on it. When the task is done, move the point to the next note. One crystal guide describes the same habit, a point kept "as a reminder to think one thing through at a time" ([crystalgemstones.net](https://crystalgemstones.net/clear-quartz-meaning-and-spiritual-properties.html)).
+**Try This.** Keep a small quartz point next to your keyboard. Before you open email, write the day's most important task on a sticky note and set the point on it. When the task is done, move the point to the next note. One crystal guide describes the same habit, a point kept "as a reminder to think one thing through at a time."
 
 ### A Seven-Day Intention on the Nightstand
 
@@ -146,48 +146,48 @@ A few sites go further and list headaches, fatigue or the immune system. Nothing
 You can often spot glass at home, but telling natural quartz from lab-grown quartz takes a gem lab. Here is where clear quartz stands on the five labels we use for every stone.
 
 - **Natural, untreated.** A crystal as it grew, at most cut and polished.
-- **Natural, treated.** [Lang Antiques](https://www.langantiques.com/university/rock-crystal/) lists quench crackle, irradiation, heat, coating and backing, and dyeing among the treatments seen on rock crystal. Aura quartz is natural quartz with a thin metal coating ([Geology In](https://www.geologyin.com/2017/06/how-is-aura-rainbow-quartz-made.html)). GIA's journal *Gems & Gemology* described "phantom quartz" beads and spheres that were natural rock crystal with a fake phantom laser-engraved inside, and warned that the engraved cracks seem to weaken the stone ([GIA](https://gia.edu/gems-gemology/winter-2020-gemnews-phantom-quartz-imitation)).
-- **Lab-grown.** Quartz was among the first gems grown on a large scale, with major development during World War II to supply crystals for radios (International Gem Society). Lab quartz has the same chemistry as natural quartz, according to Gem Rock Auctions, but it is always clean.
-- **Imitation.** Glass, which is essentially silicon dioxide made mostly from quartz sand ([International Gem Society](https://www.gemsociety.org/article/glass)). The mix-up is old. Kunz suspected that the "rock-crystal" doors described in old Chinese texts were really glass (1913, pages 100 to 101).
-- **Trade name.** Herkimer diamond means doubly terminated quartz crystals from Herkimer County, New York, not diamond ([Geology.com](https://geology.com/articles/herkimer-diamonds.shtml)). Lemurian quartz is a trade name for quartz crystals, first from Brazil, that often show horizontal lines across their faces, says the UK dealer [Stone Mania](https://www.stonemania.co.uk/blog/lemurian-quartz-crystals). Lemurian vs clear quartz is the same mineral with a different story attached.
+- **Natural, treated.** Treatments seen on rock crystal include quench crackle, irradiation, heat, coating and backing, and dyeing. Aura quartz is natural quartz with a thin metal coating. Some "phantom quartz" beads and spheres are natural rock crystal with a fake phantom laser-engraved inside, and the engraved cracks seem to weaken the stone.
+- **Lab-grown.** Quartz was among the first gems grown on a large scale, with major development during World War II to supply crystals for radios. Lab quartz has the same chemistry as natural quartz, but it is always clean.
+- **Imitation.** Glass, which is essentially silicon dioxide made mostly from quartz sand. The mix-up is old. Kunz suspected that the "rock-crystal" doors described in old Chinese texts were really glass (1913, pages 100 to 101).
+- **Trade name.** Herkimer diamond means doubly terminated quartz crystals from Herkimer County, New York, not diamond. Lemurian quartz is a trade name for quartz crystals, first from Brazil, that often show horizontal lines across their faces, according to one UK dealer. Lemurian vs clear quartz is the same mineral with a different story attached.
 
 ### How Can You Tell If Your Quartz Crystal Is Real?
 
 Three checks you can do at home, with their limits.
 
-1. **Shine a light through it.** Glass usually contains inclusions not found in natural gems, such as swirl marks and round bubbles, says the International Gem Society. Most natural clear quartz shows visible inclusions, says Gem Rock Auctions, but a spotless stone proves nothing either way.
-2. **Look at the surface.** Molded glass can show mold marks, rounded facet edges and concave facets (IGS). This helps on cut pieces, much less on tumbled stones.
-3. **Hold it.** Glass tends to feel warmer to the touch than the gems it imitates (IGS). It is a hint that takes practice with a piece you know is quartz.
+1. **Shine a light through it.** Glass usually contains inclusions not found in natural gems, such as swirl marks and round bubbles. Most natural clear quartz shows visible inclusions, but a spotless stone proves nothing either way.
+2. **Look at the surface.** Molded glass can show mold marks, rounded facet edges and concave facets. This helps on cut pieces, much less on tumbled stones.
+3. **Hold it.** Glass tends to feel warmer to the touch than the gems it imitates. It is a hint that takes practice with a piece you know is quartz.
 
-Quartz at 7 is harder than most glass, which the IGS rates 5 to 6, but skip scratch tests on a piece you love. A gem lab uses a microscope and a polariscope, the tools GIA says make engraved fakes easy to identify.
+Quartz at 7 is harder than most glass, which rates 5 to 6, but skip scratch tests on a piece you love. A gem lab uses a microscope and a polariscope, the tools that make engraved fakes easy to identify.
 
 Ask the seller three questions. Is it natural quartz, lab-grown quartz or glass? Has it been coated, dyed, heated or engraved? Where was it mined?
 
 ## How to Care for Clear Quartz
 
-**Mineral Fact.** At 7 on the Mohs scale and chemically inert in contact with most substances, quartz needs little special care ([Geology.com](https://geology.com/minerals/quartz.shtml)).
+**Mineral Fact.** At 7 on the Mohs scale and chemically inert in contact with most substances, quartz needs little special care.
 
-- **Water. OK.** Wash it with soap, water and a soft brush, about once a month, says Gem Rock Auctions. Soaking is rated Brief only in the Care Checker, because only washing has been confirmed safe, not long soaks.
+- **Water. OK.** Wash it with soap, water and a soft brush. One dealer suggests about once a month. Soaking is rated Brief only in the Care Checker, because only washing has been confirmed safe, not long soaks.
 - **Sun. Unknown.** The Care Checker has no confirmed light rating for clear quartz yet. Keep spheres out of strong sun anyway, for the fire risk.
 - **Salt. Unknown.** Crystal guides contradict each other, one soaking the stone in salt water for days, another warning that salt can microcrack it and dull the polish. We would skip salt.
-- **Heat. OK, with a limit.** Quartz is very resistant to heat (Geology.com), but Lang Antiques notes it can fracture with extreme temperature changes. Never move it from a hot windowsill straight into cold water.
-- **Toxicity. OK to wear and handle.** The [International Gem Society](https://www.gemsociety.org/article/gemstone-care-guide/) rates wearing and handling intact quartz as negligible risk, but cutting and grinding dust as high risk for silicosis, so lapidary work needs a respirator, ventilation and wet methods.
+- **Heat. OK, with a limit.** Quartz is very resistant to heat, but it can fracture with extreme temperature changes. Never move it from a hot windowsill straight into cold water.
+- **Toxicity. OK to wear and handle.** Wearing and handling intact quartz is a negligible risk, but cutting and grinding dust is a high risk for silicosis, so lapidary work needs a respirator, ventilation and wet methods.
 - **Storage. OK.** Keep it apart from softer stones, such as selenite at Mohs 2, which it can scratch.
 
 A quick rinse suits clear quartz as a cleansing ritual. Drinking water is another matter, because our care data clears no stone for water you drink. Read [how to make moon water without ruining your stones](/rituals/moon-water/), check your exact piece, point, sphere or bracelet on elastic, in the [Care Checker](/tools/crystal-care-checker/), and see the full table of [which crystals can go in water](/care/crystals-that-cant-go-in-water/).
 
 ## Clear Quartz vs Look-Alikes
 
-- **Glass.** See the checks above. The International Gem Society defines the old rhinestone as clear rock quartz crystals backed with foil to imitate diamonds, so quartz has played the impostor too.
-- **Selenite.** Colorless, transparent gypsum, a different mineral that rates only 2 and dissolves in water ([International Gem Society](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/)). Quartz takes a rinse, selenite should not.
+- **Glass.** See the checks above. The old rhinestone was clear rock quartz crystals backed with foil to imitate diamonds, so quartz has played the impostor too.
+- **Selenite.** Colorless, transparent gypsum, a different mineral that rates only 2 and dissolves in water. Quartz takes a rinse, selenite should not.
 - **Lemurian and Herkimer quartz.** Same mineral, different trade names.
 - **Aura quartz.** Clear quartz underneath a thin metal coating.
 - **Milky quartz.** Same mineral, white because of tiny fluid-filled cavities.
-- **Diamond.** Gem Rock Auctions pitches clear quartz as an affordable diamond alternative, but it is a different mineral and far softer, 7 against diamond's 10 ([Geology.com](https://geology.com/minerals/diamond.shtml)).
+- **Diamond.** One dealer pitches clear quartz as an affordable diamond alternative, but it is a different mineral and far softer, 7 against diamond's 10.
 
 ## Price Guide
 
-Rock crystal is common and has little intrinsic value, except in very large, flawless pieces, according to the International Gem Society. Gem Rock Auctions quotes quartz crystal at $1 to $7 per carat and $4 to $10 per pound, figures it says come from a quick online search. Clarity and size drive the price, so a transparent piece without fractures costs more than a cloudy one of the same weight. At the top end sit museum spheres like Kunz's Madagascar ball.
+Rock crystal is common and has little intrinsic value, except in very large, flawless pieces. One dealer quotes quartz crystal at $1 to $7 per carat and $4 to $10 per pound, figures it says come from a quick online search. Clarity and size drive the price, so a transparent piece without fractures costs more than a cloudy one of the same weight. At the top end sit museum spheres like Kunz's Madagascar ball.
 
 In one listing we found, a tumbled clear quartz about 3/4 to 1 1/4 inches across was $7. Price from a US crystal shop listing in November 2026.
 
@@ -207,4 +207,4 @@ In one listing we found, a tumbled clear quartz about 3/4 to 1 1/4 inches across
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

@@ -44,7 +44,7 @@ We also use Geology.com, Minerals.net, university geology departments, museum pa
 
 ## How We Sort a Source
 
-- **Reference sources**, from museums, gem labs and institutes, universities, mineral handbooks and peer-reviewed journals, are stated plainly with a link.
+- **Reference sources**, from museums, gem labs and institutes, universities, mineral handbooks and peer-reviewed journals, back the facts we state plainly. We check each fact against them and list them at the end of each page and on this page. Quotes, old lore and studies keep their author in the text.
 - **Dealer guides** sell what they describe. A fact found only there is written as "according to dealers", or confirmed in a reference source first.
 - **Open online encyclopedias** are a pointer, never the source. We follow them to the sources they cite and check those.
 - **Mindat** may be linked as a reference for a mineral species. We never copy its text or its photos.
@@ -81,7 +81,7 @@ Studies are linked by DOI or PubMed ID, with their size and limits. Most researc
 
 ## Moon Times
 
-Moon phases are computed with the method of Jean Meeus in *Astronomical Algorithms* (1998), checked against US Naval Observatory times and rounded to the minute. Full moon names follow the Old Farmer's Almanac, and eclipse dates come from [NASA](https://eclipse.gsfc.nasa.gov/OH/OH2027.html). The results are on our [full moon calendar](/moon/full-moon-calendar/).
+Moon phases are computed with the method of Jean Meeus in *Astronomical Algorithms* (1998), checked against US Naval Observatory times and rounded to the minute. Full moon names follow the Old Farmer's Almanac, and eclipse dates come from NASA. The results are on our [full moon calendar](/moon/full-moon-calendar/).
 
 ## The Stone Lab
 
@@ -93,7 +93,7 @@ Every image has a recorded source page, author, license and retrieval date befor
 
 - **Smithsonian Open Access.** Specimen photos released as CC0. We credit them anyway, as "Smithsonian NMNH, CC0".
 - **Wikimedia Commons.** Only public domain, CC0, CC BY and CC BY-SA files, credited with the author and the license as each [license requires](https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia/licenses).
-- **USGS.** Images made by the USGS are in the public domain and credited "U.S. Geological Survey", following its [credit policy](https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits).
+- **USGS.** Images made by the USGS are in the public domain and credited "U.S. Geological Survey", following its credit policy.
 - **The Met.** [Open Access](https://metmuseum.github.io/) images marked public domain, for old amulets and jewels.
 - **Stock photo sites.** Unsplash, Pexels and Pixabay for everyday scenes only, a desk or a nightstand, never to show what a stone looks like.
 - **Illustrations.** Labeled "Illustration" and used for moods and rituals, never in place of a real stone.
@@ -108,4 +108,4 @@ Last reviewed November 2026.
 
 <!-- OWNER IMA data. The CNMNC site now posts a November 2026 list (checked 2026-11-18). Our data and the 6,226 count on this page and on /stones/ come from the July 2026 edition. Refresh stones_ima_match.csv and both counts when you update the data. -->
 
-*Iris Holloway is the pen name of the founder and editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the founder and editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

@@ -98,11 +98,11 @@ Moon water itself does not appear in either of Kunz's books on gem lore, and we 
 3. **Set it where moonlight reaches.** A windowsill is fine. So is a porch or a balcony.
 4. **Put your stone beside the jar, not in it.** Against the glass is as close as it needs to get.
 5. **Add an intention if you like.** Write one line on a card and tuck it under the jar. Label the lid with the date and the moon's name.
-6. **Bring it all in the next morning.** Some stones fade with long exposure to light, fluorite among them ([International Gem Society](https://www.gemsociety.org/article/fluorite-jewelry-gemstone-information/)), so do not leave your stone on a sunny sill all day.
+6. **Bring it all in the next morning.** Some stones fade with long exposure to light, fluorite among them, so do not leave your stone on a sunny sill all day.
 
 What to do with the water is up to you. Water a plant you care about, rinse your hands as a way to start the day, or wipe down your desk or altar.
 
-If you plan to drink it, borrow what the CDC advises for stored drinking water. Use a clean container with a lid that closes tightly, keep your hands off the water and the inside of the container, and keep it out of direct sunlight ([CDC](https://cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html)). That advice was written for emergency water supplies, and we found no public health guidance written for moon water itself, so the plant is the easy choice.
+If you plan to drink it, borrow what the CDC advises for stored drinking water. Use a clean container with a lid that closes tightly, keep your hands off the water and the inside of the container, and keep it out of direct sunlight. That advice was written for emergency water supplies, and we found no public health guidance written for moon water itself, so the plant is the easy choice.
 
 ## Can You Put Crystals in Moon Water?
 
@@ -112,48 +112,48 @@ Some sturdy stones can take a quick rinse, but no stone needs to be inside the j
 
 This is the indirect method. The stone sits next to the jar, or on its lid, and never touches the water. It still shares the night and the ritual, and nothing can dissolve into what you drink.
 
-Some guides go one step closer and put the stone in a small sealed glass inside the jar. We will list the stones that suit that version once a reference source clears them for a long soak and our care data clears them for toxicity. So far the Care Checker clears a long soak for only three stones, black agate, flower agate and grape agate, and only through one dealer's care table for agate in general ([GemSelect](https://gemselect.com/gem-info/cleaning.php)), which is not enough for anything you drink. So we list no stone for the sealed glass yet, and beside the jar is the version we suggest.
+Some guides go one step closer and put the stone in a small sealed glass inside the jar. We will list the stones that suit that version once a reference source clears them for a long soak and our care data clears them for toxicity. So far the Care Checker clears a long soak for only three stones, black agate, flower agate and grape agate, and only through one dealer's care table for agate in general, which is not enough for anything you drink. So we list no stone for the sealed glass yet, and beside the jar is the version we suggest.
 
 ### Never in Water You Drink
 
 Our house rule covers these stones, whatever any other guide says. Where we have a sourced reason, it is below.
 
-| Stone | Why it stays out | Source |
-|---|---|---|
-| Malachite | A copper mineral, rated Brief Only for toxicity in the Care Checker. Dust from grinding it is toxic to breathe, and it reacts with weak acids | [IGS](https://www.gemsociety.org/article/malachite-jewelry-and-gemstone-information/), [Geology.com](https://geology.com/minerals/malachite.shtml) |
-| Azurite | A copper mineral, rated Brief Only for toxicity in the Care Checker. Its cutting dust is toxic | [IGS](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/) |
-| Chrysocolla | A copper mineral, colored by copper, and soft and fragile in pure form | [IGS](https://www.gemsociety.org/article/chrysocolla-chalcedony-gem-information/), [Gemstones.com](https://www.gemstones.com/gemopedia/chrysocolla) |
-| Pyrite | An iron sulfide that oxidizes with air and moisture and produces acids as it does, which is why rock used for concrete must be free of it | [Geology.com](https://geology.com/minerals/pyrite.shtml) |
-| Galena | Lead sulfide, rated Avoid for toxicity in the Care Checker. Many schools have removed it from student mineral kits | [Geology.com](https://geology.com/minerals/galena.shtml) |
-| Cerussite, vanadinite | Lead minerals, rated Avoid for toxicity in the Care Checker. The International Gem Society says normal handling or display of a finished stone is no problem, and cutters need precautions | [IGS cerussite](https://www.gemsociety.org/article/cerussite-jewelry-and-gemstone-information/), [IGS vanadinite](https://www.gemsociety.org/article/vanadinite-jewelry-and-gemstone-information/) |
-| Realgar | Contains arsenic, and water or steam can release toxic fumes | [IGS](https://www.gemsociety.org/article/realgar-jewelry-and-gemstone-information/) |
-| Cinnabar | Contains mercury. The International Gem Society rates its toxicity risk High and says it can react dangerously if accidentally swallowed | [IGS cinnabar](https://www.gemsociety.org/article/cinnabar-jewelry-and-gemstone-information/), [IGS toxicity table](https://www.gemsociety.org/article/gemstone-toxicity-table) |
-| Orpiment | An arsenic sulfide, like realgar. Geology.com says both are toxic and contact with them should be avoided | [Geology.com](https://geology.com/minerals/realgar-orpiment.shtml) |
-| Stibnite | Named in our house rule for drinking water, like every stone in this table | |
-| Any dyed or stabilized stone | You cannot know what the dye or resin is. Porous stones such as lapis lazuli take and hold dye | [Geology.com](https://geology.com/gemstones/lapis-lazuli/) |
+| Stone | Why it stays out |
+|---|---|
+| Malachite | A copper mineral, rated Brief Only for toxicity in the Care Checker. Dust from grinding it is toxic to breathe, and it reacts with weak acids |
+| Azurite | A copper mineral, rated Brief Only for toxicity in the Care Checker. Its cutting dust is toxic |
+| Chrysocolla | A copper mineral, colored by copper, and soft and fragile in pure form |
+| Pyrite | An iron sulfide that oxidizes with air and moisture and produces acids as it does, which is why rock used for concrete must be free of it |
+| Galena | Lead sulfide, rated Avoid for toxicity in the Care Checker. Many schools have removed it from student mineral kits |
+| Cerussite, vanadinite | Lead minerals, rated Avoid for toxicity in the Care Checker. Normal handling or display of a finished stone is no problem, and cutters need precautions |
+| Realgar | Contains arsenic, and water or steam can release toxic fumes |
+| Cinnabar | Contains mercury. Its toxicity risk is rated High, and it can react dangerously if accidentally swallowed |
+| Orpiment | An arsenic sulfide, like realgar. Both are toxic, and contact with them should be avoided |
+| Stibnite | Named in our house rule for drinking water, like every stone in this table |
+| Any dyed or stabilized stone | You cannot know what the dye or resin is. Porous stones such as lapis lazuli take and hold dye |
 
-Wearing or displaying finished malachite or azurite is considered safe, according to the International Gem Society, which is why the Care Checker rates both Brief Only for toxicity and not Avoid. The rule here is only about water you drink. The [full water safety table](/care/crystals-that-cant-go-in-water/) lists more stones to keep out of drinking water.
+Wearing or displaying finished malachite or azurite is considered safe, which is why the Care Checker rates both Brief Only for toxicity and not Avoid. The rule here is only about water you drink. The [full water safety table](/care/crystals-that-cant-go-in-water/) lists more stones to keep out of drinking water.
 
 ### Stones That Water Damages
 
 These are not dangerous to you. Water is dangerous to them.
 
-| Stone | What water does | Source |
-|---|---|---|
-| Selenite | Selenite is a clear form of gypsum, which is water soluble. Clean it by hand with warm water only and keep contact brief | [IGS](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/) |
-| Fluorite | Slightly soluble in water, so never submerge it | [IGS](https://www.gemsociety.org/article/fluorite-jewelry-gemstone-information/) |
-| Celestite | Slightly soluble in water, per a dealer guide. The International Gem Society cleans it only with a soft brush, mild detergent and warm water | [IGS](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/), [Gemstones.com](https://www.gemstones.com/gemopedia/celestite) |
-| Angelite | A variety of anhydrite, which readily absorbs moisture and over time turns wholly or partly into gypsum, so keep it dry. Dealers also advise avoiding exposure to water | [IGS](https://www.gemsociety.org/article/anhydrite-jewelry-and-gemstone-information/), [Gemstones.com](https://www.gemstones.com/gemopedia/angelite) |
-| Opal | Sensitive to moisture. Hydrophane opal absorbs water | [IGS](https://www.gemsociety.org/article/opal-jewelry-and-gemstone-information/) |
-| Turquoise | Often porous and absorbs liquids | [Geology.com](https://geology.com/minerals/turquoise.shtml) |
-| Lapis lazuli | Slightly porous and often dyed | [Geology.com](https://geology.com/gemstones/lapis-lazuli/) |
-| Aqua aura and other coated quartz | The metal film is fragile. No soaking in liquid cleaners | [Skyjems](https://skyjems.ca/pages/encyclopedia-aquaaura-quartz) |
+| Stone | What water does |
+|---|---|
+| Selenite | Selenite is a clear form of gypsum, which is water soluble. Clean it by hand with warm water only and keep contact brief |
+| Fluorite | Slightly soluble in water, so never submerge it |
+| Celestite | Slightly soluble in water, per a dealer guide. Clean it only with a soft brush, mild detergent and warm water |
+| Angelite | A variety of anhydrite, which readily absorbs moisture and over time turns wholly or partly into gypsum, so keep it dry. Dealers also advise avoiding exposure to water |
+| Opal | Sensitive to moisture. Hydrophane opal absorbs water |
+| Turquoise | Often porous and absorbs liquids |
+| Lapis lazuli | Slightly porous and often dyed |
+| Aqua aura and other coated quartz | The metal film is fragile. No soaking in liquid cleaners |
 
 <!-- PHOTO 2, beside the "Stones That Water Damages" table. Wikimedia Commons, "File Gypsum (selenite) (GeoDIL number - 632).jpg", by Darla Sondrol. Page https://commons.wikimedia.org/wiki/File:Gypsum_(selenite)_(GeoDIL_number_-_632).jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Gypsum_%28selenite%29_%28GeoDIL_number_-_632%29.jpg/1280px-Gypsum_%28selenite%29_%28GeoDIL_number_-_632%29.jpg (tracking parameters removed). License CC0. Source credit https://geodil.dperkins.org/h/632.html . Credit line "Photo by Darla Sondrol, CC0, via Wikimedia Commons". visual_check empty, check before use. Alt text "Clear selenite crystals, a form of gypsum that dissolves in water". -->
 
 ### Stones Usually Fine to Rinse
 
-Reference guides clean amethyst, [rose quartz](/stones/rose-quartz/) and moonstone with warm water, mild detergent and a soft brush ([International Gem Society](https://www.gemsociety.org/article/rose-quartz/)). Quartz, the mineral behind amethyst, rose quartz and [clear quartz](/stones/clear-quartz/), is chemically inert with most substances ([Geology.com](https://geology.com/minerals/quartz.shtml)). That supports a quick rinse. It is not a green light for an overnight soak or for a drink. Our care data rates all four OK for a rinse and Brief Only for a long soak, because the sources describe washing, not soaking.
+Reference guides clean amethyst, [rose quartz](/stones/rose-quartz/) and moonstone with warm water, mild detergent and a soft brush. Quartz, the mineral behind amethyst, rose quartz and [clear quartz](/stones/clear-quartz/), is chemically inert with most substances. That supports a quick rinse. It is not a green light for an overnight soak or for a drink. Our care data rates all four OK for a rinse and Brief Only for a long soak, because the sources describe washing, not soaking.
 
 Not sure about your stone, or about a bracelet on elastic? Check it in the [Care Checker](/tools/crystal-care-checker/), or see the full table of [which crystals can go in water](/care/crystals-that-cant-go-in-water/).
 
@@ -186,7 +186,7 @@ Prefer a fresh start to a letting go? The [new moon ritual](/rituals/new-moon-ri
 | Wolf Moon | Friday, January 22, 2027, in the morning, so set the jar out the night of January 21 |
 | Snow Moon | Saturday, February 20, 2027, in the evening |
 
-The next new moon after this page went live falls on the evening of Tuesday, December 8, 2026. Phase times come from the US Naval Observatory and the traditional names from the Old Farmer's Almanac. For tonight's phase and the exact time where you live, open [Tonight's Moon](/moon/full-moon-calendar/).
+The next new moon after this page went live falls on the evening of Tuesday, December 8, 2026. For tonight's phase and the exact time where you live, open [Tonight's Moon](/moon/full-moon-calendar/).
 
 **Next Step.** Before your next full moon, run every stone you plan to use through the [Care Checker](/tools/crystal-care-checker/).
 
@@ -204,4 +204,4 @@ The next new moon after this page went live falls on the evening of Tuesday, Dec
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

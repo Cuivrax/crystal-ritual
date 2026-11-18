@@ -73,29 +73,29 @@ Red jasper is an opaque, brick-red form of jasper, a microcrystalline quartz col
 
 ## What Red Jasper Actually Is
 
-**The Stone.** Jasper is a gem name, not a separate mineral. [Geology.com](https://geology.com/rocks/flint-chert-jasper/) explains that flint, chert and jasper are all names for opaque microcrystalline quartz, and that "the same hand specimen might be called 'chert' by one person, 'flint' by another, and 'jasper' by a third." Jasper is the word people use for pieces good enough to cut into cabochons, spheres and tumbled stones. Geology.com's quick rule is simple. If a piece of chalcedony is opaque, it is jasper, and if it is translucent, it is agate.
+**The Stone.** Jasper is a gem name, not a separate mineral. Flint, chert and jasper are all names for opaque microcrystalline quartz, and as Geology.com puts it, "the same hand specimen might be called 'chert' by one person, 'flint' by another, and 'jasper' by a third." Jasper is the word people use for pieces good enough to cut into cabochons, spheres and tumbled stones. The quick rule is simple. If a piece of chalcedony is opaque, it is jasper, and if it is translucent, it is agate.
 
-The [International Gem Society](https://www.gemsociety.org/article/jasper-gem-information/) describes jasper as an opaque variety of cryptocrystalline quartz, made of very tiny quartz crystals colored by mineral impurities. Red jasper is the classic example. Iron oxides, often hematite, turn jasper red, according to the UK mineral dealer [Stone Mania](https://www.stonemania.co.uk/crystals/i-j/jasper-stone), which fits the IGS note that solid-colored jaspers are chalcedony stained by oxides of iron and other metals ([IGS quartz guide](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/)). Because jasper often carries other minerals, Stone Mania adds, some consider it a rock rather than a mineral.
+Jasper is an opaque variety of cryptocrystalline quartz, made of very tiny quartz crystals colored by mineral impurities. Red jasper is the classic example. Iron oxides, often hematite, turn jasper red, and solid-colored jaspers are chalcedony stained by oxides of iron and other metals. Because jasper often carries other minerals, some consider it a rock rather than a mineral.
 
-**Mineral Fact.** Cryptocrystalline quartz forms either as gel-like masses that slowly dry out and crystallize, or by silica settling out of slowly percolating groundwater over a long time (International Gem Society). Dealer references put jasper at 6.5 to 7 on the Mohs scale, close to quartz itself at 7 ([Geology.com](https://geology.com/minerals/quartz.shtml)). The IGS calls every type of jasper trouble free to care for and "hardy enough for all jewelry uses," and notes that jaspers are found all over the world.
+**Mineral Fact.** Cryptocrystalline quartz forms either as gel-like masses that slowly dry out and crystallize, or by silica settling out of slowly percolating groundwater over a long time. Jasper rates 6.5 to 7 on the Mohs scale, close to quartz itself at 7. Every type of jasper is trouble free to care for and hardy enough for all jewelry uses, and jaspers are found all over the world.
 
 ### Does Red Jasper Form Crystals?
 
-Red jasper never forms crystals you can see. Microcrystalline means its crystals are too small to see with the naked eye (Stone Mania), so a "red jasper crystal" in a shop is a tumbled stone, a tower or a palm stone. Jasper is usually cut as cabochons, sometimes carved and seldom faceted, and it also becomes decorative objects such as bookends (International Gem Society).
+Red jasper never forms crystals you can see. Microcrystalline means its crystals are too small to see with the naked eye, so a "red jasper crystal" in a shop is a tumbled stone, a tower or a palm stone. Jasper is usually cut as cabochons, sometimes carved and seldom faceted, and it also becomes decorative objects such as bookends.
 
 ### Why Is There Clear Quartz in My Red Jasper?
 
-Clear or white seams can be part of the stone. Brecciated jasper is jasper broken by earth movements and cemented back together, with agate filling the cracks, according to the dealer guide at [Gemstones.com](https://gemstones.com/gemopedia/jasper), and Stone Mania illustrates a red jasper veined with quartz from London's Natural History Museum. A clear patch inside a tumble does not by itself mean a fake.
+Clear or white seams can be part of the stone. Brecciated jasper is jasper broken by earth movements and cemented back together, with agate filling the cracks, and one red jasper from London's Natural History Museum is veined with quartz. A clear patch inside a tumble does not by itself mean a fake.
 
 ### Why "Jasper" on a Label Can Mislead
 
-**Trade Name.** "Jasper" is often used as a trade name for opaque, colored stones that are not true jaspers in the geological sense, says Stone Mania. Gemstones.com names leopardskin and rainforest jasper as rhyolite and kambaba jasper as a volcanic rock, and the antique jewelry reference at [Lang Antiques](https://www.langantiques.com/university/jasper-2/) notes that jasper variety names change with fashion. Red jasper is the good news here. Colored by hematite, it is a classic example of a true jasper (Stone Mania), sometimes also sold as Egyptian jasper (Gemstones.com).
+**Trade Name.** "Jasper" is often used as a trade name for opaque, colored stones that are not true jaspers in the geological sense. Leopardskin and rainforest jasper are rhyolite, kambaba jasper is a volcanic rock, and jasper variety names change with fashion. Red jasper is the good news here. Colored by hematite, it is a classic example of a true jasper, sometimes also sold as Egyptian jasper.
 
 ## Where the Meaning Comes From
 
 **The Story.** Red jasper's meanings have circled one idea for more than 3,000 years, the color of blood.
 
-- **The name.** **Tradition.** Dealer references trace jasper to the Greek iaspis, "spotted stone" (Stone Mania, Lang Antiques). A medieval popular etymology reported by Bartholomaeus Anglicus derived it from a little stone "in the head of an adder that hyght Aspis" (George Frederick Kunz, *The Curious Lore of Precious Stones*, 1913, page 91). Stone Mania notes that the iaspis of Theophrastus and Pliny is not believed to be today's jasper, and Kunz reports that the French scholar Abel Remusat, in 1820, saw jade in the green jasper of the Greeks and Romans (1913, pages 299 to 300). Much "ancient jasper lore" may not be about red jasper at all, and some of it belongs on our [jade](/stones/jade/) page.
+- **The name.** **Tradition.** Jasper comes from the Greek iaspis, "spotted stone." A medieval popular etymology reported by Bartholomaeus Anglicus derived it from a little stone "in the head of an adder that hyght Aspis" (George Frederick Kunz, *The Curious Lore of Precious Stones*, 1913, page 91). The iaspis of Theophrastus and Pliny is not believed to be today's jasper, and Kunz reports that the French scholar Abel Remusat, in 1820, saw jade in the green jasper of the Greeks and Romans (1913, pages 299 to 300). Much "ancient jasper lore" may not be about red jasper at all, and some of it belongs on our [jade](/stones/jade/) page.
 - **Ancient Egypt.** **Tradition.** The Egyptian word chenem covered red stones in general, red jasper, red feldspar and carnelian alike, and red jasper was used more freely than carnelian in early Egyptian work (Kunz 1913, pages 290 to 291). One of the most usual engraved amulets, the buckle or tie called thet, "was generally of red jasper, carnelian, or red porphyry." Kunz ties it to the blood of Isis, and it was placed on the mummy's neck (page 226).
 - **About 1500 BCE.** **Tradition.** Berlin Papyrus 3027, a record from about the fifteenth century BCE, directs beads of lapis lazuli, malachite and, probably, red jasper to be strung on a cord around a sick child's neck, while a formula calls on the illness to pass out through the beads (Kunz, *The Magic of Jewels and Charms*, 1915, pages 148 to 149).
 - **The breastplate.** **Tradition.** Kunz thought the odem, the first stone of the Hebrew high priest's breastplate, probably meant red jasper in Mosaic times and carnelian by the fifth century BCE (1913, pages 290 to 291).
@@ -112,11 +112,11 @@ You will read that Roman soldiers carried red jasper into battle, that it appear
 
 ## What People Use Red Jasper for Today
 
-**Modern Association.** In modern crystal guides, courage and confidence lead, followed by protection, motivation and grounding. On our [Crystals for Grounding](/crystals-for/grounding/) page red jasper is Widely Linked, and for confidence it is a Classic, our label for the strongest link in modern guides. Guides nickname it the Stone of Endurance. The wellness site [mindbodygreen](https://mindbodygreen.com/articles/red-jasper), quoting Heather Askinosie, co-founder of the crystal brand Energy Muse, says red jasper "is most known for helping people get things done" and gives its mantra as "I take action."
+**Modern Association.** In modern crystal guides, courage and confidence lead, followed by protection, motivation and grounding. On our [Crystals for Grounding](/crystals-for/grounding/) page red jasper is Widely Linked, and for confidence it is a Classic, our label for the strongest link in modern guides. Guides nickname it the Stone of Endurance, and one crystal brand co-founder says it is best known for helping people get things done, with the mantra *I take action*.
 
 The root chakra link is the most common, and a few guides add the sacral chakra. Zodiac signs vary, with Aries named most often and Scorpio next.
 
-The "why" is the color, and it is old. Red stones meant blood in ancient Egypt, in De Boot's Prague and in Bellucci's Italy, and modern guides turned blood into vitality and drive. mindbodygreen treats it as a stone for the morning rather than for sleep, and a Spanish guide keeps it out of the bedroom for anyone who sleeps badly.
+The "why" is the color, and it is old. Red stones meant blood in ancient Egypt, in De Boot's Prague and in Bellucci's Italy, and modern guides turned blood into vitality and drive. One wellness site treats it as a stone for the morning rather than for sleep, and a Spanish guide keeps it out of the bedroom for anyone who sleeps badly.
 
 Many sites go further, listing circulation, period pain, fertility, pregnancy and anemia. Nothing in the mineral or medical sources behind this page supports those claims, and Gemstones.com, which sells jasper, states that "there's no scientific evidence that jasper has any healing powers."
 
@@ -126,7 +126,7 @@ Many sites go further, listing circulation, period pain, fertility, pregnancy an
 
 ### The 24-Hour Task Stone
 
-**Try This.** In the morning, hold the stone and name one thing you have been putting off. Say out loud when you will do it, then do it within 24 hours. This is mindbodygreen's ritual, and it works as plain advice too, turning a vague guilt into one dated task.
+**Try This.** In the morning, hold the stone and name one thing you have been putting off. Say out loud when you will do it, then do it within 24 hours. This ritual comes from a wellness site, and it works as plain advice too, turning a vague guilt into one dated task.
 
 ### Before the Big Moment
 
@@ -136,13 +136,13 @@ Many sites go further, listing circulation, period pain, fertility, pregnancy an
 
 ### A Desk Anchor
 
-**Try This.** One crystal shop calls red jasper's weight in the hand "a tactile anchor for attention" ([crystals.com](https://www.crystals.com/blogs/news/red-jasper-crystal-meaning)). Keep a palm stone by your keyboard, and when frustration builds, hold it for three slow breaths before you go back to the task.
+**Try This.** One crystal shop calls red jasper's weight in the hand "a tactile anchor for attention." Keep a palm stone by your keyboard, and when frustration builds, hold it for three slow breaths before you go back to the task.
 
 ### A Gift for the Long Haul
 
 **Try This.** For a friend training for a race or starting a business, give a red jasper with a card that mentions the Stone of Endurance nickname and the red amulets of ancient Egypt, plus one line about the finish line you are cheering for.
 
-**Safety.** mindbodygreen says red jasper can tolerate long stretches in water and suggests adding it to a bath with salts. Our care data does not go that far. Soaking is rated Brief only and salt is Unknown in the Care Checker, so set the stone on the edge of the tub instead. One French guide even suggests drinking water a stone has soaked in, which we never recommend. See [which crystals can go in water](/care/crystals-that-cant-go-in-water/). Small tumbled stones are not toys, so keep them away from small children and pets.
+**Safety.** One wellness site says red jasper can tolerate long stretches in water and suggests adding it to a bath with salts. Our care data does not go that far. Soaking is rated Brief only and salt is Unknown in the Care Checker, so set the stone on the edge of the tub instead. One French guide even suggests drinking water a stone has soaked in, which we never recommend. See [which crystals can go in water](/care/crystals-that-cant-go-in-water/). Small tumbled stones are not toys, so keep them away from small children and pets.
 
 > **When a Stone Is Not Enough.** Red jasper is widely sold for period pain, fertility, pregnancy, circulation, anxiety and sleep. A stone can be a comfort to hold, but it is not care. If pain, bleeding, low mood, poor sleep or anything about a pregnancy worries you, talk to a doctor, a midwife or a therapist, and never delay care because of a stone. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
@@ -151,20 +151,20 @@ Many sites go further, listing circulation, period pain, fertility, pregnancy an
 Most red jasper doubts are mix-ups rather than fakes, and carnelian is one of the most common. Here is where red jasper stands on our five labels.
 
 - **Natural, untreated.** Red jasper as it formed, only cut and polished.
-- **Natural, treated.** For jasper in general, the [International Gem Society](https://www.gemsociety.org/article/jasper-gem-information/) lists dyeing as common and stable, something a gemologist can detect by appearance, spectrum or a Chelsea filter, and heating as a common, stable color change that cannot be detected. Lang Antiques also lists dyeing and heat treatment, and Gemstones.com says jasper is sometimes dyed, often to look like lapis lazuli. We found no reference source on how often red jasper itself is dyed or heated.
+- **Natural, treated.** For jasper in general, dyeing is common and stable, something a gemologist can detect by appearance, spectrum or a Chelsea filter, and heating is a common, stable color change that cannot be detected. Jasper is sometimes dyed, often to look like lapis lazuli. We found no reference source on how often red jasper itself is dyed or heated.
 - **Lab-grown.** We found no reference source describing lab-grown jasper.
-- **Imitation.** We found no reference source describing dyed howlite, or any other imitation, sold as red jasper. Howlite, a soft white mineral at 3 to 3.5, is frequently dyed blue to resemble turquoise, according to the [International Gem Society](https://www.gemsociety.org/article/howlite-jewelry-and-gemstone-information/).
+- **Imitation.** We found no reference source describing dyed howlite, or any other imitation, sold as red jasper. Howlite, a soft white mineral at 3 to 3.5, is frequently dyed blue to resemble turquoise.
 - **Trade name.** Rhyolite and other rocks sold under jasper names, as above.
 
 ### Red Jasper vs Carnelian
 
-Red jasper is opaque and carnelian is translucent, so a flashlight usually settles it. Both are chalcedony colored by iron oxide. Carnelian is a translucent to semi-opaque red, orange-red or brownish chalcedony (International Gem Society), while jasper is opaque by definition (Geology.com). Shine a phone flashlight against a thin edge. Carnelian usually glows orange through it, and red jasper stays dark. The limit is that thick or dark carnelian can be nearly opaque too. Carnelian is also commonly heat-treated, and the IGS advises assuming any piece has been enhanced unless you are told otherwise ([IGS carnelian guide](https://www.gemsociety.org/article/carnelian-gem-information/)). The Egyptians had one word for both, so the confusion is ancient. More on [carnelian](/stones/carnelian/).
+Red jasper is opaque and carnelian is translucent, so a flashlight usually settles it. Both are chalcedony colored by iron oxide. Carnelian is a translucent to semi-opaque red, orange-red or brownish chalcedony, while jasper is opaque by definition. Shine a phone flashlight against a thin edge. Carnelian usually glows orange through it, and red jasper stays dark. The limit is that thick or dark carnelian can be nearly opaque too. Carnelian is also commonly heat-treated, so assume any piece has been enhanced unless you are told otherwise. The Egyptians had one word for both, so the confusion is ancient. More on [carnelian](/stones/carnelian/).
 
 ### Three Checks at Home
 
 1. **The flashlight test.** As above. It separates jasper from carnelian and agate, not from every look-alike.
 2. **The label test.** If the tag says leopardskin, rainforest or another pattern name, ask what the rock really is, since several of those are rhyolite.
-3. **The price test.** Simple jasper is cheap. A premium price for a "rare" red jasper deserves a question, though the IGS notes that a few types, such as Imperial Jasper, do command premiums because they are relatively rare.
+3. **The price test.** Simple jasper is cheap. A premium price for a "rare" red jasper deserves a question, though a few types, such as Imperial Jasper, do command premiums because they are relatively rare.
 
 Three questions to ask the seller.
 
@@ -174,14 +174,14 @@ Three questions to ask the seller.
 
 ## How to Care for Red Jasper
 
-**Mineral Fact.** The International Gem Society calls jasper trouble free to care for and hardy enough for all jewelry uses. The care data below is for jasper in general.
+**Mineral Fact.** Jasper is trouble free to care for and hardy enough for all jewelry uses. The care data below is for jasper in general.
 
-- **Water. OK.** Lang Antiques lists warm soapy water as safe. Soaking is rated Brief only in the Care Checker, because only washing has been confirmed safe, not long soaks.
-- **Sun. OK.** Lang Antiques lists no light sensitivity for jasper. Crystal guides disagree here, but they give no source for fading.
-- **Heat. OK unless dyed.** Normal care applies unless the piece is dyed, in which case avoid heat, harsh chemicals and ultrasonic cleaners (Gemstones.com). Lang Antiques adds that heat may change jasper's color, so keep any piece away from strong heat.
-- **Chemicals. OK, with minimal contact.** Lang Antiques says jasper is easily attacked by chemicals, so skip harsh cleaners.
+- **Water. OK.** Warm soapy water is safe. Soaking is rated Brief only in the Care Checker, because only washing has been confirmed safe, not long soaks.
+- **Sun. OK.** The jewelry reference behind our rating lists no light sensitivity for jasper. Crystal guides disagree here, but they give no source for fading.
+- **Heat. OK unless dyed.** Normal care applies unless the piece is dyed, in which case avoid heat, harsh chemicals and ultrasonic cleaners. Heat may also change jasper's color, so keep any piece away from strong heat.
+- **Chemicals. OK, with minimal contact.** Jasper is easily attacked by chemicals, so skip harsh cleaners.
 - **Salt. Unknown.** The Care Checker has no confirmed salt rating for jasper yet.
-- **Toxicity. OK to wear and handle.** The [International Gem Society](https://www.gemsociety.org/article/gemstone-care-guide/) rates jasper's risk as low, the hazard being silicosis from cutting and polishing dust, not wearing or handling.
+- **Toxicity. OK to wear and handle.** Jasper's risk is low, the hazard being silicosis from cutting and polishing dust, not wearing or handling.
 - **Storage. Unknown.** Jasper is durable, but the Care Checker has no confirmed storage rating for it yet.
 
 Check your exact piece, including dyed beads or a bracelet on elastic, in the [Care Checker](/tools/crystal-care-checker/).
@@ -189,14 +189,14 @@ Check your exact piece, including dyed beads or a bracelet on elastic, in the [C
 ## Red Jasper vs Look-Alikes
 
 - **Carnelian.** Translucent where red jasper is opaque (see above).
-- **Brecciated jasper.** Jasper broken and re-cemented, with agate in the cracks (Gemstones.com).
-- **Mookaite.** Named after Mooka Creek in Western Australia, and listed by Stone Mania among stones sold as jasper that are not true jaspers. The IGS says all mookaite comes from Australia.
-- **Bloodstone.** Dark green chalcedony with red spots of iron oxide (International Gem Society), and a March birthstone on the [American Gem Society](https://www.americangemsociety.org/birthstones/) list.
-- **Poppy jasper.** Orbicular jasper named for red rings that look like poppies, though Gemstones.com notes that some flower jaspers are actually rhyolite.
+- **Brecciated jasper.** Jasper broken and re-cemented, with agate in the cracks.
+- **Mookaite.** Named after Mooka Creek in Western Australia, and listed by one UK dealer among stones sold as jasper that are not true jaspers. All mookaite comes from Australia.
+- **Bloodstone.** Dark green chalcedony with red spots of iron oxide, and a March birthstone on the American Gem Society list.
+- **Poppy jasper.** Orbicular jasper named for red rings that look like poppies, though some flower jaspers are actually rhyolite.
 
 ## Price Guide
 
-Jaspers in general are very common, so most of a piece's value lies in the saturation of its color, the beauty of its pattern and the skill of the cutting, according to the International Gem Society. In rock shops, simple commercial pieces might cost $5 or less, and fine material cut in designer forms generally runs $2 to $5 per carat. The IGS gives no date for these figures, so treat them as rough guides.
+Jaspers in general are very common, so most of a piece's value lies in the saturation of its color, the beauty of its pattern and the skill of the cutting. In rock shops, simple commercial pieces might cost $5 or less, and fine material cut in designer forms generally runs $2 to $5 per carat. These figures carry no date, so treat them as rough guides.
 
 In one listing we found, a tumbled red jasper about 1 inch across was $3. Price from a US crystal shop listing in November 2026.
 
@@ -214,4 +214,4 @@ In one listing we found, a tumbled red jasper about 1 inch across was $3. Price 
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

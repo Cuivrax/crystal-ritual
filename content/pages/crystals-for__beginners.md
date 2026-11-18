@@ -81,9 +81,9 @@ The best crystals for a beginner's collection are clear quartz, amethyst, rose q
 
 ### They Are All Quartz, More or Less
 
-**Mineral Fact.** Clear quartz, amethyst and rose quartz are color varieties of the mineral quartz. Agate and jasper are made of quartz crystals too small to see ([Geology.com](https://geology.com/gemstones/agate/), [International Gem Society](https://www.gemsociety.org/article/jasper-gem-information/)). Tiger's eye is quartz grown around mineral fibers, and aventurine is mostly quartz with glittering flakes of mica. That family resemblance is the whole trick. Quartz rates 7 on the Mohs scale and is chemically inert with most substances ([Geology.com](https://geology.com/minerals/quartz.shtml)). A first collection made of quartz forgives a lot of everyday handling.
+**Mineral Fact.** Clear quartz, amethyst and rose quartz are color varieties of the mineral quartz. Agate and jasper are made of quartz crystals too small to see. Tiger's eye is quartz grown around mineral fibers, and aventurine is mostly quartz with glittering flakes of mica. That family resemblance is the whole trick. Quartz rates 7 on the Mohs scale and is chemically inert with most substances. A first collection made of quartz forgives a lot of everyday handling.
 
-The other thing these seven share is price. Rose quartz is abundant and usually inexpensive ([Geology.com](https://geology.com/gemstones/rose-quartz/)), agate is generally inexpensive ([IGS](https://www.gemsociety.org/article/agate-gem-information/)), and natural amethyst is cheap enough that there is little reason to fake it ([IGS](https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/)). Cheap and sturdy is exactly what you want while you learn what you like.
+The other thing these seven share is price. Rose quartz is abundant and usually inexpensive, agate is generally inexpensive, and natural amethyst is cheap enough that there is little reason to fake it. Cheap and sturdy is exactly what you want while you learn what you like.
 
 ### People Have Collected These for a Very Long Time
 
@@ -95,7 +95,7 @@ The other thing these seven share is price. Rose quartz is abundant and usually 
 
 ### Best Crystals for Beginner Witches
 
-The same seven work as a first set for a new witchcraft practice, for the same practical reasons. They are cheap to replace, they survive handling, and most of them tolerate a quick rinse. Clear quartz is the usual all-purpose stone in modern guides, and some dealers nickname it the "universal crystal" ([Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/clear-quartz)). Add stones for specific workings later, once you know what you actually reach for.
+The same seven work as a first set for a new witchcraft practice, for the same practical reasons. They are cheap to replace, they survive handling, and most of them tolerate a quick rinse. Clear quartz is the usual all-purpose stone in modern guides, and some dealers nickname it the "universal crystal". Add stones for specific workings later, once you know what you actually reach for.
 
 ### How to Use Chakra Stones for Beginners
 
@@ -122,49 +122,49 @@ Chakra sets pair one stone with each of seven colors, from red at the base of th
 
 ### Clear Quartz
 
-**Mineral Fact.** Colorless quartz, long called rock crystal. It rates 7, is very resistant to heat and is chemically inert with most substances ([Geology.com](https://geology.com/minerals/quartz.shtml)). A dealer guide calls it abundant and affordable and says most natural pieces show inclusions ([Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/clear-quartz)). Lab-grown quartz is common and always clean inside, says the [International Gem Society](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/). **Modern Association.** Classic for focus and protection, and the all-purpose stone of modern guides. More on [clear quartz](/stones/clear-quartz/).
+**Mineral Fact.** Colorless quartz, long called rock crystal. It rates 7, is very resistant to heat and is chemically inert with most substances. A dealer guide calls it abundant and affordable and says most natural pieces show inclusions. Lab-grown quartz is common and always clean inside. **Modern Association.** Classic for focus and protection, and the all-purpose stone of modern guides. More on [clear quartz](/stones/clear-quartz/).
 
 ### Amethyst
 
-**Mineral Fact.** Purple quartz, rating 7. GIA says some amethyst color can fade with long exposure to intense light and that sudden temperature changes can fracture it ([GIA](https://www.gia.edu/amethyst-care-cleaning)), so a shelf beats a sunny sill. **Tradition.** The Greek name means "not drunk" ([GIA](https://www.gia.edu/amethyst/gem-overview)). **Modern Association.** Classic for sleep, protection and focus, which makes it the most versatile first stone here. More on [amethyst](/stones/amethyst/).
+**Mineral Fact.** Purple quartz, rating 7. Some amethyst color can fade with long exposure to intense light, and sudden temperature changes can fracture it, so a shelf beats a sunny sill. **Tradition.** The Greek name means "not drunk". **Modern Association.** Classic for sleep, protection and focus, which makes it the most versatile first stone here. More on [amethyst](/stones/amethyst/).
 
 ### Rose Quartz
 
-**Mineral Fact.** Pink quartz with a hardness of 7 and no cleavage, durable enough for any jewelry and one of the most popular tumbled stones ([Geology.com](https://geology.com/gemstones/rose-quartz/)). The International Gem Society says it usually gets no treatments, while [GIA](https://www.gia.edu/rose-quartz-care-cleaning) notes it is occasionally irradiated to deepen the color. Ordinary rose quartz lacks the light sensitivity of rarer transparent "pink quartz", which fades ([IGS](https://www.gemsociety.org/article/rose-quartz/)). Clean it with warm soapy water and skip ultrasonic and steam cleaners ([GIA](https://www.gia.edu/rose-quartz-care-cleaning)). **Modern Association.** Classic for love. More on [rose quartz](/stones/rose-quartz/).
+**Mineral Fact.** Pink quartz with a hardness of 7 and no cleavage, durable enough for any jewelry and one of the most popular tumbled stones. It usually gets no treatments, though it is occasionally irradiated to deepen the color. Ordinary rose quartz lacks the light sensitivity of rarer transparent "pink quartz", which fades. Clean it with warm soapy water and skip ultrasonic and steam cleaners. **Modern Association.** Classic for love. More on [rose quartz](/stones/rose-quartz/).
 
 ### Agate
 
-**Mineral Fact.** Banded chalcedony, a form of quartz, rating 6.5 to 7 ([Geology.com](https://geology.com/gemstones/agate/)). The International Gem Society calls it the most popular rough for tumbled stones, generally inexpensive, durable and tough enough for most jewelry. The honest note is color. Most spectacularly colored agates on the market are dyed ([Geology.com](https://geology.com/gemstones/agate/)), a stable and old practice that a seller should still disclose. Our care data has no water rating for agate yet. **Modern Association.** Classic for protection and Widely Linked to grounding. More on [agate](/stones/agate/).
+**Mineral Fact.** Banded chalcedony, a form of quartz, rating 6.5 to 7. It is the most popular rough for tumbled stones, generally inexpensive, durable and tough enough for most jewelry. The honest note is color. Most spectacularly colored agates on the market are dyed, a stable and old practice that a seller should still disclose. Our care data has no water rating for agate yet. **Modern Association.** Classic for protection and Widely Linked to grounding. More on [agate](/stones/agate/).
 
 ### Red Jasper
 
-**Mineral Fact.** Opaque quartz made of tiny crystals and colored by mineral impurities. The International Gem Society says all jaspers are trouble-free to care for and hardy enough for all jewelry uses, and that simple commercial pieces might be had in rock shops for $5 or less, an undated figure ([IGS](https://www.gemsociety.org/article/jasper-gem-information/)). A dealer guide gives its hardness as about 6.5 to 7 and warns that many stones called jasper in the trade are actually rhyolite or other rocks ([Gemstones.com](https://gemstones.com/gemopedia/jasper)). **Modern Association.** Classic for confidence and Widely Linked to grounding. More on [red jasper](/stones/red-jasper/).
+**Mineral Fact.** Opaque quartz made of tiny crystals and colored by mineral impurities. All jaspers are trouble-free to care for and hardy enough for all jewelry uses, and the International Gem Society says simple commercial pieces might be had in rock shops for $5 or less, an undated figure. A dealer guide gives its hardness as about 6.5 to 7 and warns that many stones called jasper in the trade are actually rhyolite or other rocks. **Modern Association.** Classic for confidence and Widely Linked to grounding. More on [red jasper](/stones/red-jasper/).
 
 ### Tiger's Eye
 
-**Mineral Fact.** Quartz grown around fibers of crocidolite, stained golden brown by iron ([IGS](https://www.gemsociety.org/article/tigers-eye-gem-information/)). It rates 6.5 to 7 and is not hazardous to wear or handle, according to Deposits Magazine, which also says it was once rare and expensive until a large find in Griqualand West, South Africa, brought prices down and made it an affordable stone ([Deposits Magazine](https://depositsmag.com/2023/04/29/the-how-and-why-of-tigers-eye/)). Our care data still has gaps for water and sun, so check the Care Checker before washing it. **Modern Association.** Golden tiger's eye is Classic for focus and confidence, tiger's eye in general is Widely Linked to both, and it is the natural pocket stone of the set. More on [tiger's eye](/stones/tigers-eye/).
+**Mineral Fact.** Quartz grown around fibers of crocidolite, stained golden brown by iron. It rates 6.5 to 7 and is not hazardous to wear or handle. It was once rare and expensive until a large find in Griqualand West, South Africa, brought prices down and made it an affordable stone. Our care data still has gaps for water and sun, so check the Care Checker before washing it. **Modern Association.** Golden tiger's eye is Classic for focus and confidence, tiger's eye in general is Widely Linked to both, and it is the natural pocket stone of the set. More on [tiger's eye](/stones/tigers-eye/).
 
 ### Green Aventurine
 
-**Mineral Fact.** Mostly quartz, rating 6.5 to 7, with its green from fuchsite, a chromium-rich mica ([Geology.com](https://geology.com/gemstones/aventurine/)). Tiny pits on a tumbled piece are normal, since coarse mica flakes can pluck out during polishing. The most common imitation is goldstone, a man-made glass with metal flecks, and some dyed quartz is sold as aventurine, so be wary of outrageous colors (same source). A dealer guide cleans it with warm soapy water and keeps it from extreme heat and harsh chemicals ([GemSelect](https://www.gemselect.com/gem-info/aventurine/aventurine-info.php)). **Modern Association.** Classic for calm, love and money. More on [green aventurine](/stones/green-aventurine/).
+**Mineral Fact.** Mostly quartz, rating 6.5 to 7, with its green from fuchsite, a chromium-rich mica. Tiny pits on a tumbled piece are normal, since coarse mica flakes can pluck out during polishing. The most common imitation is goldstone, a man-made glass with metal flecks, and some dyed quartz is sold as aventurine, so be wary of outrageous colors. A dealer guide cleans it with warm soapy water and keeps it from extreme heat and harsh chemicals. **Modern Association.** Classic for calm, love and money. More on [green aventurine](/stones/green-aventurine/).
 
 ## What to Skip at First
 
 None of these are bad stones. They just punish beginner mistakes, cost more than they should, or are often not what the label says.
 
-| Stone | The Catch | Source |
-|---|---|---|
-| Selenite | A form of gypsum, which is water soluble, scratches easily and is best kept for display | [IGS](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/) |
-| Fluorite | Hardness 4, slightly soluble in water, and some fade in light | [IGS](https://www.gemsociety.org/article/fluorite-jewelry-gemstone-information/) |
-| Opal | Sensitive to moisture, and chips and scratches more easily than most gems | [IGS](https://www.gemsociety.org/article/opal-jewelry-and-gemstone-information/) |
-| Turquoise | Porous, soaks up liquids that can damage or recolor it, keep from bright light and heat | [Geology.com](https://geology.com/minerals/turquoise.shtml) |
-| Malachite & azurite | Copper minerals with toxic cutting dust, soft and brittle, never in water you drink | [IGS](https://www.gemsociety.org/article/malachite-jewelry-and-gemstone-information/), [IGS](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/) |
-| Pyrite | Very brittle and heat sensitive | [IGS](https://www.gemsociety.org/article/pyrite-jewelry-and-gemstone-information/) |
-| Hematite | Brittle, and "magnetic hematite" contains no hematite at all | [IGS](https://www.gemsociety.org/article/hematite-jewelry-and-gemstone-information/) |
-| Aura quartz | A metal film only nanometers thick, with no real resistance to wear | [Skyjems](https://skyjems.ca/pages/encyclopedia-aquaaura-quartz), a dealer |
-| Moldavite | Much of what is sold online is green man-made glass | [Geology.com](https://geology.com/gemstones/moldavite/) |
+| Stone | The Catch |
+|---|---|
+| Selenite | A form of gypsum, which is water soluble, scratches easily and is best kept for display |
+| Fluorite | Hardness 4, slightly soluble in water, and some fade in light |
+| Opal | Sensitive to moisture, and chips and scratches more easily than most gems |
+| Turquoise | Porous, soaks up liquids that can damage or recolor it, keep from bright light and heat |
+| Malachite & azurite | Copper minerals with toxic cutting dust, soft and brittle, never in water you drink |
+| Pyrite | Very brittle and heat sensitive |
+| Hematite | Brittle, and "magnetic hematite" contains no hematite at all |
+| Aura quartz | A metal film only nanometers thick, with no real resistance to wear |
+| Moldavite | Much of what is sold online is green man-made glass |
 
-Finished malachite and azurite are fine to hold and display, the International Gem Society says. The risk is dust and drinking water. If you already own a moldavite, our [moldavite page](/stones/moldavite/) covers the checks that help and the ones that do not.
+Finished malachite and azurite are fine to hold and display. The risk is dust and drinking water. If you already own a moldavite, our [moldavite page](/stones/moldavite/) covers the checks that help and the ones that do not.
 
 ## Buying & Caring for a First Collection
 
@@ -172,7 +172,7 @@ Finished malachite and azurite are fine to hold and display, the International G
 
 One listing we found priced a tumbled rose quartz about 3/4 inch wide at $1, another a tumbled red jasper about an inch wide at $3, and a third a tumbled clear quartz of 3/4 inch to 1 1/4 inches at $7. Those are single listings, not typical ranges. Prices from listings at US crystal shops in November 2026.
 
-Past a small tumbled piece, the price follows the work and the look more than the stone. The International Gem Society says agate value is generally modest, with labor and artistry counting for more than the raw material, and larger agates with fine, landscape-like patterns or from prized locations costing more ([IGS](https://www.gemsociety.org/article/agate-gem-information/)). For jasper it ties most of the value to the saturation of the color, the beauty of the pattern and the artistry of the cutting ([IGS](https://www.gemsociety.org/article/jasper-gem-information/)), and for amethyst it says value depends almost entirely on color ([IGS](https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/)).
+Past a small tumbled piece, the price follows the work and the look more than the stone. Agate value is generally modest, with labor and artistry counting for more than the raw material, and larger agates with fine, landscape-like patterns or from prized locations costing more. Jasper owes most of its value to the saturation of the color, the beauty of the pattern and the artistry of the cutting, and amethyst value depends almost entirely on color.
 
 Three questions to ask before you pay, in a shop or online.
 
@@ -218,4 +218,4 @@ Salt is unrated for all seven, so leave the salt bowl out of your cleansing rout
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

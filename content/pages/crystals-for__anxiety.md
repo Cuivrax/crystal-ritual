@@ -83,7 +83,7 @@ We found no study showing a crystal easing anxiety better than a fake stone, and
 
 **What Research Says.** In a 2025 randomized controlled study published in *CNS Spectrums*, 138 adults from the general population, 70 who believed in crystal healing and 68 who did not, used either rose quartz or a visually matched glass imitation over a 14-day protocol. Anxiety, measured on the Beck Anxiety Inventory and a Spanish version of the Kuwait University Anxiety Scale, fell only among the believers, whether their stone was real or glass, and the real rose quartz did no better than the fake ([Escolà-Gascón and colleagues, 2025](https://doi.org/10.1017/S1092852925100515)). It is one trial, in people whose anxiety was low to begin with, belief was measured rather than assigned, and the scores were self-reported, so it is not the last word, but it is the cleanest test we have. If you own [rose quartz](/stones/rose-quartz/), that does not make it worthless. It may point to where the calm came from.
 
-That still leaves room for the habit. **What Research Says.** Breathing, unlike stones, has been tested directly. In a small remote randomized study, 108 adults spent 5 minutes a day for a month on one of three breathing exercises or on mindfulness meditation, and the breathing groups, especially cyclic sighing with its long, slow exhale, gained more in mood and slowed their breathing rate more than the meditation group ([Balban and colleagues, 2023](https://doi.org/10.1016/j.xcrm.2022.100895)). The authors call it exploratory, people knew which exercise they were doing, mood was self-reported, and no stones were involved. And holding onto something tightly is one of the grounding techniques the Cleveland Clinic lists for anxious moments, with a pen or the edge of a desk as examples ([Cleveland Clinic](https://health.clevelandclinic.org/grounding-techniques)).
+That still leaves room for the habit. **What Research Says.** Breathing, unlike stones, has been tested directly. In a small remote randomized study, 108 adults spent 5 minutes a day for a month on one of three breathing exercises or on mindfulness meditation, and the breathing groups, especially cyclic sighing with its long, slow exhale, gained more in mood and slowed their breathing rate more than the meditation group ([Balban and colleagues, 2023](https://doi.org/10.1016/j.xcrm.2022.100895)). The authors call it exploratory, people knew which exercise they were doing, mood was self-reported, and no stones were involved. And holding onto something tightly is one of the grounding techniques the Cleveland Clinic lists for anxious moments, with a pen or the edge of a desk as examples.
 
 Worry stones, smooth stones with a shallow dip for the thumb, are made for exactly that kind of touch. We have not found a published study on worry stones themselves, so treat them as a personal practice that borrows from those findings.
 
@@ -93,7 +93,7 @@ Worry stones, smooth stones with a shallow dip for the thumb, are made for exact
 
 **Modern Association.** The rest follows color and feel. Soft blues such as celestite and azurite read as sky and water. Pale howlite and pink strawberry quartz read as gentle. Dark, plain stones like black agate and smoky quartz read as steady, the quality guides call grounding. And a smooth tumbled stone simply feels good under a thumb, which may matter more than its color.
 
-**Overthinking.** Guides that pair stones with overthinking usually reach for azurite or green aventurine. Tiny Rituals says azurite is "ever ready to tie up all those dangling threads of anxiety, worry, and scattered thoughts" ([Tiny Rituals](https://tinyrituals.co/blogs/tiny-rituals/azurite-meaning-healing-properties-everyday-uses)), and Crystals.com credits green aventurine with a "calming frequency" that eases overthinking ([Crystals.com](https://www.crystals.com/blogs/news/green-aventurine-meaning-properties)). Both are beliefs. The routine below does not depend on either.
+**Overthinking.** Guides that pair stones with overthinking usually reach for azurite or green aventurine. One seller describes azurite as always ready to tie up the loose threads of anxiety, worry and scattered thoughts, and another credits green aventurine with a calming frequency that eases overthinking. Both are beliefs. The routine below does not depend on either.
 
 ## A Two-Minute Grounding Routine with a Stone
 
@@ -104,7 +104,7 @@ Worry stones, smooth stones with a shallow dip for the thumb, are made for exact
 **Steps.**
 
 1. **15 seconds.** Hold the stone and rest your thumb on its smoothest side.
-2. **30 seconds.** Breathe out slowly, a little longer than you breathed in. "Slow, deep, long breaths can help you maintain a sense of calm," as a coping guide from the University of Rochester Medical Center puts it ([URMC](https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety)).
+2. **30 seconds.** Breathe out slowly, a little longer than you breathed in. "Slow, deep, long breaths can help you maintain a sense of calm," as a [coping guide from the University of Rochester Medical Center](https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety) puts it.
 3. **30 seconds.** Notice three things about the stone by touch alone. Its weight, its temperature, the one spot that feels different.
 4. **30 seconds.** Say the worry in one plain sentence, out loud or on paper. "I am afraid the meeting will go badly" is enough.
 5. **15 seconds.** Put the stone down somewhere specific, a small dish or the corner of your desk. Setting it down ends the ritual.
@@ -119,51 +119,51 @@ Worry stones, smooth stones with a shallow dip for the thumb, are made for exact
 
 ### 1. Black Agate
 
-**Classic.** Black chalcedony is rare in nature, so most [black agate](/stones/black-agate/) is chalcedony dyed black, usually sold as "black onyx" ([JCK](https://www.jckonline.com/magazine-article/black-chalcedony/)). Its calm meaning is modern, and a Japanese jewelry buyer's guide says onyx quiets anxiety and anger and helps you regain cool judgment ([Nanboya](https://nanboya.com/jewelry-kaitori/post/onyx/)). A plain black tumbled stone is the least showy pocket stone there is, easy to carry into any meeting.
+**Classic.** Black chalcedony is rare in nature, so most [black agate](/stones/black-agate/) is chalcedony dyed black, usually sold as "black onyx". Its calm meaning is modern, and a Japanese jewelry buyer's guide says onyx quiets anxiety and anger and helps you regain cool judgment. A plain black tumbled stone is the least showy pocket stone there is, easy to carry into any meeting.
 
-**Care.** Stones colored with organic dyes can fade in direct sunlight, black onyx is heat sensitive and polished pieces scratch fairly easily ([JCK](https://www.jckonline.com/magazine-article/black-chalcedony/)). A soak, rinse and soft brush are fine for agate in general ([GemSelect](https://gemselect.com/gem-info/cleaning.php)).
+**Care.** Stones colored with organic dyes can fade in direct sunlight, black onyx is heat sensitive and polished pieces scratch fairly easily. A soak, rinse and soft brush are fine for agate in general.
 
 ### 2. Smoky Quartz
 
-**Classic.** [Smoky quartz](/stones/smoky-quartz/) is quartz turned brown by natural radiation acting on traces of aluminum ([Geology.com](https://geology.com/gemstones/smoky-quartz/)). In 12th-century China, flat panes of it served as sunglasses, and a few were worn by judges in court to hide their expressions, Geology.com notes, a fitting past for a stone now sold for composure. One German shop calls it "the stone of grounding, calm, and letting go" ([Lebensquelle Plus](https://lebensquelle-plus.de/blogs/magazin/rauchquarz-wirkung)), and a small point on the desk is the usual placement.
+**Classic.** [Smoky quartz](/stones/smoky-quartz/) is quartz turned brown by natural radiation acting on traces of aluminum. In 12th-century China, flat panes of it served as sunglasses, and a few were worn by judges in court to hide their expressions, a fitting past for a stone now sold for composure. One German shop sells it as a stone of grounding, calm and letting go, and a small point on the desk is the usual placement.
 
-**Care.** Heat lightens its color ([Geology.com](https://geology.com/gemstones/smoky-quartz/)), and our care data rates strong sun as one to avoid, since UV light is often said to fade it too. Skip the sunny windowsill.
+**Care.** Heat lightens its color, and our care data rates strong sun as one to avoid, since UV light is often said to fade it too. Skip the sunny windowsill.
 
 ### 3. Strawberry Quartz
 
-**Classic.** [Strawberry quartz](/stones/strawberry-quartz/) is pink quartz with red iron oxide inclusions, according to the dealer GemSelect, which also warns that some pieces sold under the name are colored glass ([GemSelect](https://www.gemselect.com/other-info/about-strawberry-quartz.php)). It has no old lore, and its calm meaning comes from shops that describe it as "easing anxiety and emotional tension" ([Otterspirit](https://otterspirit.com/blogs/otterspirit/strawberry-quartz-meaning-properties-crystal-guide)). It makes a kind gift, pretty enough for a nightstand.
+**Classic.** [Strawberry quartz](/stones/strawberry-quartz/) is pink quartz with red iron oxide inclusions, according to one dealer, which also warns that some pieces sold under the name are colored glass. It has no old lore, and its calm meaning comes from shops that sell it for easing anxiety and emotional tension. It makes a kind gift, pretty enough for a nightstand.
 
-**Care.** Treat it like rose quartz, warm soapy water and no ultrasonic or steam cleaners ([GIA](https://www.gia.edu/articles/rose-quartz-care-cleaning)). That guidance comes from rose quartz and quartz in general, not from tests on strawberry quartz.
+**Care.** Treat it like rose quartz, warm soapy water and no ultrasonic or steam cleaners. That guidance comes from rose quartz and quartz in general, not from tests on strawberry quartz.
 
 ### 4. Azurite
 
-**Classic.** [Azurite](/stones/azurite/) is a soft, deep blue copper carbonate ([Geology.com](https://geology.com/minerals/azurite.shtml)). Its history is in paint, not calm, since it was the most important blue pigment in Europe through the Middle Ages and the Renaissance (Geology.com). Its overthinking link is modern, and it works best as something to look at on a shelf.
+**Classic.** [Azurite](/stones/azurite/) is a soft, deep blue copper carbonate. Its history is in paint, not calm, since it was the most important blue pigment in Europe through the Middle Ages and the Renaissance. Its overthinking link is modern, and it works best as something to look at on a shelf.
 
-**Care.** It is soft (Mohs 3.5 to 4) and brittle, and heat and acids damage it. The International Gem Society says it slowly loses its blue in air, heat and light and should be stored in the dark ([IGS](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/)). Handling finished azurite poses no hazard, but its cutting dust is toxic because of the copper, and it never goes in water you drink.
+**Care.** It is soft (Mohs 3.5 to 4) and brittle, and heat and acids damage it. It slowly loses its blue in air, heat and light and should be stored in the dark. Handling finished azurite poses no hazard, but its cutting dust is toxic because of the copper, and it never goes in water you drink.
 
 ### 5. Celestite
 
-**Classic.** [Celestite](/stones/celestite/) is strontium sulfate, usually pale sky blue, and the dealer Gemstones.com says its name comes from the Latin *coelestis*, heavenly ([Gemstones.com](https://www.gemstones.com/gemopedia/celestite)). In Put-in-Bay, Ohio, the Crystal Cave is a geode 35 feet wide lined with celestite crystals up to 18 inches across ([International Gem Society](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/)). Crystal Vaults suggests it for the bedroom to "calm racing thoughts" ([Crystal Vaults](https://www.crystalvaults.com/crystal-encyclopedia/celestite/)), and a small geode on a shelf is the easy way to try that.
+**Classic.** [Celestite](/stones/celestite/) is strontium sulfate, usually pale sky blue, and one dealer says its name comes from the Latin *coelestis*, heavenly. In Put-in-Bay, Ohio, the Crystal Cave is a geode 35 feet wide lined with celestite crystals up to 18 inches across. One crystal guide suggests it for the bedroom to calm racing thoughts, and a small geode on a shelf is the easy way to try that.
 
-**Care.** It is soft and scratches easily, its color can fade in light or sun ([Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/celestite)), and a dealer guide calls it slightly soluble in water. Clean it briefly with a soft brush and warm water and never soak it.
+**Care.** It is soft and scratches easily, its color can fade in light or sun, and a dealer guide calls it slightly soluble in water. Clean it briefly with a soft brush and warm water and never soak it.
 
 ### 6. Green Aventurine
 
-**Classic.** [Green aventurine](/stones/green-aventurine/) is a quartz rock that shimmers because of tiny flakes of fuchsite, a green, chromium-rich mica ([Geology.com](https://geology.com/gemstones/aventurine/)). Its modern meanings are calm and luck, and one lifestyle blog suggests a piece on the bedside table "to end your day calmly" ([Young House Love](https://younghouselove.com/green-aventurine-crystal-meaning-properties)). Its most common imitation is goldstone, a man-made glass full of tiny metal flecks (Geology.com).
+**Classic.** [Green aventurine](/stones/green-aventurine/) is a quartz rock that shimmers because of tiny flakes of fuchsite, a green, chromium-rich mica. Its modern meanings are calm and luck, and one lifestyle blog suggests a piece on the bedside table to help end the day calmly. Its most common imitation is goldstone, a man-made glass full of tiny metal flecks.
 
-**Care.** Warm soapy water and a soft cloth are fine. Avoid harsh household chemicals and long exposure to extreme heat ([GemSelect](https://www.gemselect.com/gem-info/aventurine/aventurine-info.php)).
+**Care.** Warm soapy water and a soft cloth are fine. Avoid harsh household chemicals and long exposure to extreme heat.
 
 ### 7. Howlite
 
-**Classic.** [Howlite](/stones/howlite/) is a white mineral with dark web-like veins, often dyed blue to imitate turquoise ([International Gem Society](https://www.gemsociety.org/article/howlite-jewelry-and-gemstone-information/)). It was first described in 1868, after miners at a gypsum quarry in Nova Scotia told the geologist Henry How about a new material that was making their work harder, according to the dealer [Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/howlite), so its calm meaning is entirely modern. The same dealer repeats the belief that it calms an overactive mind.
+**Classic.** [Howlite](/stones/howlite/) is a white mineral with dark web-like veins, often dyed blue to imitate turquoise. It was first described in 1868, after miners at a gypsum quarry in Nova Scotia told the geologist Henry How about a new material that was making their work harder, as one dealer tells it, so its calm meaning is entirely modern. The same dealer repeats the belief that it calms an overactive mind.
 
-**Care.** It is soft ([Amethyst Galleries](https://galleries.com/minerals/silicate/howlite/howlite.htm)) and dissolves in dilute acids. Dyed pieces should skip harsh chemicals, ultrasonic cleaners and steam, a dealer guide adds ([Gemstones.com](https://www.gemstones.com/gemopedia/howlite)). Our care data has no water rating for it yet.
+**Care.** It is soft and dissolves in dilute acids. Dyed pieces should skip harsh chemicals, ultrasonic cleaners and steam, a dealer guide adds. Our care data has no water rating for it yet.
 
 ### 8. Moonstone
 
-**Classic.** [Moonstone](/stones/moonstone/) is feldspar with adularescence, a soft glow that seems to float under the surface ([GIA](https://www.gia.edu/moonstone/gem-overview)). Besides the Paris "nervousness" advice above, Kunz wrote that in India it was a sacred stone, never displayed for sale except on a yellow cloth (*The Curious Lore of Precious Stones*, 1913, pages 97 to 98). A moonstone ring makes a quiet touchpoint you can turn on your finger through a long day.
+**Classic.** [Moonstone](/stones/moonstone/) is feldspar with adularescence, a soft glow that seems to float under the surface. Besides the Paris "nervousness" advice above, Kunz wrote that in India it was a sacred stone, never displayed for sale except on a yellow cloth (*The Curious Lore of Precious Stones*, 1913, pages 97 to 98). A moonstone ring makes a quiet touchpoint you can turn on your finger through a long day.
 
-**Care.** With a hardness of 6 and two perfect cleavage directions, it scratches and can break on a sharp knock ([Geology.com](https://geology.com/gemstones/moonstone/)). Clean it with warm soapy water and a soft brush, never ultrasonic or steam ([International Gem Society](https://www.gemsociety.org/article/moonstone-jewelry-gem-information/)).
+**Care.** With a hardness of 6 and two perfect cleavage directions, it scratches and can break on a sharp knock. Clean it with warm soapy water and a soft brush, never ultrasonic or steam.
 
 ## More Stones Linked to Anxiety
 
@@ -190,4 +190,4 @@ Our ranking also rates [white jade](/stones/white-jade/), [onyx](/stones/onyx/),
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

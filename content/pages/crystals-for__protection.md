@@ -87,7 +87,7 @@ Before you wash, salt or sun-charge a stone you already own, check it in the [Ca
 - **Ancient Egypt.** **Tradition.** The Book of the Dead has a chapter for a carnelian buckle placed on the neck of the dead, so that "the virtue of Isis protects him" (quoted by Kunz, 1913, page 226).
 - **Engraved Gems.** **Tradition.** Kunz lists protective meanings for pictures cut into stones. A man with a sword cut into a carnelian was said to guard a place from lightning and storms, and a bear cut into an amethyst was said to put demons to flight (Kunz, 1913, page 134).
 - **1800s, Germany and Africa.** **Tradition.** Agate cutters at Idar and Oberstein in Germany were kept busy making Evil Eye amulets for buyers in the Sudan, from brown or black agate with a white ring that stood for an eye (Kunz, 1913, page 54).
-- **Today.** **Modern Association.** Crystal guides describe protection as a shield against "negative energy." They do not agree on how the shield works. [Crystals.com](https://www.crystals.com/blogs/news/black-obsidian-meaning-properties) says obsidian absorbs negative energy "rather than deflecting it," while [Crystal Vaults](https://www.crystalvaults.com/crystal-encyclopedia/chiastolite/) says chiastolite deflects it "rather than absorbing it." Neither offers a way to check.
+- **Today.** **Modern Association.** Crystal guides describe protection as a shield against "negative energy." They do not agree on how the shield works. One guide says obsidian absorbs negative energy rather than deflecting it, while another says chiastolite deflects it rather than absorbing it. Neither offers a way to check.
 
 ### Why So Many Protection Stones Are Black
 
@@ -95,7 +95,7 @@ Black stones fill today's protection lists, from obsidian and black agate to bla
 
 ## A Doorway Ritual for a New Home
 
-**The Ritual.** Modern guides often suggest a protection stone by the entrance, obsidian in one guide ([Mooncat Crystals](https://www.mooncatcrystals.com/blogs/news/obsidian)), black agate in another ([Beads of Cambay](https://www.beadsofcambay.com/blogs/meaning/black-agate-meaning)).
+**The Ritual.** Modern guides often suggest a protection stone by the entrance, obsidian in one guide, black agate in another.
 
 **Try This.** On your first evening in a new place, or any evening you want a fresh start, take one sturdy stone, a small dish, a card and a pen.
 
@@ -115,57 +115,57 @@ Black stones fill today's protection lists, from obsidian and black agate to bla
 
 ### 1. Amber & Baltic Amber
 
-**Classic.** [Amber](/stones/amber/) is fossilized tree resin, not a mineral ([GIA](https://www.gia.edu/amber/gem-overview)), and [Baltic amber](/stones/baltic-amber/) is the most common source worldwide, according to the [International Gem Society](https://www.gemsociety.org/article/amber-jewelry-and-gemstone-information/). Kunz also records the centuries-old belief that amber necklaces protect children from colds, and suggests a sober reason, a bare throat that never overheats and then chills (*The Magic of Jewels and Charms*, 1915, preface, page viii). Today the gentlest way to carry it is a small piece in a coat pocket as a lucky charm, as one German crystal shop suggests ([Lebensquelle Plus](https://lebensquelle-plus.de/blogs/magazin/bernstein-wirkung)).
+**Classic.** [Amber](/stones/amber/) is fossilized tree resin, not a mineral, and [Baltic amber](/stones/baltic-amber/) is the most common source worldwide. Kunz also records the centuries-old belief that amber necklaces protect children from colds, and suggests a sober reason, a bare throat that never overheats and then chills (*The Magic of Jewels and Charms*, 1915, preface, page viii). Today the gentlest way to carry it is a small piece in a coat pocket as a lucky charm, as one German crystal shop suggests.
 
-**Care.** Very soft (Mohs 2 to 2.5) and easily scratched, so pendants and earrings fare better than rings. Use a damp cloth and mild soap only, since solvents, alcohol and heat can damage it for good ([International Gem Society](https://www.gemsociety.org/article/amber-jewelry-and-gemstone-information/)). The same society's toxicity table rates amber a high risk without saying why ([care guide](https://www.gemsociety.org/article/gemstone-care-guide/)), so leave it out of anything you drink.
+**Care.** Very soft (Mohs 2 to 2.5) and easily scratched, so pendants and earrings fare better than rings. Use a damp cloth and mild soap only, since solvents, alcohol and heat can damage it for good. The International Gem Society's toxicity table rates amber a high risk without saying why, so leave it out of anything you drink.
 
-**Safety.** Never put amber teething necklaces or bracelets on a baby. The US Food and Drug Administration has received reports of deaths and serious injuries to infants and children, including strangulation and choking, from teething jewelry such as amber teething necklaces ([FDA](https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children)).
+**Safety.** Never put amber teething necklaces or bracelets on a baby. The [US Food and Drug Administration](https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children) has received reports of deaths and serious injuries to infants and children, including strangulation and choking, from teething jewelry such as amber teething necklaces.
 
 ### 2. Black Agate
 
-**Classic.** Black chalcedony is rare in nature, so most [black agate](/stones/black-agate/) and "black onyx" is chalcedony dyed black, according to the trade magazine JCK ([JCK](https://www.jckonline.com/magazine-article/black-chalcedony/)). Its protective reputation echoes the Evil Eye amulets above, and modern guides suggest a black agate pendant or a stone near the entryway ([Beads of Cambay](https://www.beadsofcambay.com/blogs/meaning/black-agate-meaning)). Dyed is not fake. On our authenticity scale it is natural, treated.
+**Classic.** Black chalcedony is rare in nature, so most [black agate](/stones/black-agate/) and "black onyx" is chalcedony dyed black. Its protective reputation echoes the Evil Eye amulets above, and modern guides suggest a black agate pendant or a stone near the entryway. Dyed is not fake. On our authenticity scale it is natural, treated.
 
-**Care.** JCK calls the classic sugar and acid process permanent, but stones colored with organic dyes can fade in direct sunlight. Black onyx is heat sensitive, and polished pieces scratch fairly easily, so store it apart from harder stones ([JCK](https://www.jckonline.com/magazine-article/black-chalcedony/)). A soak, rinse and soft brush are fine for agate in general ([GemSelect](https://gemselect.com/gem-info/cleaning.php)).
+**Care.** The classic sugar and acid process is permanent, but stones colored with organic dyes can fade in direct sunlight. Black onyx is heat sensitive, and polished pieces scratch fairly easily, so store it apart from harder stones. A soak, rinse and soft brush are fine for agate in general.
 
 ### 3. Carnelian
 
-**Classic.** [Carnelian](/stones/carnelian/) is orange to red chalcedony colored by iron ([Geology.com](https://geology.com/gemstones/carnelian/)). Beyond the Egyptian buckle of Isis, Kunz traces its popularity as a talisman in the Islamic world to the silver ring set with a carnelian seal that the Prophet wore on the little finger of his right hand (1913, pages 63 to 64). Modern guides lean toward courage more than protection, so it suits a ring or bracelet for a day that needs nerve.
+**Classic.** [Carnelian](/stones/carnelian/) is orange to red chalcedony colored by iron. Beyond the Egyptian buckle of Isis, Kunz traces its popularity as a talisman in the Islamic world to the silver ring set with a carnelian seal that the Prophet wore on the little finger of his right hand (1913, pages 63 to 64). Modern guides lean toward courage more than protection, so it suits a ring or bracelet for a day that needs nerve.
 
-**Care.** The International Gem Society advises assuming any carnelian has been heated to deepen its red ([IGS](https://www.gemsociety.org/article/carnelian-gem-information/)). A dealer guide says dyed chalcedony should skip harsh chemicals, acetone and ultrasonic cleaners, and carnelian is often treated ([Gemstones.com](https://gemstones.com/gemopedia/chalcedony)). Our care data has no rating yet for water, sun or salt.
+**Care.** Assume any carnelian has been heated to deepen its red. A dealer guide says dyed chalcedony should skip harsh chemicals, acetone and ultrasonic cleaners, and carnelian is often treated. Our care data has no rating yet for water, sun or salt.
 
 ### 4. Obsidian
 
-**Classic.** [Obsidian](/stones/obsidian/) is volcanic glass, lava that cooled too fast for crystals to form ([Geology.com](https://geology.com/rocks/obsidian.shtml)). The ancient Mexicans made images of the god Tezcatlipoca, whose name Kunz renders as "shining mirror," from obsidian, and used obsidian mirrors for divination (1913, pages 204 to 205). Modern guides turned the mirror into a shield, and the usual tip is a piece near the front door ([Mooncat Crystals](https://www.mooncatcrystals.com/blogs/news/obsidian)).
+**Classic.** [Obsidian](/stones/obsidian/) is volcanic glass, lava that cooled too fast for crystals to form. The ancient Mexicans made images of the god Tezcatlipoca, whose name Kunz renders as "shining mirror," from obsidian, and used obsidian mirrors for divination (1913, pages 204 to 205). Modern guides turned the mirror into a shield, and the usual tip is a piece near the front door.
 
-Black is its common natural color. Blue, green or red "obsidian" can be man-made glass passed off as a rare natural color ([International Gem Society](https://www.gemsociety.org/article/obsidian-jewelry-and-gemstone-information/)).
+Black is its common natural color. Blue, green or red "obsidian" can be man-made glass passed off as a rare natural color.
 
-**Care.** It scratches and chips easily, and Geology.com calls it unsuitable for rings and bracelets ([Geology.com](https://geology.com/rocks/obsidian.shtml)). Wipe it with a lint-free cloth or wash it briefly in warm soapy water, and keep it away from heat, which can make inclusions expand ([IGS](https://www.gemsociety.org/article/obsidian-jewelry-and-gemstone-information/)). **Safety.** The broken edges of obsidian are sharper than any steel knife, the same source warns, so a chipped piece is not a toy.
+**Care.** It scratches and chips easily, which makes it unsuitable for rings and bracelets. Wipe it with a lint-free cloth or wash it briefly in warm soapy water, and keep it away from heat, which can make inclusions expand. **Safety.** The broken edges of obsidian are sharper than any steel knife, so a chipped piece is not a toy.
 
 ### 5. Pyrite
 
-**Classic.** [Pyrite](/stones/pyrite/) is iron sulfide, the brassy mineral nicknamed fool's gold ([Geology.com](https://geology.com/minerals/pyrite.shtml)). Kunz records pyrite crystals used as amulets by Native American peoples and kept among the objects medicine men used in their rites (1913, page 99), and a belief in Surrey, England, that pyrite nodules fell from the sky in thunderstorms and had peculiar powers where lightning is concerned (1915, page 112). Today guides set it by the front door as a protection and money stone ([mindbodygreen](https://mindbodygreen.com/articles/pyrite-crystal)).
+**Classic.** [Pyrite](/stones/pyrite/) is iron sulfide, the brassy mineral nicknamed fool's gold. Kunz records pyrite crystals used as amulets by Native American peoples and kept among the objects medicine men used in their rites (1913, page 99), and a belief in Surrey, England, that pyrite nodules fell from the sky in thunderstorms and had peculiar powers where lightning is concerned (1915, page 112). Today guides set it by the front door as a protection and money stone.
 
-Wondering why yours went dull? Pyrite often tarnishes to a dull brass color ([Geology.com](https://geology.com/minerals/pyrite.shtml)).
+Wondering why yours went dull? Pyrite often tarnishes to a dull brass color.
 
-**Care.** The International Gem Society calls it very brittle and heat sensitive ([IGS](https://www.gemsociety.org/article/pyrite-jewelry-and-gemstone-information/)). Our care data has no rating yet for water, salt or cleaning, so look it up in the Care Checker before you wash it.
+**Care.** It is very brittle and heat sensitive. Our care data has no rating yet for water, salt or cleaning, so look it up in the Care Checker before you wash it.
 
 ### 6. Sugilite
 
-**Classic.** [Sugilite](/stones/sugilite/) is a rare purple mineral, named in 1976 to honor Ken-ichi Sugi, and it did not reach the gem market until 1979, after a find at the Wessels Mine in South Africa ([Geology.com](https://geology.com/minerals/sugilite.shtml)). So its protective meaning is entirely modern, and [Crystal Vaults](https://www.crystalvaults.com/crystal-encyclopedia/sugilite/) is typical in calling it a "shield of Light." The same guide suggests a spot on the nightstand.
+**Classic.** [Sugilite](/stones/sugilite/) is a rare purple mineral, named in 1976 to honor Ken-ichi Sugi, and it did not reach the gem market until 1979, after a find at the Wessels Mine in South Africa. So its protective meaning is entirely modern, and one crystal guide is typical in calling it a shield of light. The same guide suggests a spot on the nightstand.
 
-Much cheap "sugilite" is powdered sugilite pressed into a mold with resin, often sold without saying so ([Geology.com](https://geology.com/minerals/sugilite.shtml)).
+Much cheap "sugilite" is powdered sugilite pressed into a mold with resin, often sold without saying so.
 
-**Care.** Warm water and mild soap are fine ([International Gem Society](https://www.gemsociety.org/article/sugilite-jewelry-and-gemstone-information/)). It is fragile in rings and bracelets, so protective settings are advised.
+**Care.** Warm water and mild soap are fine. It is fragile in rings and bracelets, so protective settings are advised.
 
 ### 7. Amethyst
 
-**Classic.** [Amethyst](/stones/amethyst/) is purple quartz, colored by traces of iron and natural radiation ([International Gem Society](https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/)). In the 1400s, Kunz writes, it was believed to control evil thoughts and to have "preserved soldiers from harm" (1913, page 58), and an Egyptian necklace set with amethysts was worn as a set of protective amulets (*The Magic of Jewels and Charms*, 1915, page 317). Today it is a nightstand favorite ([Crystals.com](https://www.crystals.com/blogs/news/amethyst-meaning)).
+**Classic.** [Amethyst](/stones/amethyst/) is purple quartz, colored by traces of iron and natural radiation. In the 1400s, Kunz writes, it was believed to control evil thoughts and to have "preserved soldiers from harm" (1913, page 58), and an Egyptian necklace set with amethysts was worn as a set of protective amulets (*The Magic of Jewels and Charms*, 1915, page 317). Today it is a nightstand favorite.
 
-**Care.** Some amethyst can fade with long exposure to intense light, and sudden temperature changes can fracture it ([GIA](https://www.gia.edu/amethyst-care-cleaning)). Wash it by hand with warm water, mild soap and a soft brush, and skip the ultrasonic cleaner, since inclusions can shatter.
+**Care.** Some amethyst can fade with long exposure to intense light, and sudden temperature changes can fracture it. Wash it by hand with warm water, mild soap and a soft brush, and skip the ultrasonic cleaner, since inclusions can shatter.
 
 ### 8. Chiastolite
 
-**Classic.** [Chiastolite](/stones/chiastolite/) is a variety of andalusite with a dark cross inside, and Kunz explains that its name means a mark like the Greek letter chi and that "the divine symbol it bore served to drive away evil spirits" (1913, page 270). Pilgrims on the Camino Primitivo to Santiago de Compostela collected it as protective amulets for the road, according to a 2015 study by Ramón Jiménez Martínez of Spain's Museo Geominero and Matina Prieto Fernández ([De Re Metallica](https://www.parquehistorico.org/images/prensa/quiastolitas2015.pdf)).
+**Classic.** [Chiastolite](/stones/chiastolite/) is a variety of andalusite with a dark cross inside, and Kunz explains that its name means a mark like the Greek letter chi and that "the divine symbol it bore served to drive away evil spirits" (1913, page 270). Pilgrims on the Camino Primitivo to Santiago de Compostela collected it as protective amulets for the road, according to a 2015 study by Ramón Jiménez Martínez of Spain's Museo Geominero and Matina Prieto Fernández.
 
 **Try This.** Give one to a friend setting out on a long trip, with a note about the pilgrims.
 
@@ -173,15 +173,15 @@ Much cheap "sugilite" is powdered sugilite pressed into a mold with resin, often
 
 ## Is Black Tourmaline the Best Crystal for Protection?
 
-Black tourmaline is the stone many crystal shops now sell first for protection, but "best" is a belief, and no test can rank protection stones. One German shop calls it "the most important protection stone in modern crystal healing" ([Lebensquelle Plus](https://lebensquelle-plus.de/blogs/magazin/schwarzer-turmalin-wirkung)), and the dealer Gem Rock Auctions repeats the idea of a piece in each corner of a room ([Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/black-tourmaline)). Black tourmaline rates Classic for protection in our ranking.
+Black tourmaline is the stone many crystal shops now sell first for protection, but "best" is a belief, and no test can rank protection stones. One German shop ranks it as the most important protection stone in modern crystal healing, and one dealer repeats the idea of a piece in each corner of a room. Black tourmaline rates Classic for protection in our ranking.
 
-**The Stone.** Most [black tourmaline](/stones/black-tourmaline/) is schorl, one species of the tourmaline group, though other species can be black too ([International Gem Society](https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/)). It is hard (Mohs 7 to 7.5) and grows as three-sided prisms with fine lengthwise grooves ([Amethyst Galleries](https://galleries.com/minerals/silicate/schorl/schorl.htm)).
+**The Stone.** Most [black tourmaline](/stones/black-tourmaline/) is schorl, one species of the tourmaline group, though other species can be black too. It is hard (Mohs 7 to 7.5) and grows as three-sided prisms with fine lengthwise grooves.
 
-**The Story.** **Tradition.** Victorian jewelers often used it in mourning jewelry ([International Gem Society](https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/)). **Modern Association.** Shops often suggest a piece by the Wi-Fi router to absorb electromagnetic radiation, yet the same German shop admits "there is no scientific evidence that stones influence electromagnetic fields."
+**The Story.** **Tradition.** Victorian jewelers often used it in mourning jewelry. **Modern Association.** Shops often suggest a piece by the Wi-Fi router to absorb electromagnetic radiation, yet the same German shop admits "there is no scientific evidence that stones influence electromagnetic fields."
 
-**Care.** Tourmaline suits everyday jewelry, says the International Gem Society. Our care data has no water, sun or salt rating for black tourmaline yet.
+**Care.** Tourmaline suits everyday jewelry. Our care data has no water, sun or salt rating for black tourmaline yet.
 
-**Smoky Quartz, Too.** [Smoky quartz](/stones/smoky-quartz/) also rates Classic for protection. John Dee's crystal ball in the British Museum is smoky quartz, perhaps chosen because of Scottish superstitions about the stone, Kunz suggests (1913, page 190). Heat lightens its color ([Geology.com](https://geology.com/gemstones/smoky-quartz/)), and strong sunlight is often said to fade it, which is why our care data rates sun as one to avoid. Keep it off a sunny windowsill.
+**Smoky Quartz, Too.** [Smoky quartz](/stones/smoky-quartz/) also rates Classic for protection. John Dee's crystal ball in the British Museum is smoky quartz, perhaps chosen because of Scottish superstitions about the stone, Kunz suggests (1913, page 190). Heat lightens its color, and strong sunlight is often said to fade it, which is why our care data rates sun as one to avoid. Keep it off a sunny windowsill.
 
 ## Grounding & Protection Crystals
 
@@ -205,4 +205,4 @@ Obsidian, smoky quartz and [hematite](/stones/hematite/) rate Classic for both p
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

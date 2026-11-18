@@ -80,7 +80,7 @@ No old source we know of gives each phase its own stone. They do record a handfu
 
 **Safety.** Please keep any stone out of your mouth, full moon or not. Small stones are a choking hazard.
 
-Two honest notes. The old "selenite" may not be the gypsum sold under that name today, since older writers used the word for more than one moon-like stone. And Kunz blamed cleavage planes for moonstone's silvery light (1913, page 334). **Mineral Fact.** [GIA](https://www.gia.edu/moonstone/gem-overview) explains it as light scattering between microscopic layers of feldspar, an effect called adularescence.
+Two honest notes. The old "selenite" may not be the gypsum sold under that name today, since older writers used the word for more than one moon-like stone. And Kunz blamed cleavage planes for moonstone's silvery light (1913, page 334). **Mineral Fact.** The silvery light is actually light scattering between microscopic layers of feldspar, an effect called adularescence.
 
 ### What Crystal Guides Say Today
 
@@ -90,11 +90,11 @@ Two honest notes. The old "selenite" may not be the gypsum sold under that name 
 - **New moon.** Moonstone, black moonstone and peach moonstone are Sometimes Linked, as stones for an intention. Rainbow moonstone is Rarely Linked.
 - **Waxing and waning moon.** No stone is linked with any consistency, so the panel says so rather than inventing a list.
 
-Most guides split the month in two, the full moon for release and the new moon for intentions. One label to know before you buy. Rainbow moonstone is technically a variety of labradorite, not moonstone, according to the [International Gem Society](https://www.gemsociety.org/article/moonstone-jewelry-gem-information/).
+Most guides split the month in two, the full moon for release and the new moon for intentions. One label to know before you buy. Rainbow moonstone is technically a variety of labradorite, not moonstone.
 
 ### Before You Leave a Stone on the Sill
 
-Moonlight is gentle, but the morning sun on the same sill is not. Bring stones in before it arrives, since some [amethyst](/stones/amethyst/) and citrine can fade with prolonged exposure to intense light, according to GIA ([amethyst care](https://www.gia.edu/amethyst-care-cleaning), [citrine care](https://www.gia.edu/citrine-care-cleaning)). Outdoors, dew counts as water, and selenite, a form of water-soluble gypsum, stays inside ([International Gem Society](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/)). Moonstone can break on a sharp knock because of its perfect cleavage, so set it down gently ([Geology.com](https://geology.com/gemstones/moonstone/)). Check your own stone in the [Care Checker](/tools/crystal-care-checker/).
+Moonlight is gentle, but the morning sun on the same sill is not. Bring stones in before it arrives, since some [amethyst](/stones/amethyst/) and citrine can fade with prolonged exposure to intense light. Outdoors, dew counts as water, and selenite, a form of water-soluble gypsum, stays inside. Moonstone can break on a sharp knock because of its perfect cleavage, so set it down gently. Check your own stone in the [Care Checker](/tools/crystal-care-checker/).
 
 ## Moon Water, the Safe Way
 
@@ -140,4 +140,4 @@ The next new moon falls on Tuesday, December 8, 2026, at 7:52 PM. Times are comp
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

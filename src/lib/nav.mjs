@@ -26,7 +26,7 @@ export const SITE_NAME = 'Crystal & Ritual';
 export const TAGLINE = 'What your stone really is, where its meaning comes from, and what you can actually do with it.';
 export const DISCLAIMER = 'Beliefs are shared as beliefs. Crystals are not a substitute for medical care.';
 export const AUTHOR = 'Iris Holloway';
-export const AUTHOR_LINE = 'Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.';
+export const AUTHOR_LINE = 'Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.';
 
 /** Path part of a nav href, to test it against the built set. */
 export const pathOf = (href) => href.split('#')[0] || '/';

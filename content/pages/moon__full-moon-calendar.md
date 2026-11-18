@@ -79,11 +79,11 @@ Every time above is New York time, Eastern Standard Time until March 14, 2027, t
 
 Across the four mainland US time zones, every full moon of 2027 falls on the same date. In Alaska and Hawaii, the Sturgeon Moon falls late on August 16 instead. Further east the dates move the other way. In London, the Cold Moon of 2026 falls on December 24, the Strawberry Moon on June 19, the Corn Moon on September 16 and the Beaver Moon on November 14.
 
-The times are computed with the method of Jean Meeus in *Astronomical Algorithms* (1998) and rounded to the nearest minute. They match US Naval Observatory times for every date in these tables except one. The September 15 full moon falls about half a minute after 7:03 PM, so it rounds to 7:04 PM here and reads 7:03 PM in the Naval Observatory list.
+The times are computed with the method of Jean Meeus in *Astronomical Algorithms* (1998) and rounded to the nearest minute. They match the US Naval Observatory list for every date in these tables except one. The September 15 full moon falls about half a minute after 7:03 PM, so it rounds to 7:04 PM here and reads 7:03 PM in that list.
 
 ## The Full Moon Names
 
-The names follow the list popularized by the Old Farmer's Almanac, one name for each month, taken from the month of the US Eastern date. Many read like a farm and forest calendar, with snow in February, strawberries in June, corn in September and cold in December. The almanac says many of the names come from Native American, Colonial American and other traditional North American sources, and that the Wolf Moon is thought to have English origins ([Almanac.com](https://www.almanac.com/full-moon-names)).
+The names follow the list popularized by the Old Farmer's Almanac, one name for each month, taken from the month of the US Eastern date. Many read like a farm and forest calendar, with snow in February, strawberries in June, corn in September and cold in December. The almanac says many of the names come from Native American, Colonial American and other traditional North American sources, and that the Wolf Moon is thought to have English origins.
 
 ### Harvest Moon 2027
 
@@ -95,7 +95,7 @@ No. A Blue Moon in the popular sense is a second full moon in one calendar month
 
 ## Eclipses in 2027
 
-NASA lists five eclipses for 2027, each on a new or full moon from the tables above. Times below are NASA's times of greatest eclipse, converted to New York time.
+There are five eclipses in 2027, each on a new or full moon from the tables above. Times below are the times of greatest eclipse, converted to New York time.
 
 | Date | Eclipse | Greatest eclipse (New York time) | Moon |
 |---|---|---|---|
@@ -128,4 +128,4 @@ Pick any date from 1900 to 2100 and the calculator draws the moon as it looked a
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

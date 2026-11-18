@@ -74,42 +74,42 @@ Sunstone is a feldspar that glitters, because thin flat flakes of copper or hema
 
 ## What Sunstone Actually Is
 
-**The Stone.** Sunstone is not one mineral. It belongs to the feldspar group, minerals found throughout Earth's crust in rocks such as granite and gneiss ([International Gem Society](https://www.gemsociety.org/article/sunstone/)). Both the orthoclase and the plagioclase feldspars have a sunstone variety, and the same group gives us moonstone, labradorite and amazonite ([GIA](https://www.gia.edu/sunstone/gem-overview)).
+**The Stone.** Sunstone is not one mineral. It belongs to the feldspar group, minerals found throughout Earth's crust in rocks such as granite and gneiss. Both the orthoclase and the plagioclase feldspars have a sunstone variety, and the same group gives us moonstone, labradorite and amazonite.
 
-The first stones called sunstone were oligoclase, a plagioclase feldspar. As other feldspars turned up with the same strong flash, labradorite and orthoclase among them, the name went with it ([Geology.com](https://geology.com/gemstones/sunstone/)). Older names you may see on a label are heliolite and, more often, aventurescent feldspar.
+The first stones called sunstone were oligoclase, a plagioclase feldspar. As other feldspars turned up with the same strong flash, labradorite and orthoclase among them, the name went with it. Older names you may see on a label are heliolite and, more often, aventurescent feldspar.
 
 ### Why Sunstone Glitters
 
-The flash has a name, aventurescence. Thin, flat, highly reflective plates of copper, hematite or goethite sit inside, all lined up in one direction, so light bounces off them together and you see a burst of glitter at the right angle. Move the stone, the light or your head to trigger it (Geology.com).
+The flash has a name, aventurescence. Thin, flat, highly reflective plates of copper, hematite or goethite sit inside, all lined up in one direction, so light bounces off them together and you see a burst of glitter at the right angle. Move the stone, the light or your head to trigger it.
 
-Some plates are too small to see and simply tint the stone. Cutters set the plates parallel to the top of a cabochon for the strongest, most even flash (Geology.com).
+Some plates are too small to see and simply tint the stone. Cutters set the plates parallel to the top of a cabochon for the strongest, most even flash.
 
 ### What Color Is Sunstone?
 
-Sunstone runs from colorless through yellow, orange and red, and a few exceptional stones are deep green or blue. In Oregon stones the copper platelets give the pink and red, and color can shift across one stone, pink on one side and orange on the other, or green patches against red (Geology.com).
+Sunstone runs from colorless through yellow, orange and red, and a few exceptional stones are deep green or blue. In Oregon stones the copper platelets give the pink and red, and color can shift across one stone, pink on one side and orange on the other, or green patches against red.
 
 ### Oregon Sunstone
 
-The most famous US sunstone comes from basalt lava flows in Lake County and Harney County, Oregon, where it sits as larger crystals scattered through the rock (Geology.com). The International Gem Society describes Oregon sunstone as labradorite with copper inclusions. GIA says its colors do not come from treatment, and that every Oregon stone carries a copper sheen even when the inclusions are too small to flash.
+The most famous US sunstone comes from basalt lava flows in Lake County and Harney County, Oregon, where it sits as larger crystals scattered through the rock. Oregon sunstone is labradorite with copper inclusions. Its colors do not come from treatment, and every Oregon stone carries a copper sheen even when the inclusions are too small to flash.
 
-You can dig your own. The Bureau of Land Management keeps a public collecting area in Lake County where anyone may look for sunstone and keep what they find for personal use, not for trade (Geology.com).
+You can dig your own. The Bureau of Land Management keeps a public collecting area in Lake County where anyone may look for sunstone and keep what they find for personal use, not for trade.
 
 <!-- PHOTO 2 TO FIND, beside "Oregon Sunstone". An Oregon sunstone showing copper schiller. Unchecked candidate in images_commons_candidates.csv, "File Oregon sunstone (4716251592).jpg", by Deidre Woollard, CC BY 2.0, visual_check empty, check identity and quality before use. Do not use the Smithsonian "Andesine (var. sunstone)" Tibet rows as Oregon sunstone, their title and visual notes disagree. -->
 
 ### Sunstone From Other Places
 
-In Norway, sunstone occurs as masses in quartz veins at Tvedestrand and Hitterö ([International Gem Society](https://www.gemsociety.org/article/sunstone/)). Tumbled sunstone from India is thought to carry hematite rather than copper (Geology.com). Tanzania yields a gold-sheen sunstone with hematite flakes that can top a millimeter. Most rough is badly cracked, so most stones are small (International Gem Society).
+In Norway, sunstone occurs as masses in quartz veins at Tvedestrand and Hitterö. Tumbled sunstone from India is thought to carry hematite rather than copper. Tanzania yields a gold-sheen sunstone with hematite flakes that can top a millimeter. Most rough is badly cracked, so most stones are small.
 
 ## Where the Meaning Comes From
 
-**The Story.** The sun in sunstone is all about that flash, which reminded people of sunlight, so the stone was believed to carry the sun's warmth and good fortune (International Gem Society). Here is what each era actually left in writing.
+**The Story.** The sun in sunstone is all about that flash, which reminded people of sunlight, so the stone was believed to carry the sun's warmth and good fortune. Here is what each era actually left in writing.
 
-- **Norse legend, undated.** **Tradition.** Some believe sunstone served Norse sailors as a "sun compass" to locate the sun on cloudy days (International Gem Society). In 2011, lab experiments led by Guy Ropars found that a rotated crystal of Iceland spar can find the sun's direction within a few degrees, even in dim twilight ([DOI 10.1098/rspa.2011.0369](https://doi.org/10.1098/rspa.2011.0369)). In 2013, Albert Le Floch and colleagues showed that a calcite crystal recovered from the 1592 Alderney shipwreck could have worked as an optical sun compass ([DOI 10.1098/rspa.2012.0651](https://doi.org/10.1098/rspa.2012.0651)). Together the papers show that a sunstone was physically possible for navigation, not that Vikings used one. Iceland spar is transparent calcite ([Geology.com](https://geology.com/minerals/calcite.shtml)), not feldspar. So the sunstone of Norse legend and the sunstone in your bracelet may share only a name.
-- **Undated, Oregon.** **Tradition.** Native Americans collected Oregon sunstone, traded it widely and sometimes buried it with the dead (Geology.com).
+- **Norse legend, undated.** **Tradition.** Some believe sunstone served Norse sailors as a "sun compass" to locate the sun on cloudy days. In 2011, lab experiments led by Guy Ropars found that a rotated crystal of Iceland spar can find the sun's direction within a few degrees, even in dim twilight ([DOI 10.1098/rspa.2011.0369](https://doi.org/10.1098/rspa.2011.0369)). In 2013, Albert Le Floch and colleagues showed that a calcite crystal recovered from the 1592 Alderney shipwreck could have worked as an optical sun compass ([DOI 10.1098/rspa.2012.0651](https://doi.org/10.1098/rspa.2012.0651)). Together the papers show that a sunstone was physically possible for navigation, not that Vikings used one. Iceland spar is transparent calcite, not feldspar. So the sunstone of Norse legend and the sunstone in your bracelet may share only a name.
+- **Undated, Oregon.** **Tradition.** Native Americans collected Oregon sunstone, traded it widely and sometimes buried it with the dead.
 - **1500s, Rome.** **Tradition.** Pope Clement VII was said to own a stone with a golden spot that moved across it in step with the sun across the sky. Kunz calls the tale one of the "undoubtedly fables" spread to boost the fame of two fine stones, a moonstone and a sunstone, in the papal treasury (*The Magic of Jewels and Charms*, 1915, pages 386 to 387).
-- **1800s to 1900s.** Russian deposits near Lake Baikal were mined in the early 1800s and Norwegian ones later that century. In the early 1900s, Tiffany & Company opened the first commercial US sunstone mine near Plush, Oregon, and called the clear stones "Plush Diamonds" (Geology.com).
-- **1987, Oregon.** The Oregon legislature named Oregon sunstone the official state gemstone (Geology.com).
-- **Today.** **Modern Association.** Modern crystal enthusiasts see sunstone as a gem of positivity and empowerment (International Gem Society). One large online crystal encyclopedia quotes the crystal author Robert Simmons for its link to Ra, the Egyptian sun god.
+- **1800s to 1900s.** Russian deposits near Lake Baikal were mined in the early 1800s and Norwegian ones later that century. In the early 1900s, Tiffany & Company opened the first commercial US sunstone mine near Plush, Oregon, and called the clear stones "Plush Diamonds."
+- **1987, Oregon.** The Oregon legislature named Oregon sunstone the official state gemstone.
+- **Today.** **Modern Association.** Modern crystal enthusiasts see sunstone as a gem of positivity and empowerment. One large online crystal encyclopedia quotes the crystal author Robert Simmons for its link to Ra, the Egyptian sun god.
 
 ### What About Greek Sun Gods & Warrior Legends?
 
@@ -129,7 +129,7 @@ As a mineral, sunstone flashes in the light. Everything else people say it does 
 
 ### Sunstone & Moonstone, the Sun & Moon Pair
 
-Moonstone is the partner guides name most often, sun and moon, action and reflection. Some practitioners hold one in each hand as a balance meditation. The pair has mineral logic, since both are feldspars (GIA), and history, since Kunz's papal pair was a moonstone that waxed with the moon and a sunstone that followed the sun. More on our [moonstone page](/stones/moonstone/).
+Moonstone is the partner guides name most often, sun and moon, action and reflection. Some practitioners hold one in each hand as a balance meditation. The pair has mineral logic, since both are feldspars, and history, since Kunz's papal pair was a moonstone that waxed with the moon and a sunstone that followed the sun. More on our [moonstone page](/stones/moonstone/).
 
 ## How to Use Sunstone in Everyday Life
 
@@ -161,36 +161,36 @@ Moonstone is the partner guides name most often, sun and moon, action and reflec
 
 We use the same five labels on every stone.
 
-- **Natural, untreated.** Oregon sunstone is not treated to improve its appearance, according to [GIA's buyer's guide](https://www.gia.edu/sunstone/buyers-guide).
-- **Natural, treated.** GIA adds that pale feldspar from other areas might be enhanced to improve its color. In the early 2000s, copper-bearing feldspar like Oregon's was reported from new sources in Congo, Tibet or elsewhere in China, and its origin and natural color were widely questioned. A research chronology in *Gems & Gemology* concluded that much of the red andesine on the market was pale yellow andesine from Inner Mongolia with copper diffused into it in a lab ([Gems & Gemology, Spring 2011](https://gia.edu/gems-gemology/spring-2011-chinese-red-feldspar-rossman)). GIA researchers have also published on copper-diffused labradorite and andesine (2023).
+- **Natural, untreated.** Oregon sunstone is not treated to improve its appearance.
+- **Natural, treated.** Pale feldspar from other areas might be enhanced to improve its color. In the early 2000s, copper-bearing feldspar like Oregon's was reported from new sources in Congo, Tibet or elsewhere in China, and its origin and natural color were widely questioned. A 2011 research chronology concluded that much of the red andesine on the market was pale yellow andesine from Inner Mongolia with copper diffused into it in a lab. GIA researchers have also published on copper-diffused labradorite and andesine (2023).
 - **Lab-grown.** We found no reference source describing lab-grown sunstone for sale. The glittery stand-in you are likely to meet is goldstone, which is glass, so it belongs under imitation.
-- **Imitation.** Goldstone, a glass with small flat copper crystals, is the common imitation buyers should know about (GIA). See [is goldstone real](/real-or-fake/goldstone/) for its own story.
+- **Imitation.** Goldstone, a glass with small flat copper crystals, is the common imitation buyers should know about. See [is goldstone real](/real-or-fake/goldstone/) for its own story.
 - **Trade name.** See the box below.
 
-> **Trade Name.** Red Oregon sunstone is often marketed as "spinel red," a color comparison, not a spinel (GIA). Clear plagioclase from Oregon with no visible flash has been sold as "Oregon Sunstone," and yellow plagioclase from Mexico without flash as "Golden Sunstone" (Geology.com). Both are real feldspar, minus the flash that has traditionally defined sunstone.
+> **Trade Name.** Red Oregon sunstone is often marketed as "spinel red," a color comparison, not a spinel. Clear plagioclase from Oregon with no visible flash has been sold as "Oregon Sunstone," and yellow plagioclase from Mexico without flash as "Golden Sunstone." Both are real feldspar, minus the flash that has traditionally defined sunstone.
 
 Three checks you can do at home, with their limits.
 
-1. **Tilt it.** Move the stone, the lamp or your head. Aventurescent sunstone flashes at a matching angle (Geology.com). This shows the flash only, not that the stone is natural, and goldstone glitters too.
-2. **Use a 10x loupe.** Geology.com notes that you can see that the flakes in Indian sunstone are not copper. This tells you the inclusion type, not whether the color was treated.
-3. **Look for color zones.** Natural Oregon stones can shade from pink to orange or show green beside red (Geology.com). Zoning fits a natural stone, but that does not mean a treated stone can never show it.
+1. **Tilt it.** Move the stone, the lamp or your head. Aventurescent sunstone flashes at a matching angle. This shows the flash only, not that the stone is natural, and goldstone glitters too.
+2. **Use a 10x loupe.** Under magnification you can see that the flakes in Indian sunstone are not copper. This tells you the inclusion type, not whether the color was treated.
+3. **Look for color zones.** Natural Oregon stones can shade from pink to orange or show green beside red. Zoning fits a natural stone, but that does not mean a treated stone can never show it.
 
 Three questions to ask the seller.
 
 1. Is this feldspar sunstone or goldstone glass?
 2. Where was it mined, Oregon, India, Norway or somewhere else?
-3. Has the color been treated, including by copper diffusion? For a pricey red or green stone, ask for a lab report, which names any detectable treatment (GIA).
+3. Has the color been treated, including by copper diffusion? For a pricey red or green stone, ask for a lab report, which names any detectable treatment.
 
 ## How to Care for Sunstone
 
-**Mineral Fact.** GIA calls sunstone durable enough for daily wear if you avoid rough handling. It has perfect cleavage in two directions, so earrings, brooches and small pendants suit it best, and a ring is safer in a bezel, flush or recessed setting (Geology.com).
+**Mineral Fact.** Sunstone is durable enough for daily wear if you avoid rough handling. It has perfect cleavage in two directions, so earrings, brooches and small pendants suit it best, and a ring is safer in a bezel, flush or recessed setting.
 
-- **Water.** OK. Warm, soapy water and gentle scrubbing (GIA). GIA covers washing, not long soaks, so keep those brief.
+- **Water.** OK. Warm, soapy water and gentle scrubbing. Washing is covered, long soaks are not, so keep those brief.
 - **Sun.** Unknown (see below).
 - **Heat.** Unknown.
 - **Salt.** Unknown. Skip it until a reference source covers it.
 - **Chemicals.** Unknown.
-- **Toxicity.** OK to wear and handle. The International Gem Society [toxicity table](https://www.gemsociety.org/article/gemstone-care-guide/) lists no known risk, and its warnings concern cutting dust.
+- **Toxicity.** OK to wear and handle. No known risk is listed, and the warnings concern cutting dust.
 - **Storage.** Keep it where harder stones cannot knock it, given that cleavage.
 
 ### Can Sunstone Go in the Sun?
@@ -199,14 +199,14 @@ Gem reference works do not settle it yet. Guides often charge sunstone in sunlig
 
 ## Sunstone vs Look-Alikes
 
-- **Goldstone.** Glass with copper crystals, the imitation GIA warns about, not feldspar at all.
-- **Moonstone.** A feldspar cousin (GIA) and the usual partner in sun and moon pairings.
-- **Labradorite.** Oregon sunstone is itself labradorite with copper inclusions (International Gem Society).
+- **Goldstone.** Glass with copper crystals, the imitation buyers should know about, not feldspar at all.
+- **Moonstone.** A feldspar cousin and the usual partner in sun and moon pairings.
+- **Labradorite.** Oregon sunstone is itself labradorite with copper inclusions.
 - **Andesine.** Red andesine feldspar, much of it on the market colored by copper diffused into pale stones (see above).
 
 ## Price Guide
 
-Sunstone fits almost any budget. Small cabochons with a pleasant orange color and good flash can cost under $50, while nicely faceted bright red and bicolor stones can sell for over $1,000 per carat. Price climbs from colorless and yellow through pink, orange and red, and transparent stones with strong flash cost the most (Geology.com). GIA names deep red, deep green and intense bicolors as the most sought-after colors, and large carved stones are rare.
+Sunstone fits almost any budget. Small cabochons with a pleasant orange color and good flash can cost under $50, while nicely faceted bright red and bicolor stones can sell for over $1,000 per carat. Price climbs from colorless and yellow through pink, orange and red, and transparent stones with strong flash cost the most. Deep red, deep green and intense bicolors are the most sought-after colors, and large carved stones are rare.
 
 In the listings we checked, round and oval faceted orange sunstones of about 2 to 4 carats ran about $13 to $37 a stone. Prices from US-dollar listings at an online gem dealer in November 2026.
 
@@ -229,4 +229,4 @@ In the listings we checked, round and oval faceted orange sunstones of about 2 t
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

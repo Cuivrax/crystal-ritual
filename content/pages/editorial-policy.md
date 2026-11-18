@@ -20,7 +20,7 @@ sources:
 
 # Editorial Policy
 
-This policy explains how Crystal & Ritual writes, labels and checks every page. In short, facts about a stone link to a reference source, beliefs are labeled as beliefs with who held them and when, and nothing on the site claims that a stone treats, cures or prevents anything.
+This policy explains how Crystal & Ritual writes, labels and checks every page. In short, facts about a stone are stated plainly and checked against reference sources listed at the end of each page, beliefs are labeled as beliefs with who held them and when, and nothing on the site claims that a stone treats, cures or prevents anything.
 
 ## How We Write
 
@@ -40,7 +40,7 @@ Small labels sit before claims so you always know what kind of statement you are
 
 | Label | What it means | Example |
 |---|---|---|
-| Mineral Fact | Geology or gemology you can verify, with a link to the source | Amethyst rates 7 on the Mohs hardness scale ([GIA](https://www.gia.edu/amethyst/gem-overview)) |
+| Mineral Fact | Geology or gemology you can verify, stated plainly and checked against reference sources such as GIA and the International Gem Society, listed at the end of the page | Amethyst rates 7 on the Mohs hardness scale |
 | Tradition | A historical or cultural belief, with who held it, when, and where we read it | Kunz (1913) reports that moonstone was sold in India only on a yellow cloth |
 | Modern Association | A belief from today's crystal books and guides, attributed or described as commonly held today | Amethyst is a Classic sleep stone in today's crystal guides |
 | What Research Says | A study linked by DOI or PubMed, with its size and limits, and a plain note when it did not test stones | A lab study of short rituals before a stressful task, which used no stones |
@@ -65,24 +65,24 @@ Every stone page uses the same five labels for what a stone really is.
 - **When a Stone Is Not Enough.** Pages about anxiety, sleep, grief, depression, pain, pregnancy, fertility, children or pets carry a short box with that title and plain advice to talk to a doctor, therapist, midwife or vet. Pages on grief or depression add the 988 Suicide and Crisis Lifeline.
 - **Never instead of care.** Nothing here suggests replacing or delaying medical care, medication or vet care.
 - **Crystal water.** We describe only the indirect method, with the stone beside the jar or sealed in a small inner glass, and only for stones our care data lists as both non-toxic and stable in water. We always name the stones that must never go in water you drink, malachite, azurite, chrysocolla, pyrite, galena, cinnabar, stibnite, realgar, orpiment, and any dyed or stabilized stone.
-- **Small stones and children.** Tumbled stones and bead bracelets are not toys. Amber teething necklaces get an explicit warning. The US Food and Drug Administration warned parents and caregivers against teething jewelry in December 2018, as [News-Medical reported at the time](https://www.news-medical.net/news/20181221/FDA-warns-against-use-of-jewelry-to-relieve-teething-pain-in-children.aspx). Its consumer advice still cites reports of deaths and serious injuries to infants and children, including strangulation and choking, caused by teething jewelry such as amber teething necklaces ([FDA](https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children)).
+- **Small stones and children.** Tumbled stones and bead bracelets are not toys. Amber teething necklaces get an explicit warning. The US Food and Drug Administration warned parents and caregivers against teething jewelry in December 2018. Its [consumer advice](https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children) still cites reports of deaths and serious injuries to infants and children, including strangulation and choking, caused by teething jewelry such as amber teething necklaces.
 - **Radioactive jewelry.** Where it matters, we mention the [December 2021 warning](https://english.autoriteitnvs.nl/latest/news/2021/12/16/do-you-have-a-quantum-pendant-anti-5g-pendant-or-a-negative-ion-jewellery-item-or-sleep-mask-if-so-store-it-away-safely) from the Dutch nuclear safety authority (ANVS) about radioactive "negative ion" and "quantum" pendants.
 
 ## Care & Safety Data
 
 Water, sun, salt, heat and toxicity advice comes from a single care database, the same one behind the [Crystal Care Checker](/tools/crystal-care-checker/). Each rating reads OK, Brief only, Avoid or Unknown, with the reason and the source. Unknown means no reliable source covers the point yet, and we leave it that way rather than guess.
 
-When a popular belief clashes with the care data, the care data wins and the page says why. A guide that tells you to soak selenite overnight is one example, since selenite is a form of gypsum, which is water soluble ([International Gem Society](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/)).
+When a popular belief clashes with the care data, the care data wins and the page says why. A guide that tells you to soak selenite overnight is one example, since selenite is a form of gypsum, which is water soluble.
 
 ## How We Use AI
 
-AI tools help us gather sources, sort what crystal guides say and draft text. AI does not decide what is true. Every fact is checked against the source it links to, every belief against the text it is attributed to, and the editor reviews each page before it goes live.
+AI tools help us gather sources, sort what crystal guides say and draft text. AI does not decide what is true. Every fact is checked against its reference source, every belief against the text it is attributed to, and the editor reviews each page before it goes live.
 
 A specific stone is always shown in a real, licensed photo, never a generated image. Illustrations for a mood or a ritual are labeled "Illustration".
 
 ## Sources & Links
 
-Mineral facts link to reference sources such as GIA and the International Gem Society. Old lore cites public domain texts with page numbers, such as Kunz's *The Curious Lore of Precious Stones* ([1913](https://www.gutenberg.org/ebooks/57978)). Modern crystal books are named by title and date, never quoted at length. The full list is on [Sources & Methods](/sources/).
+Mineral facts are stated plainly and checked against reference sources such as GIA and the International Gem Society, which are listed at the end of each page and on [Sources & Methods](/sources/). Quotes, old lore and studies keep their author in the text. Old lore cites public domain texts with page numbers, such as Kunz's *The Curious Lore of Precious Stones* (1913). Modern crystal books are named by title and date, never quoted at length.
 
 ## Corrections
 
@@ -90,6 +90,14 @@ Found a mistake? The [contact page](/contact/) lists what to include, such as th
 
 Every page shows the date it was last reviewed.
 
+## Sources
+
+- GIA, [Amethyst](https://www.gia.edu/amethyst/gem-overview)
+- International Gem Society, [Gypsum](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/)
+- George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
+- US Food and Drug Administration, [Safely Soothing Teething Pain in Infants and Children](https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children)
+- News-Medical, [FDA Warns Against Use of Jewelry to Relieve Teething Pain in Children](https://www.news-medical.net/news/20181221/FDA-warns-against-use-of-jewelry-to-relieve-teething-pain-in-children.aspx), a report on the FDA warning of December 2018
+
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the founder and editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the founder and editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

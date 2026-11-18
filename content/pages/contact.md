@@ -44,4 +44,4 @@ We cannot give medical, veterinary or mental health advice. If you are worried a
 
 How we write and correct pages is set out in our [editorial policy](/editorial-policy/), and who is behind the site is on the [about page](/about/).
 
-*Iris Holloway is the pen name of the founder and editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the founder and editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*
