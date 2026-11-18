@@ -54,7 +54,7 @@ const externalHosts = new Map();
 
 for (const abs of htmlFiles) {
   const page = `/${relative(DIST, abs).split(sep).join('/')}`;
-  const pageUrl = new URL(page.replace(/index\.html$/, ''), 'https://crystalandritual.com');
+  const pageUrl = new URL(page.replace(/index\.html$/, ''), 'https://www.crystalandritual.com');
   const html = readFileSync(abs, 'utf8')
     .replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, '')
     .replace(/<!--[\s\S]*?-->/g, '');

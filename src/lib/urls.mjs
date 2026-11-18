@@ -1,6 +1,6 @@
 // URL helpers shared by the build, the Markdown pipeline and the tests.
 
-export const SITE = 'https://crystalandritual.com';
+export const SITE = 'https://www.crystalandritual.com';
 const SITE_HOSTS = new Set(['crystalandritual.com', 'www.crystalandritual.com']);
 
 /** "stones__amethyst" is "/stones/amethyst/", "home" is "/". */

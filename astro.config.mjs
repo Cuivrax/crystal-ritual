@@ -2,7 +2,7 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://crystalandritual.com',
+  site: 'https://www.crystalandritual.com',
   output: 'static',
   trailingSlash: 'always',
   build: {
