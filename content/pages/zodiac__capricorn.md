@@ -81,7 +81,7 @@ Ruby is July's birthstone today ([GIA](https://www.gia.edu/ruby/gem-overview)). 
 
 ## Capricorn Crystals in Today's Guides
 
-**Modern Association.** In the crystal guides we compared, Capricorn's stones are mostly black, brown or very dark. Guides describe the sign as steady and hard-working, sometimes stubborn, and some pick stones to soften that. One shop guide calls smoky quartz Capricorn's main stone because it helps the sign relax, and another guide says malachite encourages Capricorns to step outside their comfort zone. Here are the usual picks, with what each stone really is.
+**Modern Association.** In modern crystal guides, Capricorn's stones are mostly black, brown or very dark. Guides describe the sign as steady and hard-working, sometimes stubborn, and some pick stones to soften that. One shop guide calls smoky quartz Capricorn's main stone because it helps the sign relax, and another guide says malachite encourages Capricorns to step outside their comfort zone. Here are the usual picks, with what each stone really is.
 
 ### Jet
 
@@ -179,9 +179,8 @@ A few notes behind the table. Our care data rates smoky quartz Avoid for sun bec
 - International Gem Society, [Jet](https://www.gemsociety.org/article/jet-jewelry-gemstone-information/), [Tourmaline](https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/), [Chalcedony](https://www.gemsociety.org/article/chalcedony-jewelry-and-gemstone-information/), [Malachite](https://www.gemsociety.org/article/malachite-jewelry-and-gemstone-information/), [Turquoise](https://www.gemsociety.org/article/turquoise-jewelry-gem-information/), [Tanzanite](https://www.gemsociety.org/article/tanzanite-jewelry-and-gemstone-information/), [Zircon](https://www.gemsociety.org/article/zircon-jewelry-and-gemstone-information/) and the [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Gemological Institute of America, [Garnet](https://www.gia.edu/garnet/gem-overview), [Ruby](https://www.gia.edu/ruby/gem-overview) and [Tanzanite](https://www.gia.edu/tanzanite/gem-overview)
 - Hobart M. King, Geology.com, [Smoky Quartz](https://geology.com/gemstones/smoky-quartz/), [Quartz](https://geology.com/minerals/quartz.shtml), [Malachite](https://geology.com/minerals/malachite.shtml), [Turquoise](https://geology.com/minerals/turquoise.shtml) and [Zircon](https://geology.com/minerals/zircon.shtml)
-- Dealer guides, Gemstones.com ([tourmalinated quartz](https://www.gemstones.com/gemopedia/tourmalinated-quartz), [schorl](https://www.gemstones.com/gemopedia/schorl), [onyx](https://www.gemstones.com/gemopedia/onyx)) and Gem Rock Auctions ([black tourmaline](https://www.gemrockauctions.com/learn/a-z-of-gemstones/black-tourmaline))
-- Modern Capricorn associations compared across the crystal guides in our lore collection, including crystalvaults.com, lebensquelle-plus.de, mooncatcrystals.com, crystalgemstones.net, tinyrituals.co and crystals.com, read November 13, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

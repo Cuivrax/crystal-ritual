@@ -30,6 +30,10 @@ sources:
   - "https://www.gemrockauctions.com/learn/a-z-of-gemstones/onyx-stone"
   - "https://skyjems.ca/pages/encyclopedia-onyx-marble"
   - "https://www.gia.edu/articles/winter-2014-gemnews-dyed-green-marble-imitating-jadeite"
+  - "https://www.gia.edu/gems-gemology/winter-2015-gemnews-new-natural-color-bluish-green-chalcedony"
+  - "https://doi.org/10.1177/1088868317734944"
+  - "https://988lifeline.org/"
+  - "https://cnmnc.units.it/"
   - "https://geology.com/gemstones/chrysoprase/"
   - "https://www.americangemsociety.org/birthstones/"
   - "https://www.gutenberg.org/ebooks/57978"
@@ -65,7 +69,7 @@ Green onyx is a trade name, not a single mineral. In jewelry it often means chal
 | Salt | Unknown |
 | Toxic to handle | Unknown |
 | Common fakes | Dye not disclosed, onyx marble sold as onyx, dyed stones sold as chrysoprase or jade |
-| Price range | [TO CHECK US retail ranges] |
+| Price range | Inexpensive. Color, translucency, cutting and dye disclosure matter, see the Price Guide |
 | Birthstone | Not on the modern list |
 | Chakra (Modern Association) | Heart, sometimes throat |
 
@@ -103,11 +107,11 @@ The difference matters most for hardness. Chalcedony onyx rates 6.5 to 7 on the 
 - **India, as told by Cardano.** **Tradition.** Cardano reported that onyx was worn on the neck everywhere in India "to cool the ardors of love." Kunz links this to the common idea that onyx provoked discord and separated lovers, perhaps suggested by its contrasting black and white layers (1913, pages 98 to 99).
 - **1010, England.** **Tradition.** An onyx gem given to the Abbey of St. Alban by King Ethelred II was believed to help women in childbirth, so it was kept loose and carried from house to house (Kunz, *The Magic of Jewels and Charms*, 1915, pages 151 to 152).
 - **1915.** **Tradition.** Kunz pushes back on the gloom, reading the onyx of the tribe of Zebulun as "a symbol of dominion and authority" (1915, page 282). He also describes how "black onyx" was made, chalcedony soaked with a sugar solution and then charred with sulphuric acid (1915, page 386). Dyed onyx is an old trade.
-- **Today.** **Modern Association.** Calm, balance and protection, with green read as growth. These associations trace to modern crystal books [TO CHECK book titles and years].
+- **Today.** **Modern Association.** Calm, balance and protection, with green read as growth. These associations come from modern crystal books and seller guides, not from the old onyx lore above.
 
 ### Did Ancient Egyptians Use Green Onyx?
 
-Shop pages say Egyptians used green onyx to ward off evil spirits ([Sagacia Jewelry](https://www.sagaciajewelry.com/blogs/news/green-onyx-power-and-mysteries)), without naming an old text. The onyx lore Kunz recorded is mostly about bad dreams, sadness and quarrels, and none of it places green onyx in Egypt. Read the story as modern for now [TO CHECK Pliny].
+Shop pages say Egyptians used green onyx to ward off evil spirits ([Sagacia Jewelry](https://www.sagaciajewelry.com/blogs/news/green-onyx-power-and-mysteries)), without naming an old text. The onyx lore Kunz recorded is mostly about bad dreams, sadness and quarrels, and none of it places green onyx in Egypt. Read the story as modern seller lore.
 
 ## What People Use Green Onyx for Today
 
@@ -123,7 +127,7 @@ As a material, green onyx is good for jewelry and for decor. Chalcedony onyx is 
 
 Some guides go much further and list green onyx benefits for blood flow, bones, immunity, hormones, arthritis and wounds. Gem science and medicine do not back those claims, and one of those same shop pages admits there is little scientific evidence behind them.
 
-> **When a Stone Is Not Enough.** Green onyx is often chosen for anxiety, stress, low mood and pain. A stone can be a comfort to hold, but it is not care. If anxiety, sadness or pain lasts or feels heavy, talk to a doctor or a therapist, and never use a stone in place of treatment. If you are in crisis in the US, reach the 988 Suicide and Crisis Lifeline [TO CHECK official 988 link].
+> **When a Stone Is Not Enough.** Green onyx is often chosen for anxiety, stress, low mood and pain. A stone can be a comfort to hold, but it is not care. If anxiety, sadness or pain lasts or feels heavy, talk to a doctor or a therapist, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## How to Use Green Onyx in Everyday Life
 
@@ -143,15 +147,15 @@ Some guides go much further and list green onyx benefits for blood flow, bones, 
 
 **Safety.** Small tumbled stones and bead bracelets are not toys. Keep them away from small children and pets who might swallow them.
 
-**What Research Says.** [TO CHECK research study with DOI] Until then, treat these as personal practices, not tested remedies.
+**What Research Says.** A 2018 review by Nicholas Hobson and colleagues, a narrative review with no participants of its own, proposes that rituals help people regulate their emotions, get ready to perform and feel connected to others, through both the physical steps and the meaning people give them ([Hobson and colleagues, 2018](https://doi.org/10.1177/1088868317734944)). It is a framework, not a test, and it did not test stones, so read it as background on why a small routine before a call can feel steadying. Treat these as personal practices, not tested remedies.
 
 ## Is My Green Onyx Real?
 
 We use the same five labels on every stone. Green onyx is mostly a question of which label applies, not of real versus fake.
 
-- **Natural, untreated.** Natural green chalcedony exists, chrysoprase being the best known. [TO CHECK whether undyed green chalcedony is sold as green onyx.]
+- **Natural, untreated.** Natural green chalcedony exists, and two natural-color kinds carry names of their own, chrysoprase, colored by nickel (International Gem Society), and Aquaprase, the trade name of a bluish green chalcedony from Africa colored by chromium and nickel ([Gems & Gemology, Winter 2015](https://www.gia.edu/gems-gemology/winter-2015-gemnews-new-natural-color-bluish-green-chalcedony)). We found no reference source describing undyed green chalcedony sold as green onyx.
 - **Natural, treated.** The usual green onyx. Chalcedony or agate dyed green (Minerals.net). GemSelect adds that chalcedony may be bleached before dyeing, heated to even out color, or coated all over or only on the back of a cabochon.
-- **Lab-grown.** [TO CHECK whether lab-grown chalcedony is sold as green onyx.]
+- **Lab-grown.** We found no reference source describing lab-grown chalcedony sold as green onyx.
 - **Imitation.** Onyx marble sold as plain "onyx" is the common one, a calcite standing in for quartz. GIA's journal has also reported dyed green marble, with calcite as the main mineral, presented as fine jadeite ([Gems & Gemology, Winter 2014](https://www.gia.edu/articles/winter-2014-gemnews-dyed-green-marble-imitating-jadeite)).
 - **Trade names.** Green onyx itself, plus Mexican onyx, limestone onyx and onyx marble, all names for banded travertine (Minerals.net).
 
@@ -203,7 +207,12 @@ Green onyx jewelry can be washed in warm, soapy water, as long as you keep it br
 
 ## Price Guide
 
-Green onyx is an inexpensive material. GemSelect calls chalcedony "not a very expensive gemstone," with most pieces a few dollars per carat at wholesale, and says intricately carved pieces can cost more for the skilled work. Amethyst Galleries calls Mexican onyx carvings "attractive and affordable." [TO CHECK US retail ranges]
+Green onyx is an inexpensive material. GemSelect calls chalcedony "not a very expensive gemstone" and says intricately carved pieces can cost more for the skilled work, and Amethyst Galleries calls Mexican onyx carvings "attractive and affordable." We found no current US listing for green onyx with a clear price and size, so this guide gives no figures. These are the things to compare.
+
+- **Color and translucency.** Strong color saturation and high translucence are the general high value points for all chalcedonies (International Gem Society).
+- **Cutting.** Chalcedony is usually cut as cabochons or carved, and for agate and carnelian the value depends more on the beauty of the cutting than on the material itself (International Gem Society).
+- **Dye.** Dyeing chalcedony is an ancient and common practice, usually stable, and it should be disclosed to buyers (International Gem Society). Since green onyx often means dyed chalcedony (Minerals.net), ask for the disclosure rather than paying extra for the shade.
+- **Which stone.** A chalcedony bead and an onyx marble bowl are different materials, so compare like with like.
 
 **Next Step.** Choosing a calming stone? See how green onyx compares with the usual picks in [crystals for anxiety](/crystals-for/anxiety/).
 
@@ -214,12 +223,14 @@ Green onyx is an inexpensive material. GemSelect calls chalcedony "not a very ex
 - Hobart M. King, Geology.com, [Calcite](https://geology.com/minerals/calcite.shtml) and [Chrysoprase](https://geology.com/gemstones/chrysoprase/)
 - Amethyst Galleries, [Calcite](https://galleries.com/minerals/carbonat/calcite/calcite.htm)
 - Gemological Institute of America, [Dyed Green Marble Imitating Jadeite](https://www.gia.edu/articles/winter-2014-gemnews-dyed-green-marble-imitating-jadeite), *Gems & Gemology*, Winter 2014
-- Gavin Clarke, GemSelect, [Chalcedony Gemstone Information](https://www.gemselect.com/gem-info/chalcedony/chalcedony-info.php), and Ross Sedawie, Gem Rock Auctions, [Onyx Stone](https://www.gemrockauctions.com/learn/a-z-of-gemstones/onyx-stone), updated February 26, 2026, both dealer guides
-- Skyjems, [Onyx Marble](https://skyjems.ca/pages/encyclopedia-onyx-marble), a dealer encyclopedia
-- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
+- Nathan Renfro, [A New Natural-Color Bluish Green Chalcedony](https://www.gia.edu/gems-gemology/winter-2015-gemnews-new-natural-color-bluish-green-chalcedony), *Gems & Gemology*, Winter 2015
+- Gem dealer guides on chalcedony, onyx and onyx marble, named and linked where the text cites them
+- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 98 to 99, 159 to 160, 251 to 252 and 276, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 151 to 152, 282 and 386, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- Modern associations compared across thenightsky.com, sagaciajewelry.com and greenmatters.com, read November 18, 2026
+- Nicholas M. Hobson, Juliana Schroeder, Jane L. Risen, Dimitris Xygalatas and Michael Inzlicht, "The Psychology of Rituals, An Integrative Review and Process-Based Framework," *Personality and Social Psychology Review* 22(3) (2018), pages 260 to 284, [doi.org/10.1177/1088868317734944](https://doi.org/10.1177/1088868317734944)
+- 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

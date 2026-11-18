@@ -25,8 +25,10 @@ sources:
   - "https://skyjems.ca/pages/encyclopedia-manganese-oxide-dendrite"
   - "https://minerals.net/variety/dendritic-agate"
   - "https://minerals.net/Mineral/Psilomelane.aspx"
+  - "https://www.gemsociety.org/article/agate-gem-information/"
   - "https://www.gemsociety.org/article/chalcedony-jewelry-and-gemstone-information/"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
+  - "https://cnmnc.units.it/"
   - "https://www.gemsociety.org/article/opal-jewelry-and-gemstone-information/"
   - "https://geology.com/rocks/gabbro.shtml"
   - "https://dakotastones.com/pages/gabbro-stone-glossary"
@@ -61,7 +63,7 @@ Merlinite is a trade name, not a mineral. Sellers use it for pale chalcedony or 
 | Salt | Unknown |
 | Toxic to handle | No. Cutting dust is a silica hazard |
 | Common mix-ups | Mystic Merlinite (indigo gabbro), iron oxide dendrites, moss agate |
-| Price range | [TO CHECK US retail ranges] |
+| Price range | Generally modest, set mostly by the pattern (see Price Guide) |
 | Birthstone | None |
 | Chakra (Modern Association) | Third eye and root in crystal guides |
 
@@ -69,9 +71,9 @@ Merlinite is a trade name, not a mineral. Sellers use it for pale chalcedony or 
 
 ## What Merlinite Actually Is
 
-**The Stone.** Merlinite is a name from the crystal trade, not from mineralogy. One dealer guide defines it as dendritic agate, "a variety of agate that contains tree-like inclusions called dendrites" ([Fierce Lynx Designs](https://fiercelynxdesigns.com/blogs/articles/indigo-gabbro-aka-mystic-merlinite-gemstone-information)). The dealer encyclopedia Skyjems uses it more narrowly, for "psilomelane-bearing opal or chalcedony from New Mexico" ([Skyjems](https://skyjems.ca/pages/encyclopedia-dendritic-opal)).
+**The Stone.** Merlinite is a name from the crystal trade, not from mineralogy. One dealer guide defines it as dendritic agate, "a variety of agate that contains tree-like inclusions called dendrites" ([Fierce Lynx Designs](https://fiercelynxdesigns.com/blogs/articles/indigo-gabbro-aka-mystic-merlinite-gemstone-information)). The dealer encyclopedia Skyjems uses it more widely, calling it "a trade name sometimes applied to psilomelane-bearing opal or chalcedony from New Mexico" ([Skyjems](https://skyjems.ca/pages/encyclopedia-dendritic-opal)).
 
-So the name describes a look, black branches on a pale stone, more than one material. Fierce Lynx Designs adds that "the original Merlinite was mined in New Mexico, but those areas have been exhausted," so ask where a piece was mined. Merlinite is not on the IMA List of Minerals (July 2026 edition). The similar name merlinoite, which is on it, belongs to an unrelated zeolite mineral approved in 1976.
+So the name describes a look, black branches on a pale stone, more than one material. Fierce Lynx Designs adds that "the original Merlinite was mined in New Mexico, but those areas have been exhausted," so ask where a piece was mined. Merlinite is not on the IMA List of Minerals (July 2026 edition). The similar name merlinoite belongs to a different, unrelated mineral, so check the spelling on a label.
 
 ### The Host Stone, Chalcedony or Opal
 
@@ -114,7 +116,7 @@ Fierce Lynx Designs says indigo gabbro is a fairly recent find from Madagascar, 
 **The Story.** Merlinite's meaning is young. The name appears in neither of George Frederick Kunz's books on gem lore (1913 and 1915), but pictures inside stones have an older story.
 
 - **1st century.** **Tradition.** Pliny the Elder wrote that Indian agates showed scenes like rivers, woods and animals (*Natural History*, Book 37, chapter 54, Bostock and Riley translation, [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D54)). He passed on the magicians' claims for agate without vouching for them.
-- **By 1913.** **Tradition.** In Kunz's list of what dreaming of each stone was said to foretell, dreaming of moss agates meant a trip that would fail (*The Curious Lore of Precious Stones*, 1913, page 358). He also describes rings whose stones spell a word with their first letters, believed to strengthen their influence. In his GOOD LUCK ring, the D is a stone he simply calls "dendrite" (pages 359 to 360).
+- **By 1913.** **Tradition.** In Kunz's list of what dreaming of each stone was said to foretell, dreaming of moss agates meant a trip that would fail (*The Curious Lore of Precious Stones*, 1913, page 358). He also describes rings whose stones spell a word with their first letters, believed to strengthen their influence. In his stone list for a GOOD LUCK ring, the D can be a stone he simply calls "dendrite" (pages 359 to 360).
 - **Late 20th century.** **Modern Association.** The crystal guide [Kerykeion](https://kerykeion.net/content/learn-crystals/crystals/merlinite) says the name was given "by crystal practitioners in the late twentieth century after Merlin," the wizard of Arthurian legend, for the stone's duality. [Find Your Fate](https://www.findyourfate.com/gemology/gemstones/merlinite.html) says metaphysical users chose the name.
 - **Recent years.** **Modern Association.** Indigo gabbro arrived as Mystic Merlinite, and much of what you read online about merlinite now mixes the two stones.
 
@@ -128,7 +130,7 @@ The "why" is easy to trace. The name borrows Merlin, "an archetype of the magici
 
 Some shop guides say merlinite supports the heart, circulation or breathing, eases headaches or helps with detox. The Mystic Merlinite guide above mentions relief from anxiety and depression, yet it also says there is no scientific evidence for such benefits and that the stone "should never be a substitute for medical care." Gem science and medicine agree. Treat merlinite as a pattern to enjoy and a cue for a habit, not a remedy.
 
-> **When a Stone Is Not Enough.** Merlinite is often chosen for "shadow work," hard memories and low moods. A stone can be a comfort, but it is not care. If anxiety, low mood or painful memories last or feel heavy, talk to a doctor or a therapist. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
+> **When a Stone Is Not Enough.** Merlinite is often chosen for "shadow work," hard memories and low moods. A stone can be a comfort, but it is not care. If anxiety, low mood or painful memories last or feel heavy, talk to a doctor or a therapist. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## How to Use Merlinite in Everyday Life
 
@@ -159,8 +161,8 @@ Some shop guides say merlinite supports the heart, circulation or breathing, eas
 We use the same five labels on every stone.
 
 - **Natural, untreated.** Chalcedony or opal with manganese oxide dendrites that grew inside the stone (Skyjems).
-- **Natural, treated.** Dyeing is an ancient and common way to enhance chalcedony, usually stable, and it should be disclosed ([International Gem Society](https://www.gemsociety.org/article/chalcedony-jewelry-and-gemstone-information/)). Porous dendritic opal is occasionally stabilized with colorless resin, which should also be disclosed (Skyjems). [TO CHECK whether dyed or painted patterns are sold as merlinite.]
-- **Lab-grown.** [TO CHECK whether lab-made or glass imitations are sold as merlinite.]
+- **Natural, treated.** Dyeing is an ancient and common way to enhance chalcedony, usually stable, and it should be disclosed ([International Gem Society](https://www.gemsociety.org/article/chalcedony-jewelry-and-gemstone-information/)). Porous dendritic opal is occasionally stabilized with colorless resin, which should also be disclosed (Skyjems). Skyjems adds that dyeing is not a documented commercial practice for dendritic opal. We found no reference source on dyed or painted dendrite patterns sold as merlinite.
+- **Lab-grown.** We found no reference source on lab-grown or glass merlinite. Skyjems says synthetic or simulant dendritic opal is not a significant market concern.
 - **Imitation and mix-ups.** Mystic Merlinite is a natural rock, but not merlinite. Skyjems also warns that uninformed sellers sometimes pass dendritic agate off as opal.
 - **Trade names.** Merlinite, Mystic Merlinite and Blizzard Stone are all trade names, and "moss opal" is a looser term for fine, mossy dendrites in opal (Skyjems).
 
@@ -199,7 +201,7 @@ A quick wash, yes. A long soak, not by our data, which covers washing only. Dend
 
 ## Price Guide
 
-Dendritic agate is far more common than dendritic opal, which sells at a modest premium for a pattern of similar quality, according to Skyjems. Pattern drives value, judged on composition, contrast between dark branches and a pale ground, and how translucent the host is. A slab cut across the dendrite plane loses the picture, so cutters lay that plane parallel to the base of a cabochon (Skyjems). Shop with your eyes, not the label. [TO CHECK US retail ranges]
+Dendritic agate is far more common than dendritic opal, which sells at a modest premium for a pattern of similar quality, according to Skyjems. Pattern drives value, judged on composition, contrast between dark branches and a pale ground, and how translucent the host is. A slab cut across the dendrite plane loses the picture, so cutters lay that plane parallel to the base of a cabochon (Skyjems). The [International Gem Society](https://www.gemsociety.org/article/agate-gem-information/) calls agate's value generally quite modest, with labor and artistry counting for more than the stone. Larger pieces with fine or landscape-like patterns, custom cuts and stones from prized locations cost more, and dyeing should be disclosed (International Gem Society). Shop with your eyes, not the label.
 
 **Next Step.** Want the same pattern under its plain name? Read our [dendritic agate](/stones/dendritic-agate/) guide.
 
@@ -207,14 +209,14 @@ Dendritic agate is far more common than dendritic opal, which sells at a modest 
 
 - Dealer guides, Fierce Lynx Designs, [Indigo Gabbro Merlinite](https://fiercelynxdesigns.com/blogs/articles/indigo-gabbro-aka-mystic-merlinite-gemstone-information) (March 12, 2026), Skyjems, [Dendritic Opal](https://skyjems.ca/pages/encyclopedia-dendritic-opal) and [Manganese-Oxide Dendrite](https://skyjems.ca/pages/encyclopedia-manganese-oxide-dendrite), and Dakota Stones, [Gabbro Stone Glossary](https://dakotastones.com/pages/gabbro-stone-glossary)
 - Minerals.net, [Dendritic Agate](https://minerals.net/variety/dendritic-agate) and [Psilomelane](https://minerals.net/Mineral/Psilomelane.aspx)
-- International Gem Society, [Chalcedony](https://www.gemsociety.org/article/chalcedony-jewelry-and-gemstone-information/), [Opal](https://www.gemsociety.org/article/opal-jewelry-and-gemstone-information/) and [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
-- Hobart M. King, Geology.com, [Gabbro](https://geology.com/rocks/gabbro.shtml), and the IMA List of Minerals, July 2026 edition
-- Pliny the Elder, *Natural History*, Book 37, chapter 54, Bostock and Riley translation (1855), [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D54)
+- International Gem Society, [Agate](https://www.gemsociety.org/article/agate-gem-information/), [Chalcedony](https://www.gemsociety.org/article/chalcedony-jewelry-and-gemstone-information/), [Opal](https://www.gemsociety.org/article/opal-jewelry-and-gemstone-information/) and [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
+- Hobart M. King, Geology.com, [Gabbro](https://geology.com/rocks/gabbro.shtml), and the IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
+- Pliny the Elder, *Natural History*, Book 37, chapter 54, Bostock and Riley translation (1855), [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D54)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 358 to 360, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
 - Robert A. Emmons and Michael E. McCullough, "Counting blessings versus burdens," *Journal of Personality and Social Psychology* 84(2), 2003, [DOI 10.1037/0022-3514.84.2.377](https://doi.org/10.1037/0022-3514.84.2.377)
 - 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

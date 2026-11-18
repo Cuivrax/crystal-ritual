@@ -19,6 +19,9 @@ publishTime: "08:38"
 status: "draft"
 page_type: "stone"
 sources:
+  - "https://988lifeline.org/"
+  - "https://doi.org/10.1017/S1092852925100515"
+  - "https://cnmnc.units.it/"
   - "https://www.gemsociety.org/article/adamite-jewelry-gem-listings/"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
   - "https://www.gemsociety.org/article/gemstone-toxicity-table/"
@@ -64,8 +67,8 @@ Adamite is a zinc arsenate mineral, Zn₂(AsO₄)(OH), prized by collectors for 
 | Chemicals | Avoid. Soluble in acids |
 | Toxic to handle | Avoid. Rated High risk (arsenic, copper) by the International Gem Society |
 | Treatments | None known |
-| Common fakes | [TO CHECK] |
-| Price range | [TO CHECK US retail ranges] |
+| Common fakes | None documented. Look-alikes include olivenite and smithsonite |
+| Price range | Compare form, clarity, color and mine, see the Price Guide |
 | Birthstone | Not on the modern list |
 | Chakra (Modern Association) | Heart, solar plexus or throat, depending on the guide |
 
@@ -116,7 +119,7 @@ Rarely, and only for collectors. At 3.5 on the Mohs scale with good cleavage, ad
 - **1866.** **Mineral Fact.** Adamite is described and named for Gilbert-Joseph Adam, who supplied the first specimens (IMA List of Minerals, *Handbook of Mineralogy*). Chañarcillo, in Chile's Atacama region, is usually given as its type locality.
 - **1948, Mexico.** **Mineral Fact.** *American Mineralogist* publishes a study of adamite from the Ojuela Mine by Mrose, Mayers and Wise (cited in the *Handbook of Mineralogy*).
 - **2016, California.** **Mineral Fact.** GIA identifies a faceted adamite with standard tests, Raman spectroscopy and X-ray fluorescence, noting that its weak glow was atypical (*Gems & Gemology*).
-- **Today.** **Modern Association.** Crystal guides call it a stone of joy, creativity and emotional calm. These meanings trace to modern crystal books [TO CHECK book titles and years].
+- **Today.** **Modern Association.** Crystal guides call it a stone of joy, creativity and emotional calm. These meanings come from modern crystal books and seller guides, not from any old text.
 
 ### Is There Ancient Adamite Lore?
 
@@ -136,7 +139,7 @@ As a mineral, adamite holds zinc and arsenic, grows in the weathered zone of ore
 
 Some guides go much further and promise help for the heart and lungs, hormones, skin, seasonal affective disorder and premenstrual syndrome, and a French shop suggests slipping adamite under the pillow for deeper sleep. Gem science and medicine do not back those claims. One shop also recommends it for shy children and teens. With an arsenic mineral, that is the one use to rule out.
 
-> **When a Stone Is Not Enough.** Adamite is often chosen for anxiety, stress and emotional overload. A stone can be a comfort to look at, but it is not care. If anxiety, low mood or exhaustion lasts or feels heavy, talk to a doctor or a therapist, and never use a stone in place of treatment.
+> **When a Stone Is Not Enough.** Adamite is often chosen for anxiety, stress and emotional overload. A stone can be a comfort to look at, but it is not care. If anxiety, low mood or exhaustion lasts or feels heavy, talk to a doctor or a therapist, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## How to Use Adamite in Everyday Life
 
@@ -160,7 +163,7 @@ Some guides go much further and promise help for the heart and lungs, hormones, 
 
 **Safety.** Never put adamite in your mouth, near food or in any drink. The handling rules are in the care section below.
 
-**What Research Says.** [TO CHECK research study with DOI] Until then, treat these as personal practices. None of them depends on the stone doing anything.
+**What Research Says.** In a 2025 randomized controlled study, 138 adults, 70 who believed in crystal healing and 68 who did not, used either real rose quartz or a visually matched glass imitation for 14 days, and anxiety scores fell only among the believers, with the real stone doing no better than the glass ([Escolà-Gascón and colleagues, 2025](https://doi.org/10.1017/S1092852925100515)). It was one trial in adults whose anxiety was low to begin with, the scores were self-reported, and it did not test adamite. Treat these as personal practices. None of them depends on the stone doing anything.
 
 ## Is My Adamite Real?
 
@@ -169,7 +172,7 @@ We use the same five labels on every stone. Adamite is one of the rare stones wh
 - **Natural, untreated.** The normal state of adamite. The International Gem Society knows of no gem enhancements for it.
 - **Natural, treated.** None known (International Gem Society).
 - **Lab-grown.** Scientists have made synthetic adamite-olivenite for spectroscopy research, with no known jewelry use (International Gem Society).
-- **Imitation.** [TO CHECK which imitations or relabeled minerals are sold as adamite.]
+- **Imitation.** We found no reference source describing imitations or relabeled minerals sold as adamite. What reference sources do describe are look-alikes, covered in Adamite vs Look-Alikes below.
 - **Trade names.** Cuprian adamite or cuproadamite (copper, green to blue), cobaltoadamite (cobalt, purple) and manganoan adamite (manganese, purple to pink). These are real varieties, not fakes.
 
 Three checks you can do at home, with their limits.
@@ -213,7 +216,13 @@ Cleansing ideas that need no contact, like a sound bowl or moonlight on the clos
 
 ## Price Guide
 
-Adamite sells mostly as mineral specimens, and faceted stones are small collector pieces (International Gem Society). [TO CHECK US retail ranges]
+Adamite sells mostly as mineral specimens, and faceted stones are small collector pieces (International Gem Society). We found no current US listing for adamite with a clear price and size, so this guide gives no figures. These are the things to compare.
+
+- **Form.** A crystal specimen on matrix and a faceted stone are different purchases, and adamite turns up far more often as a specimen than in jewelry (International Gem Society).
+- **Clarity and size.** Green material is usually not clean and yields only small faceted gems of about 1 to 3 carats, and violet crystals noted up to 1 cm long would give stones of about 1 to 2 carats (International Gem Society).
+- **Color and glow.** Iron gives yellow, copper green, and cobalt and manganese pink to purple (International Gem Society). Collectors want adamite for its pretty crystals and its fluorescence (Minerals.net), and copper can stop the glow.
+- **Mine.** The International Gem Society singles out the Ojuela Mine in Mexico, Tsumeb in Namibia and Laurium in Greece, so ask for the mine on the label.
+- **Treatment.** No gem enhancements are known for adamite (International Gem Society), so the question to ask is about glue or repairs on a specimen.
 
 **Next Step.** Want a calming stone you can actually hold? Compare the usual picks in [crystals for anxiety](/crystals-for/anxiety/).
 
@@ -224,10 +233,12 @@ Adamite sells mostly as mineral specimens, and faceted stones are small collecto
 - *Handbook of Mineralogy*, [Adamite](https://www.handbookofmineralogy.org/pdfs/adamite.pdf), Mineral Data Publishing, 2001 to 2005, citing Mrose, Mayers and Wise, *American Mineralogist* 33 (1948)
 - Rebecca Tsang, [Unusual Colored Stones](https://www.gia.edu/gems-gemology/spring-2016-labnotes-unusual-colored-stones), *Gems & Gemology*, Spring 2016
 - Merriam-Webster, [Adamite](https://www.merriam-webster.com/dictionary/adamite)
-- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
+- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- Modern associations compared across crystalvaults.com, crystalgemstones.net, france-mineraux.fr, wemystic.fr, realitypathing.com, fiercelynxdesigns.com and the Crystals and Beyond podcast, read November 18, 2026
+- Álex Escolà-Gascón, Neil Dagnall, Kenneth Drinkwater, A. Denovan and Julián Benito-León, "Placebo Effects in Alternative Medical Treatments for Anxiety, False Hope or Healing Potential?" *CNS Spectrums* 30(1), e70 (2025), [doi.org/10.1017/S1092852925100515](https://doi.org/10.1017/S1092852925100515)
+- 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

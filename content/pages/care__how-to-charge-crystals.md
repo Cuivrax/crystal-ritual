@@ -16,7 +16,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-05"
 publishTime: "07:14"
-status: "draft"
+status: "verified"
 page_type: "guide"
 sources:
   - "https://aa.usno.navy.mil/faq/moon_phases"
@@ -43,15 +43,16 @@ sources:
   - "https://www.edelsteine.net/topas/"
   - "https://www.edelsteine.net/dolomit-beige/"
   - "https://www.crystals.com/blogs/news/citrine-meaning-properties"
-  - "https://www.essex-fire.gov.uk/incidents/sunlight-reflecting-crystal-ball-causes-fire-2024-01-26-15-25"
-  - "https://www.london-fire.gov.uk/news/2014-news/crystal-ball-sets-light-to-bedroom-in-romford"
+  - "https://doi.org/10.1017/S1092852925100515"
+  - "https://www.epa.gov/indoor-air-quality-iaq/sources-indoor-particulate-matter-pm"
+  - "https://vetmed.illinois.edu/pet-health-columns/bad-for-birds-prevent-poisoning-in-avian-pets/"
 ---
 
 # How to Charge Crystals and What Charging Actually Means
 
 To charge a crystal, practitioners set it somewhere for a while, most often in moonlight overnight, sometimes in sunlight, on a quartz cluster or in their hands with an intention. Charging is a belief that the stone takes on fresh energy, not a measurable change. Moonlight is the gentlest method, but sunlight fades some stones, so check yours first.
 
-<!-- PHOTO TO FIND, hero. Owner photo wanted, a few tumbled stones and a small quartz cluster on a windowsill at night with the moon or a moonlit sky behind the glass. No licensed candidate in images_candidates.csv or images_commons_candidates.csv shows this, and a generated image must not stand in for a real stone. -->
+<!-- PHOTO HERO. File site/photos/care__how-to-charge-crystals/hero.jpg. Source Unsplash, https://unsplash.com/photos/FHxQLQQpQcA . License Unsplash License. Credit "Photo by Content Pixie on Unsplash". Visual check 2026-11-18, Amethyst and clear quartz on a gold tray. -->
 
 ## What Charging Means in Crystal Practice
 
@@ -59,11 +60,11 @@ To charge a crystal, practitioners set it somewhere for a while, most often in m
 
 German-language guides split the job most neatly. They "discharge" a stone under lukewarm running water, or overnight among hematite tumbled stones, then charge it overnight on rock crystal or in an amethyst druse ([Edelsteine.net topaz](https://www.edelsteine.net/topas/), [dolomite](https://www.edelsteine.net/dolomit-beige/), [citrine](https://www.edelsteine.net/citrin/)).
 
-**Tradition.** The idea that a stone answers to the moon is old. Kunz tells of a "musical stone" from the river Hydaspes that was said to sound different when the moon was waxing, "a fanciful idea based on some supposed sympathy between the stone and the moon" (*The Magic of Jewels and Charms*, 1915, pages 2 to 3). In the 1500s Antoine Mizauld described a selenite whose white mark grew and shrank with the moon (*The Curious Lore of Precious Stones*, 1913, page 98). The moon itself had two reputations. It was sometimes thought baleful and linked to "lunacy", and at other times believed to drive off the powers of darkness (1913, pages 27 to 29). None of these stories has anyone setting a stone out to recharge it. That habit is modern [TO CHECK the earliest dated source for charging crystals in moonlight or sunlight].
+**Tradition.** The idea that a stone answers to the moon is old. Kunz tells of a "musical stone" from the river Hydaspes that was said to sound different when the moon was waxing, "a fanciful idea based on some supposed sympathy between the stone and the moon" (*The Magic of Jewels and Charms*, 1915, pages 2 to 3). In the 1500s Antoine Mizauld described a selenite whose white mark grew and shrank with the moon (*The Curious Lore of Precious Stones*, 1913, page 98). The moon itself had two reputations. It was sometimes thought baleful and linked to "lunacy", and at other times believed to drive off the powers of darkness (1913, pages 27 to 29). None of these stories has anyone setting a stone out to recharge it. That habit is a modern practice, and we found no dated source for when it began.
 
 **The Stone.** Here is the honest twist. Some minerals really do have electrical talents. Quartz crystals vibrate at such precise frequencies that billions of them keep time in watches and clocks ([Geology.com](https://geology.com/minerals/quartz.shtml)). Tourmaline produces electricity under pressure and when heated ([International Gem Society](https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/)). Those are real properties, and a night on the windowsill does not change either one.
 
-**What Research Says.** [TO CHECK a peer-reviewed study with DOI on crystals, expectation and placebo, with its sample size, and say plainly that it did not test moonlight charging.]
+**What Research Says.** In a 2025 randomized study of 138 adults, some who believed in crystal healing and some who did not, people used either a real rose quartz or a visually matched glass imitation for 14 days, and anxiety scores fell only among the believers, with the real stone doing no better than the glass ([Escolà-Gascón and colleagues, 2025](https://doi.org/10.1017/S1092852925100515)). It was one trial in adults whose anxiety was low to begin with, and it did not test charging in moonlight or sunlight at all.
 
 ## How to Charge Crystals in Moonlight
 
@@ -110,7 +111,7 @@ Our [Care Checker](/tools/crystal-care-checker/) gives the verdict for your exac
 
 You can charge some crystals in the sun, but the sun is the one charging method that can physically change a stone. Our care data sorts stones like this.
 
-- **Keep out of strong sun.** Smoky quartz (Wikipedia), kunzite (Wikipedia), celestite (dealers), some chrysoprase ([Geology.com](https://geology.com/gemstones/chrysoprase/)), azurite, which loses its blue in light ([IGS](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/)), blue zircon, which UV turns brown ([GIA](https://www.gia.edu/gems-gemology/fall-2016-reversible-color-modification-blue-zircon-long-wave-ultraviolet-radiation)), and dyed stones.
+- **Keep out of strong sun.** Smoky quartz and kunzite, both often said to fade in UV light or sunlight, celestite (dealers), some chrysoprase ([Geology.com](https://geology.com/gemstones/chrysoprase/)), azurite, which loses its blue in light ([IGS](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/)), blue zircon, which UV turns brown ([GIA](https://www.gia.edu/gems-gemology/fall-2016-reversible-color-modification-blue-zircon-long-wave-ultraviolet-radiation)), and dyed stones.
 - **Short spells only.** Amethyst and citrine, which GIA says can fade with prolonged exposure to intense light ([GIA amethyst](https://www.gia.edu/amethyst-care-cleaning), [GIA citrine](https://www.gia.edu/citrine-care-cleaning)), plus fluorite ([IGS](https://www.gemsociety.org/article/fluorite-jewelry-gemstone-information/)), turquoise and some topaz.
 - **Fine in the sun.** Rose quartz ([IGS](https://www.gemsociety.org/article/rose-quartz/)), malachite ([Geology.com](https://geology.com/minerals/malachite.shtml)), treated blue topaz ([Geology.com](https://geology.com/gemstones/blue-topaz/)) and peach moonstone.
 
@@ -150,9 +151,9 @@ Guides vary, from every two weeks to once a month, often at the full moon. Pick 
 **Safety.** Charging is gentle, but a few rules still apply.
 
 - **No charged water to drink.** If a guide tells you to charge water with a stone in it, keep the stone outside the jar, as in our [moon water guide](/rituals/moon-water/). Malachite, azurite, chrysocolla, pyrite, galena, cinnabar, stibnite, realgar, orpiment and any dyed or stabilized stone never go in water you drink.
-- **Watch round, clear stones in the sun.** A clear sphere can act like a lens and focus sunlight into a hot spot, and fire services have reported house fires started by a crystal ball in a sunny window ([Essex County Fire & Rescue Service](https://www.essex-fire.gov.uk/incidents/sunlight-reflecting-crystal-ball-causes-fire-2024-01-26-15-25), [London Fire Brigade](https://www.london-fire.gov.uk/news/2014-news/crystal-ball-sets-light-to-bedroom-in-romford)) [TO CHECK a US fire source, usfa.fema.gov or nfpa.org]. Keep clear spheres, and anything else that can focus light, out of direct sun, and never leave one on a windowsill with curtains or paper nearby.
+- **Watch round, clear stones in the sun.** A clear sphere can act like a lens and focus sunlight into a hot spot, the same way a magnifying glass does. Keep clear spheres, and anything else that can focus light, out of direct sun, and never leave one on a windowsill with curtains or paper nearby.
 - **Candles stay away from the stones.** Our data marks heat as a risk for many stones, opal and amethyst among them ([IGS opal](https://www.gemsociety.org/article/opal-jewelry-and-gemstone-information/)). Never leave a flame unattended.
-- **Smoke needs care.** If smoke from sage, palo santo or incense is part of your routine, ventilate the room and keep pets, birds, small children and anyone with asthma or a lung condition away from the smoke [TO CHECK health source on indoor incense and smoke]. Never leave it burning unattended.
+- **Smoke needs care.** If smoke from sage, palo santo or incense is part of your routine, ventilate the room. The EPA notes that burning almost anything produces tiny particles, and that particle pollution can aggravate asthma and decrease lung function. It asks for proper ventilation when you burn candles or incense indoors ([EPA](https://www.epa.gov/indoor-air-quality-iaq/sources-indoor-particulate-matter-pm)). Keep small children and anyone with asthma or a lung condition away from the smoke, and keep pet birds out of the room, since a bird's respiratory system is very sensitive and aerosols such as smoking or vaping may be toxic to birds ([Illinois Vet Med](https://vetmed.illinois.edu/pet-health-columns/bad-for-birds-prevent-poisoning-in-avian-pets/)). Other pets are best kept out of the smoke too. Never leave it burning unattended.
 - **Small stones are not toys.** Keep windowsill displays out of reach of small children and pets.
 
 **Next Step.** Want to know which moon was in the sky the night you were born? Try the [Birthday Moon](/moon/birthday-moon/) tool.
@@ -163,12 +164,13 @@ Guides vary, from every two weeks to once a month, often at the full moon. Pick 
 - Hobart M. King, Geology.com, [Quartz](https://geology.com/minerals/quartz.shtml), [Chrysoprase](https://geology.com/gemstones/chrysoprase/), [Malachite](https://geology.com/minerals/malachite.shtml) and [Blue Topaz](https://geology.com/gemstones/blue-topaz/)
 - International Gem Society, [Tourmaline](https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/), [Gypsum](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/), [Rose Quartz](https://www.gemsociety.org/article/rose-quartz/), [Azurite](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/), [Fluorite](https://www.gemsociety.org/article/fluorite-jewelry-gemstone-information/) and [Opal](https://www.gemsociety.org/article/opal-jewelry-and-gemstone-information/)
 - Gemological Institute of America, [Amethyst Care and Cleaning](https://www.gia.edu/amethyst-care-cleaning), [Citrine Care and Cleaning](https://www.gia.edu/citrine-care-cleaning), and Gems & Gemology, [reversible color modification of blue zircon](https://www.gia.edu/gems-gemology/fall-2016-reversible-color-modification-blue-zircon-long-wave-ultraviolet-radiation) (2016)
-- Wikipedia, [Smoky Quartz](https://en.wikipedia.org/wiki/Smoky_quartz), kept as a warning only
+- Álex Escolà-Gascón and colleagues, "Placebo Effects in Alternative Medical Treatments for Anxiety, False Hope or Healing Potential?" *CNS Spectrums* 30(1), e70 (2025), [doi.org/10.1017/S1092852925100515](https://doi.org/10.1017/S1092852925100515)
+- US Environmental Protection Agency, [Sources of Indoor Particulate Matter](https://www.epa.gov/indoor-air-quality-iaq/sources-indoor-particulate-matter-pm) (updated March 10, 2026)
+- University of Illinois College of Veterinary Medicine, [Bad for Birds, Prevent Poisoning in Avian Pets](https://vetmed.illinois.edu/pet-health-columns/bad-for-birds-prevent-poisoning-in-avian-pets/) (April 9, 2026)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 27 to 29 and 98, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 2 to 3, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - Care ratings from our own care database, the same data as the [Care Checker](/tools/crystal-care-checker/), generated November 18, 2026
-- Modern charging practices from crystal guides, including edelsteine.net, journee-mondiale.com, aglaiaco.com, bindi-online.com and crystals.com
-- Fire service reports on sunlight through a crystal ball, [Essex County Fire & Rescue Service](https://www.essex-fire.gov.uk/incidents/sunlight-reflecting-crystal-ball-causes-fire-2024-01-26-15-25) and [London Fire Brigade](https://www.london-fire.gov.uk/news/2014-news/crystal-ball-sets-light-to-bedroom-in-romford)
+- Modern charging practices as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

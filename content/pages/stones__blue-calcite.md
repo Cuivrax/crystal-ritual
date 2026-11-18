@@ -48,6 +48,8 @@ sources:
   - "https://www.crystals.com/blogs/news/blue-calcite-crystal-meanings-and-uses"
   - "https://moonrisecrystals.com/blue-calcite-meaning/"
   - "https://crystalgemstones.net/blue-calcite-meaning-and-spiritual-properties.html"
+  - "https://988lifeline.org/"
+  - "https://www.samhsa.gov/mental-health/988"
   - "https://www.france-mineraux.fr/vertus-des-pierres/pierre-calcite-bleue/"
   - "https://www.wemystic.fr/pierre-calcite-bleue/"
 ---
@@ -56,7 +58,7 @@ sources:
 
 Blue calcite is a pale blue form of calcite, the calcium carbonate mineral that also makes up limestone and marble. Crystal lovers link it with calm, gentle speech and better sleep, and place it on the throat chakra. Those meanings are modern beliefs. The stone itself is soft, rating 3 on the Mohs scale, and acids dissolve it.
 
-<!-- PHOTO TO FIND, hero. No blue calcite photo in our image files has a visual check yet, and the Smithsonian CC0 file has 0 blue calcite rows. One Wikimedia Commons candidate to check, "File Spurrite with blue calcite (GeoDIL number - 676).jpg" by Darla Sondrol, page https://commons.wikimedia.org/wiki/File:Spurrite_with_blue_calcite_(GeoDIL_number_-_676).jpg , license CC0, source credit https://geodil.dperkins.org/h/676.html . It shows blue calcite with white-green spurrite from the Crestmore quarries, California, so it may suit the "Where It Forms" section better than the hero. Check visually and log visual_check before use. Wanted for the hero, an opaque sky-blue blue calcite chunk or palm stone identified by a museum or a named collection. -->
+<!-- PHOTO HERO. File site/photos/stones__blue-calcite/hero.jpg. Source Openverse/Flickr, https://www.flickr.com/photos/34198607@N02/6811394911 . License BY 2.0. Credit "Photo by balanced.crafts on Flickr (BY 2.0)". Visual check 2026-11-18, Pale blue-grey calcite rough on white (alt has red-brown streaks). -->
 
 ## Blue Calcite Properties & Quick Facts
 
@@ -140,7 +142,7 @@ The marginal associations scatter. One guide gives Cancer as its sign, a French 
 
 **What Research Says.** In a remote randomized study of 108 adults, 5 minutes a day of breathwork for a month, especially exhale-focused cyclic sighing, improved mood and lowered breathing rate more than the same time spent in mindfulness meditation (Balban and colleagues, *Cell Reports Medicine*, 2023, [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)). It began as an exploratory study, volunteers knew which exercise they were doing and rated their own mood, and it tested breathing, not stones. The link to blue calcite is our extrapolation.
 
-> **When a Stone Is Not Enough.** Blue calcite is often chosen for anxiety, racing thoughts and sleep. A stone can be a comfort to hold, but it is not care. If anxiety, poor sleep or headaches last or feel heavy, talk to a doctor or a therapist, and never use a stone in place of treatment.
+> **When a Stone Is Not Enough.** Blue calcite is often chosen for anxiety, racing thoughts and sleep. A stone can be a comfort to hold, but it is not care. If anxiety, poor sleep or headaches last or feel heavy, talk to a doctor or a therapist, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
 
 ## Is My Blue Calcite Real?
 
@@ -224,7 +226,7 @@ Small pieces cost little. A tumbled stone half an inch to an inch across was $8 
 - International Gem Society, [Calcite](https://www.gemsociety.org/article/calcite-jewelry-gemstone-information/), [Celestite](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/) and the [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Hobart M. King, Geology.com, [Calcite](https://geology.com/minerals/calcite.shtml), and Amethyst Galleries, [The Mineral Calcite](https://galleries.com/minerals/carbonat/calcite/calcite.htm)
 - *Handbook of Mineralogy*, [Calcite](https://www.handbookofmineralogy.org/pdfs/calcite.pdf) (Mineral Data Publishing), and minerals.net, [Calcite](https://www.minerals.net/mineral/calcite.aspx)
-- Jaroslav Hyršl, "Cat's-Eye Calcite from Pakistan," *Gems & Gemology*, Summer 2015, [GIA](https://origin.prod.gia.edu/dam/jcr:a09d615a-e4e7-4a8a-bde9-84cfe4477e01/GG-SU15-Gem-News-International.pdf), and Shu-Hong Lin and Huei-Fen Chen, "Barite-Calcite Composite as Imitation 'Wulanhua' Turquoise," *Gems & Gemology*, Spring 2022, [GIA](https://www.gia.edu/gems-gemology/spring-2022-gemnews-barite-calcite-composite-imitation-wulanhua-turquoise-hubei-china)
+- Jaroslav Hyršl, "Cat's-Eye Calcite from Pakistan," *Gems & Gemology*, Summer 2015, [GIA](https://origin.prod.gia.edu/dam/jcr:a09d615a-e4e7-4a8a-bde9-84cfe4477e01/GG-SU15-Gem-News-International.pdf), and Shu-Hong Lin and colleagues, "Barite-Calcite Composite as Imitation 'Wulanhua' Turquoise," *Gems & Gemology*, Spring 2022, [GIA](https://www.gia.edu/gems-gemology/spring-2022-gemnews-barite-calcite-composite-imitation-wulanhua-turquoise-hubei-china)
 - Dave Richerson, Natural History Museum of Utah, [What Is Calcite?](https://nhmu.utah.edu/articles/what-is-calcite) (2023)
 - Terry E. Huizing, New Mexico Mineral Symposium (2015), [doi.org/10.58799/NMMS-2015.505](https://doi.org/10.58799/NMMS-2015.505)
 - G. Ropars and colleagues, *Proceedings of the Royal Society A* (2011), [doi.org/10.1098/rspa.2011.0369](https://doi.org/10.1098/rspa.2011.0369)
@@ -233,6 +235,7 @@ Small pieces cost little. A tumbled stone half an inch to an inch across was $8 
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 9 to 10, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
 - Dealer and jewelry references on calcite care and look-alikes, linked in the text above
 - The [IMA List of Minerals](https://cnmnc.units.it/), July 2026 edition, from the official IMA CNMNC site
+- 988 Suicide & Crisis Lifeline contact details from [988lifeline.org](https://988lifeline.org/) and [SAMHSA](https://www.samhsa.gov/mental-health/988)
 - Retail prices from US-dollar listings at online crystal shops, read November 2026
 - Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 

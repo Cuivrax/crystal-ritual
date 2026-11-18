@@ -158,7 +158,21 @@ export function processLabels(tree) {
     const lead = leadStrong(node);
     if (!lead) return 'skip';
     const top = parent.type === 'root' || isEl(parent, ['section', 'div']);
-    if (top && NOTE_KEYS[lead.key]) { addClass(node, 'note', NOTE_KEYS[lead.key]); lead.node.properties.className = ['note-lead']; }
+    if (top && NOTE_KEYS[lead.key]) {
+      addClass(node, 'note', NOTE_KEYS[lead.key]);
+      lead.node.properties.className = ['note-lead'];
+      // The Next Step lead is an eyebrow on its own line, it drops its period.
+      if (lead.key === 'next step') {
+        lead.node.children = [txt('Next Step')];
+        // The rest of the text goes in one span, so the card can center it as a single block.
+        const at = node.children.indexOf(lead.node);
+        if (at >= 0) {
+          const rest = node.children.slice(at + 1);
+          if (rest.length && rest[0].type === 'text') rest[0] = { ...rest[0], value: rest[0].value.replace(/^\s+/, '') };
+          node.children = [...node.children.slice(0, at + 1), el('span', { className: ['note-body'] }, rest)];
+        }
+      }
+    }
     if (LAYER_KEYS[lead.key]) node.properties.dataLayer = LAYER_KEYS[lead.key];
     return 'skip';
   });
@@ -305,6 +319,7 @@ export function processLists(tree) {
         addClass(li, 'step-card');
         const body = itemBody(li);
         const strong = dropLeadStrong(body);
+        tidyStart(body);
         const lead = el('p', { className: ['step-lead'] }, [txt(leads[k].label.replace(/\.$/, ''))]);
         const rest = body === li ? [el('p', {}, li.children.filter((c) => c !== strong))] : [el('p', {}, body.children), ...meaningful(li.children).slice(1)];
         li.children = [lead, ...rest];
@@ -313,6 +328,14 @@ export function processLists(tree) {
     }
     return undefined;
   });
+}
+
+/** After a bold lead is lifted out, "**Find the moon**, or the sky" leaves ", or the sky". Start clean. */
+function tidyStart(body) {
+  const first = (body.children || []).find((c) => !isBlank(c));
+  if (!first || first.type !== 'text') return;
+  const m = first.value.match(/^\s*[,;]\s*(.)/s);
+  if (m) first.value = m[1].toUpperCase() + first.value.slice(m[0].length);
 }
 
 // ------------------------------------------------------------ headings

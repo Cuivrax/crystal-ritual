@@ -21,11 +21,20 @@ page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/beryl-jewelry-gemstone-information/"
   - "https://geology.com/minerals/beryl.shtml"
-  - "https://en.wikipedia.org/wiki/Beryl"
   - "https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.04%3A_Beryl/16.4.04%3A_Vanadium_Beryl"
   - "https://www.gia.edu/gems-gemology/summer-2025-gemnews-emeralds-and-beryl-from-kazakhstan-and-ukraine"
+  - "https://www.gia.edu/gems-gemology/winter-2016-labnotes-dyed-green-beryl"
+  - "https://www.gia.edu/tourmaline/gem-overview"
+  - "https://www.gia.edu/peridot/gem-overview"
+  - "https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/"
+  - "https://www.gemsociety.org/article/peridot-jewelry-and-gemstone-information/"
+  - "https://gemsociety.org/article/diamond-and-simulant-comparison-chart"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
+  - "https://osha.gov/beryllium/"
   - "https://www.americangemsociety.org/birthstones/"
+  - "https://cnmnc.units.it/"
+  - "https://doi.org/10.1177/0956797618772506"
+  - "https://www.gemrockauctions.com/products/top-quailty-500-carat-natural-green-beryl-gemstone-sku-a13-1360465"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
   - "https://www.firemountaingems.com/learn/categories/essential-resources/gemstone-meanings/beryl-gemstone-meanings.html"
@@ -64,8 +73,8 @@ Green beryl is light green beryl, the same mineral as emerald and aquamarine, wh
 | Salt | Unknown |
 | Chemicals | Unknown |
 | Toxic to handle | Brief only. Sources conflict, so never cut, sand or grind it |
-| Common fakes | Lab-grown beryl, green beryl sold as emerald, glass [TO CHECK] |
-| Price range | Far below emerald [TO CHECK US retail ranges] |
+| Common fakes | Lab-grown beryl, green beryl sold as emerald, beryl dyed green. Green tourmaline, peridot and glass look similar |
+| Price range | Far below emerald. One faceted 5-carat stone listed at $250 (November 2026) |
 | Birthstone | None. Emerald is May's birthstone, and green beryl is not emerald |
 | Chakra (Modern Association) | Heart, in most guides that cover it |
 
@@ -91,7 +100,7 @@ Usually it is aquamarine. The International Gem Society describes aquamarine as 
 
 ### Where It Grows & How Big It Gets
 
-Beryllium is a rare metal, so beryl forms only where enough of it gathers, mainly in granite, rhyolite and granite pegmatites, in nearby metamorphic rocks and in veins altered by hot fluids (Geology.com). Beryl is found worldwide (IGS). [TO CHECK which mines supply green beryl to the US market today.]
+Beryllium is a rare metal, so beryl forms only where enough of it gathers, mainly in granite, rhyolite and granite pegmatites, in nearby metamorphic rocks and in veins altered by hot fluids (Geology.com). Beryl is found worldwide (IGS). We found no reference source on which mines supply the green beryl sold in the US today.
 
 Green beryl can be both clear and huge. Aquamarines and green beryls "may be completely transparent and still be very large," says IGS, which mentions a completely transparent crystal of 243 pounds (110 kg) found in Brazil in 1910. The Smithsonian holds green beryls of 1,363, 914 and 578 carats from Brazil, plus smaller pale green stones from Brazil and Connecticut and a 23-carat green stone from Maine (IGS).
 
@@ -120,7 +129,7 @@ Some guides go much further, with claims about eye strain, asthma, kidney stones
 
 ### Where the Guides Contradict Our Care Data
 
-Beryl water is an old belief, not a remedy. The medieval writer Thomas de Cantimpré said that water in which a beryl had been steeped would relieve hiccups (Kunz, *The Magic of Jewels and Charms*, 1915, page 130), and [Fire Mountain Gems](https://www.firemountaingems.com/learn/categories/essential-resources/gemstone-meanings/beryl-gemstone-meanings.html) repeats a story of beryl water drunk for kidney stones. Neither claim has medical backing, and our care data wins. Beryl is a beryllium mineral, and while IGS lists no known toxicity risk for it, Wikipedia calls beryl a carcinogen when inhaled and advises care in handling ([Wikipedia](https://en.wikipedia.org/wiki/Beryl)). With the sources split, green beryl stays out of anything you drink. Do not put it in drinking water, and see a doctor for hiccups that will not stop or for kidney stone pain.
+Beryl water is an old belief, not a remedy. The medieval writer Thomas de Cantimpré said that water in which a beryl had been steeped would relieve hiccups (Kunz, *The Magic of Jewels and Charms*, 1915, page 130), and [Fire Mountain Gems](https://www.firemountaingems.com/learn/categories/essential-resources/gemstone-meanings/beryl-gemstone-meanings.html) repeats a story of beryl water drunk for kidney stones. Neither claim has medical backing, and our care data wins. Beryl is a beryllium mineral, the main beryllium ore outside the US, and while IGS lists no known toxicity risk for it, OSHA warns that breathing beryllium dust or fumes can cause chronic beryllium disease and lung cancer ([OSHA](https://osha.gov/beryllium/)). With the sources split, green beryl stays out of anything you drink. Do not put it in drinking water, and see a doctor for hiccups that will not stop or for kidney stone pain.
 
 ## How to Use Green Beryl in Everyday Life
 
@@ -140,7 +149,7 @@ Beryl water is an old belief, not a remedy. The medieval writer Thomas de Cantim
 
 **Safety.** Small stones and bead bracelets are not toys. Keep them away from small children and pets who might swallow them.
 
-**What Research Says.** [TO CHECK a peer-reviewed study with DOI on the two-minute rule, brief quiet attention or expressive writing, and say plainly that it did not use stones.] Until then, treat these as personal habits, not tested remedies.
+**What Research Says.** In three experiments, people who wrote a letter of thanks underestimated how good it would make the recipient feel and overestimated how awkward it would seem ([Kumar and Epley, *Psychological Science*, 2018](https://doi.org/10.1177/0956797618772506)). Participants wrote because the researchers asked them to, the study measured reactions to a single letter rather than long-term well-being, and no stones were involved. The anniversary card borrows the writing part, so the link is our extrapolation, and the stone only marks the moment.
 
 > **When a Stone Is Not Enough.** Some guides sell beryl for stress, anxiety or physical complaints. A stone can be a comfort to hold, but it is not care. If stress or anxiety lasts, or a health problem worries you, talk to a doctor or a therapist, and never use a stone in place of treatment.
 
@@ -148,10 +157,10 @@ Beryl water is an old belief, not a remedy. The medieval writer Thomas de Cantim
 
 We use the same five labels on every stone. Most of the data covers beryl as a family, so some lines stay open for green beryl itself.
 
-- **Natural, untreated.** A green beryl straight from the ground. [TO CHECK how often green beryl is sold untreated.]
-- **Natural, treated.** IGS lists heating (common, stable and undetectable in morganite and aquamarine), irradiation, oil or resin filling (common in emerald, rare in other beryls) and plastic coating that adds color (rare, easily scratched, seen under magnification). [TO CHECK which treatments are used on green beryl specifically.]
+- **Natural, untreated.** A green beryl straight from the ground. We found no reference source on how much green beryl is sold untreated, so ask.
+- **Natural, treated.** IGS lists heating (common, stable and undetectable in morganite and aquamarine), irradiation, oil or resin filling (common in emerald, rare in other beryls) and plastic coating that adds color (rare, easily scratched, seen under magnification), without saying which are used on green beryl itself. GIA's New York lab has seen near-colorless beryl dyed green to pass as emerald, with the dye concentrated in its fractures under the microscope ([Gems & Gemology, Winter 2016](https://www.gia.edu/gems-gemology/winter-2016-labnotes-dyed-green-beryl)). And heat can move a stone out of the category altogether, since many greenish blue aquamarines were bluish green beryl before treatment (Geology.com).
 - **Lab-grown.** All colors of beryl can be grown hydrothermally (IGS), and synthetic beryl has been made for gems since the 1930s (Geology.com). Natural and synthetic stones are easy to confuse, IGS warns, though growth produces telltale inclusions.
-- **Imitation.** [TO CHECK which green glass or other stones are sold as green beryl.]
+- **Imitation.** We found no reference report of a particular stone sold as green beryl in the US. The imitations on record aim higher, at emerald. IGS warns of green tourmaline sold as "Brazilian emerald" and of peridot presented as emerald, and GIA has described the dyed beryl above. Green tourmaline, peridot and green glass are the look-alikes to rule out, see below.
 - **Trade name.** The main naming trap is the word emerald, applied or withheld depending on the lab. Ask which standard was used. The [Label Decoder](/tools/crystal-label-decoder/) translates the most common tags.
 
 Three checks, with their limits.
@@ -173,7 +182,7 @@ Three questions for the seller. Is this green beryl or emerald, and by whose sta
 - **Salt.** Unknown. There is no reliable guidance yet, so keep it away from salt.
 - **Scratches and storage.** OK. It resists scratching well, but store it where it cannot be knocked.
 - **Cleaning.** OK with mild detergent and warm water, the IGS method for included beryls. IGS says emeralds should never go in mechanical cleaners, so skip the ultrasonic unless a jeweler has checked your stone.
-- **Toxicity.** Brief only. IGS lists no known risk for beryl, while Wikipedia warns that inhaled beryl is a carcinogen and advises care in handling. Never cut, sand or grind it.
+- **Toxicity.** Brief only. IGS lists no known risk for beryl, but beryl is a beryllium ore, and OSHA links inhaled beryllium dust to lung disease and lung cancer. Never cut, sand or grind it.
 
 ### Can Green Beryl Go in Water?
 
@@ -184,7 +193,9 @@ A quick wash, yes. A soak, our care data cannot say, and a drink, never. Check y
 - **Emerald.** Same mineral, richer and more saturated green. Natural emeralds are usually translucent or visibly included, while lab-created emeralds are bright and transparent (Geology.com). See [emerald](/stones/emerald/).
 - **Aquamarine.** Same mineral, blue to blue-green. Bluish green beryl usually ends up here.
 - **Heliodor.** Same mineral, yellow to greenish yellow (Geology.com). See [heliodor](/stones/heliodor/).
-- **Green tourmaline, peridot and green glass.** [TO CHECK how to tell each from green beryl, with a reference source.]
+- **Green tourmaline.** A higher refractive index (1.624 to 1.644 against 1.566 to 1.602 for beryl), much stronger double refraction (0.018 to 0.040 against 0.004 to 0.010) and a higher specific gravity of about 3.06 ([GIA](https://www.gia.edu/tourmaline/gem-overview), [IGS beryl](https://www.gemsociety.org/article/beryl-jewelry-gemstone-information/)). Dark green tourmaline also changes color strongly with viewing angle, forest green face up and olive green from the side in one IGS example ([IGS](https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/)), while green beryl's pleochroism is only weak to moderate. See [green tourmaline](/stones/green-tourmaline/).
+- **Peridot.** Yellowish green, softer (6.5 to 7), denser (3.34) and with a refractive index of 1.65 to 1.69 ([GIA](https://www.gia.edu/peridot/gem-overview)). Its very strong double refraction can produce a doubled, fuzzy look that helps identify it ([IGS](https://www.gemsociety.org/article/peridot-jewelry-and-gemstone-information/)).
+- **Green glass.** Softer (5 to 6) and singly refractive, often with gas bubbles, swirl lines, concave facets and rounded facet edges, according to the IGS [simulant chart](https://gemsociety.org/article/diamond-and-simulant-comparison-chart). A loupe can catch the bubbles and soft edges, but only a gemologist's tests settle it.
 
 ## Price Guide
 
@@ -192,7 +203,7 @@ The price gap between green beryl and emerald is significant (Geology.com). Gree
 
 What matters most is the same as for any beryl. Color decides the name and has an enormous effect on value, and clarity is very important (Geology.com). A clean, lively green beryl is worth more than a cloudy one, but it will not be priced like an emerald, and it should not be.
 
-[TO CHECK typical US retail ranges for faceted green beryl by carat, cabochons, bead bracelets and raw crystals, with a dated source.]
+One current listing we found, a faceted 5-carat green beryl about 12.4 by 10.7 mm, with origin and treatment not stated, was $250. Prices from online gem listings in US dollars, November 2026.
 
 **Next Step.** Wondering whether that "emerald" in your grandmother's ring is really green beryl? Start with our [emerald](/stones/emerald/) page, then take it to an independent gem lab.
 
@@ -202,11 +213,17 @@ What matters most is the same as for any beryl. Color decides the name and has a
 - Hobart M. King, Geology.com, [Beryl](https://geology.com/minerals/beryl.shtml)
 - Rhiana Elizabeth Henry, "Emeralds and Beryl From Kazakhstan and Ukraine," [Gems & Gemology, Summer 2025](https://www.gia.edu/gems-gemology/summer-2025-gemnews-emeralds-and-beryl-from-kazakhstan-and-ukraine)
 - LibreTexts Geosciences, [Vanadium Beryl](https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.04%3A_Beryl/16.4.04%3A_Vanadium_Beryl), a gemology textbook chapter
-- Wikipedia, [Beryl](https://en.wikipedia.org/wiki/Beryl)
-- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
+- HyeJin Jang-Green, "Dyed Green Beryl," *Gems & Gemology*, Winter 2016, [GIA](https://www.gia.edu/gems-gemology/winter-2016-labnotes-dyed-green-beryl)
+- Gemological Institute of America, [Tourmaline](https://www.gia.edu/tourmaline/gem-overview) and [Peridot](https://www.gia.edu/peridot/gem-overview)
+- International Gem Society, [Tourmaline](https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/), [Peridot](https://www.gemsociety.org/article/peridot-jewelry-and-gemstone-information/) and [Properties of Diamond Simulants](https://gemsociety.org/article/diamond-and-simulant-comparison-chart)
+- Occupational Safety and Health Administration, [Beryllium](https://osha.gov/beryllium/)
+- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
+- IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 39, 59 to 60, 180, 196 to 197, 212, 298 to 299, 305, 313, 320 and 347 to 348, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), page 130, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- Modern associations compared across firemountaingems.com, beadsofcambay.com, kenkengems.com, astrology.com, e2dcrystals.com, crystalguide.pages.dev, miller.fr and kerykeion.net, read November 18, 2026
+- Amit Kumar and Nicholas Epley, *Psychological Science* (2018), [doi.org/10.1177/0956797618772506](https://doi.org/10.1177/0956797618772506)
+- Retail price from a US-dollar listing at an online gem marketplace, read November 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

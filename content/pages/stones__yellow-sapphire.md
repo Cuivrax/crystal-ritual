@@ -33,6 +33,12 @@ sources:
   - "https://www.thenaturalsapphirecompany.com/education/sapphires-101/sapphire-corundum-crystals-chemistry/"
   - "https://www.gemrockauctions.com/learn/a-z-of-gemstones/star-sapphire"
   - "https://www.americangemsociety.org/birthstones/"
+  - "https://cnmnc.units.it/"
+  - "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D32"
+  - "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D39"
+  - "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D42"
+  - "https://doi.org/10.1016/S0065-2601(06)38002-1"
+  - "https://988lifeline.org/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
   - "https://moonrisecrystals.com/yellow-sapphire-meaning/"
@@ -69,7 +75,7 @@ Yellow sapphire is the yellow variety of corundum, the same mineral as ruby and 
 | Salt | Unknown |
 | Toxic to handle | No known risk (sapphire in general) |
 | Common fakes | Lab-grown sold as natural, glass, cubic zirconia, other yellow gems |
-| Price range | [TO CHECK US retail ranges] |
+| Price range | Set by color, size, clarity and treatment, see the Price Guide |
 | Birthstone | Sapphire is the September birthstone, and the gem of the 5th and 45th anniversaries |
 | Planet (Modern Association) | Jupiter, in Indian astrology |
 | Chakra (Modern Association) | Solar plexus |
@@ -111,11 +117,11 @@ Rough sapphire has a highly symmetrical hexagonal crystal habit (International G
 - **Western magic.** **Tradition.** In one ceremonial scheme Kunz describes, the Thursday ritual carried the symbol of Jupiter, and the ring worn that day held an emerald or a sapphire (1913, pages 336 to 337).
 - **Sapphire in general.** **Tradition.** Long linked with royalty and "said to protect against poison and fraud," though ancient "sapphires" may really be lapis lazuli (International Gem Society).
 - **Birthstone lists.** **Modern Association.** Sapphire is the September birthstone on the [American Gem Society](https://www.americangemsociety.org/birthstones/) list, and GIA names it the gem of the 5th and 45th anniversaries.
-- **Today.** **Modern Association.** Western crystal guides add prosperity, joy and the solar plexus chakra [TO CHECK book titles and years].
+- **Today.** **Modern Association.** Western crystal books and seller guides add prosperity, joy and the solar plexus chakra.
 
 ### Was Yellow Sapphire Called Topaz?
 
-Often, yes. Kunz calls yellow corundum "Oriental topaz," and he warns that the topaz of the ancients "was usually our chrysolite, or peridot" (1913, pages 297 to 298). So an old golden "topaz" could be yellow sapphire, true topaz or peridot. Shop tales of Alexander the Great's yellow sapphire amulet, or of gems sent by King Solomon to the Queen of Sheba, come without an old source [TO CHECK Pliny].
+Often, yes. Kunz calls yellow corundum "Oriental topaz," and he warns that the topaz of the ancients "was usually our chrysolite, or peridot" (1913, pages 297 to 298). So an old golden "topaz" could be yellow sapphire, true topaz or peridot. Pliny the Elder's names are just as slippery. His sapphirus, "refulgent with spots like gold," is generally taken to be lapis lazuli, not corundum, as his translators John Bostock and H. T. Riley say directly, and they read his topazos, prized for its green tints, as peridot, or possibly green agate. Yellow corundum may hide under another of his names, chrysolithos, a gold-bright, transparent stone best from India, which the same translators read as probably Oriental topaz, yellow sapphire or yellow corundum (*Natural History*, Book 37, chapters [32](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D32), [39](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D39) and [42](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D42), Bostock and Riley translation, via Perseus, Tufts University). Shop pages that tell of Alexander the Great's yellow sapphire amulet, or of gems King Solomon sent to the Queen of Sheba, name no old text for either story.
 
 ## What People Use Yellow Sapphire for Today
 
@@ -137,7 +143,7 @@ The proven ones are physical. It is hard, has no cleavage and is tough enough fo
 
 Some pages go much further and promise better digestion, immunity, blood pressure, skin, and relief from headaches, insomnia, anxiety or depression. Gem science and medicine do not back those claims. One shop page also says yellow sapphire was once crushed into powders and elixirs. Never swallow any stone.
 
-> **When a Stone Is Not Enough.** Yellow sapphire is sometimes sold for anxiety, low mood, sleep and digestion. A ring can be a comfort to wear, but it is not care. If anxiety, low mood, poor sleep or stomach trouble lasts or feels heavy, talk to a doctor or a therapist, and never use a stone in place of treatment. If you are in crisis in the US, reach the 988 Suicide and Crisis Lifeline [TO CHECK official 988 link].
+> **When a Stone Is Not Enough.** Yellow sapphire is sometimes sold for anxiety, low mood, sleep and digestion. A ring can be a comfort to wear, but it is not care. If anxiety, low mood, poor sleep or stomach trouble lasts or feels heavy, talk to a doctor or a therapist, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## How to Use Yellow Sapphire in Everyday Life
 
@@ -157,7 +163,7 @@ Some pages go much further and promise better digestion, immunity, blood pressur
 
 **Safety.** Loose stones and small studs are not toys. Keep them away from small children and pets who might swallow them.
 
-**What Research Says.** [TO CHECK research study with DOI] Until then, treat these as personal habits, not tested remedies.
+**What Research Says.** The morning decision cue is an if-then plan, with the ring as the cue and a set hour as the plan. A 2006 meta-analysis by Peter Gollwitzer and Paschal Sheeran, pooling published lab and field studies, found that people who made an if-then plan ("if situation X happens, then I will do Y") were more likely to act on a goal than people who only intended to ([doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)). It pooled studies of everyday goals, so publication bias is possible, and none of them tested stones or rings. Treat these as personal habits, not tested remedies.
 
 ## Is My Yellow Sapphire Real?
 
@@ -208,7 +214,7 @@ Heat matters as much as light. In a 2022 *Gems & Gemology* report, the warmth of
 
 ## Price Guide
 
-Is yellow sapphire expensive? It depends on color first. The International Gem Society says bright, vivid yellows "fetch the most money," paler stones with visible color zoning are marked down, and demand for yellow and orange sapphires swings with cultural trends. For fancy sapphires over five carats, value "jumps significantly" with good color and clarity, and fine unheated stones command a premium. Get the treatment and origin in writing before you compare prices. [TO CHECK US retail ranges]
+Is yellow sapphire expensive? It depends on color first. The International Gem Society says bright, vivid yellows "fetch the most money," paler stones with visible color zoning are marked down, and demand for yellow and orange sapphires swings with cultural trends. For fancy sapphires over five carats, value "jumps significantly" with good color and clarity, and fine unheated stones command a premium. Get the treatment and origin in writing before you compare prices. We found no current US listing for yellow sapphire with a clear price and size, so this guide gives no figures.
 
 **Next Step.** Choosing a stone for a money ritual? Compare the usual picks in [crystals for money](/crystals-for/money/).
 
@@ -221,11 +227,14 @@ Is yellow sapphire expensive? It depends on color first. The International Gem S
 - International Gem Society, [Sapphire](https://www.gemsociety.org/article/sapphire-jewelry-and-gemstone-information/), the [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/) and Emily Frontiere, [Are Fancy-Colored Sapphires Expensive?](https://www.gemsociety.org/article/are-fancy-colored-sapphires-expensive/), updated June 2, 2026
 - Pat Daly, Gem-A, [5 Corundum Treatments in Rubies and Sapphires](https://gem-a.com/gem-hub/common-corundum-treatments/), May 1, 2023
 - Hobart M. King, Geology.com, [Citrine](https://geology.com/gemstones/citrine/), [Topaz](https://geology.com/minerals/topaz.shtml) and [Beryl](https://geology.com/minerals/beryl.shtml)
-- The Natural Sapphire Company, [Corundum Crystals and Chemistry](https://www.thenaturalsapphirecompany.com/education/sapphires-101/sapphire-corundum-crystals-chemistry/), and Gem Rock Auctions, [Star Sapphire](https://www.gemrockauctions.com/learn/a-z-of-gemstones/star-sapphire), both dealer guides
-- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
+- Gem dealer guides on sapphire chemistry and star sapphire, named and linked where the text cites them
+- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 242 to 243, 297 to 298 and 336 to 337, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 396 to 397 and 403 to 404, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- Modern associations compared across moonrisecrystals.com, inspereza.com, juvetti.com, gemselect.com and engagement-rings.beehiiv.com, read November 18, 2026
+- Pliny the Elder, *Natural History*, Book 37, chapters 32, 39 and 42, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D39)
+- Gollwitzer, P. M., and Sheeran, P. (2006), Implementation intentions and goal achievement, a meta-analysis of effects and processes, *Advances in Experimental Social Psychology* 38, 69 to 119, [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)
+- 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

@@ -194,7 +194,7 @@ Fine white Chinese nephrite now fetches prices that sometimes compete with the f
 
 Price follows the material, the purity of the white, river or quarried origin, treatment and the carving. A large pure white "jade" carving at a gift shop price deserves questions.
 
-In the listings we checked, loose oval white jadeite stones of about 21 to 37 carats, roughly 19 to 28 mm long, ran about $26 to $66 each. We found no current priced listing for white nephrite, the more common white jade, so these figures cover jadeite only. Prices from US-dollar listings at an online gem dealer in November 2026.
+In the listings we checked, loose faceted oval white jadeite stones of about 21 to 37 carats, roughly 19 to 28 mm long, ran about $26 to $66 each. We found no current priced listing for white nephrite, the more common white jade, so these figures cover jadeite only. Prices from US-dollar listings at an online gem dealer in November 2026.
 
 **Next Step.** See how white jade fits the wider family on our [jade page](/stones/jade/).
 
@@ -202,14 +202,16 @@ In the listings we checked, loose oval white jadeite stones of about 21 to 37 ca
 
 - Hobart M. King, Geology.com, [Jade](https://geology.com/gemstones/jade/), [Calcite](https://geology.com/minerals/calcite.shtml), [Quartz](https://geology.com/minerals/quartz.shtml) and [Serpentine](https://geology.com/minerals/serpentine.shtml)
 - GIA, [Jade Buyer's Guide](https://www.gia.edu/jade/buyers-guide), [Jade Care and Cleaning](https://www.gia.edu/articles/jade-care-cleaning) and Huang Jing and colleagues, [Marble Imitation of Jadeite Rough](https://gia.edu/gems-gemology/summer-2020-gemnews-marble-imitation-of-jadeite-rough), *Gems & Gemology*, Summer 2020
-- International Gem Society, [Nephrite](https://www.gemsociety.org/article/nephrite-jewelry-and-gemstone-information/), [Quartz](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/) and [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
+- Kurt Nassau and James E. Shigley, [A Study of the General Electric Synthetic Jadeite](https://gia.edu/gems-gemology/spring-1987-synthetic-jadeite-nassau), *Gems & Gemology*, Spring 1987
+- International Gem Society, [Nephrite](https://www.gemsociety.org/article/nephrite-jewelry-and-gemstone-information/), [Jadeite](https://www.gemsociety.org/article/jadeite-jewelry-and-gemstone-information/), [Quartz](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/) and [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Richard W. Hughes, Lotus Gemology, [Jade, A Lifetime in Search of Heaven's Stone](https://lotusgemology.com/resources/articles/460-jade-a-lifetime-seeking-heaven) (2020) and [Jade Buying Guide](https://www.lotusgemology.com/resources/articles/270-jade-buying-guide-jade-auction-records) (2012)
-- Geoscience Australia, [Jade](https://www.ga.gov.au/education/minerals-energy/australian-mineral-facts/jade), and the IMA List of Minerals, July 2026 edition
-- Wikipedia, [Jade](https://en.wikipedia.org/wiki/Jade)
+- Geoscience Australia, [Jade](https://www.ga.gov.au/education/minerals-energy/australian-mineral-facts/jade), and the IMA List of Minerals, July 2026 edition, from the [official IMA CNMNC site](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 84 and 245 to 246, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), page 342, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- [988 Suicide and Crisis Lifeline](https://988lifeline.org/), read November 18, 2026
-- Modern associations compared across the crystal guides in our lore collection, including buddha3bodhi.com, mindbodygreen.com, crystals.com, momentici.com and brandrevalue.com, read November 12, 2026
+- Melis Yilmaz Balban and colleagues, Brief structured respiration practices enhance mood and reduce physiological arousal, *Cell Reports Medicine* 4(1), 100895 (2023), [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)
+- Retail prices from US-dollar listings at an online gem dealer, read November 2026
+- [988 Suicide & Crisis Lifeline](https://988lifeline.org/), read November 18, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

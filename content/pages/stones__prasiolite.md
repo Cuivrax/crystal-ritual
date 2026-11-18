@@ -205,7 +205,7 @@ Two things drive value. Color depth rises with size, since stones of a few carat
 - H. Dai, K. L. Milkman and J. Riis, "The Fresh Start Effect," *Management Science* (2014), [DOI 10.1287/mnsc.2014.1901](https://doi.org/10.1287/mnsc.2014.1901)
 - 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
 - Retail prices from US-dollar listings at online crystal shops, read November 2026
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

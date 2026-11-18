@@ -11,7 +11,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-20"
 publishTime: "08:51"
-status: "draft"
+status: "verified"
 page_type: "sign"
 sources:
   - "https://www.americangemsociety.org/birthstones/"
@@ -101,11 +101,11 @@ We grade each link with the same words we use across the site, from Classic down
 
 | Stone | Link | Where the link comes from | Honest note |
 |---|---|---|---|
-| [Aquamarine](/stones/aquamarine/) | Widely Linked | March birthstone, a name meaning seawater, and one guide's "main stone for Pisces" | Beryl, 7.5 to 8 on the Mohs scale. Most aquamarine on sale is heated, which cannot be detected |
+| [Aquamarine](/stones/aquamarine/) | Widely Linked | March birthstone, a name meaning seawater, and one guide's "main stone for Pisces" | Beryl, 7.5 to 8 on the Mohs scale. Heat treatment is very common and cannot be detected |
 | [Fluorite](/stones/fluorite/) | Widely Linked | Said to bring structure to a scattered mind | Soft, 4 on the Mohs scale, and slightly soluble in water, so never submerge it |
 | Bloodstone | Often Linked | March birthstone, and modern lists pair it with Aries and Pisces | Dark green chalcedony spattered with red, 6.5 to 7, and durable |
 | Moonstone | Often Linked | Dreams and emotional sensitivity | Feldspar, 6 to 6.5, with two cleavages, so a sharp knock can break it |
-| Blue opal | Sometimes Linked | One jeweler says water signs "must keep a blue Opal nearby" | Soft. Our care data says wipe it with a damp cloth, never soak it |
+| Blue opal | Sometimes Linked | One jeweler says water signs "must keep a blue Opal nearby" | Soft. Our care data says wipe it with a damp cloth and keep any soak brief |
 | Morganite | Sometimes Linked | "Not an actual birthstone," but called excellent for Pisces | Pink beryl, 7.5 to 8 |
 | Celestite | Sometimes Linked | One guide gives it Neptune as its planet | Very soft, 3 to 3.5. Our care data rates sun and heat Avoid |
 | [Amethyst](/stones/amethyst/) | Rarely Linked | February birthstone and Kunz's 1913 zodiac stone | Quartz, 7. Some amethyst fades in prolonged intense light |
@@ -154,8 +154,8 @@ Before any cleansing ritual, look the stone up in the [Care Checker](/tools/crys
 - International Gem Society, [Fluorite](https://www.gemsociety.org/article/fluorite-jewelry-gemstone-information/), [Bloodstone](https://www.gemsociety.org/article/bloodstone-value-price-jewelry-information/) and [Celestite](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/)
 - Hobart M. King, Geology.com, [Aquamarine](https://geology.com/gemstones/aquamarine/), [Fluorite](https://geology.com/minerals/fluorite.shtml), [Bloodstone](https://geology.com/gemstones/bloodstone/) and [Moonstone](https://geology.com/gemstones/moonstone/)
 - Peter M. Gollwitzer and Paschal Sheeran, "Implementation Intentions and Goal Achievement," *Advances in Experimental Social Psychology* 38 (2006), [DOI 10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

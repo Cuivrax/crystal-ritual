@@ -12,6 +12,7 @@ publishTime: "07:51"
 status: "draft"
 page_type: "stone"
 sources:
+  - "https://988lifeline.org/"
   - "https://geology.com/minerals/grape-agate/"
   - "https://geology.com/gemstones/amethyst/"
   - "https://www.gia.edu/amethyst/gem-overview"
@@ -134,7 +135,7 @@ As a mineral, it is quartz in an unusual shape, hard, stable and fun to look at.
 
 **What Research Says.** Crystals themselves have been tested for calm. In a 2025 randomized study of 138 adults who used either a real rose quartz or a glass look-alike over 14 days, anxiety scores fell only in people who believed in crystal healing, and the real stone did no better than the fake one ([Escolà-Gascón and colleagues, 2025](https://doi.org/10.1017/S1092852925100515)). It was one trial, in adults with low anxiety who rated their own symptoms, and it used rose quartz, not grape agate. Treat the routines above as personal habits.
 
-> **When a Stone Is Not Enough.** Grape agate is often chosen for calm, stress and sleep. A stone can be a comfort to look at, but it is not care. If anxiety or poor sleep lasts or feels heavy, talk to a doctor or a therapist.
+> **When a Stone Is Not Enough.** Grape agate is often chosen for calm, stress and sleep. A stone can be a comfort to look at, but it is not care. If anxiety or poor sleep lasts or feels heavy, talk to a doctor or a therapist. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Grape Agate Real?
 

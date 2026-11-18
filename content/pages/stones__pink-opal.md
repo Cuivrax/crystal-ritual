@@ -174,7 +174,7 @@ Three questions for the seller. Is this natural opal, and was it treated? Where 
 - **Sun.** Brief only. Heat from intense light can cause fine fracture lines called crazing (GIA).
 - **Heat.** Avoid. High heat or sudden temperature changes can fracture opal (GIA).
 - **Chemicals.** Avoid. Hydrofluoric acid and caustic alkaline solutions attack opal (GIA).
-- **Salt.** Avoid. Hot salt water is often listed among the things that dissolve opal, and a salt soak adds the moisture opal is sensitive to (International Gem Society). Treat this rating as provisional.
+- **Salt.** Avoid. Hot salt water appears in one general listing of things that dissolve opal, and a salt soak adds the moisture opal is sensitive to (International Gem Society). Treat this rating as provisional, since it rests on that single listing.
 - **Cleaning.** Warm soapy water is the only safe way, says GIA, with a soft brush (International Gem Society).
 - **Storage.** Keep it apart from harder stones, and take a pink opal ring off for gardening, gym sessions or anything rough (Geology.com).
 - **Toxicity.** OK to handle. The International Gem Society [toxicity table](https://www.gemsociety.org/article/gemstone-care-guide/) rates opal Low, and its silicosis hazard concerns cutting dust.

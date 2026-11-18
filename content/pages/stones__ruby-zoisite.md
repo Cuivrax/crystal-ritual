@@ -1,6 +1,6 @@
 ---
 title: "Ruby Zoisite Meaning, Properties & Everyday Uses"
-description: "Ruby zoisite is green zoisite with real ruby and black hornblende, from Tanzania. Where its meaning comes from, daily rituals, ruby fuchsite mix-ups and care."
+description: "Ruby zoisite is green zoisite with real ruby and black amphibole, from Tanzania. Where its meaning comes from, daily rituals, ruby fuchsite mix-ups and care."
 h1: "Ruby Zoisite Meaning, Properties & Real-Life Uses"
 url: "/stones/ruby-zoisite/"
 primary_keyword: "ruby zoisite"
@@ -9,7 +9,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-17"
 publishTime: "08:07"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://geology.com/minerals/zoisite.shtml"
@@ -39,7 +39,7 @@ sources:
 
 # Ruby Zoisite Meaning, Properties & Real-Life Uses
 
-Ruby zoisite is a rock, not a single gem. It is green zoisite with crystals of real ruby, usually flecked with black hornblende, found near Longido, Tanzania, in the 1950s. Crystal guides link it with creativity, love and courage. The honest note is that its ruby is mostly opaque, so it is a carving stone, not a ruby bargain.
+Ruby zoisite is a rock, not a single gem. It is green zoisite with crystals of real ruby, usually flecked with black amphibole, found near Longido, Tanzania, in the 1950s. Crystal guides link it with creativity, love and courage. The honest note is that its ruby is mostly opaque, so it is a carving stone, not a ruby bargain.
 
 <!-- PHOTO TO FIND. HERO, a polished ruby zoisite slab or tumbled stone showing green zoisite, pink to red ruby and black amphibole. No checked candidate yet. There are no Smithsonian rows for ruby zoisite in images_candidates.csv. Unchecked Wikimedia Commons candidates to review first, "File Ruby in zoisite (GeoDIL number - 1434).jpg" by Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Ruby_in_zoisite_(GeoDIL_number_-_1434).jpg , "File Corundum, zoisite, pargasite.jpg" by Géry Parent, public domain, Longido, Tanzania, https://commons.wikimedia.org/wiki/File:Corundum,_zoisite,_pargasite.jpg , and "File Anyolite (corundum-amphibole zoisitite) (Neoproterozoic; Mundarara Mine, about 27 km west of Longido, Tanzania) 1 (15098298782).jpg" by James St. John, CC BY 2.0, credit line "Photo James St. John, CC BY 2.0, via Wikimedia Commons", https://commons.wikimedia.org/wiki/File:Anyolite_(corundum-amphibole_zoisitite)_(Neoproterozoic;_Mundarara_Mine,_about_27_km_west_of_Longido,_Tanzania)_1_(15098298782).jpg . The Commons description of "Ruby and zoisite (GeoDIL number - 2755).jpg" claims ruby forms when zoisite is heat treated, which is wrong, so write our own alt text if that file is used. Log visual_check before use. -->
 
@@ -70,7 +70,7 @@ Ruby zoisite is a rock, not a single gem. It is green zoisite with crystals of r
 
 **The Stone.** Ruby zoisite is a rock made of several minerals grown together. [Geology.com](https://geology.com/minerals/zoisite.shtml) describes it as zoisite with red corundum crystals (ruby), often accented by black crystals of hornblende. The online petrography atlas [Alex Strekeisen](https://alexstrekeisen.it/english/meta/anyolite.php) describes a granular mass of bright green chrome-zoisite with a little very dark green pargasite, holding purplish red ruby crystals up to several centimeters across.
 
-As a rock, it has no single formula, hardness or crystal system. The atlas notes that a strict petrographic name would be something like "corundum-pargasite zoisitite," and that anyolite is the "more euphonious" name it has been given.
+As a rock, it has no single formula, hardness or crystal system. The atlas notes that a strict petrographic name would be something like corundum-pargasite zoisitite, and that anyolite is the "more euphonious" name it has been given.
 
 ### Is the Ruby in Ruby Zoisite Real Ruby?
 
@@ -98,7 +98,7 @@ Most likely it is the ruby. Rubies fluoresce under both long and shortwave ultra
 
 Ruby zoisite comes from the Longido district of northeast Tanzania, at the Mundarara Mine in the Arusha Region. Kievlenko places the ruby-bearing veins near the town of Mdarara, about 60 miles (100 km) northwest of Mount Kilimanjaro. The outcrops are small, the largest "just over 100 yards long" (Alex Strekeisen atlas).
 
-Nearby amphibolite with large brown-red garnets usually signals that the zoisite-ruby rock is close (atlas). The atlas calls Tanzania the only source, while some dealers also list Kenya.
+Nearby amphibolite with large brown-red garnets usually signals that the zoisite-ruby rock is close (atlas). The atlas calls Tanzania the only source, while one dealer also lists Kenya.
 
 ## Where the Meaning Comes from
 
@@ -107,8 +107,8 @@ Nearby amphibolite with large brown-red garnets usually signals that the zoisite
 - **Old ruby lore.** **Tradition.** In Sanskrit, ruby was called ratnaraj, "king of precious stones" (George Frederick Kunz, *The Curious Lore of Precious Stones*, 1913, page 101). Its glow suggested a flame burning inside the stone, and rubies were believed to remove evil thoughts and reconcile disputes (pages 101 to 102). In Burma, Kunz writes, a ruby inserted in the flesh was believed to keep its owner from being wounded "by spear, sword, or gun" (page 103). Kunz also warns that old names like carbunculus covered ruby and "those resembling it in color" (page 162).
 - **1949 to 1954, Tanzania.** The English prospector Tom Blevins thought he had found vast ruby deposits near Longido in 1949. The find turned out to be green zoisite with mostly opaque ruby, and ruby zoisite was discovered there in 1954 (Alex Strekeisen atlas).
 - **The name.** Anyolite comes from anyoli, the word for green in the Maasai language (Alex Strekeisen atlas). Dealers also sell it as Tanganyika artstone, a name [one dealer](https://gem.agency/gemstones/ruby-in-zoisite/) ties to its origin and "natural artistry."
-- **2009, Britain.** A construction firm that went into administration in 2009 had carried a 10,725-carat "ruby," about 4.4 pounds (2 kg), on its books at £11 million ($14.8 million), backed by a forged lab certificate. Many observers thought it was anyolite, some UK newspapers put its worth at £100, and the Financial Times reported it later sold for £8,010 ([International Gem Society](https://www.gemsociety.org/news/2025/11/03/wrekin-ruby/)).
-- **Shop stories.** One shop guide says East African hunters believed the stone made them invisible, and that Saint Louis and Charles V wore it. Saint Louis lived in the 13th century, so treat both as shop stories.
+- **2009, Britain.** A construction firm that went into administration in 2009 had carried a 10,725-carat "ruby," about 4.5 pounds (2.1 kg), on its books at £11 million ($14.8 million), backed by a forged lab certificate. Many observers thought it was anyolite, some UK newspapers put its worth at £100, and the Financial Times reported it later sold for £8,010 ([International Gem Society](https://www.gemsociety.org/news/2025/11/03/wrekin-ruby/)).
+- **Shop stories.** One shop guide says East African hunters believed the stone made them invisible, and that Saint Louis and Charles V wore it. Saint Louis lived in the 13th century and the stone was first described in 1954, so the royal claim cannot be right.
 - **Today.** **Modern Association.** Creativity, love and courage lead in today's crystal guides, built on the two colors and on the reputations of ruby and zoisite.
 
 ## What People Use Ruby Zoisite for Today

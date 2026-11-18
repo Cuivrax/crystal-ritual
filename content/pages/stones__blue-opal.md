@@ -216,7 +216,7 @@ Peruvian blue opal is affordable, and [Geology.com](https://geology.com/gemstone
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 143 to 152, [Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), page 375, [Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - M. Y. Balban and colleagues, "Brief Structured Respiration Practices Enhance Mood and Reduce Physiological Arousal," *Cell Reports Medicine* 4(1), 2023, [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)
 - 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

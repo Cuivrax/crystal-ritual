@@ -18,6 +18,7 @@ publishTime: "07:00"
 status: "verified"
 page_type: "home"
 sources:
+  - "https://988lifeline.org/"
   - "https://www.gia.edu/amethyst/gem-overview"
   - "https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/"
   - "https://geology.com/gemstones/moldavite/"
@@ -71,7 +72,7 @@ More needs, [Grounding](/crystals-for/grounding/), [Just Starting Out](/crystals
 
 [See Every Stone for Sleep](/crystals-for/sleep/)
 
-**When a Stone Is Not Enough.** These are traditional beliefs, not medical advice. Sleep trouble or anxiety that lasts deserves a doctor or a therapist.
+**When a Stone Is Not Enough.** These are traditional beliefs, not medical advice. Sleep trouble or anxiety that lasts deserves a doctor or a therapist. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 <!-- SECTION 4, QUOTE BAND. -->
 

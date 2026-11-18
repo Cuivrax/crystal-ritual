@@ -9,7 +9,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-22"
 publishTime: "10:12"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://iugs-geoheritage.org/geoheritage_sites/the-larvikite-plutonic-rocks-of-the-oslo-rift/"
@@ -19,7 +19,6 @@ sources:
   - "https://geology.com/gemstones/moonstone/"
   - "https://www.gemstones.com/gemopedia/larvikite"
   - "https://dakotastones.com/pages/larvikite-stone-glossary"
-  - "https://www.gemrockauctions.com/learn/a-z-of-gemstones/nuummite"
   - "https://www.americangemsociety.org/birthstones/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
@@ -39,7 +38,7 @@ Larvikite is a gray to bluish igneous rock from the Larvik area of southern Norw
 
 | Fact | Larvikite |
 |---|---|
-| What it is | A coarse-grained igneous rock, a monzonite, made mostly of feldspar |
+| What it is | A coarse-grained igneous rock of the monzonite family, made mostly of feldspar |
 | Mineral status | A rock, not a mineral species. No entry on the IMA List of Minerals |
 | Main mineral | Ternary feldspar with microscopic cryptoperthite intergrowths |
 | Flash | Silver-blue to bright blue iridescence, from light interfering with fine layers in the feldspar |
@@ -58,13 +57,13 @@ Larvikite is a gray to bluish igneous rock from the Larvik area of southern Norw
 | Heritage status | IUGS heritage stone, designated 2017 |
 | Chakra (Modern Association) | Root, often third eye |
 
-> **Is It Real? Quick Checks.** Larvikite is coarse-grained, so look for separate tablet-shaped feldspar crystals, only some of them flashing as you tilt the stone. The flash is usually silvery to blue, and flashes of green, gold or orange point more to labradorite. Only a lab can name the feldspar for certain.
+> **Is It Real? Quick Checks.** Larvikite is coarse-grained, so look for separate tablet-shaped feldspar crystals, only some of them flashing as you tilt the stone. The flash is usually silvery to blue, and flashes of green, yellow or orange point more to labradorite. Only a lab can name the feldspar for certain.
 
 ## What Larvikite Actually Is
 
 **The Stone.** "Larvikite" names a group of monzonitic plutonic rocks that crystallized deep beneath a continental rift, the Oslo Rift in southern Norway, according to the [International Union of Geological Sciences](https://iugs-geoheritage.org/geoheritage_sites/the-larvikite-plutonic-rocks-of-the-oslo-rift/) (IUGS). Plutonic means it crystallized underground, and the IUGS calls the Oslo Rift one of the few places where that kind of deep rift magmatism can be studied. It dates to the Permian period.
 
-In hand it is coarse-grained, gray to bluish, and made mainly of tabular to prismatic feldspar crystals, some of which show blue iridescence ([IUGS heritage stone record](https://iugs-geoheritage.org/?p=9599)). Along the Vestfold coast the rock is exposed in smooth outcrops, sculpted and polished by repeated glaciations (IUGS).
+In hand it is coarse-grained, gray to bluish, and made mainly of tabular to prismatic feldspar crystals, some of which show blue iridescence ([IUGS heritage stone record](https://iugs-geoheritage.org/?p=9599)). The outcrops there are sculpted and polished by repeated glacial episodes (IUGS).
 
 ### What Feldspar Is in Larvikite?
 
@@ -74,13 +73,13 @@ That is the key difference from [labradorite](/stones/labradorite/). Labradorite
 
 ### Is Larvikite Granite?
 
-No. Geologists class it as a monzonite (IUGS), a different rock from granite, yet it is sold as "Blue Pearl Granite." The stone trade stretches the word, the same way it sells labradorite-rich anorthosite as "blue granite" (Geology.com). The name is a trade label, not a rock type.
+No. The IUGS describes larvikite as a group of monzonitic rocks, a different family from granite, yet it is sold as "Blue Pearl Granite." The stone trade stretches the word, the same way it sells labradorite-rich anorthosite as "blue granite" (Geology.com). The name is a trade label, not a rock type.
 
 ### Where Larvikite Comes from
 
-The rock is quarried in the municipality of Larvik, in southeast Norway (IUGS). Quarrying began in 1884, when Ferdinand Narvesen opened a quarry near the town of Stavern, and by 2015 about 30 quarries were shipping rough blocks with an export value of some 500 million Norwegian kroner (GEO365). Different intrusions give different commercial types, light larvikite sold as "Blue Pearl" and dark larvikite sold as "Emerald Pearl," among others (IUGS).
+The rock is quarried in the municipality of Larvik, in Vestfold County, Norway (IUGS). Quarrying began in 1884, when Ferdinand Narvesen opened a quarry near the town of Stavern, and by 2015 about 30 quarries were shipping rough blocks with an export value of some 500 million Norwegian kroner (GEO365). Light larvikite is sold as "Blue Pearl" and dark larvikite as "Emerald Pearl," among other commercial names (IUGS record).
 
-Your tumbled stone has famous relatives. Larvikite gravestones were already exported to Germany and the British Isles in the last quarter of the 19th century, and the rock went on to face bank entrances, Harrods in London, the Galeries Lafayette in Paris and some of London's best-known Art Deco buildings (IUGS record). GEO365 counts hundreds of prestigious buildings and thousands of kitchen countertops worldwide.
+Your tumbled stone has famous relatives. Larvikite gravestones were already exported to Germany and the British Isles in the last quarter of the 19th century, and the rock went on to appear around bank entrances, at Harrods in London and the Galeries Lafayette in Paris, and on some of London's best-known Art Deco buildings (IUGS record). GEO365 counts hundreds of prestigious buildings and thousands of kitchen tops worldwide.
 
 <!-- PHOTO TO FIND, PHOTO 2, the rock at scale, a quarry face or a polished building panel. Unchecked Commons lead, "File Larvikite quarry Larvik.jpg" by Mahlum, public domain, page https://commons.wikimedia.org/wiki/File:Larvikite_quarry_Larvik.jpg . Log visual_check before use. -->
 
@@ -93,9 +92,9 @@ Your tumbled stone has famous relatives. Larvikite gravestones were already expo
 - **Permian period.** The rock crystallizes deep beneath the Oslo Rift (IUGS).
 - **1884.** Ferdinand Narvesen starts quarrying near Stavern (GEO365).
 - **Late 1800s.** Larvikite gravestones are exported to Germany and the British Isles (IUGS record).
-- **Fashion and wealth.** In Norway and abroad, the IUGS record says, larvikite "became a symbol of fashion and wealth," on bank entrances, department stores and Art Deco facades.
+- **Fashion and wealth.** In Norway and abroad, the IUGS record says, larvikite "became a symbol of fashion and wealth," on bank entrances, at Harrods and Galeries Lafayette, and on Art Deco buildings.
 - **2017.** The IUGS designates larvikite a heritage stone, one of the first rocks to receive that status (IUGS).
-- **National rock.** Norwegian geologists wrote in 2015 that larvikite had recently been selected as Norway's national rock (GEO365) [TO CHECK the year it was chosen].
+- **National rock.** In a June 2015 article, Norwegian geologists wrote that "last year" the rock was selected as Norway's national rock (GEO365) [TO CHECK the exact year it was chosen].
 - **Today.** **Modern Association.** The crystal seller [Moonrise Crystals](https://moonrisecrystals.com/larvikite-meaning/) calls it "a relatively new crystal that has only come to the attention of the metaphysical community in the 21st century," and CrystalGemstones.net notes that it "does not come with a long written record of folklore."
 
 ### Why Its Meaning Is So Young
@@ -155,7 +154,7 @@ We use the same five labels on every stone. Larvikite is mostly a question of na
 No. Labradorite is one feldspar mineral, while larvikite is a rock made of many feldspar crystals of a different kind (Geology.com, IUGS). Three checks you can do at home, with their limits.
 
 1. **Look for grains.** Larvikite is coarse-grained, with separate tablet-shaped crystals, and only some of them flash (IUGS). A mosaic of crystals points to a rock like larvikite. A small tumbled bead can hide the grain.
-2. **Note the flash color.** Larvikite usually flashes silvery to blue, according to the dealer [Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/nuummite), while labradorite can add green, yellow, orange and red (Geology.com). Labradorite's flash varies from stone to stone, so this is a hint.
+2. **Note the flash color.** Larvikite shows a silver-blue flash, according to the dealer Dakota Stones, while labradorite can add green, yellow, orange and red (Geology.com). Labradorite's flash varies from stone to stone, so this is a hint.
 3. **Read the tag.** "Blue Pearl," "Emerald Pearl" or "Norwegian Moonstone" usually means larvikite.
 
 Three questions to ask the seller. Is this larvikite or labradorite? Where was it quarried? Is it dyed or coated? The [Label Decoder](/tools/crystal-label-decoder/) turns tags like "Norwegian Moonstone" into what they usually mean, and our [larvikite vs labradorite](/compare/larvikite-vs-labradorite/) page goes deeper.
@@ -182,7 +181,6 @@ A wash, yes, and a quick lukewarm rinse dried right away is the method one cryst
 - **Moonstone and black moonstone.** Moonstone is the popular name for gem-quality feldspar with adularescence, a soft glow that seems to float below the surface ([Geology.com](https://geology.com/gemstones/moonstone/)). Larvikite's sharp flashes in a coarse rock are not that. See [moonstone](/stones/moonstone/) and [black moonstone](/stones/black-moonstone/).
 - **Anorthosite.** Another rock sold as "blue granite," rich in labradorite (Geology.com). See [anorthosite](/stones/anorthosite/).
 - **Spectrolite.** The trade name for labradorite with the best spectral color (Geology.com). See [spectrolite](/stones/spectrolite/).
-- **Nuummite.** A dark rock with iridescent flecks, which Gem Rock Auctions sets beside larvikite as a look-alike. See [nuummite](/stones/nuummite/).
 
 ## Price Guide
 

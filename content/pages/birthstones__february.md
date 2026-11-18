@@ -21,10 +21,14 @@ sources:
   - "https://www.gemsociety.org/article/history-of-birthstones/"
   - "https://www.gia.edu/amethyst/gem-overview"
   - "https://www.gia.edu/amethyst-care-cleaning"
+  - "https://www.gia.edu/gem-imitation"
+  - "https://crystalmagic.com/products/amethyst_tumbled"
+  - "https://www.crystals.com/collections/amethyst?page=1"
   - "https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
   - "https://geology.com/gemstones/amethyst/"
   - "https://www.gutenberg.org/ebooks/57978"
+  - "https://988lifeline.org/"
   - "https://commons.wikimedia.org/wiki/File:Amethyst_Druse.jpg"
   - "https://commons.wikimedia.org/wiki/File:Brazilian_amethysts_(6330378228).jpg"
   - "http://n2t.net/ark:/65665/317d704cc-0622-4a73-a7ed-7f7c342577da"
@@ -55,8 +59,8 @@ The February birthstone is amethyst, the purple variety of quartz. It is Februar
 | Old zodiac lists | Pisces's stone in Kunz's 1913 verse list, Aquarius's in an old Spanish list |
 | Anniversaries | 6th and 17th (GIA) |
 | Flower in Kunz's 1913 calendar | Primrose |
-| Price | Affordable [TO CHECK US retail ranges] |
-| Common mix-ups | Purple chalcedony sold as "amethyst," lab-grown rough sold as natural |
+| Price | Affordable, see the listing prices under Honest Buying Tips |
+| Common mix-ups | Purple chalcedony sold as "amethyst," purple glass, lab-grown rough sold as natural |
 | Care | Water OK, Sun Brief only, Heat Avoid, Salt Unknown |
 
 ## What Is the February Birthstone?
@@ -85,7 +89,7 @@ If you want a second February stone anyway, the zodiac offers one route. A Febru
 - **Valentine's lore.** **Tradition.** GIA says St. Valentine wore an amethyst ring carved with Cupid. Kunz, more careful, calls the story somewhat doubtful but "by no means impossible" (1913, page 257). Either way, it gave February's stone a Valentine's Day legend.
 - **1700s.** **Tradition.** Wearing a stone for one's birth month seems to have started in Poland in the 18th century, in Kunz's view (1913, page 307). The writer Poujet fils, in 1762, described rings set with the birth-month stone and engraved with the zodiac sign (pages 316 to 317).
 - **1913.** **Tradition.** Kunz's calendar of the months gives February the amethyst, the guardian angel Barchiel, the apostle Andrew, the sign of Pisces and the primrose, with a verse. "The February-born may find / Sincerity and peace of mind, / Freedom from passion and from care, / If she an amethyst will wear" (page 327). His zodiac verse for Pisces repeats the promise, "From passion and from care kept free" (page 345).
-- **Today.** **Modern Association.** In the crystal guides we compared, amethyst is a Classic stone for sleep, for focus and for protection, and Widely Linked to calm in anxious moments. Most guides place it on the crown chakra. Our [amethyst page](/stones/amethyst/) follows each thread.
+- **Today.** **Modern Association.** In modern crystal guides, amethyst is a Classic stone for sleep, for focus and for protection, and Widely Linked to calm in anxious moments. Most guides place it on the crown chakra. Our [amethyst page](/stones/amethyst/) follows each thread.
 
 Notice how little the core idea has moved. The Greek sober stone, the 1913 promise of "peace of mind" and today's calm stone are close cousins, and that steadiness is part of the appeal.
 
@@ -102,8 +106,8 @@ We use the same five labels on every stone. Here is where amethyst stands.
 - **Natural, untreated.** Purple straight from the ground. It is so abundant and cheap that the International Gem Society sees little incentive to buy synthetics.
 - **Natural, treated.** Heat and irradiation can change the color. Amethyst heated to yellow or red-orange is, by definition, citrine, and the International Gem Society calls the heat treatment undetectable and very stable.
 - **Lab-grown.** Labs grow amethyst hydrothermally, or make it by irradiating specially prepared smoky quartz, and synthetic rough is sometimes sold as natural rough (International Gem Society).
-- **Imitation.** Purple chalcedony is often wrongly called "amethyst" or "amethyst chalcedony." Purple or lilac chalcedony are the honest names ([Geology.com](https://geology.com/gemstones/amethyst/)).
-- **Trade names.** "Siberian" is a grade for dark purple with red or blue flashes, not an origin. "Rose de France" is very light, pinkish violet amethyst. "Madeira," "Palmyra" and "Spanish" topaz are heated amethyst, not topaz (International Gem Society).
+- **Imitation.** Purple chalcedony is often wrongly called "amethyst" or "amethyst chalcedony." Purple or lilac chalcedony are the honest names ([Geology.com](https://geology.com/gemstones/amethyst/)). Glass imitates amethyst too, though it is less brilliant, and GIA counts manufactured glass among the common gem imitations still in use ([GIA](https://www.gia.edu/gem-imitation)).
+- **Trade names.** "Siberian" is a grade for dark purple with red or blue flashes, not an origin. "Rose de France" is very light, pinkish violet amethyst. "Madeira," "Palmyra" and "Spanish" topaz are heated amethyst, not topaz. The name also travels the other way, since violet sapphire is sometimes wrongly sold as "oriental amethyst" and kunzite as "lithia amethyst," misleading names that borrow amethyst's popularity (International Gem Society).
 
 Three checks you can do at home, with their limits.
 
@@ -133,7 +137,7 @@ Wondering whether a very dark stone was dyed? Ask the seller in writing whether 
 
 Three questions to ask the seller before you buy. Is it natural, and was the color treated? Could it be lab-grown, especially if it is sold as rough? Where was it mined?
 
-[TO CHECK US retail ranges]
+Small pieces cost little. A tumbled amethyst half an inch to an inch across was on sale for $4 in one listing we found, a cluster labeled Brazilian, 2 to 3 inches across, started at $15 in another, and a small point 1.5 to 2 inches long started at $18 in a third. These are single listings, not full ranges. Prices from US-dollar listings at online crystal shops in November 2026.
 
 ## How to Use Amethyst for a February Birthday
 
@@ -153,7 +157,7 @@ Three questions to ask the seller before you buy. Is it natural, and was the col
 
 **Safety.** Small tumbled stones and bead bracelets are a choking hazard, so keep them away from small children and pets.
 
-> **When a Stone Is Not Enough.** Amethyst is often chosen for sleep, stress and cutting back on drinking. A stone can be a comfort to hold, but it is not care. If poor sleep, anxiety or worries about drinking last or feel heavy, talk to a doctor, a therapist or a counselor, and never use a stone in place of treatment.
+> **When a Stone Is Not Enough.** Amethyst is often chosen for sleep, stress and cutting back on drinking. A stone can be a comfort to hold, but it is not care. If poor sleep, anxiety or worries about drinking last or feel heavy, talk to a doctor, a therapist or a counselor, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
 
 ## How to Care for a February Birthstone
 
@@ -174,13 +178,15 @@ Three questions to ask the seller before you buy. Is it natural, and was the col
 
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), the modern month list
 - Amanda Butcher, International Gem Society, [History of Birthstones](https://www.gemsociety.org/article/history-of-birthstones/), updated October 3, 2024
-- Gemological Institute of America, [Amethyst](https://www.gia.edu/amethyst/gem-overview) and [Amethyst Care and Cleaning](https://www.gia.edu/amethyst-care-cleaning)
+- Gemological Institute of America, [Amethyst](https://www.gia.edu/amethyst/gem-overview), [Amethyst Care and Cleaning](https://www.gia.edu/amethyst-care-cleaning) and Robert Weldon, [An Introduction to Simulants or Imitation Gem Materials](https://www.gia.edu/gem-imitation)
 - International Gem Society, [Amethyst](https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/) and [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Hobart M. King, Geology.com, [Amethyst](https://geology.com/gemstones/amethyst/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 257, 303, 307, 309 to 310, 315 to 321, 323, 327, 331, 345 and 347, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
-- Modern associations compared across the crystal guides in our lore collection, including crystals.com, firemountaingems.com, rockngem.com, keystonecrystals.com, solacely.co and otherworldlyoracle.com, read November 12, 2026
+- Retail prices from US-dollar listings at online crystal shops, read November 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
+- [988 Suicide & Crisis Lifeline](https://988lifeline.org/), the official site
 - Photos from Wikimedia Commons ([Amethyst Druse](https://commons.wikimedia.org/wiki/File:Amethyst_Druse.jpg), [Brazilian amethysts](https://commons.wikimedia.org/wiki/File:Brazilian_amethysts_(6330378228).jpg)) and the Smithsonian National Museum of Natural History ([record](http://n2t.net/ark:/65665/317d704cc-0622-4a73-a7ed-7f7c342577da))
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

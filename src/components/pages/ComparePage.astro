@@ -20,27 +20,50 @@ const sides = slugs.map((slug, i) => {
   return { slug, name, url, photo: fromPair?.html || thumbs.get(slug)?.card || null, known: knownFor(slug, 4) };
 });
 const others = site.pages.filter((p) => p.type === 'compare' && p.url !== page.url);
+// Two photos side by side only when both exist. Otherwise the names stand alone, with the
+// page's own checked hero photo beside them when there is one. Never an empty frame.
+const pairPhotos = sides.every((s) => s.photo);
+const ogImage = ogImageFrom(pairPhotos ? sides[0].photo : doc.heroHtml);
 const hasKnown = sides.some((s) => s.known.length);
 const howHref = site.isBuilt('/sources/') ? '/sources/#how-we-rate' : '#how-we-rate';
 ---
-<Base page={page} title={page.data.title} description={page.data.description} url={page.url} image={ogImageFrom(sides[0].photo)} breadcrumbs={crumbs} citations={citationsFor(page)}>
+<Base page={page} title={page.data.title} description={page.data.description} url={page.url} image={ogImage} breadcrumbs={crumbs} citations={citationsFor(page)}>
   <div class="wrap"><Breadcrumbs items={crumbs} /></div>
   <section class="wrap page-hero compare-hero">
     <p class="eyebrow">Compare Two Stones</p>
     <h1 class="page-title" style="max-width:980px">{page.data.h1}</h1>
     <p class="byline">By <a href="#author">Iris Holloway</a></p>
-    <div class="vs-pair">
-      {sides.map((s, i) => (
-        <Fragment>
-          {i === 1 && <div class="vs-disc" aria-hidden="true">vs</div>}
-          <div class={`vs-side side-${i}`}>
-            {s.photo ? <Fragment set:html={s.photo} /> : <div class="vs-blank" aria-hidden="true"></div>}
-            <p class="vs-name">{s.url ? <a href={s.url}>{s.name}</a> : s.name}</p>
+    {pairPhotos ? (
+      <Fragment>
+        <div class="vs-pair">
+          {sides.map((s, i) => (
+            <Fragment>
+              {i === 1 && <div class="vs-disc" aria-hidden="true">vs</div>}
+              <div class={`vs-side side-${i}`}>
+                <Fragment set:html={s.photo} />
+                <p class="vs-name">{s.url ? <a href={s.url}>{s.name}</a> : s.name}</p>
+              </div>
+            </Fragment>
+          ))}
+        </div>
+        {doc.lead && <p class="lead" set:html={doc.lead} />}
+      </Fragment>
+    ) : (
+      <div class={['hero-grid', 'compare-grid', doc.heroHtml ? 'photo-first' : 'no-photo'].join(' ')}>
+        {doc.heroHtml && <div class="hero-figure guide-photo"><Fragment set:html={doc.heroHtml} /></div>}
+        <div class="hero-text">
+          <div class="vs-pair vs-names">
+            {sides.map((s, i) => (
+              <Fragment>
+                {i === 1 && <div class="vs-disc" aria-hidden="true">vs</div>}
+                <p class={`vs-side side-${i} vs-name`}>{s.url ? <a href={s.url}>{s.name}</a> : s.name}</p>
+              </Fragment>
+            ))}
           </div>
-        </Fragment>
-      ))}
-    </div>
-    {doc.lead && <p class="lead" set:html={doc.lead} />}
+          {doc.lead && <p class="lead" set:html={doc.lead} />}
+        </div>
+      </div>
+    )}
   </section>
   {doc.intro && <div class="wrap section-intro"><div class="prose"><Body html={doc.intro} page={page} /></div></div>}
   <Sections sections={doc.sections} page={page} />
@@ -63,9 +86,11 @@ const howHref = site.isBuilt('/sources/') ? '/sources/#how-we-rate' : '#how-we-r
     </section>
   )}
   {others.length > 0 && (
-    <section class="wrap section" aria-labelledby="more-compares">
-      <h2 class="card-title" id="more-compares">More Side by Sides</h2>
-      <div class="child-grid">{others.map((o) => <a class="child-card" href={o.url}><span class="child-title">{o.data.h1}</span></a>)}</div>
+    <section class="section" aria-labelledby="more-compares">
+      <div class="wrap">
+        <h2 class="card-title" id="more-compares">More Side by Sides</h2>
+        <div class="child-grid">{others.map((o) => <a class="child-card" href={o.url}><span class="child-title">{o.data.h1}</span></a>)}</div>
+      </div>
     </section>
   )}
   <AuthorBox text={doc.authorText} compact={true} />

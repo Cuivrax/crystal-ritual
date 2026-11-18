@@ -16,7 +16,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-27"
 publishTime: "09:05"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://geology.com/minerals/magnetite.shtml"
@@ -26,10 +26,14 @@ sources:
   - "https://www.handbookofmineralogy.org/pdfs/magnetite.pdf"
   - "https://www.gemsociety.org/article/hematite-jewelry-and-gemstone-information/"
   - "https://www.gia.edu/jade/buyers-guide"
-  - "https://en.wikipedia.org/wiki/Magnetite"
+  - "https://cse.umn.edu/irm/2-classes-magnetic-materials"
+  - "https://cnmnc.units.it/"
+  - "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D36%3Achapter%3D25"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
   - "https://doi.org/10.1503/cmaj.061344"
+  - "https://search.pedro.org.au/search-results/record-detail/35530"
+  - "https://en.camille-ambiance-nature.fr/pierre/jade-noir"
   - "https://www.crystals.com/pages/crystals/lodestone-magnetite"
   - "https://www.lithotherapie.net/articles/magnetite/"
   - "https://www.france-mineraux.fr/vertus-des-pierres/pierre-magnetite/"
@@ -65,7 +69,7 @@ Magnetite is a black iron oxide mineral, Fe₃O₄, and the most strongly magnet
 | Salt | Unknown |
 | Toxic to handle | Unknown in our care data |
 | Common fakes | Hematine ("magnetic hematite"), a man-made material |
-| Price range | [TO CHECK US retail ranges] |
+| Price range | No current figure. Well-formed crystals draw collectors (see Price Guide) |
 | Birthstone | None on the modern list |
 | Chakra (Modern Association) | Root |
 
@@ -77,7 +81,7 @@ Magnetite is a black iron oxide mineral, Fe₃O₄, and the most strongly magnet
 
 ### Magnetite Chemical Formula & Composition
 
-**Mineral Fact.** The chemical formula is Fe₃O₄, three iron atoms to four oxygen (Geology.com). The IMA list writes it Fe²⁺Fe³⁺₂O₄ to show that magnetite holds two kinds of iron, one ferrous (Fe²⁺) and two ferric (Fe³⁺). Its chemical name is iron(II,III) oxide, and the common one is ferrous-ferric oxide, according to [Wikipedia](https://en.wikipedia.org/wiki/Magnetite). Natural samples in the Handbook of Mineralogy come close to that ideal, with less than 1% of anything else. Titanium-rich titanomagnetite and chromium-rich chrome-magnetite are variety names ([Minerals.net](https://www.minerals.net/mineral/magnetite)).
+**Mineral Fact.** The chemical formula is Fe₃O₄, three iron atoms to four oxygen (Geology.com). The IMA list writes it Fe²⁺Fe³⁺₂O₄ to show that magnetite holds two kinds of iron, one ferrous (Fe²⁺) and two ferric (Fe³⁺). It is often called iron(II,III) oxide, or ferrous-ferric oxide. Natural samples in the Handbook of Mineralogy come close to that ideal, with less than 1% of anything else. Titanium-rich titanomagnetite and chromium-rich chrome-magnetite are variety names ([Minerals.net](https://www.minerals.net/mineral/magnetite)).
 
 ### Magnetite Hardness, Luster & Streak
 
@@ -95,7 +99,7 @@ Classic octahedra come from the Binn valley in Switzerland, Chester in Vermont a
 
 ### Is Magnetite Magnetic?
 
-Yes, strongly. It is the most strongly magnetic mineral found in nature (Geology.com). Wikipedia describes it as ferrimagnetic, and notes that it can itself be magnetized into a permanent magnet. Why it behaves this way comes down to its iron and the way the atoms sit in its crystal [TO CHECK a plain-language explanation of ferrimagnetism from a reference source].
+Yes, strongly. It is the most strongly magnetic mineral found in nature (Geology.com). The reason is ferrimagnetism, and it comes down to where the iron sits in the crystal. Some iron atoms sit among four oxygen atoms and others among six. The tiny magnetic pulls of the two groups point in opposite directions, but they are not equal, so they do not cancel, and the leftover, carried by the Fe²⁺ iron, gives the whole crystal its magnetism. Magnetite was thought to be an ordinary ferromagnet, like iron, until Néel's work in the 1940s explained ferrimagnetism ([Institute for Rock Magnetism, University of Minnesota](https://cse.umn.edu/irm/2-classes-magnetic-materials)).
 
 Magnetite is attracted to a magnet, and only some specimens are naturally magnetized themselves, enough to pick up small bits of iron and other magnetic grains. That naturally magnetized form is lodestone, and it was people's first encounter with magnetism (Geology.com). Minerals.net calls lodestone the only mineral that is a natural magnet. More on [lodestone](/stones/lodestone/).
 
@@ -111,7 +115,7 @@ It also works for a living. Most iron ore mined today is taconite, a banded rock
 
 **The Story.** The lodestone collected strange beliefs for a simple reason. It really does something. Here is how people explained that pull.
 
-- **Ancient Greece.** **Tradition.** Plato credits the tragic poet Euripides with first calling the stone magnetis, after Magnesia, one of the places it was found, while Pliny tells of a shepherd named Magnes whose shoe nails stuck to it on Mount Ida (Kunz, *The Curious Lore of Precious Stones*, 1913, page 93).
+- **Ancient Greece.** **Tradition.** Plato credits the tragic poet Euripides with first calling the stone magnetis, after Magnesia, one of the places it was found (Kunz, *The Curious Lore of Precious Stones*, 1913, page 93). Pliny writes that "it received its name magnes, Nicander informs us, from the person who was the first to discover it, upon Ida" ([*Natural History* 36.25, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D36%3Achapter%3D25)). Kunz's retelling adds that Magnes was a shepherd whose shoe nails stuck to the stone (1913, page 93).
 - **Ancient writers.** **Tradition.** None of them noticed that iron also pulls on the lodestone, and a strange fancy held that a diamond robbed a lodestone of its power, notes Kunz (*The Magic of Jewels and Charms*, 1915, pages 64 to 65).
 - **The stone of love.** **Tradition.** In Sanskrit the lodestone was chumbaka, "the kisser," and in Chinese the "loving-stone." An 8th-century Chinese author wrote that it "attracts iron just as does a tender mother when she calls her children to her" (Kunz 1913, page 95).
 - **Late antiquity.** **Tradition.** Palladius wrote of lodestone islands on the route to Ceylon that pulled in ships built with iron nails. Kunz suspects the legend came from ships in that trade being pegged with wood because iron was scarce (1915, page 64).
@@ -122,7 +126,7 @@ It also works for a living. Most iron ore mined today is taconite, a banded rock
 
 ## What People Use Magnetite for Today
 
-**Modern Association.** In the crystal guides we compared, the link that comes up most is [grounding](/crystals-for/grounding/), feeling steady and present. Attraction comes next, of love, luck, money or customers, a direct echo of the stone that pulls iron. Balance and direction follow, and several guides put it on the root chakra. Mars shows up as its planet, as in Kunz.
+**Modern Association.** In modern crystal guides, the link that comes up most is [grounding](/crystals-for/grounding/), feeling steady and present. Attraction comes next, of love, luck, money or customers, a direct echo of the stone that pulls iron. Balance and direction follow, and several guides put it on the root chakra. Mars shows up as its planet, as in Kunz.
 
 Attraction has its own folk practice. Guides describe keepers who "feed" a lodestone with iron filings, sold as magnetic sand, sometimes with a drop of oil, whisky or Agua Florida, and keep it in a red flannel bag. Our care data says moisture can rust magnetite, so if you keep this custom, use the dry filings and skip the liquid.
 
@@ -154,15 +158,15 @@ Some sites go much further, promising relief from pain, cramps, fractures, anemi
 
 **Try This.** For a graduate or a friend moving across the country, give a lodestone with a card. Write what it is (the natural magnet behind the first compasses) and its old Chinese name, the loving-stone.
 
-**Safety.** Some crystal guides warn people with a pacemaker or another implanted device against magnetite. Our sources say nothing on lodestone strength, so ask your doctor before keeping any magnet near your chest. Guides also keep strong lodestones away from magnetic-stripe cards.
+**Safety.** Some crystal guides warn people with a pacemaker or another implanted device against magnetite. If you have one, ask your doctor before keeping any magnet near your chest. Guides also keep strong lodestones away from magnetic-stripe cards.
 
 ## Is My Magnetite Real?
 
 We use the same five labels on every stone.
 
 - **Natural, untreated.** Crystals, massive pieces and lodestone. Some dealers sprinkle metal filings on a lodestone to show off its pull (Minerals.net). That is staging, not a fake.
-- **Natural, treated.** [TO CHECK whether any treatment is used on magnetite sold as specimens, beads or tumbled stones.] Removing rust with a rust remover is cleaning, not treatment.
-- **Lab-grown.** Magnetite crystals can be grown in the lab, according to Wikipedia. [TO CHECK whether lab-made magnetite is sold as crystals or beads.]
+- **Natural, treated.** We found no reference source describing treatments on magnetite sold as specimens, beads or tumbled stones. Removing rust with a rust remover is cleaning, not treatment.
+- **Lab-grown.** Magnetite can be made in the lab, and the Handbook of Mineralogy takes its reference X-ray data from synthetic material. We found no reference source on lab-made magnetite sold as crystals or beads.
 - **Imitation.** Shiny magnetic beads may be hematine, sold as "magnetic hematite." It contains no hematite at all and leaves a red streak, says the [International Gem Society](https://www.gemsociety.org/article/hematite-jewelry-and-gemstone-information/).
 - **Trade names.** Lodestone is a real variety. Taconite is a banded iron ore rock that contains magnetite.
 
@@ -174,7 +178,7 @@ Three checks, with their limits.
 
 ### What Is Magnetite Jade?
 
-"Magnetite jade" is not a mineral name on the IMA List of Minerals. Jade is nephrite or jadeite ([GIA](https://www.gia.edu/jade/buyers-guide)), and magnetite is an iron oxide, a different mineral. [TO CHECK what material is sold as magnetite jade, from a reference source.] A magnet tells you whether magnetite is present, not whether a piece is jade. If a listing uses the name, ask the seller which mineral you are paying for, and see our [jade page](/stones/jade/).
+"Magnetite jade" is a seller's name, not a mineral name on the IMA List of Minerals. At least one crystal seller uses it as another name for [black jade](/stones/black-jade/), which it describes as jadeite containing iron oxide and magnetite. We found no reference source that defines the term. Jade is nephrite or jadeite ([GIA](https://www.gia.edu/jade/buyers-guide)), and magnetite is an iron oxide, a different mineral. A magnet tells you whether magnetite is present, not whether a piece is jade. If a listing uses the name, ask the seller which mineral you are paying for, and see our [jade page](/stones/jade/).
 
 ## How to Care for Magnetite
 
@@ -182,9 +186,9 @@ Three checks, with their limits.
 
 - **Water.** Brief only. Magnetite may grow a yellow-brown rust coating if washed or kept somewhere damp, so dry a washed piece right away (Minerals.net).
 - **Soaking.** Brief only, for the same reason. No overnight baths and no water elixirs.
-- **Rust.** Rust can be removed by soaking in a rust remover such as Iron Out, says Minerals.net, a mineral reference site rather than a care guide. Chemicals rate Brief only, and magnetite slowly dissolves in hydrochloric acid (Wikipedia).
-- **Sun.** Unknown. None of our sources cover light.
-- **Heat.** Unknown. Our sources give only melting and magnetic temperatures, not a safe limit.
+- **Rust.** Rust can be removed by soaking in a rust remover such as Iron Out, says Minerals.net, a mineral reference site rather than a care guide. Chemicals rate Brief only.
+- **Sun.** Unknown. We found no reference source on light and magnetite.
+- **Heat.** Unknown. Mineral references give the temperature at which magnetite loses its magnetism, not a safe limit for a stone.
 - **Salt.** Unknown. One guide warns that salt damages it. Our data cannot confirm that, so simply skip salt.
 - **Toxicity.** Unknown in our care data. Keep it out of anything you drink.
 - **Storage.** Brief only. A lodestone collects iron particles on its surface (Minerals.net). Our habit is a box of its own, away from steel tools and loose filings.
@@ -200,9 +204,9 @@ Some guides suggest charging magnetite in bright sun. With no sun rating in our 
 
 ## Price Guide
 
-Most magnetite is mined as iron ore (Geology.com). Collectors want well-formed crystals, and lodestone is often sold in hobby shops (Minerals.net). In 1887 lodestone was worth 75 cents a pound, according to Kunz.
+Most magnetite is mined as iron ore (Geology.com). Much commercially mined magnetite is massive and holds no interest for collectors, while well-formed crystals are popular with them, and the lodestone variety is often sold in hobby shops to amateur collectors (Minerals.net). So crystal form is what sets a collector's piece apart, and single octahedra from the Binn valley in Switzerland are well known (Minerals.net). In 1887 lodestone was worth 75 cents a pound, according to Kunz.
 
-[TO CHECK typical US retail ranges for magnetite crystals, lodestone, tumbled stones and beads, with a dated source.]
+We give no current price figures here, since the only retail listing we found was out of stock and not clearly labeled as magnetite.
 
 **Next Step.** Want the natural magnet itself? Read our [lodestone page](/stones/lodestone/).
 
@@ -212,12 +216,13 @@ Most magnetite is mined as iron ore (Geology.com). Collectors want well-formed c
 - Minerals.net, [Magnetite](https://www.minerals.net/mineral/magnetite)
 - Handbook of Mineralogy, [Magnetite](https://www.handbookofmineralogy.org/pdfs/magnetite.pdf), Mineral Data Publishing
 - International Gem Society, [Hematite](https://www.gemsociety.org/article/hematite-jewelry-and-gemstone-information/), and GIA, [Jade Buyer's Guide](https://www.gia.edu/jade/buyers-guide)
-- IMA List of Minerals, July 2026 edition
-- Wikipedia, [Magnetite](https://en.wikipedia.org/wiki/Magnetite)
+- Institute for Rock Magnetism, University of Minnesota, [Classes of Magnetic Materials](https://cse.umn.edu/irm/2-classes-magnetic-materials)
+- IMA List of Minerals, July 2026 edition, from the [official IMA CNMNC site](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 93 to 97 and 338, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 64 to 68, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- Pittler, M. H., Brown, E. M., and Ernst, E. (2007), Static magnets for reducing pain, systematic review and meta-analysis of randomized trials, *Canadian Medical Association Journal* 177(7), 736 to 742, [doi.org/10.1503/cmaj.061344](https://doi.org/10.1503/cmaj.061344)
-- Modern associations compared across the crystal guides in our lore collection, including crystals.com, lithotherapie.net, france-mineraux.fr, firemountaingems.com, crystalgemstones.net and bindi-online.com, read November 18, 2026
+- Pliny the Elder, *Natural History*, Book 36, chapter 25, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D36%3Achapter%3D25)
+- Pittler, M. H., Brown, E. M., and Ernst, E. (2007), Static magnets for reducing pain, systematic review and meta-analysis of randomized trials, *Canadian Medical Association Journal* 177(7), 736 to 742, [doi.org/10.1503/cmaj.061344](https://doi.org/10.1503/cmaj.061344), abstract read on [PEDro](https://search.pedro.org.au/search-results/record-detail/35530)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

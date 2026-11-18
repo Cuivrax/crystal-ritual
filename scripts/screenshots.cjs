@@ -22,7 +22,20 @@ const WIDTHS = [1440, 390];
       const ctx = await browser.newContext({ viewport: { width: w, height: w > 500 ? 900 : 844 }, deviceScaleFactor: 1, timezoneId: 'America/New_York' });
       const page = await ctx.newPage();
       await page.goto(`http://127.0.0.1:${port}${p}`, { waitUntil: 'networkidle' });
-      await page.evaluate(async () => { await document.fonts.ready; });
+      // Lazy images below the fold would stay blank in a full-page shot, load them all first.
+      await page.evaluate(async () => {
+        await document.fonts.ready;
+        document.querySelectorAll('img[loading="lazy"]').forEach((img) => { img.loading = 'eager'; });
+        await Promise.all([...document.images].map((img) => (img.complete ? null : new Promise((r) => { img.onload = r; img.onerror = r; }))));
+        // Walk down the page once so every image is decoded and painted before the full-page capture.
+        for (let y = 0; y < document.documentElement.scrollHeight; y += window.innerHeight) {
+          window.scrollTo(0, y);
+          await new Promise((r) => setTimeout(r, 60));
+        }
+        await Promise.all([...document.images].map((img) => img.decode().catch(() => null)));
+        window.scrollTo(0, 0);
+      });
+      await page.waitForTimeout(400);
       const name = `${p === '/' ? 'home' : p.replace(/^\/|\/$/g, '').replace(/\//g, '__')}-${w}.png`;
       const file = path.join(out, name);
       await page.screenshot({ path: file, fullPage: true });

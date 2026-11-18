@@ -13,6 +13,7 @@ publishTime: "07:00"
 status: "verified"
 page_type: "stone"
 sources:
+  - "https://988lifeline.org/"
   - "https://www.gemsociety.org/article/jasper-gem-information/"
   - "https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/"
   - "https://www.gemsociety.org/article/carnelian-gem-information/"
@@ -143,7 +144,7 @@ Many sites go further, listing circulation, period pain, fertility, pregnancy an
 
 **Safety.** mindbodygreen says red jasper can tolerate long stretches in water and suggests adding it to a bath with salts. Our care data does not go that far. Soaking is rated Brief only and salt is Unknown in the Care Checker, so set the stone on the edge of the tub instead. One French guide even suggests drinking water a stone has soaked in, which we never recommend. See [which crystals can go in water](/care/crystals-that-cant-go-in-water/). Small tumbled stones are not toys, so keep them away from small children and pets.
 
-> **When a Stone Is Not Enough.** Red jasper is widely sold for period pain, fertility, pregnancy, circulation, anxiety and sleep. A stone can be a comfort to hold, but it is not care. If pain, bleeding, low mood, poor sleep or anything about a pregnancy worries you, talk to a doctor, a midwife or a therapist, and never delay care because of a stone.
+> **When a Stone Is Not Enough.** Red jasper is widely sold for period pain, fertility, pregnancy, circulation, anxiety and sleep. A stone can be a comfort to hold, but it is not care. If pain, bleeding, low mood, poor sleep or anything about a pregnancy worries you, talk to a doctor, a midwife or a therapist, and never delay care because of a stone. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Red Jasper Real?
 

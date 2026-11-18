@@ -112,7 +112,7 @@ Some sturdy stones can take a quick rinse, but no stone needs to be inside the j
 
 This is the indirect method. The stone sits next to the jar, or on its lid, and never touches the water. It still shares the night and the ritual, and nothing can dissolve into what you drink.
 
-Some guides go one step closer and put the stone in a small sealed glass inside the jar. We will list the stones that suit that version once a reference source clears them for a long soak and our care data clears them for toxicity. So far our sources clear a long soak for only three stones, black agate, flower agate and grape agate, and only through one dealer's care table for agate in general ([GemSelect](https://gemselect.com/gem-info/cleaning.php)), which is not enough for anything you drink. So we list no stone for the sealed glass yet, and beside the jar is the version we suggest.
+Some guides go one step closer and put the stone in a small sealed glass inside the jar. We will list the stones that suit that version once a reference source clears them for a long soak and our care data clears them for toxicity. So far the Care Checker clears a long soak for only three stones, black agate, flower agate and grape agate, and only through one dealer's care table for agate in general ([GemSelect](https://gemselect.com/gem-info/cleaning.php)), which is not enough for anything you drink. So we list no stone for the sealed glass yet, and beside the jar is the version we suggest.
 
 ### Never in Water You Drink
 

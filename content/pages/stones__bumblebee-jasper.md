@@ -19,6 +19,7 @@ sources:
   - "https://www.gemsociety.org/article/realgar-jewelry-and-gemstone-information/"
   - "https://www.minerals.net/mineral/realgar"
   - "https://geology.com/minerals/calcite.shtml"
+  - "https://poisonhelp.hrsa.gov/"
   - "https://poison.org/need-immediate-assistance"
   - "https://www.americangemsociety.org/birthstones/"
   - "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D37"
@@ -58,7 +59,7 @@ Bumblebee jasper is not a jasper. It is a trade name for a yellow, orange and bl
 | Birthstone | Not on the modern list |
 | Chakra (Modern Association) | Solar plexus most often |
 
-> **Is It Real? Quick Checks.** Real bumblebee stone shows bright yellow to orange bands with black, often in bull's-eye circles. Under a loupe it looks like colored powder cemented in stone. Never scratch or acid-test it at home, since that makes dust from arsenic minerals. Only a lab can confirm what a piece is.
+> **Is It Real? Quick Checks.** Real bumblebee stone shows bright yellow to orange bands with black, often in bull's-eye circles. Under magnification it looks like colored powder cemented in stone. Never scratch or acid-test it at home, since that makes dust from arsenic minerals. Only a lab can confirm what a piece is.
 
 ## What Bumblebee Jasper Actually Is
 
@@ -76,7 +77,7 @@ Gem-A places it in "a rare category of gems coloured by micro-inclusions of sulp
 
 ### How Bumblebee Jasper Forms
 
-It grew at a solfatara, a volcanic vent that breathes out hot, sulfur-rich gases, close to the Mount Ciremai volcano. Heated groundwater picked up iron, sulfur, calcium carbonate and arsenic from the volcanic system, and as the gases escaped, minerals settled in bands inside fractures in volcanic ash and tuff (Gem-A).
+It grew at a solfatara, a fumarole that vents hot, sulfur-rich gases, close to the Mount Ciremai volcano. Heated groundwater picked up iron, sulfur, calcium carbonate and arsenic from the volcanic system, and as the gases escaped, minerals settled in bands inside fractures in volcanic ash and tuff (Gem-A).
 
 The veins run nearly vertical, and single color bands rarely exceed about 2 inches (5 cm), according to Gem-A.
 
@@ -130,7 +131,7 @@ Some guides list allergies, skin rashes, blood sugar, fertility, circulation or 
 
 **What Research Says.** In a [2025 randomized study](https://doi.org/10.1017/S1092852925100515) of 138 adults, Escolà-Gascón and colleagues gave people real rose quartz or a matching glass fake for 14 days, and anxiety scores fell only in those who believed in crystal healing, with the fake doing as well as the real stone. It was one trial in adults with low anxiety, and it did not test bumblebee stone. If a desk ritual helps you, the cue and your own expectations are doing the work.
 
-> **When a Stone Is Not Enough.** Bumblebee jasper is often chosen for stress, worry and sleepless nights, and some guides make claims about blood sugar or fertility. A stone can be a comfort to look at, but it is not care. If stress, anxiety or poor sleep lasts or feels heavy, talk to a doctor or a therapist, and bring blood sugar or fertility questions to your doctor. If anyone swallows a piece, call Poison Control (details below).
+> **When a Stone Is Not Enough.** Bumblebee jasper is often chosen for stress, worry and sleepless nights, and some guides make claims about blood sugar or fertility. A stone can be a comfort to look at, but it is not care. If stress, anxiety or poor sleep lasts or feels heavy, talk to a doctor or a therapist, and bring blood sugar or fertility questions to your doctor. If anyone swallows a piece, call the Poison Help line (details below).
 
 ## Is My Bumblebee Jasper Real?
 
@@ -145,7 +146,7 @@ We use the same five labels on every stone. The name is the first thing to corre
 Two checks you can do at home, and one you should never do.
 
 1. **Read the pattern.** Look for bright yellow to orange bands with black, often as bull's-eye circles (Gem-A). The limit is that colors vary, and Gem-A notes that 2017 material was more orange than earlier finds.
-2. **Use a loupe.** Real material looks like colored powders cemented in a carbonate matrix, with tiny cavities that can hold orange to reddish crystals (Gem-A). This is a strong hint, not a proof.
+2. **Look under magnification.** Real material looks like colored powders cemented in a carbonate matrix, with tiny cavities that can hold orange to reddish crystals (Gem-A). This is a strong hint, not a proof.
 3. **Never acid-test or scratch it.** The lab's acid drop made it fizz. At home that damages the stone, and scratching turns arsenic-bearing minerals into dust.
 
 Three questions to ask the seller. Has it been stabilized, sealed or dyed? Where was it mined? Is this piece finished, or raw?
@@ -168,12 +169,12 @@ Three questions to ask the seller. Has it been stabilized, sealed or dyed? Where
 
 Treat it as toxic if swallowed or ground into dust. Our Care Checker rates its toxicity Avoid. A retailer says it is safe to wear but contains arsenic and sulfur minerals, and should not be ingested or handled by children who might put it in their mouth.
 
-The reason is in the colors, pararealgar and realgar, both arsenic sulfides (Gem-A). For realgar on its own, the International Gem Society rates the toxicity risk High, hazard arsenic, and notes it "can react dangerously if accidentally swallowed" ([IGS care guide](https://www.gemsociety.org/article/gemstone-care-guide/)). The IGS advises cleaning yourself properly and avoiding dust when handling realgar ([IGS realgar](https://www.gemsociety.org/article/realgar-jewelry-and-gemstone-information/)), and [Minerals.net](https://www.minerals.net/mineral/realgar) recommends washing your hands afterward. Bumblebee stone is mostly calcite, not pure realgar, but we apply the same habits.
+The reason is in the colors, pararealgar and realgar, both arsenic sulfides (Gem-A). For realgar on its own, the International Gem Society rates the toxicity risk High, hazard arsenic, and describes it as dangerous if swallowed ([IGS care guide](https://www.gemsociety.org/article/gemstone-care-guide/)). The IGS advises cleaning yourself properly and avoiding dust when handling realgar ([IGS realgar](https://www.gemsociety.org/article/realgar-jewelry-and-gemstone-information/)), and [Minerals.net](https://www.minerals.net/mineral/realgar) recommends washing your hands afterward. Bumblebee stone is mostly calcite, not pure realgar, but we apply the same habits.
 
 - **Handling.** Wearing a finished piece is fine by the retailer's account. Wash your hands after handling any piece, and take extra care with raw, chipped or crumbly ones.
 - **Cutting.** Never cut, drill, sand or polish it at home. The International Gem Society warns that lapidaries should take care cutting potentially toxic minerals, since inhaling or swallowing particles could harm your health.
 - **Children and pets.** Keep it out of reach, and do not give it to a child as a pocket stone.
-- **If someone swallows a piece.** In the US, call Poison Control at 1-800-222-1222, free and open 24 hours a day, or use webPOISONCONTROL online. Call 911 right away if the person collapses, has a seizure, has trouble breathing or cannot be woken ([Poison Control](https://poison.org/need-immediate-assistance)). For a pet, call your vet at once.
+- **If someone swallows a piece.** In the US, call the Poison Help line at 1-800-222-1222, free and open 24 hours a day ([Poison Help](https://poisonhelp.hrsa.gov/)). Call 911 right away if the person collapses, has a seizure, has trouble breathing or cannot be woken ([Poison Control](https://poison.org/need-immediate-assistance)). For a pet, call your vet at once.
 
 Our guide to [toxic crystals](/care/toxic-crystals/) covers the other stones that need the same caution.
 
@@ -207,7 +208,7 @@ Gem-A says the most sought-after bumblebee stone is the orbicular variety with a
 - Minerals.net, [Realgar](https://www.minerals.net/mineral/realgar)
 - Hobart M. King, Geology.com, [Calcite](https://geology.com/minerals/calcite.shtml)
 - Rock Your World Gems, [About Bumblebee Jasper](https://www.rockyourworldgems.com/pages/about-bumblebee-jasper), a retailer guide
-- Poison Control, [Get Help for a Poisoning](https://poison.org/need-immediate-assistance)
+- Poison Help, [Poison Help Line](https://poisonhelp.hrsa.gov/), and Poison Control, [Get Help for a Poisoning](https://poison.org/need-immediate-assistance)
 - Pliny the Elder, *Natural History*, Book 37, chapter 37, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D37), CC BY-SA 3.0 US
 - Álex Escolà-Gascón and colleagues, *CNS Spectrums* (2025), [DOI 10.1017/S1092852925100515](https://doi.org/10.1017/S1092852925100515)
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition

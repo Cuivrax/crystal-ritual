@@ -190,7 +190,7 @@ At the top end, tourmaline specimens with attractive color and crystal form can 
 - George Frederick Kunz, *The Magic of Jewels and Charms* (1915), pages 51 to 59, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - R. A. Emmons and M. E. McCullough, *Journal of Personality and Social Psychology* (2003), [doi.org/10.1037/0022-3514.84.2.377](https://doi.org/10.1037/0022-3514.84.2.377)
 - [988 Suicide & Crisis Lifeline](https://988lifeline.org/)
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

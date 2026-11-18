@@ -38,6 +38,7 @@ sources:
   - "https://www.france-mineraux.fr/vertus-des-pierres/pierre-agate/"
   - "https://www.edelsteine.net/achat-blau/"
   - "https://www.wemystic.com.br/pedra-agata/"
+  - "https://988lifeline.org/"
 ---
 
 # Agate Meaning, Properties & Real-Life Uses
@@ -149,7 +150,7 @@ As a mineral, agate is a hard stone that takes a high polish. Everything else is
 
 **What Research Says.** The New Year's stone has the closest match in research, though not with stones. Three archival field studies, which tracked Google searches for "diet," visits to a university gym and commitments made on a goal-setting website, found that people took up their goals more often right after dates that feel like a fresh start, such as a new week, month or year (Dai, Milkman and Riis, 2014, *Management Science*, [doi.org/10.1287/mnsc.2014.1901](https://doi.org/10.1287/mnsc.2014.1901)). The data were observational, so they show a pattern rather than a cause, and no agate or any other stone was tested. Treat the habits above as personal practices.
 
-> **When a Stone Is Not Enough.** Agate is often chosen for stress and unsettled sleep, and some guides suggest it in pregnancy. A stone can be a comfort to hold, but it is not care. If anxiety, low mood or poor sleep lasts or feels heavy, talk to a doctor or a therapist, and bring pregnancy questions to your doctor or midwife.
+> **When a Stone Is Not Enough.** Agate is often chosen for stress and unsettled sleep, and some guides suggest it in pregnancy. A stone can be a comfort to hold, but it is not care. If anxiety, low mood or poor sleep lasts or feels heavy, talk to a doctor or a therapist, and bring pregnancy questions to your doctor or midwife. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
 
 ## Is My Agate Real?
 
@@ -218,7 +219,8 @@ The International Gem Society calls agate's value generally quite modest, with l
 - Pliny the Elder, *Natural History*, Book 37, chapter 54, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D54)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 39, 51 to 52, 54, 137, 149, 258, 276, 296 to 297 and 336 to 337, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), page 84, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - H. Dai, K. L. Milkman and J. Riis, *Management Science* 60 (2014), [doi.org/10.1287/mnsc.2014.1901](https://doi.org/10.1287/mnsc.2014.1901)
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- [988 Suicide & Crisis Lifeline](https://988lifeline.org/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

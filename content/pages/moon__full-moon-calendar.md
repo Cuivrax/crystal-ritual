@@ -28,7 +28,7 @@ There are 12 full moons in 2027, from the Wolf Moon on Friday, January 22, to th
 
 <!-- BUILD email reminder -->
 
-<!-- PHOTO TO FIND. No moon photo in our image files. Options, the tool's own SVG moon drawing as the hero, or a public domain NASA photo of the full moon once its page, license and credit are logged. Never a generated image presented as a photo. -->
+<!-- PHOTO HERO. File site/photos/moon__full-moon-calendar/hero.jpg. Source Unsplash, https://unsplash.com/photos/MhLjFJi3fRY . License Unsplash License. Credit "Photo by Alexander Grey on Unsplash". Visual check 2026-11-18, Quartz cluster silhouette on purple backdrop. -->
 
 ## Full Moons of 2027
 

@@ -206,7 +206,7 @@ For beads, bangles, pendants and carvings, the International Gem Society names c
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 83 to 89 and 382 to 383, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 384 to 385, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - Handbook of Mineralogy, [Grossular](https://www.handbookofmineralogy.org/pdfs/grossular.pdf)
 - P. M. Gollwitzer and P. Sheeran, *Advances in Experimental Social Psychology* (2006), [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

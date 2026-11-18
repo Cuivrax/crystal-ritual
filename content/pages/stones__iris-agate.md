@@ -20,6 +20,9 @@ sources:
   - "https://geology.com/gemstones/agate/"
   - "https://gia.edu/gems-gemology/spring-2017-iridescence-natural-quartz"
   - "https://geologyin.com/2023/12/iris-agate-rainbow-in-stone.html"
+  - "https://doi.org/10.1002/ejsp.674"
+  - "https://988lifeline.org/"
+  - "https://cnmnc.units.it/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
   - "https://razagems.com/blogs/loose-stones/healing-properties-of-iris-agate"
@@ -60,7 +63,7 @@ Iris agate is a banded agate whose silica layers are so fine that light shining 
 | Salt | Unknown |
 | Toxic to handle | Low risk. Cutting dust is a silica hazard |
 | Scratches | OK, it is hard enough for most jewelry |
-| Price range | [TO CHECK US retail ranges] |
+| Price range | Modest, like most agate. Set by the strength of the rainbow, the size and the cutting |
 | Chakra (Modern Association) | All chakras, often the third eye |
 
 > **Is It Real? Quick Checks.** Shine a phone flashlight through the slice in a dim room. Natural iris agate shows rainbow colors that shift as you tilt it, and the colors vanish when you take the light away. Bright color you can see in ordinary light is the agate's own color or dye, not the iris effect. Only an expert can confirm a borderline piece.
@@ -89,7 +92,7 @@ So a dull-looking slice in a shop may be the real thing. Ask to hold it up to a 
 
 Iris agate can form in any agate deposit but is less common than other varieties, says Geology In, which lists Oregon, Montana and California in the US, Rio Grande do Sul in Brazil, and occasional finds in Indonesia, India and Madagascar. It adds that iridescent agates from Indonesia may need further examination before they can be confirmed as true iris agate. These localities come from a blog, so treat them as reported, not mapped.
 
-You may also see "Horse Mountain iris agate" in listings. We found no reference source that maps that locality, so read it as the seller's label and ask how they know where the piece came from.
+Some sellers label pieces "Horse Mountain iris agate." Treat that place name as the seller's claim, and ask how they know where the piece came from.
 
 ## Where the Meaning Comes From
 
@@ -102,13 +105,13 @@ You may also see "Horse Mountain iris agate" in listings. We found no reference 
 
 ## What People Use Iris Agate for Today
 
-**Modern Association.** Confidence and protection are both Widely Linked with iris agate in the guides we compared. A gem shop's blog says it is believed to give courage and confidence, suggests it for people who are shy or afraid to speak in front of others, and says artists, writers and musicians love it for new ideas ([Raza Gems](https://razagems.com/blogs/loose-stones/healing-properties-of-iris-agate)). A crystal shop calls it a stone of "happiness, manifestation, imagination and well-being" and, "one fun attribute," a stone said to grant wishes ([Cape Cod Crystals](https://capecodcrystals.com/pages/rainbow-iris-agate)).
+**Modern Association.** Confidence and protection are both Widely Linked with iris agate in modern crystal guides. A gem shop's blog says it is believed to give courage and confidence, suggests it for people who are shy or afraid to speak in front of others, and says artists, writers and musicians love it for new ideas ([Raza Gems](https://razagems.com/blogs/loose-stones/healing-properties-of-iris-agate)). A crystal shop calls it a stone of "happiness, manifestation, imagination and well-being" and, "one fun attribute," a stone said to grant wishes ([Cape Cod Crystals](https://capecodcrystals.com/pages/rainbow-iris-agate)).
 
 Chakra links lean toward all chakras, with the third eye named most often after that. Another shop blog lists the sacral, solar plexus and third eye ([Wicca SG](https://wiccasg.com/blogs/crystals-sanctum/iris-agate-properties-and-chakras)).
 
-The "why" is the rainbow and the hidden reveal. A plain stone that lights up from inside reads easily as confidence you already have, waiting for the right moment. The protection and grounding themes come from agate in general, which is Widely Linked with grounding in the guides we compared.
+The "why" is the rainbow and the hidden reveal. A plain stone that lights up from inside reads easily as confidence you already have, waiting for the right moment. The protection and grounding themes come from agate in general, which is Widely Linked with grounding in modern crystal guides.
 
-Some links are marginal or contradictory. Zodiac signs vary from Taurus to Gemini and Virgo, and elements from air to earth, all borrowed from agate in general. Shop pages for agate also list circulation, skin, digestion and protection during pregnancy. Nothing in the mineral sources behind this page supports those claims, and a stone is never a substitute for prenatal or medical care.
+Some links are marginal or contradictory. Zodiac signs vary from Taurus to Gemini and Virgo, and elements from air to earth, all borrowed from agate in general. Shop pages for agate also list circulation, skin, digestion and protection during pregnancy. No mineral or medical reference we know of supports those claims, and a stone is never a substitute for prenatal or medical care.
 
 ## How to Use Iris Agate in Everyday Life
 
@@ -128,9 +131,9 @@ Some links are marginal or contradictory. Zodiac signs vary from Taurus to Gemin
 
 **Safety.** Small polished stones and slices are not toys. Keep them away from small children and pets.
 
-**What Research Says.** [TO CHECK a peer-reviewed study with DOI on implementation intentions or cue-based habits, and say plainly that it did not use stones.] Until then, treat these as personal practices.
+**What Research Says.** The desk lamp works as a fixed daily cue, and habit research has looked at cues like that. In a study of 96 volunteers who repeated one eating, drinking or activity behavior in the same setting every day for 12 weeks (82 gave enough data to analyze), the behavior grew more automatic along a leveling curve, and the time to reach 95 percent of a person's plateau ranged from 18 to 254 days. Missing one day did not set people back much ([Lally and colleagues, 2010](https://doi.org/10.1002/ejsp.674)). Automaticity was self-reported, the sample was small and the behaviors simple, and no stones were involved, so the lamp and the task do the work.
 
-> **When a Stone Is Not Enough.** Some guides tie iris agate and agate to stress, anxiety and pregnancy. A stone can be a pleasant thing to hold, but it is not care. If stress or anxiety lasts or feels heavy, talk to a doctor or a therapist, and during pregnancy follow your doctor or midwife, never a stone.
+> **When a Stone Is Not Enough.** Some guides tie iris agate and agate to stress, anxiety and pregnancy. A stone can be a pleasant thing to hold, but it is not care. If stress or anxiety lasts or feels heavy, talk to a doctor or a therapist, and during pregnancy follow your doctor or midwife, never a stone. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Iris Agate Real?
 
@@ -143,7 +146,7 @@ We use the same five labels on every stone.
 - **Natural, untreated.** A slice that shows its rainbow only with light through it.
 - **Natural, treated.** Agate is very often dyed. Most spectacularly colored agates in the gem trade have been dyed (Geology.com), dyeing is usually stable, and ethical dealers disclose it (International Gem Society). Dye adds color you can see in ordinary light. The iris rainbow needs light through the slice.
 - **Lab-grown.** Not reported for iris agate.
-- **Imitation.** Brightly dyed banded agate is the usual mix-up. Iridescent quartz has been faked with thin metal films, sold as "aurora quartz," according to GIA, so do not confuse coated quartz with iris agate.
+- **Imitation.** We found no reference source describing imitations of iris agate. Two things come close. Dyed agate, which is common, adds color you can see in ordinary light (International Gem Society), and iridescent quartz has been faked with thin metal films, sold as "aurora quartz," according to GIA, so do not confuse coated quartz with iris agate.
 - **Trade names.** Rainbow agate and peacock agate, depending on the colors (Geology In). Kunz used "Rainbow Agate" in 1915.
 
 Three checks you can do at home, with their limits.
@@ -156,12 +159,12 @@ Three questions to ask the seller. Can you show me the rainbow with a light behi
 
 ## How to Care for Iris Agate
 
-Most of the care data for iris agate is still Unknown, so we stay gentle. Here is what our sources do cover.
+Most of the care data for iris agate is still Unknown, so we stay gentle. Here is what is known.
 
 - **Scratches.** OK. Agate is hard, about 7, and tough enough for most jewelry (International Gem Society, Geology.com).
 - **Chemicals.** Brief only. Geology In advises handling it with care to avoid harsh chemicals and extreme conditions, without details.
 - **Toxicity.** OK to handle. The International Gem Society [toxicity table](https://www.gemsociety.org/article/gemstone-care-guide/) rates agate low risk, and the silica hazard concerns dust from cutting and polishing.
-- **Water.** Unknown. None of our sources covers washing iris agate. A soft dry cloth is the gentle default. Chalcedony is relatively porous, which is why it takes dye so easily (International Gem Society), one more reason not to soak a slice until a source says it is safe.
+- **Water.** Unknown. We found no reference source on washing iris agate. A soft dry cloth is the gentle default. Chalcedony is relatively porous, which is why it takes dye so easily (International Gem Society), one more reason not to soak a slice until a source says it is safe.
 - **Sun.** Unknown.
 - **Heat.** Unknown.
 - **Salt.** Unknown.
@@ -180,9 +183,11 @@ Not by our data, at least not yet. Some guides suggest washing iris agate in sal
 
 ## Price Guide
 
-Agate in general is inexpensive. Geology.com calls it the most popular rough for tumbled stones and generally inexpensive. Iris agate is less common than other agates, and collectors seek high-quality pieces with intense iridescence, Geology In notes, so expect the strength of the rainbow to matter most.
+Agate in general is modestly priced. The International Gem Society says the value of agates is generally quite modest, that labor and artistry play a bigger role in pricing than the raw material, that larger agates with distinctive, fine or landscape-like patterns command premium prices, and that custom-cut pieces or stones from prized locations are substantially more expensive ([International Gem Society](https://www.gemsociety.org/article/agate-gem-information/)).
 
-Ask to see the rainbow before you pay a premium, and ask whether the slice is dyed. [TO CHECK typical US retail ranges for slices, cabochons and pendants, with a dated source.]
+For iris agate, the pattern that matters is the rainbow, and it only shows with light through the slice. So ask to see the rainbow before you pay a premium, ask whether the slice is dyed, since dyeing is common for agate and should be disclosed (International Gem Society), and treat a locality on the tag as the seller's claim.
+
+We give no price figures here, since we found no current iris agate listing at the US crystal shops and gem dealers we checked in November 2026.
 
 **Next Step.** Curious how iris agate fits into the wider family of banded stones? Start with our [agate page](/stones/agate/).
 
@@ -193,8 +198,11 @@ Ask to see the rainbow before you pay a premium, and ask whether the slice is dy
 - Gemological Institute of America, [Causes of Iridescence in Natural Quartz](https://gia.edu/gems-gemology/spring-2017-iridescence-natural-quartz), *Gems & Gemology*, Spring 2017, Vol. 53, No. 1
 - Geology In, [Iris Agate, a Rainbow in Stone](https://geologyin.com/2023/12/iris-agate-rainbow-in-stone.html), December 2023, a geology blog
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 54 and 296 to 297, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), page 377, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- Modern associations from [Raza Gems](https://razagems.com/blogs/loose-stones/healing-properties-of-iris-agate), [Cape Cod Crystals](https://capecodcrystals.com/pages/rainbow-iris-agate), [Wicca SG](https://wiccasg.com/blogs/crystals-sanctum/iris-agate-properties-and-chakras), and agate guides from [Ocarat](https://ocarat.com/guide/agate.html), [Perles & Co](https://www.perlesandco.co.uk/ressources/ft31222-l-agate-signification-origines-et-proprietes.html), [Lebensquelle Plus](https://lebensquelle-plus.de/en/collections/a-z-achat) and [crystals.com](https://www.crystals.com/blogs/news/agate-crystal-meaning-uses-and-benefits), read November 18, 2026
+- Phillippa Lally and colleagues, "How Are Habits Formed, Modelling Habit Formation in the Real World," *European Journal of Social Psychology*, 2010, [DOI 10.1002/ejsp.674](https://doi.org/10.1002/ejsp.674)
+- IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
+- 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

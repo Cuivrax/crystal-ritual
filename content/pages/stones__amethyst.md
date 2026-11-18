@@ -15,6 +15,7 @@ publishTime: "07:00"
 status: "verified"
 page_type: "stone"
 sources:
+  - "https://988lifeline.org/"
   - "https://www.gia.edu/amethyst/gem-overview"
   - "https://www.gia.edu/amethyst-care-cleaning"
   - "https://www.gia.edu/citrine/gem-overview"
@@ -138,7 +139,7 @@ Some associations are marginal, like fairies that dislike its iron. A few sites 
 
 **What Research Says.** In a remote randomized study of 108 adults, five minutes a day of breathing exercises for a month, especially cyclic sighing with its long exhales, improved mood and lowered breathing rate more than the same time spent in mindfulness meditation (Balban and colleagues, 2023, *Cell Reports Medicine*, [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)). It tested breathing, not amethyst or any other stone, and the volunteers knew which exercise they were doing. Treat the habits above as personal practices.
 
-> **When a Stone Is Not Enough.** Amethyst is often chosen for sleep, stress and cutting back on drinking. A stone can be a comfort, but it is not care. If poor sleep, anxiety or worries about drinking last or feel heavy, talk to a doctor, a therapist or a counselor.
+> **When a Stone Is Not Enough.** Amethyst is often chosen for sleep, stress and cutting back on drinking. A stone can be a comfort, but it is not care. If poor sleep, anxiety or worries about drinking last or feel heavy, talk to a doctor, a therapist or a counselor. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Amethyst Real?
 

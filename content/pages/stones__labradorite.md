@@ -37,13 +37,14 @@ sources:
   - "https://www.crystals.com/blogs/news/labradorite-meaning-properties"
   - "https://lebensquelle-plus.de/blogs/magazin/labradorit-wirkung"
   - "https://www.aglaiaco.com/blogs/guides-et-conseils/labradorite-vertus-proprietes-et-signification-de-la-pierre"
+  - "https://988lifeline.org/"
 ---
 
 # Labradorite Meaning, Properties & Real-Life Uses
 
 Labradorite is a plagioclase feldspar known for labradorescence, a flash of blue, green and gold that shows only at certain angles. Modern crystal guides tie its meaning to protection, intuition and change, ideas drawn from that hidden flash. The honest note is that its recorded history starts in 1770, so all of its lore is young.
 
-<!-- PHOTO TO FIND. HERO, a labradorite slab or palm stone showing a strong blue to gold flash. No checked candidate yet. All Smithsonian rows for labradorite in images_candidates.csv are visual_check doubt or wrong (faceted yellow gems with no flash, a micrograph). Unchecked Wikimedia Commons candidates to review first, "File Labradorite (GeoDIL number - 2380).jpg" by Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Labradorite_(GeoDIL_number_-_2380).jpg , and "File Labradorite Labrador MNHN Minéralogie.jpg" by Marie-Lan Taÿ Pamart, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Labradorite_Labrador_MNHN_Min%C3%A9ralogie.jpg . Log visual_check before use. -->
+<!-- PHOTO HERO. File site/photos/stones__labradorite/hero.jpg. Source Unsplash, https://unsplash.com/photos/kHrrHMMG-ME . License Unsplash License. Credit "Photo by carole smile on Unsplash". Visual check 2026-11-18, Polished labradorite oval with strong blue flash on pale grey; alt is rough/polished with yellow-green fire. -->
 
 ## Labradorite Properties & Quick Facts
 
@@ -101,7 +102,7 @@ Labradorite also sparkles on buildings. Anorthosite rich in labradorite is cut i
 **The Story.** Labradorite has no ancient or medieval lore. It does not appear in either of Kunz's books on gem lore (1913 and 1915), which makes sense for a stone first found by a missionary in 1770. What it has is a modern story, a scientific puzzle and a trade name or two.
 
 - **1770, Labrador.** A Moravian missionary finds the stone on the Isle of Paul near Nain, and it takes its name from the region (Geology.com).
-- **1920s.** Scientists take up the flash. The 2025 *Gems & Gemology* review credits the physicist Robert Strutt, fourth Baron Rayleigh, with a 1923 study of iridescent feldspar, and it cites Bøggild's 1924 work on how the layers lie, layers now known as the Bøggild intergrowth.
+- **1920s.** Scientists take up the flash. The 2025 *Gems & Gemology* review cites a 1923 paper by the physicist Robert Strutt, fourth Baron Rayleigh, in its discussion of iridescent feldspar, and it cites Bøggild's 1924 work on how the layers lie, layers now known as the Bøggild intergrowth.
 - **Finland.** The best labradorite from a few Finnish deposits was given the name spectrolite by the director of the Geological Survey of Finland (Geology.com).
 - **1960s, India.** Rainbow moonstone, a milky labradorite with a blue or multicolored sheen that JCK traces to southern India, was mislabeled "water opal" when first reported ([JCK](https://www.jckonline.com/magazine-article/labradorites-blue-rainbow-moonstone/)).
 - **Today.** **Modern Association.** Protection, intuition and transformation lead, with nicknames like "Stone of Magic" and "frozen northern lights." These associations come from modern crystal books and seller guides.
@@ -150,7 +151,7 @@ Some guides go further and list blood pressure, rheumatism, gout, period pain, b
 
 **What Research Says.** In a small pre-registered experiment, 48 mostly undergraduate volunteers repeated a made-up ritual at home for a week, and an EEG then showed a smaller brain response to their own mistakes on a task, with no change in how well they did it (Hobson, Bonk and Inzlicht, 2017, *PeerJ*, [doi.org/10.7717/peerj.3363](https://doi.org/10.7717/peerj.3363)). Their self-reported feelings did not change and no stone was involved, so tying it to the tilt before a hard task is our extrapolation. Treat these as personal practices.
 
-> **When a Stone Is Not Enough.** Labradorite is often chosen for anxiety, stress and feeling drained by other people. A stone can be a comfort to hold, but it is not care. If anxiety, low mood or exhaustion lasts or feels heavy, talk to a doctor or a therapist, and never use a stone in place of treatment.
+> **When a Stone Is Not Enough.** Labradorite is often chosen for anxiety, stress and feeling drained by other people. A stone can be a comfort to hold, but it is not care. If anxiety, low mood or exhaustion lasts or feels heavy, talk to a doctor or a therapist, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
 
 ## Is My Labradorite Real?
 
@@ -208,7 +209,8 @@ Labradorite is rarely seen in mass-merchant jewelry and is mostly used by design
 - IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913) and *The Magic of Jewels and Charms* (1915), searched for labradorite with no result
 - Nicholas M. Hobson, Devin Bonk and Michael Inzlicht, *PeerJ* (2017), [doi.org/10.7717/peerj.3363](https://doi.org/10.7717/peerj.3363)
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- [988 Suicide & Crisis Lifeline](https://988lifeline.org/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

@@ -9,7 +9,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-18"
 publishTime: "10:36"
-status: "draft"
+status: "verified"
 page_type: "compare"
 sources:
   - "https://www.gia.edu/opal/gem-overview"
@@ -39,7 +39,7 @@ Opal and opalite are different materials. Opal is a natural gem, silica with wat
 
 <!-- PHOTO PAIR, side by side under the opening. LEFT, opal. Wikimedia Commons, "File Precious opal (Berbere Hill, Ethiopia) 41.jpg", by James St. John. Page https://commons.wikimedia.org/wiki/File:Precious_opal_(Berbere_Hill,_Ethiopia)_41.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Precious_opal_%28Berbere_Hill%2C_Ethiopia%29_41.jpg/1280px-Precious_opal_%28Berbere_Hill%2C_Ethiopia%29_41.jpg (tracking parameters removed). License CC BY 2.0. Credit line "Photo James St. John, CC BY 2.0, via Wikimedia Commons". Hero pick for ethiopian-opal in image_picks_new_stones.json (visual pass 1). Alt text "Polished orange opal with bright green and red play-of-color, from Ethiopia". RIGHT, opalite. PHOTO TO FIND. No photo of man-made opalite glass in our image files. "File Opalite with purple opal (Jalisco State, Mexico) 1.jpg" is natural opalite (common opal), never use it for the glass. Best option is an owner photo, the same tumbled opalite shot twice, once on black cloth under a lamp (blue look) and once held up to a window (orange look), dated, for a Stone Lab note. -->
 
-<!-- COMPARATOR. The plan asks for the Compare Two Stones tool embedded here, preset to opal and opalite. The tool (/tools/compare-stones/ in the content plan, wave 3) is not built yet. [TO CHECK embed once it exists] -->
+<!-- BUILD compare tool, /home/claude/hc/tools/compare-stones/ -->
 
 ## Opal vs Opalite at a Glance
 
@@ -52,9 +52,9 @@ Opal and opalite are different materials. Opal is a natural gem, silica with wat
 | Refractive index | 1.37 to 1.47 | 1.470 to 1.700 for glass in general |
 | The look | Precious opal flashes play-of-color. Common opal has none | Milky glass that can look blue on its surface and orange with light behind it |
 | Telltale signs under a loupe | Lab-grown opal can show a scaly, chicken-wire pattern | Round bubbles and swirl marks |
-| Water | Our care data rates it Avoid | Mild soap and warm water suit most plain glass |
+| Water | Our care data rates it Avoid | Mild soap and warm water suit most non-treated, non-backed glass |
 | Birthstone | October | None |
-| Value | [TO CHECK US retail ranges] | Low, sold by the piece rather than by the carat |
+| Value | Play-of-color, its intensity and pattern set the value (GIA). Common opal can sell at reasonable prices, while the best opals rival expensive diamonds per carat (Geology.com) | Low, sold by the piece rather than by the carat |
 | Old lore | Prized in Rome, feared after 1829, back in fashion under Queen Victoria | None of its own, though glass opals are older than you might think |
 
 Table sources are GIA, the International Gem Society and Geology.com, linked in the sections below.
@@ -130,7 +130,7 @@ Neither one belongs in water you drink. Look up any opal before a cleansing ritu
 
 Glass opals have a long history too. Kunz notes that Pliny the Elder praised the Indian imitations of the opalus in glass and called it the stone imitated most successfully, and Pliny's chapter on opal's flaws gives a sunlight test for glass fakes (*Natural History*, Book 37, chapters [21](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D21) and [22](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D22), Bostock and Riley translation, via Perseus). Kunz took that as a reason to doubt that the opalus was opal at all, "for it is well known that no stone is more difficult to imitate" (1913, pages 145 to 146).
 
-**Modern Association.** Opal is the October birthstone on the modern American list ([American Gem Society](https://www.americangemsociety.org/birthstones/)), and creativity is the link modern crystal guides make most often. Opalite has no old lore of its own, and the name appears in neither of Kunz's books. Any meaning on an opalite tag is a modern association, written for glass.
+**Modern Association.** Opal is the October birthstone on the modern American list ([American Gem Society](https://www.americangemsociety.org/birthstones/)), and creativity is among the links modern crystal guides make. Opalite has no old lore of its own, and the name appears in neither of Kunz's books. Any meaning on an opalite tag is a modern association, written for glass.
 
 ## Which to Choose
 
@@ -148,10 +148,10 @@ Glass opals have a long history too. Kunz notes that Pliny the Elder praised the
 - Hobart M. King, Geology.com, [Opal](https://geology.com/gemstones/opal/), [Opalite](https://geology.com/gemstones/opal/opalite.shtml), [Imitation Opal](https://geology.com/gemstones/opal/imitation-opal.shtml) and [Tiffany Stone](https://geology.com/gemstones/tiffany-stone/)
 - Gem Rock Auctions (dealer guide), [Tiffany Stone](https://www.gemrockauctions.com/learn/a-z-of-gemstones/tiffany-stone-information)
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
-- Pliny the Elder, *Natural History*, Book 37, chapters [21](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D21) and [22](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D22), Bostock and Riley translation (1855), Perseus Digital Library
+- Pliny the Elder, *Natural History*, Book 37, chapters [21](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D21) and [22](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D22), Bostock and Riley translation (1855), Perseus Digital Library, Tufts University
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 143 to 148 and 152, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), page 375, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

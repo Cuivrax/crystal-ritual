@@ -41,6 +41,7 @@ sources:
   - "https://www.edelsteine.net/prehnit/"
   - "https://bindi-online.com/prehnita-propiedades-significado-espiritual-y-usos/"
   - "https://www.wemystic.com/es/piedra-prehnita/"
+  - "https://988lifeline.org/"
 ---
 
 # Prehnite Meaning, Properties & Real-Life Uses
@@ -143,7 +144,7 @@ As a mineral, prehnite is a moderately hard green stone that cuts into soft-look
 
 **What Research Says.** The decluttering and dream-note rituals are if-then plans, with the stone as the cue. A 2006 meta-analysis that pooled published lab and field studies found that people who made an if-then plan ("if situation X happens, then I will do Y") were more likely to act on a goal than people who only intended to (Gollwitzer and Sheeran, *Advances in Experimental Social Psychology*, [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)). Those studies covered everyday goals, not stones, sleep or dreams, and a plan helps most with something you already want to do. Treat the habits above as personal practices.
 
-> **When a Stone Is Not Enough.** Prehnite is often chosen for sleep, nightmares, stress and caregiver strain. A stone can be a comfort to hold, but it is not care. If poor sleep, nightmares, anxiety or exhaustion lasts or feels heavy, talk to a doctor or a therapist, and never use a stone in place of treatment.
+> **When a Stone Is Not Enough.** Prehnite is often chosen for sleep, nightmares, stress and caregiver strain. A stone can be a comfort to hold, but it is not care. If poor sleep, nightmares, anxiety or exhaustion lasts or feels heavy, talk to a doctor or a therapist, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
 
 ## Is My Prehnite Real?
 
@@ -214,7 +215,8 @@ Prehnite is mostly a collector's mineral and a cabochon stone (Galleries.com, IG
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913) and *The Magic of Jewels and Charms* (1915), searched for prehnite with no result
 - P. M. Gollwitzer and P. Sheeran, *Advances in Experimental Social Psychology* 38 (2006), [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)
 - Retail prices from US-dollar listings at online mineral shops, read November 2026
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- [988 Suicide & Crisis Lifeline](https://988lifeline.org/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

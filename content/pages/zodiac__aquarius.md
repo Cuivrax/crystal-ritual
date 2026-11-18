@@ -45,7 +45,7 @@ sources:
 
 Aquarius has no single official birthstone, because birthstones belong to months and Aquarius runs from about January 20 to February 18. That gives garnet for a January birthday and amethyst for a February one. As a zodiac stone, a 1913 list gives Aquarius the garnet and an old Spanish list the amethyst, while today's crystal guides favor angelite and aquamarine, all beliefs rather than mineral facts.
 
-<!-- PHOTO HERO. PHOTO TO FIND. No angelite photo is logged in our image files, and no aquamarine candidate has visual_check ok yet. Aquamarine candidates to check first in images_commons_candidates.csv include "File AquamarineYalePeabodyYampolLoan.jpg" (CC0) and "File Aquamarine (GeoDIL number - 904).jpg" (CC0). Log page, license and credit before use. Never use a stock photo labeled angelite without a visual check. -->
+<!-- PHOTO HERO. File site/photos/zodiac__aquarius/hero.jpg. Source Smithsonian NMNH, http://n2t.net/ark:/65665/379cb7608-6fc5-4ec5-964f-ba4d28ee4e13 . License CC0. Credit "Smithsonian National Museum of Natural History, CC0". Visual check 2026-11-18, Vivid amethyst cluster on black (Upper Providence, PA). -->
 
 ## Aquarius Stones at a Glance
 
@@ -102,7 +102,7 @@ Most aquamarine on sale is gently heated to remove a green tint, and the treatme
 
 Celestite, turquoise, fluorite, azurite and fuchsite each turn up in a few Aquarius lists. Most are soft or touchy. Celestite rates 3 to 3.5 and its blue may fade with heat or light ([International Gem Society](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/)), and fluorite is slightly soluble in water, so it should never be submerged ([International Gem Society](https://www.gemsociety.org/article/fluorite-jewelry-gemstone-information/)).
 
-Some associations sit at the edge and you can skip them, like amber, which appears in very few Aquarius lists in our collection.
+Some associations sit at the edge and you can skip them, like amber, which appears in very few modern Aquarius lists.
 
 ## Where the Aquarius Links Come from
 
@@ -166,9 +166,8 @@ Amethyst's Brief only rating for sun comes from [GIA](https://www.gia.edu/amethy
 - Gemological Institute of America, [Aquamarine](https://www.gia.edu/aquamarine/gem-overview), [Garnet](https://www.gia.edu/garnet/gem-overview), [Amethyst](https://www.gia.edu/amethyst/gem-overview) and [Amethyst Care and Cleaning](https://www.gia.edu/amethyst-care-cleaning)
 - International Gem Society, [Aquamarine](https://www.gemsociety.org/article/aquamarine-jewelry-and-gemstone-information/), [Tiger's Eye](https://www.gemsociety.org/article/tigers-eye-gem-information/), [Amethyst](https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/), [Celestite](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/), [Fluorite](https://www.gemsociety.org/article/fluorite-jewelry-gemstone-information/) and [Azurite](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/)
 - Hobart M. King, Geology.com, [Aquamarine](https://geology.com/gemstones/aquamarine/) and [Turquoise](https://geology.com/minerals/turquoise.shtml)
-- Dealer guides, Gemstones.com ([angelite](https://www.gemstones.com/gemopedia/angelite), [celestite](https://www.gemstones.com/gemopedia/celestite)) and GeologyBase ([tiger's eye](https://geologybase.com/tigers-eye/))
-- Modern Aquarius associations compared across the crystal guides in our lore collection, including lebensquelle-plus.de, tinyrituals.co, crystals.com, firemountaingems.com, moonrisecrystals.com, crystalgemstones.net and crystalvaults.com, read November 13, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

@@ -2,25 +2,26 @@
 import { absoluteUrl } from '../lib/urls.mjs';
 import { jsonLd } from '../lib/seo.mjs';
 import { SITE_NAME } from '../lib/nav.mjs';
-const { page = null, title, description, url, image = null, breadcrumbs = [], citations = [], noindex = false, authorUrl = null } = Astro.props;
-const canonical = absoluteUrl(url);
+const { page = null, title, description, url, image = null, breadcrumbs = [], citations = [], noindex = false, authorUrl = null, errorPage = false } = Astro.props;
+// The 404 page answers at any address, so it gets no canonical, no og:url and no structured data.
+const canonical = errorPage ? null : absoluteUrl(url);
 const isArticle = page && !['home', 'hub', 'directory', 'trust', 'tool', 'color', 'chakra'].includes(page.type);
-const ld = jsonLd({ page, title, description, url, image, breadcrumbs, citations, authorUrl });
+const ld = errorPage ? null : jsonLd({ page, title, description, url, image, breadcrumbs, citations, authorUrl });
 ---
 <title>{title}</title>
 <meta name="description" content={description}>
-<link rel="canonical" href={canonical}>
+{canonical && <link rel="canonical" href={canonical}>}
 {noindex && <meta name="robots" content="noindex, nofollow">}
 <meta property="og:type" content={isArticle ? 'article' : 'website'}>
 <meta property="og:site_name" content={SITE_NAME}>
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content={title}>
 <meta property="og:description" content={description}>
-<meta property="og:url" content={canonical}>
+{canonical && <meta property="og:url" content={canonical}>}
 {image && <meta property="og:image" content={image}>}
 {isArticle && page && <meta property="article:author" content="Iris Holloway">}
 <meta name="twitter:card" content={image ? 'summary_large_image' : 'summary'}>
 <meta name="twitter:title" content={title}>
 <meta name="twitter:description" content={description}>
 {image && <meta name="twitter:image" content={image}>}
-<script type="application/ld+json" set:html={ld} />
+{ld && <script type="application/ld+json" set:html={ld} />}

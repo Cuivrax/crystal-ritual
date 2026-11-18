@@ -5,9 +5,9 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { getSite } from '../lib/site.mjs';
 import { ornament } from '../lib/ui.mjs';
-const { page = null, title, description, url, image = null, breadcrumbs = [], citations = [], night = false, bodyClass = '', showOrnament = false, noindexPage = false } = Astro.props;
+const { page = null, title, description, url, image = null, breadcrumbs = [], citations = [], night = false, bodyClass = '', showOrnament = false, noindexPage = false, errorPage = false } = Astro.props;
 const site = await getSite();
-const noindex = site.preview || noindexPage;
+const noindex = site.preview || noindexPage || errorPage;
 const authorUrl = site.isBuilt('/about/') ? '/about/' : null;
 ---
 <!doctype html>
@@ -19,7 +19,7 @@ const authorUrl = site.isBuilt('/about/') ? '/about/' : null;
 <meta name="theme-color" content={night ? '#141A2E' : '#FBFAF8'}>
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/rss+xml" title="Crystal & Ritual" href="/rss.xml">
-<Seo page={page} title={title} description={description} url={url} image={image} breadcrumbs={breadcrumbs} citations={citations} noindex={noindex} authorUrl={authorUrl} />
+<Seo page={page} title={title} description={description} url={url} image={image} breadcrumbs={breadcrumbs} citations={citations} noindex={noindex} authorUrl={authorUrl} errorPage={errorPage} />
 </head>
 <body class={[night ? 'theme-night' : '', bodyClass].filter(Boolean).join(' ')}>
 <a class="skip" href="#main">Skip to the content</a>

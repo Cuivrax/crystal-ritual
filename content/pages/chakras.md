@@ -15,6 +15,7 @@ page_type: "hub"
 sources:
   - "https://www.theosophical.org/publications/quest-magazine/the-rainbow-body-how-the-western-chakra-system-came-to-be"
   - "https://pubmed.ncbi.nlm.nih.gov/40855750/"
+  - "https://988lifeline.org/"
   - "https://www.gemsociety.org/article/malachite-jewelry-and-gemstone-information/"
   - "https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/"
   - "https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/"
@@ -29,9 +30,9 @@ sources:
 
 # Chakra Stones Chart & Where the Rainbow System Comes from
 
-Chakra stones are crystals that modern guides match to the seven chakras of today's Western chart, mostly by color, from red jasper at the root to amethyst at the crown. The rainbow chart itself is recent. Kurt Leland, who wrote a history of the Western chakra system, finds that the rainbow colors and the list of chakra qualities first came together in print in 1977, in Ken Dychtwald's *Bodymind*, and he notes that the Indian chakras had colors but no rainbow.
+Chakra stones are crystals that modern guides match to the seven chakras of today's Western chart, mostly by color, from red jasper at the root to amethyst at the crown. The rainbow chart itself is recent. Kurt Leland, who wrote a history of the Western chakra system, finds that the rainbow colors and the list of chakra qualities did not come together in print until 1977, in Ken Dychtwald's *Bodymind* and a related magazine article, and he notes that the Indian chakras had colors but no rainbow.
 
-<!-- PHOTO HERO. PHOTO TO FIND. Owner photo wanted, seven real tumbled stones in a row from red to violet on a plain background, each one identified (for example red jasper, carnelian, citrine, green aventurine, aquamarine, amethyst, howlite). No licensed group photo exists in our image files, and a generated image must not stand in for real stones (doc 08 section 2). -->
+<!-- PHOTO HERO. File site/photos/chakras/hero.jpg. Source Unsplash, https://unsplash.com/photos/lVd5b63876g . License Unsplash License. Credit "Photo by Edz Norton on Unsplash". Visual check 2026-11-18, Rainbow spiral of tumbled stones on a mottled backdrop. -->
 
 ## Chakra Stones Chart
 
@@ -68,7 +69,7 @@ Leland lists gemstones and minerals among the Western system's many corresponden
 
 Charts disagree because the matching is done by color, and stones do not come in seven neat colors. The heart is green on the chart, yet pink [rose quartz](/stones/rose-quartz/) is one of its Classic stones. The third eye is indigo, but almost no stone is, so guides use blue and purple ones. [Amethyst](/stones/amethyst/) sits on the crown in most guides and on the third eye in many others.
 
-Some guides add chakras the chart lacks, such as an earth star or a soul star. Those are rare in our lore collection.
+Some guides add chakras the chart lacks, such as an earth star or a soul star. Few modern charts include them.
 
 The biggest clash is with the care data, and the care data wins. Malachite is a Classic heart stone, but it is a copper mineral whose dust is toxic to breathe when it is cut or ground ([International Gem Society](https://www.gemsociety.org/article/malachite-jewelry-and-gemstone-information/)), so it never goes in water you drink. Selenite, Often Linked to the crown, is a form of gypsum, which is water soluble ([International Gem Society](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/)). Celestite and angelite, two Classic throat stones, are both soft, and dealers advise keeping angelite away from water ([Gemstones.com](https://www.gemstones.com/gemopedia/angelite)). Check any set in the [Care Checker](/tools/crystal-care-checker/) before a cleansing bath.
 
@@ -82,16 +83,16 @@ The biggest clash is with the care data, and the care data wins. Malachite is a 
 
 **Safety.** Small tumbled stones are a choking hazard, so keep the set away from small children and pets.
 
-> **When a Stone Is Not Enough.** Charts in the Dychtwald tradition list a gland for each chakra, a pairing Leland traces to a 1928 book, not to medicine. A chart is not a diagnosis and a stone is not a treatment. If something in your body or your mood worries you, talk to a doctor or a therapist, and never use a stone in place of care.
+> **When a Stone Is Not Enough.** Charts in the Dychtwald tradition list a gland for each chakra, a pairing Leland traces to a 1928 book, not to medicine. A chart is not a diagnosis and a stone is not a treatment. If something in your body or your mood worries you, talk to a doctor or a therapist, and never use a stone in place of care. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
 
 ## Sources
 
 - Kurt Leland, "The Rainbow Body, How the Western Chakra System Came to Be," *Quest* 105, no. 2 (Spring 2017), pages 25 to 29, [Theosophical Society in America](https://www.theosophical.org/publications/quest-magazine/the-rainbow-body-how-the-western-chakra-system-came-to-be)
 - "Placebo effects in alternative medical treatments for anxiety, false hope or healing potential?" *CNS Spectrums* 30 (2025), e70, [PubMed 40855750](https://pubmed.ncbi.nlm.nih.gov/40855750/), DOI 10.1017/S1092852925100515
 - International Gem Society, [Malachite](https://www.gemsociety.org/article/malachite-jewelry-and-gemstone-information/), [Gypsum](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/) and [Celestite](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/)
-- Gemstones.com, [Angelite](https://www.gemstones.com/gemopedia/angelite), a dealer guide
-- Chakra locations, colors and stones compared across the crystal guides in our lore collection, including crystalgemstones.net, crystals.com, crystalvaults.com and lebensquelle-plus.de, read November 13, 2026
+- Chakra locations, colors and modern stone associations as described in popular crystal books and guides, with the stones rated on our five-facet scale, see [How We Rate](/sources/)
+- [988 Suicide & Crisis Lifeline](https://988lifeline.org/), the official site
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

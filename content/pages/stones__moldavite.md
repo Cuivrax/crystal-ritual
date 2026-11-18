@@ -14,6 +14,7 @@ publishTime: "07:00"
 status: "verified"
 page_type: "stone"
 sources:
+  - "https://988lifeline.org/"
   - "https://www.gemsociety.org/article/moldavite-jewelry-and-gemstone-information/"
   - "https://geology.com/gemstones/moldavite/"
   - "https://www.gia.edu/gems-gemology/spring-2015-gemnews-moldavites-natural-fake"
@@ -136,7 +137,7 @@ Several guides describe a "moldavite flush," a rush of heat or tingling on first
 
 **What Research Says.** No study we know of tested moldavite, so treat these as personal practices.
 
-> **When a Stone Is Not Enough.** Some guides warn of dizziness or a rush of heat when you first hold moldavite. No mineral reference we know of explains such a reaction, so treat it as a signal from your body. If you feel unwell, anxious or low and it lasts, talk to a doctor or a therapist.
+> **When a Stone Is Not Enough.** Some guides warn of dizziness or a rush of heat when you first hold moldavite. No mineral reference we know of explains such a reaction, so treat it as a signal from your body. If you feel unwell, anxious or low and it lasts, talk to a doctor or a therapist. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Moldavite Real? How to Spot Fake Moldavite
 

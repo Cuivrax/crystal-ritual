@@ -18,6 +18,7 @@ publishTime: "10:04"
 status: "draft"
 page_type: "month"
 sources:
+  - "https://988lifeline.org/"
   - "https://www.americangemsociety.org/birthstones/"
   - "https://www.gia.edu/birthstones/march-birthstones"
   - "https://my.gia.edu/gia-museum-exhibit-birthstones"
@@ -152,7 +153,7 @@ Some sites say aquamarine regulates hormones or the thyroid and bloodstone purif
 
 **Safety.** Small stones and bead bracelets are not toys. Keep them away from small children and pets who might swallow them.
 
-> **When a Stone Is Not Enough.** Aquamarine is often chosen for anxiety, and some sites promise help with hormones or blood. A stone can be a comfort to hold, but it is not care. If anxiety or a health worry lasts, talk to a doctor or a therapist, and treat any bleeding that will not stop as a medical matter.
+> **When a Stone Is Not Enough.** Aquamarine is often chosen for anxiety, and some sites promise help with hormones or blood. A stone can be a comfort to hold, but it is not care. If anxiety or a health worry lasts, talk to a doctor or a therapist, and treat any bleeding that will not stop as a medical matter. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My March Birthstone Real?
 

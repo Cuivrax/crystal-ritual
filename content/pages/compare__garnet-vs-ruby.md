@@ -10,7 +10,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-08"
 publishTime: "07:28"
-status: "draft"
+status: "verified"
 page_type: "compare"
 sources:
   - "https://www.gia.edu/garnet/gem-overview"
@@ -18,6 +18,13 @@ sources:
   - "https://geology.com/minerals/garnet.shtml"
   - "https://www.gia.edu/ruby/gem-overview"
   - "https://www.gemsociety.org/article/ruby-jewelry-and-gemstone-information/"
+  - "https://www.gemsociety.org/article/pyrope-garnet/"
+  - "https://www.gemsociety.org/article/almandine-garnet/"
+  - "https://www.gemsociety.org/article/natural-rubies-fluoresce/"
+  - "https://www.gemsociety.org/article/ultraviolet-testing/"
+  - "https://www.gemsociety.org/article/gemstone-birefringence/"
+  - "https://www.gemsociety.org/article/how-gems-are-identified/"
+  - "https://www.gia.edu/doc/GIA-Polariscope-User-Guide-English.pdf"
   - "https://www.americangemsociety.org/birthstones/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.crystals.com/pages/crystals/ruby"
@@ -34,9 +41,9 @@ sources:
 
 Garnet and ruby can both be deep red, but they are different minerals. Ruby is red corundum, colored by chromium and rated 9 on the Mohs scale. Red garnet belongs to a group of silicate minerals rated 6.5 to 7.5. Ruby is far rarer and pricier, and only a gemologist's test settles a doubtful red stone.
 
-<!-- PHOTO PAIR, side by side under the opening. LEFT, ruby. Smithsonian NMNH, "Corundum", Tajikistan. Record http://n2t.net/ark:/65665/380634e25-8fb7-4ece-aafa-4a13c463f139 . Image https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3d98c930b07e841c4ba8c8ae4771eaf2a . License CC0 (Smithsonian Open Access), https://www.si.edu/openaccess . Credit line "Smithsonian National Museum of Natural History, CC0". visual_check ok, visual_use hero. Alt text "Faceted oval ruby, deep red, on a gray background". RIGHT, garnet. PHOTO TO FIND, no garnet photo in images_candidates.csv and every garnet row in images_commons_candidates.csv still has visual_check empty. Best lead "File Almandine garnet 1.jpg" by James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Almandine_garnet_1.jpg , check that it shows a red almandine before use, credit "Photo James St. John, CC BY 2.0, via Wikimedia Commons". ALTERNATE PAIR if a faceted red garnet cannot be found, two star stones. Rosser Reeves Star Ruby, Smithsonian NMNH, Sri Lanka, record http://n2t.net/ark:/65665/332835881-7666-42c1-8cc0-27e471ef4ed5 , image https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3a55e205ec92d42f79cdcff3feb823144 , CC0, visual_check ok. With "File Star of idaho.JPG", https://commons.wikimedia.org/wiki/File:Star_of_idaho.JPG , public domain, credit "Photo Patellison42, Public domain, via Wikimedia Commons", verdict hero in image_picks_new_stones.json (star garnet), alt text "Dark red star garnet sphere showing a six-ray star". -->
+<!-- PHOTO HERO. File site/photos/compare__garnet-vs-ruby/hero.jpg. Source Unsplash, https://unsplash.com/photos/Ayhynh0kXwM . License Unsplash License. Credit "Photo by sameer Ali on Unsplash". Visual check 2026-11-18, Three faceted red garnets on white with a leaf; stone identity plausible from colour/cut, not stated. -->
 
-<!-- COMPARATOR. The plan asks for the Compare Two Stones tool embedded here, preset to garnet and ruby. The tool (/tools/compare-stones/ in the content plan, wave 3) is not built yet. [TO CHECK embed once it exists] -->
+<!-- BUILD Compare Two Stones embed here, preset to garnet and ruby. The tool is being built in /home/claude/hc/tools/compare-stones/ (index.html with compare.json inlined, built by build_compare_data.py). It reads ?a=garnet&b=ruby for the preset and ?embed=1 for the embedded view, and both slugs are in compare.json. Its page is /tools/compare-stones/ in the content plan, wave 3. Render nothing in this slot until the tool is integrated. -->
 
 ## Garnet vs Ruby at a Glance
 
@@ -49,7 +56,7 @@ Garnet and ruby can both be deep red, but they are different minerals. Ruby is r
 | Specific gravity | 3.47 to 4.15 | 4.00 |
 | Refractive index | 1.714 to 1.888 | 1.762 to 1.770 |
 | Double refraction | None in pyrope and almandine | 0.008 to 0.010 |
-| Under UV light | [TO CHECK garnet under UV light] | Glows red, strongly in Myanmar stones, little or not at all in iron-rich Thai stones |
+| Under UV light | No luminescence listed for pyrope or almandine | Glows red, strongly in Myanmar stones, little or not at all in iron-rich Thai stones |
 | Treatments | Rarely treated. Proteus garnets, with a metallic surface layer, are the main exception | Heating is the norm |
 | Lab-made versions | Synthetic garnets called YAG and GGG, once diamond simulants | Made since the late 1800s |
 | Birthstone | January | July |
@@ -87,12 +94,12 @@ The confusion is old. Blood-red cabochons were once all called carbuncles, a nam
 
 **Mineral Fact.** Ruby is doubly refractive and red garnet is not. GIA gives ruby a birefringence of 0.008 to 0.010 and lists none for garnet ([GIA ruby](https://www.gia.edu/ruby/gem-overview), [GIA garnet](https://www.gia.edu/garnet/gem-overview)), and the International Gem Society describes pyrope and almandine as generally isotropic, meaning singly refractive.
 
-The refractive index alone will not settle it, since garnet's wide range, 1.714 to 1.888, takes in ruby's 1.762 to 1.770 (GIA). The doubled reading is what gives ruby away. A gemologist reads it with standard instruments, without harming the stone [TO CHECK a source naming the instruments, refractometer or polariscope]. One caution. Calcium garnets such as grossular and andradite can show some double refraction (IGS), another reason to leave the final call to a professional.
+The refractive index alone will not settle it, since garnet's wide range, 1.714 to 1.888, takes in ruby's 1.762 to 1.770 (GIA). The doubled reading is what gives ruby away. A gemologist checks for it with a polariscope, which GIA's user guide says determines whether a stone is singly or doubly refractive ([GIA](https://www.gia.edu/doc/GIA-Polariscope-User-Guide-English.pdf)), alongside a refractometer, the device that measures refractive index ([IGS](https://www.gemsociety.org/article/gemstone-birefringence/)). Even the polariscope needs care here, since GIA's guide warns never to call a transparent red stone doubly refractive until it has been checked for pleochroism. One more caution. Calcium garnets such as grossular and andradite can show some double refraction (IGS), and some almandines show an anomalous kind ([IGS](https://www.gemsociety.org/article/how-gems-are-identified/)), another reason to leave the final call to a professional.
 
 ### Home Clues and Their Limits
 
 1. **Tone.** A very dark red leans toward garnet, chrome pyrope especially (IGS). Tone alone proves nothing.
-2. **A UV flashlight.** Rubies fluoresce red under long and shortwave ultraviolet light, and Myanmar stones can glow strongly, but Thai stones generally lack the glow (IGS). A red glow fits ruby. No glow proves nothing. [TO CHECK how red garnet and lab-made ruby react under UV.] Never shine a UV light into anyone's eyes.
+2. **A UV flashlight.** Rubies fluoresce red under long and shortwave ultraviolet light, and Myanmar stones can glow strongly, but Thai stones generally lack the glow (IGS). The International Gem Society lists no luminescence for pyrope or almandine garnet ([pyrope](https://www.gemsociety.org/article/pyrope-garnet/), [almandine](https://www.gemsociety.org/article/almandine-garnet/)). So a red glow fits ruby, and no glow proves nothing, since an iron-rich ruby can stay dark too. A glow will not tell a natural ruby from a lab-made one either. Flame fusion rubies fluoresce more strongly than natural ones, and the IGS treats the difference only as a clue ([IGS](https://www.gemsociety.org/article/natural-rubies-fluoresce/)). Only a gem lab settles it. Never look into a UV light or shine one into anyone's eyes, since shortwave UV can damage the eyes ([IGS](https://www.gemsociety.org/article/ultraviolet-testing/)).
 3. **No scratch test.** The hardness gap, 9 against 6.5 to 7.5, is real, but scratching a gem damages it and settles less than a lab can.
 4. **A lab report for anything costly.** Modern lab-made rubies can have natural-looking color and inclusions that challenge even trained professionals (IGS).
 
@@ -124,13 +131,13 @@ Garnet's stories are earthier. The word carbuncle, used for certain fine garnets
 
 ## Sources
 
-- Gemological Institute of America, [Garnet](https://www.gia.edu/garnet/gem-overview) and [Ruby](https://www.gia.edu/ruby/gem-overview)
-- International Gem Society, [Garnet](https://www.gemsociety.org/article/garnet-jewelry-and-gemstone-information/) and [Ruby](https://www.gemsociety.org/article/ruby-jewelry-and-gemstone-information/)
+- Gemological Institute of America, [Garnet](https://www.gia.edu/garnet/gem-overview), [Ruby](https://www.gia.edu/ruby/gem-overview) and the [GIA Polariscope User Guide](https://www.gia.edu/doc/GIA-Polariscope-User-Guide-English.pdf) (2019)
+- International Gem Society, [Garnet](https://www.gemsociety.org/article/garnet-jewelry-and-gemstone-information/), [Pyrope Garnet](https://www.gemsociety.org/article/pyrope-garnet/), [Almandine Garnet](https://www.gemsociety.org/article/almandine-garnet/), [Ruby](https://www.gemsociety.org/article/ruby-jewelry-and-gemstone-information/), [Do Natural Rubies Fluoresce?](https://www.gemsociety.org/article/natural-rubies-fluoresce/), [Ultraviolet Testing and Gemstone Identification](https://www.gemsociety.org/article/ultraviolet-testing/), [What Is Gemstone Birefringence?](https://www.gemsociety.org/article/gemstone-birefringence/) and [Gem Identification, an Introduction](https://www.gemsociety.org/article/how-gems-are-identified/)
 - Hobart M. King, Geology.com, [Garnet](https://geology.com/minerals/garnet.shtml)
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 33 to 34, 101 to 103, 134, 165 and 292 to 293, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
-- Modern associations from crystal guides, including crystals.com, crystalvaults.com, lithotherapie.net and edelsteine.net
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

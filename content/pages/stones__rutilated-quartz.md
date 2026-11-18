@@ -30,8 +30,15 @@ sources:
   - "https://naturalgemstones.com/education/inclusions-in-rutilated-quartz/"
   - "https://naturalgemstones.com/education/types-of-inclusions-in-quartz/"
   - "https://www.gemguide.com/gem-focus-may-2022-quartz-gems-with-curious-inclusions/"
-  - "https://en.wikipedia.org/wiki/Rutilated_quartz"
-  - "https://en.wikipedia.org/wiki/Smoky_quartz"
+  - "https://gia.edu/gems-gemology/spring-2014-gemnews-tucson-rutilated-quartz"
+  - "https://www.gia.edu/gems-gemology/fall-2020-gemnews-new-rutilated-quartz-composite-product"
+  - "https://www.handbookofmineralogy.org/pdfs/rutile.pdf"
+  - "https://www.gemselect.com/gem-info/rutile-quartz-info.php"
+  - "https://cnmnc.units.it/"
+  - "https://doi.org/10.1016/j.xcrm.2022.100895"
+  - "https://988lifeline.org/"
+  - "https://crystalmagic.com/products/gold_rutilated_quartz_tumbled"
+  - "https://www.crystalvaults.com/shop-crystals/900346/"
   - "https://www.gutenberg.org/ebooks/66583"
   - "https://www.crystals.com/pages/crystals/rutilated-quartz"
   - "https://www.firemountaingems.com/learn/categories/essential-resources/gemstone-meanings/rutilated-quartz-gemstone-meanings.html"
@@ -69,8 +76,8 @@ Rutilated quartz is quartz with needles of rutile, a titanium oxide mineral, gro
 | Chemicals | Brief only |
 | Toxic to handle | No. Cutting and polishing dust is a silica hazard |
 | Treatments | None known for the needles |
-| Common fakes | [TO CHECK glass or resin imitations]. Black needles may be tourmaline, not rutile |
-| Price range | Among the more affordable inclusion gems, per dealers [TO CHECK US retail ranges] |
+| Common fakes | Resin composites passed off as quartz with its host rock. Black needles may be tourmaline, not rutile |
+| Price range | Among the more affordable inclusion gems, per dealers. A tumbled stone about an inch wide listed at $5 (November 2026) |
 | Birthstone | None on the modern list |
 | Chakra (Modern Association) | Solar plexus most often, also crown |
 
@@ -80,7 +87,7 @@ Rutilated quartz is quartz with needles of rutile, a titanium oxide mineral, gro
 
 **The Stone.** Rutilated quartz is ordinary quartz with an extraordinary passenger. Kunz described it in 1915 as quartz "traversed by filaments of rutile, or the red oxide of titanium" (*The Magic of Jewels and Charms*, pages 29 to 30). The quartz is silicon dioxide, hardness 7 and chemically inert with most substances ([Geology.com](https://geology.com/minerals/quartz.shtml)). The rutile is titanium dioxide. Minerals.net calls it one of the few gemstones desirable *because* of its inclusions ([minerals.net](https://www.minerals.net/gemstone/rutilated-quartz)).
 
-The two grow together. According to the dealer encyclopedia [Skyjems](https://skyjems.ca/pages/encyclopedia-rutilated-quartz), silica-rich hot fluids crystallize quartz as they cool, and titanium beyond what the fluid can hold comes out as rutile needles. The quartz structure steers the needles, so they tend to run straight or gently curved, and in some stones they radiate from one point in a star-like "sagenitic" pattern. [TO CHECK formation with a reference source.]
+The two grow together. According to the dealer encyclopedia [Skyjems](https://skyjems.ca/pages/encyclopedia-rutilated-quartz), silica-rich hot fluids crystallize quartz as they cool, and titanium beyond what the fluid can hold comes out as rutile needles. The quartz structure steers the needles, so they tend to run straight or gently curved, and in some stones they radiate from one point in a star-like "sagenitic" pattern. That is a dealer's account, so read it as likely rather than settled. The *Handbook of Mineralogy* does list rutile as a common mineral of granite pegmatites and hydrothermally altered rocks, with quartz among its usual companions ([HoM](https://www.handbookofmineralogy.org/pdfs/rutile.pdf)), but we found no reference source that explains step by step how the needles end up inside the quartz.
 
 ### Golden, Red, Smoky & Black Rutilated Quartz
 
@@ -89,8 +96,8 @@ Rutile needles come in shades from golden to brown, says the [International Gem 
 - **Golden rutilated quartz.** The classic form and the most common, the basis of the "Venus hair" trade (Skyjems).
 - **Red rutilated quartz.** Red to red-brown needles, which Skyjems describes as a titanium iron oxide sometimes called ilmenorutile. Kunz called the finest specimens he knew this kind, rich brown masses from near Middlesex, Vermont, with red rutile as thick as a knitting needle or even a thin pencil (1915, pages 31 to 32).
 - **Smoky rutilated quartz.** Golden needles in brown smoky quartz, less common than clear (minerals.net). The smoky host calls for more caution, as you will see below.
-- **Black rutilated quartz.** Rutile needles can look black ([Wikipedia](https://en.wikipedia.org/wiki/Rutilated_quartz)), but black needles in quartz are often black tourmaline, which makes the stone [tourmalinated quartz](/stones/tourmalinated-quartz/) ([Natural Gemstones](https://naturalgemstones.com/education/types-of-inclusions-in-quartz/)). The label does not tell you which. More on our [black rutilated quartz](/stones/black-rutilated-quartz/) page.
-- **Blue rutilated quartz.** Probably not rutile at all. Blue color in quartz is usually caused by micro-inclusions of dumortierite, and a 2025 GIA note describes a rare case of blue tourmaline needles coloring quartz ([Gems & Gemology](https://www.gia.edu/gems-gemology/fall-2025-gemnews-blue-color-in-quartz)). [TO CHECK what sellers sell as blue rutilated quartz.]
+- **Black rutilated quartz.** Rutile in quartz runs from golden and copper to reddish and gray ([Gems & Gemology, Spring 2014](https://gia.edu/gems-gemology/spring-2014-gemnews-tucson-rutilated-quartz)), but black needles in quartz are often black tourmaline, which makes the stone [tourmalinated quartz](/stones/tourmalinated-quartz/) ([Natural Gemstones](https://naturalgemstones.com/education/types-of-inclusions-in-quartz/)). The label does not tell you which. More on our [black rutilated quartz](/stones/black-rutilated-quartz/) page.
+- **Blue rutilated quartz.** Probably not rutile at all. Blue color in quartz is usually caused by micro-inclusions of dumortierite, and a 2025 GIA note describes a rare case of blue tourmaline needles coloring quartz ([Gems & Gemology](https://www.gia.edu/gems-gemology/fall-2025-gemnews-blue-color-in-quartz)). "Blue rutilated quartz" is a name people search for, but we found no seller page or reference source that says what the blue needles in such stones are. Ask the seller what they are and whether a lab identified them.
 
 <!-- PHOTO 2, beside "Smoky rutilated quartz". Wikimedia Commons, "File Rutilated Smoky Quartz - DPLA - 6498da8ac685a2cf8c007cdabdfa191d (page 4).jpg". Page https://commons.wikimedia.org/wiki/File:Rutilated_Smoky_Quartz_-_DPLA_-_6498da8ac685a2cf8c007cdabdfa191d_(page_4).jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Rutilated_Smoky_Quartz_-_DPLA_-_6498da8ac685a2cf8c007cdabdfa191d_%28page_4%29.jpg/1280px-Rutilated_Smoky_Quartz_-_DPLA_-_6498da8ac685a2cf8c007cdabdfa191d_%28page_4%29.jpg (tracking parameters removed). License CC BY 4.0. Credit line "Photo unknown, CC BY 4.0, via Wikimedia Commons" [TO CHECK the photographer or institution named on the Commons page]. Verdict ok in image_picks_new_stones.json ("Smoky rutilated quartz slab with dark rutile needles, sharp and well lit"). Alt text "Slab of smoky quartz crossed by dark rutile needles". -->
 
@@ -115,11 +122,11 @@ Jewelry first. It is an affordable gem that can be cut into large faceted stones
 
 ### What About Aphrodite & the Vikings?
 
-One gem shop says the ancient Greeks called the strands "the hair of Aphrodite," that Vikings believed rutile came from the goddess Freyja, and that Brazilian miners found the stone in the 1940s while looking for clear quartz for glasses ([Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/rutilated-quartz)). No old text is on hand for the Greek or Viking stories [TO CHECK with a primary source]. The closest Greek name on record is chrysothrix, golden hair, which Kunz ties to gold rather than rutile, and the Venus name appears in Kunz without a date.
+One gem shop says the ancient Greeks called the strands "the hair of Aphrodite," that Vikings believed rutile came from the goddess Freyja, and that Brazilian miners found the stone in the 1940s while looking for clear quartz for glasses ([Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/rutilated-quartz)). We found no ancient or medieval text behind the Greek or Viking stories, so we treat them as a seller's stories. The closest Greek name on record is chrysothrix, golden hair, which Kunz ties to gold rather than rutile, and the Venus name appears in Kunz without a date.
 
 ## What People Use Rutilated Quartz for Today
 
-**Modern Association.** In the crystal guides we compared, clarity and focus come up most, then courage and confidence, intuition, manifestation and protection. The "why" is the look. Bright lines cutting through clear crystal read as clear thinking and directed energy, and gold reads as success. Guides link it most often to the solar plexus chakra, the seat of confidence and willpower in chakra charts, and also to the crown. Gemini is the sign named most, ahead of Taurus and Leo.
+**Modern Association.** In modern crystal guides, clarity and focus come up most, then courage and confidence, intuition, manifestation and protection. The "why" is the look. Bright lines cutting through clear crystal read as clear thinking and directed energy, and gold reads as success. Guides link it most often to the solar plexus chakra, the seat of confidence and willpower in chakra charts, and also to the crown. Gemini is the sign named most, ahead of Taurus and Leo.
 
 People reach for it, one guide says, when they want to start something, push through a stuck project or keep their nerve before a big conversation (Crystal Gemstones). Another mentions job interviews, speeches and important meetings ([Gthic](https://gthic.com/blogs/jewelry-blogs/rutilated-quartz-crystal-guide-meaning-benefits-and-uses)). That pairs well with [crystals for focus](/crystals-for/focus/).
 
@@ -155,18 +162,18 @@ Some guides go much further and claim help with depression, anxiety, PTSD, addic
 
 **Safety.** Small tumbled stones and bead bracelets are not toys. Keep them away from small children and pets who might swallow them.
 
-**What Research Says.** [TO CHECK a peer-reviewed study with DOI on short pre-task routines, attention or slow breathing, and say plainly that it did not use stones.] Until then, treat these as personal habits, not tested remedies.
+**What Research Says.** In a remote randomized study of 108 adults, five minutes a day of structured breathing for a month, especially cyclic sighing with long exhales, improved mood and lowered breathing rate more than the same time spent in mindfulness meditation ([Balban and colleagues, *Cell Reports Medicine*, 2023](https://doi.org/10.1016/j.xcrm.2022.100895)). The authors began it as an exploratory study, participants knew which exercise they were doing, mood was self-reported, and no stones were involved. Three slow breaths before an interview are a much smaller dose, so the link is our extrapolation, and the breathing, not the stone, is the part with research behind it.
 
-> **When a Stone Is Not Enough.** Some sites sell rutilated quartz for depression, anxiety, PTSD or addiction. A stone can be a comfort to hold, but it is not care. If low mood, anxiety or cravings last or feel heavy, talk to a doctor or a therapist. If you are in crisis in the US, reach the 988 Suicide and Crisis Lifeline [TO CHECK official link and contact options].
+> **When a Stone Is Not Enough.** Some sites sell rutilated quartz for depression, anxiety, PTSD or addiction. A stone can be a comfort to hold, but it is not care. If low mood, anxiety or cravings last or feel heavy, talk to a doctor or a therapist. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
 
 ## Is My Rutilated Quartz Real?
 
 We use the same five labels on every stone.
 
-- **Natural, untreated.** The normal case. Minerals.net says rutilated quartz is "natural and not enhanced," and Skyjems calls treatment "essentially nonexistent." [TO CHECK with a lab source.]
+- **Natural, untreated.** The normal case. Minerals.net says rutilated quartz is "natural and not enhanced," and Skyjems calls treatment "essentially nonexistent." We found no lab report on treatment either way, so read "untreated" as the usual case, not a guarantee.
 - **Natural, treated.** None described by the dealers and reference sites we checked.
-- **Lab-grown.** Synthetic quartz comes in every color of the rainbow ([International Gem Society](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/)), but none of those pages mentions lab-grown rutilated quartz. [TO CHECK whether lab-grown rutilated quartz is sold.]
-- **Imitation.** [TO CHECK whether glass or resin with metallic fibers is sold as rutilated quartz.]
+- **Lab-grown.** Synthetic quartz comes in every color of the rainbow ([International Gem Society](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/)), but we found no reference report of lab-grown rutilated quartz on the market. One gem dealer, [GemSelect](https://www.gemselect.com/gem-info/rutile-quartz-info.php), calls faking rutile quartz entirely unlikely, "too much effort for little gain."
+- **Imitation.** Composites exist. In 2020, GIA's journal described a rutilated quartz sphere sold as quartz polished together with its host rock, where the brown "rock" turned out to be epoxy resin mixed with mineral powders, full of bubbles and with a specific gravity of 2.35, well below quartz. The authors warned it may not be an isolated case ([Gems & Gemology, Fall 2020](https://www.gia.edu/gems-gemology/fall-2020-gemnews-new-rutilated-quartz-composite-product)). We found no reference report of glass or resin with metallic fibers sold as rutilated quartz in the US.
 - **Trade names.** Venus hair, flèches d'amour, sagenitic quartz and, in Brazil, cabelo de Vênus all mean rutilated quartz (Skyjems). "Black rutilated" may be tourmalinated quartz, and "blue rutilated" is usually not rutile.
 
 Three checks you can do, with their limits.
@@ -207,7 +214,7 @@ Rutilated quartz is an affordable gem (minerals.net), and Skyjems places it "amo
 
 What moves the price, according to Skyjems, is the needle color (golden at the top), how sharp the needles are and how evenly they spread through a clear host. Star-like sagenitic patterns carry "meaningful premiums," and a well-cut stone with a balanced pattern is worth more than a heavier one with random needles. So judge the pattern, not the weight.
 
-[TO CHECK typical US retail ranges for tumbled stones, points, bead bracelets, cabochons and faceted golden rutilated quartz, with a dated source.]
+Tumbled stones are the cheap way in. One listing we found had a single golden tumbled stone about an inch wide for $5, and another a bag of six tumbled stones, each 3/4 to 1 inch, for about $11. Prices from listings at US crystal shops in November 2026.
 
 **Next Step.** Not sure if your dark needles are rutile? Compare with our [tourmalinated quartz](/stones/tourmalinated-quartz/) page.
 
@@ -217,14 +224,18 @@ What moves the price, according to Skyjems, is the needle color (golden at the t
 - Hobart M. King, Geology.com, [Quartz](https://geology.com/minerals/quartz.shtml) and [Smoky Quartz](https://geology.com/gemstones/smoky-quartz/)
 - Minerals.net, [Rutilated Quartz](https://www.minerals.net/gemstone/rutilated-quartz)
 - Rong Liang and colleagues, "Blue Color in Quartz Caused by Elbaite Inclusions," [Gems & Gemology, Fall 2025](https://www.gia.edu/gems-gemology/fall-2025-gemnews-blue-color-in-quartz)
-- Skyjems, [Rutilated Quartz encyclopedia](https://skyjems.ca/pages/encyclopedia-rutilated-quartz), a dealer reference
-- Natural Gemstones, [Inclusions in Rutilated Quartz](https://naturalgemstones.com/education/inclusions-in-rutilated-quartz/) and [Types of Inclusions in Quartz](https://naturalgemstones.com/education/types-of-inclusions-in-quartz/), dealer guides
+- Robert Weldon, "Varieties of Rutilated Quartz, Tucson 2014," *Gems & Gemology*, Spring 2014, [GIA](https://gia.edu/gems-gemology/spring-2014-gemnews-tucson-rutilated-quartz)
+- Shu-Hong Lin, Yu-Ho Li and Huei-Fen Chen, "A New Type of Rutilated Quartz Composite Product," *Gems & Gemology*, Fall 2020, [GIA](https://www.gia.edu/gems-gemology/fall-2020-gemnews-new-rutilated-quartz-composite-product)
+- *Handbook of Mineralogy*, [Rutile](https://www.handbookofmineralogy.org/pdfs/rutile.pdf) (Mineral Data Publishing)
 - GemGuide, [Quartz Gems With Curious Inclusions](https://www.gemguide.com/gem-focus-may-2022-quartz-gems-with-curious-inclusions/), May 2022
-- Wikipedia, [Rutilated quartz](https://en.wikipedia.org/wiki/Rutilated_quartz) and [Smoky quartz](https://en.wikipedia.org/wiki/Smoky_quartz)
-- The IMA List of Minerals, July 2026 edition
+- Dealer and jewelry references on rutilated quartz, linked in the text above
+- IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Magic of Jewels and Charms* (1915), pages 29 to 32 and 200, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- Modern associations compared across crystals.com, firemountaingems.com, moonrisecrystals.com, crystalgemstones.net, energymuse.com, lebensquelle-plus.de, gemrockauctions.com, crystalguide.pages.dev, gthic.com and aeternum.fr, read November 18, 2026
+- Melis Yilmaz Balban and colleagues, "Brief Structured Respiration Practices Enhance Mood and Reduce Physiological Arousal," *Cell Reports Medicine*, 2023, [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)
+- 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
+- Retail prices from US-dollar listings at online crystal shops, read November 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

@@ -24,6 +24,7 @@ publishTime: "07:00"
 status: "verified"
 page_type: "situation"
 sources:
+  - "https://988lifeline.org/"
   - "https://www.cdc.gov/sleep/about/index.html"
   - "https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children"
   - "https://doi.org/10.1017/S1092852925100515"
@@ -178,7 +179,7 @@ Nightmares that keep coming back, at any age, are worth a conversation with a do
 
 **Mineral Fact.** Celestite is a strontium sulfate, often sky blue. The Crystal Cave at Put-in-Bay, Ohio, is a geode 35 feet wide lined with celestite crystals up to 18 inches across ([International Gem Society](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/)). **Modern Association.** Widely Linked to sleep. Crystal guides call the bedroom its most common home ([Crystal Gemstones](https://crystalgemstones.net/celestite-meaning-and-spiritual-properties.html)) and tie it to calm nights and fewer nightmares ([Energy Muse](https://energymuse.com/pages/celestite-meaning)). One guide suggests giving children a small piece to hold ([CrystalVaults](https://www.crystalvaults.com/crystal-encyclopedia/celestite/)), which we would not do, because small pieces are a choking hazard. In a child's room, a geode on a high shelf is the safer version. **Care.** It is very soft and light sensitive, and dealer guides say it is slightly soluble in water ([Gemstones.com](https://www.gemstones.com/gemopedia/celestite)). Keep it out of the sun, clean it with a quick soft brush and warm water only, and store it apart from other stones. More on [celestite](/stones/celestite/).
 
-> **When a Stone Is Not Enough.** A stone can make a bedtime routine feel like yours. It does not treat insomnia, nightmares or any sleep disorder. The CDC advises talking to a healthcare provider if you have problems sleeping, and a provider can run tests, including sleep studies, to check for a sleep disorder ([CDC](https://www.cdc.gov/sleep/about/index.html)). Do not stop, skip or delay any sleep treatment your doctor prescribed because of a crystal. If a child has frequent nightmares or night terrors, ask your pediatrician.
+> **When a Stone Is Not Enough.** A stone can make a bedtime routine feel like yours. It does not treat insomnia, nightmares or any sleep disorder. The CDC advises talking to a healthcare provider if you have problems sleeping, and a provider can run tests, including sleep studies, to check for a sleep disorder ([CDC](https://www.cdc.gov/sleep/about/index.html)). Do not stop, skip or delay any sleep treatment your doctor prescribed because of a crystal. If a child has frequent nightmares or night terrors, ask your pediatrician. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 **Next Step.** If worry is what keeps you up, our page on [crystals for anxiety](/crystals-for/anxiety/) pairs a grounding routine with the same honest notes.
 

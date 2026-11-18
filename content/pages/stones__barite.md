@@ -22,14 +22,20 @@ sources:
   - "https://www.gemsociety.org/article/barite-jewelry-gemstone-information/"
   - "https://geology.com/minerals/barite.shtml"
   - "https://www.minerals.net/mineral/barite"
-  - "https://en.wikipedia.org/wiki/Baryte"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
   - "https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/"
   - "https://ou.edu/ogs/generalinterest/rose_rocks"
   - "https://www.gemsociety.org/article/vanadinite-jewelry-and-gemstone-information/"
-  - "https://en.wikipedia.org/wiki/Vanadinite"
+  - "https://www.handbookofmineralogy.org/pdfs/vanadinite.pdf"
+  - "https://www.lanl.gov/science-engineering/periodic-table/element/barium"
+  - "https://www.gia.edu/gems-gemology/spring-2022-gemnews-barite-calcite-composite-imitation-wulanhua-turquoise-hubei-china"
   - "https://www.americangemsociety.org/birthstones/"
+  - "https://cnmnc.units.it/"
   - "https://www.gutenberg.org/ebooks/57978"
+  - "https://doi.org/10.1016/S0065-2601%2806%2938002-1"
+  - "https://988lifeline.org/"
+  - "https://www.crystalvaults.com/shop-crystals/212386/"
+  - "https://www.gemrockauctions.com/products/4905g-barite-specimen-from-androvo-mines-in-bulgaria-1775061"
   - "https://www.crystals.com/pages/crystals/barite"
   - "https://moonrisecrystals.com/barite-meaning/"
   - "https://crystalgemstones.net/barite-meaning-and-spiritual-properties.html"
@@ -64,8 +70,8 @@ Barite is a mineral made of barium sulfate, so heavy for its size that its name 
 | Salt | Unknown |
 | Chemicals | Brief only |
 | Toxic to handle | Low risk (barium). Never in water you drink, never sand or grind it |
-| Common fakes | [TO CHECK which materials are sold as barite]. Often confused with celestine, calcite and gypsum desert roses |
-| Price range | [TO CHECK US retail ranges for specimens] |
+| Common fakes | No reference report of fake barite. Often confused with celestine, calcite and gypsum desert roses. Dyed barite has turned up in imitation turquoise |
+| Price range | Small specimens listed at about $5 and $31 (November 2026), see the price guide below |
 | Birthstone | None on the modern list |
 | Chakra (Modern Association) | No agreement. Crown, third eye and throat all come up |
 | State rock | The barite rose is Oklahoma's state rock, since 1968 |
@@ -98,7 +104,7 @@ The survey says rose rocks are essentially unique to Oklahoma, with minor occurr
 
 ### Barite With Vanadinite
 
-Some barite specimens carry bright red vanadinite crystals on pale barite blades. Wikipedia lists barite among the minerals found with [vanadinite](/stones/vanadinite/), and Mibladen in Morocco is a noted locality for both (minerals.net, [International Gem Society](https://www.gemsociety.org/article/vanadinite-jewelry-and-gemstone-information/)). Treat these pieces as two minerals. Vanadinite contains lead and vanadium and may hold traces of arsenic. The International Gem Society says normal display is no problem, but it scratches very easily, and like any lead mineral it stays out of water you drink.
+Some barite specimens carry bright red vanadinite crystals on pale barite blades. The *Handbook of Mineralogy* lists barite among the minerals found with [vanadinite](/stones/vanadinite/) in the oxidized zone of lead deposits ([HoM](https://www.handbookofmineralogy.org/pdfs/vanadinite.pdf)), and Mibladen in Morocco is a noted locality for both (minerals.net, HoM, [International Gem Society](https://www.gemsociety.org/article/vanadinite-jewelry-and-gemstone-information/)). Treat these pieces as two minerals. Vanadinite contains lead and vanadium and may hold traces of arsenic. The International Gem Society says normal display is no problem, but it scratches very easily, and like any lead mineral it stays out of water you drink.
 
 <!-- PHOTO 3, candidate, beside "Barite With Vanadinite". Wikimedia Commons, "File Vanadinite crystals.jpg", by Masha Milshina, description "Crystals of vanadinite on barite. Morocco. Field of view 14mm". Page https://commons.wikimedia.org/wiki/File:Vanadinite_crystals.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Vanadinite_crystals.jpg/1280px-Vanadinite_crystals.jpg (tracking parameters removed). License CC BY 4.0. Credit line "Photo Masha Milshina, CC BY 4.0, via Wikimedia Commons". visual_check empty in images_commons_candidates.csv, check before use. Alt text "Red vanadinite crystals on pale barite from Morocco". -->
 
@@ -114,15 +120,14 @@ Faceters have cut gems over 100 carats from Madagascar rough, but IGS advises ag
 
 - **1604, Bologna.** **Tradition.** Kunz retells how Vincenzio Casscioroli, "an adept in alchemy," found a stone in the fissures of Monte Paterno near Bologna after torrential rains. Because of its "solar quality," he hoped it would help turn base metals into gold (*The Curious Lore of Precious Stones*, 1913, pages 168 to 169).
 - **1675, the "lunar stone."** **Tradition.** The physician Mentzel wrote a treatise on this Bologna stone, "partly a radiated or crystalline sulphate of barytes," which glowed after being calcined, roasted in a fire. It was called the lunar stone (*lapis lunaris*) because, "like the moon, it gave out in the darkness the light it received from the sun" (Kunz 1913, pages 168 to 169).
-- **1774 to 1808.** Carl Scheele found that baryte held a new element in 1774, and Humphry Davy first isolated barium in 1808, according to [Wikipedia](https://en.wikipedia.org/wiki/Baryte).
-- **Missouri, before the oil boom.** The local French population called barite "tuf blanc" or "tiff," and miners digging for lead often threw it away. By the late 19th century the petroleum industry had made it valuable (Wikipedia).
+- **1772 to 1808.** The Swedish chemist Carl Scheele found in 1772 that baryte held a new element but could isolate only its oxide, and Humphry Davy first isolated barium in 1808 by electrolysis, according to [Los Alamos National Laboratory](https://www.lanl.gov/science-engineering/periodic-table/element/barium).
 - **1968, Oklahoma.** The barite rose became Oklahoma's official state rock when House Bill 1277 was signed into law. In 1983 the town of Noble was named the official rose rock capital (Oklahoma Geological Survey).
 - **The Cherokee legend.** **Tradition.** A story says rose rocks formed from the tears of women and the blood of men forced from Georgia to Oklahoma in 1838 and 1839. The Oklahoma Geological Survey notes that Cherokee Nation representatives disavow it, since rose rocks do not occur on lands granted to the Cherokees. [Moonrise Crystals](https://moonrisecrystals.com/barite-meaning/), a crystal shop, also calls it a modern myth.
 - **Today.** **Modern Association.** One crystal guide says plainly that barite "does not have the long folklore of stones such as jade or amber," and that practitioners built its meaning from the stone's weight, its pale color and the way it grows in layered blades ([Crystal Gemstones](https://crystalgemstones.net/barite-meaning-and-spiritual-properties.html)).
 
 ## What People Use Barite for Today
 
-**Modern Association.** In the crystal guides we compared, grounding, clarity and love are the steadiest themes, with courage, calm, communication and intuition close behind. The "why" is the weight. A stone that sits heavy in the hand became a stone for staying put and thinking straight. Barite is also Widely Linked with [sleep](/crystals-for/sleep/), mostly through dreams, and some people keep it by a dream journal.
+**Modern Association.** In modern crystal guides, grounding, clarity and love are the steadiest themes, with courage, calm, communication and intuition close behind. The "why" is the weight. A stone that sits heavy in the hand became a stone for staying put and thinking straight. Barite is also Widely Linked with [sleep](/crystals-for/sleep/), mostly through dreams, and some people keep it by a dream journal.
 
 The rest is scattered. Guides cannot agree on a chakra (crown, third eye, throat or all of them) or a sign (Aquarius more often than Taurus), and one lists Saturn as its planet. Astrology.com calls it an alternative November birthstone, but the [American Gem Society](https://www.americangemsociety.org/birthstones/) list gives November to topaz and citrine.
 
@@ -154,19 +159,19 @@ One shop lists barite as suitable for gemstone water, and another guide suggests
 
 **Safety.** Barite is soft and splits along its cleavage, so set it down rather than drop it, and keep it away from harder stones. Never sand, file or grind it, since the dust should not be breathed or swallowed. Small pieces are not toys. Keep them away from small children and pets.
 
-**What Research Says.** [TO CHECK a peer-reviewed study with DOI on writing down a next step or keeping a dream journal, and say plainly that it did not use stones.] Until then, treat these as personal habits, not tested remedies.
+**What Research Says.** A 2006 meta-analysis that pooled earlier lab and field studies found that people who made an if-then plan ("if situation X happens, then I will do Y") were more likely to act on a goal than people who only intended to (Gollwitzer and Sheeran, *Advances in Experimental Social Psychology*, [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)). Those studies covered everyday goals, not stones or dream journals, and a plan helps most with something you already want to do. The front-door check and the paperweight pause are if-then plans with a heavy stone as the cue, and the plan is the part with research behind it.
 
-> **When a Stone Is Not Enough.** Barite is often chosen for sleep, stress, grief and recovery. A stone can be a comfort to hold, but it is not care. If poor sleep, anxiety or low mood lasts, talk to a doctor or a therapist. If you are struggling with substance use or self-harm, reach out to a doctor or counselor, and in the US you can reach the 988 Suicide and Crisis Lifeline [TO CHECK official link and contact options]. Never use a stone in place of treatment.
+> **When a Stone Is Not Enough.** Barite is often chosen for sleep, stress, grief and recovery. A stone can be a comfort to hold, but it is not care. If poor sleep, anxiety or low mood lasts, talk to a doctor or a therapist. If you are struggling with substance use or self-harm, reach out to a doctor or counselor. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. Never use a stone in place of treatment.
 
 ## Is My Barite Real?
 
 We use the same five labels on every stone. Barite is simpler than most.
 
 - **Natural, untreated.** Nearly everything sold. The International Gem Society knows of no gem treatments for barite.
-- **Natural, treated.** None known (IGS). [TO CHECK whether dyed or coated barite specimens are sold in the US.]
+- **Natural, treated.** None known (IGS). Dyed barite does exist in one documented form, beads of barite, calcite and blue dye that reached a lab in Taiwan as "Wulanhua" turquoise, a material from Hubei, China ([Gems & Gemology, Spring 2022](https://www.gia.edu/gems-gemology/spring-2022-gemnews-barite-calcite-composite-imitation-wulanhua-turquoise-hubei-china)). We found no reference report of dyed or coated barite specimens sold as barite in the US.
 - **Lab-grown.** Scientists have grown barite for research, but the material has no known jewelry use (IGS).
-- **Imitation.** [TO CHECK which materials, if any, are sold as barite.]
-- **Trade name.** "Desert rose" can be barite or gypsum, "rose rock" is Oklahoma barite, and "Bologna stone" is an old name for its radiating form. "Heavy spar" is an old name for barite itself (Wikipedia).
+- **Imitation.** We found no reference report of another material sold as barite. The documented mix-up runs the other way, barite dressed up as turquoise. The usual confusions are with celestine, calcite and gypsum, covered below.
+- **Trade name.** "Desert rose" can be barite or gypsum, "rose rock" is Oklahoma barite, and "Bologna stone" is an old name for its radiating form (minerals.net).
 
 Three checks you can do at home, with their limits.
 
@@ -210,7 +215,7 @@ A quick wipe with a damp cloth, yes. A soak or a bath, no, because soaking is no
 
 Industrial barite is cheap. Geology.com gives an undated figure of about $150 per metric ton at the mine for drilling-mud barite. Collector specimens are a different market. Crystal barite is not rare (International Gem Society), so an ordinary white cluster is no treasure, and color, sharp crystals and a known locality are what collectors talk about.
 
-[TO CHECK typical US retail ranges for barite clusters, rose rocks, blue Colorado crystals and vanadinite on barite, and what drives specimen prices, with a dated source.]
+Two current listings show how low the entry point can be. One listing we found, a barite cluster from Durango, Mexico, about 2.3 by 1.6 inches, was on sale for about $31. Another, a barite specimen from the Androvo mine in Bulgaria, about 1.5 by 1.2 inches, was about $5. We found no current listing for a rose rock, a blue Colorado crystal or vanadinite on barite to compare. Prices from online listings in US dollars, November 2026.
 
 **Next Step.** Building a shelf of soft stones? Check barite, selenite and celestite together in the [Care Checker](/tools/crystal-care-checker/) before you clean any of them.
 
@@ -220,11 +225,17 @@ Industrial barite is cheap. Geology.com gives an undated figure of about $150 pe
 - Hobart M. King, Geology.com, [Barite](https://geology.com/minerals/barite.shtml)
 - Minerals.net, [Barite](https://www.minerals.net/mineral/barite)
 - Oklahoma Geological Survey, [Rose Rocks](https://ou.edu/ogs/generalinterest/rose_rocks), updated November 9, 2022
-- Wikipedia, [Baryte](https://en.wikipedia.org/wiki/Baryte) and [Vanadinite](https://en.wikipedia.org/wiki/Vanadinite), 
-- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
+- *Handbook of Mineralogy*, [Vanadinite](https://www.handbookofmineralogy.org/pdfs/vanadinite.pdf) (Mineral Data Publishing)
+- Los Alamos National Laboratory, [Barium](https://www.lanl.gov/science-engineering/periodic-table/element/barium), Periodic Table of Elements
+- Shu-Hong Lin and colleagues, "Barite-Calcite Composite as Imitation 'Wulanhua' Turquoise from Hubei Province, China," *Gems & Gemology*, Spring 2022, [GIA](https://www.gia.edu/gems-gemology/spring-2022-gemnews-barite-calcite-composite-imitation-wulanhua-turquoise-hubei-china)
+- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
+- IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 168 to 169, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
-- Modern associations compared across crystals.com, moonrisecrystals.com, crystalgemstones.net, astrology.com, lebensquelle-plus.de, le-comptoir-geologique.com, webshop-danielleforrer.nl and fossilera.com, read November 18, 2026
+- P. M. Gollwitzer and P. Sheeran, *Advances in Experimental Social Psychology* 38 (2006), [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)
+- 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
+- Retail prices from US-dollar listings at online mineral shops, read November 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

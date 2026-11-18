@@ -26,7 +26,15 @@ sources:
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
   - "https://www.gia.edu/gems-gemology/fall-2020-gemnews-black-star-sapphire"
   - "https://gem-a.com/gem-hub/common-corundum-treatments/"
-  - "https://en.wikipedia.org/wiki/Sapphire"
+  - "https://www.gia.edu/articles/summer-2018-gemnews-twelve-rayed-star-sapphire-from-thailand"
+  - "https://www.gia.edu/gem-imitation"
+  - "https://www.gia.edu/articles/fall-1985-lab-notes"
+  - "https://www.gemsociety.org/article/lab-grown-sapphires"
+  - "https://doi.org/10.1016/S0065-2601(06)38002-1"
+  - "https://www.loc.gov/item/87046256/"
+  - "https://988lifeline.org/"
+  - "https://cnmnc.units.it/"
+  - "https://www.gemselect.com/other-gems/black-sapphire.php"
   - "https://www.americangemsociety.org/birthstones/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
@@ -51,7 +59,7 @@ Black sapphire is corundum, the same mineral as blue sapphire and ruby, in a ton
 | Mohs hardness | 9, no cleavage planes |
 | Crystal system | Trigonal |
 | Specific gravity | About 4.00 |
-| Color cause | So dark that light barely travels through the crystal [TO CHECK chemical cause] |
+| Color cause | A body color so dark that light barely travels through it, or in some black star stones, dense iron-rich particles of hematite and ilmenite |
 | Main sources | Australia for truly black stones. Black star sapphires mainly Kenya, Australia and Thailand |
 | Water | OK for washing, keep soaks brief |
 | Sun | Brief only |
@@ -59,11 +67,11 @@ Black sapphire is corundum, the same mineral as blue sapphire and ruby, in a ton
 | Salt | Unknown |
 | Chemicals | Unknown |
 | Toxic to handle | No known risk |
-| Common fakes | Glass, plastic and other simulants [TO CHECK which black ones] |
+| Common fakes | Glass, plastic, cubic zirconia and assembled doublets |
 | Treatments to ask about | Glass or varnish fillings on star stones, dye, oil or glass in fractures |
-| Price range | Low for a sapphire. Black star material can sell for dollars per carat [TO CHECK US retail ranges] |
+| Price range | Low for a sapphire. Loose black star stones of 3 to 4 carats listed at about $49 to $69 each in November 2026 |
 | Birthstone | September, for sapphire in general, plus the 5th and 45th anniversaries |
-| Chakra (Modern Association) | Root, in the few guides that name one |
+| Chakra (Modern Association) | Root, when one is named |
 
 > **Is It Real? Quick Checks.** Turn the stone over. On a black star sapphire, look at the back with a loupe for pits filled with a brown material, or a glassy layer with tiny gas bubbles. Natural black sapphire does not glow under a UV flashlight, so a bright orange glow on the back is worth asking about. These checks raise questions. Only a gem lab can answer them.
 
@@ -73,7 +81,7 @@ Black sapphire is corundum, the same mineral as blue sapphire and ruby, in a ton
 
 **Mineral Fact.** Corundum is aluminum oxide with a hardness of 9 and a specific gravity of about 4.00 (GIA). Among natural gems only diamond is harder, and sapphire has no cleavage planes, the flat directions along which some crystals split. The International Gem Society calls it superb for everyday wear, while noting that a heavily included or fractured stone is less stable. That caveat matters for black stones.
 
-Sapphire colors come from trace elements such as iron, titanium and chromium (International Gem Society). The chemistry behind black is not covered here [TO CHECK color cause with a reference source].
+Sapphire colors come from trace elements such as iron, titanium and chromium (International Gem Society). Black can have a different cause. In a black star sapphire from Thailand described in *Gems & Gemology* in 2018, Wim Vertriest and Simon Bruce-Lockhart traced the black to a very high concentration of iron-rich particles, identified as hematite and ilmenite, packed so densely that they completely masked the stone's bluish green body color ([GIA](https://www.gia.edu/articles/summer-2018-gemnews-twelve-rayed-star-sapphire-from-thailand)). Other black sapphires are simply very dark stones, as the next section explains.
 
 <!-- PHOTO 2, beside "What Black Sapphire Actually Is". Wikimedia Commons, "File Sapphire (corundum) (26663158752).jpg", by James St. John. Page https://commons.wikimedia.org/wiki/File:Sapphire_(corundum)_(26663158752).jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Sapphire_%28corundum%29_%2826663158752%29.jpg/1280px-Sapphire_%28corundum%29_%2826663158752%29.jpg (tracking parameters removed). License CC BY 2.0. Credit line "Photo James St. John, CC BY 2.0, via Wikimedia Commons". visual_check family (blue sapphire rough, not black). Alt text "Rough blue sapphire crystal, the same mineral, corundum, as black sapphire". Never caption it as black sapphire. -->
 
@@ -91,7 +99,7 @@ The best-known example, the Black Star of Queensland, weighs 733 carats, accordi
 
 ### Natural Black Sapphire vs Lab-Grown
 
-Corundum was first synthesized in the early 1900s, and today many sapphires on the market are grown in labs (International Gem Society). GIA notes synthetic sapphire is durable enough for supermarket scanner windows and spacecraft. Lab-grown stones share the chemistry of natural ones, so "is it sapphire?" and "did it grow in the ground?" are two questions. How often black sapphire is lab-grown is not covered here [TO CHECK].
+Corundum was first synthesized in the early 1900s, and today many sapphires on the market are grown in labs (International Gem Society). GIA notes synthetic sapphire is durable enough for supermarket scanner windows and spacecraft. Lab-grown stones share the chemistry of natural ones, so "is it sapphire?" and "did it grow in the ground?" are two questions. All gem varieties of corundum can be synthesized, the International Gem Society notes in its [guide to lab-grown sapphires](https://www.gemsociety.org/article/lab-grown-sapphires), but we found no reference source on how often lab-grown black sapphire is sold.
 
 ## Where the Meaning Comes From
 
@@ -104,8 +112,7 @@ Corundum was first synthesized in the early 1900s, and today many sapphires on t
 - **Sri Lanka.** **Tradition.** The moving star was believed by the Sinhalese to guard against witchcraft. Kunz adds that star sapphires rarely have fine blue color, and gray or nearly white stones often show the sharpest star (1913, page 106).
 - **Travelers' talismans.** **Tradition.** The explorer Sir Richard Francis Burton called his large star sapphire his talisman, because it brought him good horses and prompt service, and the 17th-century writer De Boot said Germans called such a stone a Siegstein, a victory stone (Kunz 1913, page 106). Kunz also records the three crossed lines read as Faith, Hope and Destiny (page 107).
 - **Gazing.** **Tradition.** Kunz describes a belief that staring at a gleaming stone such as a star sapphire could bring on a trance and a glimpse of the future, and that in the East a living spirit was supposed to dwell in stones with a moving light (1913, pages 7 to 8). Both ideas survive today on a dealer's black sapphire page ([Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/black-sapphire)).
-- **Black stones in general.** **Tradition.** The same dealer guide says medieval Europeans believed all black stones were lucky and protective, while other cultures saw black gems as unlucky [TO CHECK primary source].
-- **Today.** **Modern Association.** A witchcraft blog credits the occult writer Scott Cunningham with calling the star sapphire the most potent sapphire for magic [TO CHECK book title and year]. Protection, grounding and the root chakra are now applied to black sapphire as a stone of its own.
+- **Today.** **Modern Association.** A witchcraft blog credits the occult writer Scott Cunningham, author of *Cunningham's Encyclopedia of Crystal, Gem & Metal Magic* (1988), with calling the star sapphire the most potent sapphire in magic. Protection, grounding and the root chakra are now applied to black sapphire as a stone of its own.
 
 ## What People Use Black Sapphire for Today
 
@@ -135,9 +142,9 @@ The dealer guide also lists help with pain, circulation and bone injuries. Gemol
 
 **Safety.** Loose stones and small jewelry are not toys. Keep them away from small children and pets who might swallow them.
 
-**What Research Says.** [TO CHECK a peer-reviewed study with DOI on short pauses or implementation intentions, and say plainly that it did not use stones.] Until then, treat these as personal practices. None of the research on pauses and habits tested black sapphire itself.
+**What Research Says.** The boundary ring is an if-then plan with the ring as the cue. A 2006 meta-analysis by Peter Gollwitzer and Paschal Sheeran, pooling published lab and field studies, found that people who made an if-then plan ("if situation X happens, then I will do Y") were more likely to act on a goal than people who only intended to ([DOI 10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)). It pooled studies of everyday goals, so publication bias is possible, and none of them tested stones. The plan does the work, and the black sapphire is only the reminder.
 
-> **When a Stone Is Not Enough.** Black sapphire is sometimes chosen for stress, anxiety or low moods. A stone can be a comfort to hold, but it is not care. If worry, sadness or trouble sleeping lasts or feels heavy, talk to a doctor or a therapist, and never use a stone in place of treatment.
+> **When a Stone Is Not Enough.** Black sapphire is sometimes chosen for stress, anxiety or low moods. A stone can be a comfort to hold, but it is not care. If worry, sadness or trouble sleeping lasts or feels heavy, talk to a doctor or a therapist, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Black Sapphire Real?
 
@@ -145,8 +152,8 @@ We use the same five labels on every stone.
 
 - **Natural, untreated.** Black corundum straight from the ground, with Australia the main source of truly black stones (International Gem Society). Untreated sapphires usually sell for more than treated ones.
 - **Natural, treated.** Corundum is very often treated, probably for more than 1,000 years, says Gem-A, the Gemmological Association of Great Britain, in its guide to [corundum treatments](https://gem-a.com/gem-hub/common-corundum-treatments/). Dye can be deposited in fractures of low-quality stones, fractures can be filled with oil or glass, and sapphires that are too dark can be lightened by heating below about 1,830 to 2,010 °F (1,000 to 1,100 °C).
-- **Lab-grown.** Synthetic corundum has existed since the early 1900s (International Gem Society). [TO CHECK how common lab-grown black sapphire is.]
-- **Imitation.** Any gem can be imitated (GIA). Glass, plastic and cubic zirconia, which comes in almost any color, are used for sapphire lookalikes (International Gem Society). [TO CHECK which black imitations are sold as black sapphire in the US.]
+- **Lab-grown.** Synthetic corundum has existed since the early 1900s, and all gem varieties of corundum can be synthesized (International Gem Society). We found no reference source on how common lab-grown black sapphire is, so ask the seller and get the answer in writing.
+- **Imitation.** Any gem can be imitated (GIA). Glass, plastic and cubic zirconia, which comes in almost any color, are used for sapphire lookalikes (International Gem Society), and GIA's guide to [imitation gems](https://www.gia.edu/gem-imitation) says colored cubic zirconia makes good imitations of black gemstones. Assembled stones are another trap, and GIA's [Fall 1985 Lab Notes](https://www.gia.edu/articles/fall-1985-lab-notes) include a black star sapphire doublet, a stone assembled from two parts. We found no reference source on which black imitations turn up most often in the US.
 - **Trade name.** None. "Black sapphire" is the correct name for black corundum.
 
 ### The Back of a Black Star Sapphire
@@ -167,11 +174,11 @@ Three questions to ask the seller. Is it natural, and treated in any way, includ
 
 **Mineral Fact.** At Mohs 9 with no cleavage, sapphire resists scratches and knocks better than almost any gem. Black sapphires need a little more care than that suggests. Abundant inclusions can weaken them, and the International Gem Society advises careful handling and protective settings.
 
-- **Water.** OK. Warm water, detergent and a soft brush, the method in the International Gem Society [care guide](https://www.gemsociety.org/article/gemstone-care-guide/). Keep soaks brief, since our sources cover washing, not long soaks.
-- **Sun.** Brief only. Naturally colored sapphires may fade in intense artificial light and usually regain color in sunlight or UV, according to Gem-A. Nothing covers black stones specifically.
+- **Water.** OK. Warm water, detergent and a soft brush, the method in the International Gem Society [care guide](https://www.gemsociety.org/article/gemstone-care-guide/). Keep soaks brief, since the care guide covers washing, not long soaks.
+- **Sun.** Brief only. Naturally colored sapphires may fade in intense artificial light and usually regain color in sunlight or UV, according to Gem-A, which gives no advice for black stones specifically.
 - **Heat.** Brief only. Treated corundum may not withstand heat in a jewelry workshop, and fracture-filled stones can be damaged by standard workshop techniques (Gem-A). Tell your jeweler about any treatment before a repair.
-- **Chemicals.** Unknown. None of our sources covers cleaners or acids for black sapphire.
-- **Salt.** Unknown. None of our sources covers salt yet.
+- **Chemicals.** Unknown. We found no reference source on cleaners or acids for black sapphire.
+- **Salt.** Unknown. We found no reference source on salt yet.
 - **Cleaning machines.** Skip them for fractured stones and black star sapphires, as the dealer guide advises. Oil-treated sapphires may also have weaker inclusions (International Gem Society).
 - **Storage.** Give it its own pouch. At hardness 9 it scratches softer gems, and an included stone can still chip.
 - **Toxicity.** OK to wear and handle. The International Gem Society toxicity table lists no known risk for sapphire.
@@ -199,7 +206,7 @@ Usually much less than blue. Among star sapphires, "the color that is consistent
 
 Treatment still matters, because untreated sapphires usually sell for more than treated ones. If a black sapphire is priced like a fine blue one, ask why, and get the treatment in writing.
 
-[TO CHECK typical US retail ranges for loose faceted stones, cabochons, star stones, rings and stud earrings, with a dated source.]
+In the listings we checked, loose black star sapphires of about 3 to 4 carats, roughly 9 to 11 mm long, ran about $49 to $69 a stone. One listing we found, a 6-carat stone about 11 mm long, was about $120, and another, a 41-carat stone about 20 mm long, was about $533. The listings did not say stone by stone whether each was natural or lab-created, or treated, so ask before you buy. Prices from US-dollar listings at an online gem dealer in November 2026.
 
 **Next Step.** Choosing a black stone for protection? See how it compares with the usual picks in [crystals for protection](/crystals-for/protection/), or meet the rest of the family on our [sapphire page](/stones/sapphire/).
 
@@ -210,11 +217,17 @@ Treatment still matters, because untreated sapphires usually sell for more than 
 - International Gem Society, [Sapphire](https://www.gemsociety.org/article/sapphire-jewelry-and-gemstone-information/) and [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Emily Frontiere, International Gem Society, [Black Gemstones](https://www.gemsociety.org/article/black-gemstones/), updated April 14, 2025, and [Are Phenomenal Sapphires and Rubies Expensive?](https://www.gemsociety.org/article/are-phenomenal-sapphires-and-rubies-expensive/), updated June 4, 2026
 - Pat Daly, Gem-A, [5 Corundum Treatments in Rubies and Sapphires](https://gem-a.com/gem-hub/common-corundum-treatments/), May 1, 2023
-- Wikipedia, [Sapphire](https://en.wikipedia.org/wiki/Sapphire), used as a pointer only
-- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
+- Wim Vertriest and Simon Bruce-Lockhart, [Twelve-Rayed Star Sapphire from Thailand](https://www.gia.edu/articles/summer-2018-gemnews-twelve-rayed-star-sapphire-from-thailand), *Gems & Gemology*, Summer 2018, Vol. 54, No. 2
+- Gemological Institute of America, [An Introduction to Imitation Diamonds & Other Gems](https://www.gia.edu/gem-imitation), and [Lab Notes](https://www.gia.edu/articles/fall-1985-lab-notes), *Gems & Gemology*, Fall 1985, Vol. 21, No. 3
+- International Gem Society, [Lab-Grown Sapphires](https://www.gemsociety.org/article/lab-grown-sapphires), updated July 14, 2022
+- Peter M. Gollwitzer and Paschal Sheeran, "Implementation Intentions and Goal Achievement, a Meta-Analysis of Effects and Processes," *Advances in Experimental Social Psychology*, vol. 38, 2006, [DOI 10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)
+- Scott Cunningham, *Cunningham's Encyclopedia of Crystal, Gem & Metal Magic* (Llewellyn Publications, 1988), [Library of Congress record](https://www.loc.gov/item/87046256/)
+- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
+- 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
+- Prices from US-dollar listings at an online gem dealer, November 2026
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 7 to 8, 106 to 107 and 344, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), page 403, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- Modern associations from [Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/black-sapphire) (a dealer guide), [rockhounding.org](https://www.rockhounding.org/blog/black-crystals-in-nature/index.html) and [jewitch68.blogspot.com](https://jewitch68.blogspot.com/2020/10/crystals-black-sapphire.html), read November 18, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

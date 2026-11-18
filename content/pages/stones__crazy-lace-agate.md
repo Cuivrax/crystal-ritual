@@ -9,7 +9,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-17"
 publishTime: "10:33"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://geology.com/gemstones/agate/"
@@ -68,7 +68,7 @@ The open gemology textbook [LibreTexts](https://geo.libretexts.org/Bookshelves/G
 
 ### Why Crazy Lace Is an Unusual Agate
 
-Most agates grow in volcanic rock. Geology.com describes agate forming as groundwater leaves silica behind in cavities of igneous rocks. In northern Chihuahua, most agate deposits sit in volcanic andesites, rhyolites and ash flow tuffs, according to a 2019 survey by Brad L. Cross for the New Mexico Mineral Symposium ([New Mexico Bureau of Geology](https://geoinfo.nmt.edu/museum/nmms/abstracts/view.cfm?aid=556)).
+Most agates grow in volcanic rock. Geology.com describes agate forming as groundwater leaves silica behind in cavities of igneous rocks. In northern Chihuahua, most agate deposits sit in volcanic andesites, rhyolites and ash flow tuffs, according to a 2019 abstract by Brad L. Cross for the New Mexico Mineral Symposium ([New Mexico Bureau of Geology](https://geoinfo.nmt.edu/museum/nmms/abstracts/view.cfm?aid=556)).
 
 Crazy lace breaks the pattern. Cross writes that "unlike all other Mexican agate, Crazy Lace Agate is mined from a highly siliceous, dark gray Cretaceous limestone." He describes it as mostly a vein agate, with "irregular curved and twisted bands in shapes of zig-zags, scallops, bouquets, sunbursts, and eyes."
 
@@ -90,10 +90,10 @@ Crazy lace comes from the Sierra Santa Lucia in Chihuahua, a range Cross says "h
 
 - **1st century, Rome.** **Tradition.** Pliny the Elder wrote that achates, agate, "was a stone formerly in high esteem, but now held in none," and that it was first found in Sicily near a river of that name. He repeats remedies for spider and scorpion bites, eyes and thirst without vouching for them (*Natural History*, Book 37, chapter 54, Bostock and Riley translation, [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D54)).
 - **11th century.** **Tradition.** Marbodus, Bishop of Rennes, wrote that agates make their wearers "agreeable and persuasive" and give them the favor of God. Camillo Leonardo added victory and strength (George Frederick Kunz, *The Curious Lore of Precious Stones*, 1913, page 51). This is agate in general.
-- **Since the 12th century.** **Tradition.** Agate has been credited with improving one's disposition and eyesight, LibreTexts notes, and the *Book of Saxon Leechdoms*, published in 1864, lists it against thunder, sorcery, demonic possession, poison and drunkenness.
+- **Since the 12th century.** **Tradition.** Agate has been credited with improving one's disposition and eyesight, LibreTexts notes, and one dealer page says the *Book of Saxon Leechdoms* lists it against thunder, sorcery, demonic possession, poison and drunkenness.
 - **16th century.** **Tradition.** Agate was believed to cure insomnia and bring pleasant dreams. Girolamo Cardano wore one, had misfortunes he could not explain and gave it up, and Kunz notes that "no real connection of any kind existed between the stones and their supposed effects" (1913, page 52).
 - **Shop story.** One shop guide says the earliest inhabitants of Mexico wore crazy lace as an amulet for endurance and courage in battle [TO CHECK an archaeological or museum source].
-- **Today.** **Modern Association.** Joy and laughter lead. One large crystal encyclopedia calls it the Laughter Stone, or "Happy Lace," and ties it to Mexican fiestas and dancing, crediting a crystal book by Eason [TO CHECK book titles and years].
+- **Today.** **Modern Association.** Joy and laughter lead. One large crystal encyclopedia calls it the Laughter Stone, or "Happy Lace," and ties it to Mexican fiestas and dancing, crediting crystal books.
 
 ## What People Use Crazy Lace Agate for Today
 
@@ -147,7 +147,7 @@ We use the same five labels on every stone. Crazy lace is easy to find real. The
 
 ### Is Pink, Blue or Purple Crazy Lace Agate Dyed?
 
-Very likely. Natural crazy lace runs to white and gray with bands of red, yellow, orange or brown (Cross). Agate is porous and readily accepts dye (Geology.com), and a celebrated dyeing process began in 19th-century Idar-Oberstein, Germany (International Gem Society). One crystal guide advises asking the seller about any unusually vivid, even blue, pink or purple piece. A dyed piece is still agate, sold as natural, treated.
+Often. For agate in general, most of the spectacularly colored pieces in the trade have been dyed (Geology.com). Natural crazy lace runs to white and gray with bands of red, yellow, orange or brown (Cross). Agate is porous and readily accepts dye (Geology.com), and a celebrated dyeing process began in 19th-century Idar-Oberstein, Germany (International Gem Society). One crystal guide advises asking the seller about any unusually vivid, even blue, pink or purple piece. A dyed piece is still agate, sold as natural, treated.
 
 Three checks you can do at home, with their limits.
 

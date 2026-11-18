@@ -16,7 +16,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-20"
 publishTime: "05:59"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gia.edu/articles/fall-2017-dalmatian-jasper"
@@ -30,6 +30,7 @@ sources:
   - "https://www.gemstones.com/gemopedia/tourmalinated-quartz"
   - "https://www.americangemsociety.org/birthstones/"
   - "https://doi.org/10.1093/sleep/32.5.599"
+  - "https://988lifeline.org/"
   - "https://www.healingcrystals.com/Tumbled_Dalmatian_Jasper__India__-_Tumbled_Stones.html"
   - "https://thecrystalcouncil.com/crystals/dalmatian-stone/products"
   - "https://beadsofcambay.com/blogs/meaning/dalmatian-jasper-meaning"
@@ -136,7 +137,7 @@ Guides also put it in everyday places, by the front door as a "gatekeeper," on a
 
 **What Research Says.** In a 2009 randomized controlled trial, 405 mothers and their babies or toddlers, aged 7 to 36 months, either followed a consistent nightly bedtime routine for three weeks or kept their usual one. The children in the routine group fell asleep faster and woke less often in the night, and their mothers' mood improved too ([Mindell and colleagues, *Sleep*](https://doi.org/10.1093/sleep/32.5.599)). It was a study of young children, not adults, their sleep was reported by their mothers, and it lasted only three weeks. No stones were involved. The routine did the work, so if a spotted guard helps your child accept a routine, the routine is the part that counts.
 
-> **When a Stone Is Not Enough.** Dalmatian jasper is often chosen for nightmares, sleep and stress, and some guides offer it for pets. A stone can be part of a comforting routine, but it is not care. If nightmares or poor sleep keep coming back, for you or your child, talk to a doctor or a pediatrician. For a pet, talk to a vet, and never use a stone in place of treatment. Our guide to [crystals for sleep](/crystals-for/sleep/) has more gentle routines.
+> **When a Stone Is Not Enough.** Dalmatian jasper is often chosen for nightmares, sleep and stress, and some guides offer it for pets. A stone can be part of a comforting routine, but it is not care. If nightmares or poor sleep keep coming back, for you or your child, talk to a doctor or a pediatrician. For a pet, talk to a vet, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. Our guide to [crystals for sleep](/crystals-for/sleep/) has more gentle routines.
 
 ## Is My Dalmatian Jasper Real?
 
@@ -202,8 +203,9 @@ Dalmatian stone is common and inexpensive, which is part of why manufacturers li
 - International Gem Society, [Jasper](https://www.gemsociety.org/article/jasper-gem-information/) and [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/) with its toxicity table
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
 - J. A. Mindell, L. S. Telofski, B. Wiegand and E. S. Kurtz, "A Nightly Bedtime Routine, Impact on Sleep in Young Children and Maternal Mood," *Sleep* 32(5), 2009, [doi.org/10.1093/sleep/32.5.599](https://doi.org/10.1093/sleep/32.5.599)
+- 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
 - Retail prices from US-dollar listings at online crystal shops, read November 2026
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

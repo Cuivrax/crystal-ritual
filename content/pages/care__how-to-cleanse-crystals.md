@@ -10,7 +10,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-21"
 publishTime: "07:27"
-status: "draft"
+status: "verified"
 page_type: "guide"
 sources:
   - "https://www.gemsociety.org/article/care-maintenance-gemstones/"
@@ -52,13 +52,15 @@ sources:
   - "https://otherworldlyoracle.com/selenite-crystal-properties/"
   - "https://www.crystals.com/blogs/news/selenite-meaning-properties"
   - "https://ontrip.jal.co.jp/_ct/17549692"
+  - "https://www.epa.gov/indoor-air-quality-iaq/sources-indoor-particulate-matter-pm"
+  - "https://vetmed.illinois.edu/pet-health-columns/bad-for-birds-prevent-poisoning-in-avian-pets/"
 ---
 
 # How to Cleanse Crystals Without Damaging Them
 
 To cleanse crystals without damaging them, split the job in two. Clean off dust and skin oil with lukewarm water, mild soap and a soft brush, if your stone can take water. Then, if you enjoy the ritual, use moonlight, sound or smoke, which need no water or salt. Water, salt and sun need checking stone by stone.
 
-<!-- PHOTO TO FIND, hero. Owner photo wanted, hands rinsing a tumbled quartz under a slow tap with a soft brush beside it, a bowl of small stones drying on a cloth. No licensed candidate in images_candidates.csv or images_commons_candidates.csv shows this, and a generated image must not stand in for a real stone. -->
+<!-- PHOTO HERO. File site/photos/care__how-to-cleanse-crystals/hero.jpg. Source Unsplash, https://unsplash.com/photos/G3ttEY6r7J0 . License Unsplash License. Credit "Photo by Esther Verdu on Unsplash". Visual check 2026-11-18, Crystals on white fur beside a chakra card. -->
 
 ## Cleaning vs Cleansing, Two Different Jobs
 
@@ -66,7 +68,7 @@ To cleanse crystals without damaging them, split the job in two. Clean off dust 
 
 **Modern Association.** Cleansing is a belief. In modern crystal practice a stone is said to pick up the energy of the people and places around it and to need a regular reset. Modern guides name moonlight, sound, smoke and running water most often. Some guides suggest a reset every two weeks. Others suggest one when a stone arrives as a gift or starts to "feel heavy", a phrase that comes up often in crystal forums.
 
-**Tradition.** The habit is hard to date [TO CHECK a dated source for the modern cleansing practice]. Older gem lore uses the words differently. When Kunz's sources call a diamond "purified", they mean a Hindu medicinal recipe of fire and immersion repeated for seven days, before the stone was burned to ash (*The Curious Lore of Precious Stones*, 1913, pages 377 to 378). The closest thing to today's rinse comes from the medieval scholar Albertus Magnus, who wrote that a sapphire used as an eyestone should be dipped in cold water before and after use. Kunz guessed the point was to cleanse it, "certainly a very necessary proceeding" when one stone passed between many patients (page 387). Hygiene, in other words. Please do not copy the remedy.
+**Tradition.** Cleansing a stone as a regular reset is a modern practice, and we found no dated source for when it began. Older gem lore uses the words differently. When Kunz's sources call a diamond "purified", they mean a Hindu medicinal recipe of fire and immersion repeated for seven days, before the stone was burned to ash (*The Curious Lore of Precious Stones*, 1913, pages 377 to 378). The closest thing to today's rinse comes from the medieval scholar Albertus Magnus, who wrote that a sapphire used as an eyestone should be dipped in cold water before and after use. Kunz guessed the point was to cleanse it, "certainly a very necessary proceeding" when one stone passed between many patients (page 387). Hygiene, in other words. Please do not copy the remedy.
 
 ## Cleansing Methods at a Glance
 
@@ -104,7 +106,7 @@ Want the full list? See [which crystals can go in water](/care/crystals-that-can
 
 ## Can You Cleanse Crystals With Salt?
 
-Not by our data. No stone in it is cleared for salt or salt water. Hot salt water is listed as dissolving opal, and aragonite dissolves slowly in salt water, both according to Wikipedia ([opal](https://en.wikipedia.org/wiki/Opal), [aragonite](https://en.wikipedia.org/wiki/Aragonite)), which we keep as warnings. For clear quartz, our data leaves salt unrated.
+Not by our data. No stone in it is cleared for salt or salt water. Opal is often listed as soluble in hot salt water, and aragonite as dissolving slowly in salt water, so our data flags aragonite and many kinds of opal. For clear quartz, our data leaves salt unrated.
 
 Crystal guides disagree with each other here too. One rose quartz guide suggests adding salt to the rinse water ([Djuna](https://www.djuna.co.uk/blogs/the-beadzine/rose-quartz-meaning-benefits-and-healing-properties)), while another calls salt corrosive for the same stone ([crystals.com](https://www.crystals.com/blogs/news/rose-quartz-meaning)). Asking about a Himalayan salt bath for obsidian? Same answer.
 
@@ -114,7 +116,7 @@ Crystal guides disagree with each other here too. One rose quartz guide suggests
 
 It can, and this is where the crystal guides and the gem references most often part ways. Our care data says this.
 
-- **Keep out of strong sun.** Smoky quartz (Wikipedia), kunzite (Wikipedia), celestite (dealers), chrysoprase, some of which fades ([Geology.com](https://geology.com/gemstones/chrysoprase/)), azurite, which loses its blue in air, heat and light ([IGS](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/)), and blue zircon, which UV from tanning beds or nail lamps turns brown ([GIA](https://www.gia.edu/gems-gemology/fall-2016-reversible-color-modification-blue-zircon-long-wave-ultraviolet-radiation)). Dyed stones such as black agate belong here too.
+- **Keep out of strong sun.** Smoky quartz and kunzite, both often said to fade in UV light or sunlight, celestite (dealers), chrysoprase, some of which fades ([Geology.com](https://geology.com/gemstones/chrysoprase/)), azurite, which loses its blue in air, heat and light ([IGS](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/)), and blue zircon, which UV from tanning beds or nail lamps turns brown ([GIA](https://www.gia.edu/gems-gemology/fall-2016-reversible-color-modification-blue-zircon-long-wave-ultraviolet-radiation)). Dyed stones such as black agate belong here too.
 - **Short spells only.** GIA says some amethyst and some citrine can fade with prolonged exposure to intense light ([GIA amethyst](https://www.gia.edu/amethyst-care-cleaning), [GIA citrine](https://www.gia.edu/citrine-care-cleaning)). Fluorite and turquoise sit here as well.
 - **Fine in the sun.** Malachite keeps its green ([Geology.com](https://geology.com/minerals/malachite.shtml)), and so does rose quartz, which may surprise you.
 
@@ -126,9 +128,9 @@ These touch the stone with nothing, or almost nothing, so our care data has no r
 
 - **Moonlight.** A windowsill overnight is the classic. Bring fade-prone stones in before the morning sun reaches them, and keep water-shy ones off a dewy porch. The night of the full moon is the usual pick, and [Tonight's Moon](/moon/full-moon-calendar/) has the date. The moon has carried two reputations for a long time. Kunz notes it was sometimes thought baleful, tied to "lunacy", and at other times believed to drive off the powers of darkness (1913, pages 27 to 29).
 - **Sound.** A singing bowl, a bell or a tuning fork near the stone, the tools crystal guides name most. A few claps work too.
-- **Smoke.** Pass the stone through the smoke, not the flame. Our data marks heat as a risk for many stones, including amethyst, citrine, turquoise, opal, obsidian and selenite. Smoke clears quickly in a ventilated room, but burning sage, palo santo or incense indoors adds fine particles to the air. Open a window, keep the room ventilated, and keep pets, birds and anyone with asthma or a lung condition away from the smoke [TO CHECK health source on indoor incense and smoke].
+- **Smoke.** Pass the stone through the smoke, not the flame. Our data marks heat as a risk for many stones, including amethyst, citrine, turquoise, opal, obsidian and selenite. The EPA notes that burning almost anything produces tiny particles, and that particle pollution can aggravate asthma and decrease lung function. It asks for proper ventilation when you burn candles or incense indoors ([EPA](https://www.epa.gov/indoor-air-quality-iaq/sources-indoor-particulate-matter-pm)). Treat a sage bundle or a palo santo stick the same way. Open a window, and keep anyone with asthma or a lung condition away from the smoke. Keep pet birds out of the room altogether. A bird's respiratory system is very sensitive, and the University of Illinois College of Veterinary Medicine says aerosols such as smoking or vaping may be toxic to birds ([Illinois Vet Med](https://vetmed.illinois.edu/pet-health-columns/bad-for-birds-prevent-poisoning-in-avian-pets/)). Other pets are best kept out of the smoke too.
 - **Selenite plate.** Some guides call selenite self-cleansing and use it to cleanse other stones ([Otherworldly Oracle](https://otherworldlyoracle.com/selenite-crystal-properties/), [crystals.com](https://www.crystals.com/blogs/news/selenite-meaning-properties)). Physically, gypsum is easy to scratch ([IGS](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/)), so set stones down on the plate instead of sliding them, and keep the plate dry.
-- **Quartz cluster or geode.** Quartz rates 7 on the Mohs scale, harder than most natural substances ([Geology.com](https://geology.com/minerals/quartz.shtml)). Rest softer stones on a cloth on top of the cluster. Japanese-language guides in our collection also use a bed of small quartz chips called sazare ([JAL Ontrip](https://ontrip.jal.co.jp/_ct/17549692)). Our data flags moonstone, opal, fluorite, malachite, obsidian and labradorite as easy to scratch or chip.
+- **Quartz cluster or geode.** Quartz rates 7 on the Mohs scale, harder than most natural substances ([Geology.com](https://geology.com/minerals/quartz.shtml)). Rest softer stones on a cloth on top of the cluster. Some Japanese-language guides also use a bed of small quartz chips called sazare ([JAL Ontrip](https://ontrip.jal.co.jp/_ct/17549692)). Our data flags moonstone, opal, fluorite, malachite, obsidian and labradorite as easy to scratch or chip.
 - **Brown rice.** A bowl of dry rice touches the stone with nothing harmful. The rice goes in the compost afterward, not the pot.
 - **Burying in soil.** Hours or days in damp earth is a long soak with extra grit, so use it only for stones rated OK for water, and mark the spot.
 - **Breath and intention.** Hold the stone, breathe out slowly over it and restate why you keep it. The gentlest method there is.
@@ -142,9 +144,9 @@ These touch the stone with nothing, or almost nothing, so our care data has no r
 3. **Wash it, if it can take water.** Lukewarm water, a drop of mild dish soap and the soft brush ([IGS](https://www.gemsociety.org/article/care-maintenance-gemstones/)).
 4. **Rinse fast, dry at once.** Pat it dry with a soft cloth and let it air dry before you put it away.
 5. **Water-shy stones get a damp cloth.** Wipe, then dry right away. For selenite, the International Gem Society says hand clean with warm water only, no detergent, pat dry and do not rub or scrub ([IGS](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/)).
-6. **Skip the machines.** Our sources warn against vibration or heat cleaners for selenite and against steam for hematite and amethyst ([IGS hematite](https://www.gemsociety.org/article/hematite-jewelry-and-gemstone-information/), [GIA amethyst](https://www.gia.edu/amethyst-care-cleaning)).
+6. **Skip the machines.** Gem references warn against vibration or heat cleaners for selenite and against steam for hematite and amethyst ([IGS hematite](https://www.gemsociety.org/article/hematite-jewelry-and-gemstone-information/), [GIA amethyst](https://www.gia.edu/amethyst-care-cleaning)).
 
-Bead bracelets on elastic are their own case, since the cord may not like water even when the stones do [TO CHECK a source on stretch cord and water].
+Bead bracelets on elastic are their own case, since the cord may not take water as well as the stones do. As general care, wipe the beads with a soft, damp cloth instead of soaking the bracelet, and let it dry flat before you wear it.
 
 ## Safety First
 
@@ -174,12 +176,12 @@ Whatever you believe about the stones, the routine does two things for sure. It 
 - Gemological Institute of America, care pages for [amethyst](https://www.gia.edu/amethyst-care-cleaning), [citrine](https://www.gia.edu/citrine-care-cleaning) and [rose quartz](https://www.gia.edu/rose-quartz-care-cleaning), and Gems & Gemology, [reversible color modification of blue zircon](https://www.gia.edu/gems-gemology/fall-2016-reversible-color-modification-blue-zircon-long-wave-ultraviolet-radiation) (2016)
 - Hobart M. King, Geology.com, [Ethiopian opal](https://geology.com/gemstones/opal/ethiopian-opal.shtml), [halite](https://geology.com/minerals/halite.shtml), [turquoise](https://geology.com/minerals/turquoise.shtml), [lapis lazuli](https://geology.com/gemstones/lapis-lazuli/), [chrysoprase](https://geology.com/gemstones/chrysoprase/), [malachite](https://geology.com/minerals/malachite.shtml), [quartz](https://geology.com/minerals/quartz.shtml) and [moonstone](https://geology.com/gemstones/moonstone/)
 - Minerals.net, [Halite](https://www.minerals.net/mineral/halite)
-- Wikipedia, [Opal](https://en.wikipedia.org/wiki/Opal), [Aragonite](https://en.wikipedia.org/wiki/Aragonite) and [Smoky Quartz](https://en.wikipedia.org/wiki/Smoky_quartz), kept as warnings only
-- Dealer guides, [GemSelect cleaning table](https://gemselect.com/gem-info/cleaning.php) and [Gemstones.com angelite](https://www.gemstones.com/gemopedia/angelite)
+- US Environmental Protection Agency, [Sources of Indoor Particulate Matter](https://www.epa.gov/indoor-air-quality-iaq/sources-indoor-particulate-matter-pm) (updated March 10, 2026)
+- University of Illinois College of Veterinary Medicine, [Bad for Birds, Prevent Poisoning in Avian Pets](https://vetmed.illinois.edu/pet-health-columns/bad-for-birds-prevent-poisoning-in-avian-pets/) (April 9, 2026)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 27 to 29, 377 to 378 and 387, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
 - Care ratings from our own care database, the same data as the [Care Checker](/tools/crystal-care-checker/), generated November 18, 2026
-- Modern cleansing practices from crystal guides, including crystals.com, otterspirit.com, djuna.co.uk, journee-mondiale.com, otherworldlyoracle.com and ontrip.jal.co.jp
+- Modern cleansing practices as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

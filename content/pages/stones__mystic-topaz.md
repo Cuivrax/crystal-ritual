@@ -26,7 +26,11 @@ sources:
   - "https://www.gemsociety.org/article/from-silicon-to-sparkle-the-story-behind-azotics-gemstone-revolution/"
   - "https://geology.com/minerals/topaz.shtml"
   - "https://geology.com/minerals/quartz.shtml"
-  - "https://en.wikipedia.org/wiki/Topaz"
+  - "https://www.gia.edu/topaz/buyers-guide"
+  - "https://www.gia.edu/gem-imitation"
+  - "https://doi.org/10.1016/S0065-2601(06)38002-1"
+  - "https://988lifeline.org/"
+  - "https://cnmnc.units.it/"
   - "https://skyjems.ca/pages/encyclopedia-mystic-topaz"
   - "https://www.gemselect.com/english/help/faq/mystic-topaz-gems.php"
   - "https://www.gemselect.com/english/gem-info/mystic-topaz/mystic-topaz-info.php"
@@ -65,7 +69,7 @@ Mystic topaz is natural colorless topaz with a metal film, most often titanium, 
 | Salt | Unknown |
 | Ultrasonic and steam | Avoid |
 | Toxic to handle | No known risk |
-| Price range | Modest, typically under $50 per carat for 1-carat stones, per a dealer |
+| Price range | Modest. Set by the look of the coating, the cut and the size, not rarity |
 | Birthstone | Topaz is November. Mystic topaz is not on the list |
 | Chakra (Modern Association) | Crown and third eye, or all chakras, depending on the guide |
 
@@ -81,7 +85,7 @@ On our five-step ladder, mystic topaz is **Natural, treated (coated)**, sold und
 
 ## What Mystic Topaz Actually Is
 
-**The Stone.** Under the film is ordinary topaz, a silicate of aluminum and fluorine. It rates 8 on the Mohs scale and has a specific gravity of 3.4 to 3.6, says [Geology.com](https://geology.com/minerals/topaz.shtml), and most topaz crystals are colorless. Brazil is the principal source of gem-quality topaz (International Gem Society). Where the colorless rough for mystic topaz is mined and where it is coated is not covered here [TO CHECK].
+**The Stone.** Under the film is ordinary topaz, a silicate of aluminum and fluorine. It rates 8 on the Mohs scale and has a specific gravity of 3.4 to 3.6, says [Geology.com](https://geology.com/minerals/topaz.shtml), and most topaz crystals are colorless. Brazil is the principal source of gem-quality topaz (International Gem Society), but we found no reference source on where the colorless rough for mystic topaz is mined or where it is coated. An origin on the tag is the seller's claim, so ask who coated the stone as well as where it was mined.
 
 Colorless topaz is cheap, and treatment is what sells it. Most topaz in commercial jewelry has been heated, irradiated or coated, Geology.com notes, and the most affordable, most often bought topaz is the blue and mystic material that got its color from treatment.
 
@@ -145,9 +149,9 @@ A few associations are marginal, like specific star signs linked through Jupiter
 
 **Safety.** Loose stones and small jewelry are not toys. Keep them away from small children and pets who might swallow them.
 
-**What Research Says.** [TO CHECK a peer-reviewed study with DOI on perspective-taking or structured decision exercises, and say plainly that it did not use stones.] Until then, treat these as personal practices.
+**What Research Says.** The desk cue is an if-then plan, "when I catch myself playing it safe, I jot one idea." A 2006 meta-analysis by Peter Gollwitzer and Paschal Sheeran, pooling published lab and field studies, found that people who made if-then plans like that were more likely to act on a goal than people who only intended to ([DOI 10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)). The studies covered everyday goals, not stones, and a plan helps most with something you already want to do. Treat the three-angle decision as a personal practice.
 
-> **When a Stone Is Not Enough.** Some guides tie mystic topaz to calm and emotional healing. A stone can be a pleasant thing to hold, but it is not care. If anxiety or low mood lasts or feels heavy, talk to a doctor or a therapist.
+> **When a Stone Is Not Enough.** Some guides tie mystic topaz to calm and emotional healing. A stone can be a pleasant thing to hold, but it is not care. If anxiety or low mood lasts or feels heavy, talk to a doctor or a therapist. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Mystic Topaz Real?
 
@@ -156,7 +160,7 @@ Here "real" means honest. Is it coated topaz, as the tag says, or coated quartz,
 - **Natural, untreated.** Not possible under this name. Without the coating it is colorless, or white, topaz.
 - **Natural, treated.** This is mystic topaz, natural topaz with a metallic coating. Some topaz is also heated before coating (Geology.com).
 - **Lab-grown.** Topaz has been synthesized in labs but is not usually commercially available (International Gem Society), so the base is almost certainly natural topaz or quartz.
-- **Imitation.** Mystic Quartz is the same coating on quartz, fine if labeled. [TO CHECK whether coated glass is sold as mystic topaz.]
+- **Imitation.** Mystic Quartz is the same coating on quartz, fine if labeled. We found no reference source on coated glass sold as mystic topaz, though GIA notes that manufactured glass is an age-old gem imitation still used today ([GIA](https://www.gia.edu/gem-imitation)), so a very cheap rainbow stone with no mineral name on the tag deserves a question.
 - **Trade names.** Mystic, Mystic Fire, Rainbow topaz, Caribbean topaz and azotic topaz all describe coated stones.
 
 ### Is Mystic Topaz Natural?
@@ -177,11 +181,11 @@ The care rules come from two facts. Topaz has perfect cleavage, so a hard knock 
 
 **Mineral Fact.** Topaz rates 8, but because of its perfect cleavage the International Gem Society warns that both vibrations and heat could cause it to split. The coating is permanent under careful wear but not as robust as the topaz beneath, according to Skyjems. GemSelect calls the film hard and durable on the back, while the International Gem Society says the coating "can easily be scratched" and Geology.com says these coatings can wear through in normal wear. We follow the cautious side.
 
-- **Water.** OK. Mild soap, warm water and a soft brush (Skyjems and the International Gem Society). Keep soaks brief, since our sources cover washing, not long soaks.
+- **Water.** OK. Mild soap, warm water and a soft brush (Skyjems and the International Gem Society), and GIA's [topaz buyer's guide](https://www.gia.edu/topaz/buyers-guide) says coated topaz must only be cleaned with mild soapy water. Keep soaks brief, since these guides cover washing, not long soaks.
 - **Ultrasonic and steam.** Avoid. Both can damage the coating, and vibration and heat can split topaz.
 - **Heat.** Avoid. Keep it away from heat and from a jeweler's torch.
 - **Chemicals.** Avoid. Strong chemicals can damage or remove the coating (Skyjems). One crystal guide adds jewelry dips and household cleaners to the list.
-- **Sun.** Unknown. None of our sources covers sunlight for mystic topaz.
+- **Sun.** Unknown. We found no reference source on sunlight and mystic topaz.
 - **Salt.** Unknown. One crystal guide warns against burying it in salt or soil, since the grit can scratch the surface.
 - **Scratches.** Brief only. A scratched coating cannot be repaired in the field and must be re-coated by the producer or a specialist (Skyjems).
 - **Storage.** Give it a soft pouch of its own, away from harder stones and metal.
@@ -205,11 +209,11 @@ A quick wash, yes. A long soak or a dip in cleaner, no. Salt has no reference so
 
 ### How Much Is Mystic Topaz Worth?
 
-Not much, and that is part of its appeal. Retail prices are typically under fifty US dollars per carat for one-carat stones and rise moderately with size, according to Skyjems, which calls it affordable fashion jewelry rather than fine jewelry. Geology.com notes that most topaz in department and mall jewelry stores at low to moderate prices has been treated in a laboratory.
+Not much, and that is part of its appeal. The starting material is cheap. Colorless topaz is common, and the International Gem Society notes that before the 1960s treatment that turns it blue, it could be bought cheaply by the ton.
 
-What you pay for is the setting, the cut and the look, not rarity. If a seller prices mystic topaz like a rare natural gem, ask why. If a scratched stone needs re-coating, ask a jeweler about the cost before you assume it can be done.
+What you pay for is the look, the cut and the setting, not rarity. GIA's [topaz buyer's guide](https://www.gia.edu/topaz/buyers-guide) calls color the most important quality factor for topaz and cut one of the most important factors in appearance. On a mystic stone the color is the coating, so judge how strong and even the rainbow looks as you tilt it. Its condition counts too, since the International Gem Society says the coating can easily be scratched. If a seller prices mystic topaz like a rare natural gem, ask why. If a scratched stone needs re-coating, ask a jeweler about the cost before you assume it can be done.
 
-[TO CHECK typical US retail ranges for pendants, rings and earrings, with a dated source.]
+We give no price figures here, since the mystic topaz listings we found in November 2026 had sold or closed.
 
 **Next Step.** Curious what plain topaz is like without the film? Meet the mineral on our [topaz page](/stones/topaz/).
 
@@ -220,13 +224,13 @@ What you pay for is the setting, the cut and the look, not rarity. If a seller p
 - Addison Rice, International Gem Society, [Common Gemstone Treatments Cheat Sheet](https://www.gemsociety.org/article/common-gemstone-treatments-cheat-sheet-2/), updated July 16, 2022
 - Fara Braid, International Gem Society, [Topaz Symbolism and Legends](https://www.gemsociety.org/article/history-legend-topaz-gems-yore/), updated October 22, 2023
 - Hobart M. King, Geology.com, [Topaz](https://geology.com/minerals/topaz.shtml) and [Quartz](https://geology.com/minerals/quartz.shtml)
-- Wikipedia, [Topaz](https://en.wikipedia.org/wiki/Topaz), used as a pointer only
-- Skyjems, [Mystic Topaz encyclopedia](https://skyjems.ca/pages/encyclopedia-mystic-topaz), a dealer reference
-- GemSelect, [Mystic Topaz Gems](https://www.gemselect.com/english/help/faq/mystic-topaz-gems.php) and [Mystic Topaz Information](https://www.gemselect.com/english/gem-info/mystic-topaz/mystic-topaz-info.php), dealer pages
-- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
+- Gemological Institute of America, [Topaz Buyer's Guide](https://www.gia.edu/topaz/buyers-guide) and [An Introduction to Imitation Diamonds & Other Gems](https://www.gia.edu/gem-imitation)
+- Peter M. Gollwitzer and Paschal Sheeran, "Implementation Intentions and Goal Achievement, a Meta-Analysis of Effects and Processes," *Advances in Experimental Social Psychology*, vol. 38, 2006, [DOI 10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)
+- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
+- 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 133 to 134, 291 and 389 to 390, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), page 158, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- Modern associations from [crystalgemstones.net](https://crystalgemstones.net/mystic-topaz-meaning-and-spiritual-properties.html), [Shiels](https://www.shiels.com.au/a/blog/everything-you-need-to-know-about-mystic-topaz) and GemSelect, read November 18, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

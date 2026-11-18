@@ -55,7 +55,7 @@ sources:
 
 Orange calcite is an orange form of calcite, the soft calcium carbonate mineral that makes up limestone and marble. Crystal lovers call it a stone of creativity, joy and motivation and tie it to the sacral chakra. Those meanings are modern beliefs. The stone itself rates only 3 on the Mohs scale, and vinegar dissolves it.
 
-<!-- PHOTO TO FIND, hero. No orange calcite photo in our image files has a good visual check. The 8 Smithsonian CC0 rows matched "calcite" but were checked "wrong" or "doubt" (gold, lead, galena, silver, baryte, a brown geode), never use them. Wikimedia Commons candidates to check, none with a visual check yet. "File Orange calcite (11879314984).jpg" and "File Orange calcite (11879323154).jpg" by James Petts, pages https://commons.wikimedia.org/wiki/File:Orange_calcite_(11879314984).jpg and https://commons.wikimedia.org/wiki/File:Orange_calcite_(11879323154).jpg , license CC BY-SA 2.0, credit line "Photo James Petts from London, England, CC BY-SA 2.0, via Wikimedia Commons". "File Calcite orange.JPG" by Parent Géry, page https://commons.wikimedia.org/wiki/File:Calcite_orange.JPG , license CC BY-SA 3.0. Check visually and log visual_check before use. -->
+<!-- PHOTO HERO. File site/photos/stones__orange-calcite/hero.jpg. Source Openverse/Flickr, https://www.flickr.com/photos/14730981@N08/11920279634 . License BY-SA 2.0. Credit "Photo by James E. Petts on Flickr (BY-SA 2.0)". Visual check 2026-11-18, Glowing amber-orange rough calcite on white; alt tumbled with white band on black. -->
 
 ## Orange Calcite Quick Facts
 
@@ -95,7 +95,7 @@ Possibly iron, but the cause has not been pinned down. A UK mineral seller says 
 
 ### Where It Comes From
 
-Geology Superstore sells its orange calcite as rough collected in Mexico. Amethyst Galleries names classic amber-orange "dogtooth spar," calcite crystals with sharp points like a canine tooth, from Pugh Quarry in Ohio, Elmwood in Tennessee and Cornwall in England. [Minerals.net](https://www.minerals.net/mineral/calcite.aspx) adds orange crystals from York, Pennsylvania, and yellow and orange crystals, sometimes in "butterfly twins," from Malmberget in Swedish Lapland. US crystal shops also label their rough chunks as Mexican, and one sells a bag from Canada. We found no reference source on where most tumbled stones and spheres are mined.
+Geology Superstore sells its orange calcite as rough collected in Mexico. Amethyst Galleries names classic amber-orange "dogtooth spar," calcite crystals with sharp points like a canine tooth, from Pugh Quarry in Ohio, Elmwood in Tennessee and Cornwall in England. [Minerals.net](https://www.minerals.net/mineral/calcite.aspx) adds orange crystals from York, Pennsylvania, and yellow and orange crystals, sometimes in "butterfly twins," from Malmberget in Swedish Lapland. Online crystal shops also label their rough chunks as Mexican, and one sells a bag from Canada. We found no reference source on where most tumbled stones and spheres are mined.
 
 ### Orange, Honey or Yellow Calcite?
 
@@ -152,9 +152,9 @@ Is it psychology or energy? Owners disagree, and the ritual below works the same
 We use the same five labels on every stone.
 
 - **Natural, untreated.** Orange is one of calcite's normal colors, and calcite is so common that the International Gem Society gives it little intrinsic value. A bright orange sphere is not a red flag in itself.
-- **Natural, treated.** Calcite can be dyed. The dealer reference [Gemstones.com](https://www.gemstones.com/gemopedia/calcite) says to look for dye concentrations, and [Lang Antiques](https://www.langantiques.com/university/calcite-2/) also lists wax and plastic impregnation and irradiation for calcite. No source documents dyed orange calcite specifically. [TO CHECK]
-- **Lab-grown.** [TO CHECK whether synthetic orange calcite is sold.]
-- **Imitation.** [TO CHECK which glass, resin or dyed stones are sold as orange calcite.]
+- **Natural, treated.** Calcite can be dyed. The dealer reference [Gemstones.com](https://www.gemstones.com/gemopedia/calcite) says to look for dye concentrations, and [Lang Antiques](https://www.langantiques.com/university/calcite-2/) also lists wax and plastic impregnation and irradiation for calcite. Dyed orange calcite is documented. In a 2024 report, GIA's Hong Kong lab identified a 140.58 carat orange sphere imitating a Melo pearl as dyed calcite, with orange dye concentrations visible under high magnification ([*Gems & Gemology*, 2024](https://www.gia.edu/gems-gemology/fall-2024-lab-notes-two-imitation-melo-pearls)).
+- **Lab-grown.** We found no reference source describing lab-grown orange calcite on the market.
+- **Imitation.** We found no reference source on glass, resin or other stones sold as orange calcite. The documented problem runs the other way, calcite dyed to pass as something else.
 - **Trade names.** Mexican onyx is banded calcite, not quartz onyx (Amethyst Galleries). "Alabaster" is wrong for calcite (International Gem Society). Calcite also travels under other stones' names, and GIA has reported dyed marble, mostly calcite, sold as jadeite ([GIA, 2014](https://www.gia.edu/articles/winter-2014-gemnews-dyed-green-marble-imitating-jadeite)).
 
 Three checks you can do at home, with their limits.
@@ -177,8 +177,8 @@ Carnelian is a semi-opaque to highly translucent orange to red chalcedony, color
 
 **Mineral Fact.** Calcite is very soft and generally unsuitable for jewelry, according to the dealer reference Gemstones.com. Here is what our care data says.
 
-- **Water.** Brief only. No source gives a care rule for plain water, but slightly acidic groundwater dissolves calcite over years, which is how caves form (Amethyst Galleries, [Wikipedia](https://en.wikipedia.org/wiki/Calcite)).
-- **Sun.** Unknown. None of our sources covers light exposure for orange calcite yet.
+- **Water.** Brief only. No source gives a care rule for plain water, but slightly acidic groundwater dissolves calcite over years, which is how caves form (Amethyst Galleries).
+- **Sun.** Unknown. No source covers light exposure for orange calcite yet.
 - **Heat.** Avoid. A dealer guide says to avoid heat (Gemstones.com), and calcite decrepitates, bursting apart, at higher temperatures (Lang Antiques).
 - **Chemicals.** Avoid. Calcite fizzes and dissolves even in vinegar (Amethyst Galleries, Gemstones.com).
 - **Salt.** Unknown. No source covers salt yet, so skip salt until one does.
@@ -188,7 +188,7 @@ Carnelian is a semi-opaque to highly translucent orange to red chalcedony, color
 
 ### Can Orange Calcite Get Wet?
 
-Only briefly. Our Care Checker rates water as Brief only, because no source gives a plain-water rule for orange calcite and slightly acidic water dissolves calcite over time. Guides disagree, one telling you never to expose it to water (Crystals.com) and another suggesting a soak of a few hours ([Fierce Lynx Designs](https://fiercelynxdesigns.com/blogs/articles/calcite-gemstone-information)). Skip the soak. If it gets splashed, pat it dry. Our sources give no positive cleaning method, so skip the alcohol wipe too, since Gemstones.com lists solvents among things to avoid.
+Only briefly. Our Care Checker rates water as Brief only, because no source gives a plain-water rule for orange calcite and slightly acidic water dissolves calcite over time. Guides disagree, one telling you never to expose it to water (Crystals.com) and another suggesting a soak of a few hours ([Fierce Lynx Designs](https://fiercelynxdesigns.com/blogs/articles/calcite-gemstone-information)). Skip the soak. If it gets splashed, pat it dry. Our Care Checker lists no positive cleaning method, so skip the alcohol wipe too, since Gemstones.com lists solvents among things to avoid.
 
 ### Can Orange Calcite Go in the Sun?
 
@@ -200,9 +200,9 @@ Cleansing is a belief, not a mineral process, and the gentle versions suit a sof
 
 ## Price Guide
 
-Calcite is common and abundant, so the International Gem Society gives the material little intrinsic value. In November 2026 a UK mineral shop listed a 1 kg bag of Mexican orange calcite rough at £15 before VAT, out of stock at the time (Geology Superstore). Amethyst Galleries calls Mexican onyx carvings attractive and affordable, "a rare combination."
+Calcite is common and abundant, so the International Gem Society gives the material little intrinsic value. Amethyst Galleries calls Mexican onyx carvings attractive and affordable, "a rare combination."
 
-[TO CHECK typical US retail ranges for orange calcite rough, tumbled stones, palm stones and spheres, with a dated source.]
+Raw chunks cost very little. One listing we found priced a rough piece about 1.5 inches wide at $2, and another a 1.5 to 2 inch piece at $4, both on sale. These are single listings, not full ranges. Prices from US-dollar listings at online crystal shops in November 2026.
 
 **Next Step.** Starting a creative project this winter? Set your stone on the plan, then read how the same mineral behaves in [blue calcite](/stones/blue-calcite/).
 
@@ -210,14 +210,16 @@ Calcite is common and abundant, so the International Gem Society gives the mater
 
 - Amethyst Galleries, [The Mineral Calcite](https://galleries.com/minerals/carbonat/calcite/calcite.htm), and Hobart M. King, Geology.com, [Calcite](https://geology.com/minerals/calcite.shtml), [Sunstone](https://geology.com/gemstones/sunstone/) and [Carnelian](https://geology.com/gemstones/carnelian/)
 - International Gem Society, [Calcite](https://www.gemsociety.org/article/calcite-jewelry-gemstone-information/), [Carnelian](https://www.gemsociety.org/article/carnelian-gem-information/) and the [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
-- Gemological Institute of America, [Sunstone](https://www.gia.edu/sunstone/gem-overview), and Larry Tai-An Lai, [Dyed Green Marble Imitating Jadeite](https://www.gia.edu/articles/winter-2014-gemnews-dyed-green-marble-imitating-jadeite), *Gems & Gemology* (Winter 2014)
+- Gemological Institute of America, [Sunstone](https://www.gia.edu/sunstone/gem-overview), Larry Tai-An Lai, [Dyed Green Marble Imitating Jadeite](https://www.gia.edu/articles/winter-2014-gemnews-dyed-green-marble-imitating-jadeite), *Gems & Gemology* (Winter 2014), and Wing Kiu Fan and Ravenya Atchalak, [Two Imitation Melo Pearls](https://www.gia.edu/gems-gemology/fall-2024-lab-notes-two-imitation-melo-pearls), *Gems & Gemology* (Fall 2024)
+- *Handbook of Mineralogy*, [Calcite](https://www.handbookofmineralogy.org/pdfs/calcite.pdf) (Mineral Data Publishing), and minerals.net, [Calcite](https://www.minerals.net/mineral/calcite.aspx) and [Orange Calcite from York, Pennsylvania](https://www.minerals.net/Image/18/38/Calcite.aspx)
 - Dave Richerson, Natural History Museum of Utah, [What Is Calcite?](https://nhmu.utah.edu/articles/what-is-calcite) (2023), and Terry E. Huizing, New Mexico Mineral Symposium (2015), [doi.org/10.58799/NMMS-2015.505](https://doi.org/10.58799/NMMS-2015.505)
 - P. M. Gollwitzer and P. Sheeran, *Advances in Experimental Social Psychology* 38 (2006), [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601(06)38002-1)
-- SAMHSA, [988 fact sheet](https://www.samhsa.gov/sites/default/files/988-factsheet.pdf)
-- Dealer and shop references, [Geology Superstore](https://www.geologysuperstore.com/product/orange-calcite/), [Gemstones.com](https://www.gemstones.com/gemopedia/calcite), [Lang Antiques](https://www.langantiques.com/university/calcite-2/) and [GemSelect](https://www.gemselect.com/other-info/calcite-gems.php)
-- Wikipedia, [Calcite](https://en.wikipedia.org/wiki/Calcite), used as a pointer only
-- Modern associations compared across crystals.com, crystalgemstones.net, kumioils.com, feelcrystals.com.au, fiercelynxdesigns.com, camille-ambiance-nature.fr, liveinthelight.co.uk, moonrisecrystals.com and wemystic.com, read November 13, 2026
+- 988 Suicide & Crisis Lifeline contact details from [988lifeline.org](https://988lifeline.org/) and [SAMHSA](https://www.samhsa.gov/mental-health/988)
+- Dealer and shop references on calcite, linked in the text above
+- The [IMA List of Minerals](https://cnmnc.units.it/), July 2026 edition, from the official IMA CNMNC site
+- Retail prices from US-dollar listings at online crystal shops, read November 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

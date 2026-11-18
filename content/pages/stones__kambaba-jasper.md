@@ -9,7 +9,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-20"
 publishTime: "06:32"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://rocktumbler.com/rough/kambamba-jasper.shtml"
@@ -35,6 +35,7 @@ sources:
   - "https://bmshouston.com/blogs/bms-blog/jasper-kambaba-meaning-and-healing-crystal-properties"
   - "https://www.le-comptoir-geologique.com/metaphysicals-kambaba-jasper.html"
   - "https://webshop-danielleforrer.nl/en/pages/jaspis-kambaba-werking-en-betekenis"
+  - "https://988lifeline.org/"
 ---
 
 # Kambaba Jasper Meaning, Properties & Real-Life Uses
@@ -50,7 +51,7 @@ Kambaba jasper is the trade name for a green volcanic rock from Madagascar, full
 | What it is | A trade name for a green rhyolite, a volcanic rock, with dark orbs. Not a true jasper and not a fossil |
 | Mineral status | A rock, not a mineral species. No entry on the IMA List of Minerals |
 | Made of | Mostly quartz and alkali feldspar, with radiating clusters of green amphibole and fine-grained pyroxene |
-| Mohs hardness | About 6 to 6.5 |
+| Mohs hardness | About 6 to 6.5, per Rocktumbler.com |
 | Colors | Green ground with blackish, irregularly shaped orbs |
 | Main source | The Bongolava region of west-central Madagascar |
 | Also sold as | Kabamba, Kambamba, Kabamby, crocodile jasper |
@@ -69,13 +70,13 @@ Kambaba jasper is the trade name for a green volcanic rock from Madagascar, full
 
 ## What Kambaba Jasper Actually Is
 
-**The Stone.** A true jasper is an opaque, solid or patterned variety of cryptocrystalline quartz colored by mineral impurities ([International Gem Society](https://www.gemsociety.org/article/jasper-gem-information/)). Kambaba does not fit. [Rocktumbler.com](https://rocktumbler.com/rough/kambamba-jasper.shtml) puts it bluntly. It is "not a jasper, not a stromatolite," but a rhyolite, an igneous rock.
+**The Stone.** A true jasper is an opaque, solid or patterned variety of cryptocrystalline quartz colored by mineral impurities ([International Gem Society](https://www.gemsociety.org/article/jasper-gem-information/)). Kambaba does not fit. [Rocktumbler.com](https://rocktumbler.com/rough/kambamba-jasper.shtml) is blunt about it. Kambaba is "not a jasper," it says, but a rhyolite, an igneous rock.
 
 **Mineral Fact.** Rocktumbler.com reports that the German gem testing institute, the Institut für Edelsteinprüfung, examined thin sections and found an igneous rock crystallized from a viscous magma. It is made mainly of quartz and alkali feldspars, with green amphibole crystal clusters that grow in a radial habit and fine-grained pyroxene.
 
-The fossil and mineral dealer [FossilEra](https://fossilera.com/pages/is-kambaba-jasper-a-stromatolite) cites the same institute, which it calls EPI, and its thin-film and X-ray diffraction results. They describe a green ground mass of quartz, the pyroxene aegirine and feldspars, with circular aggregates of very small amphibole needles. Those circular aggregates appear to be the dark orbs you see on a polished face.
+The fossil and mineral dealer [FossilEra](https://fossilera.com/pages/is-kambaba-jasper-a-stromatolite) cites the same institute, which it calls EPI, and its thin-film and X-ray diffraction results. They describe a green ground mass of quartz, the pyroxene aegirine and feldspars, with circular aggregates of very small amphibole needles.
 
-Collector [Fred Haynes](https://fredmhaynes.com/2017/12/11/stromatolite-or-maybe-not/) quotes a German mineralogical study that found quartz and orthoclase with green amphibole aggregates (riebeckite and arfvedsonite) surrounded by aegirine. Its authors concluded that the fossil stromatolite opinion "is definitely wrong." The three lists differ in detail, but all of them describe an igneous rock, not a sedimentary one.
+Collector [Fred Haynes](https://fredmhaynes.com/2017/12/11/stromatolite-or-maybe-not/) quotes a German mineralogical study, cited by a contributor to The Fossil Forum, that found quartz and orthoclase with green amphibole aggregates (riebeckite and arfvedsonite) surrounded by aegirine. Its authors concluded that the fossil stromatolite opinion "is definitely wrong." The three lists differ in detail, but all of them describe an igneous rock, not a sedimentary one.
 
 ### Is Kambaba Jasper a Stromatolite?
 
@@ -95,7 +96,7 @@ FossilEra places it in the west-central Bongolava region of Madagascar, and Hayn
 
 <!-- PHOTO TO FIND, PHOTO 2, a real stromatolite next to polished Kambaba, to show the difference in structure. Unchecked Commons leads, "File Silicified stromatolite boundstone with oolites & sinuous stromatolites (Biwabik Iron-Formation, Paleoproterozoic, ~1.878 Ga; near Mary Ellen Mine, near Biwabik, Minnesota, USA) 7.jpg" by James St. John, CC BY 2.0, page https://commons.wikimedia.org/wiki/File:Silicified_stromatolite_boundstone_with_oolites_%26_sinuous_stromatolites_(Biwabik_Iron-Formation,_Paleoproterozoic,_~1.878_Ga;_near_Mary_Ellen_Mine,_near_Biwabik,_Minnesota,_USA)_7.jpg , and "File Fiery orange Mary Ellen (stromatolite) jasper.jpg" by Mike Beauregard, CC BY 2.0, page https://commons.wikimedia.org/wiki/File:Fiery_orange_Mary_Ellen_(stromatolite)_jasper.jpg . Both show real stromatolites, not Kambaba. Log visual_check before use. -->
 
-> **Trade Name.** "Kambaba jasper" is a trade name. Spellings vary between Kambaba, Kambamba, Kabamby and Kabamba (Haynes). It is also sold as crocodile jasper, a name Rocktumbler.com traces to people who thought the orbs looked like crocodile eyes. Rocktumbler.com adds that it is not "nebula stone" either, a separate trade name. On our five-label ladder, it is a natural rock with a misleading name.
+> **Trade Name.** "Kambaba jasper" is a trade name. Spellings vary between Kambaba, Kambamba, Kabamby and Kabamba (Haynes). It is also sold as crocodile jasper, a name Rocktumbler.com traces to people who thought the orbs looked like crocodile eyes. Rocktumbler.com notes that some people have also called it "nebula stone." On our five-label ladder, it is a natural rock with a misleading name.
 
 ## Where the Meaning Comes from
 
@@ -144,7 +145,7 @@ A few sites list skin conditions, fertility and pregnancy, and one shop guide ev
 
 **What Research Says.** In a small remote randomized study, 108 adults spent 5 minutes a day for a month on one of three breathing exercises or on mindfulness meditation, and the breathing groups, above all cyclic sighing with its long exhale, gained more in mood and slowed their breathing more than the meditators ([Balban and colleagues, 2023](https://doi.org/10.1016/j.xcrm.2022.100895)). It was exploratory, people knew which exercise they did and rated their own mood, and no stone was involved, so the Kambaba here is our addition.
 
-> **When a Stone Is Not Enough.** Kambaba jasper is often chosen for stress, anxiety, nightmares and grief, and some sites offer it for fertility and pregnancy. A stone can be a comfort to hold, but it is not care. If worry, sadness or poor sleep lasts or feels heavy, talk to a doctor or a therapist. For fertility or pregnancy, talk to your doctor or midwife, and never use a stone in place of treatment. If you are in crisis in the US, reach the 988 Suicide and Crisis Lifeline [TO CHECK official 988 link].
+> **When a Stone Is Not Enough.** Kambaba jasper is often chosen for stress, anxiety, nightmares and grief, and some sites offer it for fertility and pregnancy. A stone can be a comfort to hold, but it is not care. If worry, sadness or poor sleep lasts or feels heavy, talk to a doctor or a therapist. For fertility or pregnancy, talk to your doctor or midwife, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
 
 ## Is My Kambaba Jasper Real?
 
@@ -213,6 +214,7 @@ For jasper in general, the International Gem Society ties value to color, patter
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)) and *The Magic of Jewels and Charms* (1915, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)), neither with an entry for Kambaba
 - Melis Yilmaz Balban and colleagues, "Brief Structured Respiration Practices Enhance Mood and Reduce Physiological Arousal," *Cell Reports Medicine* 4(1) (2023), 100895, [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)
+- 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
 - Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed [TO CHECK date at final review].

@@ -20,6 +20,7 @@ publishTime: "07:00"
 status: "verified"
 page_type: "stone"
 sources:
+  - "https://988lifeline.org/"
   - "https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/"
   - "https://geology.com/minerals/quartz.shtml"
   - "https://www.gemrockauctions.com/learn/a-z-of-gemstones/clear-quartz"
@@ -138,7 +139,7 @@ A few sites go further and list headaches, fatigue or the immune system. Nothing
 
 **Safety.** A clear sphere can focus sunlight like a magnifying glass and scorch curtains, wood or paper, one crystal guide warns, and Kunz mentions rock crystal's old use as a burning glass (1913, pages 162 to 163). Keep small tumbles and sharp points away from small children and pets, since tumbles can be swallowed and points can cut.
 
-> **When a Stone Is Not Enough.** Clear quartz is often sold for headaches, fatigue or low mood. A crystal can be a pleasant cue, but it is not care. If symptoms last, get worse or worry you, talk to a doctor or a therapist, and never stop or delay a treatment because of a stone.
+> **When a Stone Is Not Enough.** Clear quartz is often sold for headaches, fatigue or low mood. A crystal can be a pleasant cue, but it is not care. If symptoms last, get worse or worry you, talk to a doctor or a therapist, and never stop or delay a treatment because of a stone. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Clear Quartz Real?
 

@@ -10,7 +10,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-21"
 publishTime: "05:43"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/chalcedony-jewelry-and-gemstone-information/"
@@ -22,15 +22,14 @@ sources:
   - "https://www.gia.edu/gems-gemology/summer-2020-labnotes-crackled-dyed-chalcedony"
   - "https://snr.unl.edu/data/geologysoils/agates/"
   - "https://www.gemselect.com/gem-info/chalcedony/chalcedony-info.php"
-  - "https://www.gemrockauctions.com/learn/a-z-of-gemstones/blue-lace-agate"
   - "https://www.americangemsociety.org/birthstones/"
   - "https://www.gutenberg.org/ebooks/57978"
-  - "https://www.gutenberg.org/ebooks/66583"
   - "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D37"
   - "https://doi.org/10.7717/peerj.3363"
   - "https://www.crystalvaults.com/crystal-encyclopedia/blue-chalcedony/"
   - "https://crystalgemstones.net/blue-chalcedony-meaning-and-spiritual-properties.html"
   - "https://moonrisecrystals.com/blue-chalcedony-meaning/"
+  - "https://988lifeline.org/"
 ---
 
 # Blue Chalcedony Meaning, Properties & Real-Life Uses
@@ -63,7 +62,7 @@ Blue chalcedony is the pale to medium blue variety of chalcedony, a quartz made 
 | State gem | Nebraska, since 1967, as "Blue Agate" |
 | Chakra (Modern Association) | Throat, often third eye |
 
-> **Is It Real? Quick Checks.** Natural blue chalcedony is usually a soft grayish, lavender or pale blue that glows a little against a light. Neon blue, or color that collects in cracks, points to dye. Only a lab can prove a stone is undyed.
+> **Is It Real? Quick Checks.** Natural blue chalcedony is usually a soft grayish, lavender or pale blue. A neon or very bright blue, or color that collects in cracks, may point to dye. Only a lab can prove a stone is undyed.
 
 ## What Blue Chalcedony Actually Is
 
@@ -82,15 +81,15 @@ The color types are usually named for their source (International Gem Society).
 - **Mohave and Mt. Airy.** California and Nevada, slightly to moderately grayish blue.
 - **African Blue.** Namibia, grayish to nearly pure blue.
 - **Holly Blue.** Oregon, a noticeably lavender blue and arguably the most valuable type. See [Holly Blue agate](/stones/holly-blue-agate/).
-- **Taiwan.** DuLan Mountain in Taitung gives a fine texture and saturated blue, and there the best is prized as much as jadeite ([GIA](https://www.gia.edu/gems-gemology/summer-2015-gemnews-blue-chalcedony-partially-filled-epoxy-resin)). GIA also names the United States, Indonesia, Peru, Mexico and Chile.
+- **Taiwan.** DuLan Mountain in Taitung gives a fine texture and saturated blue, and there high-quality material is sometimes prized as much as jadeite ([GIA](https://www.gia.edu/gems-gemology/summer-2015-gemnews-blue-chalcedony-partially-filled-epoxy-resin)). GIA also names the United States, Indonesia, Peru, Mexico and Chile.
 
 ### Is Blue Chalcedony the Same as Blue Agate?
 
-The names overlap. "Blue Chalcedony, commonly called Blue Agate," became Nebraska's state gemstone by legislative action in 1967 ([University of Nebraska](https://snr.unl.edu/data/geologysoils/agates/)). Strictly, agate is a patterned, usually banded variety of chalcedony ([IGS](https://www.gemsociety.org/article/agate-gem-information/)), though tags do not always keep that line.
+The names overlap. "Blue Chalcedony, commonly called Blue Agate," became Nebraska's state gemstone by legislative action in 1967 ([University of Nebraska](https://snr.unl.edu/data/geologysoils/agates/)). Strictly, agate is a variety of chalcedony known for its patterns, and lace agates show bands ([IGS](https://www.gemsociety.org/article/agate-gem-information/)), though tags do not always keep that line.
 
 ## Blue Chalcedony vs Blue Lace Agate
 
-Blue lace agate is a banded kind of blue chalcedony, so the real difference is the pattern. Lace agates show bands with intricate swirls and loops (IGS), and the dealer [Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/blue-lace-agate) credits the first blue lace find to George Swanson, in South West Africa, today's Namibia, in 1962. Blue chalcedony in the trade sense is the even version, with no markings or color zoning (GemSelect).
+Blue lace agate is a banded kind of blue chalcedony, so the real difference is the pattern. Lace agates show bands with intricate swirls and loops (IGS). Blue chalcedony in the trade sense is the even version, with no markings or color zoning (GemSelect).
 
 | | Blue chalcedony | Blue lace agate |
 |---|---|---|
@@ -106,13 +105,10 @@ Their care ratings differ, so check each in the [Care Checker](/tools/crystal-ca
 **The Story.** Old texts say a lot about chalcedony and nothing specific about the blue kind, so read every line below as family lore. Ancient names also described appearance, so an old "chalcedony" may not be your stone.
 
 - **Babylon.** **Tradition.** In a Babylonian mythological text, the god Ninib blesses or curses stones, and "chalcedony aroused his anger and was condemned" (Kunz, *The Curious Lore of Precious Stones*, 1913, page 35).
-- **First century CE, Rome.** **Tradition.** Pliny the Elder describes iaspis, which his translators read as jasper, including a "sky-blue" kind from Persia, and his blue and translucent kinds may include other chalcedony. He ends by "exposing the falsehoods of the magicians, who pretend that this stone is beneficial for persons when speaking in public" (*Natural History*, Book 37, chapter 37, Bostock and Riley translation, via [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D37)). A speaker's stone is an old idea, if not for this exact stone, and so is the eye roll.
-- **Third or fourth century CE.** **Tradition.** A Greek lapidary fragment lists amulets for sailors, and the first, set with a carbuncle and a chalcedony, protected them from drowning (Kunz 1913, pages 38 to 39).
-- **Revelation and the Middle Ages.** **Tradition.** Chalcedony is the third foundation stone of the New Jerusalem, read by Rabanus Maurus, Archbishop of Mainz (786 to 856), as "the flame of inner charity" (Kunz 1913, pages 303 and 305). Kunz thought the word there should probably be read as a name of the ruby (page 319).
-- **About the 13th century.** **Tradition.** The *Book of Wings*, attributed to Ragiel, says a man with his right hand raised, engraved on a chalcedony, "gives success in lawsuits" (Kunz 1913, pages 132 to 134).
-- **1702.** **Tradition.** Gonelli explains chalcedony's power of "driving away phantoms and visions of the night" by its effect on the eye, an idea Kunz calls "ingenious though far-fetched" (1913, page 65).
-- **1915, Italy.** **Tradition.** Italian peasant women wear beads of milky white chalcedony to increase their milk supply (Kunz, *The Magic of Jewels and Charms*, 1915, page 131). Modern nursing claims echo this, though the beads were white.
-- **Today.** **Modern Association.** One crystal encyclopedia calls chalcedony "the Speaker's Stone, the stone of one who must measure his words," crediting Florence Megemont's *The Metaphysical Book of Gems and Crystals* [TO CHECK book titles and years] ([Crystal Vaults](https://www.crystalvaults.com/crystal-encyclopedia/blue-chalcedony/)).
+- **First century CE, Rome.** **Tradition.** Pliny the Elder describes iaspis, which his translators read as jasper, including a "sky-blue" kind from Persia, and his blue and translucent kinds may include other chalcedony. He ends by "exposing the falsehoods of the magicians," whose claims for the stone included help with public speaking (*Natural History*, Book 37, chapter 37, Bostock and Riley translation, via [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D37)). A speaker's stone is an old idea, if not for this exact stone, and so is the eye roll.
+- **Antiquity.** **Tradition.** Kunz describes a set of seven amulets for sailors, and the first, set with a carbuncle and a chalcedony, protected them from drowning (Kunz 1913, page 39).
+- **Revelation and the Middle Ages.** **Tradition.** Chalcedony is the third foundation stone of the New Jerusalem (Kunz 1913, page 303), and a medieval commentary Kunz quotes reads it as "the flame of inner charity" (page 305). Kunz thought the word there should probably be read as a name of the ruby (page 319).
+- **Today.** **Modern Association.** One crystal encyclopedia calls chalcedony "the Speaker's Stone, the stone of one who must measure his words," crediting Florence Megemont's *The Metaphysical Book of Gems and Crystals* (Healing Arts Press, 2008 edition, as Crystal Vaults lists it) ([Crystal Vaults](https://www.crystalvaults.com/crystal-encyclopedia/blue-chalcedony/)).
 
 ## What People Use Blue Chalcedony for Today
 
@@ -122,7 +118,7 @@ Their care ratings differ, so check each in the [Care Checker](/tools/crystal-ca
 
 The [throat chakra](/chakras/throat/) is its classic placement, with the third eye close behind. Cancer and Sagittarius lead the zodiac links, and one guide reminds readers that such pairings are "recent customs, not ancient rules."
 
-The "why" is easy to trace. Blue is the throat chakra's color in modern chakra charts (GemSelect), and the throat is about speaking. The "Speaker's Stone" idea follows, with situations like public speaking, a hard talk at work or a heated family dinner ([Moonrise Crystals](https://moonrisecrystals.com/blue-chalcedony-meaning/), Crystal Vaults).
+The "why" is easy to trace. Blue is the throat chakra's color in modern chakra charts (GemSelect), and the throat is about speaking. The "Speaker's Stone" idea follows, with situations like public speaking, performing and emotionally charged conversations ([Moonrise Crystals](https://moonrisecrystals.com/blue-chalcedony-meaning/), Crystal Vaults).
 
 A few sites list hoarseness, thyroid trouble or dementia. A stone treats none of these.
 
@@ -146,13 +142,13 @@ A few sites list hoarseness, thyroid trouble or dementia. A stone treats none of
 
 **What Research Says.** In a small pre-registered experiment, 48 mostly undergraduate volunteers repeated a made-up ritual at home for a week, and an EEG then showed a smaller brain response to their own mistakes on a task, though their performance did not change ([Hobson, Bonk and Inzlicht, 2017](https://doi.org/10.7717/peerj.3363)). They did not report feeling calmer, and nobody held a chalcedony, so the link to a pocket stone is an extrapolation.
 
-> **When a Stone Is Not Enough.** Blue chalcedony is often chosen for anxiety, stage fright, grief and low mood, and some sites offer it for throat problems or nursing. A stone can be a comfort to hold, but it is not care. If anxiety, sadness or a sore throat lasts or feels heavy, talk to a doctor or a therapist, and for nursing, a doctor or midwife. If you are in crisis in the US, reach the 988 Suicide and Crisis Lifeline [TO CHECK official 988 link].
+> **When a Stone Is Not Enough.** Blue chalcedony is often chosen for anxiety, stage fright, grief and low mood, and some sites offer it for throat problems or nursing. A stone can be a comfort to hold, but it is not care. If anxiety, sadness or a sore throat lasts or feels heavy, talk to a doctor or a therapist, and for nursing, a doctor or midwife. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
 
 ## Is My Blue Chalcedony Real?
 
 We use the same five labels on every stone. Blue chalcedony is often untreated, but dye is the trap.
 
-- **Natural, untreated.** A Taipei gem lab writing in *Gems & Gemology* in 2015 says that in its experience blue chalcedony is seldom treated ([GIA](https://www.gia.edu/gems-gemology/summer-2015-gemnews-blue-chalcedony-partially-filled-epoxy-resin)).
+- **Natural, untreated.** A Taipei gem lab operator writing in *Gems & Gemology* in 2015 says blue chalcedony is seldom treated ([GIA](https://www.gia.edu/gems-gemology/summer-2015-gemnews-blue-chalcedony-partially-filled-epoxy-resin)).
 - **Natural, treated.** Dyeing is an ancient and common way to enhance chalcedony, because the stone is relatively porous. It is usually stable and should be disclosed (International Gem Society). Fillings happen too, usually to repair or hide cavities or fractures, as in a carving partly filled with epoxy resin (GIA). Some chalcedony is coated, all over or only under a cabochon (GemSelect).
 - **Lab-grown.** [TO CHECK whether lab-grown blue chalcedony is sold.]
 - **Imitation.** Blue opal is the imitation most likely to fool buyers at first glance, and dyed quartzite and dyed chalcedony are also common (GIA).
@@ -202,13 +198,14 @@ GemSelect puts most chalcedony at a few dollars per carat at wholesale, with cla
 - International Gem Society, [Chalcedony](https://www.gemsociety.org/article/chalcedony-jewelry-and-gemstone-information/), [Agate](https://www.gemsociety.org/article/agate-gem-information/) and the [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/) with its toxicity table
 - Gemdat, [Chalcedony](https://www.gemdat.org/gem-960.html), citing H. N. Lazzarelli, *Blue Chart Gem Identification* (2010)
 - L. T.-A. Lai, [Blue Chalcedony Partially Filled With Epoxy Resin](https://www.gia.edu/gems-gemology/summer-2015-gemnews-blue-chalcedony-partially-filled-epoxy-resin), *Gems & Gemology*, Summer 2015
-- S.-H. Lin, Y.-H. Li, H.-F. Chen and J.-N. Fang, [Dyed Chalcedony Imitation of Chrysocolla in Chalcedony](https://gia.edu/gems-gemology/spring-2020-gemnews-dyed-chalcedony-imitation-of-chrysocolla-in-chalcedony), *Gems & Gemology*, Spring 2020
+- S.-H. Lin, Y.-H. Li, H.-F. Chen and J.-N. Fang, [Dyed Chalcedony Imitation of Chrysocolla-in-Chalcedony](https://gia.edu/gems-gemology/spring-2020-gemnews-dyed-chalcedony-imitation-of-chrysocolla-in-chalcedony), *Gems & Gemology*, Spring 2020
 - M. Miura, [Quench-Crackled Dyed Blue Chalcedony Resembling Larimar](https://www.gia.edu/gems-gemology/summer-2020-labnotes-crackled-dyed-chalcedony), *Gems & Gemology*, Summer 2020
 - University of Nebraska-Lincoln, Conservation and Survey Division, [The Agates Collection](https://snr.unl.edu/data/geologysoils/agates/)
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
-- George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 35, 38 to 39, 65, 132 to 134, 303, 305 and 319, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), page 131, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
+- George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 35, 39, 303, 305 and 319, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
 - Pliny the Elder, *Natural History*, Book 37, chapter 37, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D37)
 - Nicholas M. Hobson, Devin Bonk and Michael Inzlicht, "Rituals Decrease the Neural Response to Performance Failure," *PeerJ* 5 (2017), e3363, [doi.org/10.7717/peerj.3363](https://doi.org/10.7717/peerj.3363)
+- 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
 - Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed [TO CHECK date at final review].

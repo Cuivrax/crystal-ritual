@@ -19,6 +19,7 @@ publishTime: "07:32"
 status: "verified"
 page_type: "stone"
 sources:
+  - "https://988lifeline.org/"
   - "https://woostergeologists.scotblogs.wooster.edu/2013/11/03/woosters-fossils-of-the-week-very-common-orthocerid-nautiloids-from-the-siluro-devonian-of-morocco/"
   - "https://depositsmag.com/2016/04/29/essential-collectibles-4-orthoceras-nautiloid/"
   - "https://museumdata.uk/objects/d100f9fe-14ec-3c11-90a8-477e10e347a6"
@@ -147,7 +148,7 @@ A few pages go further and list fatigue, digestion, rheumatism, vitality or a lo
 
 **What Research Says.** [TO CHECK research study with DOI] Until then, treat these as personal practices.
 
-> **When a Stone Is Not Enough.** Orthoceras is sometimes chosen for anxiety and stress, and some pages claim it helps with fatigue or digestion. A fossil can be a calming thing to hold, but it is not care. If anxiety, exhaustion or a health worry lasts, talk to a doctor or a therapist, and never use a stone in place of treatment.
+> **When a Stone Is Not Enough.** Orthoceras is sometimes chosen for anxiety and stress, and some pages claim it helps with fatigue or digestion. A fossil can be a calming thing to hold, but it is not care. If anxiety, exhaustion or a health worry lasts, talk to a doctor or a therapist, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Orthoceras Real?
 

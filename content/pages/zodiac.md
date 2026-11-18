@@ -41,7 +41,7 @@ sources:
 
 Zodiac birthstones are stones tied to the twelve astrological signs instead of the calendar months. A verse list printed in 1913 gives each sign one gem, from bloodstone for Aries to amethyst for Pisces, while today's crystal guides favor other stones, such as jet for Capricorn and angelite for Aquarius. Both are astrology traditions, not mineral facts, and the lists rarely agree.
 
-<!-- PHOTO HERO. PHOTO TO FIND. No zodiac image is logged in images_candidates.csv, images_commons_candidates.csv or image_picks_new_stones.json. Two options. (1) A real engraved gem with a zodiac sign from The Met Open Access, only if isPublicDomain is true, with object page, license and credit logged. Kunz 1913 (page 342) mentions a green jasper with Luna, Capricorn and Taurus and a banded agate with Sagittarius in the Met's collection, so search there first. (2) A "Celestial Night" style illustration from Google Flow (doc 05, section 10), captioned "Illustration", with no stone shown as if it were a real specimen. -->
+<!-- PHOTO HERO. File site/photos/zodiac/hero.jpg. Source Unsplash, https://unsplash.com/photos/qayNP9ccw9E . License Unsplash License. Credit "Photo by Dan Farrell on Unsplash". Visual check 2026-11-18, Purple and clear stones in a ring on slate. -->
 
 ## Zodiac Stones Chart
 
@@ -109,10 +109,9 @@ For a gift, write both stones on the card, the month birthstone and the sign's 1
 - Amanda Butcher, International Gem Society, [History of Birthstones](https://www.gemsociety.org/article/history-of-birthstones/), updated October 3, 2024
 - Paul Cornish, We The Curious planetarium, [Where Can I Find My Star Sign?](https://wethecurious.org/planetariumblog/star-signs-and-precession)
 - Gemological Institute of America, [Aquamarine](https://www.gia.edu/aquamarine/gem-overview)
-- International Gem Society, [Celestite](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/) and [Malachite](https://www.gemsociety.org/article/malachite-jewelry-and-gemstone-information/), and Gemstones.com, [Angelite](https://www.gemstones.com/gemopedia/angelite), a dealer guide
-- Sign dates as given in crystal guides, mainly crystalvaults.com, firemountaingems.com and astrology.com
-- Modern zodiac associations compared across the crystal guides in our lore collection, including crystalvaults.com, crystals.com, firemountaingems.com, mooncatcrystals.com, moonrisecrystals.com, tinyrituals.co and crystalgemstones.net, read November 13, 2026
+- International Gem Society, [Celestite](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/) and [Malachite](https://www.gemsociety.org/article/malachite-jewelry-and-gemstone-information/)
+- Sign dates and modern associations as described in popular crystal books and guides, with the associations rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

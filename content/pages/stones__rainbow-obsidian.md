@@ -24,6 +24,11 @@ sources:
   - "https://geology.com/rocks/obsidian.shtml"
   - "https://www.gemdat.org/gem-27158.html"
   - "https://geologybase.com/obsidian-types/"
+  - "https://www.gia.edu/gems-gemology/summer-2023-in-the-spotlight"
+  - "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D36%3Achapter%3D67"
+  - "https://doi.org/10.1037/0022-3514.84.2.377"
+  - "https://988lifeline.org/"
+  - "https://cnmnc.units.it/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
   - "https://www.crystalvaults.com/crystal-encyclopedia/rainbow-obsidian/"
@@ -62,7 +67,7 @@ Rainbow obsidian is natural volcanic glass, found in Mexico and the western Unit
 | Toxic to handle | Low risk. Cutting dust is a silica hazard |
 | Durability | Easy to scratch, chips on impact. Raw edges are razor sharp |
 | Common fakes | Manufactured colored glass sold as obsidian |
-| Price range | [TO CHECK US retail ranges] |
+| Price range | Set by the strength of the color bands, the size and the cut |
 | Chakra (Modern Association) | Root most often, sometimes heart or all chakras |
 
 > **Is It Real? Quick Checks.** Turn it slowly under a single lamp. Natural rainbow obsidian shows its color in bands that follow the flow of the glass, and it can look plain black from other angles. Under a loupe, look for tiny crystals, straight banding or needles, which point to natural glass. Hold a strong magnet close, since natural obsidian can react. None of these is proof.
@@ -100,7 +105,7 @@ Same glass, different inclusions. Black obsidian gets its dark color from iron a
 **The Story.** Almost all of obsidian's long history is about black obsidian as a tool and a mirror. Rainbow obsidian's own meaning is modern, built on that history and on the old symbol of a rainbow after a storm.
 
 - **Stone Age.** Sharp obsidian flakes made it the material of choice for almost any cutting tool, and the making of arrowheads, spear points, knives and scrapers may have been "the world's first manufacturing industry" (Geology.com). Today thin obsidian blades are still used in some surgical scalpels.
-- **Ancient Rome.** **Tradition.** Pliny the Elder wrote about a volcanic glass in his *Natural History* [TO CHECK Pliny].
+- **Ancient Rome.** **Tradition.** Pliny the Elder described an "obsian stone," named, he says, for Obsius, who found it in Ethiopia. "This stone is of a very dark colour, and sometimes transparent; but it is dull to the sight," he wrote, and it was set into walls as a mirror that showed shadows more than images (*Natural History*, Book 36, chapter 67, in the Bostock and Riley translation, [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D36%3Achapter%3D67)). His translators read it as volcanic glass, our obsidian. He says nothing about a rainbow sheen.
 - **Ancient Mexico.** **Tradition.** Images of the god Tezcatlipoca were made of obsidian, and his name is read as "shining mirror." Obsidian mirrors were said to be used for divination (Kunz, *The Curious Lore of Precious Stones*, 1913, pages 204 to 205). The lapidaries' gods were credited with teaching people to make obsidian lip plugs and ear ornaments (pages 255 to 256).
 - **Old Aztec folklore.** **Tradition.** In tales from Milpa Alta near Mexico City, fragments of obsidian found after a rainstorm were believed to have fallen from the sky, a sign that a dreamer had been accepted by the gods. Kunz adds that the rain had probably washed them out of the earth (*The Magic of Jewels and Charms*, 1915, pages 348 to 349).
 - **16th century, England.** **Tradition.** Horace Walpole's label for a polished slab of Mexican obsidian quoted an old catalogue calling it "the black stone into which Dr. Dee used to call his spirits," after John Dee and his crystal-gazing (Kunz 1913, pages 195 to 196).
@@ -108,13 +113,13 @@ Same glass, different inclusions. Black obsidian gets its dark color from iron a
 
 ## What People Use Rainbow Obsidian for Today
 
-**Modern Association.** Protection is a Classic link for rainbow obsidian in the guides we compared, and grief is an Often Linked one (see [crystals for grief](/crystals-for/grief/)). One shop says it reminds you "there is a rainbow waiting for you once you move through the darkness" ([Energy Muse](https://energymuse.com/pages/rainbow-obsidian-meaning)), and a crystal blog says many people use it "after a breakup, a loss or the end of a chapter" ([crystalgemstones.net](https://crystalgemstones.net/rainbow-obsidian-meaning-and-spiritual-properties.html)).
+**Modern Association.** Protection is a Classic link for rainbow obsidian in modern crystal guides, and grief is an Often Linked one (see [crystals for grief](/crystals-for/grief/)). One shop says it reminds you "there is a rainbow waiting for you once you move through the darkness" ([Energy Muse](https://energymuse.com/pages/rainbow-obsidian-meaning)), and a crystal blog says many people use it "after a breakup, a loss or the end of a chapter" ([crystalgemstones.net](https://crystalgemstones.net/rainbow-obsidian-meaning-and-spiritual-properties.html)).
 
 The "why" is easy to see. A dark stone with color hidden inside is an easy symbol for hope on a bad day. Black stones in general carry protection and grounding in modern crystal guides, and the color adds warmth. One crystal encyclopedia calls it "a gentle, loving variety of Obsidian" and suggests giving one "as a glimmer of hope" ([Crystal Vaults](https://www.crystalvaults.com/crystal-encyclopedia/rainbow-obsidian/)). Fire Mountain Gems links it with "openness, encouragement and reclamation" ([Fire Mountain Gems](https://www.firemountaingems.com/learn/categories/essential-resources/gemstone-meanings/rainbow-obsidian-gemstone-meanings.html)).
 
 The root chakra is the most common link, with heart or all chakras in some guides. Shadow work, looking at the parts of yourself you usually avoid, comes up too ([Moonrise Crystals](https://moonrisecrystals.com/rainbow-obsidian-meaning/)).
 
-Some links disagree or sit at the margins. Zodiac signs, elements and numbers differ from guide to guide. A few guides go further and list pain and stress-related disease. Nothing in the mineral sources behind this page supports those claims. The obsidian scalpels mentioned above are about sharp edges, not about any healing power in the stone.
+Some links disagree or sit at the margins. Zodiac signs, elements and numbers differ from guide to guide. A few guides go further and list pain and stress-related disease. No mineral or medical reference we know of supports those claims. The obsidian scalpels mentioned above are about sharp edges, not about any healing power in the stone.
 
 ## How to Use Rainbow Obsidian in Everyday Life
 
@@ -134,27 +139,27 @@ Some links disagree or sit at the margins. Zodiac signs, elements and numbers di
 
 **Safety.** Raw obsidian edges can be sharper than steel and can cut skin. Small tumbled stones are a choking hazard, so keep them away from small children and pets. One guide suggests tucking a stone under your pillow. A nightstand is the safer spot.
 
-**What Research Says.** [TO CHECK a peer-reviewed study with DOI on expressive writing or gratitude journaling after loss, and say plainly that it did not use stones.] Until then, treat these as personal practices.
+**What Research Says.** The lamp turn is close to a gratitude exercise, and those have been studied. In three randomized studies, two with college students (192 and 157 of them) and one with 65 adults living with neuromuscular disease, people asked to list what they were grateful for reported better well-being than comparison groups on several measures, most clearly in positive mood ([Emmons and McCullough, 2003](https://doi.org/10.1037/0022-3514.84.2.377)). The results were self-reported, the studies were not about grief, and no stones were involved, so the line in the notebook is the researched part, not the obsidian.
 
-> **When a Stone Is Not Enough.** Rainbow obsidian is often chosen for grief, heartbreak and low moods. A stone can be a comfort to hold, but it is not care. If grief, sadness or trouble sleeping lasts or feels heavy, talk to a doctor, a therapist or a grief counselor. If you are in crisis in the US, reach the 988 Suicide and Crisis Lifeline [TO CHECK official link and contact options].
+> **When a Stone Is Not Enough.** Rainbow obsidian is often chosen for grief, heartbreak and low moods. A stone can be a comfort to hold, but it is not care. If grief, sadness or trouble sleeping lasts or feels heavy, talk to a doctor, a therapist or a grief counselor. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Rainbow Obsidian Real?
 
 ### Is Rainbow Obsidian Natural?
 
-Yes. Rainbow obsidian is a naturally occurring volcanic glass, and no treatment is described for its sheen. The fakes to watch for are manufactured glass, not treated obsidian.
+Yes. Rainbow obsidian is a naturally occurring volcanic glass, and we found no reference source describing any treatment for its sheen. The fakes to watch for are manufactured glass, not treated obsidian.
 
 We use the same five labels on every stone.
 
 - **Natural, untreated.** This is what rainbow obsidian should be.
-- **Natural, treated.** No treatment is described for the sheen.
+- **Natural, treated.** We found no reference source describing any treatment for rainbow obsidian.
 - **Lab-grown.** Not applicable. Man-made glass is not lab-grown obsidian, it is simply glass.
 - **Imitation.** Manufactured blue, green or red glass is sometimes passed off as natural obsidian in rare colors (International Gem Society). One crystal encyclopedia warns of artificial glass mass-produced in places such as Indonesia and sold as obsidian.
 - **Trade name.** "Rainbow" is a descriptive name. Some sellers also call it "aurora obsidian."
 
 Three checks you can do at home, with their limits.
 
-1. **Look at how the color sits.** In natural rainbow obsidian the color is a sheen in bands inside dark glass (Geology.com, Gemdat). Our sources describe no reliable eye test for iridescent fake glass, so this is a hint, not a test.
+1. **Look at how the color sits.** In natural rainbow obsidian the color is a sheen in bands inside dark glass (Geology.com, Gemdat). We know of no reliable eye test for iridescent fake glass, so this is a hint, not a test.
 2. **Use a loupe.** Natural obsidian can contain tiny crystals that stand out in high relief, and straight banding or needles are more signs of natural origin (International Gem Society). Spotting them takes practice.
 3. **Try a magnet.** Natural obsidian can show a moderate to very strong magnetic reaction. The International Gem Society says this may help confirm a piece as natural, but it is not a definitive test.
 
@@ -164,12 +169,12 @@ Jet, chalcedony and black tourmaline can be confused with obsidian, and a gemolo
 
 **Mineral Fact.** Obsidian has a hardness of about 5.5, which makes it easy to scratch, and it lacks toughness, so it breaks or chips on impact (Geology.com). Household dust has a hardness of 7, harder than obsidian (International Gem Society).
 
-- **Water.** OK. Mild soap, a soft brush and warm water (International Gem Society). Keep soaks brief, since our sources cover washing, not long soaks.
+- **Water.** OK. Mild soap, a soft brush and warm water (International Gem Society). Keep soaks brief, since the International Gem Society covers washing, not long soaks.
 - **Cleaning.** Wipe with a lint-free cloth instead of scrubbing, and avoid mechanical cleaners such as ultrasonic and steam machines (International Gem Society).
 - **Heat.** Avoid. Obsidian may contain inclusions that expand when heated (International Gem Society).
-- **Sun.** Unknown. None of our sources covers light for rainbow obsidian.
-- **Chemicals.** Unknown. None of our sources covers chemicals yet.
-- **Salt.** Unknown. None of our sources covers salt yet.
+- **Sun.** Unknown. We found no reference source on light and rainbow obsidian.
+- **Chemicals.** Unknown. We found no reference source on chemicals yet.
+- **Salt.** Unknown. We found no reference source on salt yet.
 - **Storage.** Brief only. Keep each piece in its own pouch, away from harder stones, keys and coins.
 - **Jewelry.** Geology.com calls obsidian a poor choice for rings and bracelets and best for low-impact pieces such as earrings, brooches and pendants.
 - **Toxicity.** OK to handle. The International Gem Society [toxicity table](https://www.gemsociety.org/article/gemstone-care-guide/) rates obsidian low risk, and the hazard it lists, silicosis, concerns dust from cutting and polishing.
@@ -192,9 +197,16 @@ For physical cleaning, warm water, mild soap, a soft brush and a lint-free cloth
 
 ## Price Guide
 
-Our sources give no dollar figures for rainbow obsidian. Geologybase ranks it the second most expensive iridescent obsidian in the US after fire obsidian, and says its colors are more vivid in thicker pieces. The International Gem Society says lapidaries often cut obsidian into cabochons, beads and carvings, and that carvings up to 8 to 10 inches (20 to 25 cm) can be made.
+Obsidian is not a rare material, so the piece itself sets the price of a rainbow one. In a 2023 *Gems & Gemology* note, Robert Weldon and Nathan Renfro describe obsidian as widespread wherever there is volcanic terrain, with abundant deposits in the Americas, and, citing earlier research, say most rainbow obsidian comes from Jalisco, Mexico, and northern California ([GIA](https://www.gia.edu/gems-gemology/summer-2023-in-the-spotlight)).
 
-So color strength and size are the first things to compare when you shop for a pendant, heart or egg. [TO CHECK typical US retail ranges for tumbled stones, cabochons, pendants, hearts, eggs and spheres, with a dated source.]
+These are the things to compare when you shop for a pendant, heart or egg.
+
+- **The color bands.** GIA describes rainbow obsidian's sheen as broad, mostly even bands of pastel colors. Look at how strong and how wide they are under a single lamp.
+- **The cut.** In fire obsidian, a close relative, the color layers are so thin that polishing must be controlled or the color is lost, and stones are cut to follow the flow structure (GIA). Skilled cutting is part of what you pay for.
+- **Size and shape.** Lapidaries often cut obsidian into cabochons, beads and carvings, and larger pieces allow carvings (International Gem Society).
+- **Treatment and fakes.** We found no reference source describing a treatment for rainbow obsidian, but manufactured colored glass is sometimes passed off as natural obsidian in rare colors (International Gem Society), so a price only means something once you know the piece is natural glass.
+
+We give no price figures here, since the rainbow obsidian listings we found in November 2026 were sold out.
 
 **Next Step.** Choosing a stone for a friend who is grieving? See the other usual picks, and the care notes for each, in [crystals for grief](/crystals-for/grief/).
 
@@ -204,9 +216,14 @@ So color strength and size are the first things to compare when you shop for a p
 - Hobart M. King, Geology.com, [Obsidian](https://geology.com/rocks/obsidian.shtml)
 - Gemdat, [Rainbow Obsidian](https://www.gemdat.org/gem-27158.html)
 - Geologybase, [Obsidian Types](https://geologybase.com/obsidian-types/)
+- Robert Weldon and Nathan Renfro, [Fire Obsidian's Beguiling Spectrum](https://www.gia.edu/gems-gemology/summer-2023-in-the-spotlight), *Gems & Gemology*, Summer 2023, Vol. 59, No. 2
+- Pliny the Elder, *Natural History*, Book 36, chapter 67, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D36%3Achapter%3D67)
+- Robert A. Emmons and Michael E. McCullough, "Counting Blessings Versus Burdens," *Journal of Personality and Social Psychology*, 2003, [DOI 10.1037/0022-3514.84.2.377](https://doi.org/10.1037/0022-3514.84.2.377)
+- IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
+- 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 195 to 196, 204 to 205 and 255 to 256, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 348 to 349, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- Modern associations compared across [Crystal Vaults](https://www.crystalvaults.com/crystal-encyclopedia/rainbow-obsidian/), [crystals.com](https://www.crystals.com/pages/crystals/rainbow-obsidian), [Fire Mountain Gems](https://www.firemountaingems.com/learn/categories/essential-resources/gemstone-meanings/rainbow-obsidian-gemstone-meanings.html), [Moonrise Crystals](https://moonrisecrystals.com/rainbow-obsidian-meaning/), [crystalgemstones.net](https://crystalgemstones.net/rainbow-obsidian-meaning-and-spiritual-properties.html), [Energy Muse](https://energymuse.com/pages/rainbow-obsidian-meaning) and [Refinery29](https://refinery29.com/en-us/rainbow-obsidian-meaning-healing-crystal), read November 18, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

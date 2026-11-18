@@ -42,6 +42,7 @@ sources:
   - "https://www.crystals.com/blogs/news/moonstone-meaning-healing-properties"
   - "https://moonmagic.com/blogs/news/rainbow-moonstone"
   - "https://www.histoiredor.com/fr_FR/le-magazine/ma/pierredelune-proprietes-signification-pierre.html"
+  - "https://988lifeline.org/"
 ---
 
 # Rainbow Moonstone Meaning, Properties & Real-Life Uses
@@ -152,7 +153,7 @@ The benefits you can count on are the look and the story, a natural feldspar who
 
 **What Research Says.** In a small pre-registered experiment, 48 mostly undergraduate volunteers repeated an invented ritual at home for a week, and afterward their brains reacted less strongly to their own mistakes on a lab task, though their scores and their reported feelings did not change (Hobson, Bonk and Inzlicht, 2017, *PeerJ*, [doi.org/10.7717/peerj.3363](https://doi.org/10.7717/peerj.3363)). It was one small student sample, the ritual was made up for the study, and no stones were involved. Treat the habits above as personal practices.
 
-> **When a Stone Is Not Enough.** Rainbow moonstone is often chosen for sleep, anxious thoughts, mood swings, cycles and fertility. A stone can be a comfort to hold, but it is not care. If poor sleep, anxiety or low mood lasts, talk to a doctor or a therapist. For menstrual, fertility or pregnancy questions, see a doctor or a midwife, and never let a stone delay that visit.
+> **When a Stone Is Not Enough.** Rainbow moonstone is often chosen for sleep, anxious thoughts, mood swings, cycles and fertility. A stone can be a comfort to hold, but it is not care. If poor sleep, anxiety or low mood lasts, talk to a doctor or a therapist. For menstrual, fertility or pregnancy questions, see a doctor or a midwife, and never let a stone delay that visit. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
 
 ## Is My Rainbow Moonstone Real?
 
@@ -240,7 +241,8 @@ On paper, June belongs to pearl, alexandrite and moonstone ([American Gem Societ
 - Pliny the Elder, *Natural History*, Book 37, chapter 67, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D67)
 - N. M. Hobson, D. Bonk and M. Inzlicht, *PeerJ* (2017), [doi.org/10.7717/peerj.3363](https://doi.org/10.7717/peerj.3363)
 - Retail prices from US-dollar listings at online crystal shops, read November 2026
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- [988 Suicide & Crisis Lifeline](https://988lifeline.org/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

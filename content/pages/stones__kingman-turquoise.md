@@ -12,6 +12,7 @@ publishTime: "06:52"
 status: "draft"
 page_type: "stone"
 sources:
+  - "https://988lifeline.org/"
   - "https://www.gia.edu/turquoise/gem-overview"
   - "https://www.gia.edu/birthstones/december-birthstones"
   - "https://www.gia.edu/turquoise-quality-factor"
@@ -134,7 +135,7 @@ The protection theme echoes the old amulet against falls, and some guides now st
 
 **What Research Says.** [TO CHECK research study with DOI] Until then, treat these as personal practices.
 
-> **When a Stone Is Not Enough.** Turquoise is often chosen for calm and travel nerves, and some sites promise help with breathing or headaches. A stone can be a comfort to hold, but it is not care. If anxiety, poor sleep or a health worry lasts or feels heavy, talk to a doctor or a therapist.
+> **When a Stone Is Not Enough.** Turquoise is often chosen for calm and travel nerves, and some sites promise help with breathing or headaches. A stone can be a comfort to hold, but it is not care. If anxiety, poor sleep or a health worry lasts or feels heavy, talk to a doctor or a therapist. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Kingman Turquoise Real?
 

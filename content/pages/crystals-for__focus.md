@@ -19,6 +19,7 @@ publishTime: "07:00"
 status: "verified"
 page_type: "situation"
 sources:
+  - "https://988lifeline.org/"
   - "https://www.gia.edu/amethyst/gem-overview"
   - "https://www.gia.edu/amethyst-care-cleaning"
   - "https://geology.com/gemstones/amethyst/"
@@ -165,7 +166,7 @@ Crystal grid examples online can get elaborate. A desk needs very little.
 
 **Mineral Fact.** Lapis lazuli is a blue rock, mostly lazurite with white calcite and gold flecks of pyrite, and it rates 5 to 6. Much lapis is dyed to hide the white calcite and then waxed, and it scratches easily ([Geology.com](https://geology.com/gemstones/lapis-lazuli/)). Renaissance painters ground it into the pigment ultramarine ([GIA](https://www.gia.edu/lapis-lazuli/gem-overview)). Clean it with mild soap and a soft brush, never with solvents ([IGS](https://www.gemsociety.org/article/lapis-lazuli-jewelry-and-gemstone-information/)). **Modern Association.** Widely Linked to focus as a desk stone for writing, studying and exams, and a desk suits it better than a pocket. More on [lapis lazuli](/stones/lapis-lazuli/).
 
-> **When a Stone Is Not Enough.** A stone can mark the start of a study block. It cannot treat trouble with attention. If you struggle to concentrate for weeks at a time, feel foggy most days, sleep badly or freeze up before exams, talk to a doctor, your school's counseling service or a therapist. Some crystal sites say stones help with ADHD. We know of no study that supports that, and a stone should never replace an evaluation or a treatment plan.
+> **When a Stone Is Not Enough.** A stone can mark the start of a study block. It cannot treat trouble with attention. If you struggle to concentrate for weeks at a time, feel foggy most days, sleep badly or freeze up before exams, talk to a doctor, your school's counseling service or a therapist. Some crystal sites say stones help with ADHD. We know of no study that supports that, and a stone should never replace an evaluation or a treatment plan. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 **Next Step.** Exam nerves more than a wandering mind? Read [crystals for anxiety and a simple grounding routine](/crystals-for/anxiety/).
 

@@ -10,7 +10,7 @@ const links = [
   { label: 'Crystal Care Checker', href: '/tools/crystal-care-checker/' },
 ].filter((l) => site.isBuilt(l.href.split('#')[0]));
 ---
-<Base title="Page Not Found | Crystal & Ritual" description="This page does not exist, or it has not been published yet." url="/404/">
+<Base title="Page Not Found | Crystal & Ritual" description="This page does not exist, or it has not been published yet." url="/404/" errorPage>
   <section class="wrap notfound">
     <span style="color: var(--gold)"><Fragment set:html={icon('star', { size: 36 })} /></span>
     <p class="eyebrow" style="margin-top:18px">Error 404</p>
