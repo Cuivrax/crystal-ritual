@@ -18,6 +18,9 @@ const authorUrl = site.isBuilt('/about/') ? '/about/' : null;
 <meta name="color-scheme" content={night ? 'dark' : 'light'}>
 <meta name="theme-color" content={night ? '#141A2E' : '#FBFAF8'}>
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
 <link rel="alternate" type="application/rss+xml" title="Crystal & Ritual" href="/rss.xml">
 <Seo page={page} title={title} description={description} url={url} image={image} breadcrumbs={breadcrumbs} citations={citations} noindex={noindex} authorUrl={authorUrl} errorPage={errorPage} />
 </head>

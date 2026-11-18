@@ -13,8 +13,8 @@ secondary_keywords:
   - "healing crystals and stones"
   - "crystal and stones"
 author: "Iris Holloway"
-publishDate: "2026-12-06"
-publishTime: "07:00"
+publishDate: "2026-11-18"
+publishTime: "17:00"
 status: "verified"
 page_type: "home"
 sources:

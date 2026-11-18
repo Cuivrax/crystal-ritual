@@ -34,9 +34,9 @@
 # =============================================================================
 set -euo pipefail
 
-REPO_URL="${REPO_URL:-https://github.com/OWNER/REPO.git}"   # à remplacer par l'adresse du dépôt
+REPO_URL="${REPO_URL:-ssh://git@ssh.github.com:443/Cuivrax/crystal-ritual.git}"   # dépôt privé, lu avec une clé de déploiement en lecture seule
 BRANCH="deploy"
-SITE_URL="https://crystalandritual.com"
+SITE_URL="https://www.crystalandritual.com"
 HERE="$(cd "$(dirname "$0")" && pwd)"
 KEEP_FILE="$HERE/keep.txt"
 STATE_FILE="$HERE/.last-deployed-commit"
@@ -60,6 +60,18 @@ if command -v flock >/dev/null 2>&1; then
 fi
 
 log() { echo "$(date '+%F %T') $*"; }
+
+# Clé de déploiement (lecture seule sur le dépôt). Créée ici au premier passage, sur le serveur,
+# sans phrase de passe. La clé privée ne quitte jamais le serveur. Seule la clé publique,
+# copiée dans deploy_key.pub, est ajoutée au dépôt GitHub (Settings, Deploy keys, lecture seule).
+KEY_PATH="$HOME/.ssh/crystal_deploy"
+if [ ! -f "$KEY_PATH" ]; then
+  mkdir -p "$HOME/.ssh" && chmod 700 "$HOME/.ssh"
+  ssh-keygen -q -t ed25519 -N "" -C "crystal-ritual-deploy" -f "$KEY_PATH"
+  log "clé de déploiement créée, ajouter $HERE/deploy_key.pub au dépôt GitHub"
+fi
+cp "$KEY_PATH.pub" "$HERE/deploy_key.pub"
+export GIT_SSH_COMMAND="ssh -i $KEY_PATH -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -o UserKnownHostsFile=$HERE/known_hosts -o BatchMode=yes"
 
 # Dépôt privé, le jeton (lecture seule) est lu dans ~/deploy/token, jamais écrit dans ce script.
 AUTH_URL="$REPO_URL"

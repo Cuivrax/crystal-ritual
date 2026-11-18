@@ -19,8 +19,8 @@ secondary_keywords:
   - "crystals under pillow"
   - "sleeping with crystals"
 author: "Iris Holloway"
-publishDate: "2026-12-06"
-publishTime: "07:00"
+publishDate: "2026-11-18"
+publishTime: "17:00"
 status: "verified"
 page_type: "situation"
 sources:

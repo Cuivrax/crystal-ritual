@@ -7,7 +7,12 @@ const { page = null, title, description, url, image = null, breadcrumbs = [], ci
 const canonical = errorPage ? null : absoluteUrl(url);
 const isArticle = page && !['home', 'hub', 'directory', 'trust', 'tool', 'color', 'chakra'].includes(page.type);
 // Pages without a photo share the brand card, so links on Pinterest, Facebook and Threads always show an image.
-const shareImage = image || absoluteUrl('/og-default.jpg');
+// Three brand cards built on real Unsplash photos, A light marble for the trust pages, B dark slate
+// for tools, moon, zodiac and rituals, C amethyst flat lay for the home page, hubs and the rest.
+const path = String(url || '/');
+const card = /^\/(about|editorial-policy|sources|contact)\//.test(path) ? 'og-a.jpg'
+  : /^\/(tools|moon|zodiac|rituals)\//.test(path) ? 'og-b.jpg' : 'og-c.jpg';
+const shareImage = image || absoluteUrl('/' + card);
 const ld = errorPage ? null : jsonLd({ page, title, description, url, image, breadcrumbs, citations, authorUrl });
 ---
 <title>{title}</title>

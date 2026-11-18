@@ -83,7 +83,7 @@ for (const abs of htmlFiles) {
     }
     const target = resolve(url.pathname);
     if (!target) { broken.push({ page, raw, why: 'no such file' }); continue; }
-    if (attr === 'href' && !/\.[a-z0-9]{2,5}$/i.test(url.pathname) && !url.pathname.endsWith('/')) {
+    if (attr === 'href' && !/\.[a-z0-9]{2,12}$/i.test(url.pathname) && !url.pathname.endsWith('/')) {
       noSlash.push({ page, raw });
     }
     if (url.hash && url.hash.length > 1 && target.endsWith('.html')) {
