@@ -16,7 +16,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-02"
 publishTime: "08:47"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/beryl-jewelry-gemstone-information/"
@@ -34,6 +34,7 @@ sources:
   - "https://www.americangemsociety.org/birthstones/"
   - "https://cnmnc.units.it/"
   - "https://doi.org/10.1177/0956797618772506"
+  - "https://988lifeline.org/"
   - "https://www.gemrockauctions.com/products/top-quailty-500-carat-natural-green-beryl-gemstone-sku-a13-1360465"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
@@ -74,7 +75,7 @@ Green beryl is light green beryl, the same mineral as emerald and aquamarine, wh
 | Chemicals | Unknown |
 | Toxic to handle | Brief only. Sources conflict, so never cut, sand or grind it |
 | Common fakes | Lab-grown beryl, green beryl sold as emerald, beryl dyed green. Green tourmaline, peridot and glass look similar |
-| Price range | Far below emerald. One faceted 5-carat stone listed at $250 (November 2026) |
+| Price range | Far below emerald. One faceted 5-carat stone listed at about $250 (November 2026) |
 | Birthstone | None. Emerald is May's birthstone, and green beryl is not emerald |
 | Chakra (Modern Association) | Heart, in most guides that cover it |
 
@@ -104,7 +105,7 @@ Beryllium is a rare metal, so beryl forms only where enough of it gathers, mainl
 
 Green beryl can be both clear and huge. Aquamarines and green beryls "may be completely transparent and still be very large," says IGS, which mentions a completely transparent crystal of 243 pounds (110 kg) found in Brazil in 1910. The Smithsonian holds green beryls of 1,363, 914 and 578 carats from Brazil, plus smaller pale green stones from Brazil and Connecticut and a 23-carat green stone from Maine (IGS).
 
-<!-- PHOTO 2, beside "Where It Grows". Wikimedia Commons, "File BRATTEKLEIV EVJE beryl.jpg", by Ronald Werner. Page https://commons.wikimedia.org/wiki/File:BRATTEKLEIV_EVJE_beryl.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/BRATTEKLEIV_EVJE_beryl.jpg/1280px-BRATTEKLEIV_EVJE_beryl.jpg (tracking parameters removed). License CC BY-SA 4.0. Credit line "Photo Ronald Werner, CC BY-SA 4.0, via Wikimedia Commons". Verdict ok in image_picks_new_stones.json ("rough green beryl crystal with coin for scale, paper background"). Alt text "Rough green beryl crystal from Evje, Norway, beside a coin for scale" [TO CHECK locality wording on the Commons page]. -->
+<!-- PHOTO 2, beside "Where It Grows". Wikimedia Commons, "File BRATTEKLEIV EVJE beryl.jpg", by Ronald Werner. Page https://commons.wikimedia.org/wiki/File:BRATTEKLEIV_EVJE_beryl.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/BRATTEKLEIV_EVJE_beryl.jpg/1280px-BRATTEKLEIV_EVJE_beryl.jpg (tracking parameters removed). License CC BY-SA 4.0. Credit line "Photo Ronald Werner, CC BY-SA 4.0, via Wikimedia Commons". Verdict ok in image_picks_new_stones.json ("rough green beryl crystal with coin for scale, paper background"). Alt text "Rough green beryl crystal from Evje, Norway, beside a coin for scale" photo pass to confirm. -->
 
 ## Where the Meaning Comes From
 
@@ -151,7 +152,7 @@ Beryl water is an old belief, not a remedy. The medieval writer Thomas de Cantim
 
 **What Research Says.** In three experiments, people who wrote a letter of thanks underestimated how good it would make the recipient feel and overestimated how awkward it would seem ([Kumar and Epley, *Psychological Science*, 2018](https://doi.org/10.1177/0956797618772506)). Participants wrote because the researchers asked them to, the study measured reactions to a single letter rather than long-term well-being, and no stones were involved. The anniversary card borrows the writing part, so the link is our extrapolation, and the stone only marks the moment.
 
-> **When a Stone Is Not Enough.** Some guides sell beryl for stress, anxiety or physical complaints. A stone can be a comfort to hold, but it is not care. If stress or anxiety lasts, or a health problem worries you, talk to a doctor or a therapist, and never use a stone in place of treatment.
+> **When a Stone Is Not Enough.** Some guides sell beryl for stress, anxiety or physical complaints. A stone can be a comfort to hold, but it is not care. If stress or anxiety lasts, or a health problem worries you, talk to a doctor or a therapist, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Green Beryl Real?
 
@@ -203,7 +204,7 @@ The price gap between green beryl and emerald is significant (Geology.com). Gree
 
 What matters most is the same as for any beryl. Color decides the name and has an enormous effect on value, and clarity is very important (Geology.com). A clean, lively green beryl is worth more than a cloudy one, but it will not be priced like an emerald, and it should not be.
 
-One current listing we found, a faceted 5-carat green beryl about 12.4 by 10.7 mm, with origin and treatment not stated, was $250. Prices from online gem listings in US dollars, November 2026.
+One current listing we found, a faceted 5-carat green beryl about 12.4 by 10.7 mm, with origin and treatment not stated, was about $250. Prices from online gem listings in US dollars, November 2026.
 
 **Next Step.** Wondering whether that "emerald" in your grandmother's ring is really green beryl? Start with our [emerald](/stones/emerald/) page, then take it to an independent gem lab.
 
@@ -221,6 +222,7 @@ One current listing we found, a faceted 5-carat green beryl about 12.4 by 10.7 m
 - IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 39, 59 to 60, 180, 196 to 197, 212, 298 to 299, 305, 313, 320 and 347 to 348, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), page 130, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - Amit Kumar and Nicholas Epley, *Psychological Science* (2018), [doi.org/10.1177/0956797618772506](https://doi.org/10.1177/0956797618772506)
+- 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
 - Retail price from a US-dollar listing at an online gem marketplace, read November 2026
 - Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 

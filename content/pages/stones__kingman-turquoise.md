@@ -9,7 +9,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-15"
 publishTime: "06:52"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://988lifeline.org/"
@@ -25,8 +25,12 @@ sources:
   - "https://www.gemsociety.org/article/gemstone-toxicity-table/"
   - "https://geology.com/minerals/turquoise.shtml"
   - "https://minerals.net/mineral/turquoise.aspx"
+  - "https://cnmnc.units.it/"
   - "https://nevadagem.com/pages/mineinfo10.html"
   - "https://www.gutenberg.org/ebooks/57978"
+  - "https://doi.org/10.1016/S0065-2601(06)38002-1"
+  - "https://ngmdb.usgs.gov/Geolex/Units/IthacaPeak_13266.html"
+  - "https://pubs.usgs.gov/bul/0978e/report.pdf"
   - "https://www.crystalvaults.com/crystal-encyclopedia/turquoise/"
   - "https://www.firemountaingems.com/learn/categories/essential-resources/gemstone-meanings/turquoise-gemstone-meanings.html"
   - "https://energymuse.com/pages/turquoise-meaning"
@@ -38,7 +42,7 @@ sources:
 
 Kingman turquoise is turquoise mined in the Kingman district of Mohave County, Arizona, where it has long come out of the ground as a by-product of copper mining. GIA calls the Kingman mine a historically important source known for intense blue turquoise. The name is a claim about origin, not a grade, and most turquoise sold today is treated.
 
-<!-- PHOTO HERO. Wikimedia Commons, "File Turquoise (Ithaca Peak Mine, near Kingman, Arizona, USA) 4.jpg", by James St. John. Page https://commons.wikimedia.org/wiki/File:Turquoise_(Ithaca_Peak_Mine,_near_Kingman,_Arizona,_USA)_4.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Turquoise_%28Ithaca_Peak_Mine%2C_near_Kingman%2C_Arizona%2C_USA%29_4.jpg/1280px-Turquoise_%28Ithaca_Peak_Mine%2C_near_Kingman%2C_Arizona%2C_USA%29_4.jpg (tracking parameters removed). License CC BY 2.0, credit required. Credit line "Photo James St. John, CC BY 2.0, via Wikimedia Commons". Hero pick for kingman-turquoise in image_picks_new_stones.json (visual pass, "rough blue slab, sharp, fills the frame"). Alt text "Rough blue turquoise slab from the Ithaca Peak Mine near Kingman, Arizona". Caption it with the mine name in the file title only. [TO CHECK whether Ithaca Peak lies inside the Mineral Park district before calling it Mineral Park material.] -->
+<!-- PHOTO HERO. Wikimedia Commons, "File Turquoise (Ithaca Peak Mine, near Kingman, Arizona, USA) 4.jpg", by James St. John. Page https://commons.wikimedia.org/wiki/File:Turquoise_(Ithaca_Peak_Mine,_near_Kingman,_Arizona,_USA)_4.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Turquoise_%28Ithaca_Peak_Mine%2C_near_Kingman%2C_Arizona%2C_USA%29_4.jpg/1280px-Turquoise_%28Ithaca_Peak_Mine%2C_near_Kingman%2C_Arizona%2C_USA%29_4.jpg (tracking parameters removed). License CC BY 2.0, credit required. Credit line "Photo James St. John, CC BY 2.0, via Wikimedia Commons". Hero pick for kingman-turquoise in image_picks_new_stones.json (visual pass, "rough blue slab, sharp, fills the frame"). Alt text "Rough blue turquoise slab from the Ithaca Peak Mine near Kingman, Arizona". Caption it with the mine name in the file title only. Checked 2026-11-18, Ithaca Peak lies in the Mineral Park district. The USGS Geolex entry names the Ithaca Peak granite for an "imposing crag in Mineral Park district," in the Wallapai mining district, Mohave County (https://ngmdb.usgs.gov/Geolex/Units/IthacaPeak_13266.html), and Dings 1951, USGS Bulletin 978-E, restricts the name to "the granite of the Mineral Park district" (https://pubs.usgs.gov/bul/0978e/report.pdf), so the caption may call it Mineral Park district material. -->
 
 ## Kingman Turquoise Quick Facts
 
@@ -57,7 +61,7 @@ Kingman turquoise is turquoise mined in the Kingman district of Mohave County, A
 | Salt | Unknown |
 | Toxic to handle | Brief only (copper) |
 | Common fakes | Dyed howlite or magnesite, plastic, glass, reconstituted turquoise, other turquoise sold as Kingman |
-| Price range | [TO CHECK US retail ranges] |
+| Price | Set mainly by quality, not the mine name (GIA), see the Price Guide |
 | Birthstone | December (turquoise), 11th anniversary |
 | Chakra (Modern Association) | Throat |
 
@@ -91,7 +95,7 @@ Most of Kingman's history comes from Nevada Gem's 2004 mine page, so read it as 
 
 Hardy estimated that in 1973 the mine gave 4,344 pounds of gem grade turquoise and over 78,000 pounds of "chalk," the soft, pale end of the range. *Gems & Gemology* says filling the pores of "chalky" turquoise can greatly improve its look and durability ([Spring 2021](https://www.gia.edu/gems-gemology/spring-21-technical-evolution-identification-resin-filled-turquoise)).
 
-Nevada Gem wrote in 2004 that very little high-grade Kingman turquoise was still available. [TO CHECK current status of turquoise recovery at the Mineral Park mine.]
+Nevada Gem wrote in 2004 that very little high-grade Kingman turquoise was still available. We found no reference source on how much turquoise, if any, Mineral Park yields today, so ask the seller when and where a stone was mined.
 
 ## Where the Meaning Comes From
 
@@ -133,7 +137,7 @@ The protection theme echoes the old amulet against falls, and some guides now st
 
 **Safety.** Small stones and bead bracelets are not toys. Keep them away from small children and pets, and never put turquoise in your mouth or in water you drink.
 
-**What Research Says.** [TO CHECK research study with DOI] Until then, treat these as personal practices.
+**What Research Says.** The steady-step cue is an if-then plan. A 2006 meta-analysis that pooled earlier lab and field studies found that people who made an if-then plan ("if situation X happens, then I will do Y") were more likely to act on a goal than people who only intended to ([Gollwitzer and Sheeran, 2006](https://doi.org/10.1016/S0065-2601%2806%2938002-1)). None of those studies tested stones, so the plan is the researched part and the turquoise is only the cue.
 
 > **When a Stone Is Not Enough.** Turquoise is often chosen for calm and travel nerves, and some sites promise help with breathing or headaches. A stone can be a comfort to hold, but it is not care. If anxiety, poor sleep or a health worry lasts or feels heavy, talk to a doctor or a therapist. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
@@ -192,7 +196,7 @@ Kingman is one of many sources of [turquoise](/stones/turquoise/), the tradition
 
 GIA rates an even medium blue with no matrix and a good polish as the most valuable turquoise. The IGS adds that spiderweb turquoise "enjoys premium pricing," and a stone that polishes well without stabilization is worth more.
 
-Does the Kingman name add value? A little, at most. GIA's buying guide says fine turquoise from historical sources like Arizona "can command a small premium," but "pricing is primarily based on quality, not geographic origin." Pay for the stone in front of you, not the name on the tag. [TO CHECK US retail ranges]
+Does the Kingman name add value? A little, at most. GIA's buying guide says fine turquoise from historical sources like Arizona "can command a small premium," but "pricing is primarily based on quality, not geographic origin." Pay for the stone in front of you, not the name on the tag.
 
 ## Sources
 
@@ -200,11 +204,12 @@ Does the Kingman name add value? A little, at most. GIA's buying guide says fine
 - *Gems & Gemology*, [Impregnated and Dyed Turquoise](https://www.gia.edu/gems-gemology/fall-2015-gemnews-impregnated-dyed-turquoise) (Fall 2015), [Resin-Filled Turquoise](https://www.gia.edu/gems-gemology/spring-21-technical-evolution-identification-resin-filled-turquoise) (Spring 2021) and Gagan Choudhary, [A New Type of Composite Turquoise](https://gia.edu/doc/A-New-Type-of-Composite-Turquoise.pdf) (Summer 2010)
 - International Gem Society, [Turquoise](https://www.gemsociety.org/article/turquoise-jewelry-gem-information/), [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/) and [Gemstone Toxicity Table](https://www.gemsociety.org/article/gemstone-toxicity-table/)
 - Hobart M. King, Geology.com, [Turquoise](https://geology.com/minerals/turquoise.shtml)
-- Minerals.net, [Turquoise](https://minerals.net/mineral/turquoise.aspx), and the IMA List of Minerals, July 2026 edition
+- Minerals.net, [Turquoise](https://minerals.net/mineral/turquoise.aspx), and the IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - Nevada Gem, [Kingman](https://nevadagem.com/pages/mineinfo10.html), a dealer's mine history, 2004
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 23 to 24, 73, 108 to 114 and 320, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
-- Modern associations from crystalvaults.com, firemountaingems.com, energymuse.com, aglaiaco.com and lithotherapie.net, read November 18, 2026
+- Gollwitzer, P. M., and Sheeran, P. (2006), Implementation intentions and goal achievement, a meta-analysis of effects and processes, *Advances in Experimental Social Psychology* 38, 69 to 119, [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

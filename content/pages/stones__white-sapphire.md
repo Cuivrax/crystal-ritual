@@ -16,7 +16,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-28"
 publishTime: "09:34"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gia.edu/sapphire/gem-overview"
@@ -34,6 +34,7 @@ sources:
   - "https://www.gutenberg.org/ebooks/66583"
   - "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D39"
   - "https://doi.org/10.1002/ejsp.674"
+  - "https://988lifeline.org/"
   - "https://www.gemselect.com/sapphire/1-5-carat-white-sapphire-oval-loose-natural-gemstone-madagascar-734671.php"
   - "https://www.gemselect.com/sapphire/1-73-carat-white-sapphire-diamond-cut-loose-natural-gemstones-madagascar-445379.php"
   - "https://www.gemrockauctions.com/learn/a-z-of-gemstones/white-sapphire"
@@ -147,7 +148,7 @@ Some shops also promise help with migraines, thyroid trouble, epilepsy, depressi
 
 **What Research Says.** In a 2010 study of 96 volunteers who each repeated one eating, drinking or activity habit daily in the same setting for 12 weeks, the habit grew more automatic along a leveling curve, taking anywhere from 18 to 254 days to reach 95 percent of each person's plateau, and missing a single day did not materially set it back ([Lally and colleagues, *European Journal of Social Psychology*](https://doi.org/10.1002/ejsp.674)). The sample was small and made of volunteers, the ratings were self-reported, the habits were simple daily ones, and no stones were involved, so applying it to a weekly ring clean is our extrapolation. The fixed moment is the part that may stick, not the stone.
 
-> **When a Stone Is Not Enough.** Some shops sell white sapphire for headaches, low mood, pregnancy or recovery from illness. A ring can be a comfort to wear, but it is not care. For health concerns, during pregnancy or if low mood lasts, talk to a doctor, a midwife or a therapist, and never use a stone in place of treatment.
+> **When a Stone Is Not Enough.** Some shops sell white sapphire for headaches, low mood, pregnancy or recovery from illness. A ring can be a comfort to wear, but it is not care. For health concerns, during pregnancy or if low mood lasts, talk to a doctor, a midwife or a therapist, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My White Sapphire Real?
 
@@ -215,6 +216,7 @@ Two current listings give a sense of the natural end, both loose stones from Mad
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 39, 72 to 73, 319 to 320 and 372 to 373, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 329 to 331 and 403, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - Pliny the Elder, *Natural History*, Book 37, chapter 39, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D39)
 - Phillippa Lally and colleagues, *European Journal of Social Psychology* (2010), [doi.org/10.1002/ejsp.674](https://doi.org/10.1002/ejsp.674)
+- 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
 - Retail prices from US-dollar listings at an online gem dealer, read November 2026
 - Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 

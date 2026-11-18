@@ -16,6 +16,7 @@ sources:
   - "https://www.gemsociety.org/article/chalcedony-jewelry-and-gemstone-information/"
   - "https://www.gemsociety.org/article/agate-gem-information/"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
+  - "https://www.gemsociety.org/article/understanding-gem-synthetics-treatments-imitations-part-4-synthetic-gemstone-guide/"
   - "https://www.gemdat.org/gem-960.html"
   - "https://www.gia.edu/gems-gemology/summer-2015-gemnews-blue-chalcedony-partially-filled-epoxy-resin"
   - "https://gia.edu/gems-gemology/spring-2020-gemnews-dyed-chalcedony-imitation-of-chrysocolla-in-chalcedony"
@@ -48,7 +49,7 @@ Blue chalcedony is the pale to medium blue variety of chalcedony, a quartz made 
 | Mohs hardness | 6.5 to 7, and tough |
 | Specific gravity | 2.55 to 2.70 (chalcedony in general) |
 | Colors | Pale to medium blue, often softened by gray or pink. Unstained material is often grayish blue |
-| Color cause | Metallic impurities, for chalcedony in general [TO CHECK cause of blue] |
+| Color cause | Metallic impurities, for chalcedony in general |
 | Main sources | California, Nevada, Namibia, Oregon, Taiwan, plus Indonesia, Peru, Mexico and Chile |
 | Water | OK for washing, keep soaks brief |
 | Sun | Unknown |
@@ -57,7 +58,7 @@ Blue chalcedony is the pale to medium blue variety of chalcedony, a quartz made 
 | Salt | Unknown |
 | Toxic to handle | No. Cutting dust is a silica hazard |
 | Common fakes | Dyed chalcedony, dyed quartzite, blue opal |
-| Price range | Usually modest [TO CHECK US retail ranges] |
+| Price range | See the price guide below |
 | Birthstone | None on the modern US list |
 | State gem | Nebraska, since 1967, as "Blue Agate" |
 | Chakra (Modern Association) | Throat, often third eye |
@@ -72,7 +73,7 @@ Agate, jasper, carnelian, chrysoprase and onyx are chalcedonies too ([Internatio
 
 ### What Gives Blue Chalcedony Its Color?
 
-Chalcedony colors come from metallic impurities, such as iron, nickel, copper and titanium, present as the stone crystallizes, and unstained material is often grayish blue (International Gem Society) [TO CHECK which impurity causes the blue in natural blue chalcedony].
+Chalcedony colors come from metallic impurities, such as iron, nickel, copper and titanium, present as the stone crystallizes, and unstained material is often grayish blue (International Gem Society). In the related chrysocolla-in-chalcedony, GIA researchers trace the greenish blue to micro-inclusions of chrysocolla, a color rooted in copper ([GIA, Spring 2020](https://gia.edu/gems-gemology/spring-2020-gemnews-dyed-chalcedony-imitation-of-chrysocolla-in-chalcedony)). We found no reference source that pins the soft blue of ordinary blue chalcedony on one element.
 
 ### Where It Comes from
 
@@ -142,7 +143,7 @@ A few sites list hoarseness, thyroid trouble or dementia. A stone treats none of
 
 **What Research Says.** In a small pre-registered experiment, 48 mostly undergraduate volunteers repeated a made-up ritual at home for a week, and an EEG then showed a smaller brain response to their own mistakes on a task, though their performance did not change ([Hobson, Bonk and Inzlicht, 2017](https://doi.org/10.7717/peerj.3363)). They did not report feeling calmer, and nobody held a chalcedony, so the link to a pocket stone is an extrapolation.
 
-> **When a Stone Is Not Enough.** Blue chalcedony is often chosen for anxiety, stage fright, grief and low mood, and some sites offer it for throat problems or nursing. A stone can be a comfort to hold, but it is not care. If anxiety, sadness or a sore throat lasts or feels heavy, talk to a doctor or a therapist, and for nursing, a doctor or midwife. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
+> **When a Stone Is Not Enough.** Blue chalcedony is often chosen for anxiety, stage fright, grief and low mood, and some sites offer it for throat problems or nursing. A stone can be a comfort to hold, but it is not care. If anxiety, sadness or a sore throat lasts or feels heavy, talk to a doctor or a therapist, and for nursing, a doctor or midwife. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Blue Chalcedony Real?
 
@@ -150,7 +151,7 @@ We use the same five labels on every stone. Blue chalcedony is often untreated, 
 
 - **Natural, untreated.** A Taipei gem lab operator writing in *Gems & Gemology* in 2015 says blue chalcedony is seldom treated ([GIA](https://www.gia.edu/gems-gemology/summer-2015-gemnews-blue-chalcedony-partially-filled-epoxy-resin)).
 - **Natural, treated.** Dyeing is an ancient and common way to enhance chalcedony, because the stone is relatively porous. It is usually stable and should be disclosed (International Gem Society). Fillings happen too, usually to repair or hide cavities or fractures, as in a carving partly filled with epoxy resin (GIA). Some chalcedony is coated, all over or only under a cabochon (GemSelect).
-- **Lab-grown.** [TO CHECK whether lab-grown blue chalcedony is sold.]
+- **Lab-grown.** Labs grow synthetic quartz, colorless crystal by the ton for electronics, though it is seldom cut as a gem ([International Gem Society](https://www.gemsociety.org/article/understanding-gem-synthetics-treatments-imitations-part-4-synthetic-gemstone-guide/)). We found no reference source on lab-grown blue chalcedony sold in the US.
 - **Imitation.** Blue opal is the imitation most likely to fool buyers at first glance, and dyed quartzite and dyed chalcedony are also common (GIA).
 - **Trade names.** Holly Blue, African Blue, Mohave and Mt. Airy are place names (IGS). "Taiwanese blue sapphire" is blue chalcedony, not sapphire (GIA).
 
@@ -189,13 +190,14 @@ A wash, yes. Keep soaks brief, and skip them for a stone you suspect is dyed. Su
 
 ## Price Guide
 
-GemSelect puts most chalcedony at a few dollars per carat at wholesale, with classic blues and more translucent stones preferred and carvings priced for the skill. A slight adularescence adds value, and Holly Blue is arguably the most valuable type (IGS). [TO CHECK US retail ranges]
+Blue chalcedony varies from pale to medium tones and in translucency, with blues modified by gray or pink to different degrees, and a slight adularescence enhances value (International Gem Society). Oregon's lavender Holly Blue is arguably the most valuable type, and most pieces are cabbed or carved, with only an exceptional, near transparent piece faceted (IGS). In Taiwan, high-quality blue chalcedony is sometimes prized as much as jadeite, and GIA singles out DuLan Mountain material for its fine texture and saturated blue. Dyeing should be disclosed (IGS), so a price for natural color deserves a straight answer about dye.
 
 **Next Step.** Working on how you speak up? See the other stones guides tie to the [throat chakra](/chakras/throat/).
 
 ## Sources
 
 - International Gem Society, [Chalcedony](https://www.gemsociety.org/article/chalcedony-jewelry-and-gemstone-information/), [Agate](https://www.gemsociety.org/article/agate-gem-information/) and the [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/) with its toxicity table
+- Joel E. Arem, [Understanding Gem Synthetics, Treatments, and Imitations, Part 4, Synthetic Gemstone Guide](https://www.gemsociety.org/article/understanding-gem-synthetics-treatments-imitations-part-4-synthetic-gemstone-guide/), International Gem Society
 - Gemdat, [Chalcedony](https://www.gemdat.org/gem-960.html), citing H. N. Lazzarelli, *Blue Chart Gem Identification* (2010)
 - L. T.-A. Lai, [Blue Chalcedony Partially Filled With Epoxy Resin](https://www.gia.edu/gems-gemology/summer-2015-gemnews-blue-chalcedony-partially-filled-epoxy-resin), *Gems & Gemology*, Summer 2015
 - S.-H. Lin, Y.-H. Li, H.-F. Chen and J.-N. Fang, [Dyed Chalcedony Imitation of Chrysocolla-in-Chalcedony](https://gia.edu/gems-gemology/spring-2020-gemnews-dyed-chalcedony-imitation-of-chrysocolla-in-chalcedony), *Gems & Gemology*, Spring 2020
@@ -208,6 +210,6 @@ GemSelect puts most chalcedony at a few dollars per carat at wholesale, with cla
 - 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
 - Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

@@ -54,11 +54,11 @@ The Crystal Label Decoder tells you what the words on a crystal label or listing
 
 Most results land on one of these five labels, the same ones we use on every stone page.
 
-1. **Natural, untreated.** Mined, then only cut or polished.
-2. **Natural, treated.** Mined, then heated, irradiated, dyed, stabilized or coated. Treated is not fake.
-3. **Lab-grown.** The same mineral, made in a laboratory.
+1. **Natural, Untreated.** Mined, then only cut or polished.
+2. **Natural, Treated.** Mined, then heated, irradiated, dyed, stabilized or coated. Treated is not fake.
+3. **Lab-Grown.** The same mineral, made in a laboratory.
 4. **Imitation.** Something else that looks the part, such as glass, plastic or another stone.
-5. **Trade name.** A selling name that may hide what the stone is.
+5. **Trade Name.** A selling name that may hide what the stone is.
 
 The tool adds two more cards. **Label Word** is for words on a tag that describe a claim rather than a stone, such as "genuine", "natural" or "AAA". **Varies** is for names that cover several realities at once, for example opalite and citrine, which can be natural, treated or man-made. Some results are marked "Based on seller descriptions, not yet confirmed by a gem lab or reference source", which means we found the description in seller guides and no reference source confirms it yet.
 

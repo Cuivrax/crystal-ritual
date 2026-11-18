@@ -9,10 +9,11 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-19"
 publishTime: "06:18"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://gem-a.com/?p=7188"
+  - "https://www.gia.edu/gems-gemology/summer-2014-gemnews-bumble-bee-jasper-indonesia"
   - "https://www.rockyourworldgems.com/pages/about-bumblebee-jasper"
   - "https://www.gemsociety.org/article/jasper-gem-information/"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
@@ -22,6 +23,8 @@ sources:
   - "https://poisonhelp.hrsa.gov/"
   - "https://poison.org/need-immediate-assistance"
   - "https://www.americangemsociety.org/birthstones/"
+  - "https://cnmnc.units.it/"
+  - "https://988lifeline.org/"
   - "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D37"
   - "https://doi.org/10.1017/S1092852925100515"
   - "https://www.crystals.com/blogs/news/what-is-bumblebee-jasper-good-for"
@@ -54,8 +57,8 @@ Bumblebee jasper is not a jasper. It is a trade name for a yellow, orange and bl
 | Acids | Avoid. It fizzes in dilute acid |
 | Toxicity | Avoid. Contains arsenic and sulfur minerals. Do not ingest it or let children mouth it |
 | Trade names | Bumblebee jasper, Bumble Bee Stone (BBS) |
-| Common fakes | [TO CHECK common fakes] |
-| Price range | [TO CHECK US retail ranges] |
+| Common fakes | No documented imitation found. Most pieces are filled with Opticon (GIA, 2014) |
+| Price range | Set mostly by pattern and color contrast (see Price Guide) |
 | Birthstone | Not on the modern list |
 | Chakra (Modern Association) | Solar plexus most often |
 
@@ -131,17 +134,17 @@ Some guides list allergies, skin rashes, blood sugar, fertility, circulation or 
 
 **What Research Says.** In a [2025 randomized study](https://doi.org/10.1017/S1092852925100515) of 138 adults, Escolà-Gascón and colleagues gave people real rose quartz or a matching glass fake for 14 days, and anxiety scores fell only in those who believed in crystal healing, with the fake doing as well as the real stone. It was one trial in adults with low anxiety, and it did not test bumblebee stone. If a desk ritual helps you, the cue and your own expectations are doing the work.
 
-> **When a Stone Is Not Enough.** Bumblebee jasper is often chosen for stress, worry and sleepless nights, and some guides make claims about blood sugar or fertility. A stone can be a comfort to look at, but it is not care. If stress, anxiety or poor sleep lasts or feels heavy, talk to a doctor or a therapist, and bring blood sugar or fertility questions to your doctor. If anyone swallows a piece, call the Poison Help line (details below).
+> **When a Stone Is Not Enough.** Bumblebee jasper is often chosen for stress, worry and sleepless nights, and some guides make claims about blood sugar or fertility. A stone can be a comfort to look at, but it is not care. If stress, anxiety or poor sleep lasts or feels heavy, talk to a doctor or a therapist, and bring blood sugar or fertility questions to your doctor. If anyone swallows a piece, call the Poison Help line (details below). If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Bumblebee Jasper Real?
 
 We use the same five labels on every stone. The name is the first thing to correct.
 
-- **Natural, untreated.** The material Gem-A describes, colored by natural sulfide pigments. [TO CHECK how much bumblebee stone on the US market is sold untreated.]
-- **Natural, treated.** The stone is porous (Gem-A). [TO CHECK whether stabilized, sealed, coated or dyed bumblebee stone is sold in the US.]
-- **Lab-grown.** [TO CHECK whether any lab-made version exists.]
-- **Imitation.** [TO CHECK which dyed or other stones are sold as bumblebee jasper.]
-- **Trade names.** "Bumblebee jasper" is a trade name that hides what the stone is, since it is not jasper or quartz. Gem-A uses Bumble Bee Stone, or BBS. A piece sold under the jasper name can still be the real material.
+- **Natural, untreated.** The material Gem-A describes, colored by natural sulfide pigments. In 2014 GIA reported that most specimens are filled (see the next label), and we found no newer figure for the untreated share.
+- **Natural, treated.** The stone is porous (Gem-A). In 2014, GIA's *Gems & Gemology* reported that the porous rock is easily cut and polished and that most specimens are filled with a product called Opticon ([GIA](https://www.gia.edu/gems-gemology/summer-2014-gemnews-bumble-bee-jasper-indonesia)). We found no reference source on dyed or coated bumblebee stone.
+- **Lab-grown.** We found no reference source on a lab-made version.
+- **Imitation.** We found no reference source describing dyed or other stones sold as bumblebee jasper.
+- **Trade names.** "Bumblebee jasper" is a trade name that hides what the stone is, since it is not jasper or quartz. Gem-A uses Bumble Bee Stone, or BBS, and GIA's 2014 report notes it was also sold at the Tucson show as Eclipse "jasper." A piece sold under the jasper name can still be the real material.
 
 Two checks you can do at home, and one you should never do.
 
@@ -149,7 +152,7 @@ Two checks you can do at home, and one you should never do.
 2. **Look under magnification.** Real material looks like colored powders cemented in a carbonate matrix, with tiny cavities that can hold orange to reddish crystals (Gem-A). This is a strong hint, not a proof.
 3. **Never acid-test or scratch it.** The lab's acid drop made it fizz. At home that damages the stone, and scratching turns arsenic-bearing minerals into dust.
 
-Three questions to ask the seller. Has it been stabilized, sealed or dyed? Where was it mined? Is this piece finished, or raw?
+Three questions to ask the seller. Has it been filled, stabilized, sealed or dyed? Where was it mined? Is this piece finished, or raw?
 
 ## How to Care for Bumblebee Jasper
 
@@ -174,7 +177,7 @@ The reason is in the colors, pararealgar and realgar, both arsenic sulfides (Gem
 - **Handling.** Wearing a finished piece is fine by the retailer's account. Wash your hands after handling any piece, and take extra care with raw, chipped or crumbly ones.
 - **Cutting.** Never cut, drill, sand or polish it at home. The International Gem Society warns that lapidaries should take care cutting potentially toxic minerals, since inhaling or swallowing particles could harm your health.
 - **Children and pets.** Keep it out of reach, and do not give it to a child as a pocket stone.
-- **If someone swallows a piece.** In the US, call the Poison Help line at 1-800-222-1222, free and open 24 hours a day ([Poison Help](https://poisonhelp.hrsa.gov/)). Call 911 right away if the person collapses, has a seizure, has trouble breathing or cannot be woken ([Poison Control](https://poison.org/need-immediate-assistance)). For a pet, call your vet at once.
+- **If someone swallows a piece.** In the US, call the Poison Help line at 1-800-222-1222, toll-free and available 24 hours a day, 7 days a week ([Poison Help](https://poisonhelp.hrsa.gov/)). Call 911 right away if the person collapses, has a seizure, has trouble breathing or cannot be woken ([Poison Control](https://poison.org/need-immediate-assistance)). For a pet, call your vet at once.
 
 Our guide to [toxic crystals](/care/toxic-crystals/) covers the other stones that need the same caution.
 
@@ -197,23 +200,25 @@ We do not know yet, so keep it out of strong sun. Our Care Checker rates sun Unk
 
 ## Price Guide
 
-Gem-A says the most sought-after bumblebee stone is the orbicular variety with a bull's-eye pattern, and its photos show the best pieces with strong color contrast. [TO CHECK US retail ranges]
+Gem-A says the most sought-after bumblebee stone is the orbicular variety with a bull's-eye pattern, and its photos show the best pieces with strong color contrast. Treatment is the other question, since GIA reported in 2014 that most specimens are filled with Opticon, so ask whether a piece is filled before comparing prices.
 
 **Next Step.** Want a confidence stone you can carry and rinse without worry? Compare the usual picks in [crystals for confidence](/crystals-for/confidence/).
 
 ## Sources
 
+- Stuart Overlin, "Bumble Bee 'Jasper' from Indonesia," Gem News International, *Gems & Gemology* 50, no. 2 (Summer 2014), [GIA](https://www.gia.edu/gems-gemology/summer-2014-gemnews-bumble-bee-jasper-indonesia)
 - Gem-A, [Journal Digest, Bumble Bee Stone from Indonesia](https://gem-a.com/?p=7188), November 26, 2018, summarizing Emmanuel Fritsch and Joel Ivey, "Bumble Bee Stone, a Bright Yellow-to-Orange and Black Patterned Gem from West Java, Indonesia," *The Journal of Gemmology* 36, no. 3 (2018), pages 228 to 238
 - International Gem Society, [Jasper](https://www.gemsociety.org/article/jasper-gem-information/), [Realgar](https://www.gemsociety.org/article/realgar-jewelry-and-gemstone-information/) and the [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Minerals.net, [Realgar](https://www.minerals.net/mineral/realgar)
 - Hobart M. King, Geology.com, [Calcite](https://geology.com/minerals/calcite.shtml)
-- Rock Your World Gems, [About Bumblebee Jasper](https://www.rockyourworldgems.com/pages/about-bumblebee-jasper), a retailer guide
 - Poison Help, [Poison Help Line](https://poisonhelp.hrsa.gov/), and Poison Control, [Get Help for a Poisoning](https://poison.org/need-immediate-assistance)
-- Pliny the Elder, *Natural History*, Book 37, chapter 37, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D37), CC BY-SA 3.0 US
+- Pliny the Elder, *Natural History*, Book 37, chapter 37, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D37), CC BY-SA 3.0 US
 - Álex Escolà-Gascón and colleagues, *CNS Spectrums* (2025), [DOI 10.1017/S1092852925100515](https://doi.org/10.1017/S1092852925100515)
-- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
-- Modern associations summarized from popular crystal guides, read November 13, 2026
+- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
+- IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
+- [988 Suicide & Crisis Lifeline](https://988lifeline.org/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

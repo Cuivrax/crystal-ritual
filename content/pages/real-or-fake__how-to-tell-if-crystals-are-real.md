@@ -10,7 +10,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-28"
 publishTime: "09:11"
-status: "draft"
+status: "verified"
 page_type: "guide"
 sources:
   - "https://www.gia.edu/gem-synthetic"
@@ -62,7 +62,7 @@ To tell if a crystal is real, first decide what real means, then read the label,
 
 ## What Real Means, the Five Labels We Use
 
-"Real" hides five different answers. We use the same five labels on every page of this site, and the [Label Decoder](/tools/crystal-label-decoder/) uses them too.
+"Real" hides five different answers. We use the same five labels on every page of this site, and the [Label Decoder](/tools/crystal-label-decoder/) uses them too, with two extra tags for label words and for names that cover several things.
 
 | Label | What it means | Common examples |
 |---|---|---|
@@ -82,12 +82,12 @@ These are the labels that most often hide something else. Each row gives the fir
 |---|---|---|---|---|
 | [Citrine](/real-or-fake/citrine/) | Heated amethyst or heated smoky quartz, in most cases | Natural Treated | Deep orange with a reddish tint and color packed in the tips. Some natural citrine is reddish too | [GIA](https://www.gia.edu/citrine/gem-overview) |
 | Turquoise | Stabilized turquoise, filled with wax, oil, resin or epoxy | Natural Treated | A very even color and a glassy shine. Magnification alone can miss it | [IGS](https://www.gemsociety.org/article/turquoise-jewelry-gem-information/) |
-| Blue howlite, howlite turquoise | Howlite dyed blue, the most common turquoise fake | Natural Treated | Dark web veins, a flat blue and white showing in drill holes. Real turquoise has veins too | [IGS](https://www.gemsociety.org/article/howlite-jewelry-and-gemstone-information/) |
+| Blue howlite, howlite turquoise | Howlite dyed blue, the most common turquoise fake | Natural Treated | Dark web veins and a flat, even blue. Real turquoise has veins too | [IGS](https://www.gemsociety.org/article/howlite-jewelry-and-gemstone-information/) |
 | Reconstituted or block turquoise | Ground turquoise pressed with plastic or resin | Imitation | A very even color with no natural pattern. It can look like the real thing | [IGS](https://www.gemsociety.org/article/turquoise-jewelry-gem-information/) |
 | Black onyx | Usually chalcedony dyed black | Natural Treated | A deep, even black with no bands. The dye is stable and hard to see | [Minerals.net](https://m.minerals.net/Gemstone/Onyx.aspx) |
 | Brightly colored agate | Dyed agate | Natural Treated | Bright, even color that pools in cracks and edges. Stable dye can be invisible | [Geology.com](https://geology.com/gemstones/agate/) |
 | Goldstone | Man-made glass with tiny copper crystals | Imitation | Coarse, flat glitter spread very evenly. Natural aventurine glitters too | [GIA](https://www.gia.edu/sunstone/buyers-guide), [Geology.com](https://geology.com/gemstones/aventurine/) |
-| Opalite | Man-made glass or plastic | Imitation | Bubbles or swirl marks and a very even milky look. A few sellers use the word for natural common opal | [IGS](https://www.gemsociety.org/article/opal-jewelry-and-gemstone-information/), [Geology.com](https://geology.com/gemstones/opal/opalite.shtml) |
+| Opalite | Man-made glass or plastic | Imitation, in most cases | Bubbles or swirl marks and a very even milky look. A few sellers use the word for natural common opal | [IGS](https://www.gemsociety.org/article/opal-jewelry-and-gemstone-information/), [Geology.com](https://geology.com/gemstones/opal/opalite.shtml) |
 | Moldavite | Natural impact glass, though much moldavite sold online is man-made glass | Natural Untreated, or Imitation | Real moldavite holds bubbles and swirly flow lines. A faceted stone over two carats, or a piece with no bubbles, is likely fake | [Geology.com](https://geology.com/gemstones/moldavite/) |
 | Magnetic hematite | Hematine, which contains no hematite at all | Imitation | A strong pull to a magnet. Some real hematite holds enough magnetite to be pulled too | [IGS](https://www.gemsociety.org/article/hematite-jewelry-and-gemstone-information/), [Geology.com](https://geology.com/minerals/hematite.shtml) |
 | Mystic topaz | Colorless topaz with a thin coating | Natural Treated | Rainbow colors that shift with the angle, and plain topaz showing at worn edges. A fresh coating shows no wear | [IGS](https://www.gemsociety.org/article/topaz-jewelry-and-gemstone-information/) |
@@ -113,7 +113,6 @@ Every check below is safe for you and for the stone. Each one can raise a doubt.
 |---|---|---|
 | Read the whole label and the receipt | Words like heated, dyed, stabilized, coated, lab-created or simulated | Anything the seller left out |
 | Look with a loupe in daylight | Bubbles and swirl marks point to glass. Color pooled in cracks points to dye. Curved lines point to lab-grown sapphire | Natural glass has bubbles too. Stable dye and modern lab stones can look clean |
-| Look into a drill hole or a chip | White showing under the color, as in dyed howlite | Whether the stone is treated in other ways |
 | Hold a fridge magnet to it | A strong pull on "hematite" points to hematine | Some real hematite is magnetic too |
 | Compare its weight with a known stone of the same size | A gross mismatch, such as a "topaz" that feels as light as citrine | Small differences, which need a gemologist's scale |
 | Look at the price and the pile | A large, clean, bright stone at a very low price | Price alone proves nothing either way |
@@ -151,11 +150,11 @@ It matters for three practical reasons. You should pay a fair price for what you
 
 **What Research Says.** For meaning, the answer may be less than people fear. In a randomized study of 138 adults, people held real rose quartz or a glass look-alike for 14 days, and anxiety scores fell only in those who believed in crystal healing, with the real stone doing no better than the glass ([Escolà-Gascón and colleagues, CNS Spectrums, 2025](https://doi.org/10.1017/S1092852925100515)). It was one trial in adults with low anxiety, scores were self-reported, and some participants could in principle have recognized the glass, so it does not show that either stone treats anything.
 
-> **When a Stone Is Not Enough.** If worry or anxiety is part of why you reached for a crystal, talk to a doctor or a therapist as well. A stone, real or glass, is not a treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
+> **When a Stone Is Not Enough.** If worry or anxiety is part of why you reached for a crystal, talk to a doctor or a therapist as well. A stone, real or glass, is not a treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Fakes Are as Old as Gem Lore
 
-**Tradition.** Glass copies of gems are nothing new. Pliny the Elder, writing in the 1st century, noted that iaspis, a stone read as jasper, was imitated in glass, described an artificial obsidian made of colored glass, and gave a sunlight test for glass copies of opal (*Natural History*, Book 37, chapters [37](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D37) and [22](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D22), and Book 36, chapter [67](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D36%3Achapter%3D67), Bostock and Riley translation, via Perseus at Tufts). George Frederick Kunz recorded that black opals were once faked by dipping light-colored stones into ink (*The Curious Lore of Precious Stones*, 1913, page 151). GIA still calls manufactured glass "an age-old gem imitation that is still used today."
+**Tradition.** Glass copies of gems are nothing new. Pliny the Elder, writing in the 1st century, noted that iaspis, a stone read as jasper, was imitated in glass, described an artificial obsidian made of colored glass, and, in his chapters on opal, described a sunlight test for glass fakes (*Natural History*, Book 37, chapters [37](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D37) and [22](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D22), and Book 36, chapter [67](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D36%3Achapter%3D67), Bostock and Riley translation, via Perseus at Tufts). George Frederick Kunz recorded that black opals were once faked by dipping light-colored stones into ink (*The Curious Lore of Precious Stones*, 1913, page 151). GIA still calls manufactured glass "an age-old gem imitation that is still used today."
 
 ## Three Questions to Ask the Seller
 
@@ -163,7 +162,7 @@ It matters for three practical reasons. You should pay a fair price for what you
 2. Has it been heated, dyed, stabilized, coated or treated in any other way?
 3. Is it natural, lab-grown or an imitation, and will you write that on the receipt?
 
-A good seller answers all three without fuss, and "we don't know" is an honest answer too. The [Label Decoder](/tools/crystal-label-decoder/) turns any name on a tag into one of our five labels and gives you these questions to copy.
+A good seller answers all three without fuss, and "we don't know" is an honest answer too. The [Label Decoder](/tools/crystal-label-decoder/) turns a name on a tag into what it usually means, with the house label beside it, and gives you these questions to copy.
 
 **Try This.** Before you pay for a stone you love, take two photos, one of the tag and one of the stone in daylight, and send the seller the three questions. Keep their reply with the receipt in the box the stone came in. If you ever ask a lab or resell the piece, the paper trail is already there.
 

@@ -19,20 +19,24 @@ publishTime: "10:48"
 status: "verified"
 page_type: "stone"
 sources:
+  - "https://988lifeline.org/"
   - "https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
   - "https://www.gemsociety.org/article/tigers-eye-gem-information/"
   - "https://geology.com/minerals/quartz.shtml"
   - "https://geology.com/gemstones/aventurine/"
   - "https://www.gia.edu/articles/spring-2013-gemnews-dumortierite-quartz-rock-sapphire"
+  - "https://gia.edu/gems-gemology/summer-2015-dual-color-double-stars-ruby-sapphire-quartz"
   - "https://minerals.net/mineral/dumortierite"
   - "https://www.minerals.net/mineral/quartz/aqua-aura"
   - "https://msaweb.org/msa/Collectors_Corner/faq/faqquartz.htm"
   - "https://doi.org/10.1180/minmag.2011.075.4.2519"
   - "https://skyjems.ca/pages/encyclopedia-aquaaura-quartz"
   - "https://www.americangemsociety.org/birthstones/"
+  - "https://cnmnc.units.it/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
+  - "https://doi.org/10.1016/j.xcrm.2022.100895"
   - "https://moonrisecrystals.com/blue-quartz-meaning/"
   - "https://crystalgemstones.net/blue-quartz-meaning-and-spiritual-properties.html"
   - "https://fashonation.com/?p=986896"
@@ -62,7 +66,7 @@ Blue quartz is not one stone. The name covers quartz colored blue by another min
 | Chemicals | OK for quartz itself, not for coated or dyed pieces |
 | Salt | Unknown |
 | Toxic to handle | OK for an intact stone. The risk is cutting dust, not touch |
-| Price range | [TO CHECK US retail ranges] |
+| Price range | Depends first on which blue quartz it is, then on size and clarity, see the price guide below |
 | Birthstone | Not on the modern list |
 | Chakra (Modern Association) | Throat, sometimes third eye |
 
@@ -84,7 +88,7 @@ Here is what the name can mean on a tag, from most natural to least.
 
 ### What Is Dumortierite Quartz?
 
-Dumortierite is a separate mineral, named after the French paleontologist Eugène Dumortier (1803 to 1873). When it forms as dense inclusions inside quartz, "this combination results in a natural blue Quartz gemstone," says [Minerals.net](https://minerals.net/mineral/dumortierite). The trade calls it dumortierite quartz. In Macaúbas, Bahia, Brazil, it is known locally as "Bahia Blue Quartz," and in the United States blue and lavender dumortierite in dense fibrous form comes from the Dehesa deposit near Alpine, California (Minerals.net). The International Gem Society calls it "somewhat rare" and lists "California lapis" as a misnomer for it.
+Dumortierite is a separate mineral, named after the French paleontologist Eugène Dumortier. When it forms as dense inclusions inside quartz, "this combination results in a natural blue Quartz gemstone," says [Minerals.net](https://minerals.net/mineral/dumortierite). The trade calls it dumortierite quartz. In Macaúbas, Bahia, Brazil, it is known locally as "Bahia Blue Quartz," and in the United States blue and lavender dumortierite in dense fibrous form comes from the Dehesa deposit near Alpine, California (Minerals.net). The International Gem Society calls it "somewhat rare" and lists "California lapis" as a misnomer for it.
 
 A 2013 case in GIA's journal shows how confusing it can look. A gem lab in Jaipur, India, received an opaque blue cabochon submitted as sapphire and first suspected dyed quartzite. Testing showed a natural mix of white quartz grains in a blue dumortierite matrix, with a specific gravity of 2.99 against 2.65 for pure quartz. The author estimated it at roughly 55 percent quartz and 45 percent dumortierite, and noted that identification "would have been difficult in the absence of Raman analysis" ([Gems & Gemology](https://www.gia.edu/articles/spring-2013-gemnews-dumortierite-quartz-rock-sapphire), Spring 2013).
 
@@ -102,20 +106,19 @@ Not as a clear, evenly blue crystal point. Natural blue quartz is usually dense 
 
 ### What Is Siberian Blue Quartz?
 
-Treat it as a name, not an origin. On amethyst, the International Gem Society notes that "Siberian" describes a color and "does not refer to its origin." A see-through quartz in strong cobalt blue is lab-grown by the rules above, whatever the tag says [TO CHECK a reference source on the material sold as Siberian blue quartz and where it is grown]. Lab-grown is not a fake in itself. It is only a problem when it is sold as natural.
+Treat it as a name, not an origin. On amethyst, the International Gem Society notes that "Siberian" describes a color and "does not refer to its origin." A see-through quartz in strong cobalt blue is lab-grown by the rules above, whatever the tag says. We found no gem lab or reference source describing the material sold under this name or where it is grown, so ask the seller to state in writing whether it is natural or lab-grown. Lab-grown is not a fake in itself. It is only a problem when it is sold as natural.
 
 ### Is Star Blue Quartz Real?
 
-A natural star is possible in principle. The Mineralogical Society of America notes that when the tiny inclusions line up in the same orientation, "star effects can be generated." The International Gem Society knows star quartz as white, rose or gray, so a blue star is the less familiar case [TO CHECK a reference source and locality for natural blue star quartz]. Check the back of any star cabochon, because the IGS lists foil backing and coatings on cabochons, used to boost color or produce a star, and notes that they can be detected on the surface.
+A natural star is possible in principle. The Mineralogical Society of America notes that when the tiny inclusions line up in the same orientation, "star effects can be generated." The International Gem Society knows star quartz as white, rose or gray. A 2015 study in GIA's journal, which examined pale pink star quartz from Brazil and India, added that "At present, synthetic asteriated quartz is unknown" ([Gems & Gemology](https://gia.edu/gems-gemology/summer-2015-dual-color-double-stars-ruby-sapphire-quartz), Summer 2015). We found no gem lab report or locality for natural star quartz with a blue body color, so a blue star sold as quartz deserves a lab report. Check the back of any star cabochon, because the IGS lists foil backing and coatings on cabochons, used to boost color or produce a star, and notes that they can be detected on the surface.
 
 ## Where the Meaning Comes From
 
 **The Story.** Blue quartz has no old lore of its own. George Frederick Kunz's two books on gem lore (1913 and 1915) have nothing on it, and one crystal guide says outright that its meanings come from modern crystal practice rather than ancient texts. Its real history is a story of science and manufacturing.
 
-- **Eugène Dumortier (1803 to 1873).** The French paleontologist gives his name to dumortierite, the mineral that colors dumortierite quartz (Minerals.net).
+- **1800s, France.** The French paleontologist Eugène Dumortier gives his name to dumortierite, the mineral that colors dumortierite quartz (Minerals.net).
 - **World War II.** Quartz becomes one of the first gems grown synthetically on a large scale, to supply crystals for radios (International Gem Society). Today synthetic quartz "comes in every color of the rainbow," cobalt blue included.
 - **1980s.** Gold-coated aqua aura quartz is first sold, according to the jeweler [Skyjems](https://skyjems.ca/pages/encyclopedia-aquaaura-quartz).
-- **20th century, crystal books.** **Modern Association.** One shop guide credits 20th-century crystal writers with exploring the meanings of each quartz color [TO CHECK book titles and years].
 - **2011.** Seifert and colleagues explain rock-forming blue quartz by light scattering from nano-sized inclusions.
 - **2013.** GIA's journal reports dumortierite quartz submitted as sapphire, and suggests the material is not routinely seen in the trade "perhaps due to lack of awareness or because it is being misrepresented."
 - **Today.** **Modern Association.** Shops tie blue quartz to calm, clear communication, honest speech and the throat chakra.
@@ -156,9 +159,9 @@ Some sellers go much further and list the lungs, blood clots, the thyroid, depre
 
 **Safety.** Small tumbled stones and bead bracelets are not toys. Keep them away from small children and pets who might swallow them.
 
-**What Research Says.** [TO CHECK research study with DOI] Until then, treat these as personal practices.
+**What Research Says.** The slow breath before a hard call has the closest match in research, though not with stones. In a remote randomized study of 108 adults, five minutes a day of breathing exercises for a month, especially cyclic sighing with its long exhales, improved mood and lowered breathing rate more than the same time spent in mindfulness meditation (Balban and colleagues, 2023, *Cell Reports Medicine*, [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)). It tested breathing, not blue quartz or any other stone, the volunteers knew which exercise they were doing and rated their own mood, and one breath is far less than five minutes. Treat the habits above as personal practices.
 
-> **When a Stone Is Not Enough.** Blue quartz is often chosen for anxiety and grief, and some sellers make claims about depression and chronic pain. A stone can be a comfort to hold, but it is not care. If anxiety, sadness or pain lasts or feels heavy, talk to a doctor or a therapist. If you are in crisis in the US, reach the 988 Suicide and Crisis Lifeline [TO CHECK official 988 link].
+> **When a Stone Is Not Enough.** Blue quartz is often chosen for anxiety and grief, and some sellers make claims about depression and chronic pain. A stone can be a comfort to hold, but it is not care. If anxiety, sadness or pain lasts or feels heavy, talk to a doctor or a therapist. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Blue Quartz Real?
 
@@ -204,7 +207,7 @@ Our Care Checker rates water, salt and soaking as Unknown for blue quartz, and t
 
 ## Price Guide
 
-Quartz is common, and the International Gem Society says even clear rock crystal has "little intrinsic value, except in very large, flawless pieces." Dumortierite quartz is "somewhat rare" by the same source. What drives price is which blue quartz it is, so a fair price starts with an honest name. [TO CHECK US retail ranges]
+This guide gives no dollar figures yet. Quartz is common, and the International Gem Society says even clear rock crystal has "little intrinsic value, except in very large, flawless pieces," so size and clarity count. Dumortierite quartz is "somewhat rare" by the same source. What drives price most is which blue quartz it is, natural, dyed, coated or lab-grown, so a fair price starts with an honest name.
 
 **Next Step.** Want the version with no mystery? Read about [dumortierite](/stones/dumortierite/), the mineral that colors dumortierite quartz.
 
@@ -213,14 +216,15 @@ Quartz is common, and the International Gem Society says even clear rock crystal
 - International Gem Society, [Quartz](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/), [Tiger's Eye](https://www.gemsociety.org/article/tigers-eye-gem-information/) and the [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Hobart M. King, Geology.com, [Quartz](https://geology.com/minerals/quartz.shtml) and [Aventurine](https://geology.com/gemstones/aventurine/)
 - Gagan Choudhary, [Dumortierite-Quartz Rock Presented as Sapphire](https://www.gia.edu/articles/spring-2013-gemnews-dumortierite-quartz-rock-sapphire), *Gems & Gemology*, Spring 2013
+- Karl Schmetzer, Martin P. Steinbach, H. Albert Gilg and Andrea R. Blake, [Dual-Color Double Stars in Ruby, Sapphire, and Quartz, Cause and Historical Account](https://gia.edu/gems-gemology/summer-2015-dual-color-double-stars-ruby-sapphire-quartz), *Gems & Gemology*, Summer 2015
 - Minerals.net, [Dumortierite](https://minerals.net/mineral/dumortierite) and [Aqua Aura](https://www.minerals.net/mineral/quartz/aqua-aura)
 - Mineralogical Society of America, [Frequently Asked Questions About Quartz](https://msaweb.org/msa/Collectors_Corner/faq/faqquartz.htm)
 - W. Seifert, D. Rhede, R. Thomas, H.-J. Förster, F. Lucassen, P. Dulski and R. Wirth, "Distinctive Properties of Rock-Forming Blue Quartz, Inferences from a Multi-Analytical Study of Submicron Mineral Inclusions," *Mineralogical Magazine* 75, no. 4 (2011), pages 2519 to 2534, [DOI 10.1180/minmag.2011.075.4.2519](https://doi.org/10.1180/minmag.2011.075.4.2519)
-- Skyjems, [Aqua Aura Quartz](https://skyjems.ca/pages/encyclopedia-aquaaura-quartz), a jeweler's guide
-- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
+- M. Y. Balban and colleagues, *Cell Reports Medicine* (2023), [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)
+- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the [IMA List of Minerals](https://cnmnc.units.it/), July 2026 edition
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913) and *The Magic of Jewels and Charms* (1915), [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978) and [66583](https://www.gutenberg.org/ebooks/66583), searched for blue quartz with no result
-- Modern associations from crystal shop guides at moonrisecrystals.com, crystalgemstones.net, fashonation.com and declansminingco.com, read November 18, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

@@ -16,7 +16,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-31"
 publishTime: "09:19"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/rutilated-quartz-buying-guide/"
@@ -99,7 +99,7 @@ Rutile needles come in shades from golden to brown, says the [International Gem 
 - **Black rutilated quartz.** Rutile in quartz runs from golden and copper to reddish and gray ([Gems & Gemology, Spring 2014](https://gia.edu/gems-gemology/spring-2014-gemnews-tucson-rutilated-quartz)), but black needles in quartz are often black tourmaline, which makes the stone [tourmalinated quartz](/stones/tourmalinated-quartz/) ([Natural Gemstones](https://naturalgemstones.com/education/types-of-inclusions-in-quartz/)). The label does not tell you which. More on our [black rutilated quartz](/stones/black-rutilated-quartz/) page.
 - **Blue rutilated quartz.** Probably not rutile at all. Blue color in quartz is usually caused by micro-inclusions of dumortierite, and a 2025 GIA note describes a rare case of blue tourmaline needles coloring quartz ([Gems & Gemology](https://www.gia.edu/gems-gemology/fall-2025-gemnews-blue-color-in-quartz)). "Blue rutilated quartz" is a name people search for, but we found no seller page or reference source that says what the blue needles in such stones are. Ask the seller what they are and whether a lab identified them.
 
-<!-- PHOTO 2, beside "Smoky rutilated quartz". Wikimedia Commons, "File Rutilated Smoky Quartz - DPLA - 6498da8ac685a2cf8c007cdabdfa191d (page 4).jpg". Page https://commons.wikimedia.org/wiki/File:Rutilated_Smoky_Quartz_-_DPLA_-_6498da8ac685a2cf8c007cdabdfa191d_(page_4).jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Rutilated_Smoky_Quartz_-_DPLA_-_6498da8ac685a2cf8c007cdabdfa191d_%28page_4%29.jpg/1280px-Rutilated_Smoky_Quartz_-_DPLA_-_6498da8ac685a2cf8c007cdabdfa191d_%28page_4%29.jpg (tracking parameters removed). License CC BY 4.0. Credit line "Photo unknown, CC BY 4.0, via Wikimedia Commons" [TO CHECK the photographer or institution named on the Commons page]. Verdict ok in image_picks_new_stones.json ("Smoky rutilated quartz slab with dark rutile needles, sharp and well lit"). Alt text "Slab of smoky quartz crossed by dark rutile needles". -->
+<!-- PHOTO 2, beside "Smoky rutilated quartz". Wikimedia Commons, "File Rutilated Smoky Quartz - DPLA - 6498da8ac685a2cf8c007cdabdfa191d (page 4).jpg". Page https://commons.wikimedia.org/wiki/File:Rutilated_Smoky_Quartz_-_DPLA_-_6498da8ac685a2cf8c007cdabdfa191d_(page_4).jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Rutilated_Smoky_Quartz_-_DPLA_-_6498da8ac685a2cf8c007cdabdfa191d_%28page_4%29.jpg/1280px-Rutilated_Smoky_Quartz_-_DPLA_-_6498da8ac685a2cf8c007cdabdfa191d_%28page_4%29.jpg (tracking parameters removed). License CC BY 4.0. Credit line "Photo unknown, CC BY 4.0, via Wikimedia Commons" photo pass to confirm. Verdict ok in image_picks_new_stones.json ("Smoky rutilated quartz slab with dark rutile needles, sharp and well lit"). Alt text "Slab of smoky quartz crossed by dark rutile needles". -->
 
 ### Where It Comes From
 
@@ -164,7 +164,7 @@ Some guides go much further and claim help with depression, anxiety, PTSD, addic
 
 **What Research Says.** In a remote randomized study of 108 adults, five minutes a day of structured breathing for a month, especially cyclic sighing with long exhales, improved mood and lowered breathing rate more than the same time spent in mindfulness meditation ([Balban and colleagues, *Cell Reports Medicine*, 2023](https://doi.org/10.1016/j.xcrm.2022.100895)). The authors began it as an exploratory study, participants knew which exercise they were doing, mood was self-reported, and no stones were involved. Three slow breaths before an interview are a much smaller dose, so the link is our extrapolation, and the breathing, not the stone, is the part with research behind it.
 
-> **When a Stone Is Not Enough.** Some sites sell rutilated quartz for depression, anxiety, PTSD or addiction. A stone can be a comfort to hold, but it is not care. If low mood, anxiety or cravings last or feel heavy, talk to a doctor or a therapist. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
+> **When a Stone Is Not Enough.** Some sites sell rutilated quartz for depression, anxiety, PTSD or addiction. A stone can be a comfort to hold, but it is not care. If low mood, anxiety or cravings last or feel heavy, talk to a doctor or a therapist. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Rutilated Quartz Real?
 

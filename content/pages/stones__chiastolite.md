@@ -42,7 +42,7 @@ sources:
 
 Chiastolite is a variety of the mineral andalusite whose crystals hide a natural black cross, made of carbon pushed aside as the crystal grew. Pilgrims on the road to Santiago de Compostela carried it as an amulet, and crystal lovers today keep it for protection. The cross is real geology. The protection is a belief.
 
-<!-- PHOTO HERO. Wikimedia Commons, "File Chiastolite 2581.jpg", by Vassil. Page https://commons.wikimedia.org/wiki/File:Chiastolite_2581.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Chiastolite_2581.jpg/1280px-Chiastolite_2581.jpg (tracking parameters removed). License Public domain. Credit line "Photo Vassil, Public domain, via Wikimedia Commons". Picked in image_picks_new_stones.json under andalusite, verdict hero, note "Chiastolite cross pattern in a sharp slab". Alt text "Polished chiastolite slice with a dark cross on a pale gray background". The Smithsonian chiastolite candidates in images_candidates.csv were marked doubt or wrong (no visible cross), so no second photo yet. -->
+<!-- PHOTO HERO. File site/photos/stones__chiastolite/hero.jpg. Source Canva stock photo (Canva Content License, used inside a Canva design), https://www.canva.com/photos/MAC3-P1k1s0/ , title "Tumbled Chiastolite Gemstone". License Canva Content License. Credit "Photo via Canva". Visual check 2026-11-18, Tumbled chiastolite with a clear dark cross on white marble, bright and sharp; title names the stone. Previous hero (Commons, Vassil) kept as alternative. -->
 
 ## Chiastolite Quick Facts
 

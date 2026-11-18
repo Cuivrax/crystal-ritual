@@ -76,7 +76,7 @@ function stonesFor(phase) {
 function stonesHTML(phase) {
   const g = stonesFor(phase);
   if (!g.stones || !g.stones.length) {
-    return `<p class="stones-empty">No stone is named by more than one of the guides we read for the ${esc(g.label)}.</p>`;
+    return `<p class="stones-empty">No stone is linked often enough to the ${esc(g.label)} in modern crystal guides to rate it.</p>`;
   }
   const items = g.stones.map((s) => {
     const k = facetsFromCounts(s.sources, s.sources_read);

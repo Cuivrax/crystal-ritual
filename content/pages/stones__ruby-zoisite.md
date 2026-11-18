@@ -20,10 +20,13 @@ sources:
   - "https://www.gia.edu/ruby/gem-overview"
   - "https://www.gia.edu/ruby-care-cleaning"
   - "https://www.gia.edu/tanzanite-care-cleaning"
+  - "https://www.gia.edu/gems-gemology/winter-2017-labnotes-dyed-quartzite-imitation-ruby-in-zoisite"
+  - "https://www.gemsociety.org/article/tanzanite-jewelry-and-gemstone-information/"
   - "https://www.gemsociety.org/article/ruby-jewelry-and-gemstone-information/"
   - "https://www.gemsociety.org/news/2025/11/03/wrekin-ruby/"
   - "https://gem.agency/gemstones/ruby-in-zoisite/"
   - "https://www.americangemsociety.org/birthstones/"
+  - "https://cnmnc.units.it/"
   - "https://doi.org/10.1016/S0065-2601(06)38002-1"
   - "https://988lifeline.org/"
   - "https://www.gutenberg.org/ebooks/57978"
@@ -60,7 +63,7 @@ Ruby zoisite is a rock, not a single gem. It is green zoisite with crystals of r
 | Knocks | Avoid hard blows. Zoisite has fair to poor toughness |
 | Trade names | Anyolite, ruby in zoisite, Tanganyika artstone |
 | Common mix-up | Ruby in fuchsite |
-| Price range | [TO CHECK US retail ranges] |
+| Price range | Not a ruby price. Size, clarity and cutting matter, see the Price Guide |
 | Birthstone | Not on the modern list. Ruby alone is July's stone |
 | Chakra (Modern Association) | Heart most often, then root |
 
@@ -143,23 +146,23 @@ A few guides list fertility, circulation, blood sugar or even terminal illness. 
 
 **What Research Says.** A [2006 meta-analysis](https://doi.org/10.1016/S0065-2601%2806%2938002-1) by Peter Gollwitzer and Paschal Sheeran, pooling published lab and field studies, found that people who made an if-then plan ("if X happens, then I will do Y") were more likely to act on a goal than people who only intended to. It did not test stones, and a plan helps only with something you already want to do. The first two rituals above are if-then plans with the stone as the "if."
 
-> **When a Stone Is Not Enough.** Ruby zoisite is often chosen for grief, stress and hopes around fertility. A stone can be a comfort to hold, but it is not care. If grief, low mood or worry lasts or feels heavy, talk to a doctor, a therapist or a counselor, and bring fertility questions to your doctor. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
+> **When a Stone Is Not Enough.** Ruby zoisite is often chosen for grief, stress and hopes around fertility. A stone can be a comfort to hold, but it is not care. If grief, low mood or worry lasts or feels heavy, talk to a doctor, a therapist or a counselor, and bring fertility questions to your doctor. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Ruby Zoisite Real?
 
 We use the same five labels on every stone. The main risk is a different rock sold under this name.
 
 - **Natural, untreated.** Most of what you will see. Minerals.net says green zoisite and the other zoisites apart from tanzanite are naturally colored and usually not enhanced.
-- **Natural, treated.** GIA lists fracture filling, cavity filling, dyeing and heating for ruby in general ([GIA ruby care](https://www.gia.edu/ruby-care-cleaning)). [TO CHECK whether dyed, filled or stabilized ruby zoisite is sold in the US.]
-- **Lab-grown.** [TO CHECK whether any lab-made or assembled imitation of ruby zoisite is sold.]
-- **Imitation.** Ruby in fuchsite is the classic one. Geology.com says shows and online auctions present it as "ruby in zoisite" more often than under its own name. [TO CHECK which glass, resin or painted stones are sold as ruby zoisite.]
+- **Natural, treated.** GIA lists fracture filling, cavity filling, dyeing and heating for ruby in general ([GIA ruby care](https://www.gia.edu/ruby-care-cleaning)). We found no reference source describing dyed, filled or stabilized ruby zoisite itself.
+- **Lab-grown.** We found no reference source on a lab-made or assembled version of ruby zoisite.
+- **Imitation.** Ruby in fuchsite is the classic one. Geology.com says shows and online auctions present it as "ruby in zoisite" more often than under its own name. GIA has also seen a dyed rock. A 2017 lab note describes a bracelet of translucent beads that "closely resembled ruby-in-zoisite" but turned out to be quartzite dyed green and purple, the first such case it had seen ([Gems & Gemology](https://www.gia.edu/gems-gemology/winter-2017-labnotes-dyed-quartzite-imitation-ruby-in-zoisite)). We found no reference source on glass, resin or painted stones sold under the name.
 - **Trade names.** Anyolite, ruby in zoisite and Tanganyika artstone all mean the same rock, and none is a fake. A tag that only says "ruby" on a green-and-red piece is incomplete.
 
 Three checks you can do at home, with their limits.
 
 1. **Look for black specks.** Ruby in zoisite is usually marked with a scattering of black hornblende crystals ([Geology.com](https://geology.com/minerals/fuchsite.shtml)). The limit is that some pieces are mostly green with very little black.
 2. **Look around each ruby.** In ruby in fuchsite, the rubies usually have blue kyanite rims, which do not occur around rubies in zoisite (Geology.com). A loupe helps. No rim is a good sign, not a proof.
-3. **Shine a UV flashlight.** Ruby often fluoresces (International Gem Society). This confirms there is likely ruby in the piece. It does not tell zoisite from fuchsite.
+3. **Shine a UV flashlight.** Ruby often fluoresces (International Gem Society). This confirms there is likely ruby in the piece. It does not tell zoisite from fuchsite. The dyed quartzite beads GIA examined glowed very weak red under long-wave UV and not at all under short-wave.
 
 Ask the seller which green mineral holds the ruby, whether anything was dyed, filled or coated, and where it was mined. The [Label Decoder](/tools/crystal-label-decoder/) explains the words on a tag.
 
@@ -195,7 +198,7 @@ Both are green rocks holding real ruby, and they get mixed up constantly. Geolog
 
 ## Price Guide
 
-Ruby zoisite is sold as a minor gemstone, in cabochons, beads and animal carvings (Minerals.net). The ruby inside does not make it a ruby-priced stone, as the £11 million "ruby" story shows. Kievlenko notes that rare translucent areas in the ruby increase its decorative value. [TO CHECK US retail ranges]
+Ruby zoisite is sold as a minor gemstone, in cabochons, beads and animal carvings (Minerals.net). The ruby inside does not make it a ruby-priced stone, as the £11 million "ruby" story shows. Kievlenko notes that rare translucent areas in the ruby increase its decorative value. For zoisite in general, the International Gem Society says size and clarity have a strong effect on prices and custom cuts add value ([IGS](https://www.gemsociety.org/article/tanzanite-jewelry-and-gemstone-information/)). Before paying more, ask whether the color is natural, since GIA has seen dyed quartzite beads made to look like ruby zoisite.
 
 **Next Step.** Choosing a stone for a couple or a new relationship? Compare the usual picks in [crystals for love](/crystals-for/love/).
 
@@ -206,14 +209,15 @@ Ruby zoisite is sold as a minor gemstone, in cabochons, beads and animal carving
 - Alex Strekeisen petrography atlas, [Anyolite](https://alexstrekeisen.it/english/meta/anyolite.php)
 - E. Ya. Kievlenko, *Geology of Gems* (2003), page 60, as quoted in the [Gemdat entry for Mundarara Mine](https://www.gemdat.org/loc-8256.html)
 - Gemological Institute of America, [Ruby](https://www.gia.edu/ruby/gem-overview), [Ruby Care and Cleaning](https://www.gia.edu/ruby-care-cleaning) and [Tanzanite Care and Cleaning](https://www.gia.edu/tanzanite-care-cleaning)
-- International Gem Society, [Ruby](https://www.gemsociety.org/article/ruby-jewelry-and-gemstone-information/) and the [Wrekin ruby](https://www.gemsociety.org/news/2025/11/03/wrekin-ruby/), updated December 11, 2025
-- gem.agency, [Ruby in Zoisite](https://gem.agency/gemstones/ruby-in-zoisite/), a dealer guide
+- HyeJin Jang-Green, "Dyed Quartzite Imitation of Ruby-in-Zoisite," Lab Notes, *Gems & Gemology* 53, no. 4 (Winter 2017), [GIA](https://www.gia.edu/gems-gemology/winter-2017-labnotes-dyed-quartzite-imitation-ruby-in-zoisite)
+- International Gem Society, [Ruby](https://www.gemsociety.org/article/ruby-jewelry-and-gemstone-information/), [Tanzanite](https://www.gemsociety.org/article/tanzanite-jewelry-and-gemstone-information/) and the [Wrekin ruby](https://www.gemsociety.org/news/2025/11/03/wrekin-ruby/), updated December 11, 2025
 - Peter M. Gollwitzer and Paschal Sheeran, *Advances in Experimental Social Psychology* 38 (2006), [DOI link](https://doi.org/10.1016/S0065-2601%2806%2938002-1)
 - 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
-- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
+- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
+- IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 101 to 103 and 162, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
-- Modern associations summarized from popular crystal guides, read November 13, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

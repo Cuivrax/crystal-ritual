@@ -16,7 +16,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-27"
 publishTime: "10:10"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/tektite-jewelry-and-gemstone-information/"
@@ -26,7 +26,6 @@ sources:
   - "https://www.gia.edu/gems-gemology/spring-2023-lab-notes-libyan-desert-glass-bangle-bracelet"
   - "https://real.mtak.hu/id/eprint/237314"
   - "https://doi.org/10.71067/AePIX-2025-205-266"
-  - "https://msaweb.org/MSA/AmMin/AM_Preprints/8759KovalevaPreprint.pdf"
   - "https://theconversation.com/libyan-deserts-yellow-glass-how-we-discovered-the-origin-of-these-rare-and-mysterious-shards-217565"
   - "https://www.sci.news/space/origin-libyan-desert-glass-07204.html"
   - "https://doi.org/10.1130/G45974.1"
@@ -52,10 +51,10 @@ Libyan desert glass is a natural yellow glass, about 98 percent silica, found in
 | What it is | Natural silica glass. Gem references file it with the tektites, glasses made by meteorite impacts |
 | Mineral status | Not a mineral species and not a crystal. Glass has no entry as a species on the IMA List of Minerals |
 | Composition | About 98% silica (SiO₂), with traces of iron, titanium and other elements |
-| Mohs hardness | 5 to 5.5. Tektites as a group run 5 to 6.5 |
+| Mohs hardness | 5 to 6.5 for tektites as a group (GIA and the IGS tektite article). The IGS natural glass page lists 5 to 5.5 for this glass |
 | Specific gravity | About 2.20 |
 | Refractive index | About 1.44 to 1.46 |
-| Colors | Colorless and pale yellow to greenish yellow, some brownish green or gray, milky to transparent |
+| Colors | Light yellow to greenish yellow, usually transparent (IGS) |
 | Age | About 29 million years |
 | Where it is found | The Great Sand Sea of western Egypt, near the Libyan border |
 | Water | Brief only, a quick wash |
@@ -68,11 +67,11 @@ Libyan desert glass is a natural yellow glass, about 98 percent silica, found in
 | Birthstone | Not on the modern list |
 | Chakra (Modern Association) | Solar plexus, sometimes sacral |
 
-> **Is It Real? Quick Checks.** Real Libyan desert glass is pale yellow to greenish yellow and usually carries flaws, such as gas bubbles, flow lines, tiny white spots or brown streaks. A flawless, glass-clear yellow piece at a bargain price is the warning sign. Only a gem lab can confirm it, from its refractive index, density and spectra.
+> **Is It Real? Quick Checks.** Real Libyan desert glass is pale yellow to greenish yellow and usually carries flaws, such as gas bubbles, flow lines, or tiny white spots. A flawless, glass-clear yellow piece at a bargain price is the warning sign. Only a gem lab can confirm it, from its refractive index, density and spectra.
 
 ## What Libyan Desert Glass Actually Is
 
-**The Stone.** Libyan desert glass is glass that nature made. [GIA](https://www.gia.edu/gems-gemology/spring-2023-lab-notes-libyan-desert-glass-bangle-bracelet) describes it as a type of tektite formed by a meteorite impact in the desert and "the fast quenching of the silica-rich melt produced." Its lab found the material to be "nearly pure silica with minor amounts of iron, strontium, potassium, titanium, and zirconium." Other analyses put the silica at about 98 percent ([Kovaleva and colleagues](https://msaweb.org/MSA/AmMin/AM_Preprints/8759KovalevaPreprint.pdf)).
+**The Stone.** Libyan desert glass is glass that nature made. [GIA](https://www.gia.edu/gems-gemology/spring-2023-lab-notes-libyan-desert-glass-bangle-bracelet) describes it as a type of tektite formed by a meteorite impact in the desert and "the fast quenching of the silica-rich melt produced." Its lab found the material to be "nearly pure silica with minor amounts of iron, strontium, potassium, titanium, and zirconium." The lab's bangle was "composed of almost 98% silica."
 
 Despite the name, GIA places it in Egypt's Western Desert. The research team behind a recent study describes yellow pieces scattered across part of the Great Sand Sea, a desert of about 28,000 square miles (72,000 square kilometers) that links Egypt and Libya ([The Conversation](https://theconversation.com/libyan-deserts-yellow-glass-how-we-discovered-the-origin-of-these-rare-and-mysterious-shards-217565)).
 
@@ -82,11 +81,11 @@ No. It is glass, a solid that cooled from a melt too fast to grow crystals, so i
 
 ### Is Libyan Desert Glass a Tektite?
 
-Gem references say yes. The [International Gem Society](https://www.gemsociety.org/article/tektite-jewelry-and-gemstone-information/) covers it in its tektite article, and notes that Africa yields tektites such as Libyan desert glass and ivorite ([IGS, moldavite](https://www.gemsociety.org/article/moldavite-jewelry-and-gemstone-information/)). It is an unusual one, though. Other natural glasses, from moldavite to the tektites of Ivory Coast, are neither as rich in silica nor found in such large lumps and quantities (The Conversation). Tektites run to about 25 carats, while Libyan desert glass often weighs several pounds ([IGS, natural glass](https://www.gemsociety.org/article/natural-glass/)).
+Gem references say yes. The [International Gem Society](https://www.gemsociety.org/article/tektite-jewelry-and-gemstone-information/) covers it in its tektite article, and notes that Africa yields tektites such as Libyan desert glass and ivorite ([IGS, moldavite](https://www.gemsociety.org/article/moldavite-jewelry-and-gemstone-information/)). It is an unusual one, though. Other natural glasses, from moldavite to the tektites of Ivory Coast, are neither as rich in silica nor found in such large lumps and quantities (The Conversation). Faceted moldavite runs up to about 25 carats, while Libyan desert glass often weighs several pounds ([IGS, natural glass](https://www.gemsociety.org/article/natural-glass/)).
 
 ### What It Looks Like Inside
 
-The color runs from colorless and light yellow to brownish green and gray, from milky to transparent, and some pieces carry brown flow bands (Kovaleva and colleagues). When GIA examined a transparent light yellow bangle carved from it, the lab saw numerous gas bubbles, flow structure and small white spherulites of cristobalite, a high-temperature form of silica that GIA links to a natural origin.
+The IGS describes the color as light yellow to greenish yellow, usually with irregular gas bubbles and tiny rounded grains. When GIA examined a transparent light yellow bangle carved from it, the lab saw numerous gas bubbles, flow structure and small white spherulites of cristobalite, a high-temperature form of silica that GIA links to a natural origin.
 
 <!-- PHOTO 2, beside "What It Looks Like Inside". Wikimedia Commons, "File Libyan Desert Glass tektite (Oligocene, 28.5 Ma; Libyan Desert, Egypt) 6.jpg", by James St. John. Page https://commons.wikimedia.org/wiki/File:Libyan_Desert_Glass_tektite_(Oligocene,_28.5_Ma;_Libyan_Desert,_Egypt)_6.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Libyan_Desert_Glass_tektite_%28Oligocene%2C_28.5_Ma%3B_Libyan_Desert%2C_Egypt%29_6.jpg/1280px-Libyan_Desert_Glass_tektite_%28Oligocene%2C_28.5_Ma%3B_Libyan_Desert%2C_Egypt%29_6.jpg (tracking parameters removed). License CC BY 2.0. Credit line "Photo James St. John, CC BY 2.0, via Wikimedia Commons". visual_check ok in image_picks_new_stones.json ("Pale green glass full of white devitrification spherulites, correct material, sharp"). Alt text "Pale greenish yellow Libyan desert glass with many small white spots inside". -->
 
@@ -94,13 +93,13 @@ The color runs from colorless and light yellow to brownish green and gray, from 
 
 **Mineral Fact.** The best evidence now points to a meteorite striking the ground, but the question took almost a century to settle, and one piece of the puzzle is still missing.
 
-The ideas listed in a recent study by Elizaveta Kovaleva and colleagues show how wide the field was.
+A member of the research team, writing about the study in [The Conversation](https://theconversation.com/libyan-deserts-yellow-glass-how-we-discovered-the-origin-of-these-rare-and-mysterious-shards-217565), lists how wide the field was.
 
-- **Lightning.** Sand fused by lightning, a fulgurite (Baker, 1959).
-- **Water and sediment.** A hydrothermal or sedimentary origin (Jux, 1983, and Feller, 1997).
-- **The Moon.** Volcanic glass thrown from the Moon (Futrell and O'Keefe, 1997).
-- **A meteorite impact.** Kleinmann, 1968, among others.
-- **An airburst.** A comet or asteroid exploding in the air, melting the sand without leaving a crater (Seebaugh and Strauss, 1984, Wasson, 2003, and Boslough and Crawford, 2008).
+- **Lightning.** Sand and soil fused by lightning, a fulgurite.
+- **Water and sediment.** A sedimentary or hydrothermal origin.
+- **The Moon.** Volcanic glass thrown from the Moon.
+- **A meteorite impact.** A nearby meteorite crater.
+- **An airburst.** A large meteor exploding in the air.
 
 ### Impact or Airburst?
 
@@ -108,22 +107,21 @@ Earlier models treated Libyan desert glass as the trace of a huge airburst, in t
 
 In 2019, Aaron Cavosie of Curtin University and Christian Koeberl of the Natural History Museum Vienna and the University of Vienna looked at tiny zircon grains in the glass. "Zircons in the glass preserved evidence of the former presence of a high-pressure mineral named reidite, which only forms during a meteorite impact," Cavosie said. Airbursts can melt rock, but only impacts send the shock waves that make such minerals, so the team concluded the glass came from an impact ([Geology, 2019](https://doi.org/10.1130/G45974.1)).
 
-The Kovaleva team then studied two fragments from the Egypt and Libya border area with an electron microscope. They found several forms of zirconium oxide, among them cubic zirconia, the same material sold in jewelry as a diamond substitute (The Conversation), and a rare high-pressure form called OII. From these they estimated melt temperatures above 4,980 °F (2,750 °C), close to the point where silica boils, and pressures above about 130,000 times the air pressure at sea level (13.5 gigapascals). The authors note that heat alone could fit either an impact or an airburst. The high-pressure form is what favors an impact.
+The Conversation author's team then studied two pieces collected by a local in the Al Jaouf region of southeastern Libya, using a transmission electron microscope. They found several forms of zirconium oxide, among them cubic zirconia, the same material sold in jewelry as a diamond substitute, which forms only at about 4,080 to 4,890 °F (2,250 to 2,700 °C), and a very rare form called OII, which forms at about 130,000 times sea level air pressure (The Conversation). The author writes that such conditions can be reached in the Earth's crust only by a meteorite impact or an atomic bomb. The high-pressure form is what favors an impact over an airburst.
 
 ### What Is Still Unknown
 
 The crater. If an impact made the glass, the parent crater should be nearby, but the nearest known craters, GP and Oasis, about 1.2 and 11 miles across (2 and 18 kilometers), are too small and too far away (The Conversation). It may be eroded, deformed or buried under sand.
 
-The age is a puzzle too. Dating puts the glass at close to 29 million years (fission-track dating gives 28.5 million), yet the sediments it seems to have melted from appear to be younger than that in this part of the desert (The Conversation, Kovaleva and colleagues). The IGS natural glass page, last updated in 2021, still calls its source "a mystery," and as far as the crater goes, it still is.
+The age is a puzzle too. Dating from 1996 puts the glass at close to 29 million years, yet a later study suggested its source material was quartz grains coated with clay minerals and iron and titanium oxides, and that material did not exist in that part of the desert 29 million years ago (The Conversation). The IGS natural glass page, last updated in 2021, still calls its source "a mystery," and as far as the crater goes, it still is.
 
 ## Where the Meaning Comes From
 
 **The Story.** Libyan desert glass has one ancient story, and it is a royal one.
 
-- **Ancient Egypt, about 1332 to 1323 BCE.** **Tradition.** The scarab at the center of one of Tutankhamun's pectorals is carved from this greenish yellow natural glass. Rita Simon, in a 2025 peer-reviewed study of the piece, reads the pectoral's design as complex symbolism of the movement of the sun and the moon, tied to the king's afterlife, and writes that "the appearance of an LDG artefact is so far unique in the material culture of pharaonic archaeology" ([Aegyptus et Pannonia IX](https://real.mtak.hu/id/eprint/237314)). The dates are the king's reign as the International Gem Society gives them.
-- **1922.** Howard Carter finds Tutankhamun's tomb, the source of the pectoral, and Simon's study marks the centenary.
-- **1932 and 1934.** Patrick A. Clayton's expedition brings the glass field to science in 1932 (Simon), and Clayton and Spencer describe "silica-glass from the Libyan Desert" in *Mineralogical Magazine* in 1934 (GIA).
-- **1996 to 1998.** A mineralogist looking at the pectoral in the Egyptian Museum in Cairo realizes the yellow-green gem is Libyan desert glass (International Gem Society). Simon notes the scarab had been thought to be chalcedony until 1998.
+- **Ancient Egypt, about 1332 to 1323 BCE.** **Tradition.** The scarab at the center of one of Tutankhamun's pectorals is made of this yellow-green natural glass. In a 2025 study of the piece, Rita Simon notes that no other known object from the Nile Valley is made of it, and that the pectoral's motifs relate to the movement of the sun and the moon and to the king's transformations in the afterlife ([Aegyptus et Pannonia IX](https://real.mtak.hu/id/eprint/237314)). The dates are the king's reign as the International Gem Society gives them.
+- **1932 and 1934.** Patrick A. Clayton's 1932 expedition makes the key scientific discovery of the glass field (Simon), and GIA says the glass was first reported by Clayton and Spencer in 1934.
+- **1996 to 1998.** In 1996 a mineralogist looking at the pectoral in the Egyptian Museum of Cairo realizes the yellow-green gem is Libyan desert glass (International Gem Society). Simon notes the glass had been thought to be chalcedony until 1998.
 - **Today.** **Modern Association.** Crystal sellers call it a talisman for connecting with the sun and the Egyptian solar gods, and tie it to the solar plexus chakra, the element fire, confidence, willpower and manifestation. One shop guide admits its healing properties "have only recently been explored."
 
 The solar meaning most likely grew from the color and the pharaoh. None of the sellers cite an ancient text for the glass's own powers, and the sun and moon symbolism Simon describes belongs to the pectoral's design as a whole.
@@ -176,7 +174,7 @@ We use the same five labels on every stone.
 
 Three checks you can do at home, with their limits.
 
-1. **Look for natural flaws with a loupe.** Irregular gas bubbles, tiny rounded grains (IGS), flow structure and white cristobalite spots (GIA) fit the real thing. The limit is that natural glasses share the bubbles and swirl lines of man-made glass, the IGS notes, so flaws are a hint, not a proof.
+1. **Look for natural flaws with a loupe.** Irregular gas bubbles, tiny rounded grains (IGS), flow structure and white cristobalite spots (GIA) fit the real thing. The limit is that flaws are a hint, not a proof, and only a lab can settle it.
 2. **Be wary of perfection.** The IGS says fake "African moldavites" tend to look clearer than real moldavite, with fewer inclusions. The same logic helps here. An even, flawless, glass-clear yellow piece deserves questions. Some real pieces are transparent too, so this is a warning sign, not a verdict.
 3. **Check the color story.** Libyan desert glass is light yellow to greenish yellow (IGS). A vivid green piece sold as "desert glass" or "African moldavite" is a red flag.
 
@@ -197,7 +195,7 @@ A gem lab can settle it, from refractive index and density (IGS) or, as GIA did 
 
 ### Can Libyan Desert Glass Go in Water or Sun?
 
-A quick wash, yes. A soak, only a brief one. One crystal encyclopedia rates it safe in water, but the IGS care advice covers washing only, so our Care Checker rates water and soaking as Brief only.
+A quick wash, yes. A soak, only a brief one. The IGS care advice for tektites covers washing only, so our Care Checker rates water and soaking as Brief only.
 
 Sun is a harder case for a stone linked to the sun. Sellers tie it to solar gods, yet no reference source covers how sunlight affects it, so our care data rates sun as Unknown. Skip the sunny windowsill, and keep it away from hot surfaces, since heat is a firm Avoid. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
 
@@ -216,17 +214,17 @@ Both are natural glasses made by impacts, but they differ in place, age and colo
 
 ## Price Guide
 
-The IGS calls Libyan desert glass rare and says its value depends on size, transparency, color and quality of cutting. It is usually faceted when cut, and rough pieces can weigh several pounds, so a large, clear, evenly colored stone sits at the top. [TO CHECK US retail ranges]
+The IGS calls Libyan desert glass rare and says its value depends on size, transparency, color and quality of cutting. The IGS describes it as usually faceted and notes that rough pieces often weigh several pounds, while it says tektites large enough to cut are rare, so a large, transparent, evenly colored cut stone sits at the top. Ask a seller for the weight, the color and the proof of origin before you compare any two prices.
 
 **Next Step.** Choosing a stone for a big day? Compare the usual picks in [crystals for confidence](/crystals-for/confidence/).
 
 ## Sources
 
 - International Gem Society, [Tektite](https://www.gemsociety.org/article/tektite-jewelry-and-gemstone-information/), [Natural Glass](https://www.gemsociety.org/article/natural-glass/) (updated January 14, 2021), [Moldavite](https://www.gemsociety.org/article/moldavite-jewelry-and-gemstone-information/) and [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
-- Ching Yin Sin, [Libyan Desert Glass Bangle Bracelet](https://www.gia.edu/gems-gemology/spring-2023-lab-notes-libyan-desert-glass-bangle-bracelet), *Gems & Gemology*, Spring 2023, GIA
+- GIA, [Libyan Desert Glass Bangle Bracelet](https://www.gia.edu/gems-gemology/spring-2023-lab-notes-libyan-desert-glass-bangle-bracelet), *Gems & Gemology*, Spring 2023 lab notes
 - Rita Simon, "The Curious History of Tutankhamun's Scarab," *Aegyptus et Pannonia IX* (Budapest, 2025), pages 205 to 266, [doi.org/10.71067/AePIX-2025-205-266](https://doi.org/10.71067/AePIX-2025-205-266), [repository record](https://real.mtak.hu/id/eprint/237314)
 - Aaron J. Cavosie and Christian Koeberl, "Overestimation of Threat from 100 Mt-Class Airbursts? High-Pressure Evidence from Zircon in Libyan Desert Glass," *Geology* (2019), [doi.org/10.1130/G45974.1](https://doi.org/10.1130/G45974.1), as summarized by [Sci.News](https://www.sci.news/space/origin-libyan-desert-glass-07204.html)
-- Elizaveta Kovaleva, Hassan Helmy, Said Belkacim and colleagues, "Libyan Desert Glass, New Evidence for an Extremely High-Pressure-Temperature Impact Event from Nanostructural Study," *American Mineralogist* preprint, [Mineralogical Society of America](https://msaweb.org/MSA/AmMin/AM_Preprints/8759KovalevaPreprint.pdf), with the team's account in [The Conversation](https://theconversation.com/libyan-deserts-yellow-glass-how-we-discovered-the-origin-of-these-rare-and-mysterious-shards-217565)
+- A member of the research team, account of the transmission electron microscope study of Libyan desert glass, [The Conversation](https://theconversation.com/libyan-deserts-yellow-glass-how-we-discovered-the-origin-of-these-rare-and-mysterious-shards-217565)
 - P. M. Gollwitzer and P. Sheeran, *Advances in Experimental Social Psychology* 38 (2006), [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)
 - IMA List of Minerals, July 2026 edition, [official IMA CNMNC site](https://cnmnc.units.it/)
 - Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)

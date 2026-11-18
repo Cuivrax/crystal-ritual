@@ -11,7 +11,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-30"
 publishTime: "10:24"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.minerals.net/mineral/agate/laguna-agate"
@@ -35,7 +35,7 @@ sources:
 
 # Laguna Agate Meaning, Properties & What It Really Is
 
-Laguna agate is a banded agate from the Ojo Laguna area of northern Chihuahua, Mexico, prized by collectors for dense, brightly colored fortification bands. Crystal lovers read it as a protective, fiery stone, a modern take on old agate lore. The honest note is that agate takes dye easily, so a Laguna label needs a seller who can say where it was found.
+Laguna agate is a banded agate from the Ojo Laguna area of northern Chihuahua, Mexico, known for very dense, colorful fortification banding. Crystal lovers read it as a protective, fiery stone, a modern take on old agate lore. The honest note is that agate takes dye easily, so a Laguna label needs a seller who can say where it was found.
 
 <!-- PHOTO HERO. Wikimedia Commons, "File Laguna Agate (Chihuahua, Mexico) 7 (32744497506).jpg", by James St. John. Page https://commons.wikimedia.org/wiki/File:Laguna_Agate_(Chihuahua,_Mexico)_7_(32744497506).jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Laguna_Agate_%28Chihuahua%2C_Mexico%29_7_%2832744497506%29.jpg/1280px-Laguna_Agate_%28Chihuahua%2C_Mexico%29_7_%2832744497506%29.jpg (tracking parameters removed). License CC BY 2.0. Credit line "Photo James St. John, CC BY 2.0, via Wikimedia Commons". visual_check hero in image_picks_new_stones.json ("Polished slab with rose, pink and purple bands around a white center and a purple pocket, sharp, fills the frame, typical Laguna look"). Alt text "Polished slab of Laguna agate from Chihuahua, Mexico, with rose, pink and purple bands around a white center". -->
 
@@ -47,8 +47,8 @@ Laguna agate is a banded agate from the Ojo Laguna area of northern Chihuahua, M
 | Mineral status | A variety of quartz, which is an approved species on the IMA List of Minerals |
 | Formula | SiO₂ |
 | Mohs hardness | About 7 |
-| Colors | Reds, oranges, yellows, pinks and purples, framed by white and gray bands |
-| Color cause | Traces of metal oxides, mainly iron and manganese |
+| Colors | Reds, oranges, yellows, pinks and purples with white and gray bands, according to a dealer's guide |
+| Color cause | Traces of metal oxides such as iron and manganese (IGS) |
 | Where it comes from | East of Estación Ojo Laguna, Sierra El Oso, Chihuahua, Mexico |
 | Host rock | Volcanic rock, in nodules |
 | Water | Unknown (a damp cloth is fine) |
@@ -71,7 +71,7 @@ Laguna agate is a banded agate from the Ojo Laguna area of northern Chihuahua, M
 
 The deposit sits in the Sierra El Oso, "immediately east of Estación Ojo Laguna," about 170 miles south of El Paso, Texas, according to a survey of northern Chihuahua agates by Brad L. Cross for the 2019 New Mexico Mineral Symposium ([New Mexico Bureau of Geology](https://geoinfo.nmt.edu/museum/nmms/abstracts/view.cfm?aid=556)). Cross lists Laguna with Coyamito, Agua Nueva and "coconut" geodes among the region's more popular agates, and places the Coyamito deposits about 30 miles north of Laguna.
 
-Mining has changed with time. Cross writes that quality material "could be easily collected from the land surface in the 1940's and 1950's," and that hard rock mining began once the loose stones ran out. A collectors' guide from the agate dealer Earth Wonders describes the classic finds of the 1970s to 1990s and a few new pockets in recent years, with miners moving tons of rhyolite to free a single intact nodule. Treat that guide as a seller's view.
+Mining has changed with time. Cross writes that quality material "could be easily collected from the land surface in the 1940's and 1950's," and that hard rock mining was initiated afterward. A collectors' guide from the agate dealer Earth Wonders describes the classic finds of the 1970s to 1990s and a few new pockets in recent years, with miners moving tons of rhyolite to free a single intact nodule. Treat that guide as a seller's view.
 
 ### How Laguna Agate Forms
 
@@ -127,7 +127,7 @@ Some guides go much further and list digestion, vitamin absorption, circulation,
 
 **Try This.** On your planner or calendar, set the stone on the one hour this week you want to protect, for a walk, a project or rest. Guides call agate protective and Laguna's bands look like walls. Let it guard the hour by reminding you to say no to anything that tries to take it.
 
-### A Gift With an Address
+### A Gift with an Address
 
 **Try This.** For a collector or a friend with a Mexican family story, wrap a small Laguna cabochon or slice with a card that says what it is (banded agate from Ojo Laguna, Chihuahua) and how it formed, layer by layer inside volcanic rock. A stone with a real address is a better gift than a vague one.
 
@@ -184,7 +184,7 @@ For sun, our care data says Brief only. One seller also advises keeping it out o
 
 ## Price Guide
 
-The IGS calls agate's value generally quite modest, with labor and artistry counting for more than the raw stone. Larger agates with distinctive, fine patterns command premium prices, and custom-cut stones or stones from prized locations are substantially more expensive (IGS). Laguna is a famous locality, which is exactly why its name gets borrowed. The dealer's guide says prices for world-class specimens can reach into the thousands, and that collectors judge them by color concentration, completeness and structure. [TO CHECK US retail ranges]
+The IGS calls agate's value generally quite modest, with labor and artistry counting for more than the raw stone. Larger agates with distinctive, fine patterns command premium prices, and custom-cut stones or stones from prized locations are substantially more expensive (IGS). Laguna is a famous locality, which is exactly why its name gets borrowed. The dealer's guide says collectors judge specimens by color concentration, completeness and structure, and that a full natural husk is part of top grade. In plain terms, a small tumbled stone or bead costs far less than a large, vivid, intact nodule with a documented locality. Ask the seller where the stone was dug and whether it was dyed before you compare two prices.
 
 **Next Step.** Choosing a protective stone? Compare Laguna with the usual picks in [crystals for protection](/crystals-for/protection/).
 

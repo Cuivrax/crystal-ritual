@@ -19,6 +19,7 @@ publishTime: "09:59"
 status: "verified"
 page_type: "stone"
 sources:
+  - "https://988lifeline.org/"
   - "https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/"
   - "https://www.gemsociety.org/article/what-do-i-look-for-when-buying-verdelite-green-tourmaline"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
@@ -26,6 +27,7 @@ sources:
   - "https://www.gia.edu/tourmaline-description"
   - "https://www.gia.edu/tourmaline-history-lore"
   - "https://www.gia.edu/tourmaline-care-cleaning"
+  - "https://www.gia.edu/articles/tourmaline-quality-factor"
   - "https://gia.edu/gems-gemology/winter-2020-labnotes-glass-imitating-tourmaline"
   - "https://geology.com/minerals/tourmaline.shtml"
   - "https://gemdat.org/gem-4169.html"
@@ -36,8 +38,14 @@ sources:
   - "https://www.le-comptoir-geologique.com/verdelite-encyclopedia.html"
   - "https://www.gemstones.com/gemopedia/tourmalinated-quartz"
   - "https://www.americangemsociety.org/birthstones/"
+  - "https://cnmnc.units.it/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
+  - "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D29"
+  - "https://doi.org/10.1016/S0065-2601(06)38002-1"
+  - "https://www.loc.gov/item/87046256/"
+  - "https://openlibrary.org/books/OL2067132M"
+  - "https://openlibrary.org/books/OL8518534M"
   - "https://www.crystalvaults.com/crystal-encyclopedia/green-tourmaline/"
   - "https://www.crystals.com/pages/crystals/green-tourmaline"
   - "https://moonrisecrystals.com/green-tourmaline-meaning/"
@@ -73,7 +81,7 @@ Green tourmaline is the green color variety of tourmaline, a boron silicate gem 
 | Toxic to handle | No known toxicity |
 | Common fakes | Glass. Misleading names like "Brazilian emerald" |
 | Lab-grown | None commercially available for jewelry |
-| Price range | [TO CHECK US retail ranges] |
+| Price range | Budget-friendly for verdelite, higher for chrome tourmaline. Color, clarity and size drive the price, see the price guide below |
 | Birthstone | October (tourmaline), also the 8th anniversary gem |
 | Chakra (Modern Association) | Heart |
 
@@ -113,22 +121,22 @@ The International Gem Society names more green sources. Nuristan in Afghanistan 
 
 ### What Is Green Tourmaline Quartz?
 
-It is quartz with tourmaline inside, not a green tourmaline gem. The usual "tourmalinated quartz" is clear quartz holding long, slender tourmaline needles that are usually black, according to a dealer guide at [Gemstones.com](https://www.gemstones.com/gemopedia/tourmalinated-quartz). A piece with green needles follows the same idea [TO CHECK a reference source on green tourmaline inclusions in quartz]. See [tourmalinated quartz](/stones/tourmalinated-quartz/) for the black version.
+It is quartz with tourmaline inside, not a green tourmaline gem. The usual "tourmalinated quartz" is clear quartz holding long, slender tourmaline needles that are usually black, according to a dealer guide at [Gemstones.com](https://www.gemstones.com/gemopedia/tourmalinated-quartz). We found no gem lab or reference source describing quartz with green tourmaline inside, so treat the name as the seller's description and ask how the green inclusions were identified. See [tourmalinated quartz](/stones/tourmalinated-quartz/) for the black version.
 
 ## Where the Meaning Comes From
 
 **The Story.** For most of its history, green tourmaline was not green tourmaline at all. It was "emerald." Here is what each era left in writing.
 
 - **3rd century BCE, Greece.** **Tradition.** Theophrastus described a Cyprian "emerald" that was half jasper and half emerald. George Frederick Kunz wondered whether that could have been a green and red tourmaline crystal, though he admitted it was hard to square with the rest of the text (*The Magic of Jewels and Charms*, 1915, page 53).
-- **1st century, Rome.** **Tradition.** Kunz suspected that some of Pliny's lychnis stones, which drew straws and bits of paper when warmed by the sun or rubbed, were tourmalines (1915, pages 52 to 53) [TO CHECK Pliny].
+- **1st century, Rome.** **Tradition.** Pliny the Elder never names tourmaline. He writes that lychnis stones attract chaff when heated or rubbed (*Natural History*, Book 37, chapter 29, in the Bostock and Riley translation, via [Perseus at Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D29)). Kunz saw "some little likelihood" that some lychnis were tourmalines (1915, pages 52 to 53), and the translators' notes record the same guess by earlier scholars. It remains an old, contested guess, not proof that Pliny knew the stone.
 - **1500s, Brazil.** Portuguese explorers sent green and blue tourmaline home believing it was emerald and sapphire, and it was cut into jewelry for royalty (Geology.com). GIA tells the same mix-up with a Spanish conquistador, and lists Francisco Spinoza's expedition as the find of the first recorded green tourmaline crystal, a "Brazilian emerald."
 - **Before 1647, Brazil.** **Tradition.** The Dutch mineralogist Johann de Laet reported "Brazilian emeralds" found shortly before 1647, described as cylindrical, striated and glassy. Kunz thought they were probably green tourmalines, since "green sapphires have never been found in Brazil, while green tourmalines have been" (1915, pages 53 to 54).
 - **1700s, Holland.** **Tradition.** Tourmaline from Ceylon reached Dutch jewelers, who saw it attract and repel the ashes of a fire and called it Aschentrekker, the "Ash-Attractor." Linnaeus later named it the "Electrical Stone" (Kunz 1915, pages 52, 54 and 56). The word tourmaline comes from the Sinhalese toramalli, "mixed gems" ([GIA](https://www.gia.edu/tourmaline-history-lore)).
 - **1793.** Tourmaline is recognized as a mineral of its own (Geology.com).
 - **Late 1800s, America.** Tourmaline became "an American gem through the efforts of Tiffany gemologist George F. Kunz" (GIA).
 - **1913 and 1915.** **Tradition.** Kunz grumbled that tourmaline, "a gem only known in modern times," seemed out of place on the October birthstone list (*The Curious Lore of Precious Stones*, 1913, pages 320 to 321). Two years later he suggested "one of the many beautiful shades of the tourmaline" to match a grass-green gown (1915, page 407).
-- **1922 and 1988.** **Modern Association.** A French shop guide credits the writer Isidore Kozminsky with putting tourmaline under Gemini in 1922, and the author Scott Cunningham with giving green tourmaline to Venus and the element earth in 1988 [TO CHECK book titles and years].
-- **Today.** **Modern Association.** Shop guides add prosperity, protection, compassion and the heart chakra, and one lists Robert Simmons and Naisha Ahsian's *The Book of Stones* among its references.
+- **1922 and 1988.** **Modern Association.** A French shop guide credits Isidore Kozminsky's *The Magic and Science of Jewels and Stones* (1922) with putting the tourmaline family under Gemini, and Scott Cunningham, in *Cunningham's Encyclopedia of Crystal, Gem & Metal Magic* (1988), with giving green tourmaline to Venus and the element earth.
+- **Today.** **Modern Association.** Shop guides add prosperity, protection, compassion and the heart chakra, and one lists Robert Simmons and Naisha Ahsian's *The Book of Stones* (first published 2005) among its references.
 
 ## What People Use Green Tourmaline for Today
 
@@ -162,15 +170,15 @@ Some sellers go much further, listing chronic fatigue, weight loss, immunity and
 
 **Safety.** Small tumbled stones and bead bracelets are not toys. Keep them away from small children and pets who might swallow them. Tourmaline is brittle, so a drop onto tile can chip it.
 
-**What Research Says.** [TO CHECK research study with DOI] Until then, treat these as personal practices.
+**What Research Says.** The negotiation card is an if-then plan with the stone as the cue. A 2006 meta-analysis by Peter Gollwitzer and Paschal Sheeran, pooling published lab and field studies, found that people who made an if-then plan ("if situation X happens, then I will do Y") were more likely to act on a goal than people who only intended to ([DOI 10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)). It pooled studies of everyday goals, so publication bias is possible, and none of them tested stones. The plan does the work, and the green tourmaline is only the reminder.
 
-> **When a Stone Is Not Enough.** Green tourmaline is often chosen for sleep, anxiety and grief, and some sellers make claims about fatigue, weight loss and serious illness. A stone can be a comfort to hold, but it is not care. If sleep trouble, anxiety, grief or a health worry lasts or feels heavy, talk to a doctor or a therapist. If you are in crisis in the US, reach the 988 Suicide and Crisis Lifeline [TO CHECK official 988 link].
+> **When a Stone Is Not Enough.** Green tourmaline is often chosen for sleep, anxiety and grief, and some sellers make claims about fatigue, weight loss and serious illness. A stone can be a comfort to hold, but it is not care. If sleep trouble, anxiety, grief or a health worry lasts or feels heavy, talk to a doctor or a therapist. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Green Tourmaline Real?
 
 We use the same five labels on every stone.
 
-- **Natural, untreated.** A green stone as it came from the ground, only cut and polished. [TO CHECK what share of green tourmaline on the US market is untreated.]
+- **Natural, untreated.** A green stone as it came from the ground, only cut and polished. We found no reference figure for how much green tourmaline sold in the US is untreated. Heating is common and usually undetectable (see the next line), so treat an "unheated" label as the seller's claim and ask for it in writing.
 - **Natural, treated.** Heating "lightens blue and green stones" and is "common, stable, undetectable," says the International Gem Society. GIA adds that stones with many liquid inclusions cannot take the heat. Heat-treated is not fake.
 - **Lab-grown.** "No commercially available lab-created tourmaline exists for gem or jewelry use," says the International Gem Society, which also warns that "simulated" tourmaline online often means fake.
 - **Imitation.** Glass. GIA's lab has examined two bluish green glass pieces cut as six-sided prisms to imitate rough Paraíba-type tourmaline crystals, unmasked by "trapped gas bubbles, flow structure" and a refractive index far too low for tourmaline ([Gems & Gemology](https://gia.edu/gems-gemology/winter-2020-labnotes-glass-imitating-tourmaline), Winter 2020).
@@ -216,9 +224,13 @@ A wash, yes. A quick wash in warm soapy water is the cleaning method the Interna
 
 ## Price Guide
 
-Green is one of tourmaline's more affordable colors. The International Gem Society says pure blue, red, orange, yellow and purple stones "command higher prices due to their rarity," and green is not on that list. Graham's buying guide is blunt. "If you like green and you're on a budget, verdelite is the tourmaline for you." He adds that verdelite's price per carat "doesn't jump much before reaching five carats," while chrome tourmaline's price per carat "is significantly higher and can jump considerably after one carat."
+This guide gives no dollar figures yet. These are the things that move the price.
 
-Crystals are their own market. Specimens with attractive colors and crystal forms can sell for thousands of dollars (Geology.com). [TO CHECK US retail ranges]
+- **Color.** Green is one of tourmaline's more affordable colors. The International Gem Society says pure blue, red, orange, yellow and purple stones "command higher prices due to their rarity," and green is not on that list. GIA describes the best green tourmalines as "transparent, brilliant, and clean, with attractive bluish green hues," while the dark-toned stones more common in the market, which dealers call "oily" or "olive" green, sell for much less ([GIA](https://www.gia.edu/articles/tourmaline-quality-factor)).
+- **Verdelite or chrome.** Graham's buying guide is blunt. "If you like green and you're on a budget, verdelite is the tourmaline for you." Chrome tourmaline's price per carat "is significantly higher and can jump considerably after one carat," he adds, though GIA still calls it "a lower-priced alternative to tsavorite or emerald."
+- **Clarity.** "Green tourmalines are expected to be free of eye-visible inclusions," says GIA, and distracting inclusions lower their value.
+- **Size.** Verdelite's price per carat "doesn't jump much before reaching five carats," according to Graham, and GIA says tourmaline's price per carat generally rises once a gem passes five carats.
+- **Crystals.** Specimens are their own market, where attractive color and crystal form set the price (Geology.com).
 
 **Next Step.** Want the full color story? Start with [watermelon tourmaline](/stones/watermelon-tourmaline/), where pink and green share one crystal.
 
@@ -226,15 +238,17 @@ Crystals are their own market. Specimens with attractive colors and crystal form
 
 - International Gem Society, [Tourmaline Jewelry and Gemstone Information](https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/) and [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Jeff R. Graham, International Gem Society, [What Do I Look for When Buying Verdelite Green Tourmaline](https://www.gemsociety.org/article/what-do-i-look-for-when-buying-verdelite-green-tourmaline), updated October 9, 2023
-- Gemological Institute of America, [Tourmaline](https://www.gia.edu/tourmaline/gem-overview), [Tourmaline Description](https://www.gia.edu/tourmaline-description), [Tourmaline History and Lore](https://www.gia.edu/tourmaline-history-lore), [Tourmaline Care and Cleaning](https://www.gia.edu/tourmaline-care-cleaning), [Emerald](https://www.gia.edu/emerald/gem-overview) and [Peridot](https://www.gia.edu/peridot/gem-overview)
+- Gemological Institute of America, [Tourmaline](https://www.gia.edu/tourmaline/gem-overview), [Tourmaline Description](https://www.gia.edu/tourmaline-description), [Tourmaline History and Lore](https://www.gia.edu/tourmaline-history-lore), [Tourmaline Care and Cleaning](https://www.gia.edu/tourmaline-care-cleaning), [Tourmaline Quality Factors](https://www.gia.edu/articles/tourmaline-quality-factor), [Emerald](https://www.gia.edu/emerald/gem-overview) and [Peridot](https://www.gia.edu/peridot/gem-overview)
 - Amy Cooper, Jamie Price and Heidi Breitzmann, [Artificial Glass Imitating a Paraíba Tourmaline](https://gia.edu/gems-gemology/winter-2020-labnotes-glass-imitating-tourmaline), *Gems & Gemology*, Winter 2020
 - Hobart M. King, Geology.com, [Tourmaline](https://geology.com/minerals/tourmaline.shtml), [Emerald](https://geology.com/gemstones/emerald/) and [Diopside](https://geology.com/minerals/diopside.shtml)
 - Gemdat, [Verdelite](https://gemdat.org/gem-4169.html), citing Lazzarelli, *Blue Chart Gem Identification* (2010), and Schumann, *Gemstones of the World* (2001)
-- Le Comptoir Géologique, [Verdelite](https://www.le-comptoir-geologique.com/verdelite-encyclopedia.html), and Gemstones.com, [Tourmalinated Quartz](https://www.gemstones.com/gemopedia/tourmalinated-quartz), dealer guides
-- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
+- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the [IMA List of Minerals](https://cnmnc.units.it/), July 2026 edition
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 320 to 321, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 52 to 56 and 407, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- Modern associations from crystal shop guides at crystalvaults.com, crystals.com, moonrisecrystals.com, crystalgemstones.net, aeternum.fr, crystalguide.pages.dev and precious.jp, read November 18, 2026
+- Pliny the Elder, *The Natural History*, Book 37, chapter 29, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D29)
+- Peter M. Gollwitzer and Paschal Sheeran, *Advances in Experimental Social Psychology* 38 (2006), [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)
+- Isidore Kozminsky, *The Magic and Science of Jewels and Stones* (1922), Scott Cunningham, *Cunningham's Encyclopedia of Crystal, Gem & Metal Magic* (1988), and Robert Simmons and Naisha Ahsian, *The Book of Stones* (2005), named as modern sources of meanings
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

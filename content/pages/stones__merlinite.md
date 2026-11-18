@@ -17,7 +17,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-23"
 publishTime: "06:28"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://fiercelynxdesigns.com/blogs/articles/indigo-gabbro-aka-mystic-merlinite-gemstone-information"

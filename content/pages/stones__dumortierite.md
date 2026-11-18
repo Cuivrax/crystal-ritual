@@ -16,7 +16,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-29"
 publishTime: "06:18"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/dumortierite-jewelry-and-gemstone-information/"
@@ -28,7 +28,6 @@ sources:
   - "https://www.gia.edu/gems-gemology/spring-2015-gemnews-dumortierite-rock-crystal-quartz"
   - "https://www.gia.edu/articles/spring-2013-gemnews-dumortierite-quartz-rock-sapphire"
   - "https://www.gemselect.com/gem-info/dumortierite-quartz/dumortierite-quartz-info.php"
-  - "https://academie-sbla-lyon.fr/Dictionnaire/entree/482/pdf"
   - "https://msaweb.org/AmMin/AM11/AM11_93.pdf"
   - "https://cnmnc.units.it/"
   - "https://doi.org/10.1016/j.cognition.2010.12.007"
@@ -43,7 +42,7 @@ sources:
 
 # Dumortierite Meaning, Properties & What It Really Is
 
-Dumortierite is a blue to violet aluminum borosilicate mineral, hard and tough, first described in France in 1881. Most beads and cabochons sold under its name are dumortierite quartz, quartz packed with blue dumortierite, which is one kind of blue quartz. Crystal lovers link it with focus, patience and self-discipline, a modern meaning.
+Dumortierite is a blue to violet aluminum borosilicate mineral, hard and tough, first found in France in the 1800s. Most beads and cabochons sold under its name are dumortierite quartz, quartz packed with blue dumortierite, which is one kind of blue quartz. Crystal lovers link it with focus, patience and self-discipline, a modern meaning.
 
 <!-- PHOTO HERO. Wikimedia Commons, "File Dumortierite-quartz (Brazil) 1.jpg", by James St. John. Page https://commons.wikimedia.org/wiki/File:Dumortierite-quartz_(Brazil)_1.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Dumortierite-quartz_%28Brazil%29_1.jpg/1280px-Dumortierite-quartz_%28Brazil%29_1.jpg (tracking parameters removed). License CC BY 2.0. Credit line "Photo James St. John, CC BY 2.0, via Wikimedia Commons". visual_check hero in image_picks_new_stones.json ("deep blue dumortierite mass, fills frame, sharp"). Note for the photo pass, the blue quartz page uses this same file as its hero, so consider "File Dumortierite-quartz (Brazil) 3.jpg" (same author and license, visual_check ok) here for variety. Alt text "Rough piece of deep blue dumortierite quartz from Brazil". -->
 
@@ -53,9 +52,9 @@ Dumortierite is a blue to violet aluminum borosilicate mineral, hard and tough, 
 |---|---|
 | What it is | An aluminum borosilicate mineral. Most gem material is dumortierite quartz |
 | Mineral status | A recognized species on the IMA List of Minerals |
-| Formula | AlAl₆BSi₃O₁₈ (IMA), also written Al₇(BO₃)(SiO₄)₃O₃ |
-| Mohs hardness | 7 to 8.5. Cut dumortierite quartz is about 7 |
-| Specific gravity | 3.21 to 3.41. Dumortierite quartz is lighter |
+| Formula | Al₇BO₃(SiO₄)₃O₃, which the IMA list writes AlAl₆BSi₃O₁₈ |
+| Mohs hardness | 7. Single crystals can reach 8.5 (GemSelect). The Handbook of Mineralogy gives 7 to 8.5 |
+| Specific gravity | 3.3 to 3.4 (3.21 to 3.41 in the Handbook of Mineralogy). Dumortierite quartz is lighter |
 | Crystal system | Orthorhombic, as fibers, needles and columns |
 | Luster | Vitreous to dull |
 | Colors | Bright blue to greenish blue, violet, red-violet, purple, brown |
@@ -112,12 +111,12 @@ Dumortierite has an industrial past. It "is also mined for spark plug ceramics a
 
 ## Where the Meaning Comes From
 
-**The Story.** Dumortierite is too young for ancient lore. The mineral was only named in 1881, so it appears in no ancient or medieval lapidary, as one crystal seller's guide itself points out.
+**The Story.** Dumortierite is too young for ancient lore. The mineral was only named in the 1800s, so it appears in no ancient or medieval lapidary, as one crystal seller's guide itself points out.
 
-- **1879 to 1881, France.** The mineral is found near Chaponost, outside Lyon, in November 1879, and the mineralogist F. Gonnard describes it in 1881. It honors Eugène Dumortier (1802 to 1876), a Lyon gilding merchant and amateur paleontologist who studied the Jurassic fossils of the Rhône basin and described 250 new species ([Académie de Lyon historical dictionary](https://academie-sbla-lyon.fr/Dictionnaire/entree/482/pdf), entry by Jean Burdy).
+- **1800s, France.** The mineral is first found at a quarry in Beaunant, in the Rhône department of France ([Minerals.net](https://www.minerals.net/mineral/dumortierite)), and takes its name from Eugène Dumortier, a French paleontologist of Lyon ([Handbook of Mineralogy](https://www.handbookofmineralogy.org/pdfs/dumortierite.pdf)).
 - **1920s, Nevada.** Dumortierite earns its keep as a raw material for porcelain and refractories (Fairbanks, Peck).
 - **Today, crystal shops.** **Modern Association.** Crystal sellers make it a stone of self-discipline, patience, order and mental clarity. One guide calls it the "take-it-easy stone," and another lists a nickname, the "blue denim stone," which a gem dealer notes is not an official name (GemSelect).
-- **Today, a borrowed tradition.** **Modern Association.** One blog pairs dumortierite with Hindu mantras and the goddess Saraswati, patron of learning. That is modern practice, not an old tradition, since the mineral had no name before 1881.
+- **Today, a borrowed tradition.** **Modern Association.** One blog pairs dumortierite with Hindu mantras and the goddess Saraswati, patron of learning. That is modern practice, not an old tradition, since the mineral had no name before the 1800s.
 
 Where do the meanings come from, then? One crystal guide answers honestly that they come from contemporary crystal practice, which "reads a lot into the stone's calm blue colour and its tightly knit, fibrous structure." A calm color and a tightly woven texture suggest a calm, orderly mind. That is the whole chain.
 
@@ -151,7 +150,7 @@ Some sellers go much further and list headaches, nausea, cramps, skin irritation
 
 ### A Gift for a Student
 
-**Try This.** For a student or someone learning a language, wrap a small piece with a card that says what it is (a borosilicate mineral named in 1881, once mined in Nevada for spark plug porcelain) and that crystal lovers keep it for focus. Add a pack of blank flashcards. Those do the heavy lifting.
+**Try This.** For a student or someone learning a language, wrap a small piece with a card that says what it is (a borosilicate mineral named in the 1800s, once mined in Nevada for spark plug porcelain) and that crystal lovers keep it for focus. Add a pack of blank flashcards. Those do the heavy lifting.
 
 **Safety.** Tumbled stones and bead bracelets are a choking hazard. Keep them away from small children and pets.
 
@@ -205,7 +204,7 @@ A wash, yes. A long soak, keep it brief. Crystal guides split on this, with one 
 
 ## Price Guide
 
-Dumortierite quartz is sold mostly as beads and cabochons, and GemSelect notes it comes in large sizes at affordable prices. Dark blue is the color seen most often. Rare, slightly translucent pieces stand out, and faceted dumortierite is so rare that the IGS calls cabochons the only generally known form. GemSelect also advises buying colored stones by size rather than by carat weight. [TO CHECK US retail ranges]
+Dumortierite quartz is sold mostly as beads and cabochons, and GemSelect notes it comes in large sizes at affordable prices. Dark blue is the color seen most often. Rare, slightly translucent pieces stand out, and faceted dumortierite is so rare that the IGS calls cabochons the only generally known form. GemSelect also advises buying colored stones by size rather than by carat weight. What moves the price is the form (a bead strand, a cabochon or a rare faceted stone), the size, the depth and evenness of the blue, and whether the stone is pure dumortierite or dumortierite quartz. Ask the seller which one it is before you compare two prices.
 
 **Next Step.** Building a study corner? See how dumortierite compares with the usual picks in [crystals for focus](/crystals-for/focus/).
 
@@ -217,7 +216,6 @@ Dumortierite quartz is sold mostly as beads and cabochons, and GemSelect notes i
 - Nathan Renfro, Ziyin Sun and John Koivula, [Dumortierite in Rock Crystal Quartz](https://www.gia.edu/gems-gemology/spring-2015-gemnews-dumortierite-rock-crystal-quartz), *Gems & Gemology*, Spring 2015
 - Gagan Choudhary, [Dumortierite-Quartz Rock Presented as Sapphire](https://www.gia.edu/articles/spring-2013-gemnews-dumortierite-quartz-rock-sapphire), *Gems & Gemology*, Spring 2013
 - Ernest E. Fairbanks, "Dumortierite from Nevada," and Albert B. Peck, "Dumortierite as a Commercial Mineral," [*American Mineralogist*, volume 11](https://msaweb.org/AmMin/AM11/AM11_93.pdf)
-- Jean Burdy, [Eugène Dumortier](https://academie-sbla-lyon.fr/Dictionnaire/entree/482/pdf), historical dictionary of the Académie des Sciences, Belles-Lettres et Arts de Lyon
 - GemSelect, [Dumortierite Quartz](https://www.gemselect.com/gem-info/dumortierite-quartz/dumortierite-quartz-info.php), a gem dealer's guide
 - A. Ariga and A. Lleras, *Cognition* 118 (2011), [doi.org/10.1016/j.cognition.2010.12.007](https://doi.org/10.1016/j.cognition.2010.12.007)
 - [988 Suicide & Crisis Lifeline](https://988lifeline.org/)

@@ -15,6 +15,7 @@ sources:
   - "https://iugs-geoheritage.org/geoheritage_sites/the-larvikite-plutonic-rocks-of-the-oslo-rift/"
   - "https://iugs-geoheritage.org/?p=9599"
   - "https://geo365.no/national-treasure/"
+  - "https://geo365.no/?p=2840"
   - "https://geology.com/gemstones/labradorite/"
   - "https://geology.com/gemstones/moonstone/"
   - "https://www.gemstones.com/gemopedia/larvikite"
@@ -26,6 +27,7 @@ sources:
   - "https://moonrisecrystals.com/larvikite-meaning/"
   - "https://crystalgemstones.net/larvikite-meaning-and-spiritual-properties.html"
   - "https://www.edelsteine.net/larvikit/"
+  - "https://988lifeline.org/"
 ---
 
 # Larvikite Meaning, Properties & Real-Life Uses
@@ -51,8 +53,8 @@ Larvikite is a gray to bluish igneous rock from the Larvik area of southern Norw
 | Chemicals | Avoid |
 | Salt | Unknown |
 | Toxic to handle | Unknown |
-| Common fakes | [TO CHECK common fakes] |
-| Price range | [TO CHECK US retail ranges] |
+| Common fakes | Misleading names, such as "Norwegian Moonstone" |
+| Price range | See the price guide below |
 | Birthstone | None on the modern US list |
 | Heritage status | IUGS heritage stone, designated 2017 |
 | Chakra (Modern Association) | Root, often third eye |
@@ -93,8 +95,8 @@ Your tumbled stone has famous relatives. Larvikite gravestones were already expo
 - **1884.** Ferdinand Narvesen starts quarrying near Stavern (GEO365).
 - **Late 1800s.** Larvikite gravestones are exported to Germany and the British Isles (IUGS record).
 - **Fashion and wealth.** In Norway and abroad, the IUGS record says, larvikite "became a symbol of fashion and wealth," on bank entrances, at Harrods and Galeries Lafayette, and on Art Deco buildings.
+- **National rock.** In an open online vote, larvikite won out among more than 50 nominated rocks to become Norway's national rock ([GEO365](https://geo365.no/?p=2840)).
 - **2017.** The IUGS designates larvikite a heritage stone, one of the first rocks to receive that status (IUGS).
-- **National rock.** In a June 2015 article, Norwegian geologists wrote that "last year" the rock was selected as Norway's national rock (GEO365) [TO CHECK the exact year it was chosen].
 - **Today.** **Modern Association.** The crystal seller [Moonrise Crystals](https://moonrisecrystals.com/larvikite-meaning/) calls it "a relatively new crystal that has only come to the attention of the metaphysical community in the 21st century," and CrystalGemstones.net notes that it "does not come with a long written record of folklore."
 
 ### Why Its Meaning Is So Young
@@ -137,16 +139,16 @@ Some sites list brain problems, recovery after a stroke, learning differences or
 
 **What Research Says.** A 2006 meta-analysis that pooled many earlier lab and field studies found that people who made a specific if-then plan, like the "at 8, I call the dentist" above, were more likely to follow through than people who only intended to ([Gollwitzer and Sheeran, 2006](https://doi.org/10.1016/S0065-2601%2806%2938002-1)). The studies covered everyday goals, not stones, and a plan helps most with something you already want to do, so the larvikite on the nightstand is only the reminder.
 
-> **When a Stone Is Not Enough.** Larvikite is often chosen for stress, worry, restless nights and hard transitions, and some sites offer it for the brain or blood pressure. A stone can be a comfort to hold, but it is not care. If anxiety or poor sleep lasts or feels heavy, talk to a doctor or a therapist, and never use a stone in place of treatment.
+> **When a Stone Is Not Enough.** Larvikite is often chosen for stress, worry, restless nights and hard transitions, and some sites offer it for the brain or blood pressure. A stone can be a comfort to hold, but it is not care. If anxiety or poor sleep lasts or feels heavy, talk to a doctor or a therapist, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Larvikite Real?
 
 We use the same five labels on every stone. Larvikite is mostly a question of names.
 
 - **Natural, untreated.** The usual case. Dakota Stones lists its larvikite treatment as natural.
-- **Natural, treated.** [TO CHECK whether dyed or coated larvikite is sold in the US.]
-- **Lab-grown.** [TO CHECK whether any lab-made material is sold as larvikite.]
-- **Imitation.** [TO CHECK which glass or other stones are sold as larvikite.]
+- **Natural, treated.** We found no reference source on dyed or coated larvikite sold in the US.
+- **Lab-grown.** We found no reference source on lab-grown larvikite.
+- **Imitation.** We found no reference source that documents glass or another material sold as larvikite. The usual mix-ups are names and labradorite, covered below.
 - **Trade names.** Blue Pearl Granite, Emerald Pearl, Royal Blue, Marina Pearl, Norwegian Moonstone and black moonstone (see above).
 
 ### Is Larvikite the Same as Labradorite?
@@ -184,7 +186,7 @@ A wash, yes, and a quick lukewarm rinse dried right away is the method one cryst
 
 ## Price Guide
 
-Larvikite is quarried on an industrial scale for building stone, from about 30 quarries around Larvik (GEO365), and crystal sellers give Norway as its usual origin (Dakota Stones). [TO CHECK US retail ranges]
+Larvikite is quarried on an industrial scale for building stone, from about 30 quarries around Larvik (GEO365), and crystal sellers give Norway as its usual origin (Dakota Stones). In the building-stone trade, larvikite with a strong blue play of color is the more attractive and valued kind, and flaws or uneven color reduce the price of a block significantly (GEO365). Beads are not blocks, but the flash is the easy thing to compare when you choose a piece.
 
 **Next Step.** Choosing a stone for the front door? See how the usual picks compare in [crystals for protection](/crystals-for/protection/).
 
@@ -192,12 +194,14 @@ Larvikite is quarried on an industrial scale for building stone, from about 30 q
 
 - International Union of Geological Sciences, T. Heldal and K. Rangnes, [The Larvikite Plutonic Rocks of the Oslo Rift](https://iugs-geoheritage.org/geoheritage_sites/the-larvikite-plutonic-rocks-of-the-oslo-rift/), and T. Heldal and A. Granseth, [Larvikite heritage stone record](https://iugs-geoheritage.org/?p=9599), designated 2017
 - G. Meyer, I. Kjølle, S. Dahlgren and T. Heldal, [National Treasure](https://geo365.no/national-treasure/), GEO365, June 11, 2015
+- Ø. J. Jansen and T. Heldal, [Larvikitt og velsmakende fornøyelser](https://geo365.no/?p=2840), GEO365, July 15, 2014, in Norwegian
 - Hobart M. King, Geology.com, [Labradorite](https://geology.com/gemstones/labradorite/) and [Moonstone](https://geology.com/gemstones/moonstone/)
 - Peter M. Gollwitzer and Paschal Sheeran, "Implementation Intentions and Goal Achievement, A Meta-analysis of Effects and Processes," *Advances in Experimental Social Psychology* 38 (2006), 69 to 119, [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)) and *The Magic of Jewels and Charms* (1915, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)), neither with an entry for larvikite
+- 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
 - Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

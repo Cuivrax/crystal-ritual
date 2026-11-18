@@ -14,7 +14,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-24"
 publishTime: "08:58"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://geology.com/gemstones/strawberry-quartz"
@@ -37,7 +37,6 @@ sources:
   - "https://buddha3bodhi.com/blogs/news/the-complete-guide-to-strawberry-quartz-meaning-properties-and-uses"
   - "https://gthic.com/blogs/jewelry-blogs/strawberry-crystal-guide-meaning-benefits-and-uses"
   - "https://jewelsandchains.com/blogs/news/strawberry-quartz-meaning-healing-chakra-uses"
-  - "https://gem.agency/gemstones/strawberry-quartz/"
   - "https://www.perlesandco.co.uk/resources/ft36992-strawberry-quartz-benefits-and-properties.html"
   - "https://www.rouleau-jade.fr/pierres/quartz-fraise/"
   - "https://earth-river.com/effect/strawberry-quartz/"
@@ -67,7 +66,7 @@ Strawberry quartz is a trade name for pink to red quartz colored by tiny red inc
 | Salt | Unknown |
 | Toxic to handle | No. Cutting and polishing dust is a silica hazard |
 | Often sold under the name | Glass, glass "cherry quartz", pink aventurine, heat-treated quartz |
-| Price range | Inexpensive, per Geology.com [TO CHECK US retail ranges] |
+| Price range | Inexpensive, per Geology.com (see Price Guide) |
 | Birthstone | Not on the modern list |
 | Chakra (Modern Association) | Heart most often, also root and crown |
 
@@ -88,7 +87,7 @@ Grain size decides the look. In some pieces the inclusions are so fine that only
 ### Three Different Things Sold as Strawberry Quartz
 
 1. **Quartz crystals with red inclusions.** The classic kind. Geology.com shows a terminated crystal from near Chihuahua, Mexico, "packed with tiny acicular crystals of reflective red hematite," and a very light amethyst from Ontario's Thunder Bay District with red inclusions that appear to be hematite.
-2. **Pink aventurine.** Granular quartz rock, called quartzite, tinted by flakes of pink mica and often marketed as "pink aventurine" or "strawberry aventurine" (Geology.com). A bangle sent to a Taipei lab as strawberry quartz turned out to be quartz rock with red mica flakes, and the authors said it should be sold as pink aventurine quartz (*Gems & Gemology*, 2021).
+2. **Pink aventurine.** Granular quartz rock, called quartzite, tinted by flakes of pink mica and often marketed as "pink aventurine" or "strawberry aventurine" (Geology.com). A bangle sent to a Taipei lab as strawberry quartz turned out to be quartz rock with pink to red muscovite mica flakes, which the authors identified as pink aventurine quartz (*Gems & Gemology*, 2021).
 3. **Heat-treated quartz.** At the 2014 Tucson shows, *Gems & Gemology* reported mottled pink and white "strawberry" quartz from Minas Gerais, Brazil, heat treated only, which "at first blush looks nothing like the plain brownish-gray material it once was" ([Gems & Gemology, Spring 2014](https://www.gia.edu/articles/spring-2014-gemnews-tucson-unusual-finds)).
 
 ### Where It Comes From & Is It Rare?
@@ -99,7 +98,7 @@ Dealers say most comes from Russia and Kazakhstan, with more from Brazil (GemSel
 
 **The Story.** Strawberry quartz has no ancient lore. Kunz's two books on gem lore (1913 and 1915) never mention it, and shop guides place it in the jewelry trade only in the second half of the 20th century.
 
-- **1960s to 1970s.** Shop guides date its discovery to Mexico in 1960 (Earth River), to Mexico and Africa in the 1970s (Jewels and Chains) or to South Africa around 1970 (Rouleau Jade). None gives a source.
+- **1960s to 1970s.** Shop guides date its discovery to Mexico in 1960 (Earth River), to Mexico and Africa in the 1970s (Jewels and Chains) or to South Africa around 1970 (Rouleau Jade).
 - **Late 20th century.** It "first got popular in the jewellery market in the late 20th century," says the jeweler Gthic.
 - **2014 and 2021.** *Gems & Gemology* reports heat-treated "strawberry" quartz, then notes that the term is not strictly defined.
 - **Today.** **Modern Association.** Love, joy and calm, as told in modern crystal guides.
@@ -118,7 +117,7 @@ The "why" is mostly color. Pink-red reads as the heart, so guides place it on th
 
 ### Green Strawberry Quartz
 
-Green strawberry quartz is a seller's name, not a known variety. Geology.com defines strawberry quartz as pink to red, and one gem dealer states flatly that "Green strawberry quartz doesn't exist," calling the name a trade term used by dealers who are not gemologists (Gem Agency). [TO CHECK what green strawberry quartz is made of.] If you buy a piece, ask the seller which mineral makes it green.
+Green strawberry quartz is a seller's name, not a defined variety. Geology.com describes strawberry quartz as pink to red, so a green piece sold under that name is some other material. If you buy one, ask the seller which mineral makes it green and whether the color was added.
 
 ### What Is Strawberry Quartz Good For?
 
@@ -144,7 +143,7 @@ As a material, jewelry, cut into cabochons, beads, bangles and faceted gems (Geo
 
 **What Research Says.** Counting good things has been tested, without stones. In three randomized studies, two with college students and one with 65 adults with neuromuscular disease, people who listed what they were grateful for reported better well-being than comparison groups, most clearly in positive mood ([Emmons and McCullough, 2003](https://doi.org/10.1037/0022-3514.84.2.377)). The results were self-reported and nobody held a stone, so the stone here is only the cue.
 
-> **When a Stone Is Not Enough.** Strawberry quartz is often chosen for anxiety, past hurt or loss. A stone can be a comfort to hold, but it is not care. If anxiety, grief or low mood lasts or feels heavy, talk to a doctor or a therapist. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
+> **When a Stone Is Not Enough.** Strawberry quartz is often chosen for anxiety, past hurt or loss. A stone can be a comfort to hold, but it is not care. If anxiety, grief or low mood lasts or feels heavy, talk to a doctor or a therapist. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Strawberry Quartz Real?
 
@@ -153,8 +152,8 @@ As a material, jewelry, cut into cabochons, beads, bangles and faceted gems (Geo
 Both are sold under the name. GemSelect warns that "not everything labeled as strawberry quartz is the real deal," since some is man-made, "usually just colored glass." We use the same five labels on every stone.
 
 - **Natural, untreated.** Quartz with visible red inclusions such as hematite (Geology.com), the material the name was made for.
-- **Natural, treated.** Heat-treated "strawberry" quartz from Brazil (*Gems & Gemology*, 2014). Colored quartz in general can also be dyed (GemSelect) [TO CHECK whether dyed quartz is sold as strawberry quartz]. A purple or neon pink "strawberry quartz" deserves a question.
-- **Lab-grown.** Synthetic quartz comes in every color of the rainbow ([International Gem Society](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/)). [TO CHECK whether lab-grown quartz is sold as strawberry quartz.]
+- **Natural, treated.** Heat-treated "strawberry" quartz from Brazil (*Gems & Gemology*, 2014). Colored quartz in general can also be dyed (GemSelect). A purple or neon pink "strawberry quartz" deserves a question.
+- **Lab-grown.** Synthetic quartz comes in every color of the rainbow ([International Gem Society](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/)).
 - **Imitation.** The most common imitation is glass with hematite or another red material added, and tiny gas bubbles can give it away (Geology.com). The "fruit quartz" names, cherry, blueberry, kiwi and pineapple quartz, cover man-made glass (GemSelect). See [is cherry quartz real](/real-or-fake/cherry-quartz/).
 - **Trade names.** "Red fire" quartz is another name for quartz with red iron oxide (GemSelect), and "strawberry aventurine" is pink aventurine (Geology.com). One Japanese shop warns that "African strawberry quartz" is not strawberry quartz at all (Earth River).
 
@@ -206,9 +205,13 @@ The names overlap. GemSelect says quartz with red iron oxide is sold as strawber
 
 ## Price Guide
 
-Strawberry quartz is rare but inexpensive, according to Geology.com. The most desirable pieces show a distinctly pink or red color "without traces of other hues," with inclusions large enough to see but not so large that they "leave a noticeable pit on the surface."
+Geology.com calls strawberry quartz very popular and abundant, with material of superb color and appearance rare, and says it remains an inexpensive gem. A price follows how close a piece comes to the best.
 
-[TO CHECK US retail ranges]
+- **Color.** The most desirable pieces have a distinctly pink or red color "without traces of other hues," even across the face of the gem (Geology.com).
+- **Inclusions.** They should be large enough to see but not so large that surface-reaching ones "leave a noticeable pit on the surface" (Geology.com). Reflective inclusions that give a glittery or cat's-eye effect appeal to some buyers.
+- **Form.** It is cut into cabochons, beads, bangles and faceted gems (Geology.com), so compare like with like.
+- **Treatment.** Heat-treated "strawberry" quartz from Brazil was offered at the 2014 Tucson shows (*Gems & Gemology*), so ask whether a piece was heated.
+- **Glass and borrowed names.** The most common imitation is glass mixed with hematite or another red material, which should be sold as "imitation strawberry quartz" or "strawberry quartz glass," and pink quartzite is often marketed as "pink aventurine" or "strawberry aventurine" (Geology.com). A quartz price should buy quartz.
 
 **Next Step.** Holding a bright pink piece labeled "cherry quartz" too? Read [is cherry quartz real](/real-or-fake/cherry-quartz/) before you buy more.
 
@@ -218,13 +221,12 @@ Strawberry quartz is rare but inexpensive, according to Geology.com. The most de
 - GIA, *Gems & Gemology*, Shu-Hong Lin, Yu-Ho Li and Huei-Fen Chen, [Pink Aventurine Quartz with Alurgite Inclusions](https://gia.edu/gems-gemology/fall-2021-gemnews-pink-aventurine-quartz-algurite-inclusions) (Fall 2021), and [More of the Interesting and Unusual, Tucson 2014](https://www.gia.edu/articles/spring-2014-gemnews-tucson-unusual-finds) (Spring 2014), plus GIA's [Rose Quartz Care and Cleaning](https://www.gia.edu/articles/rose-quartz-care-cleaning)
 - Minerals.net, [Strawberry Quartz](https://minerals.net/variety/strawberry-quartz)
 - International Gem Society, [Quartz](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/) and the [Gemstone Toxicity Table](https://www.gemsociety.org/article/gemstone-care-guide/)
-- GemSelect, [About Strawberry Quartz](https://www.gemselect.com/other-info/about-strawberry-quartz.php) and [Quartz Information](https://www.gemselect.com/gem-info/quartz/quartz-info.php), dealer guides
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition, from the [official IMA CNMNC site](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - Robert A. Emmons and Michael E. McCullough, "Counting blessings versus burdens," *Journal of Personality and Social Psychology*, 2003, [doi.org/10.1037/0022-3514.84.2.377](https://doi.org/10.1037/0022-3514.84.2.377)
 - [988 Suicide and Crisis Lifeline](https://988lifeline.org/)
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

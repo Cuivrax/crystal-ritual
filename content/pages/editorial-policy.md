@@ -53,11 +53,11 @@ How widely a modern belief is held is shown on a five-facet scale, from Classic 
 
 Every stone page uses the same five labels for what a stone really is.
 
-1. **Natural, untreated.** As it came from the ground, cut and polished.
-2. **Natural, treated.** A real stone whose look was changed, by heating, irradiation, dye, stabilizing resin or a coating. Heat-treated is not fake, and we say which treatments are routine.
-3. **Lab-grown.** Made in a laboratory with the same chemistry and structure as the natural stone.
+1. **Natural, Untreated.** As it came from the ground, cut and polished.
+2. **Natural, Treated.** A real stone whose look was changed, by heating, irradiation, dye, stabilizing resin or a coating. Heat-treated is not fake, and we say which treatments are routine.
+3. **Lab-Grown.** Made in a laboratory with the same chemistry and structure as the natural stone.
 4. **Imitation.** Something else made to look like it, such as glass, resin, plastic or another mineral.
-5. **Trade name.** A selling name that may hide what the stone is, such as "rainbow moonstone" for a white labradorite.
+5. **Trade Name.** A selling name that may hide what the stone is, such as "rainbow moonstone" for a white labradorite.
 
 ## The Health Rule
 

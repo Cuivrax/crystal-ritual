@@ -9,7 +9,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-26"
 publishTime: "07:51"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://988lifeline.org/"
@@ -18,8 +18,8 @@ sources:
   - "https://www.gia.edu/amethyst/gem-overview"
   - "https://www.gia.edu/amethyst-care-cleaning"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
+  - "https://www.gemsociety.org/article/denver-gem-mineral-showcase-2017/"
   - "https://gemselect.com/gem-info/cleaning.php"
-  - "https://en.wikipedia.org/wiki/Grape_agate"
   - "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D40"
   - "https://www.loc.gov/item/85071008/"
   - "https://www.loc.gov/item/90085000/"
@@ -56,12 +56,11 @@ Grape agate is a trade name for clusters of tiny purple quartz spheres from Sula
 | Heat | Avoid |
 | Salt | Unknown |
 | Toxic to handle | No. Cutting and polishing dust is a silica hazard |
-| Treatments | Dull material is said to be dyed purple |
-| Price range | [TO CHECK US retail ranges] |
+| Price range | Set mostly by color and sparkle (see Price Guide) |
 | Birthstone | Not on the modern list |
 | Chakra (Modern Association) | Third eye and crown |
 
-> **Is It Real? Quick Checks.** Real grape agate is a cluster of small spheres, each about 0.1 to 0.3 inch across, and under a magnifier most of them look sparkly and drusy rather than smooth. Purple is the prize, but natural clusters also come white, gray, green or blue, so an odd color is not a fake by itself. The question to ask is whether a deep, even purple is natural or dyed.
+> **Is It Real? Quick Checks.** Real grape agate is a cluster of small spheres, each about 0.1 to 0.3 inch across, and under a magnifier most of them look sparkly and drusy rather than smooth. Purple is the prize, but natural clusters also come white, gray, green or blue, so an odd color is not a fake by itself.
 
 ## What Grape Agate Actually Is
 
@@ -84,11 +83,11 @@ So "grape agate," "grape chalcedony" and "botryoidal amethyst" on a label usuall
 
 ### Why Is Grape Agate Purple?
 
-For the same reason amethyst is. Geology.com counts purple grape agate as amethyst, and amethyst gets its color when trace iron built into growing quartz is later irradiated by gamma rays from radioactive minerals in the host rock ([Geology.com](https://geology.com/gemstones/amethyst/)). The green and blue-green grapes are thought to owe their color to clay mineral inclusions [TO CHECK with a reference source].
+For the same reason amethyst is. Geology.com counts purple grape agate as amethyst, and amethyst gets its color when trace iron built into growing quartz is later irradiated by gamma rays from radioactive minerals in the host rock ([Geology.com](https://geology.com/gemstones/amethyst/)).
 
 ### Where Grape Agate Comes From
 
-Geology.com names a single source, the Mamuju area of West Sulawesi. The clusters are reportedly dug from pockets of blue-green clay between weathered pillow lavas, lava that cooled under water, where silica dissolved by hot fluids came back out as quartz spheres [TO CHECK formation with a reference source].
+Geology.com names a single source, the Mamuju area of West Sulawesi.
 
 ## Where the Meaning Comes From
 
@@ -141,13 +140,10 @@ As a mineral, it is quartz in an unusual shape, hard, stable and fun to look at.
 
 ### Is Grape Agate Natural?
 
-Yes. Grape agate is a natural growth of quartz from Indonesia (Geology.com), and the question worth asking is whether its color is natural. We use the same five labels on every stone.
+Yes. Grape agate is a natural growth of quartz from Indonesia (Geology.com). The better question is what the name on the label stands for.
 
-- **Natural, untreated.** The normal case. Purple, white, gray, green and blue grapes all occur naturally (Geology.com).
-- **Natural, treated.** Dull-colored grape agate is said to be dyed purple to sell for more [TO CHECK with a reference source, and how to spot dyed grape agate].
-- **Lab-grown.** [TO CHECK whether lab-grown grape agate exists.]
-- **Imitation.** [TO CHECK which materials are sold as grape agate.]
-- **Trade names.** Grape agate, grape chalcedony and grape amethyst all name this material, and botryoidal amethyst is the accurate name (Geology.com).
+- **Natural.** Purple, white, gray, green and blue grapes all occur naturally (Geology.com).
+- **Trade names.** Grape agate and grape chalcedony both name this material, and botryoidal amethyst is the accurate name (Geology.com).
 
 Three checks you can do at home, with their limits.
 
@@ -155,14 +151,14 @@ Three checks you can do at home, with their limits.
 2. **Check the size.** Real grapes run about 0.1 to 0.3 inch (2 to 8 mm) across (Geology.com). Other botryoidal quartz comes in many colors and looks similar, so size alone does not prove the origin.
 3. **Ask where it was mined.** Geology.com names only the Mamuju area of Sulawesi for grape agate. Any other origin is worth a follow-up question.
 
-Ask the seller whether the color is natural or dyed. The [Label Decoder](/tools/crystal-label-decoder/) turns the words on a tag into what they usually mean.
+Ask the seller what the material is and where it was mined. The [Label Decoder](/tools/crystal-label-decoder/) turns the words on a tag into what they usually mean.
 
 ## How to Care for Grape Agate
 
 **Mineral Fact.** Grape agate is quartz, so it is hard, but its care comes partly from the agate family and partly from amethyst, its closest match.
 
 - **Water.** OK. For agate, the dealer GemSelect advises "Soak, rinse & brush" ([GemSelect](https://gemselect.com/gem-info/cleaning.php)).
-- **Soaking.** OK, by the same agate guidance. If your piece might be dyed, use plain water and no cleaners, since GemSelect warns that acids and chemicals, even lemon juice, can damage the color of dyed gems.
+- **Soaking.** OK, by the same agate guidance.
 - **Sun.** Avoid. The purple can fade (see below).
 - **Heat.** Avoid. For agate, GemSelect warns against heat and extreme temperature changes, which can shock the stone.
 - **Chemicals and salt.** Unknown. There is no reliable guidance yet, so keep cleaners and salt away from it.
@@ -182,14 +178,17 @@ Yes, for washing and soaking, by our agate data. Salt is another matter. Crystal
 
 - **Banded agate.** Microcrystalline quartz with parallel bands inside, which grape agate lacks (Geology.com). See [agate](/stones/agate/).
 - **Amethyst.** The same purple quartz, usually as pointed crystals, clusters and geodes rather than spheres. See [amethyst](/stones/amethyst/).
-- **Purple chalcedony.** Microcrystalline quartz, with crystals too small to see without a microscope. On a tiny chip, quartz looks glassy and chalcedony looks dull ([Geology.com](https://geology.com/gemstones/amethyst/)). See [purple chalcedony](/stones/purple-chalcedony/).
+- **Purple chalcedony.** Microcrystalline quartz, with crystals too small to see without a microscope. Under a hand lens, a tiny curved break looks glassy on quartz and dull on chalcedony ([Geology.com](https://geology.com/gemstones/amethyst/)). See [purple chalcedony](/stones/purple-chalcedony/).
 - **Other botryoidal quartz.** Not everything with the grape habit is purple. Much of it is green, gray, yellow or blue (Geology.com).
 
 ## Price Guide
 
-Color is what sells grape agate. Purple is the best match for the name (Geology.com), and [GIA](https://www.gia.edu/amethyst/gem-overview) rates strong reddish purple with no visible color zoning as the finest amethyst color. Because dull material is said to be dyed, a deep, even purple at a bargain price is worth a question.
+What you pay for in grape agate is mostly its looks.
 
-[TO CHECK US retail ranges]
+- **Color.** Purple is the best match for the name (Geology.com), and [GIA](https://www.gia.edu/amethyst/gem-overview) rates strong reddish purple to purple with no visible color zoning as the finest amethyst color. White, gray, green and blue grapes also occur naturally (Geology.com), but they do not match the name.
+- **Sparkle.** Reporting from the 2017 Denver show, the [International Gem Society](https://www.gemsociety.org/article/denver-gem-mineral-showcase-2017/) wrote that high-quality specimens have a nice color and excellent sparkle, and that most of the material is somewhat dull.
+- **Size and shape.** Geology.com pictures a large cluster as representative of the material and singles out a tiny one for its superb color and fun shape, so judge color and shape before size.
+- **The name.** Specimens with a fun look and an interesting name "market themselves," says Geology.com. Because "grape agate" is a trade name, ask the seller what the material is and where it was mined before paying for the name.
 
 **Next Step.** Want a purple stone you can wear every day? Compare it with [amethyst](/stones/amethyst/).
 
@@ -197,14 +196,13 @@ Color is what sells grape agate. Purple is the best match for the name (Geology.
 
 - Hobart M. King, Geology.com, [Grape Agate](https://geology.com/minerals/grape-agate/) and [Amethyst](https://geology.com/gemstones/amethyst/)
 - Gemological Institute of America, [Amethyst](https://www.gia.edu/amethyst/gem-overview) and [Amethyst Care and Cleaning](https://www.gia.edu/amethyst-care-cleaning)
-- International Gem Society, [Gemstone Toxicity Table](https://www.gemsociety.org/article/gemstone-care-guide/)
-- GemSelect, [Gemstone Cleaning and Care](https://gemselect.com/gem-info/cleaning.php), a dealer guide
+- International Gem Society, [Gemstone Toxicity Table](https://www.gemsociety.org/article/gemstone-care-guide/) and [Denver Gem & Mineral Showcase 2017](https://www.gemsociety.org/article/denver-gem-mineral-showcase-2017/)
 - Pliny the Elder, *Natural History*, Book 37, chapter 40, John Bostock and H. T. Riley translation (1855), [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D40)
 - First edition years from library records, Katrina Raphaell, *Crystal Enlightenment* ([Library of Congress](https://www.loc.gov/item/85071008/)), Melody, *Love Is in the Earth* ([Library of Congress](https://www.loc.gov/item/90085000/)), and Judy Hall, *The Crystal Bible* ([Open Library](https://openlibrary.org/books/OL8788839M))
 - Álex Escolà-Gascón and colleagues, "Placebo effects in alternative medical treatments for anxiety," *CNS Spectrums*, 2025, [doi.org/10.1017/S1092852925100515](https://doi.org/10.1017/S1092852925100515)
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition, from the [official IMA CNMNC site](https://cnmnc.units.it/)
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

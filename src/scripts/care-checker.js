@@ -1,7 +1,7 @@
 // Crystal Care Checker page code, from tools/care-checker/index.html, unchanged except
 //   - stone names link through a per-stone url set at build time (published pages only),
 //   - dealer and guide links are removed at build time (owner rule), a verdict that rests on
-//     one shows "A dealer care guide we read" without naming or linking it.
+//     one shows "A crystal seller’s care guide" without naming or linking it.
 (() => {
   'use strict';
 
@@ -368,7 +368,7 @@
       const c = s.care[m.field] || {};
       if (c.reason && !(r === 'unknown' && c.reason === UNKNOWN_REASON)) body += `<p class="reason">${esc(c.reason)}</p>`;
       if (c.sources && c.sources.length) body += `<p class="sources"><span class="src-label">Sources</span>${sourceLinks(c.sources)}</p>`;
-      else if (c.guide_sources) body += '<p class="sources"><span class="src-label">Source</span><span>A dealer care guide we read</span></p>';
+      else if (c.guide_sources) body += '<p class="sources"><span class="src-label">Source</span><span>A crystal seller’s care guide</span></p>';
       if (c.wikipedia_only && r !== 'unknown') body += '<p class="note">Only Wikipedia backs this rating so far, so treat it as a first lead.</p>';
       if (r === 'avoid' || r === 'unknown') body += '<p class="gentle">A dry method like moonlight or sound is the gentle choice.</p>';
     }

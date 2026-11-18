@@ -62,7 +62,7 @@ Kambaba jasper is the trade name for a green volcanic rock from Madagascar, full
 | Salt | Unknown |
 | Toxic to handle | No known risk for an intact stone. Cutting dust is a silica hazard |
 | Common fakes | The "fossil stromatolite" label. Dyed bead strands exist |
-| Price range | [TO CHECK US retail ranges] |
+| Price range | See the price guide below |
 | Birthstone | None on the modern US list |
 | Chakra (Modern Association) | Heart and root |
 
@@ -145,16 +145,16 @@ A few sites list skin conditions, fertility and pregnancy, and one shop guide ev
 
 **What Research Says.** In a small remote randomized study, 108 adults spent 5 minutes a day for a month on one of three breathing exercises or on mindfulness meditation, and the breathing groups, above all cyclic sighing with its long exhale, gained more in mood and slowed their breathing more than the meditators ([Balban and colleagues, 2023](https://doi.org/10.1016/j.xcrm.2022.100895)). It was exploratory, people knew which exercise they did and rated their own mood, and no stone was involved, so the Kambaba here is our addition.
 
-> **When a Stone Is Not Enough.** Kambaba jasper is often chosen for stress, anxiety, nightmares and grief, and some sites offer it for fertility and pregnancy. A stone can be a comfort to hold, but it is not care. If worry, sadness or poor sleep lasts or feels heavy, talk to a doctor or a therapist. For fertility or pregnancy, talk to your doctor or midwife, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
+> **When a Stone Is Not Enough.** Kambaba jasper is often chosen for stress, anxiety, nightmares and grief, and some sites offer it for fertility and pregnancy. A stone can be a comfort to hold, but it is not care. If worry, sadness or poor sleep lasts or feels heavy, talk to a doctor or a therapist. For fertility or pregnancy, talk to your doctor or midwife, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Kambaba Jasper Real?
 
 Usually, yes. It is a real natural rock with a misleading name, and here is where it stands on our five labels.
 
 - **Natural, untreated.** The usual case. The bead seller [Dakota Stones](https://dakotastones.com/pages/kambaba-jasper-stone-glossary) lists its treatment as natural.
-- **Natural, treated.** Dyed. Dakota Stones marks its dyed Kambaba strands in the product title, so dyed beads do exist. [TO CHECK how common dyed Kambaba is in the US.]
-- **Lab-grown.** [TO CHECK whether any lab-made material is sold as Kambaba.]
-- **Imitation.** [TO CHECK which materials are sold as Kambaba.]
+- **Natural, treated.** Dyed. Dakota Stones marks its dyed Kambaba strands in the product title, so dyed beads do exist. We found no reference source on how common they are.
+- **Lab-grown.** We found no reference source on lab-grown Kambaba.
+- **Imitation.** We found no reference source that documents glass or another material sold as Kambaba.
 - **Trade name.** Kambaba jasper itself. The "stromatolite" and "fossil" labels are the misleading part, along with the "jasper." Dakota Stones, for one, still describes it as fossilized algae.
 
 ### Kambaba Jasper, Malachite or Serpentine?
@@ -200,7 +200,7 @@ Cleansing is a belief practice, so pick a method that cannot hurt the stone. Gui
 
 ## Price Guide
 
-For jasper in general, the International Gem Society ties value to color, pattern and the skill of the cutting, with simple commercial pieces at $5 or less in rock shops. Kambaba is not a true jasper, so read that as a rough frame. [TO CHECK US retail ranges]
+Jaspers in general are very common, so the International Gem Society ties most of a piece's value to the saturation of its color, the beauty of its pattern or the artistry with which it is fashioned. Kambaba is not a true jasper, so read that as a rough frame, and never pay extra for a "fossil" label that lab work contradicts.
 
 **Next Step.** Looking for a grounding stone with no fossil story attached? Compare the usual picks in [crystals for grounding](/crystals-for/grounding/).
 
@@ -217,6 +217,6 @@ For jasper in general, the International Gem Society ties value to color, patter
 - 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
 - Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

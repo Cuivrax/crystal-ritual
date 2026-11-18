@@ -8,11 +8,13 @@ secondary_keywords: []
 author: "Iris Holloway"
 publishDate: "2027-01-16"
 publishTime: "09:09"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.handbookofmineralogy.org/pdfs/chalcocite.pdf"
   - "https://www.minerals.net/mineral/chalcocite"
+  - "https://cnmnc.units.it/"
+  - "https://doi.org/10.1016/S0065-2601(06)38002-1"
   - "https://pubs.usgs.gov/sir/2010/5070/c/Chapter12SIR10-5070-C-3.pdf"
   - "https://earthwonders.com/wiki/chalcocite"
   - "https://www.crystals.com/pages/crystals/chalcocite"
@@ -25,7 +27,7 @@ sources:
 
 Chalcocite is a copper sulfide, Cu₂S, a heavy, metallic, blackish gray mineral that is about 80 percent copper by weight and an important ore of copper. Collectors prize its rare twinned crystals. It is soft and tarnishes, so it belongs on a dry shelf rather than in a pocket, and its crystal meanings are modern and few.
 
-<!-- PHOTO HERO. Smithsonian NMNH, "Chalcocite". Image https://ids.si.edu/ids/deliveryService/id/ark:/65665/m37916c771626d490288ddf9a8d9b2bde4 . Record http://n2t.net/ark:/65665/32bc21635-237d-469e-a3cb-3bfcf5077efb . License CC0 (Smithsonian Open Access), https://www.si.edu/openaccess . Credit line "Smithsonian National Museum of Natural History, CC0". Hero pick for chalcocite in image_picks_new_stones.json (visual pass, "clustered black prismatic chalcocite crystals on plain grey, sharp, fills frame"). Alt text "Cluster of black prismatic chalcocite crystals, Smithsonian collection". [TO CHECK locality on the Smithsonian record before adding it to the caption.] -->
+<!-- PHOTO HERO. Smithsonian NMNH, "Chalcocite". Image https://ids.si.edu/ids/deliveryService/id/ark:/65665/m37916c771626d490288ddf9a8d9b2bde4 . Record http://n2t.net/ark:/65665/32bc21635-237d-469e-a3cb-3bfcf5077efb . License CC0 (Smithsonian Open Access), https://www.si.edu/openaccess . Credit line "Smithsonian National Museum of Natural History, CC0". Hero pick for chalcocite in image_picks_new_stones.json (visual pass, "clustered black prismatic chalcocite crystals on plain grey, sharp, fills frame"). Alt text "Cluster of black prismatic chalcocite crystals, Smithsonian collection". Locality "Bristol, Hartford Co., Connecticut, United States, North America" in the Smithsonian Open Access metadata saved in images_smithsonian_v2.csv (2026-11-18 fill pass). The live record page needs JavaScript and the collections.si.edu search refused the fetch (robots), so the photo pass confirms it on the record before putting Bristol, Connecticut in the caption. -->
 
 ## Chalcocite Quick Facts
 
@@ -45,8 +47,8 @@ Chalcocite is a copper sulfide, Cu₂S, a heavy, metallic, blackish gray mineral
 | Heat | Avoid |
 | Salt | Unknown |
 | Toxic to handle | Brief only. It is copper sulfide, so wash your hands after handling |
-| Common fakes | [TO CHECK which imitations are sold as chalcocite.] Watch for glued repairs and coatings |
-| Price range | [TO CHECK US retail ranges] |
+| Common fakes | None found in reference sources. Watch for glued repairs and coatings |
+| Price | Set by crystal quality and locality, see the Price Guide |
 | Birthstone | None |
 | Chakra (Modern Association) | Root, in a few guides |
 
@@ -91,7 +93,7 @@ The [Earth Wonders collector guide](https://earthwonders.com/wiki/chalcocite) ex
 **The Story.** Chalcocite has a mining history and almost no folklore. One French crystal site states plainly that there are no legends or myths about the stone.
 
 - **The miners' names.** Minerals.net lists redruthite for chalcocite from the Redruth area of Cornwall, and a UK crystal shop lists copper glance as another old miners' name. Ducktownite is chalcocite coating or replacing pyrite (Minerals.net).
-- **The name chalcocite.** The name is sometimes credited to the American mineralogist James Dwight Dana, with the year given as 1862 or 1868. [TO CHECK who named chalcocite and when.]
+- **The name chalcocite.** Beyond its root in *chalkos*, Greek for copper (*Handbook of Mineralogy*), we found no reference source that says who coined the name or when.
 - **Alchemy.** **Modern Association.** One French shop guide reads chalcocite through alchemy, where copper was the metal of Venus, and makes it a symbol of transformation.
 - **Unsourced stories.** Some shop pages add Native American councils or the bronze of ancient Cyprus. They come without names, dates or sources, so read them as modern storytelling.
 
@@ -99,7 +101,7 @@ The [Earth Wonders collector guide](https://earthwonders.com/wiki/chalcocite) ex
 
 **Modern Association.** Few crystal guides cover chalcocite, and they do not agree. Crystals.com files it under the root chakra, Scorpio, Mars and the element earth, and uses it for grounding, strength and endurance, with the affirmation "I remain steady and resilient." French guides add transformation, protection against negativity and help through change. In our rankings, chalcocite is Sometimes Linked for grounding and protection, and no higher for anything else.
 
-The "why" is easy to guess. A dark, heavy stone reads as steady, and the alchemy reading turns copper ore into a picture of change. One French shop credits its list to a guide to healing stones by Alexandra Moysan and Kevin Papot. [TO CHECK book titles and years]
+The "why" is easy to guess. A dark, heavy stone reads as steady, and the alchemy reading turns copper ore into a picture of change.
 
 Some pages promise better circulation, relief from migraines or help in pregnancy. Nothing in the mineral or medical sources behind this page supports those claims.
 
@@ -121,7 +123,7 @@ Some pages promise better circulation, relief from migraines or help in pregnanc
 
 **Safety.** Wash your hands after handling it. Keep it away from small children and pets, never put it in your mouth or in water you drink, and skip any elixir.
 
-**What Research Says.** [TO CHECK research study with DOI] Until then, treat these as personal practices.
+**What Research Says.** The shelf cue is an if-then plan. A 2006 meta-analysis that pooled earlier lab and field studies found that people who made an if-then plan ("if situation X happens, then I will do Y") were more likely to act on a goal than people who only intended to ([Gollwitzer and Sheeran, 2006](https://doi.org/10.1016/S0065-2601%2806%2938002-1)). None of those studies tested stones, so the plan is the researched part and the chalcocite is only the cue.
 
 > **When a Stone Is Not Enough.** Chalcocite is sometimes chosen for stress, sleep or pregnancy. A stone can be a comfort to look at, but it is not care. If stress, poor sleep or a health worry lasts, talk to a doctor, a therapist or your midwife.
 
@@ -131,8 +133,8 @@ We use the same five labels on every stone.
 
 - **Natural, untreated.** Chalcocite as it came from the mine. A stable, even patina on an old piece is natural aging, and Earth Wonders advises leaving one you like.
 - **Natural, treated.** Earth Wonders says collectors and preparators have sometimes used microcrystalline wax, lacquer or "reblackening" patinas such as liver of sulfur to improve color or slow tarnish, and that coatings should be disclosed. Glued repairs and crystals mounted on unrelated matrix also turn up.
-- **Lab-grown.** [TO CHECK whether lab-made chalcocite is sold to collectors.]
-- **Imitation.** [TO CHECK which imitations are sold as chalcocite.]
+- **Lab-grown.** We found no reference source on lab-grown chalcocite sold to collectors.
+- **Imitation.** We found no reference source on imitations sold as chalcocite. The problems the Earth Wonders collector guide describes are repairs and coatings, so the checks below look for those.
 - **Trade name.** Redruthite and ducktownite are old names for real chalcocite (Minerals.net), and copper glance is an old miners' name.
 
 Three checks at home, with their limits.
@@ -170,16 +172,17 @@ Yes. Faces can grow a thin film (Minerals.net), and Earth Wonders says many olde
 
 ## Price Guide
 
-Massive chalcocite is a widespread ore, but crystals are another story. Minerals.net says good crystals "command very high prices," and pieces from classic localities like Cornwall and Bristol command extremely high ones. Earth Wonders lists size, sharpness, contrast with the matrix, minimal alteration and a documented history as what drives value. [TO CHECK US retail ranges]
+Massive chalcocite is a widespread ore, but crystals are another story. Minerals.net says good crystals "command very high prices," and pieces from classic localities like Cornwall and Bristol command extremely high ones. Earth Wonders lists size, sharpness, contrast with the matrix, minimal alteration and a documented history as what drives value.
 
 ## Sources
 
 - *Handbook of Mineralogy*, [Chalcocite](https://www.handbookofmineralogy.org/pdfs/chalcocite.pdf), Mineral Data Publishing, 2001 to 2005
-- Minerals.net, [Chalcocite](https://www.minerals.net/mineral/chalcocite), and the IMA List of Minerals, July 2026 edition
+- Minerals.net, [Chalcocite](https://www.minerals.net/mineral/chalcocite), and the IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - Randolph A. Koski, [Supergene Ore and Gangue Characteristics](https://pubs.usgs.gov/sir/2010/5070/c/Chapter12SIR10-5070-C-3.pdf), U.S. Geological Survey Scientific Investigations Report 2010-5070-C, chapter 12
 - Earth Wonders, [Chalcocite Collectors Guide](https://earthwonders.com/wiki/chalcocite), a mineral dealer's guide updated November 21, 2025
-- Modern associations from crystals.com, france-mineraux.fr, en.camille-ambiance-nature.fr and albionfireandice.co.uk, read November 18, 2026
+- Gollwitzer, P. M., and Sheeran, P. (2006), Implementation intentions and goal achievement, a meta-analysis of effects and processes, *Advances in Experimental Social Psychology* 38, 69 to 119, [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

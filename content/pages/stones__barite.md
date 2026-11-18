@@ -16,7 +16,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-30"
 publishTime: "09:27"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/barite-jewelry-gemstone-information/"
@@ -161,7 +161,7 @@ One shop lists barite as suitable for gemstone water, and another guide suggests
 
 **What Research Says.** A 2006 meta-analysis that pooled earlier lab and field studies found that people who made an if-then plan ("if situation X happens, then I will do Y") were more likely to act on a goal than people who only intended to (Gollwitzer and Sheeran, *Advances in Experimental Social Psychology*, [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)). Those studies covered everyday goals, not stones or dream journals, and a plan helps most with something you already want to do. The front-door check and the paperweight pause are if-then plans with a heavy stone as the cue, and the plan is the part with research behind it.
 
-> **When a Stone Is Not Enough.** Barite is often chosen for sleep, stress, grief and recovery. A stone can be a comfort to hold, but it is not care. If poor sleep, anxiety or low mood lasts, talk to a doctor or a therapist. If you are struggling with substance use or self-harm, reach out to a doctor or counselor. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. Never use a stone in place of treatment.
+> **When a Stone Is Not Enough.** Barite is often chosen for sleep, stress, grief and recovery. A stone can be a comfort to hold, but it is not care. If poor sleep, anxiety or low mood lasts, talk to a doctor or a therapist. If you are struggling with substance use or self-harm, reach out to a doctor or counselor. Never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Barite Real?
 

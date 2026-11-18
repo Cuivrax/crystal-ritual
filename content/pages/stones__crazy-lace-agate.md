@@ -18,7 +18,9 @@ sources:
   - "https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.06%3A_Quartz_-_Polycrystalline/16.6.01%3A_Chalcedony/16.6.1.01%3A_Agate"
   - "https://geoinfo.nmt.edu/museum/nmms/abstracts/view.cfm?aid=556"
   - "https://www.langantiques.com/agate"
+  - "https://www.psu.edu/news/research/story/how-do-agates-form"
   - "https://www.americangemsociety.org/birthstones/"
+  - "https://cnmnc.units.it/"
   - "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D54"
   - "https://doi.org/10.1177/1088868317734944"
   - "https://988lifeline.org/"
@@ -54,7 +56,7 @@ Crazy lace agate is a banded agate from Chihuahua, Mexico, known for tight, twis
 | Toxic to handle | No. Cutting dust is a silica hazard |
 | Common fakes | Dyed agate in bright colors |
 | Trade names | Crazy lace, Mexican lace agate, Laughter Stone, Happy Lace |
-| Price range | [TO CHECK US retail ranges] |
+| Price range | Generally modest (see Price Guide) |
 | Birthstone | Not on the modern list |
 | Chakra (Modern Association) | Solar plexus most often, with root, sacral, third eye and crown also named |
 
@@ -76,7 +78,7 @@ Crazy lace breaks the pattern. Cross writes that "unlike all other Mexican agate
 
 ### What Colors Is Crazy Lace Agate?
 
-Mostly white and gray. Cross writes that while individual bands of red, yellow, orange or brown occur, "the vast majority of the material is gray or white," and that "widespread staining is primarily responsible for much of the color." [TO CHECK whether that staining is natural or added.]
+Mostly white and gray. Cross writes that while individual bands of red, yellow, orange or brown occur, "the vast majority of the material is gray or white," and that "widespread staining is primarily responsible for much of the color." His abstract does not say what the staining is, and it does not mention dye.
 
 For agate in general, the colors come from impurities that line up as bands (Geology.com), traces of iron, manganese, titanium, chromium and nickel oxides (International Gem Society). Agate is also porous and takes dye readily, a point that matters for the brightly colored pieces covered below.
 
@@ -92,7 +94,7 @@ Crazy lace comes from the Sierra Santa Lucia in Chihuahua, a range Cross says "h
 - **11th century.** **Tradition.** Marbodus, Bishop of Rennes, wrote that agates make their wearers "agreeable and persuasive" and give them the favor of God. Camillo Leonardo added victory and strength (George Frederick Kunz, *The Curious Lore of Precious Stones*, 1913, page 51). This is agate in general.
 - **Since the 12th century.** **Tradition.** Agate has been credited with improving one's disposition and eyesight, LibreTexts notes, and one dealer page says the *Book of Saxon Leechdoms* lists it against thunder, sorcery, demonic possession, poison and drunkenness.
 - **16th century.** **Tradition.** Agate was believed to cure insomnia and bring pleasant dreams. Girolamo Cardano wore one, had misfortunes he could not explain and gave it up, and Kunz notes that "no real connection of any kind existed between the stones and their supposed effects" (1913, page 52).
-- **Shop story.** One shop guide says the earliest inhabitants of Mexico wore crazy lace as an amulet for endurance and courage in battle [TO CHECK an archaeological or museum source].
+- **Shop story.** One shop guide says the earliest inhabitants of Mexico wore crazy lace as an amulet for endurance and courage in battle. We found no archaeological or museum record behind it, so it stays a seller's story.
 - **Today.** **Modern Association.** Joy and laughter lead. One large crystal encyclopedia calls it the Laughter Stone, or "Happy Lace," and ties it to Mexican fiestas and dancing, crediting crystal books.
 
 ## What People Use Crazy Lace Agate for Today
@@ -133,16 +135,16 @@ Some guides list digestion, fever, epilepsy, the heart or pregnancy, mostly for 
 
 **What Research Says.** A [2018 review](https://doi.org/10.1177/1088868317734944) by Nicholas Hobson and colleagues, a framework built from earlier studies with no participants of its own, argues that rituals help people regulate emotions, get ready to perform and feel connected to others. It is a review, not a test, and it says nothing about stones. The social side is the closest match to the rituals above, and the stone is only the reminder.
 
-> **When a Stone Is Not Enough.** Crazy lace agate is often chosen for stress, low mood and anxiety, and some guides suggest agate in pregnancy. A stone can be a comfort to hold, but it is not care. If anxiety or low mood lasts or feels heavy, talk to a doctor or a therapist, and bring pregnancy questions to your doctor or midwife. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
+> **When a Stone Is Not Enough.** Crazy lace agate is often chosen for stress, low mood and anxiety, and some guides suggest agate in pregnancy. A stone can be a comfort to hold, but it is not care. If anxiety or low mood lasts or feels heavy, talk to a doctor or a therapist, and bring pregnancy questions to your doctor or midwife. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Crazy Lace Agate Real?
 
 We use the same five labels on every stone. Crazy lace is easy to find real. The questions are about color and names.
 
-- **Natural, untreated.** Mostly white and gray with some colored bands, as Cross describes. [TO CHECK how much crazy lace on the US market has been stained or dyed.]
+- **Natural, untreated.** Mostly white and gray with some colored bands, as Cross describes. We found no figure for how much crazy lace sold in the US is dyed.
 - **Natural, treated.** Dyeing agate is an ancient practice, still common and usually stable, and it should be disclosed (International Gem Society). Most spectacularly colored agates in the trade have been dyed (Geology.com).
-- **Lab-grown.** [TO CHECK whether lab-grown agate is sold.]
-- **Imitation.** [TO CHECK which glass or other stones are sold as crazy lace agate.]
+- **Lab-grown.** We found no reference source on lab-grown agate sold in the US, and in 2001 the Penn State mineralogist Peter Heaney said no one had ever made an agate ([Penn State](https://www.psu.edu/news/research/story/how-do-agates-form)).
+- **Imitation.** We found no reference source describing glass or other stones sold as crazy lace agate. The likelier mix-up is another lace agate, covered in the checks below.
 - **Trade names.** Crazy lace, Mexican lace agate, Laughter Stone and Happy Lace all point to the same Mexican agate. "Lace agate" is broader, and blue lace agate is a different stone.
 
 ### Is Pink, Blue or Purple Crazy Lace Agate Dyed?
@@ -185,7 +187,7 @@ Keep it out of anything you drink. Check your piece in the [Care Checker](/tools
 
 ## Price Guide
 
-The International Gem Society calls agate's value generally quite modest, with labor and artistry counting for more than the stone itself. Larger pieces with fine patterns, custom cuts and stones from prized locations cost more (IGS), and agate is the most popular rough for tumbled stones (Geology.com). [TO CHECK US retail ranges]
+The International Gem Society calls agate's value generally quite modest, with labor and artistry counting for more than the stone itself. Larger pieces with fine patterns, custom cuts and stones from prized locations cost more (IGS), and agate is the most popular rough for tumbled stones (Geology.com). Treatment counts too. Dyeing agate is a common practice that should be disclosed (IGS), so ask before paying extra for a bright color.
 
 **Next Step.** Heading into a week that needs a little nerve? See how crazy lace compares with the other usual picks in [crystals for confidence](/crystals-for/confidence/).
 
@@ -195,14 +197,15 @@ The International Gem Society calls agate's value generally quite modest, with l
 - Hobart M. King, Geology.com, [Agate](https://geology.com/gemstones/agate/)
 - LibreTexts Geosciences, [Agate](https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.06%3A_Quartz_-_Polycrystalline/16.6.01%3A_Chalcedony/16.6.1.01%3A_Agate), in the open textbook *Gemology*
 - Brad L. Cross, "The Agates and Geodes of Northern Chihuahua and Southern New Mexico," 40th Annual New Mexico Mineral Symposium (2019), [abstract](https://geoinfo.nmt.edu/museum/nmms/abstracts/view.cfm?aid=556), New Mexico Bureau of Geology and Mineral Resources
-- Lang Antiques, [Agate](https://www.langantiques.com/agate), a dealer guide
-- Pliny the Elder, *Natural History*, Book 37, chapter 54, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D54), CC BY-SA 3.0 US
+- Nancy Marie Brown, "How Do Agates Form?" Penn State News, August 31, 2001, [Penn State](https://www.psu.edu/news/research/story/how-do-agates-form)
+- Pliny the Elder, *Natural History*, Book 37, chapter 54, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D54), CC BY-SA 3.0 US
 - Nicholas M. Hobson and colleagues, "The Psychology of Rituals," *Personality and Social Psychology Review* 22, no. 3 (2018), [DOI 10.1177/1088868317734944](https://doi.org/10.1177/1088868317734944)
 - 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
-- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
+- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
+- IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 51 to 52, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
-- Modern associations summarized from popular crystal guides, read November 13, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

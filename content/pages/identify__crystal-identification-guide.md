@@ -16,7 +16,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-11"
 publishTime: "06:39"
-status: "draft"
+status: "verified"
 page_type: "guide"
 sources:
   - "https://geology.com/minerals/mohs-hardness-scale.shtml"
@@ -92,7 +92,7 @@ We also leave glass out of the kit. Geology.com's table of everyday testing obje
 
 ## How to Identify Crystals, Step by Step
 
-Our [Crystal Identifier](/tools/crystal-identifier/) asks these same questions in this order and returns three to five candidates, with what sets each one apart. Work through them with the stone in your hand and write down each answer.
+Our [Crystal Identifier](/tools/crystal-identifier/) asks the same questions, apart from the streak step, which it leaves out, and returns three to five candidates with what sets each one apart. Work through them with the stone in your hand and write down each answer.
 
 ### Step 1. Color, in Daylight
 
@@ -139,7 +139,7 @@ Wipe a finger across the spot and look with the loupe. Geology.com puts it plain
 
 The streak is the color of a mineral's powder. Rub a rough corner across an unglazed porcelain streak plate and look at the line it leaves ([Geology.com](https://geology.com/minerals/streak-test.shtml)). Hematite always leaves a reddish streak, even when the stone looks silver or black ([Geology.com](https://geology.com/minerals/hematite.shtml)). Pyrite leaves a greenish black to brownish black one, and magnetite a black one ([Geology.com](https://geology.com/minerals/magnetite.shtml)).
 
-**The limit.** Streak plates usually rate 6.5 to 7, and anything harder leaves no streak at all, so quartz leaves none. Streaking also grinds off a little of the stone, which is why it is for rough pieces only.
+**The limit.** Geology.com's table rates a streak plate at 5 to 7, and a stone harder than the plate leaves no streak at all, so quartz leaves none. Streaking also grinds off a little of the stone, which is why it is for rough pieces only.
 
 ### Step 7. The Fridge Magnet
 
@@ -161,8 +161,8 @@ Start from the color row, then use the clue to split the candidates. Hardness fi
 | Purple | [Amethyst](/stones/amethyst/), [fluorite](/stones/fluorite/) | Amethyst is quartz at 7 ([GIA](https://www.gia.edu/amethyst/gem-overview)). Fluorite is 4, breaks along flat planes and has been offered as amethyst ([IGS](https://www.gemsociety.org/article/fluorite-jewelry-gemstone-information/)) |
 | Pink | [Rose quartz](/stones/rose-quartz/), [pink opal](/stones/pink-opal/) | Rose quartz is quartz at 7, usually translucent to cloudy (GIA). Pink opal is a common opal, slightly translucent to almost opaque ([Gemdat](https://www.gemdat.org/gem-28956.html)) |
 | Yellow or orange | [Citrine](/stones/citrine/), [orange calcite](/stones/orange-calcite/), [sunstone](/stones/sunstone/) | Citrine is quartz at 7, and most of it is heated amethyst ([GIA](https://www.gia.edu/citrine/gem-overview)). Orange calcite is 3. Sunstone sparkles from flat inclusions inside (GIA) |
-| Green | [Green aventurine](/stones/green-aventurine/), [jade](/stones/jade/), [malachite](/stones/malachite/), [amazonite](/stones/amazonite/) | Aventurine sparkles from flakes of green mica (Geology.com). Jade has no glitter ([Geology.com](https://geology.com/gemstones/jade/)). Malachite shows swirling bands of green and is soft at 3.5 to 4.5 ([IGS](https://www.gemsociety.org/article/malachite-jewelry-and-gemstone-information/), [Geology.com](https://geology.com/minerals/malachite.shtml)). Amazonite is a feldspar, pale to blue-green with white streaks, that can resemble jade ([Geology.com](https://geology.com/gemstones/amazonite/)) |
-| Blue | [Lapis lazuli](/stones/lapis-lazuli/), [sodalite](/stones/sodalite/), [turquoise](/stones/turquoise/), [blue calcite](/stones/blue-calcite/), dyed howlite | Lapis carries brassy gold pyrite flecks ([IGS](https://www.gemsociety.org/article/lapis-lazuli-jewelry-and-gemstone-information/)). Sodalite lacks pyrite ([IGS](https://www.gemsociety.org/article/sodalite-jewelry-and-gemstone-information/)) and often has white veins ([Geology.com](https://geology.com/minerals/sodalite.shtml)). Turquoise is sky blue to blue-green with a waxy shine ([Geology.com](https://geology.com/minerals/turquoise.shtml)). Blue calcite is 3. Dyed howlite shows white in drill holes and cracks ([IGS](https://www.gemsociety.org/article/howlite-jewelry-and-gemstone-information/)) |
+| Green | [Green aventurine](/stones/green-aventurine/), [jade](/stones/jade/), [malachite](/stones/malachite/), [amazonite](/stones/amazonite/) | Aventurine sparkles from flakes of green mica (Geology.com). Jade has a vitreous, greasy or waxy shine rather than a sparkle ([Geology.com](https://geology.com/gemstones/jade/)). Malachite shows swirling bands of green and is soft at 3.5 to 4.5 ([IGS](https://www.gemsociety.org/article/malachite-jewelry-and-gemstone-information/), [Geology.com](https://geology.com/minerals/malachite.shtml)). Amazonite is a feldspar, pale to blue-green with white streaks, that can resemble jade ([Geology.com](https://geology.com/gemstones/amazonite/)) |
+| Blue | [Lapis lazuli](/stones/lapis-lazuli/), [sodalite](/stones/sodalite/), [turquoise](/stones/turquoise/), [blue calcite](/stones/blue-calcite/), dyed howlite | Lapis carries brassy gold pyrite flecks ([IGS](https://www.gemsociety.org/article/lapis-lazuli-jewelry-and-gemstone-information/)). Sodalite lacks pyrite ([IGS](https://www.gemsociety.org/article/sodalite-jewelry-and-gemstone-information/)) and often has white veins ([Geology.com](https://geology.com/minerals/sodalite.shtml)). Turquoise is sky blue to blue-green with a waxy shine ([Geology.com](https://geology.com/minerals/turquoise.shtml)). Blue calcite is 3. Dyed howlite is a common turquoise stand-in ([IGS](https://www.gemsociety.org/article/howlite-jewelry-and-gemstone-information/)) and is softer, 3 to 3.5 against turquoise at 5 to 6 |
 | Brown | [Smoky quartz](/stones/smoky-quartz/), [tiger's eye](/stones/tigers-eye/), [mahogany obsidian](/stones/mahogany-obsidian/) | Smoky quartz is glassy quartz at 7, transparent to translucent ([Geology.com](https://geology.com/gemstones/smoky-quartz/)). Tiger's eye is fibrous quartz stained golden brown by iron ([IGS](https://www.gemsociety.org/article/tigers-eye-gem-information/)). Mahogany obsidian is volcanic glass, reddish brown swirled with black ([IGS](https://www.gemsociety.org/article/obsidian-jewelry-and-gemstone-information/), [Geology.com](https://geology.com/rocks/obsidian.shtml)) |
 | Black | [Obsidian](/stones/obsidian/), [black tourmaline](/stones/black-tourmaline/), [onyx](/stones/onyx/), [hematite](/stones/hematite/) | Obsidian breaks in curved, shell-like surfaces. Black tourmaline grows as lined prisms that are rounded triangles in cross-section. Black stone sold as onyx is usually dyed chalcedony ([Minerals.net](https://m.minerals.net/Gemstone/Onyx.aspx)). Hematite is heavy and streaks red |
 | Metallic gold or silver | [Pyrite](/stones/pyrite/), hematite, [magnetite](/stones/magnetite/) | Pyrite is brass yellow, streaks greenish black and is brittle, while gold bends under pin pressure ([Geology.com](https://geology.com/minerals/pyrite.shtml)). Hematite streaks red. Magnetite pulls to a magnet and streaks black |
@@ -181,7 +181,7 @@ Until you know what it is, care for it like a stone with no data. Keep it dry, o
 
 An app or a photo can suggest candidates. It cannot confirm one. A photo carries color, shape and shine, and color is the least reliable of the three, shifted by the light, the camera and the screen it is viewed on. It carries no hardness, no weight, no streak and no pull to a magnet.
 
-Some differences never show in a picture at all. A lab-grown gem "shares virtually all chemical, optical, and physical characteristics of its natural mineral counterpart," says [GIA](https://www.gia.edu/gem-synthetic), and the dye in a dyed agate is stable and hard to see ([Geology.com](https://geology.com/gemstones/agate/)). A good photo of a cluster with orange tips and a white base makes heated amethyst likely, as our [real citrine guide](/real-or-fake/citrine/) explains. It still proves nothing.
+Some differences never show in a picture at all. A lab-grown gem "shares virtually all chemical, optical, and physical characteristics of its natural mineral counterpart," says [GIA](https://www.gia.edu/gem-synthetic), and the dye in a dyed agate is stable and hard to see ([Geology.com](https://geology.com/gemstones/agate/)). A good photo of a cluster with orange tips and a white base can hint at heated amethyst, though it proves nothing.
 
 Use an app result the way you would use a friend's guess. Add it to your list of candidates, then check it against the steps above. A photo or these tests can narrow it down but cannot confirm it. A gemologist can.
 

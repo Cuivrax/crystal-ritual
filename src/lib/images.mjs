@@ -42,14 +42,20 @@ export async function pictureHtml(meta, { alt = '', eager = false, widths = [480
     + '</picture>';
 }
 
+// Every photo gets a light brightness and color retouch (hc/site/photos/tools/retouch.py).
+// CC BY licenses ask that changes be indicated, so those credits say so.
+const ADJUSTED = ', color adjusted';
+const needsChangeNote = (photo) => /\bCC[ -]?BY\b/i.test(`${photo.license || ''} ${photo.credit || ''}`);
+
 /** The credit line, linked to the photo's source page when that page is a credit site. */
 export function creditHtml(photo) {
   const text = photo.caption || photo.credit || '';
   if (!text) return '';
+  const note = needsChangeNote(photo) && !/adjusted|retouched|modified/i.test(text) ? ADJUSTED : '';
   if (photo.page && policy.isCreditLinkAllowed(photo.page)) {
-    return `<a href="${esc(photo.page)}" rel="noopener">${esc(text)}</a>`;
+    return `<a href="${esc(photo.page)}" rel="noopener">${esc(text)}</a>${note}`;
   }
-  return esc(text);
+  return esc(text) + note;
 }
 
 /** A full figure with its credit caption. */

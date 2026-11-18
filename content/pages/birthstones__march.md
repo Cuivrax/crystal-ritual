@@ -15,7 +15,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-15"
 publishTime: "10:04"
-status: "draft"
+status: "verified"
 page_type: "month"
 sources:
   - "https://988lifeline.org/"
@@ -23,6 +23,9 @@ sources:
   - "https://www.gia.edu/birthstones/march-birthstones"
   - "https://my.gia.edu/gia-museum-exhibit-birthstones"
   - "https://www.gia.edu/aquamarine/gem-overview"
+  - "https://www.gia.edu/gem-imitation"
+  - "https://www.gemsociety.org/article/Chalcedony/"
+  - "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D20"
   - "https://www.gemsociety.org/article/march-birthstone/"
   - "https://www.gemsociety.org/article/birthstone-chart/"
   - "https://www.gemsociety.org/article/history-of-birthstones/"
@@ -59,7 +62,7 @@ The March birthstones are aquamarine and bloodstone, the two stones the American
 | Colors | Very light to rich blue, often a little green | Deep green with red to orange spots |
 | Mohs hardness | 7.5 to 8 | 6.5 to 7 |
 | Look | Transparent, usually faceted | Opaque, usually a cabochon |
-| Usual treatment | Heated, assume it for any pure blue stone | [TO CHECK bloodstone treatments] |
+| Usual treatment | Heated, assume it for any pure blue stone | None documented for bloodstone itself, though chalcedony is often dyed (IGS) |
 | Lab-grown | Exists, hydrothermal | None known |
 | Main source | Brazil | India |
 | Anniversary | 19th | None |
@@ -81,11 +84,11 @@ March has two, aquamarine and bloodstone. The [American Gem Society](https://www
 
 ### Modern vs Traditional March Birthstones
 
-Three sources tell the 1912 story three ways. The International Gem Society's [birthstone chart](https://www.gemsociety.org/article/birthstone-chart/) calls aquamarine the modern March stone and bloodstone the traditional one, and its [history page](https://www.gemsociety.org/article/history-of-birthstones/) says the modern list is the one set by the National Association of Jewelers. Geology.com says bloodstone "has served as the modern birthstone for the month of March since 1912" ([Geology.com](https://geology.com/gemstones/bloodstone/)). Kunz, who printed the list adopted at Kansas City in August 1912, shows bloodstone as the birthstone with aquamarine as the alternate (1913, page 319).
+The 1912 story gets told three ways. The International Gem Society's [birthstone chart](https://www.gemsociety.org/article/birthstone-chart/) calls aquamarine the modern March stone and bloodstone the traditional one, and its [history page](https://www.gemsociety.org/article/history-of-birthstones/) says the modern list is the one set by the National Association of Jewelers. Geology.com says bloodstone "has served as the modern birthstone for the month of March since 1912" ([Geology.com](https://geology.com/gemstones/bloodstone/)). Kunz, who printed the list adopted at Kansas City in August 1912, shows bloodstone as the birthstone with aquamarine as the alternate (1913, page 319).
 
 So "traditional" usually means bloodstone, but which stone counts as the modern one depends on who you ask. Our table above keeps each version with its source.
 
-Aquamarine is the newcomer. On the old lists Kunz gathered, it was the October stone (page 315). The 1952 revision of the US list changed June, October, November and December and left March alone, according to the IGS [history of birthstones](https://www.gemsociety.org/article/history-of-birthstones/). Today the AGS chart names aquamarine first. [TO CHECK when US lists began naming aquamarine ahead of bloodstone.]
+Aquamarine is the newcomer. On the old lists Kunz gathered, it was the October stone (page 315). The 1952 revision of the US list, by the Jewelry Industry Council of America, added stones to June, October, November and December, according to the IGS [history of birthstones](https://www.gemsociety.org/article/history-of-birthstones/). Today the AGS chart names aquamarine first. We found no reference source that dates when US lists began putting aquamarine ahead of bloodstone.
 
 ### Why Does March Have Two Birthstones?
 
@@ -108,6 +111,7 @@ Most gem aquamarine grows in cavities in granite pegmatites as a body of magma f
 **The Story.** Most aquamarine lore is about the sea.
 
 - **Antiquity.** **Tradition.** The stone "was said to calm waves and keep sailors safe at sea" (GIA). Kunz describes a set of seven ancient sailors' amulets in which the third held a sea-green beryl, "evidently the aquamarine," that banished fear (1913, page 39).
+- **Pliny the Elder.** In his *Natural History*, Pliny ranked pure sea-green beryls as the best, ahead of the golden and sky-colored kinds (book 37, chapter 20, Bostock and Riley translation, [Perseus, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D20)). His beryls cover the whole family, and aquamarine is read from the sea-green kind.
 - **About 1220.** **Tradition.** Arnoldus Saxo wrote that beryl gave help against foes in battle or in litigation, made the wearer unconquerable yet amiable, quickened the intellect and cured laziness (Kunz, pages 59 to 60).
 - **Marriage.** **Tradition.** An old German translation of Thomas de Cantimpré says beryl "reawakens the love of married people" (pages 59 to 60). GIA says March's birthstone was thought to enhance the happiness of marriages, and it is the gem of the 19th anniversary.
 
@@ -119,7 +123,7 @@ India is the largest producer today ([International Gem Society](https://www.gem
 
 **The Story.** Bloodstone's lore follows its red spots.
 
-- **Antiquity.** **Tradition.** The treatise of Damigeron said bloodstone could turn the sun blood-red and raise thunder and storms, and that it preserved the wearer's health and guarded him from deception (Kunz 1913, pages 60 to 61). GIA says it was believed to turn the sun red when placed in water. [TO CHECK Pliny]
+- **Antiquity.** **Tradition.** The treatise of Damigeron said bloodstone could turn the sun blood-red and raise thunder and storms, and that it preserved the wearer's health and guarded him from deception (Kunz 1913, pages 60 to 61). GIA says it was believed to turn the sun red when placed in water.
 - **Middle Ages.** **Tradition.** Christian legend read the red spots as the blood of Christ (Kunz, page 267), and Kunz later called it the stone for Good Friday (1915, pages 285 to 286).
 - **16th century, Italy.** **Tradition.** When Giorgio Vasari was seized by a violent hemorrhage in a church at Arezzo, the painter Luca Signorelli slipped a bloodstone amulet between his shoulder blades (1913, page 390). The Franciscan friar Bernardino de Sahagún claimed that in 1576 he saved plague victims in Mexico by having them hold one (pages 390 to 391).
 - **Mars.** The International Gem Society says bloodstone came to symbolize bravery, perhaps through blood and the Roman god Mars, for whom March is named.
@@ -143,7 +147,7 @@ Some sites say aquamarine regulates hormones or the thyroid and bloodstone purif
 - **For a ring worn every day.** Bloodstone has no cleavage and a tough tenacity, and the IGS calls it suitable for any type of wear. Aquamarine resists scratching well, but it is brittle and can chip on impact, so pick a setting that guards it (Geology.com).
 - **For sparkle.** Aquamarine. Color drives the price. Faint blue is abundant and inexpensive, while rich blue is rare and costs far more (Geology.com).
 - **For a classic men's look.** Bloodstone in a signet ring or cufflinks (Geology.com).
-- **For a budget.** The IGS calls aquamarine relatively affordable, with paler, greener stones the cheapest. [TO CHECK US retail ranges]
+- **For a budget.** The IGS calls aquamarine relatively affordable, with paler, greener stones the cheapest. GIA judges its value by color, clarity, cut and size, and because the color is light, the cut matters, since well-cut gems show brilliance ([GIA](https://www.gia.edu/aquamarine/gem-overview)).
 
 **Try This.** Sailors trusted aquamarine to calm the waves. Before a hard conversation, hold one for a slow breath out, then say your first sentence.
 
@@ -164,7 +168,7 @@ We use the same five labels on every stone.
 - **Natural, untreated.** Usually slightly greenish. The IGS says more buyers now appreciate slightly green, untreated stones.
 - **Natural, treated.** Heating to about 707 °F (375 °C) removes the green and leaves pure blue. It is very common and cannot be detected, so the IGS says graders should call any pure blue aquamarine "probably heat treated." Geology.com adds that the result is thought to be permanent.
 - **Lab-grown.** Hydrothermal synthetic aquamarine has been made in Russia since at least the 1980s and in the Czech Republic since the early 2000s, some colored with cobalt, copper or nickel, never found in natural stones (Geology.com). It is rarely sold under its own name, so it may be uncommon or simply undisclosed (Geology.com). Gem labs can tell (IGS).
-- **Imitation.** "White aquamarine" is most likely colorless beryl, called goshenite (IGS). [TO CHECK which glass or other imitations are sold as aquamarine.]
+- **Imitation.** "White aquamarine" is most likely colorless beryl, called goshenite (IGS). GIA says glass is used to imitate aquamarine, though it is less brilliant, and that synthetic spinel can mimic it too and is a common choice for imitation birthstone jewelry ([GIA](https://www.gia.edu/gem-imitation)).
 - **Trade name.** "Brazilian" and "Madagascar" may describe a color, not an origin, and "Brazilian aquamarine" is also a misnomer for bluish green topaz. "Santa Maria" names a saturated blue first found at the Santa Maria de Itabira mine. Maxixe is irradiated dark blue beryl that fades (IGS).
 
 Under a loupe, long hollow tubes point to beryl, though not to natural origin (IGS). Through a dichroscope, natural aquamarine looks near colorless in one direction and stronger blue in another, while maxixe stays blue in both windows (GIA, IGS).
@@ -172,7 +176,7 @@ Under a loupe, long hollow tubes point to beryl, though not to natural origin (I
 ### Real or Fake Bloodstone
 
 - **Natural, untreated.** Dark green chalcedony, usually but not always with red or orange spots (IGS).
-- **Natural, treated.** [TO CHECK whether bloodstone is dyed or otherwise treated.]
+- **Natural, treated.** We found no reference source on dyed or treated bloodstone in particular. The IGS says dyeing is an ancient and common practice for chalcedony in general and should be disclosed, so ask ([IGS](https://www.gemsociety.org/article/Chalcedony/)).
 - **Lab-grown.** "No synthetic bloodstones are known" (IGS).
 - **Imitation.** Glass, such as the green "maple stone" with red "flowers" made by the Japanese firm Iimori. Under a microscope its flowers look nothing like bloodstone spots (IGS).
 - **Trade name.** Hematite is sometimes called "bloodstone," and opaque red or red-spotted stones sold as bloodstone are not true bloodstone (IGS). Chicken-blood stone is a different material, rated Avoid for toxicity in our Care Checker because it contains mercury. When colors other than red dominate, the stone is usually called fancy jasper (Geology.com).
@@ -202,12 +206,13 @@ GIA's March page says ultrasonic and steam cleaning are usually safe for aquamar
 ## Sources
 
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), read November 18, 2026
-- Gemological Institute of America, [March Birthstones](https://www.gia.edu/birthstones/march-birthstones), [GIA Celebrates Birthstones](https://my.gia.edu/gia-museum-exhibit-birthstones) and [Aquamarine](https://www.gia.edu/aquamarine/gem-overview)
-- International Gem Society, [March Birthstone](https://www.gemsociety.org/article/march-birthstone/) by Emily Frontiere, updated April 11, 2023, [Birthstone Chart](https://www.gemsociety.org/article/birthstone-chart/), [History of Birthstones](https://www.gemsociety.org/article/history-of-birthstones/) by Amanda Butcher, updated October 3, 2024, and the [aquamarine](https://www.gemsociety.org/article/aquamarine-jewelry-and-gemstone-information/) and [bloodstone](https://www.gemsociety.org/article/bloodstone-value-price-jewelry-information/) pages
+- Gemological Institute of America, [March Birthstones](https://www.gia.edu/birthstones/march-birthstones), [GIA Celebrates Birthstones](https://my.gia.edu/gia-museum-exhibit-birthstones), [Aquamarine](https://www.gia.edu/aquamarine/gem-overview) and Robert Weldon, [An Introduction to Simulants or Imitation Gem Materials](https://www.gia.edu/gem-imitation)
+- International Gem Society, [March Birthstone](https://www.gemsociety.org/article/march-birthstone/) by Emily Frontiere, updated April 11, 2023, [Birthstone Chart](https://www.gemsociety.org/article/birthstone-chart/), [History of Birthstones](https://www.gemsociety.org/article/history-of-birthstones/) by Amanda Butcher, updated October 3, 2024, and the [aquamarine](https://www.gemsociety.org/article/aquamarine-jewelry-and-gemstone-information/), [bloodstone](https://www.gemsociety.org/article/bloodstone-value-price-jewelry-information/) and [chalcedony](https://www.gemsociety.org/article/Chalcedony/) pages
 - Hobart M. King, Geology.com, [Aquamarine](https://geology.com/gemstones/aquamarine/), [Bloodstone](https://geology.com/gemstones/bloodstone/) and [Birthstones](https://geology.com/gemstones/birthstones/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 39, 59 to 61, 267, 307 to 308, 315 to 323, 327, 345 and 390 to 391, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 285 to 286, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- Modern associations from crystalvaults.com, crystals.com and firemountaingems.com, read November 13, 2026
+- Pliny the Elder, *Natural History*, book 37, chapter 20, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D20)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

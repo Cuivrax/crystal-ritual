@@ -16,7 +16,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-13"
 publishTime: "10:30"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://m.minerals.net/Gemstone/Onyx.aspx"
@@ -171,7 +171,7 @@ Three questions to ask the seller. Is the color dyed? Is this chalcedony or onyx
 
 ## How to Care for Green Onyx
 
-Two different stones share the name, so they get two care plans. Our care ratings for green onyx follow chalcedony, the stone in green onyx jewelry. Onyx marble follows calcite.
+Two different stones share the name, so they get two care plans. Our care ratings for green onyx follow chalcedony, the stone in green onyx jewelry. Onyx marble has its own ratings.
 
 ### Green Onyx Jewelry
 
@@ -190,13 +190,15 @@ Two different stones share the name, so they get two care plans. Our care rating
 
 **Mineral Fact.** Calcite is soft at 3 on the Mohs scale (Geology.com) and fizzes when even weak cold acids touch it (Amethyst Galleries).
 
-- **Acids.** Avoid. Acidic cleaners are a risk, and that includes vinegar and citrus.
-- **Water, sun, heat and salt.** Unknown in our calcite data. One gem dealer suggests a dry or barely damp soft cloth for onyx marble and warns against ultrasonic cleaners (Skyjems).
-- **Scratches.** Soft stone, so keep grit, keys and harder stones from sliding across it.
+- **Chemicals.** Avoid. Acidic cleaners are a risk, and that includes vinegar and citrus (Skyjems).
+- **Water and soaking.** Brief only. Water can dissolve calcite slowly over long exposure (Skyjems).
+- **Cleaning.** Brief only. A dry or barely damp soft cloth, and no ultrasonic cleaners (Skyjems).
+- **Sun, heat and salt.** Unknown. Skip long sun, heat and salt until reliable guidance exists.
+- **Scratches and storage.** Brief only. Soft stone, best where abrasion and impact are unlikely, so pendants and earrings rather than ring stones (Skyjems). Keep grit, keys and harder stones from sliding across it.
 
 ### Can Green Onyx Go in Water?
 
-Green onyx jewelry can be washed in warm, soapy water, as long as you keep it brief. An onyx marble vase is calcite, which our care data has no water rating for yet, so a soft, barely damp cloth is the cautious choice. Neither kind belongs in drinking water, and no stone in our data is cleared for water you drink. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+Green onyx jewelry can be washed in warm, soapy water, as long as you keep it brief. An onyx marble vase is calcite, and our care data rates water as Brief only because long exposure can slowly dissolve it, so a soft, barely damp cloth is the cautious choice. Neither kind belongs in drinking water, and no stone in our data is cleared for water you drink. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
 
 ## Green Onyx vs Look-Alikes
 

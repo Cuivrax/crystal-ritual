@@ -1,7 +1,7 @@
 ---
-title: "Chakra Stones Chart & Where the Rainbow Colors Come from"
+title: "Chakra Stones Chart & Where the Rainbow Colors Come From"
 description: "Chakra stones chart for all seven chakras, with colors and the crystals guides link most, plus the real history of the rainbow chart from India to 1977."
-h1: "Chakra Stones Chart & Where the Rainbow System Comes from"
+h1: "Chakra Stones Chart & Where the Rainbow System Comes From"
 url: "/chakras/"
 primary_keyword: "chakra stones"
 secondary_keywords:

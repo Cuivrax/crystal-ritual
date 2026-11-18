@@ -25,6 +25,9 @@ sources:
   - "https://museumdata.uk/objects/d100f9fe-14ec-3c11-90a8-477e10e347a6"
   - "https://iugs-geoheritage.org/geoheritage_sites/the-ordovician-section-of-the-hallekis-quarry/"
   - "https://geology.com/minerals/calcite.shtml"
+  - "https://pubs.usgs.gov/fs/2018/3054/fs20183054.pdf"
+  - "https://doi.org/10.1016/j.cognition.2010.12.007"
+  - "https://cnmnc.units.it/"
   - "https://www.americangemsociety.org/birthstones/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
@@ -49,13 +52,13 @@ Orthoceras is a fossil, not a mineral. It is the chambered shell of an extinct s
 | Mineral status | Not a mineral and not on the IMA List of Minerals. A fossil in rock |
 | What it is made of | Shell replaced by calcite, chambers filled with calcite, set in limestone |
 | Hardness | Calcite rates 3 on the Mohs scale |
-| Age | The true genus is Ordovician. Moroccan shop pieces come from Silurian to Devonian limestone |
+| Age | The true genus is Ordovician (about 485 to 444 million years ago). Moroccan shop pieces come from Silurian to Devonian limestone, periods that together ran about 444 to 359 million years ago |
 | Main sources | Morocco, most likely near Erfoud, for shop plates. Sweden and the Baltic region for the true genus |
 | Water, sun, heat, salt | Unknown |
 | Chemicals | Unknown in our Care Checker. Calcite reacts with acids |
 | Toxic to handle | Unknown |
-| Common fakes | Baculites sold under its name, matrix carved to look bigger, several fossils glued into one |
-| Price range | [TO CHECK US retail ranges] |
+| Common fakes | Baculites reportedly sold under its name, matrix carved to look bigger, several fossils glued into one |
+| Price range | Size and preparation drive the price, see the price guide below |
 | Birthstone | Not on the modern list |
 | Chakra (Modern Association) | Root |
 
@@ -63,7 +66,7 @@ Orthoceras is a fossil, not a mineral. It is the chambered shell of an extinct s
 
 ## What Orthoceras Actually Is
 
-**The Stone.** Orthoceras is not a stone in the mineral sense. It is an animal. The name, from the Greek for "straight horn," belongs to an extinct nautiloid cephalopod, a mollusk that lived in the open end of a long, straight, chambered shell. The French zoologist Jean Guillaume Bruguière named the genus in 1789, according to geologist Mark Wilson at the [College of Wooster](https://woostergeologists.scotblogs.wooster.edu/2013/11/03/woosters-fossils-of-the-week-very-common-orthocerid-nautiloids-from-the-siluro-devonian-of-morocco/). Wilson describes nautiloids as "effective nektic (swimming) predators" of the Paleozoic.
+**The Stone.** Orthoceras is not a stone in the mineral sense. It is an animal. The name, from the Greek for "straight horn," belongs to an extinct nautiloid cephalopod, a mollusk that lived in the open end of a long, straight, chambered shell. The French naturalist Jean Guillaume Bruguière named the genus in 1789, according to geologist Mark Wilson at the [College of Wooster](https://woostergeologists.scotblogs.wooster.edu/2013/11/03/woosters-fossils-of-the-week-very-common-orthocerid-nautiloids-from-the-siluro-devonian-of-morocco/). Wilson describes nautiloids as "effective nektic (swimming) predators" of the Paleozoic.
 
 What you hold is that shell turned to rock. The shells were originally made of aragonite, "but almost all have been replaced and recrystallized with calcite," Wilson writes. The white to gray material inside the chambers is crystalline calcite "that filled the empty shell after death and burial." The surrounding stone is limestone, and calcite is the main mineral of limestone ([Geology.com](https://geology.com/minerals/calcite.shtml)).
 
@@ -93,7 +96,7 @@ The Nottingham pieces show how loosely the name has traveled. They were collecte
 
 ### How Old Are Orthoceras Fossils?
 
-The true genus, with *O. regulare* as its type species, is Ordovician. The Moroccan plates are Silurian to Devonian, so somewhat younger [TO CHECK age ranges in millions of years for the Ordovician genus and for the Moroccan Orthoceras Limestone].
+The true genus, with *O. regulare* as its type species, is Ordovician, and the Ordovician Period ran from about 485 to 444 million years ago on the [US Geological Survey](https://pubs.usgs.gov/fs/2018/3054/fs20183054.pdf)'s time scale. The Moroccan plates come from Silurian to Devonian limestone, and those two periods together ran from about 444 to 359 million years ago (USGS). So the Moroccan limestone belongs to periods that came after the Ordovician.
 
 ### How Big Do Orthoceras Get?
 
@@ -108,7 +111,7 @@ Collector pieces are modest. Monks writes that the ones sold to collectors are g
 - **Later, in paleontology.** The name becomes a catch-all for almost any straight nautiloid, and paleontologists are said to have since narrowed it to the type species *O. regulare* and perhaps a few close relatives, with the many other straight shells moved to other genera.
 - **Today, in the trade.** "Orthoceras" remains, in Wilson's words, "the go-to term for unknown orthoconic (straight) nautiloids." Monks goes further and says the name on Moroccan specimens "is almost certainly not correct." *Michelinoceras michelini* and *Orthocycloceras fluminense*, both known from the Devonian of Morocco, are possibilities, but nobody has settled which, if either, fits most traded pieces.
 - **2013.** Wilson notes in passing that "you can buy 'Orthoceras healing stones'." By then the fossil had joined the crystal shelf.
-- **Today.** **Modern Association.** Crystal shop guides link it to grounding, patience, stability and the root chakra, with a few adding ancestors, the cycles of life and "the here and now." One Dutch shop guide notes that little is published about the stone and describes the shop's own practice instead. A Swiss shop says contemporary esotericism treats it as a talisman for sea travelers. Whether a modern crystal book first gave it these meanings is still open [TO CHECK book titles and years].
+- **Today.** **Modern Association.** Crystal shop guides link it to grounding, patience, stability and the root chakra, with a few adding ancestors, the cycles of life and "the here and now." One Dutch shop guide notes that little is published about the stone and describes the shop's own practice instead. A Swiss shop says contemporary esotericism treats it as a talisman for sea travelers.
 
 ## What People Use Orthoceras for Today
 
@@ -146,7 +149,7 @@ A few pages go further and list fatigue, digestion, rheumatism, vitality or a lo
 
 **Safety.** Small fossils and loose pieces are not toys. Keep them away from small children and pets who might swallow them, and watch the thin edges of cut plates, which can chip.
 
-**What Research Says.** [TO CHECK research study with DOI] Until then, treat these as personal practices.
+**What Research Says.** The study cue has the closest match in research, though not with fossils. In a lab experiment on a long, dull task, people who briefly switched to a second task during it kept their performance steady, while people who stayed on the task without a break got steadily worse (Ariga and Lleras, 2011, *Cognition*, [doi.org/10.1016/j.cognition.2010.12.007](https://doi.org/10.1016/j.cognition.2010.12.007)). It was a short lab task, the break was a second task rather than a rest, and no stone or fossil was involved, so the timer and the break do the work. Treat the other habits above as personal practices.
 
 > **When a Stone Is Not Enough.** Orthoceras is sometimes chosen for anxiety and stress, and some pages claim it helps with fatigue or digestion. A fossil can be a calming thing to hold, but it is not care. If anxiety, exhaustion or a health worry lasts, talk to a doctor or a therapist, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
@@ -155,9 +158,9 @@ A few pages go further and list fatigue, digestion, rheumatism, vitality or a lo
 We use the same five labels on every stone. For a fossil, "real" has two parts, whether the shell is a genuine fossil and whether the piece was shaped or assembled.
 
 - **Natural, untreated.** A genuine shell in its limestone, cut and polished. Wilson notes the rock takes "a nice polish" and looks good from almost any angle of cut, so polishing alone is normal.
-- **Natural, treated.** Monks describes preparators who carve the surrounding rock into "a conical or tapered oval shape around the fossil," which makes the fossil look larger, and some who "glue two or more fossils together to produce what seems to be a much larger specimen." [TO CHECK whether Moroccan plates are dyed, waxed or lacquered, with a reference source.]
+- **Natural, treated.** Monks describes preparators who carve the surrounding rock into "a conical or tapered oval shape around the fossil," which makes the fossil look larger, and some who "glue two or more fossils together to produce what seems to be a much larger specimen." We found no reference source on whether Moroccan plates are also dyed, waxed or lacquered, so ask the seller what, if anything, was put on the surface after polishing.
 - **Lab-grown.** Not applicable. A fossil cannot be grown.
-- **Imitation.** Baculites, a later straight ammonoid, is often sold under orthoceras' name, and the reverse happens too. [TO CHECK whether cast resin or carved stone "fossils" are sold as orthoceras in the US.]
+- **Imitation.** Baculites, a later straight ammonoid, is reportedly sold under orthoceras' name in rock shops, and the reverse happens too. We found no reference source on cast resin or carved stone copies sold as orthoceras in the US, so the chamber check below is your best guard.
 - **Trade name.** "Orthoceras" itself works like a trade name on most shop pieces, a catch-all label for straight nautiloids rather than a confirmed genus.
 
 Three checks you can do at home, with their limits.
@@ -190,13 +193,13 @@ Our Care Checker has no rating for orthoceras yet, so it shows Unknown for water
 
 ## Orthoceras vs Look-Alikes
 
-- **Baculites.** A Late Cretaceous ammonoid, far younger, with the same long tubular form. The two evolved that shape independently. The intricately folded suture line is said to give Baculites away.
+- **Baculites.** Reportedly a Late Cretaceous ammonoid, far younger, with a similar long tubular form that evolved separately. The intricately folded suture line is said to give Baculites away.
 - **Ammonite.** A coiled relative of Baculites. Shop pairings put the two side by side. See [ammonite](/stones/ammonite/).
 - **Michelinoceras and other orthocerids.** Many very similar straight shells are placed in other genera, so a polished cross-section can rarely be named to genus.
 
 ## Price Guide
 
-Size and preparation drive the price, and preparation can inflate size. Monks advises judging a specimen by its chambered portion when a seller asks a premium for a large one. On a sculpture, ask whether the price is for the fossils or for the carving around them. [TO CHECK US retail ranges]
+This guide gives no dollar figures yet. Size and preparation drive the price, and preparation can inflate size. Monks advises judging a specimen by its chambered portion when a seller asks a premium for a large one. On a sculpture, ask whether the price is for the fossils or for the carving around them.
 
 **Next Step.** Building a grounding corner? See how orthoceras compares with the other usual picks in [crystals for grounding](/crystals-for/grounding/).
 
@@ -207,10 +210,12 @@ Size and preparation drive the price, and preparation can inflate size. Monks ad
 - Nottingham Museums, [Orthoceras sp., cut and polished limestone](https://museumdata.uk/objects/d100f9fe-14ec-3c11-90a8-477e10e347a6), via the Museum Data Service, CC BY
 - International Commission on Geoheritage, IUGS, [The Ordovician Section of the Hällekis Quarry](https://iugs-geoheritage.org/geoheritage_sites/the-ordovician-section-of-the-hallekis-quarry/)
 - Hobart M. King, Geology.com, [Calcite](https://geology.com/minerals/calcite.shtml)
-- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
+- U.S. Geological Survey Geologic Names Committee, [Divisions of Geologic Time, Major Chronostratigraphic and Geochronologic Units](https://pubs.usgs.gov/fs/2018/3054/fs20183054.pdf), Fact Sheet 2018-3054
+- Atsunori Ariga and Alejandro Lleras, *Cognition* (2011), [doi.org/10.1016/j.cognition.2010.12.007](https://doi.org/10.1016/j.cognition.2010.12.007)
+- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the [IMA List of Minerals](https://cnmnc.units.it/), July 2026 edition
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913) and *The Magic of Jewels and Charms* (1915), [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978) and [66583](https://www.gutenberg.org/ebooks/66583), searched for orthoceras with no result
-- Modern associations from crystal shop guides at webshop-danielleforrer.nl, theharmonystore.com, camille-ambiance-nature.fr, kurma.ch and gemestonesfans.blogspot.com, read November 18, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

@@ -97,7 +97,7 @@ The topaz is faceted first, usually as an oval, round, cushion or pear, and only
 
 Sources do not describe the process the same way. The International Gem Society calls it chemical vapor deposition, Skyjems describes physical vapor deposition, and Geology.com says some topaz is heated and then coated with a metallic oxide. GemSelect, another dealer, simply calls it thin-film deposition, a technology also used in optics and electronics ([GemSelect](https://www.gemselect.com/english/help/faq/mystic-topaz-gems.php)). For you as a buyer, the details matter less than the result, a real stone wearing a very thin metal skin.
 
-The International Gem Society credits Mystic Fire, an early rainbow-coated topaz, to a company called Azotic ([Azotic story](https://www.gemsociety.org/article/from-silicon-to-sparkle-the-story-behind-azotics-gemstone-revolution/)), and the dealer GemSelect says mystic topaz emerged around 1998 ([GemSelect](https://www.gemselect.com/gem-info/mystic-topaz/mystic-topaz-info.php)).
+The International Gem Society credits Mystic Fire, an enhanced topaz with a rainbow-like brilliance, to a company called Azotic ([Azotic story](https://www.gemsociety.org/article/from-silicon-to-sparkle-the-story-behind-azotics-gemstone-revolution/)), and the dealer GemSelect says mystic topaz emerged around 1998 ([GemSelect](https://www.gemselect.com/gem-info/mystic-topaz/mystic-topaz-info.php)).
 
 ### Why the Colors Shift
 

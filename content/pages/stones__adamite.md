@@ -16,7 +16,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-12"
 publishTime: "08:38"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://988lifeline.org/"
@@ -30,8 +30,6 @@ sources:
   - "https://www.gia.edu/gems-gemology/spring-2016-labnotes-unusual-colored-stones"
   - "https://www.merriam-webster.com/dictionary/adamite"
   - "https://www.americangemsociety.org/birthstones/"
-  - "https://www.gutenberg.org/ebooks/57978"
-  - "https://www.gutenberg.org/ebooks/66583"
   - "https://www.crystalvaults.com/crystal-encyclopedia/adamite/"
   - "https://www.france-mineraux.fr/vertus-des-pierres/pierre-adamite/"
   - "https://www.wemystic.fr/pierre-adamite/"
@@ -234,7 +232,6 @@ Adamite sells mostly as mineral specimens, and faceted stones are small collecto
 - Rebecca Tsang, [Unusual Colored Stones](https://www.gia.edu/gems-gemology/spring-2016-labnotes-unusual-colored-stones), *Gems & Gemology*, Spring 2016
 - Merriam-Webster, [Adamite](https://www.merriam-webster.com/dictionary/adamite)
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
-- George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - Álex Escolà-Gascón, Neil Dagnall, Kenneth Drinkwater, A. Denovan and Julián Benito-León, "Placebo Effects in Alternative Medical Treatments for Anxiety, False Hope or Healing Potential?" *CNS Spectrums* 30(1), e70 (2025), [doi.org/10.1017/S1092852925100515](https://doi.org/10.1017/S1092852925100515)
 - 988 Suicide & Crisis Lifeline, [988lifeline.org](https://988lifeline.org/)
 - Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
