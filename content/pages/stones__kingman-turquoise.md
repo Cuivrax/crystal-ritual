@@ -102,7 +102,7 @@ Nevada Gem wrote in 2004 that very little high-grade Kingman turquoise was still
 - **1609.** **Tradition.** Anselmus de Boot wrote that no man considered his hand well adorned without a fine turquoise (page 111). A widespread belief held that a turquoise kept its power only as a gift, because its spirit "was thought to take offence at the idea of being bought and sold" (page 73).
 - **Persia.** **Tradition.** A Persian saying held that to escape evil and find good fortune, you should see the new moon reflected on a friend's face, a copy of the Koran or a turquoise (page 111).
 - **The American Southwest.** **Tradition.** Nearly nine thousand turquoise beads and pendants lay with one burial at Pueblo Bonito, New Mexico, and Kunz reports that among the Apache a medicine man needed a turquoise to be properly recognized (pages 112 to 114). These are an outsider's accounts from 1913, not the words of the nations themselves.
-- **1912.** Turquoise became the December stone on the US jewelers' list (Kunz, page 320). GIA calls it the traditional December birthstone and the gem of the 11th anniversary.
+- **1913.** Kunz reports that on the modern birthstone list, turquoise had become the gem of December (page 320). GIA lists it among the three December birthstones and calls it the gem of the 11th anniversary.
 
 ### Why Does Turquoise Change Color?
 
@@ -120,7 +120,7 @@ The protection theme echoes the old amulet against falls, and some guides now st
 
 ### The Last Thing You Put On
 
-**Try This.** GIA advises putting turquoise on after sunscreen, lotion, makeup or hairspray, and taking it off before household cleaners. Make that the ritual. Your Kingman ring or cuff goes on last, at the door, and comes off first when you get home. It protects the stone and marks the edges of your day.
+**Try This.** GIA advises putting turquoise on after applying products to your skin, and taking it off before household cleaners. Make that the ritual. Your Kingman ring or cuff goes on last, at the door, and comes off first when you get home. It protects the stone and marks the edges of your day.
 
 ### A Gift That Follows the Old Rule
 
@@ -141,8 +141,8 @@ The protection theme echoes the old amulet against falls, and some guides now st
 Two questions hide here. Is it turquoise, and is it from Kingman? We use the same five labels on every stone, and treated is not fake. GIA's buying guide says turquoise "is commonly treated" and all treatments should be disclosed.
 
 - **Natural, untreated.** Uncommon. The IGS says fine-grained, compact turquoise that takes a good polish remains rare, and even top stones often get a paraffin wax coat.
-- **Natural, treated.** Turquoise "is usually impregnated with acrylic polymer or epoxy resin for stabilization" (*[Gems & Gemology](https://www.gia.edu/gems-gemology/fall-2015-gemnews-impregnated-dyed-turquoise)*, Fall 2015). GIA adds dyed turquoise and cavities filled with a metal-loaded epoxy to imitate pyrite. The IGS lists dyed webbing, epoxy backing and the proprietary Zachery treatment.
-- **Reconstituted.** Ground turquoise mixed with plastic. The IGS notes a debate over whether it counts as a synthetic, a hybrid or a simulant. *Gems & Gemology* has also described small turquoise pieces bonded with a polymer ([Choudhary, Summer 2010](https://gia.edu/doc/A-New-Type-of-Composite-Turquoise.pdf)).
+- **Natural, treated.** *[Gems & Gemology](https://www.gia.edu/gems-gemology/fall-2015-gemnews-impregnated-dyed-turquoise)* (Fall 2015) describes impregnation with "acrylic polymer or epoxy resin for stabilization" as common, often combined with dyeing. GIA also describes dyed turquoise. The IGS lists dyed webbing, epoxy backing and the proprietary Zachery treatment.
+- **Reconstituted.** Ground turquoise mixed with plastic. The IGS notes a debate over whether it counts as a synthetic, a hybrid or a simulant. *Gems & Gemology* has also described small turquoise pieces bonded with a polymer, in one case a gold-colored polymer holding fragments that resemble pyrite or marcasite ([Choudhary, Summer 2010](https://gia.edu/doc/A-New-Type-of-Composite-Turquoise.pdf)).
 - **Lab-grown.** Synthetic turquoise exists. The best-known kind came from the Pierre Gilson Company in 1972 and shows tiny blue spheres under a microscope (IGS).
 - **Imitation.** Blue-dyed howlite is the most common fake (Minerals.net), and GIA lists plastic and glass. The IGS adds dyed magnesite, and "white turquoise" is usually howlite. See [howlite vs turquoise](/compare/howlite-vs-turquoise/).
 - **Trade name.** "Kingman" is a locality name. "Persian blue" names a color whether or not the stone came from Iran ([GIA](https://www.gia.edu/turquoise-quality-factor)).
@@ -151,7 +151,7 @@ Two questions hide here. Is it turquoise, and is it from Kingman? We use the sam
 
 No home test can tell you. Geology.com says people who know turquoise can often, but not always, match a stone to its mine, and that a place name "should only be done when the material was mined in that locality."
 
-The look is not proof either. Spiderweb matrix turns up at many mines, Morenci produces dark blue turquoise with pyrite (Geology.com), and GIA describes epoxy that imitates pyrite. Ask the seller which mine and how they know, whether it was stabilized, dyed or backed, and whether they will write that on the receipt. If there is no answer, the honest name is turquoise. The [Label Decoder](/tools/crystal-label-decoder/) turns a tag into these questions.
+The look is not proof either. Spiderweb matrix turns up at many mines, Morenci produces dark blue turquoise with pyrite (Geology.com), and a bonded composite can carry gold-colored veins that mimic pyrite. Ask the seller which mine and how they know, whether it was stabilized, dyed or backed, and whether they will write that on the receipt. If there is no answer, the honest name is turquoise. The [Label Decoder](/tools/crystal-label-decoder/) turns a tag into these questions.
 
 Three checks at home, with their limits.
 
@@ -165,7 +165,7 @@ Three checks at home, with their limits.
 
 - **Water.** Brief only. The IGS [care guide](https://www.gemsociety.org/article/gemstone-care-guide/) says wipe with a damp cloth and dry at once, without soap. Geology.com allows a very mild soap solution, then plain water. Either way, keep it quick, and skip long soaks.
 - **Sun.** Brief only. GIA calls turquoise generally stable to light, but Geology.com advises storing it away from bright light or heat, and a sunny sill gets hot.
-- **Heat.** Avoid. GIA says high heat can cause discoloration and breakage and can damage treated surfaces.
+- **Heat.** Avoid. GIA says high heat can cause discoloration and breakage.
 - **Chemicals.** Avoid. Cleaners soak in and can turn it green (IGS), and GIA adds acids and cosmetics.
 - **Salt.** Unknown. Our care data has no rating yet, so skip salt.
 - **Cleaning machines.** Never ultrasonic or steam (GIA).

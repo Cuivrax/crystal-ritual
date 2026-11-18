@@ -163,7 +163,7 @@ One name for two different minerals, jadeite and nephrite ([Geology.com](https:/
 
 <!-- BUILD log the pink tourmaline Smithsonian record above in the image register, it is not in images_candidates.csv yet. -->
 
-<!-- SECTION 9, NEWSLETTER, shown as coming soon at launch. -->
+<!-- SECTION 9, NEWSLETTER, not shown at launch. -->
 
 <!-- HIDDEN AT LAUNCH. The visible "Coming Soon" newsletter block (H2 "One Stone, One True Story, One Small Ritual", copy saying a letter is on the way) was removed by the final check, because no sign-up exists and no page may promise one. When the service is live, restore a block with the label "Coming Soon" dropped, the H2 above, a short line on what the letter holds, and the form. -->
 

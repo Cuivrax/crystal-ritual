@@ -42,7 +42,7 @@ sources:
 
 Red jasper is an opaque, brick-red form of jasper, a microcrystalline quartz colored by iron oxide that rates about 6.5 to 7 on the Mohs scale. Modern crystal guides tie red jasper to grounding, courage and getting things done. Its older story runs through Egyptian amulets, and many stones labeled jasper are not jasper at all.
 
-<!-- PHOTO TO FIND. HERO. No red jasper photo is checked as good yet. In images_candidates.csv the Smithsonian rows are "wrong" (galena and sphalerite from Jasper County) or "doubt" (not red jasper). Best unchecked candidates in images_commons_candidates.csv, all needing a visual check before use. (1) Wikimedia Commons "File Lump of Red Jasper MET LC-26 10 1063 EGDP027831.jpg", Metropolitan Museum of Art. Page https://commons.wikimedia.org/wiki/File:Lump_of_Red_Jasper_MET_LC-26_10_1063_EGDP027831.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Lump_of_Red_Jasper_MET_LC-26_10_1063_EGDP027831.jpg/1280px-Lump_of_Red_Jasper_MET_LC-26_10_1063_EGDP027831.jpg (tracking parameters removed). License CC0. Credit line "Metropolitan Museum of Art, CC0, via Wikimedia Commons". Alt text "Rough lump of red jasper". (2) "File Two plain-cut rectangular red jasper pieces 1.jpg" by W.carter, https://commons.wikimedia.org/wiki/File:Two_plain-cut_rectangular_red_jasper_pieces_1.jpg , CC BY 4.0, credit "Photo W.carter, CC BY 4.0, via Wikimedia Commons". -->
+<!-- PHOTO HERO. File site/photos/stones__red-jasper/hero.jpg. Source Unsplash, https://unsplash.com/photos/ptrN3h9070s . License Unsplash License. Credit "Photo by Mr. Pugo on Unsplash". Visual check 2026-11-18, Tumbled orange-red jasper with tan veining on white. Surfaces are very smooth and uniform; uploaded June 2026 by a prolific uploader; no AI artefacts spotted at thumbnail size but a human should glance at full size. -->
 
 ## Red Jasper Quick Facts
 
@@ -107,11 +107,11 @@ Clear or white seams can be part of the stone. Brecciated jasper is jasper broke
 
 ### What About Roman Soldiers & the Blood of Mother Earth?
 
-You will read that Roman soldiers carried red jasper into battle, that it appears in the Ebers Papyrus, or that a Native American legend calls it the blood of Mother Earth. None of the sources behind this page give an old text for those stories. The closest documented ancient use is the Berlin papyrus above, and Kunz hedges even that one with "probably."
+You will read that Roman soldiers carried red jasper into battle, that it appears in the Ebers Papyrus, or that a Native American legend calls it the blood of Mother Earth. We found no old text for those stories. The closest documented ancient use is the Berlin papyrus above, and Kunz hedges even that one with "probably."
 
 ## What People Use Red Jasper for Today
 
-**Modern Association.** In the modern crystal guides we read for this page, courage and confidence lead, followed by protection, motivation and grounding. On our [Crystals for Grounding](/crystals-for/grounding/) page red jasper is Widely Linked, and for confidence it is a Classic, our label for the strongest link in modern guides. Guides nickname it the Stone of Endurance. The wellness site [mindbodygreen](https://mindbodygreen.com/articles/red-jasper), quoting Heather Askinosie, co-founder of the crystal brand Energy Muse, says red jasper "is most known for helping people get things done" and gives its mantra as "I take action."
+**Modern Association.** In modern crystal guides, courage and confidence lead, followed by protection, motivation and grounding. On our [Crystals for Grounding](/crystals-for/grounding/) page red jasper is Widely Linked, and for confidence it is a Classic, our label for the strongest link in modern guides. Guides nickname it the Stone of Endurance. The wellness site [mindbodygreen](https://mindbodygreen.com/articles/red-jasper), quoting Heather Askinosie, co-founder of the crystal brand Energy Muse, says red jasper "is most known for helping people get things done" and gives its mantra as "I take action."
 
 The root chakra link is the most common, and a few guides add the sacral chakra. Zodiac signs vary, with Aries named most often and Scorpio next.
 
@@ -141,7 +141,7 @@ Many sites go further, listing circulation, period pain, fertility, pregnancy an
 
 **Try This.** For a friend training for a race or starting a business, give a red jasper with a card that mentions the Stone of Endurance nickname and the red amulets of ancient Egypt, plus one line about the finish line you are cheering for.
 
-**Safety.** mindbodygreen says red jasper can tolerate long stretches in water and suggests adding it to a bath with salts. Our care data does not go that far. Soaking is rated Brief only and salt is Unknown, because none of our care sources covers long soaks or salt, so set the stone on the edge of the tub instead. One French guide even suggests drinking water a stone has soaked in, which we never recommend. See [which crystals can go in water](/care/crystals-that-cant-go-in-water/). Small tumbled stones are not toys, so keep them away from small children and pets.
+**Safety.** mindbodygreen says red jasper can tolerate long stretches in water and suggests adding it to a bath with salts. Our care data does not go that far. Soaking is rated Brief only and salt is Unknown in the Care Checker, so set the stone on the edge of the tub instead. One French guide even suggests drinking water a stone has soaked in, which we never recommend. See [which crystals can go in water](/care/crystals-that-cant-go-in-water/). Small tumbled stones are not toys, so keep them away from small children and pets.
 
 > **When a Stone Is Not Enough.** Red jasper is widely sold for period pain, fertility, pregnancy, circulation, anxiety and sleep. A stone can be a comfort to hold, but it is not care. If pain, bleeding, low mood, poor sleep or anything about a pregnancy worries you, talk to a doctor, a midwife or a therapist, and never delay care because of a stone.
 
@@ -151,7 +151,7 @@ Most red jasper doubts are mix-ups rather than fakes, and carnelian is one of th
 
 - **Natural, untreated.** Red jasper as it formed, only cut and polished.
 - **Natural, treated.** For jasper in general, the [International Gem Society](https://www.gemsociety.org/article/jasper-gem-information/) lists dyeing as common and stable, something a gemologist can detect by appearance, spectrum or a Chelsea filter, and heating as a common, stable color change that cannot be detected. Lang Antiques also lists dyeing and heat treatment, and Gemstones.com says jasper is sometimes dyed, often to look like lapis lazuli. We found no reference source on how often red jasper itself is dyed or heated.
-- **Lab-grown.** None in our sources.
+- **Lab-grown.** We found no reference source describing lab-grown jasper.
 - **Imitation.** We found no reference source describing dyed howlite, or any other imitation, sold as red jasper. Howlite, a soft white mineral at 3 to 3.5, is frequently dyed blue to resemble turquoise, according to the [International Gem Society](https://www.gemsociety.org/article/howlite-jewelry-and-gemstone-information/).
 - **Trade name.** Rhyolite and other rocks sold under jasper names, as above.
 
@@ -175,13 +175,13 @@ Three questions to ask the seller.
 
 **Mineral Fact.** The International Gem Society calls jasper trouble free to care for and hardy enough for all jewelry uses. The care data below is for jasper in general.
 
-- **Water. OK.** Lang Antiques lists warm soapy water as safe. Soaking is rated Brief only, since our sources cover washing, not long soaks.
+- **Water. OK.** Lang Antiques lists warm soapy water as safe. Soaking is rated Brief only in the Care Checker, because only washing has been confirmed safe, not long soaks.
 - **Sun. OK.** Lang Antiques lists no light sensitivity for jasper. Crystal guides disagree here, but they give no source for fading.
 - **Heat. OK unless dyed.** Normal care applies unless the piece is dyed, in which case avoid heat, harsh chemicals and ultrasonic cleaners (Gemstones.com). Lang Antiques adds that heat may change jasper's color, so keep any piece away from strong heat.
 - **Chemicals. OK, with minimal contact.** Lang Antiques says jasper is easily attacked by chemicals, so skip harsh cleaners.
-- **Salt. Unknown.** None of our sources covers salt yet.
+- **Salt. Unknown.** The Care Checker has no confirmed salt rating for jasper yet.
 - **Toxicity. OK to wear and handle.** The [International Gem Society](https://www.gemsociety.org/article/gemstone-care-guide/) rates jasper's risk as low, the hazard being silicosis from cutting and polishing dust, not wearing or handling.
-- **Storage. Unknown.** Our sources call jasper durable but give no storage advice yet.
+- **Storage. Unknown.** Jasper is durable, but the Care Checker has no confirmed storage rating for it yet.
 
 Check your exact piece, including dyed beads or a bracelet on elastic, in the [Care Checker](/tools/crystal-care-checker/).
 
@@ -205,16 +205,11 @@ In one listing we found, a tumbled red jasper about 1 inch across was $3. Price 
 
 - International Gem Society, [Jasper Gem Information](https://www.gemsociety.org/article/jasper-gem-information/), [Quartz Jewelry and Gemstone Information](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/), [Carnelian Gem Information](https://www.gemsociety.org/article/carnelian-gem-information/), [Howlite Jewelry and Gemstone Information](https://www.gemsociety.org/article/howlite-jewelry-and-gemstone-information/) and [Gemstone Care Guide and Toxicity Table](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Hobart M. King, Geology.com, [Flint, Chert, and Jasper](https://geology.com/rocks/flint-chert-jasper/) and [Quartz](https://geology.com/minerals/quartz.shtml)
-- Gemstones.com, [Jasper](https://gemstones.com/gemopedia/jasper), a dealer guide
-- Stone Mania, [Jasper, Properties, Facts and Photos](https://www.stonemania.co.uk/crystals/i-j/jasper-stone), a dealer article
-- Lang Antiques, [Jasper](https://www.langantiques.com/university/jasper-2/), an antique jewelry reference
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
 - IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 6, 91, 140, 226, 290 to 291, 299 to 300 and 332, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 144 to 145 and 148 to 149, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - Nicholas M. Hobson, Devin Bonk and Michael Inzlicht, "Rituals Decrease the Neural Response to Performance Failure," *PeerJ* 5 (2017), e3363, [DOI 10.7717/peerj.3363](https://doi.org/10.7717/peerj.3363)
-- US crystal shop listing for tumbled red jasper, read November 18, 2026
-- mindbodygreen, [Red Jasper](https://mindbodygreen.com/articles/red-jasper), quoting Heather Askinosie of Energy Muse
-- Modern associations compared across crystals.com, mindbodygreen.com, beadsofcambay.com, thenightsky.com, otterspirit.com, bindi-online.com and gambin.co, among other crystal guides, read November 13, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

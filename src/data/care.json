@@ -4713,12 +4713,13 @@
      "sources": []
     },
     "toxicity": {
-     "rating": "brief_only",
+     "rating": "ok",
      "reason": "Wearing quartz jewelry is negligible risk, but cutting or grinding quartz is a high dust risk (silicosis, family quartz).",
      "short": "Wearing quartz jewelry is negligible risk, but cutting or grinding quartz is a high dust risk (silicosis…",
      "sources": [
       "https://www.gemsociety.org/article/gemstone-care-guide/"
-     ]
+     ],
+     "rule": "D32 quartz dust"
     },
     "scratches_storage": {
      "rating": "brief_only",
@@ -6597,10 +6598,13 @@
      "sources": []
     },
     "toxicity": {
-     "rating": "unknown",
-     "reason": "None of our sources cover this yet.",
-     "short": "None of our sources cover this yet.",
-     "sources": []
+     "rating": "brief_only",
+     "reason": "Chalcocite is copper sulfide. Like other copper minerals, handle it briefly, wash your hands after, keep it out of drinking water, elixirs and baths, and away from children and pets.",
+     "short": "Chalcocite is copper sulfide.",
+     "sources": [
+      "http://www.handbookofmineralogy.org/pdfs/chalcocite.pdf"
+     ],
+     "rule": "D32"
     },
     "scratches_storage": {
      "rating": "brief_only",
@@ -9624,12 +9628,13 @@
      "sources": []
     },
     "toxicity": {
-     "rating": "brief_only",
+     "rating": "ok",
      "reason": "Wearing quartz jewelry is negligible risk. Cutting or grinding it is high risk from dust (family-level table).",
      "short": "Wearing quartz jewelry is negligible risk.",
      "sources": [
       "https://www.gemsociety.org/article/gemstone-care-guide/"
-     ]
+     ],
+     "rule": "D32 quartz dust"
     },
     "scratches_storage": {
      "rating": "brief_only",
@@ -10055,12 +10060,13 @@
      "sources": []
     },
     "toxicity": {
-     "rating": "brief_only",
+     "rating": "ok",
      "reason": "The International Gem Society rates wearing quartz jewelry as negligible risk, but cutting or grinding quartz as high risk because of dust inhalation. The table is for quartz in general.",
      "short": "The International Gem Society rates wearing quartz jewelry as negligible risk, but cutting or grinding quartz…",
      "sources": [
       "https://www.gemsociety.org/article/gemstone-care-guide/"
-     ]
+     ],
+     "rule": "D32 quartz dust"
     },
     "scratches_storage": {
      "rating": "ok",
@@ -21065,12 +21071,13 @@
      "sources": []
     },
     "toxicity": {
-     "rating": "brief_only",
+     "rating": "ok",
      "reason": "The International Gem Society table rates wearing quartz jewelry as negligible risk, but cutting, grinding and polishing create silica dust.",
      "short": "The International Gem Society table rates wearing quartz jewelry as negligible risk, but cutting, grinding…",
      "sources": [
       "https://www.gemsociety.org/article/gemstone-care-guide/"
-     ]
+     ],
+     "rule": "D32 quartz dust"
     },
     "scratches_storage": {
      "rating": "unknown",

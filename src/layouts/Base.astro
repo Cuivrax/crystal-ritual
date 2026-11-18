@@ -5,9 +5,9 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { getSite } from '../lib/site.mjs';
 import { ornament } from '../lib/ui.mjs';
-const { page = null, title, description, url, image = null, breadcrumbs = [], citations = [], night = false, bodyClass = '', showOrnament = false } = Astro.props;
+const { page = null, title, description, url, image = null, breadcrumbs = [], citations = [], night = false, bodyClass = '', showOrnament = false, noindexPage = false } = Astro.props;
 const site = await getSite();
-const noindex = site.preview;
+const noindex = site.preview || noindexPage;
 const authorUrl = site.isBuilt('/about/') ? '/about/' : null;
 ---
 <!doctype html>

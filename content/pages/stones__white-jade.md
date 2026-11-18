@@ -16,7 +16,9 @@ sources:
   - "https://www.gia.edu/jade/buyers-guide"
   - "https://www.gia.edu/articles/jade-care-cleaning"
   - "https://gia.edu/gems-gemology/summer-2020-gemnews-marble-imitation-of-jadeite-rough"
+  - "https://gia.edu/gems-gemology/spring-1987-synthetic-jadeite-nassau"
   - "https://www.gemsociety.org/article/nephrite-jewelry-and-gemstone-information/"
+  - "https://www.gemsociety.org/article/jadeite-jewelry-and-gemstone-information/"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
   - "https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/"
   - "https://lotusgemology.com/resources/articles/460-jade-a-lifetime-seeking-heaven"
@@ -25,9 +27,11 @@ sources:
   - "https://geology.com/minerals/calcite.shtml"
   - "https://geology.com/minerals/quartz.shtml"
   - "https://geology.com/minerals/serpentine.shtml"
-  - "https://en.wikipedia.org/wiki/Jade"
+  - "https://cnmnc.units.it/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
+  - "https://doi.org/10.1016/j.xcrm.2022.100895"
+  - "https://www.gemselect.com/jadeite/jadeite.php"
   - "https://988lifeline.org/"
   - "https://buddha3bodhi.com/blogs/news/the-meaning-and-healing-properties-of-white-jade"
   - "https://buddha3bodhi.com/blogs/news/white-jadeite-meaning-benefits-and-price-guide"
@@ -59,9 +63,9 @@ White jade is jade in white to cream, most often nephrite from Hetian in western
 | Sun | Brief only (a risk for treated jadeite) |
 | Heat | Avoid |
 | Salt | Unknown |
-| Toxic to handle | Unknown in our care data. Intact jade is generally handled without concern |
+| Toxic to handle | Unknown in our care data. The IGS reports no known health risk in wearing or handling nephrite |
 | Common fakes | Glass, quartzite, marble, serpentine, bleached and resin-filled jadeite |
-| Price range | Very wide. Top mutton fat can rival fine jadeite [TO CHECK US retail ranges] |
+| Price range | Very wide. Top mutton fat can rival fine jadeite. Loose white jadeite ovals about $26 to $66 (see Price Guide) |
 | Birthstone | None on the modern list |
 | Chakra (Modern Association) | Heart for jade in general, crown in some white jade guides |
 
@@ -87,7 +91,7 @@ The classic source is Hetian (Khotan) in Xinjiang, western China. Its White Jade
 
 ### Mutton Fat, Hetian & Imperial White Jade
 
-- **Mutton fat.** The top grade of Hetian nephrite, pure white (Lotus Gemology), named for its marbled white consistency, says [Wikipedia](https://en.wikipedia.org/wiki/Jade).
+- **Mutton fat.** The top grade of Hetian nephrite, pure white (Lotus Gemology), and the creamy white jade the IGS calls the most popular nephrite in Chinese markets.
 - **Hetian jade.** Once nephrite from Hetian, now used for all Chinese nephrite (Lotus Gemology). On a tag it is not proof of origin.
 - **Imperial White Jade.** A Western name for the finest mutton fat, which the Chinese call yang zhi bai yu among other names, per Mark Chou's *Dictionary of Jade Nomenclature* (1987), quoted by Hughes.
 
@@ -105,7 +109,7 @@ The classic source is Hetian (Khotan) in Xinjiang, western China. Its White Jade
 
 ## What People Use White Jade for Today
 
-**Modern Association.** In the crystal guides we compared, white jade is a Classic stone for [calm and anxiety](/crystals-for/anxiety/) and for [protection](/crystals-for/protection/), and Widely Linked to luck and money. Guides that write about white jade itself add purity, a clean slate and inner peace.
+**Modern Association.** In modern crystal guides, white jade is a Classic stone for [calm and anxiety](/crystals-for/anxiety/) and for [protection](/crystals-for/protection/), and Widely Linked to luck and money. Guides that write about white jade itself add purity, a clean slate and inner peace.
 
 ### What Does White Jade Symbolize?
 
@@ -135,9 +139,9 @@ Chakra charts mostly put jade on the heart, a few put white jade on the crown, a
 
 **Safety.** Small stones and bead bracelets are not toys. Keep them away from small children and pets.
 
-**What Research Says.** [TO CHECK replace Brooks 2016, authors retracting]
+**What Research Says.** The pocket stone habit leans on a long breath out, and breathing has been studied. In a remote randomized study of 108 adults, five minutes a day of breathing exercises for a month, especially cyclic sighing with its long exhales, improved mood and lowered breathing rate more than the same time spent in mindfulness meditation (Balban and colleagues, 2023, *Cell Reports Medicine*, [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)). It tested breathing, not jade or any other stone, and the volunteers knew which exercise they were doing. Treat the habits above as personal practices.
 
-> **When a Stone Is Not Enough.** White jade is often chosen for anxiety and low moods, and old amulets were worn for a racing heart. A stone can be a comfort to hold, but it is not care. If anxiety, sadness or palpitations last or worry you, talk to a doctor or a therapist, and never use a stone in place of treatment. If you are in crisis in the US, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), the 988 Suicide and Crisis Lifeline.
+> **When a Stone Is Not Enough.** White jade is often chosen for anxiety and low moods, and old amulets were worn for a racing heart. A stone can be a comfort to hold, but it is not care. If anxiety, sadness or palpitations last or worry you, talk to a doctor or a therapist, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
 
 ## Is My White Jade Real?
 
@@ -145,7 +149,7 @@ We use the same five labels on every stone.
 
 - **Natural, untreated.** White nephrite as it came from the river or mine, polished and perhaps waxed. In jadeite this is "Type A," wax only, a traditional finish serious buyers accept (Geology.com).
 - **Natural, treated.** "Type B" jadeite is soaked in acid, which lightens the color, then filled with wax or polymer resin. Acid can leave it brittle and resin can discolor, so it may look worse within a few years. "Type C" is also dyed. Type B is hard to detect, often sold without disclosure and worth a small fraction of Type A (Geology.com).
-- **Lab-grown.** [TO CHECK whether synthetic jadeite or nephrite is sold in the US.]
+- **Lab-grown.** General Electric grew green and lavender jadeite in the lab as an experiment, and a 1987 study in GIA's journal *Gems & Gemology* reported no plans for commercial production ([GIA](https://gia.edu/gems-gemology/spring-1987-synthetic-jadeite-nassau)). The International Gem Society says GE has not released synthetic jadeite commercially to date ([IGS](https://www.gemsociety.org/article/jadeite-jewelry-and-gemstone-information/)) and that nephrite has not yet been synthesized. We found no reference source describing lab-grown white jade sold in the US.
 - **Imitation.** Glass and plastic in jade style are abundant, and "errors and deception are common," warns Geology.com. GIA has reported a block of marble submitted as jadeite rough, and notes quartzite imitations in the same market ([GIA, Gems & Gemology](https://gia.edu/gems-gemology/summer-2020-gemnews-marble-imitation-of-jadeite-rough)).
 - **Trade names.** "Korean jade" covers glass, soapstone and serpentine, and "Manchurian jade" is soapstone (Geology.com). GIA says names like Mexican jade generally refer to other minerals, and the US Federal Trade Commission's 2018 jewelry guides call such wrong names potentially deceptive (Geology.com).
 
@@ -165,13 +169,13 @@ No. Experts need the stone and their instruments, and quartzite, milky quartz, m
 
 **Mineral Fact.** Jade is very tough, but at Mohs 6 to 7 it can still be scratched (GIA).
 
-- **Water.** OK. Warm water, detergent and a soft brush ([International Gem Society](https://www.gemsociety.org/article/gemstone-care-guide/)). Keep soaks brief, since our sources cover washing only.
+- **Water.** OK. Warm water, detergent and a soft brush ([International Gem Society](https://www.gemsociety.org/article/gemstone-care-guide/)). Keep soaks brief, since the care advice covers washing, not long soaks.
 - **Cleaning machines.** Ultrasonic and steam are safe for untreated jade, says GIA, but jade may be treated, so warm soapy water is always the safe choice.
 - **Sun.** Brief only. GIA calls jade stable to light, but resin in treated jadeite can discolor and dye can fade (Geology.com). Unless you know it is untreated, keep it off the sunny sill.
 - **Heat.** Avoid. A jeweler's torch can harm jade (GIA).
 - **Chemicals.** Brief only. Warm acids can affect jade (GIA), and acid treatments may weaken some pieces (IGS).
-- **Salt.** Unknown. None of our sources cover salt yet, so skip the salt bowl some guides suggest.
-- **Scratches.** Brief only. Jade scratches but resists chipping (GIA). Our sources give no storage rule. A pouch of its own is our habit, not a sourced rule.
+- **Salt.** Unknown. We found no reference source on salt and jade, so skip the salt bowl some guides suggest.
+- **Scratches.** Brief only. Jade scratches but resists chipping (GIA). A pouch of its own is our habit, not a sourced rule.
 - **Toxicity.** Unknown in our care data. As background, the International Gem Society says wearing nephrite jewelry and handling rough or finished pieces poses no known health risk, while cutting dust is the known hazard, so lapidaries use a respirator and wet grinding ([IGS](https://www.gemsociety.org/article/nephrite-jewelry-and-gemstone-information/)). Do not cut or grind jade at home.
 
 Check your exact bangle or carving in the [Care Checker](/tools/crystal-care-checker/), with the reason and source behind each rating.
@@ -190,7 +194,7 @@ Fine white Chinese nephrite now fetches prices that sometimes compete with the f
 
 Price follows the material, the purity of the white, river or quarried origin, treatment and the carving. A large pure white "jade" carving at a gift shop price deserves questions.
 
-[TO CHECK typical US retail ranges for white jade beads, bangles, pendants and carvings, with a dated source.]
+In the listings we checked, loose oval white jadeite stones of about 21 to 37 carats, roughly 19 to 28 mm long, ran about $26 to $66 each. We found no current priced listing for white nephrite, the more common white jade, so these figures cover jadeite only. Prices from US-dollar listings at an online gem dealer in November 2026.
 
 **Next Step.** See how white jade fits the wider family on our [jade page](/stones/jade/).
 

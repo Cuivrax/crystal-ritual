@@ -27,7 +27,12 @@ sources:
   - "https://www.langantiques.com/university/calcite-2/"
   - "https://www.gemstones.com/gemopedia/calcite"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
-  - "https://en.wikipedia.org/wiki/Calcite"
+  - "https://www.handbookofmineralogy.org/pdfs/calcite.pdf"
+  - "https://www.minerals.net/mineral/calcite.aspx"
+  - "https://origin.prod.gia.edu/dam/jcr:a09d615a-e4e7-4a8a-bde9-84cfe4477e01/GG-SU15-Gem-News-International.pdf"
+  - "https://www.gia.edu/gems-gemology/spring-2022-gemnews-barite-calcite-composite-imitation-wulanhua-turquoise-hubei-china"
+  - "https://cnmnc.units.it/"
+  - "https://doi.org/10.1098/rspa.2011.0369"
   - "https://doi.org/10.1098/rspa.2012.0651"
   - "https://doi.org/10.1016/j.xcrm.2022.100895"
   - "https://www.gutenberg.org/ebooks/57978"
@@ -37,6 +42,9 @@ sources:
   - "https://www.gemrockauctions.com/learn/a-z-of-gemstones/blue-lace-agate"
   - "https://www.gemstones.com/gemopedia/angelite"
   - "https://www.gemselect.com/gem-info/aragonite-info.php"
+  - "https://crystalmagic.com/products/blue_calcite_tumbled"
+  - "https://www.crystalvaults.com/shop-crystals/922911/"
+  - "https://www.castastone.com/products/blue-calcite-tumbled-gemstone-1"
   - "https://www.crystals.com/blogs/news/blue-calcite-crystal-meanings-and-uses"
   - "https://moonrisecrystals.com/blue-calcite-meaning/"
   - "https://crystalgemstones.net/blue-calcite-meaning-and-spiritual-properties.html"
@@ -54,22 +62,22 @@ Blue calcite is a pale blue form of calcite, the calcium carbonate mineral that 
 
 | Fact | Blue calcite |
 |---|---|
-| What it is | A blue color of calcite, a recognized species on the IMA List of Minerals (July 2026) |
+| What it is | A blue color of calcite, a recognized species on the [IMA List of Minerals](https://cnmnc.units.it/) (July 2026 edition) |
 | Formula | CaCO₃ (calcium carbonate) |
 | Mohs hardness | 3 |
 | Specific gravity | About 2.7 |
 | Crystal system | Trigonal, perfect cleavage in three directions |
 | Luster | Vitreous |
-| Color cause | [TO CHECK] No source in our data names the cause of blue |
-| Main sources | [TO CHECK] No source in our data names a blue calcite locality |
+| Color cause | Not established. Calcite takes its colors from impurities and included minerals |
+| Main sources | Madagascar and Mexico, per crystal sellers. Mogok, Myanmar, in *Gems & Gemology* |
 | Water | Brief only |
 | Sun | OK |
 | Heat | Avoid |
 | Salt | Unknown |
 | Acids | Avoid |
 | Toxic to handle | No known toxicity |
-| Common fakes | [TO CHECK] |
-| Price range | Inexpensive [TO CHECK US retail ranges] |
+| Common fakes | None documented. Calcite can be dyed, waxed or filled |
+| Price range | Inexpensive, see the Price Guide |
 | Birthstone | None |
 | Chakra (Modern Association) | Throat, often third eye |
 
@@ -79,7 +87,7 @@ Blue calcite is a pale blue form of calcite, the calcium carbonate mineral that 
 
 **The Stone.** Blue calcite is calcite in blue, and that is the whole difference. Calcite is a rock-forming mineral, CaCO₃, found in sedimentary, metamorphic and igneous rocks worldwide and the main ingredient of limestone and marble ([Geology.com](https://geology.com/minerals/calcite.shtml)). The [International Gem Society](https://www.gemsociety.org/article/calcite-jewelry-gemstone-information/) calls it the most abundant carbonate mineral on Earth.
 
-Pure calcium carbonate is colorless, and impurities supply the color. The [Natural History Museum of Utah](https://nhmu.utah.edu/articles/what-is-calcite) gives examples, manganese for pink, copper for green, iron for yellow or gold and cobalt for dark pink to purple. None of our sources names the cause of blue. [TO CHECK the cause of blue color in calcite with a reference source.]
+Pure calcium carbonate is colorless, and impurities supply the color. The [Natural History Museum of Utah](https://nhmu.utah.edu/articles/what-is-calcite) gives examples, manganese for pink, copper for green, iron for yellow or gold and cobalt for dark pink to purple. We found no reference source that names the cause of the blue. The [Handbook of Mineralogy](https://www.handbookofmineralogy.org/pdfs/calcite.pdf) says only that calcite takes many colors from included minerals, and [minerals.net](https://www.minerals.net/mineral/calcite.aspx) lists iron, magnesium and manganese, occasionally zinc and cobalt, as its usual impurities.
 
 ### Why It Scratches So Easily
 
@@ -87,7 +95,7 @@ Calcite sits at 3 on the Mohs scale. The Natural History Museum of Utah notes th
 
 ### Where It Forms
 
-Calcite grows in veins, ore deposits, hot springs and caves (International Gem Society, GemSelect). Stalactites are calcite that slightly acidic groundwater dissolved from the rock above and laid down again as the water evaporated (Amethyst Galleries). Remember that when someone suggests soaking your stone. [TO CHECK blue calcite localities with a reference source.]
+Calcite grows in veins, ore deposits, hot springs and caves (International Gem Society, GemSelect). Stalactites are calcite that slightly acidic groundwater dissolved from the rock above and laid down again as the water evaporated (Amethyst Galleries). Remember that when someone suggests soaking your stone. Crystal sellers label tumbled stones and eggs as from Madagascar, and Mexico and South Africa also come up. In the gem literature, *Gems & Gemology* mentions blue calcites from Mogok, Myanmar, as low-quality stones with a weak cat's-eye ([Hyršl, 2015](https://origin.prod.gia.edu/dam/jcr:a09d615a-e4e7-4a8a-bde9-84cfe4477e01/GG-SU15-Gem-News-International.pdf)).
 
 ### Its Clear Cousin, Iceland Spar
 
@@ -99,18 +107,18 @@ Colorless, transparent calcite is called Iceland spar, after Eskifjord in Icelan
 
 - **Ancient world.** **Mineral Fact.** Calcite was building stone long before it was a crystal. Limestone blocks were the main material of many pyramids in Egypt and Latin America (Geology.com).
 - **Early 1800s.** **Tradition.** Kunz describes experiments on the "Seeress of Prevorst," Frederike Hauffe (born 1801), a woman believed to be clairvoyant. Granite, porphyry and flint in her hand did nothing, but Iceland spar was said to bring on a somnambulistic, or sleepwalking, state (*The Curious Lore of Precious Stones*, 1913, pages 9 to 10). Kunz describes a trance, not calm, so read it as a curiosity.
-- **The Viking sunstone.** **Tradition.** According to [Wikipedia](https://en.wikipedia.org/wiki/Calcite), the rhombohedral form of calcite may have been the "sunstone" that the Icelandic sagas say Viking navigators used. A crystal from an Elizabethan ship that sank in 1592 turned out to be Iceland spar, and the researchers who studied it argued that such a crystal could work as a sun compass under cloud (Le Floch and colleagues, *Proceedings of the Royal Society A*, 2013, [doi.org/10.1098/rspa.2012.0651](https://doi.org/10.1098/rspa.2012.0651)). A French shop page calls that ship a Viking wreck. It was Elizabethan.
-- **Today.** **Modern Association.** The calm, throat chakra and communication meanings come from modern crystal practice and rest mostly on the color. [TO CHECK which modern crystal book first described blue calcite, with title and year.]
+- **The Viking sunstone.** **Tradition.** Icelandic sagas mention a "sunstone," and researchers have proposed Iceland spar for it. In lab tests, a rotated Iceland spar crystal found the Sun's direction within a few degrees, even in dim twilight (Ropars and colleagues, *Proceedings of the Royal Society A*, 2011, [doi.org/10.1098/rspa.2011.0369](https://doi.org/10.1098/rspa.2011.0369)). A crystal recovered from a ship that sank off Alderney in 1592 proved to be Iceland spar, and a crystal like it could have worked as a sun compass with the Sun hidden (Le Floch and colleagues, 2013, [doi.org/10.1098/rspa.2012.0651](https://doi.org/10.1098/rspa.2012.0651)). Both papers show that a calcite sunstone was physically possible for navigation, not that Vikings used one. A French shop page calls the Alderney ship a Viking wreck, but it sank long after the Viking age.
+- **Today.** **Modern Association.** The calm, throat chakra and communication meanings come from modern crystal practice and rest mostly on the color.
 
 ## What People Use Blue Calcite for Today
 
 ### What Does Blue Calcite Mean?
 
-**Modern Association.** In modern crystal practice, blue calcite means calm and gentle communication. Shop guides tie it to the throat chakra, often to the third eye too, and describe it as a stone for slowing racing thoughts and saying hard things kindly ([Crystals.com](https://www.crystals.com/blogs/news/blue-calcite-crystal-meanings-and-uses), [Crystal Gemstones](https://crystalgemstones.net/blue-calcite-meaning-and-spiritual-properties.html)). In the guides we compared, it is Widely Linked with [sleep](/crystals-for/sleep/), and intuition and dreams also come up in the guides.
+**Modern Association.** In modern crystal practice, blue calcite means calm and gentle communication. Shop guides tie it to the throat chakra, often to the third eye too, and describe it as a stone for slowing racing thoughts and saying hard things kindly ([Crystals.com](https://www.crystals.com/blogs/news/blue-calcite-crystal-meanings-and-uses), [Crystal Gemstones](https://crystalgemstones.net/blue-calcite-meaning-and-spiritual-properties.html)). In modern crystal guides, it is Widely Linked with [sleep](/crystals-for/sleep/), and intuition and dreams also come up.
 
 The "why" is mostly color. Pale sky blue reads as cool and quiet, and modern chakra charts paint the throat blue. One guide singles out writers and musicians, calling it a stone for finding "the precise words" (Moonrise Crystals).
 
-The marginal associations scatter. One guide gives Cancer as its sign, a French shop lists Capricorn, Aquarius and Pisces, and a third just says a water sign. Pick what you like. A few pages promise relief from headaches, blood pressure or thyroid trouble. Nothing in the mineral sources behind this page supports that, and one crystal guide we read says plainly that no stone treats illness or replaces medical or mental-health care (Crystal Gemstones).
+The marginal associations scatter. One guide gives Cancer as its sign, a French shop lists Capricorn, Aquarius and Pisces, and a third just says a water sign. Pick what you like. A few pages promise relief from headaches, blood pressure or thyroid trouble. Nothing in the mineral sources behind this page supports that, and one crystal guide says plainly that no stone treats illness or replaces medical or mental-health care (Crystal Gemstones).
 
 ## How to Use Blue Calcite in Everyday Life
 
@@ -130,7 +138,7 @@ The marginal associations scatter. One guide gives Cancer as its sign, a French 
 
 **Safety.** Small tumbled stones are not toys. Keep them away from small children and pets who might swallow them.
 
-**What Research Says.** In a 2023 randomized study at Stanford, 108 adults practiced breathing exercises or mindfulness meditation for 5 minutes a day over 28 days. Cyclic sighing, two inhales followed by a long exhale, improved mood more than meditation did (Balban and colleagues, *Cell Reports Medicine*, [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)). The groups were small and the study lasted only four weeks. No stones were involved, so the link to blue calcite is our extrapolation.
+**What Research Says.** In a remote randomized study of 108 adults, 5 minutes a day of breathwork for a month, especially exhale-focused cyclic sighing, improved mood and lowered breathing rate more than the same time spent in mindfulness meditation (Balban and colleagues, *Cell Reports Medicine*, 2023, [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)). It began as an exploratory study, volunteers knew which exercise they were doing and rated their own mood, and it tested breathing, not stones. The link to blue calcite is our extrapolation.
 
 > **When a Stone Is Not Enough.** Blue calcite is often chosen for anxiety, racing thoughts and sleep. A stone can be a comfort to hold, but it is not care. If anxiety, poor sleep or headaches last or feel heavy, talk to a doctor or a therapist, and never use a stone in place of treatment.
 
@@ -138,10 +146,10 @@ The marginal associations scatter. One guide gives Cancer as its sign, a French 
 
 We use the same five labels on every stone.
 
-- **Natural, untreated.** Calcite is common and abundant worldwide, and the International Gem Society gives it little intrinsic value. [TO CHECK how much blue calcite on the US market is untreated.]
+- **Natural, untreated.** Calcite is common and abundant worldwide, and the International Gem Society gives it little intrinsic value.
 - **Natural, treated.** [Lang Antiques](https://www.langantiques.com/university/calcite-2/), citing GIA's *Gem Reference Guide* (1988), lists dyeing, wax and plastic impregnation, and irradiation as calcite treatments. The dealer reference [Gemstones.com](https://www.gemstones.com/gemopedia/calcite) says to look for dye concentrations. No source says how often blue calcite is treated.
-- **Lab-grown.** [TO CHECK whether synthetic blue calcite is sold.]
-- **Imitation.** Lang Antiques lists chalcedony, coral and alabaster as calcite look-alikes. [TO CHECK which glass, resin or dyed stones are sold as blue calcite.]
+- **Lab-grown.** We found no reference source describing lab-grown blue calcite on the market.
+- **Imitation.** Lang Antiques lists chalcedony, coral and alabaster as calcite look-alikes. We found no reference source on glass, resin or dyed stones sold as blue calcite. The reverse is documented, since GIA has reported dark blue beads of barite, calcite and blue dye made to imitate turquoise ([*Gems & Gemology*, 2022](https://www.gia.edu/gems-gemology/spring-2022-gemnews-barite-calcite-composite-imitation-wulanhua-turquoise-hubei-china)).
 - **Trade name.** Calcite is sometimes called alabaster. The International Gem Society says that name belongs to gypsum.
 
 Three checks you can do at home, with their limits.
@@ -160,7 +168,7 @@ Three questions for the seller. Is this calcite? Has it been dyed, waxed or fill
 - **Sun.** OK. Lang Antiques says calcite's natural colors are stable to light.
 - **Heat.** Avoid. Calcite decrepitates, bursting apart, at higher temperatures (Lang Antiques).
 - **Chemicals.** Avoid. Weak acids such as vinegar dissolve calcite easily (Natural History Museum of Utah).
-- **Salt.** Unknown. None of our sources covers salt yet, so skip salt until one does.
+- **Salt.** Unknown. No source covers salt yet, so skip salt until one does.
 - **Cleaning.** Never ultrasonic or steam (Lang Antiques).
 - **Storage.** Wrap it and keep it apart from harder stones. A Cincinnati Museum Center paper adds that calcite should never freeze, because many crystals hold a little water ([Huizing, 2015](https://doi.org/10.58799/NMMS-2015.505)). Skip the cold car in winter.
 - **Toxicity.** OK to handle. The International Gem Society [toxicity table](https://www.gemsociety.org/article/gemstone-care-guide/) lists no known risk for calcite, only that it is soluble in acids.
@@ -207,7 +215,7 @@ Angelite is a bluish gray anhydrite, a calcium sulfate, from Lima, Peru, discove
 
 Calcite is so common that the International Gem Society gives the material little intrinsic value. Faceted stones are the exception. The price of a cut calcite is mostly the cutter's labor, and one over 50 carats is extremely rare (International Gem Society).
 
-[TO CHECK typical US retail ranges for blue calcite rough, tumbled stones, palm stones and spheres, with a dated source.]
+Small pieces cost little. A tumbled stone half an inch to an inch across was $8 in the one current listing we found that gave a size. That is a single listing, not a full range. Prices from US-dollar listings at online crystal shops in November 2026.
 
 **Next Step.** Planning a full moon routine? Read [how to make moon water without ruining your stones](/rituals/moon-water/) before anything soft goes near a jar.
 
@@ -215,15 +223,19 @@ Calcite is so common that the International Gem Society gives the material littl
 
 - International Gem Society, [Calcite](https://www.gemsociety.org/article/calcite-jewelry-gemstone-information/), [Celestite](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/) and the [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Hobart M. King, Geology.com, [Calcite](https://geology.com/minerals/calcite.shtml), and Amethyst Galleries, [The Mineral Calcite](https://galleries.com/minerals/carbonat/calcite/calcite.htm)
+- *Handbook of Mineralogy*, [Calcite](https://www.handbookofmineralogy.org/pdfs/calcite.pdf) (Mineral Data Publishing), and minerals.net, [Calcite](https://www.minerals.net/mineral/calcite.aspx)
+- Jaroslav Hyršl, "Cat's-Eye Calcite from Pakistan," *Gems & Gemology*, Summer 2015, [GIA](https://origin.prod.gia.edu/dam/jcr:a09d615a-e4e7-4a8a-bde9-84cfe4477e01/GG-SU15-Gem-News-International.pdf), and Shu-Hong Lin and Huei-Fen Chen, "Barite-Calcite Composite as Imitation 'Wulanhua' Turquoise," *Gems & Gemology*, Spring 2022, [GIA](https://www.gia.edu/gems-gemology/spring-2022-gemnews-barite-calcite-composite-imitation-wulanhua-turquoise-hubei-china)
 - Dave Richerson, Natural History Museum of Utah, [What Is Calcite?](https://nhmu.utah.edu/articles/what-is-calcite) (2023)
 - Terry E. Huizing, New Mexico Mineral Symposium (2015), [doi.org/10.58799/NMMS-2015.505](https://doi.org/10.58799/NMMS-2015.505)
+- G. Ropars and colleagues, *Proceedings of the Royal Society A* (2011), [doi.org/10.1098/rspa.2011.0369](https://doi.org/10.1098/rspa.2011.0369)
 - A. Le Floch and colleagues, *Proceedings of the Royal Society A* (2013), [doi.org/10.1098/rspa.2012.0651](https://doi.org/10.1098/rspa.2012.0651)
 - M. Y. Balban and colleagues, *Cell Reports Medicine* (2023), [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 9 to 10, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
-- Lang Antiques, [Calcite](https://www.langantiques.com/university/calcite-2/), and dealer guides from GemSelect, Gemstones.com and Gem Rock Auctions linked above
-- Wikipedia, [Calcite](https://en.wikipedia.org/wiki/Calcite), used as a pointer only
-- Modern associations compared across crystals.com, moonrisecrystals.com, crystalgemstones.net, france-mineraux.fr and wemystic.fr, read November 13, 2026
+- Dealer and jewelry references on calcite care and look-alikes, linked in the text above
+- The [IMA List of Minerals](https://cnmnc.units.it/), July 2026 edition, from the official IMA CNMNC site
+- Retail prices from US-dollar listings at online crystal shops, read November 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

@@ -12,7 +12,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-06"
 publishTime: "07:00"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gia.edu/rose-quartz/gem-overview"
@@ -42,7 +42,7 @@ sources:
 
 Rose quartz is the pale to medium pink variety of quartz, colored by microscopic fibers of a mineral related to dumortierite. Modern crystal guides call it the stone of love, self-love and compassion, a meaning that grew from its color. The honest note is that ordinary rose quartz is generally stable in light, despite its reputation for fading.
 
-<!-- PHOTO TO FIND, HERO. No rose quartz photo in images_candidates.csv, images_commons_candidates.csv or image_picks_new_stones.json has a visual check yet (34 Commons rows, all with visual_check empty, 0 Smithsonian rows). CC0 candidates to check first: "File Rosenquarz aus Madagaskar 01.jpg" by Slashme, https://commons.wikimedia.org/wiki/File:Rosenquarz_aus_Madagaskar_01.jpg (has a mm scale, may suit a secondary slot better), "File Rose quartz (GeoDIL number - 2521).jpg" by Darla Sondrol, https://commons.wikimedia.org/wiki/File:Rose_quartz_(GeoDIL_number_-_2521).jpg , and "File Rose Quartz, Harman Mineral Collection, Capen Hill 2026-06-01.jpg" by Peter Cooper Jr., https://commons.wikimedia.org/wiki/File:Rose_Quartz,_Harman_Mineral_Collection,_Capen_Hill_2026-06-01.jpg . Pick a massive, translucent pink piece for the hero, never a stock photo labeled rose quartz without a check. -->
+<!-- PHOTO HERO. File site/photos/stones__rose-quartz/hero.jpg. Source Unsplash, https://unsplash.com/photos/rNiaLyEdFzE . License Unsplash License. Credit "Photo by Renee Kiffin on Unsplash". Visual check 2026-11-18, Raw pale pink rose quartz chunks on white marble; correct stone. -->
 
 ## Rose Quartz Quick Facts
 
@@ -210,7 +210,7 @@ For everyday pieces, GIA lists color, clarity, cut and size as what sets the val
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
 - George Frederick Kunz, *The Magic of Jewels and Charms* (1915), pages 384 to 385, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - SAMHSA, [988 Suicide and Crisis Lifeline fact sheet](https://www.samhsa.gov/sites/default/files/988-factsheet.pdf)
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

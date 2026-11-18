@@ -11,7 +11,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-06"
 publishTime: "07:00"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/moldavite-jewelry-and-gemstone-information/"
@@ -40,7 +40,7 @@ sources:
 
 Moldavite is a green natural glass formed about 15 million years ago, when an asteroid impact in southeastern Germany melted rock and splashed it across central Europe. Modern crystal guides call it a stone of transformation, which is a belief. The honest note is about buying it, since much of the moldavite sold online is man-made green glass.
 
-<!-- PHOTO HERO TO FIND. No checked moldavite photo in our files. The Smithsonian "Tektite" row is marked wrong (electron microscope image). Commons candidates all have visual_check empty, for example "File Moldavite Besednice.jpg" by H. Raab, CC BY-SA 3.0, and "File Faceted natural Moldavite - Moldavite gemstones.jpg" by AdamStejskal, CC BY 4.0. Because fakes are the topic of this page, check identity with care (visible bubbles or flow lines, natural etched surface, source in a museum or a named Czech locality) before use, and log page, license and credit. Never use a stock photo labeled moldavite. -->
+<!-- PHOTO HERO. File site/photos/stones__moldavite/hero.jpg. Source Openverse/Flickr, https://www.flickr.com/photos/47445767@N05/49524007447 . License BY 2.0. Credit "Photo by James St. John on Flickr (BY 2.0)". Visual check 2026-11-18, Five green moldavite pieces with the characteristic sculpted surface on white; title states Ries tektite. -->
 
 ## Moldavite Quick Facts
 
@@ -134,13 +134,13 @@ Several guides describe a "moldavite flush," a rush of heat or tingling on first
 
 **Safety.** Small stones are not toys. Keep tumbled pieces and beads away from small children and pets.
 
-**What Research Says.** No study behind this page tested moldavite, so treat these as personal practices.
+**What Research Says.** No study we know of tested moldavite, so treat these as personal practices.
 
-> **When a Stone Is Not Enough.** Some guides warn of dizziness or a rush of heat when you first hold moldavite. Nothing in the mineral sources behind this page explains such a reaction, so treat it as a signal from your body. If you feel unwell, anxious or low and it lasts, talk to a doctor or a therapist.
+> **When a Stone Is Not Enough.** Some guides warn of dizziness or a rush of heat when you first hold moldavite. No mineral reference we know of explains such a reaction, so treat it as a signal from your body. If you feel unwell, anxious or low and it lasts, talk to a doctor or a therapist.
 
 ## Is My Moldavite Real? How to Spot Fake Moldavite
 
-**The Stone.** Our five labels get simple here. The sources behind this page describe no common treatment (Natural, treated) and no lab-grown moldavite, so the question is almost always Natural, untreated versus Imitation, meaning man-made green glass, from faceted bottle glass to molded pieces with fake etching. Trade names get their own box.
+**The Stone.** Our five labels get simple here. Reference works describe no common treatment (Natural, treated) and no lab-grown moldavite, so the question is almost always Natural, untreated versus Imitation, meaning man-made green glass, from faceted bottle glass to molded pieces with fake etching. Trade names get their own box.
 
 > **Trade Name.** "African moldavite" is not moldavite. By definition moldavite occurs only around the Ries impact, no natural moldavite occurs in Africa, and pieces sold under that name are most likely manufactured glass (International Gem Society). Geology.com also flags "glass meteorite," "bohemian chrysolite," "false chrysolite" and "glass chrysolite" as misnomers. Bouteille stone and vltavín are genuine old names.
 
@@ -183,7 +183,7 @@ Data from *Gems & Gemology*, Spring 2015. For hard cases, labs measure chemistry
 
 ### Where to Buy Real Moldavite
 
-Our sources name no seller, and Geology.com warns that online, "there is a very good chance that you will receive imitation material." An authenticity card or good reviews are the seller's word, not a test. Before you pay, ask these.
+We name no seller, and Geology.com warns that online, "there is a very good chance that you will receive imitation material." An authenticity card or good reviews are the seller's word, not a test. Before you pay, ask these.
 
 1. Where exactly was it found? Real moldavite comes from the Ries strewn field, mostly southern Bohemia.
 2. Can you send close-ups with light behind the stone, showing bubbles or flow lines?
@@ -195,10 +195,10 @@ The [Label Decoder](/tools/crystal-label-decoder/) has more questions to copy, a
 
 **Mineral Fact.** At Mohs 5 to 5.5, moldavite is about as hard as man-made glass and brittle, so earrings, pins and pendants suit it better than rings, which need a protective bezel and only occasional wear (Geology.com, International Gem Society).
 
-- **Water.** OK. A soft brush, mild detergent and warm water (International Gem Society). Our sources cover washing, not long soaks. A quick dip for the lechatelierite check is fine, but skip the overnight soak.
+- **Water.** OK. A soft brush, mild detergent and warm water (International Gem Society). The International Gem Society covers washing, not long soaks. A quick dip for the lechatelierite check is fine, but skip the overnight soak.
 - **Cleaning machines.** Skip them. Moldavite is full of inclusions, so no steam or ultrasonic cleaners (International Gem Society).
 - **Sun.** Unknown.
-- **Heat.** Unknown. No source behind this page covers it, so as a precaution for brittle glass, keep it away from open flame and sudden temperature swings.
+- **Heat.** Unknown. No reference work we know of covers heat, so as a precaution for brittle glass, keep it away from open flame and sudden temperature swings.
 - **Salt and chemicals.** Unknown. Skip salt cleanses until a reference source covers them.
 - **Storage.** On its own, in a soft pouch, away from harder stones that can scratch it.
 - **Toxicity.** OK to wear and handle. The International Gem Society [toxicity table](https://www.gemsociety.org/article/gemstone-care-guide/) lists no known risk, and its silica warning for tektites concerns cutting dust.
@@ -231,7 +231,7 @@ What the fakes cost buyers is the price of a real stone paid for glass. Much of 
 - Robert Simmons and Kathy Warner, *Moldavite*, subtitled *Starborn Stone of Transformation* (Heaven and Earth Books, 1988), [Library of Congress record](https://www.loc.gov/item/89080025/), and Robert Simmons, *The Book of Moldavite*, [publisher listing](https://www.simonandschuster.ca/books/The-Book-of-Moldavite/Robert-Simmons/9781644119129)
 - Book years for *The Book of Stones* (2005) and *Love Is in the Earth* (1991) from [Open Library](https://openlibrary.org/books/OL8518534M) and the [Library of Congress](https://www.loc.gov/item/90085000/)
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

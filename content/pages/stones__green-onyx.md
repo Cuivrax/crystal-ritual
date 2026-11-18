@@ -53,7 +53,7 @@ Green onyx is a trade name, not a single mineral. In jewelry it often means chal
 | What it is | A trade name. Usually dyed green chalcedony (jewelry) or onyx marble, a banded calcium carbonate (decor) |
 | Mineral status | Not an IMA species. Chalcedony is a form of quartz, and calcite is a species of its own |
 | Formula | Chalcedony SiO₂. Onyx marble CaCO₃ |
-| Mohs hardness | Chalcedony onyx about 7. Calcite 3 |
+| Mohs hardness | Chalcedony onyx 6.5 to 7. Calcite 3 |
 | Specific gravity | Chalcedony onyx 2.63 to 2.65. Calcite about 2.7 |
 | Colors | Deep, even green when dyed. Light green and white bands in banded agate. Banded greens in onyx marble |
 | Color cause | Usually dye. Natural green chalcedony owes its color to metals such as nickel |
@@ -91,14 +91,14 @@ That material is calcite, the main mineral of limestone and marble, or sometimes
 
 One gem dealer's encyclopedia names Pakistan as the big supplier of onyx marble for vases, chess sets and wall cladding, and Argentina for apple-green material ([Skyjems](https://skyjems.ca/pages/encyclopedia-onyx-marble)). A rule of thumb, then. If it is a carving, a vase, a bowl or a tile, think onyx marble first.
 
-The difference matters most for hardness. Chalcedony onyx rates 7 on the Mohs scale (Minerals.net), calcite only 3 (Geology.com), so a green onyx bowl scratches far more easily than a green onyx ring.
+The difference matters most for hardness. Chalcedony onyx rates 6.5 to 7 on the Mohs scale (GemSelect), calcite only 3 (Geology.com), so a green onyx bowl scratches far more easily than a green onyx ring.
 
 ## Where the Meaning Comes from
 
 **The Story.** Green onyx has no lore of its own. It inherits the stories of onyx, and those are darker than most shop pages suggest. George Frederick Kunz collected them in two books of gem lore.
 
 - **Ancient Israel.** **Tradition.** In the Authorized Version, Exodus sets an onyx in the fourth row of the high priest's breastplate (Kunz, *The Curious Lore of Precious Stones*, 1913, page 276).
-- **Ancient Mexico.** **Tradition.** A so-called "Mexican onyx" from quarries near Tecalco, which Kunz identifies as aragonite, was carved into figures, ornaments and beads. Some "Tecalco onyx" was "of such rich green" that it might be mistaken for jadeite (1913, pages 251 to 252). The green onyx bowl has a long family tree.
+- **Ancient Mexico.** **Tradition.** A so-called "Mexican onyx" from quarries near Tecalco, which Kunz identifies as aragonite, was carved into figures, ornaments and beads. Kunz lists "Tecalco onyx" among the green stones of ancient Mexico, some "of such rich green" that they might be mistaken for jadeite (1913, pages 251 to 252). The green onyx bowl has a long family tree.
 - **Arabic tradition.** **Tradition.** The Arabic name for onyx, el jaza, meant "sadness." A pseudo-Aristotle passage warns that whoever wears it "will have fearful dreams" and many disputes and lawsuits, and that in China people dreaded going into its mines (1913, pages 159 to 160).
 - **India, as told by Cardano.** **Tradition.** Cardano reported that onyx was worn on the neck everywhere in India "to cool the ardors of love." Kunz links this to the common idea that onyx provoked discord and separated lovers, perhaps suggested by its contrasting black and white layers (1913, pages 98 to 99).
 - **1010, England.** **Tradition.** An onyx gem given to the Abbey of St. Alban by King Ethelred II was believed to help women in childbirth, so it was kept loose and carried from house to house (Kunz, *The Magic of Jewels and Charms*, 1915, pages 151 to 152).
@@ -197,7 +197,7 @@ Green onyx jewelry can be washed in warm, soapy water, as long as you keep it br
 ## Green Onyx vs Look-Alikes
 
 - **Chrysoprase.** Natural apple-green chalcedony colored by nickel, and it "commands a higher price" than other chalcedony ([Minerals.net](https://www.minerals.net/gemstone/chalcedony)). Dyed green chalcedony is often sold as "chrysoprase," a misnomer according to [Geology.com](https://geology.com/gemstones/chrysoprase/). See our [chrysoprase page](/stones/chrysoprase/) for the clues.
-- **Jade.** Kunz noted that rich green Tecalco onyx could be mistaken for jadeite, and dyed green marble has been presented as jadeite (*Gems & Gemology*). See [jade](/stones/jade/).
+- **Jade.** Kunz noted that some rich green stones of ancient Mexico, Tecalco onyx among them, could be mistaken for jadeite, and dyed green marble has been presented as jadeite (*Gems & Gemology*). See [jade](/stones/jade/).
 - **Green calcite.** The same mineral as onyx marble, sold under its own name.
 - **Black onyx.** The best-known onyx, also chalcedony. What you find in stores is almost always dyed (International Gem Society). More on our [onyx page](/stones/onyx/).
 

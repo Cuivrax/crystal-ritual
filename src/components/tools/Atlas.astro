@@ -1,4 +1,100 @@
 ---
-const { page } = Astro.props;
+// The Stone Atlas, an A to Z grid of the published stone pages with client-side filters
+// by color and intention (from the stone sheets and intent_rankings.json) and hardness.
+import { getSite } from '../../lib/site.mjs';
+import { stoneThumbs, stonesIndex, intents, knownFor } from '../../lib/render.mjs';
+import { COLOR_FAMILIES, COLOR_LABELS } from '../../lib/colors.mjs';
+import { INTENTIONS, FACET_LABELS, esc } from '../../lib/ui.mjs';
+const site = await getSite();
+const thumbs = await stoneThumbs(site);
+const firstSentence = (s) => (String(s).match(/^.*?[.!?](\s|$)/) || [s])[0].trim();
+const hardBucket = (m) => (!m ? '' : m.max < 5 ? 'soft' : m.min >= 7 ? 'hard' : 'medium');
+const fmtMohs = (m) => (m.min === m.max ? `${m.min}` : `${m.min} to ${m.max}`);
+const cards = site.pages.filter((p) => p.type === 'stone').map((p) => {
+  const sheet = stonesIndex.stones[p.slug] || null;
+  const name = sheet?.name || p.data.h1.split(/ Meaning| Properties|,/)[0];
+  const ints = Object.entries(intents).filter(([, list]) => (list.find((r) => r.slug === p.slug)?.facets || 0) >= 3).map(([k]) => k);
+  const top = knownFor(p.slug, 1).find((k) => k.facets >= 3) || null;
+  return {
+    url: p.url, slug: p.slug, name, line: firstSentence(p.data.description),
+    colors: sheet?.colorFamilies || [], ints, hard: hardBucket(sheet?.mohs), mohs: sheet?.mohs || null, top,
+    search: [name, ...(sheet?.aliases || [])].join(' | ').toLowerCase(),
+    photo: thumbs.get(p.slug)?.card || null,
+  };
+}).sort((a, b) => a.name.localeCompare(b.name));
+const colorOpts = COLOR_FAMILIES.filter((c) => cards.some((x) => x.colors.includes(c)));
+const intentOpts = Object.keys(INTENTIONS).filter((k) => cards.some((x) => x.ints.includes(k)));
+const hardOpts = [['soft', 'Soft, Under 5'], ['medium', 'Medium, 5 to 6.5'], ['hard', 'Hard, 7 and Up']].filter(([k]) => cards.some((x) => x.hard === k));
+let lastLetter = '';
 ---
-<div data-tool="Atlas"></div>
+<section class="atlas" id="atlas" aria-label="The Stone Atlas">
+  <form class="atlas-filters" role="search" aria-label="Filter the Stone Atlas" action="/stones/" method="get">
+    <div class="field"><label for="atlas-q">Name or Label</label><input id="atlas-q" name="q" type="search" placeholder="Search a stone, or the name on a label" autocomplete="off"></div>
+    <div class="field"><label for="atlas-color">Color</label><select id="atlas-color" name="color"><option value="">Any Color</option>{colorOpts.map((c) => <option value={c}>{COLOR_LABELS[c]}</option>)}</select></div>
+    <div class="field"><label for="atlas-intention">Intention</label><select id="atlas-intention" name="intention"><option value="">Any Intention</option>{intentOpts.map((k) => <option value={k}>{INTENTIONS[k].label}</option>)}</select></div>
+    <div class="field"><label for="atlas-hardness">Hardness</label><select id="atlas-hardness" name="hardness"><option value="">Any Hardness</option>{hardOpts.map(([k, l]) => <option value={k}>{l}</option>)}</select></div>
+  </form>
+  <p class="atlas-count" id="atlas-count" aria-live="polite">{cards.length} {cards.length === 1 ? 'stone' : 'stones'}</p>
+  <div class="atlas-grid">
+    {cards.map((c) => {
+      const letter = c.name.charAt(0).toUpperCase();
+      const head = letter !== lastLetter;
+      lastLetter = letter;
+      const chips = [
+        c.mohs ? `<span class="mini-chip tone-green">Hardness ${esc(fmtMohs(c.mohs))}</span>` : '',
+        c.top ? `<span class="mini-chip tone-lavender">${esc(c.top.label)}, ${esc(FACET_LABELS[c.top.facets])}</span>` : '',
+      ].join('');
+      return (
+        <Fragment>
+          {head && <p class="atlas-letter" data-letter={letter}>{letter}</p>}
+          <article class="atlas-card is-link" data-letter={letter} data-search={c.search} data-colors={c.colors.join(' ')} data-ints={c.ints.join(' ')} data-hard={c.hard}
+            set:html={`${c.photo || ''}<div class="atlas-card-body"><h3><a class="stretched" href="${esc(c.url)}">${esc(c.name)}</a></h3><p>${esc(c.line)}</p><div class="mini-chips">${chips}</div></div>`} />
+        </Fragment>
+      );
+    })}
+  </div>
+  <p class="atlas-none" id="atlas-none" hidden>No published stone matches yet. New stone pages go live every week.</p>
+  <p class="atlas-note">Intentions are beliefs, rated on our five-facet scale. A stone is listed under an intention from Often Linked up.</p>
+</section>
+<script>
+  const form = document.querySelector('.atlas-filters');
+  const cards = [...document.querySelectorAll('.atlas-card')];
+  const letters = [...document.querySelectorAll('.atlas-letter')];
+  const count = document.getElementById('atlas-count');
+  const none = document.getElementById('atlas-none');
+  const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/['’]/g, '').trim();
+  const params = new URLSearchParams(location.search);
+  for (const k of ['q', 'color', 'intention', 'hardness']) {
+    const el = form.elements[k];
+    if (el && params.get(k)) el.value = params.get(k);
+  }
+  function apply() {
+    const q = norm(form.elements.q.value || '');
+    const color = form.elements.color.value;
+    const intention = form.elements.intention.value;
+    const hard = form.elements.hardness.value;
+    let n = 0;
+    const seen = new Set();
+    for (const c of cards) {
+      const ok = (!q || norm(c.dataset.search).includes(q))
+        && (!color || c.dataset.colors.split(' ').includes(color))
+        && (!intention || c.dataset.ints.split(' ').includes(intention))
+        && (!hard || c.dataset.hard === hard);
+      c.hidden = !ok;
+      if (ok) { n++; seen.add(c.dataset.letter); }
+    }
+    for (const l of letters) l.hidden = !seen.has(l.dataset.letter);
+    count.textContent = `${n} ${n === 1 ? 'stone' : 'stones'}`;
+    none.hidden = n > 0;
+    try {
+      const p = new URLSearchParams();
+      for (const k of ['q', 'color', 'intention', 'hardness']) if (form.elements[k].value) p.set(k, form.elements[k].value);
+      const qs = p.toString();
+      history.replaceState(null, '', location.pathname + (qs ? `?${qs}` : '') + location.hash);
+    } catch (e) { /* ignore */ }
+  }
+  form.addEventListener('input', apply);
+  form.addEventListener('change', apply);
+  form.addEventListener('submit', (e) => { e.preventDefault(); apply(); });
+  apply();
+</script>

@@ -10,7 +10,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-13"
 publishTime: "10:00"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://geology.com/gemstones/labradorite/"
@@ -18,9 +18,13 @@ sources:
   - "https://www.gemsociety.org/article/moonstone-jewelry-gem-information/"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
   - "https://www.jckonline.com/magazine-article/labradorites-blue-rainbow-moonstone/"
-  - "https://en.wikipedia.org/wiki/Labradorite"
-  - "https://en.wikipedia.org/wiki/Larvikite"
+  - "https://www.gia.edu/gems-gemology/summer-2025-phenomenal-gemstones"
+  - "https://www.gemsociety.org/article/common-gemstone-treatments-cheat-sheet-2/"
+  - "https://www.gemsociety.org/article/labradorite-value-marketing-issues/"
+  - "https://www.gemstones.com/gemopedia/larvikite"
   - "https://www.americangemsociety.org/birthstones/"
+  - "https://cnmnc.units.it/"
+  - "https://doi.org/10.7717/peerj.3363"
   - "https://crystalgemstones.net/labradorite-meaning-and-spiritual-properties.html"
   - "https://www.journee-mondiale.com/vertus-pierre-labradorite-guide-complet-769.htm"
   - "https://bindi-online.com/labradorita-propiedades-espirituales-descubre-su-poder-transformador/"
@@ -52,18 +56,18 @@ Labradorite is a plagioclase feldspar known for labradorescence, a flash of blue
 | Cleavage | Two directions of perfect cleavage, at about 86 degrees |
 | Crystal system | Triclinic |
 | Colors | Body usually clear, white or gray. Flash in blue, green, yellow, orange and red |
-| Flash cause | Light reflecting off twinning surfaces inside the stone |
+| Flash cause | Light reflecting from microscopic layers inside the stone |
 | Main sources | Labrador in Canada, Finland, Madagascar, Russia, and Oregon in the US |
 | Water, sun, salt | Unknown |
 | Knocks | Avoid. Perfect cleavage makes it prone to breaking |
 | Toxic to handle | None known |
 | Trade names | Spectrolite, rainbow moonstone, some Oregon Sunstone, blue granite |
-| Common fakes | [TO CHECK] |
-| Price range | [TO CHECK US retail ranges] |
+| Common fakes | None described in gem references. Stones with flash have no known treatments (IGS) |
+| Price range | Set mostly by the flash (see Price Guide) |
 | Birthstone | Not on the modern list |
 | Chakra (Modern Association) | Throat and third eye most often, sometimes crown |
 
-> **Is It Real? Quick Checks.** Tilt the stone under a single lamp. Real labradorescence comes from inside the stone and jumps on and off as the angle changes. Look for fine straight lines of color, a sign of the twinning behind the flash. A piece with weak or no flash can still be real labradorite, and only a lab can tell plain labradorite from its feldspar cousins.
+> **Is It Real? Quick Checks.** Tilt the stone under a single lamp. Real labradorescence comes from inside the stone and jumps on and off as the angle changes. Look for fine straight lines, a sign of the twinning typical of plagioclase feldspar. A piece with weak or no flash can still be real labradorite, and only a lab can tell plain labradorite from its feldspar cousins.
 
 ## What Labradorite Actually Is
 
@@ -73,9 +77,9 @@ That makes labradorite less a single mineral than a stretch of a series, and the
 
 ### What Causes the Flash?
 
-Labradorescence is not a surface shine. Light enters the stone, strikes a twinning surface inside it and reflects back, and different surfaces reflect different colors (Geology.com). The [International Gem Society](https://www.gemsociety.org/article/labradorite-jewelry-and-gemstone-information/) calls the color play "iridescent like the feathers of a peacock," in blue, green, gold, yellow and purple.
+Labradorescence is not a surface shine. Light enters the stone, strikes a twinning surface inside it and reflects back, and different surfaces reflect different colors (Geology.com). A 2025 review in GIA's journal [Gems & Gemology](https://www.gia.edu/gems-gemology/summer-2025-phenomenal-gemstones) traces the color to alternating layers of calcium-rich and sodium-rich feldspar, far too thin to see, known as the Bøggild intergrowth. The color tracks how thick the layers are, and a pair of layers about 150 nanometers thick in total gives blue. The [International Gem Society](https://www.gemsociety.org/article/labradorite-jewelry-and-gemstone-information/) calls the color play "iridescent like the feathers of a peacock," in blue, green, gold, yellow and purple.
 
-Not every labradorite flashes. Geology.com says labradorite is the only plagioclase with strong labradorescence, yet many specimens show none. [Wikipedia](https://en.wikipedia.org/wiki/Labradorite) says the microscopic layers behind it only form with the right chemistry and very slow cooling, which would explain why some stones never got them. Neither Geology.com nor the International Gem Society gives that cause [TO CHECK with a reference source].
+Not every labradorite flashes. Geology.com says labradorite is the only plagioclase with strong labradorescence, yet many specimens show none. The GIA review says iridescent labradorite forms in plutonic rocks, those that crystallized deep underground, that cooled extremely slowly or went through high-grade metamorphism, which may be why some stones never grew the layers.
 
 ### Why Is My Labradorite's Flash Weak or Off-Center?
 
@@ -97,20 +101,20 @@ Labradorite also sparkles on buildings. Anorthosite rich in labradorite is cut i
 **The Story.** Labradorite has no ancient or medieval lore. It does not appear in either of Kunz's books on gem lore (1913 and 1915), which makes sense for a stone first found by a missionary in 1770. What it has is a modern story, a scientific puzzle and a trade name or two.
 
 - **1770, Labrador.** A Moravian missionary finds the stone on the Isle of Paul near Nain, and it takes its name from the region (Geology.com).
-- **1920s.** Wikipedia credits Robert Strutt, 4th Baron Rayleigh (1923), and Bøggild (1924) with early work on explaining the flash. We found no reference site that confirms it [TO CHECK with a reference source].
-- **1940s, Finland.** Wikipedia says the geologist Aarne Laitakari had described spectrolite and searched for its source for years when his son Pekka found a deposit at Ylämaa in 1940, while building fortifications. Geology.com credits the name to the director of the Geological Survey of Finland. A cutting workshop opened at Ylämaa in 1973 (Wikipedia).
+- **1920s.** Scientists take up the flash. The 2025 *Gems & Gemology* review credits the physicist Robert Strutt, fourth Baron Rayleigh, with a 1923 study of iridescent feldspar, and it cites Bøggild's 1924 work on how the layers lie, layers now known as the Bøggild intergrowth.
+- **Finland.** The best labradorite from a few Finnish deposits was given the name spectrolite by the director of the Geological Survey of Finland (Geology.com).
 - **1960s, India.** Rainbow moonstone, a milky labradorite with a blue or multicolored sheen that JCK traces to southern India, was mislabeled "water opal" when first reported ([JCK](https://www.jckonline.com/magazine-article/labradorites-blue-rainbow-moonstone/)).
-- **Today.** **Modern Association.** Protection, intuition and transformation lead, with nicknames like "Stone of Magic" and "frozen northern lights." These associations trace to modern crystal books [TO CHECK titles and years before naming them].
+- **Today.** **Modern Association.** Protection, intuition and transformation lead, with nicknames like "Stone of Magic" and "frozen northern lights." These associations come from modern crystal books and seller guides.
 
 ### Is the Inuit Northern Lights Legend Real?
 
-We could not confirm it. It is a story told by dealers and crystal books, and we found no written source for it before modern crystal guides. Many of them retell it. An Inuit warrior found the northern lights trapped in the rocks along the coast and freed most of them with his spear, and the light that stayed behind is the flash you see today. One German shop guide itself points out that the stone was only described in 1770, and one encyclopedia's claim of a thousand years of use by the Red Paint People of Maine comes with no source.
+We could not confirm it. It is a story told by crystal sellers and crystal books, and we found no written source for it older than modern crystal guides. Many of them retell it. An Inuit warrior found the northern lights trapped in the rocks along the coast and freed most of them with his spear, and the light that stayed behind is the flash you see today. One German crystal seller itself points out that the stone was only described in 1770, and one crystal encyclopedia's claim of a thousand years of use by the Red Paint People of Maine comes with no source.
 
-That does not make the story false. Oral traditions often go unrecorded by outsiders. It does mean we present it as a story told by dealers and crystal books, not as documented Inuit tradition, until we find where it was first written down [TO CHECK an ethnographic or museum source for the legend].
+That does not make the story false. Oral traditions often go unrecorded by outsiders. It does mean we present it as a story told by crystal sellers and books, not as documented Inuit tradition.
 
 ## What People Use Labradorite for Today
 
-**Modern Association.** In the crystal guides we compared, labradorite is a Classic stone for [protection](/crystals-for/protection/), often described as a shield for the aura. Intuition and transformation come right behind, then calm and creativity. Guides also tie it to real moments, a new job, a move, the end of a relationship or a first day somewhere new, and some say artists and writers keep a piece on the desk.
+**Modern Association.** In modern crystal guides, labradorite is a Classic stone for [protection](/crystals-for/protection/), often described as a shield for the aura. Intuition and transformation come right behind, then calm and creativity. Guides also tie it to real moments, a new job, a move, the end of a relationship or a first day somewhere new, and some say artists and writers keep a piece on the desk.
 
 The "why" is mostly the flash. A gray stone that hides its color until the light hits it right reads as hidden depths, which explains intuition. A flash that shifts as you turn it reads as change. The aurora-like colors feed the "magic" nicknames and the legend, and protection follows the idea of a stone that keeps its light inside.
 
@@ -120,7 +124,7 @@ Guides agree less on the details. The throat and third eye chakras come up most,
 
 As a mineral, labradorite reflects light from layers inside it. Its uses are cabochons, custom jewelry and polished building stone (Geology.com). Everything else is belief about the person holding it.
 
-Some guides go further and list blood pressure, rheumatism, gout, period pain, breathing or immunity. Nothing in the mineral sources behind this page supports those claims, and one guide we read says plainly that labradorite "doesn't replace medical or mental-health support."
+Some guides go further and list blood pressure, rheumatism, gout, period pain, breathing or immunity. Nothing in the mineral sources behind this page supports those claims, and one crystal seller says plainly that labradorite "doesn't replace medical or mental-health support."
 
 ## How to Use Labradorite in Everyday Life
 
@@ -144,18 +148,18 @@ Some guides go further and list blood pressure, rheumatism, gout, period pain, b
 
 **Safety.** Labradorite cleaves easily, so a drop onto tile can split it. Small tumbled stones are not toys. Keep them away from small children and pets.
 
-**What Research Says.** [TO CHECK a peer-reviewed study with DOI on brief attention cues or transition rituals, and say plainly that it did not use stones.] Until then, treat these as personal practices.
+**What Research Says.** In a small pre-registered experiment, 48 mostly undergraduate volunteers repeated a made-up ritual at home for a week, and an EEG then showed a smaller brain response to their own mistakes on a task, with no change in how well they did it (Hobson, Bonk and Inzlicht, 2017, *PeerJ*, [doi.org/10.7717/peerj.3363](https://doi.org/10.7717/peerj.3363)). Their self-reported feelings did not change and no stone was involved, so tying it to the tilt before a hard task is our extrapolation. Treat these as personal practices.
 
 > **When a Stone Is Not Enough.** Labradorite is often chosen for anxiety, stress and feeling drained by other people. A stone can be a comfort to hold, but it is not care. If anxiety, low mood or exhaustion lasts or feels heavy, talk to a doctor or a therapist, and never use a stone in place of treatment.
 
 ## Is My Labradorite Real?
 
-We use the same five labels on every stone. Our sources say little about labradorite fakes, so several lines stay open.
+We use the same five labels on every stone. Gem references say little about labradorite fakes.
 
-- **Natural, untreated.** Most labradorite you will see. JCK reports no enhancements to alter the color or clarity of the milky "rainbow moonstone" type. [TO CHECK treatments for labradorite in general.]
-- **Natural, treated.** [TO CHECK whether coated or dyed labradorite is sold in the US.]
-- **Lab-grown.** [TO CHECK whether synthetic labradorite exists.]
-- **Imitation.** [TO CHECK which glass or other stones are sold as labradorite.]
+- **Natural, untreated.** Most labradorite you will see. The International Gem Society's [treatment guide](https://www.gemsociety.org/article/common-gemstone-treatments-cheat-sheet-2/) says labradorite that shows labradorescence has no known treatments, and JCK reports no enhancements to alter the color or clarity of the milky "rainbow moonstone" type.
+- **Natural, treated.** The same guide notes that transparent feldspars may be heated or diffusion treated, and the IGS labradorite entry lists lattice diffusion as a typical treatment. We found no reference source on coated or dyed labradorite sold in the US.
+- **Lab-grown.** We found no reference source describing lab-grown labradorite.
+- **Imitation.** The same goes for glass or other materials sold as labradorite.
 - **Trade names.** Spectrolite is fine labradorite, rainbow moonstone is milky labradorite, much Oregon Sunstone is labradorite, and "blue granite" is anorthosite rich in labradorite (Geology.com, JCK). None of these is a fake.
 
 Three checks you can do at home, with their limits.
@@ -170,7 +174,7 @@ Three questions to ask the seller. Is the color natural, with no coating? Where 
 
 **Mineral Fact.** At 6 to 6.5 on the Mohs scale, labradorite scratches more easily than agate and jasper, and its two directions of perfect cleavage make it prone to breaking on impact. Geology.com calls it a poor choice for jewelry that takes knocks, and the International Gem Society says the cleavage "is always worth minding."
 
-- **Water, sun, heat, chemicals and salt.** Unknown. None of our sources cover them yet.
+- **Water, sun, heat, chemicals and salt.** Unknown. We found no reference source that covers them for labradorite yet.
 - **Knocks and storage.** Avoid knocks. That makes pendants and earrings a safer choice than rings, and since it scratches more easily than agate, store it apart from quartz-family stones.
 - **Toxicity.** OK to wear and handle. The International Gem Society toxicity table lists none known ([IGS care guide](https://www.gemsociety.org/article/gemstone-care-guide/)).
 
@@ -183,25 +187,29 @@ Our data cannot clear it yet. Guides split. One cleans it with lukewarm water an
 - **Rainbow moonstone.** It is labradorite. The International Gem Society calls rainbow moonstones "technically a variety of labradorite," and GIA's lab reports them as labradorite known in the trade as rainbow moonstone (JCK). It looks milky because it lacks the ilmenite that turns Labrador and Finnish material dark gray (JCK). See [rainbow moonstone](/stones/rainbow-moonstone/).
 - **Moonstone.** True moonstone is orthoclase feldspar with a soft blue or white glow called adularescence, while labradorite flashes in many colors (JCK, [IGS](https://www.gemsociety.org/article/moonstone-jewelry-gem-information/)). Compare them in [moonstone vs labradorite](/compare/moonstone-vs-labradorite/).
 - **Spectrolite.** The name for the finest Finnish labradorite, now used loosely for exceptional stones from elsewhere (Geology.com). See [spectrolite vs labradorite](/compare/spectrolite-vs-labradorite/).
-- **Larvikite.** A Norwegian rock with a silver-blue sheen, sold as "Blue Pearl Granite," according to [Wikipedia](https://en.wikipedia.org/wiki/Larvikite).
+- **Larvikite.** A feldspar-rich Norwegian rock, a monzonite, with a blue sheen and silver tones when polished, sold as "Norwegian Pearl Granite" or "Royal Blue Pearl Granite," according to the dealer guide at [Gemstones.com](https://www.gemstones.com/gemopedia/larvikite). It is a rock, not labradorite.
 - **Sunstone.** Some sunstone is labradorite with copper platelets that glitter, which is a different effect from the color flash (Geology.com).
 
 ## Price Guide
 
-Labradorite is rarely seen in mass-merchant jewelry and is mostly used by designers doing custom work (Geology.com). Flash drives value, since its quality, hue and brilliance vary from stone to stone. The International Gem Society calls Finnish cabochon material uncommon and fairly expensive for a feldspar, faceted gems over 20 carats exceptional, and Oregon material abundant from 2 to 10 carats. [TO CHECK typical US retail ranges for tumbled stones, palm stones, bracelets, cabochons and slabs, with a dated source.]
+Labradorite is rarely seen in mass-merchant jewelry and is mostly used by designers doing custom work (Geology.com). Flash drives value, since its quality, hue and brilliance vary from stone to stone. The International Gem Society calls Finnish cabochon material uncommon and fairly expensive for a feldspar, faceted gems over 20 carats exceptional, and Oregon material abundant from 2 to 10 carats. In an [IGS column](https://www.gemsociety.org/article/labradorite-value-marketing-issues/), Jeff R. Graham adds that natural color and schiller make feldspar more valuable, while plain gold and champagne material, sold in the trade as labradorite, is the most common.
 
 **Next Step.** Choosing a stone to keep by the door? See how labradorite compares with the other usual picks in [crystals for protection](/crystals-for/protection/).
 
 ## Sources
 
 - Geology.com, [Labradorite](https://geology.com/gemstones/labradorite/)
-- International Gem Society, [Labradorite](https://www.gemsociety.org/article/labradorite-jewelry-and-gemstone-information/), [Moonstone](https://www.gemsociety.org/article/moonstone-jewelry-gem-information/) and the [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
+- International Gem Society, [Labradorite](https://www.gemsociety.org/article/labradorite-jewelry-and-gemstone-information/), [Moonstone](https://www.gemsociety.org/article/moonstone-jewelry-gem-information/), [Common Gemstone Treatments Cheat Sheet](https://www.gemsociety.org/article/common-gemstone-treatments-cheat-sheet-2/) and the [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
+- Jeff R. Graham, International Gem Society, [Labradorite Value and Marketing Issues](https://www.gemsociety.org/article/labradorite-value-marketing-issues/), updated September 20, 2017
+- Shiyun Jin, Nathan D. Renfro, Aaron C. Palke and James E. Shigley, "Structures Behind the Spectacle, a Review of Optical Effects in Phenomenal Gemstones and Their Underlying Nanotextures," *Gems & Gemology*, Summer 2025, [GIA](https://www.gia.edu/gems-gemology/summer-2025-phenomenal-gemstones)
 - JCK, [Labradorite's Blue Rainbow Moonstone](https://www.jckonline.com/magazine-article/labradorites-blue-rainbow-moonstone/), citing GIA's lab wording and *Gems and Gemology*, Fall 1987
-- Wikipedia, [Labradorite](https://en.wikipedia.org/wiki/Labradorite) and [Larvikite](https://en.wikipedia.org/wiki/Larvikite), used as pointers only
-- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
+- Gemstones.com, [Larvikite](https://www.gemstones.com/gemopedia/larvikite), a dealer guide
+- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
+- IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913) and *The Magic of Jewels and Charms* (1915), searched for labradorite with no result
-- Modern associations compared across the crystal guides in our lore collection, including crystalgemstones.net, crystalvaults.com, energymuse.com, firemountaingems.com, crystals.com, tinyrituals.co, mooncatcrystals.com, lebensquelle-plus.de, aglaiaco.com, edelsteine.net, bindi-online.com and journee-mondiale.com, read November 13, 2026
+- Nicholas M. Hobson, Devin Bonk and Michael Inzlicht, *PeerJ* (2017), [doi.org/10.7717/peerj.3363](https://doi.org/10.7717/peerj.3363)
+- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

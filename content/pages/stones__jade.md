@@ -22,7 +22,7 @@ sources:
   - "https://www.gia.edu/jade/buyers-guide"
   - "https://gia.edu/jade-care-cleaning"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
-  - "https://en.wikipedia.org/wiki/Jade"
+  - "https://www.metmuseum.org/art/collection/search/72376"
   - "https://geology.com/minerals/serpentine.shtml"
   - "https://www.gemsociety.org/article/serpentine-jewelry-and-gemstone-information/"
   - "https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/"
@@ -46,7 +46,7 @@ sources:
 
 Jade stone is the name shared by two different minerals, jadeite and nephrite, tough enough to have been carved into tools and jewelry for over 5,000 years. In China jade has long stood for rank, love and long life. Jadeite can be bleached, resin-filled or dyed, often without disclosure, and many stones sold under jade names are other minerals entirely.
 
-<!-- PHOTO TO FIND. HERO. No hero photo is checked as good yet. Best unchecked candidate, Wikimedia Commons "File Jade Cong from China, Neolithic Period.jpg", Metropolitan Museum of Art. Page https://commons.wikimedia.org/wiki/File:Jade_Cong_from_China,_Neolithic_Period.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Jade_Cong_from_China%2C_Neolithic_Period.jpg/1280px-Jade_Cong_from_China%2C_Neolithic_Period.jpg (tracking parameters removed). License CC0. Source credit https://www.metmuseum.org/art/collection/search/72376 . Credit line "Metropolitan Museum of Art, CC0, via Wikimedia Commons". visual_check empty, check before use. Alt text "Neolithic Chinese jade cong, a square tube with a round bore". Fits the Story section better than the hero if a raw jade photo is found. Avoid the Commons rows for the jade plant, the river Jade and the JADE cipher machine, which are not the stone. -->
+<!-- PHOTO HERO. File site/photos/stones__jade/hero.jpg. Source Smithsonian NMNH, http://n2t.net/ark:/65665/3c8230d48-cccd-4d63-b766-6ad6e7867fa4 . License CC0. Credit "Smithsonian National Museum of Natural History, CC0". Visual check 2026-11-18, Pale green jadeite slab with dark inclusion on grey; Niigata, Japan. -->
 
 ## Jade Quick Facts
 
@@ -79,7 +79,7 @@ Jade stone is the name shared by two different minerals, jadeite and nephrite, t
 
 **The Stone.** For centuries all jade was thought to be one material. In 1863 the Frenchman Alexis Damour showed that it was two, jadeite and nephrite ([Geology.com](https://geology.com/gemstones/jade/)). GIA describes both as metamorphic rocks made of tiny interlocking mineral crystals, which is what makes them exceptionally tough ([GIA](https://www.gia.edu/jade-description)). That toughness is why jade was first used for ax heads, weapons and tools, and only later for gems and talismans.
 
-**Mineral Fact.** Jadeite is an aluminum-rich pyroxene, and jadeite is an approved mineral species on the IMA list. Nephrite is a magnesium-rich amphibole, a name used for material made of the minerals tremolite and actinolite (Geology.com). [Wikipedia](https://en.wikipedia.org/wiki/Jade) notes that nephrite was dropped as a species name in 1975 but remains the correct name for the rock.
+**Mineral Fact.** Jadeite is an aluminum-rich pyroxene, and jadeite is an approved mineral species on the IMA list. Nephrite is a magnesium-rich amphibole, a name used for material made of the minerals tremolite and actinolite (Geology.com). So nephrite is the name of a rock, not of a single mineral species.
 
 <!-- PHOTO 2, beside "Jade vs Jadeite". Smithsonian Open Access, "Nephrite", North Table Butte, Leucite Hills, Wyoming, United States. Record http://n2t.net/ark:/65665/3f44d8842-6b96-42c3-bc09-af4ac9d67fff . Image https://ids.si.edu/ids/deliveryService/id/ark:/65665/m34515b827dffb452485109570b70e5173 . License CC0 (Smithsonian Open Access), https://www.si.edu/openaccess . Credit line "Smithsonian Institution, CC0". visual_check ok, visual_use no in images_candidates.csv (polished green nephrite sphere shown with a ruler and museum label), so crop or use small. Alt text "Polished green nephrite jade sphere from Wyoming". -->
 
@@ -101,31 +101,31 @@ To the eye the two look much alike, which is why science took until 1863 to sepa
 
 ### Is Nephrite a Crystal?
 
-Nephrite does not form single crystals with flat faces that you could buy as points. It is a rock, a tight mass of tiny interlocking crystals (GIA) that Wikipedia describes as grainy or finely fibrous. Those tiny crystals are monoclinic, but the stone in your hand is a solid, translucent to opaque mass. "Nephrite crystal" on a shop label simply means a piece of nephrite.
+Nephrite does not form single crystals with flat faces that you could buy as points. It is a rock, a tight mass of tiny interlocking crystals (GIA). Those tiny crystals are monoclinic, but the stone in your hand is a solid, translucent to opaque mass. "Nephrite crystal" on a shop label simply means a piece of nephrite.
 
 ### Where Jade Comes From
 
-Jadeite reached China from Burma (now Myanmar) in quantity only after about 1800, according to Wikipedia. Nephrite's Chinese story is far older. Kunz named Khotan in Turkestan, today's Xinjiang, and New Zealand as the chief sources in 1913 (page 382). Kunz also secured an enormous 7,000-pound (3,175 kg) block of New Zealand jade, found in 1902, for the Museum of Natural History in New York (page 254).
+Jadeite came to China from Burma, now Myanmar, and became the jade Chinese craftsmen prized most only a few hundred years ago (Geology.com). Nephrite's Chinese story is far older. Kunz named Khotan in Turkestan, today's Xinjiang, and New Zealand as the chief sources in 1913 (page 382). Kunz also secured an enormous 7,000-pound (3,175 kg) block of New Zealand jade, found in 1902, for the Museum of Natural History in New York (page 254).
 
 ## Where the Meaning Comes From
 
 **The Story.** Jade's written history is long, and most of it is Chinese.
 
-- **Neolithic China.** **Tradition.** The Liangzhu culture (3400 to 2250 BCE) and the Hongshan culture (4700 to 2200 BCE) worked nephrite into ceremonial objects, according to Wikipedia.
+- **Neolithic China.** **Tradition.** The Metropolitan Museum of Art holds a nephrite cong, a ritual object of the Liangzhu culture dated to about 2400 BCE, and says the cong probably signified wealth and social status ([The Met](https://www.metmuseum.org/art/collection/search/72376)).
 - **Early Chinese writing.** **Tradition.** The old character for "precious" shows jade beads inside a house, and the oldest form of the character for "king" appears to be a string of jade beads, still insignia of high rank in Kunz's day (1913, pages 83 to 84).
 - **Chinese custom.** **Tradition.** People who could afford it carried small pieces of jade to handle, believing that "something of the secret virtue of the substance is absorbed into the body." Struck jade was said to sound like the voice of the loved one, and jade was called "the concentrated essence of love" (Kunz 1913, page 84).
 - **Chinese amulets.** **Tradition.** Kunz lists jade gifts with set meanings. "Two Brothers of Heavenly Love" went to friends, a phoenix to a girl coming of age, a man riding a unicorn to newlyweds as a sign an heir would come, and a butterfly from a groom to his fiancée as a symbol of successful love (1913, page 84).
 - **Tombs.** **Tradition.** "Mouth-jades" were placed in the mouths of the dead for protection (Kunz 1913, pages 86 to 87). In ancient Mexico, a green stone, possibly jade, was placed in a dead noble's mouth and called his heart (pages 85 to 86).
 - **Maori New Zealand.** **Tradition.** A carved neck pendant called hei-tiki, figuring an ancestor, was believed to pass "something of the very being of those ancestors" to the descendants who wore it (Kunz 1913, pages 87 to 88).
-- **16th century.** **Tradition.** The Spanish called jade piedra de ijada, "flank stone," a term first recorded in 1565 according to Wikipedia, from the belief that it cured kidney ailments. The word nephrite comes from the same idea. Kunz suspected that returning Spanish sailors invented the cure to raise the value of their jade (1913, pages 264 to 265 and 382 to 383).
+- **16th century.** **Tradition.** The Spanish called jade piedra de hijada, "stone of the flank," from the belief that it cured kidney ailments. The word nephrite comes from the same idea. Kunz suspected that returning Spanish sailors invented the cure to raise the value of their jade (1913, pages 264 to 265 and 382 to 383).
 - **Turkey.** **Tradition.** Kunz found jade talismans prized as heirlooms among the Turks, and a sect whose members carried a flat piece of jade for life as protection "against injury or annoyance of every kind" (1913, page 246).
 - **Today.** **Modern Association.** Luck, prosperity and protection, described below.
 
 ## What People Use Jade for Today
 
-**Modern Association.** In the modern crystal guides we read for this page, luck, prosperity and abundance lead, with protection, harmony and calm close behind. On our [Crystals for Money](/crystals-for/money/) page, jade is a Classic, our label for the strongest link in modern guides. Some guides add wisdom, friendship, love and long life, echoes of the Chinese amulets above, and several call jade a dream stone to keep by the bed. The heart chakra link is the most common, and a few guides add the solar plexus or third eye. Zodiac signs vary, with Taurus and Libra named most often.
+**Modern Association.** In modern crystal guides, luck, prosperity and abundance lead, with protection, harmony and calm close behind. On our [Crystals for Money](/crystals-for/money/) page, jade is a Classic, our label for the strongest link in modern guides. Some guides add wisdom, friendship, love and long life, echoes of the Chinese amulets above, and several call jade a dream stone to keep by the bed. The heart chakra link is the most common, and a few guides add the solar plexus or third eye. Zodiac signs vary, with Taurus and Libra named most often.
 
-The "why" is color and history. Green reads as growth and money, and Wikipedia reports a theory that ancient Japan prized green jade because green symbolized fertility and the soul of the earth. The rank, love and long-life meanings come straight from Chinese tradition.
+The "why" is color and history. Green reads as growth and money, and the rank, love and long-life meanings come straight from Chinese tradition.
 
 The crystal shop [Energy Muse](https://energymuse.com/pages/jade-meaning) repeats the Chinese advice that jade should be worn, never boxed, "lest it turn white and die," and says a chipped piece is believed to have absorbed an attack in your stead. Those are beliefs. A chip is also a good reason to check the setting.
 
@@ -155,7 +155,7 @@ Some sites list kidney, skin, fever or anti-aging benefits. Nothing in the miner
 
 You cannot fully confirm jade at home. Only trained observers with significant experience can reliably tell jadeite from nephrite without testing equipment, and Type B treatment often takes a gemological laboratory to detect (Geology.com). Here is where jade stands on the five labels we use for every stone.
 
-- **Natural, untreated.** Wikipedia describes Type A as natural, untreated jadeite, and GIA defines it as jadeite that is natural or polished with wax only.
+- **Natural, untreated.** GIA defines Type A as jadeite that is natural or polished with wax only.
 - **Natural, treated.** Heat, wax, dye, bleach, acid and polymer injection have all been used on jadeite and nephrite (Geology.com). The Type A, B and C system below covers jadeite.
 - **Lab-grown.** General Electric grew jadeite in the lab as an experiment, and a 1987 study in GIA's journal *Gems & Gemology* reported no plans for commercial production ([GIA](https://gia.edu/gems-gemology/spring-1987-synthetic-jadeite-nassau)). The International Gem Society says GE has not released synthetic jadeite commercially to date and that nephrite has not yet been synthesized ([IGS jadeite](https://www.gemsociety.org/article/jadeite-jewelry-and-gemstone-information/), [IGS nephrite](https://www.gemsociety.org/article/nephrite-jewelry-and-gemstone-information/)). We found no reference source describing lab-grown jade sold in the US.
 - **Imitation.** Glass, soapstone and serpentine are sold as jade, as is green-dyed calcite.
@@ -203,13 +203,13 @@ Three questions to ask the seller.
 
 **Mineral Fact.** Jadeite rates 6.5 to 7 and nephrite 6 to 6.5, so take some care against scratches, but both have exceptional toughness and resist breaking or chipping ([GIA](https://gia.edu/jade-care-cleaning)).
 
-- **Water. OK.** Clean with warm water, detergent and a soft brush ([International Gem Society](https://www.gemsociety.org/article/gemstone-care-guide/)). Soaking is rated Brief only, since our sources cover washing, not long soaks.
+- **Water. OK.** Clean with warm water, detergent and a soft brush ([International Gem Society](https://www.gemsociety.org/article/gemstone-care-guide/)). Soaking is rated Brief only in the Care Checker, because only washing has been confirmed safe, not long soaks.
 - **Cleaning machines.** GIA says ultrasonic and steam cleaners are safe for untreated jade, but because jade may be treated, warm soapy water is always the safe choice. The IGS adds that acid treatments may weaken some pieces, so have a gemologist look at anything valuable.
 - **Sun. Avoid long exposure.** Type B resin can discolor and Type C dye can fade with heat and sunlight. GIA says jade itself is stable to light, but you rarely know which type you own, so keep it off sunny windowsills.
 - **Heat. Avoid.** Heat from a jeweler's torch can harm jade (GIA), and treated jadeite is sensitive to heat. Skip hot water.
 - **Chemicals. Avoid.** Warm acids can affect jade (GIA).
-- **Salt. Unknown.** None of our sources covers salt yet.
-- **Toxicity. Unknown.** None of our sources covers jade dust or ingestion yet, so no elixirs.
+- **Salt. Unknown.** The Care Checker has no confirmed salt rating for jade yet.
+- **Toxicity. Unknown.** The Care Checker has no confirmed rating for jade dust or ingestion yet, so no elixirs.
 - **Storage.** Keep it apart from harder stones such as quartz, which rates 7.
 
 Here the care data overrules some crystal guides. One German guide suggests jade water heated with herbs as a tea, and a US shop soaks jade in water under sun or moonlight for a face toner. Heat and sun are what treated jadeite tolerates worst, and our data clears jade for neither drinking nor long soaks. Check your piece in the [Care Checker](/tools/crystal-care-checker/) and see [which crystals can go in water](/care/crystals-that-cant-go-in-water/).
@@ -224,7 +224,7 @@ Here the care data overrules some crystal guides. One German guide suggests jade
 
 ## Price Guide
 
-Jade prices span an enormous range. The best Imperial Jade can cost more per carat than high-quality diamonds, while Type B sells for a small fraction of a similar Type A piece and Type C for a small fraction of Type B (Geology.com). Among nephrites, the International Gem Society calls creamy white "mutton fat" jade a traditional favorite and the most popular nephrite in Chinese markets.
+Jade prices span an enormous range. The best Imperial Jade can cost more per carat than high-quality diamonds, while Type B sells for a small fraction of a similar Type A piece and Type C for a small fraction of Type B (Geology.com). Among nephrites, the International Gem Society calls white "mutton fat" jade a traditional favorite and the most popular nephrite in Chinese markets.
 
 GIA lists what drives the price of jadeite. Color comes first, ideally a very specific green. The best jadeite is semitransparent, so text read through it looks slightly blurred. Texture runs from fine to coarse, and value rises with size, all else being equal.
 
@@ -237,12 +237,11 @@ The [International Gem Society](https://www.gemsociety.org/article/nephrite-jewe
 - Hobart M. King, Geology.com, [What Is Jade?](https://geology.com/gemstones/jade/), [Serpentine](https://geology.com/minerals/serpentine.shtml) and [Quartz](https://geology.com/minerals/quartz.shtml)
 - GIA, [Jade Description](https://www.gia.edu/jade-description), [What Is Jade Gemstone](https://www.gia.edu/jade/buyers-guide), [Jade](https://www.gia.edu/jade) and [Jade Care and Cleaning Guide](https://gia.edu/jade-care-cleaning)
 - Kurt Nassau and James E. Shigley, [A Study of the General Electric Synthetic Jadeite](https://gia.edu/gems-gemology/spring-1987-synthetic-jadeite-nassau), *Gems & Gemology*, Spring 1987
-- International Gem Society, [Jadeite](https://www.gemsociety.org/article/jadeite-jewelry-and-gemstone-information/) and [Nephrite](https://www.gemsociety.org/article/nephrite-jewelry-and-gemstone-information/), by Joel E. Arem and colleagues, updated July 2025, [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/), [Serpentine Jewelry and Gemstone Information](https://www.gemsociety.org/article/serpentine-jewelry-and-gemstone-information/) and [Quartz Jewelry and Gemstone Information](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/)
-- Wikipedia, [Jade](https://en.wikipedia.org/wiki/Jade), used as a pointer only
+- International Gem Society, [Jadeite](https://www.gemsociety.org/article/jadeite-jewelry-and-gemstone-information/), [Nephrite](https://www.gemsociety.org/article/nephrite-jewelry-and-gemstone-information/), [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/), [Serpentine Jewelry and Gemstone Information](https://www.gemsociety.org/article/serpentine-jewelry-and-gemstone-information/) and [Quartz Jewelry and Gemstone Information](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/)
+- The Metropolitan Museum of Art, [Ritual Object (Cong)](https://www.metmuseum.org/art/collection/search/72376), Liangzhu culture
 - IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 83 to 88, 246, 254, 264 to 265, 299 to 300 and 382 to 383, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
-- Energy Muse, [Jade Meaning](https://energymuse.com/pages/jade-meaning), a crystal shop guide
-- Modern associations compared across crystalvaults.com, crystals.com, firemountaingems.com, energymuse.com, lithotherapie.net, france-mineraux.fr and edelsteine.net, read November 13, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

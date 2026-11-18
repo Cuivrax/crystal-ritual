@@ -25,8 +25,11 @@ export function shortName(page) {
   if (page.stoneName) return page.stoneName;
   if (page.type === 'situation') return titleCase(page.slug.replace(/-/g, ' '));
   if (['month', 'sign'].includes(page.type)) return titleCase(page.slug.replace(/-/g, ' '));
-  const h = page.data.h1.split(/,| & | with /)[0].trim();
-  return h.length > 48 ? page.data.h1.slice(0, 48) : h;
+  let h = page.data.h1;
+  if (page.type === 'tool') h = h.split(/ for | with /)[0];
+  const cut = h.split(/, | & /)[0].trim();
+  if (cut.length >= 12) h = cut;
+  return h.length > 56 ? `${h.slice(0, 56).replace(/\s+\S*$/, '')}` : h;
 }
 
 /** Absolute URL of the hero image for Open Graph, from the rendered hero figure. */

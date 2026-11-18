@@ -1,6 +1,6 @@
 ---
 title: "Green Tourmaline Meaning, Properties & What It Really Is"
-description: "Green tourmaline, or verdelite, is a heated, affordable green gem once sold as emerald. Its money stone meaning, how to spot glass, care and what drives price."
+description: "Green tourmaline, or verdelite, is an affordable green gem once sold as emerald. What it is, its money stone meaning, how to spot glass, care and price."
 h1: "Green Tourmaline Meaning, Properties & What It Really Is"
 url: "/stones/green-tourmaline/"
 primary_keyword: "green tourmaline"
@@ -16,7 +16,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-10"
 publishTime: "09:59"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/"
@@ -121,7 +121,7 @@ It is quartz with tourmaline inside, not a green tourmaline gem. The usual "tour
 
 - **3rd century BCE, Greece.** **Tradition.** Theophrastus described a Cyprian "emerald" that was half jasper and half emerald. George Frederick Kunz wondered whether that could have been a green and red tourmaline crystal, though he admitted it was hard to square with the rest of the text (*The Magic of Jewels and Charms*, 1915, page 53).
 - **1st century, Rome.** **Tradition.** Kunz suspected that some of Pliny's lychnis stones, which drew straws and bits of paper when warmed by the sun or rubbed, were tourmalines (1915, pages 52 to 53) [TO CHECK Pliny].
-- **1500s, Brazil.** Portuguese explorers sent green and blue tourmaline home believing it was emerald and sapphire, and it was cut into jewelry for royalty (Geology.com). GIA tells the same mix-up with a Spanish conquistador, and dates the first recorded green tourmaline crystal, Francisco Spinoza's "Brazilian emerald," to 1554.
+- **1500s, Brazil.** Portuguese explorers sent green and blue tourmaline home believing it was emerald and sapphire, and it was cut into jewelry for royalty (Geology.com). GIA tells the same mix-up with a Spanish conquistador, and lists Francisco Spinoza's expedition as the find of the first recorded green tourmaline crystal, a "Brazilian emerald."
 - **Before 1647, Brazil.** **Tradition.** The Dutch mineralogist Johann de Laet reported "Brazilian emeralds" found shortly before 1647, described as cylindrical, striated and glassy. Kunz thought they were probably green tourmalines, since "green sapphires have never been found in Brazil, while green tourmalines have been" (1915, pages 53 to 54).
 - **1700s, Holland.** **Tradition.** Tourmaline from Ceylon reached Dutch jewelers, who saw it attract and repel the ashes of a fire and called it Aschentrekker, the "Ash-Attractor." Linnaeus later named it the "Electrical Stone" (Kunz 1915, pages 52, 54 and 56). The word tourmaline comes from the Sinhalese toramalli, "mixed gems" ([GIA](https://www.gia.edu/tourmaline-history-lore)).
 - **1793.** Tourmaline is recognized as a mineral of its own (Geology.com).
@@ -142,7 +142,7 @@ Some associations are marginal. Signs scatter across Capricorn, Libra, Virgo and
 
 As a mineral, it does something real and odd. Tourmaline is piezoelectric and pyroelectric, so it produces electricity under pressure and when heated, and it picks up a static charge when rubbed (International Gem Society). That is the Dutch ash trick. Everything else people say it does is belief about the person holding it.
 
-Some sellers go much further, listing chronic fatigue, weight loss, immunity and even cancer. Nothing in the mineral sources behind this page supports any of it, and one guide says plainly that the stone is not a replacement for medical, mental health or professional care.
+Some sellers go much further, listing chronic fatigue, weight loss, immunity and even cancer. Those are health claims with no mineral basis, and one guide says plainly that the stone is not a replacement for medical, mental health or professional care.
 
 ## How to Use Green Tourmaline in Everyday Life
 
@@ -173,7 +173,7 @@ We use the same five labels on every stone.
 - **Natural, untreated.** A green stone as it came from the ground, only cut and polished. [TO CHECK what share of green tourmaline on the US market is untreated.]
 - **Natural, treated.** Heating "lightens blue and green stones" and is "common, stable, undetectable," says the International Gem Society. GIA adds that stones with many liquid inclusions cannot take the heat. Heat-treated is not fake.
 - **Lab-grown.** "No commercially available lab-created tourmaline exists for gem or jewelry use," says the International Gem Society, which also warns that "simulated" tourmaline online often means fake.
-- **Imitation.** Glass. GIA's lab has examined bluish green glass cut as six-sided prisms to look like rough tourmaline crystals, unmasked by "trapped gas bubbles, flow structure" and a refractive index far too low for tourmaline ([Gems & Gemology](https://gia.edu/gems-gemology/winter-2020-labnotes-glass-imitating-tourmaline), Winter 2020).
+- **Imitation.** Glass. GIA's lab has examined two bluish green glass pieces cut as six-sided prisms to imitate rough Paraíba-type tourmaline crystals, unmasked by "trapped gas bubbles, flow structure" and a refractive index far too low for tourmaline ([Gems & Gemology](https://gia.edu/gems-gemology/winter-2020-labnotes-glass-imitating-tourmaline), Winter 2020).
 - **Trade name.** "Brazilian emerald" and "Ceylonese peridot" are, in the International Gem Society's words, "unacceptable trade names for tourmalines." Verdelite and chrome tourmaline are honest variety names, with GIA's caveat above.
 
 Three checks you can do at home, with their limits.
@@ -193,7 +193,7 @@ They are different minerals. Emerald is the bluish green to green variety of ber
 **Mineral Fact.** With a hardness of 7 to 7.5, no cleavage and only slight brittleness, tourmaline makes a good jewelry stone for everyday wear (International Gem Society). GIA rates its toughness as fair.
 
 - **Water.** OK for washing. Warm water, mild detergent and a soft brush, per the International Gem Society's [care guide](https://www.gemsociety.org/article/gemstone-care-guide/).
-- **Soaking.** Brief only. Our sources cover washing, not long soaks.
+- **Soaking.** Brief only in our Care Checker. Keep it to a quick wash.
 - **Sun.** Unknown for green tourmaline in our Care Checker.
 - **Heat.** Brief only. The IGS calls tourmaline moderately sensitive to heat, and [GIA](https://www.gia.edu/tourmaline-care-cleaning) warns that high heat can alter the color and sudden temperature change can cause fracturing. Skip hot cars and radiator shelves.
 - **Chemicals.** Unknown.
@@ -204,7 +204,7 @@ They are different minerals. Emerald is the bluish green to green variety of ber
 
 ### Can Green Tourmaline Go in Water?
 
-A wash, yes. A quick rinse with warm soapy water is the cleaning method our care sources give for tourmaline. A long soak is a different question, so our Care Checker keeps soaking at Brief only. Salt and long sun stay at Unknown, so skip salt baths and sunny-windowsill charging until a reference source covers them. Keep every stone out of drinking water, and check your exact piece in the [Care Checker](/tools/crystal-care-checker/).
+A wash, yes. A quick wash in warm soapy water is the cleaning method the International Gem Society gives for tourmaline. A long soak is a different question, so our Care Checker keeps soaking at Brief only. Salt and long sun stay at Unknown in our Care Checker, so skip salt baths and sunny-windowsill charging for now. Keep every stone out of drinking water, and check your exact piece in the [Care Checker](/tools/crystal-care-checker/).
 
 ## Green Tourmaline vs Look-Alikes
 

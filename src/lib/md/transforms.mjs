@@ -9,7 +9,7 @@ import { EVIDENCE, FACET_LABELS, facetsFromLabel, facetRating, ratingFromText, R
 export function toolKeyFor(comment) {
   const t = String(comment);
   if (/^<!--\s*(TOOL TO BUILD|TOOL EMBED)/.test(t)) return null;
-  if (/^<!--\s*FORM\b/.test(t)) return 'contact-form';
+  if (/^<!--\s*FORM\b/.test(t) || /^<!--\s*BUILD contact form\b/i.test(t)) return 'contact-form';
   if (/^<!--\s*TABLE\b/.test(t)) return /care\.json/.test(t) ? 'care-table' : null;
   if (!/^<!--\s*TOOL\b/.test(t)) return null;
   if (/Stone Atlas/i.test(t)) return 'atlas';
@@ -192,7 +192,7 @@ export function processTables(tree) {
           const r = RATING_WORD[word.toLowerCase()];
           first.value = first.value.trimStart().slice(m[0].length);
           const pill = el('span', { className: ['pill', 'is-small', RATINGS[r].cls] }, [txt(titleCase(word.toLowerCase() === 'ok' ? 'OK' : word))]);
-          cell.children.splice(cell.children.indexOf(first), 0, pill, txt(first.value ? ' ' : ''));
+          cell.children.splice(cell.children.indexOf(first), 0, pill, txt(first.value && !/^[,.;]/.test(first.value) ? ' ' : ''));
           addClass(cell, 'has-pill');
         }
       }

@@ -1,4 +1,15 @@
 ---
-const { page } = Astro.props;
+// Full Moon Calendar 2027 (tools/moon, section #calendar), in the visitor's time zone.
 ---
-<div data-tool="MoonCalendar"></div>
+<section class="moon-tool" id="calendar" aria-label="Full Moon Calendar 2027">
+  <p class="moon-tool-title">Full Moon Calendar 2027</p>
+  <p class="moon-tool-sub" id="cal-tz">Every full moon of 2027 with its traditional North American name, shown in your time zone.</p>
+  <div class="moon-panel is-table">
+    <table class="cal">
+      <thead><tr><th scope="col">Moon</th><th scope="col">Date</th><th scope="col" class="col-time">Time</th></tr></thead>
+      <tbody id="cal-body"></tbody>
+    </table>
+  </div>
+  <noscript><p class="fine">The moon tools work out the sky in your browser and need JavaScript turned on.</p></noscript>
+</section>
+<script>import '../../scripts/moon-tools.js';</script>

@@ -1,4 +1,21 @@
 ---
+// Birthday Moon (tools/moon, section #birthday). On the calendar page it reads as a date picker for any night.
 const { page } = Astro.props;
+const anyDate = page && page.url === '/moon/full-moon-calendar/';
+const label = anyDate ? 'Pick a Date' : 'Date of Birth';
 ---
-<div data-tool="MoonBirthday"></div>
+<section class="moon-tool" id="birthday" aria-label={anyDate ? 'Moon Phase for Any Date' : 'Birthday Moon'}>
+  <div class="moon-panel is-form">
+    <form id="bday-form" class="moon-form" novalidate>
+      <label for="bday">{label}</label>
+      <div class="field-row">
+        <input type="date" id="bday" name="bday" min="1900-01-01" max="2100-12-31" required aria-describedby="bday-msg">
+        <button type="submit" class="btn btn-gold">Show the Moon</button>
+      </div>
+      <p class="form-msg" id="bday-msg" aria-live="polite"></p>
+    </form>
+    <div id="bday-out" aria-live="polite"></div>
+  </div>
+  <noscript><p class="fine">The moon tools work out the sky in your browser and need JavaScript turned on.</p></noscript>
+</section>
+<script>import '../../scripts/moon-tools.js';</script>

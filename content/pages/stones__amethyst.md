@@ -223,7 +223,7 @@ Small pieces cost little. A small tumbled piece, half an inch to an inch across,
 - M. Y. Balban and colleagues, *Cell Reports Medicine* (2023), [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)
 - Judy Hall, *The Crystal Bible* (2003), named as a modern source of meanings
 - Retail prices from US-dollar listings at online crystal shops, read November 2026
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

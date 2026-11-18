@@ -1,0 +1,408 @@
+{
+ "stones__rose-quartz": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/rNiaLyEdFzE",
+  "image_url": "https://images.unsplash.com/photo-1586658066544-a87cdd681398",
+  "license": "Unsplash License",
+  "creator": "Renee Kiffin",
+  "credit": "Photo by Renee Kiffin on Unsplash",
+  "visual": "Raw pale pink rose quartz chunks on white marble; correct stone.",
+  "brightness": "Bright, clean, soft pastel.",
+  "confidence": "high"
+ },
+ "stones__clear-quartz": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/SxwG6PLOc44",
+  "image_url": "https://images.unsplash.com/photo-1726925998496-55604c88910b",
+  "license": "Unsplash License",
+  "creator": "Andreas Haubold",
+  "credit": "Photo by Andreas Haubold on Unsplash",
+  "alt": {
+   "source": "Unsplash",
+   "page_url": "https://unsplash.com/photos/lEe_a9PARUg",
+   "image_url": "https://images.unsplash.com/photo-1630189186089-d83dec9ccc26",
+   "license": "Unsplash License",
+   "creator": "J Yeo",
+   "credit": "Photo by J Yeo on Unsplash"
+  },
+  "visual": "Museum clear rock-crystal cluster on black; alt is a clear/cream cluster on black.",
+  "brightness": "Glassy and sparkly against black.",
+  "confidence": "high"
+ },
+ "stones__labradorite": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/kHrrHMMG-ME",
+  "image_url": "https://images.unsplash.com/photo-1534883031555-7d18c6cf52e7",
+  "license": "Unsplash License",
+  "creator": "carole smile",
+  "credit": "Photo by carole smile on Unsplash",
+  "alt": {
+   "source": "Unsplash",
+   "page_url": "https://unsplash.com/photos/AR2hAsITHVI",
+   "image_url": "https://images.unsplash.com/photo-1584828202032-a0f7ecdf6ce5",
+   "license": "Unsplash License",
+   "creator": "Terriell Scrimager",
+   "credit": "Photo by Terriell Scrimager on Unsplash"
+  },
+  "visual": "Polished labradorite oval with strong blue flash on pale grey; alt is rough/polished with yellow-green fire.",
+  "brightness": "Bright, vivid.",
+  "confidence": "high"
+ },
+ "stones__red-jasper": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/ptrN3h9070s",
+  "image_url": "https://images.unsplash.com/photo-1780619691911-b04bdbf0cb8a",
+  "license": "Unsplash License",
+  "creator": "Mr. Pugo",
+  "credit": "Photo by Mr. Pugo on Unsplash",
+  "alt": {
+   "source": "Unsplash",
+   "page_url": "https://unsplash.com/photos/JNwgiFNjMRo",
+   "image_url": "https://images.unsplash.com/photo-1780619691943-bbff296321a8",
+   "license": "Unsplash License",
+   "creator": "Mr. Pugo",
+   "credit": "Photo by Mr. Pugo on Unsplash"
+  },
+  "visual": "Tumbled orange-red jasper with tan veining on white. Surfaces are very smooth and uniform; uploaded June 2026 by a prolific uploader; no AI artefacts spotted at thumbnail size but a human should glance at full size.",
+  "brightness": "Bright, saturated.",
+  "confidence": "medium"
+ },
+ "birthstones__january": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/Ayhynh0kXwM",
+  "image_url": "https://images.unsplash.com/photo-1705575490492-4e91fd97bbb4",
+  "license": "Unsplash License",
+  "creator": "sameer Ali",
+  "credit": "Photo by sameer Ali on Unsplash",
+  "visual": "Three faceted red garnets on white with a leaf; stone identity plausible from colour/cut, not stated.",
+  "brightness": "Clean white but garnets read dark.",
+  "confidence": "medium"
+ },
+ "compare__garnet-vs-ruby": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/Ayhynh0kXwM",
+  "image_url": "https://images.unsplash.com/photo-1705575490492-4e91fd97bbb4",
+  "license": "Unsplash License",
+  "creator": "sameer Ali",
+  "credit": "Photo by sameer Ali on Unsplash",
+  "visual": "Three faceted red garnets on white with a leaf; stone identity plausible from colour/cut, not stated.",
+  "brightness": "Clean white but garnets read dark.",
+  "confidence": "medium",
+  "note": "garnet side; same photo as birthstones__january"
+ },
+ "crystals-for__beginners": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/EUIALcbnQYI",
+  "image_url": "https://images.unsplash.com/photo-1621329109234-d7657d2f3846",
+  "license": "Unsplash License",
+  "creator": "Edz Norton",
+  "credit": "Photo by Edz Norton on Unsplash",
+  "visual": "Flat lay of assorted tumbled and raw crystals on white.",
+  "brightness": "Bright, colorful.",
+  "confidence": "high"
+ },
+ "crystals-for__gifts": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/fgy3lrj4TRQ",
+  "image_url": "https://images.unsplash.com/photo-1623228898202-de83b59829ae",
+  "license": "Unsplash License",
+  "creator": "Edz Norton",
+  "credit": "Photo by Edz Norton on Unsplash",
+  "visual": "Cream cloth, candle, clear quartz point, blue calcite, dried flowers.",
+  "brightness": "Soft, bright, warm.",
+  "confidence": "high"
+ },
+ "chakras": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/lVd5b63876g",
+  "image_url": "https://images.unsplash.com/photo-1627289601745-5813e24c9bc1",
+  "license": "Unsplash License",
+  "creator": "Edz Norton",
+  "credit": "Photo by Edz Norton on Unsplash",
+  "visual": "Rainbow spiral of tumbled stones on a mottled backdrop.",
+  "brightness": "Colorful; backdrop is a little dark.",
+  "confidence": "high"
+ },
+ "zodiac": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/qayNP9ccw9E",
+  "image_url": "https://images.unsplash.com/photo-1585383234137-2367d3c5302d",
+  "license": "Unsplash License",
+  "creator": "Dan Farrell",
+  "credit": "Photo by Dan Farrell on Unsplash",
+  "visual": "Purple and clear stones in a ring on slate.",
+  "brightness": "Moderate; slate backdrop is dim.",
+  "confidence": "medium"
+ },
+ "care__how-to-cleanse-crystals": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/G3ttEY6r7J0",
+  "image_url": "https://images.unsplash.com/photo-1643319125503-f9d079d64b9a",
+  "license": "Unsplash License",
+  "creator": "Esther Verdu",
+  "credit": "Photo by Esther Verdu on Unsplash",
+  "visual": "Crystals on white fur beside a chakra card.",
+  "brightness": "Bright, airy.",
+  "confidence": "high"
+ },
+ "care__how-to-charge-crystals": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/FHxQLQQpQcA",
+  "image_url": "https://images.unsplash.com/photo-1627577449670-4bb9e862ab95",
+  "license": "Unsplash License",
+  "creator": "Content Pixie",
+  "credit": "Photo by Content Pixie on Unsplash",
+  "visual": "Amethyst and clear quartz on a gold tray.",
+  "brightness": "Warm but moody.",
+  "confidence": "high"
+ },
+ "moon__full-moon-calendar": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/MhLjFJi3fRY",
+  "image_url": "https://images.unsplash.com/photo-1543788454-3738a5885682",
+  "license": "Unsplash License",
+  "creator": "Alexander Grey",
+  "credit": "Photo by Alexander Grey on Unsplash",
+  "visual": "Quartz cluster silhouette on purple backdrop.",
+  "brightness": "Dark subject, purple glow; atmospheric.",
+  "confidence": "medium"
+ },
+ "moon__birthday-moon": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/k65_6C4hu2E",
+  "image_url": "https://images.unsplash.com/photo-1562162115-54cc44600875",
+  "license": "Unsplash License",
+  "creator": "Jason D",
+  "credit": "Photo by Jason D on Unsplash",
+  "visual": "Clear quartz cluster on black.",
+  "brightness": "High contrast, sparkly.",
+  "confidence": "high"
+ },
+ "stones__moldavite": {
+  "source": "Openverse/Flickr",
+  "page_url": "https://www.flickr.com/photos/47445767@N05/49524007447",
+  "image_url": "https://live.staticflickr.com/65535/49524007447_1f9032189c_b.jpg",
+  "license": "BY 2.0",
+  "creator": "James St. John",
+  "credit": "Photo by James St. John on Flickr (BY 2.0)",
+  "title": "Moldavite (Miocene, 14.5-14.8 Ma; Ries Impact Crater's tektite strewn field, Bohemia) 2",
+  "visual": "Five green moldavite pieces with the characteristic sculpted surface on white; title states Ries tektite.",
+  "brightness": "Bright. Only 600 px (Flickr full size rate-limited).",
+  "confidence": "medium"
+ },
+ "stones__chrysoprase": {
+  "source": "Openverse/Flickr",
+  "page_url": "https://www.flickr.com/photos/47445767@N05/32132827260",
+  "image_url": "https://live.staticflickr.com/585/32132827260_607bcd4746_b.jpg",
+  "license": "BY 2.0",
+  "creator": "James St. John",
+  "credit": "Photo by James St. John on Flickr (BY 2.0)",
+  "title": "Chrysoprase (Queensland, Australia) 1",
+  "alt": {
+   "source": "Openverse/Flickr",
+   "page_url": "https://www.flickr.com/photos/47445767@N05/45726551694",
+   "image_url": "https://live.staticflickr.com/4818/45726551694_0aaa7acd7e_b.jpg",
+   "license": "BY 2.0",
+   "creator": "James St. John",
+   "credit": "Photo by James St. John on Flickr (BY 2.0)",
+   "title": "Chrysoprase (Australia) 4"
+  },
+  "visual": "Apple-green rough chrysoprase.",
+  "brightness": "Bright; 600 px only.",
+  "confidence": "high"
+ },
+ "stones__watermelon-tourmaline": {
+  "source": "Openverse/Flickr",
+  "page_url": "https://www.flickr.com/photos/52450054@N04/16648695872",
+  "image_url": "https://live.staticflickr.com/8675/16648695872_4f2d6b5436_b.jpg",
+  "license": "BY 2.0",
+  "creator": "Judy Gallagher",
+  "credit": "Photo by Judy Gallagher on Flickr (BY 2.0)",
+  "title": "Day 56 - Watermelon Tourmaline",
+  "alt": {
+   "source": "Openverse/Flickr",
+   "page_url": "https://www.flickr.com/photos/52450054@N04/16453915505",
+   "image_url": "https://live.staticflickr.com/7316/16453915505_ba70a6d493_b.jpg",
+   "license": "BY 2.0",
+   "creator": "Judy Gallagher",
+   "credit": "Photo by Judy Gallagher on Flickr (BY 2.0)",
+   "title": "Day 36 - Watermelon Tourmaline slice"
+  },
+  "alt2": {
+   "source": "Smithsonian NMNH",
+   "page_url": "http://n2t.net/ark:/65665/375c9a7f0-c454-4e4a-998e-8a078e4bfd52",
+   "image_url": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3fc490c844f144bb88bec4ae5d13cee99",
+   "license": "CC0",
+   "creator": "Smithsonian National Museum of Natural History",
+   "credit": "Smithsonian National Museum of Natural History, CC0",
+   "title": "The Steamboat"
+  },
+  "visual": "Polished crystal, green to pink bi-colour; alt slice with pink core and green rind; alt2 Smithsonian crystals on quartz (blue backdrop).",
+  "brightness": "Vivid; hero 600 px only, alt2 is 1300 px.",
+  "confidence": "high"
+ },
+ "stones__orange-calcite": {
+  "source": "Openverse/Flickr",
+  "page_url": "https://www.flickr.com/photos/14730981@N08/11920279634",
+  "image_url": "https://live.staticflickr.com/3777/11920279634_3baabb2d7a_b.jpg",
+  "license": "BY-SA 2.0",
+  "creator": "James E. Petts",
+  "credit": "Photo by James E. Petts on Flickr (BY-SA 2.0)",
+  "title": "Orange calcite",
+  "alt": {
+   "source": "Openverse/Flickr",
+   "page_url": "https://www.flickr.com/photos/84375161@N08/8023404087",
+   "image_url": "https://live.staticflickr.com/8036/8023404087_f67a898cea_b.jpg",
+   "license": "BY 2.0",
+   "creator": "cyberpunk65",
+   "credit": "Photo by cyberpunk65 on Flickr (BY 2.0)",
+   "title": "orange-calcite"
+  },
+  "visual": "Glowing amber-orange rough calcite on white; alt tumbled with white band on black.",
+  "brightness": "Bright, warm; 600 px only.",
+  "confidence": "medium"
+ },
+ "stones__blue-calcite": {
+  "source": "Openverse/Flickr",
+  "page_url": "https://www.flickr.com/photos/34198607@N02/6811394911",
+  "image_url": "https://live.staticflickr.com/7159/6811394911_9f1ea17fda_b.jpg",
+  "license": "BY 2.0",
+  "creator": "balanced.crafts",
+  "credit": "Photo by balanced.crafts on Flickr (BY 2.0)",
+  "title": "rare blue calcite from mexico",
+  "alt": {
+   "source": "Openverse/Flickr",
+   "page_url": "https://www.flickr.com/photos/34198607@N02/6811394579",
+   "image_url": "https://live.staticflickr.com/7026/6811394579_6615915b05_b.jpg",
+   "license": "BY 2.0",
+   "creator": "balanced.crafts",
+   "credit": "Photo by balanced.crafts on Flickr (BY 2.0)",
+   "title": "rare blue calcite from mexico"
+  },
+  "visual": "Pale blue-grey calcite rough on white (alt has red-brown streaks).",
+  "brightness": "Bright but pale; 600 px only.",
+  "confidence": "medium"
+ },
+ "stones__dalmatian-jasper": {
+  "source": "Openverse/Flickr",
+  "page_url": "https://www.flickr.com/photos/149039099@N04/33892358493",
+  "image_url": "https://live.staticflickr.com/4166/33892358493_b58bf72a57_b.jpg",
+  "license": "BY 2.0",
+  "creator": "SC-Creations",
+  "credit": "Photo by SC-Creations on Flickr (BY 2.0)",
+  "title": "Jasper Dalmatian",
+  "visual": "Glossy cream stone with black spots, sharp.",
+  "brightness": "Bright; 600 px only.",
+  "confidence": "high"
+ },
+ "stones__jade": {
+  "source": "Smithsonian NMNH",
+  "page_url": "http://n2t.net/ark:/65665/3c8230d48-cccd-4d63-b766-6ad6e7867fa4",
+  "image_url": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m38a080c55735445dcbfc6f3ab56fe33ca",
+  "license": "CC0",
+  "creator": "Smithsonian National Museum of Natural History",
+  "credit": "Smithsonian National Museum of Natural History, CC0",
+  "title": "Jadeite",
+  "visual": "Pale green jadeite slab with dark inclusion on grey; Niigata, Japan.",
+  "brightness": "Soft, slightly dull but real.",
+  "confidence": "medium"
+ },
+ "stones__green-jade": {
+  "source": "Smithsonian NMNH",
+  "page_url": "http://n2t.net/ark:/65665/3e0bb5dd7-c61f-41ff-b880-4123cc6446fa",
+  "image_url": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3090310290b624c81b2cddab850d6731e",
+  "license": "CC0",
+  "creator": "Smithsonian National Museum of Natural History",
+  "credit": "Smithsonian National Museum of Natural History, CC0",
+  "title": "Jadeite",
+  "visual": "Mogoung (Myanmar) jadeite with emerald-green window in brown skin on white.",
+  "brightness": "Bright green accent, small subject (portrait).",
+  "confidence": "high"
+ },
+ "stones__rainbow-moonstone": {
+  "source": "Smithsonian NMNH",
+  "page_url": "http://n2t.net/ark:/65665/3b20c30b9-5238-4533-bf1b-16308b71c630",
+  "image_url": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m368b86f170f4f43729f69c8a5d0505fc7",
+  "license": "CC0",
+  "creator": "Smithsonian National Museum of Natural History",
+  "credit": "Smithsonian National Museum of Natural History, CC0",
+  "title": "Albite (var. moonstone)",
+  "visual": "Albite var. moonstone cabochon with blue sheen on black; blue adularescence, not multicolor rainbow flash.",
+  "brightness": "Good contrast.",
+  "confidence": "low",
+  "rejected_by_main": "identity mismatch (precious opal, not Peruvian blue opal / blue-sheen moonstone, not rainbow moonstone)"
+ },
+ "stones__blue-opal": {
+  "source": "Smithsonian NMNH",
+  "page_url": "http://n2t.net/ark:/65665/3a1a95f39-12f4-4c9a-8ee5-2a266958d631",
+  "image_url": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3dc35fd19a0424cf3a538fa3a05efb2a1",
+  "license": "CC0",
+  "creator": "Smithsonian National Museum of Natural History",
+  "credit": "Smithsonian National Museum of Natural History, CC0",
+  "title": "Opal",
+  "visual": "Cobalt-blue crazed precious opal (Lightning Ridge) on black; not Peruvian blue opal.",
+  "brightness": "Vivid blue.",
+  "confidence": "medium",
+  "rejected_by_main": "identity mismatch (precious opal, not Peruvian blue opal / blue-sheen moonstone, not rainbow moonstone)"
+ },
+ "zodiac__aquarius": {
+  "source": "Smithsonian NMNH",
+  "page_url": "http://n2t.net/ark:/65665/379cb7608-6fc5-4ec5-964f-ba4d28ee4e13",
+  "image_url": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m37ea9f02ade5747aab8afe7cc4bddd229",
+  "license": "CC0",
+  "creator": "Smithsonian National Museum of Natural History",
+  "credit": "Smithsonian National Museum of Natural History, CC0",
+  "title": "Quartz (var. amethyst)",
+  "visual": "Vivid amethyst cluster on black (Upper Providence, PA).",
+  "brightness": "Rich purple.",
+  "confidence": "high"
+ },
+ "stones__amethyst": {
+  "note": "proposed brighter alt only; keep existing hero otherwise",
+  "alt": {
+   "source": "Smithsonian NMNH",
+   "page_url": "http://n2t.net/ark:/65665/3760272ff-e724-42f4-ab48-4f60f49fceca",
+   "image_url": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3f5a93c5e1c6e40e9a076922f560c28bb",
+   "license": "CC0",
+   "creator": "Smithsonian National Museum of Natural History",
+   "credit": "Smithsonian National Museum of Natural History, CC0",
+   "title": "Quartz (var. amethyst)"
+  },
+  "visual": "Vivid purple Guerrero cluster on teal backdrop (file alt.jpg).",
+  "brightness": "Brighter than current.",
+  "confidence": "high",
+  "source": ""
+ },
+ "stones__citrine": {
+  "note": "no hero change; optional alt",
+  "alt": {
+   "source": "Openverse/Flickr",
+   "page_url": "https://www.flickr.com/photos/136038519@N08/23196258320",
+   "image_url": "https://live.staticflickr.com/5632/23196258320_800713ac0f_b.jpg",
+   "license": "PDM 1.0",
+   "creator": "Angel Lite Photography",
+   "credit": "Photo by Angel Lite Photography on Flickr (PDM 1.0)",
+   "title": "Manifest Money and wealth / Citrine"
+  },
+  "visual": "Orange citrine druse (Angel Lite Photography, public domain mark).",
+  "brightness": "Bright amber; 600 px only. Verify it is natural, not heat-treated amethyst.",
+  "confidence": "medium",
+  "source": ""
+ },
+ "stones__sunstone": {
+  "note": "optional alt; not clearly better",
+  "alt": {
+   "source": "Smithsonian NMNH",
+   "page_url": "http://n2t.net/ark:/65665/333fa0ea0-6f49-46f9-90e3-a73c9fd8c343",
+   "image_url": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m322d406d00def40dc8177a84cfd50a320",
+   "license": "CC0",
+   "creator": "Smithsonian National Museum of Natural History",
+   "credit": "Smithsonian National Museum of Natural History, CC0",
+   "title": "Andesine (var. sunstone)"
+  },
+  "visual": "Andesine var. sunstone, red trillion on white cloth (Tibet; possible treatment).",
+  "brightness": "Brighter background, but deep red.",
+  "confidence": "medium",
+  "source": ""
+ }
+}

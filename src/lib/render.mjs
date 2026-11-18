@@ -5,19 +5,39 @@ import { parsePhotoComments, photoFolder, findPhotoFile } from './photos.mjs';
 import { PHOTO_FILES, PHOTO_PATHS, figureHtml } from './images.mjs';
 import { INTENTIONS } from './ui.mjs';
 import tiers from '../data/source_tiers.json';
+import picks from '../data/photo_picks.json';
 import intents from '../data/intent_rankings.json';
 import stonesIndex from '../data/stones.json';
 
 export const policy = makeSourcePolicy(tiers);
 export { intents, stonesIndex };
 
+/** The checked hero of a page, src/assets/photos/<page id>/hero.* with its credit from picks.json. */
+export function pickedHero(page) {
+  const pick = picks[page.id];
+  if (!pick || !pick.credit) return null;
+  const path = ['jpg', 'jpeg', 'png', 'webp'].map((e) => `/src/assets/photos/${page.id}/hero.${e}`).find((p) => PHOTO_PATHS.has(p));
+  if (!path) return null;
+  return { path, meta: PHOTO_FILES.get(path), credit: pick.credit, page: pick.page_url || null, license: pick.license || null, alt: pick.alt_text || (pick.visual ? pick.visual.split(/[;.]/)[0].trim() : '') };
+}
+
 /** Photo notes of a page with their files, when the files exist. */
 export function photosOf(page) {
   const folder = photoFolder(page);
-  return parsePhotoComments(page.body).map((p) => {
-    const file = p.usable ? findPhotoFile(folder, p, PHOTO_PATHS) : null;
-    return { ...p, file, meta: file ? PHOTO_FILES.get(file) : null };
+  const picked = pickedHero(page);
+  const list = parsePhotoComments(page.body).map((p) => {
+    if (p.hero && picked) {
+      // The checked photo in site/photos wins over the note's own image.
+      const alt = p.file && p.file.includes(`site/photos/${page.id}/hero`) && p.alt ? p.alt : picked.alt;
+      return { ...p, usable: true, image: null, page: picked.page, credit: picked.credit, caption: null, license: picked.license, alt, assetFile: picked.path, meta: picked.meta };
+    }
+    const asset = p.usable ? findPhotoFile(folder, p, PHOTO_PATHS) : null;
+    return { ...p, assetFile: asset, meta: asset ? PHOTO_FILES.get(asset) : null };
   });
+  if (picked && !list.some((p) => p.hero)) {
+    list.unshift({ role: 'hero', hero: true, usable: true, raw: '', page: picked.page, credit: picked.credit, license: picked.license, alt: picked.alt, assetFile: picked.path, meta: picked.meta });
+  }
+  return list;
 }
 
 let thumbCache = null;
@@ -88,7 +108,7 @@ export async function renderPage(page, site) {
     },
   };
   const doc = await renderDocument(page, ctx);
-  doc.heroHtml = doc.hero ? heroHtml : null;
+  doc.heroHtml = heroHtml || null;
   doc.photos = photos;
   doc.pair = pair;
   return doc;

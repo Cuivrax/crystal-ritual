@@ -9,7 +9,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-06"
 publishTime: "07:00"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/"
@@ -116,7 +116,7 @@ Crystal guides also mention real-life moments. People give it to mark a new rela
 
 Some associations are rare and you can skip them, like lucky numbers, a feng shui "fame corner" or the claim that tourmaline did not form on Earth. That last one we can check, and the pegmatites of Maine and Minas Gerais say otherwise.
 
-A few sites go much further and list heart, skin or hormone conditions. Nothing in the mineral or medical sources behind this page supports those claims, and even Gem Rock Auctions, which sells the stone, states that there is no scientific evidence it can treat or cure medical conditions.
+A few sites go much further and list heart, skin or hormone conditions. No mineral or medical reference we know of supports those claims, and even Gem Rock Auctions, which sells the stone, states that there is no scientific evidence it can treat or cure medical conditions.
 
 ## How to Use Pink Tourmaline in Everyday Life
 
@@ -146,7 +146,7 @@ A few sites go much further and list heart, skin or hormone conditions. Nothing 
 
 ## Is My Pink Tourmaline Real?
 
-We use the same five labels on every stone. Here is where pink tourmaline stands on each, and where our data still has gaps.
+We use the same five labels on every stone. Here is where pink tourmaline stands on each, and where the evidence is thin.
 
 - **Natural, untreated.** A pink stone straight from the ground. We found no reliable figure for how much of the pink tourmaline sold in the US is untreated. For the darker rubellite end, the [International Gem Society](https://www.gemsociety.org/article/rubellite-jewelry-and-gemstone-information/) advises assuming every stone is treated, because irradiation can turn pale pink a stable red and cannot be detected, even though some stones are untreated.
 - **Natural, treated.** Kunz recorded foil, paste and dye used to deepen pink stones in 1915. Today heat and irradiation are common, often undetectable color treatments for tourmaline (Geology.com), and irradiated color may fade with heat or bright light (International Gem Society).
@@ -206,7 +206,7 @@ For a pink stone, GIA's quality factors come down to color intensity and tone, c
 - Book year for *The Book of Stones* (2005) from its [Open Library record](https://openlibrary.org/books/OL8518534M)
 - Melis Yilmaz Balban and colleagues, "Brief Structured Respiration Practices Enhance Mood and Reduce Physiological Arousal," *Cell Reports Medicine*, 2023, [DOI 10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)
 - 988 Suicide & Crisis Lifeline contact details from [988lifeline.org](https://988lifeline.org/) and [SAMHSA](https://www.samhsa.gov/mental-health/988)
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

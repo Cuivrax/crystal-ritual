@@ -1,4 +1,14 @@
 ---
-const { page } = Astro.props;
+// The small Tonight's Moon panel of the home page, the strip sits in the home layout.
 ---
-<div data-tool="MoonMini"></div>
+<div class="moon-mini" data-moon-mini>
+  <div class="moon-mini-disc"><div class="moon-halo" aria-hidden="true"></div><div data-mini-moon></div></div>
+  <div class="moon-mini-text">
+    <p class="moon-mini-date" data-mini-date></p>
+    <p class="moon-mini-phase" data-mini-phase>&nbsp;</p>
+    <p class="moon-mini-pct" data-mini-pct></p>
+    <p class="moon-mini-next" data-mini-next></p>
+  </div>
+  <noscript><p class="moon-mini-pct">The moon panel works out the sky in your browser and needs JavaScript turned on.</p></noscript>
+</div>
+<script>import '../../scripts/moon-tools.js';</script>

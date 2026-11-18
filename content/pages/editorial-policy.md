@@ -66,7 +66,7 @@ Every stone page uses the same five labels for what a stone really is.
 - **Never instead of care.** Nothing here suggests replacing or delaying medical care, medication or vet care.
 - **Crystal water.** We describe only the indirect method, with the stone beside the jar or sealed in a small inner glass, and only for stones our care data lists as both non-toxic and stable in water. We always name the stones that must never go in water you drink, malachite, azurite, chrysocolla, pyrite, galena, cinnabar, stibnite, realgar, orpiment, and any dyed or stabilized stone.
 - **Small stones and children.** Tumbled stones and bead bracelets are not toys. Amber teething necklaces get an explicit warning. The US Food and Drug Administration warned parents and caregivers against teething jewelry in December 2018, as [News-Medical reported at the time](https://www.news-medical.net/news/20181221/FDA-warns-against-use-of-jewelry-to-relieve-teething-pain-in-children.aspx). Its consumer advice still cites reports of deaths and serious injuries to infants and children, including strangulation and choking, caused by teething jewelry such as amber teething necklaces ([FDA](https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children)).
-- **Radioactive jewelry.** Where it matters, we mention the December 2021 warning from the Dutch nuclear safety authority (ANVS) about radioactive "negative ion" and "quantum" pendants.
+- **Radioactive jewelry.** Where it matters, we mention the [December 2021 warning](https://english.autoriteitnvs.nl/latest/news/2021/12/16/do-you-have-a-quantum-pendant-anti-5g-pendant-or-a-negative-ion-jewellery-item-or-sleep-mask-if-so-store-it-away-safely) from the Dutch nuclear safety authority (ANVS) about radioactive "negative ion" and "quantum" pendants.
 
 ## Care & Safety Data
 
@@ -86,7 +86,7 @@ Mineral facts link to reference sources such as GIA and the International Gem So
 
 ## Corrections
 
-Found a mistake? Tell us through the [contact page](/contact/), with the page address and, if you can, a source. We check every report against reference sources. When we fix a factual error, we add a short dated correction note at the end of the page. Typos and broken links are fixed without a note.
+Found a mistake? The [contact page](/contact/) lists what to include, such as the page address and, if you can, a source. We check every report against reference sources. When we fix a factual error, we add a short dated correction note at the end of the page. Typos and broken links are fixed without a note.
 
 Every page shows the date it was last reviewed.
 

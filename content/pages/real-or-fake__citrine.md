@@ -11,7 +11,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-06"
 publishTime: "07:00"
-status: "draft"
+status: "verified"
 page_type: "guide"
 sources:
   - "https://www.gia.edu/citrine/gem-overview"
@@ -24,18 +24,25 @@ sources:
   - "https://www.minerals.net/mineral/citrine"
   - "https://www.minerals.net/gemstone/citrine"
   - "https://gem-a.com/gem-hub/testing-rare-natural-citrine/"
-  - "https://en.wikipedia.org/wiki/Citrine"
   - "https://www.gutenberg.org/ebooks/57978"
+  - "https://www.gia.edu/dam/jcr:d51cfb7e-ebf0-41f4-833a-0fe8a0254e13/ColoredStones_FeeSchedule_MASTER_Q3%202026%20Revisedv2_USD.pdf"
+  - "https://www.mineralminers.com/html/citpolx.stm"
+  - "https://www.mandalagems.com/products/raw-natural-citrine-from-the-congo-not-heat-treated-copy"
+  - "https://www.gemselect.com/citrine/7-55-carat-yellow-citrine-pear-shape-loose-natural-gemstones-brazil-508372.php"
+  - "https://www.gemselect.com/citrine/1-57-carat-yellow-citrine-square-loose-natural-gemstones-brazil-514072.php"
+  - "https://www.gemselect.com/citrine/0-65-carat-yellow-citrine-pear-shape-loose-natural-gemstones-brazil-546443.php"
 ---
 
 # Real Citrine vs Heated Amethyst & How to Tell
 
 Most citrine on the market is amethyst that was heated until its purple turned yellow, orange or reddish brown, according to GIA. Natural citrine is rare and usually paler and more evenly colored, while heated amethyst tends toward deep orange with a reddish tint and color packed into the crystal tips. Both are real quartz, and nobody can tell them apart with certainty from a photo.
 
-<!-- PHOTO HERO, a pair side by side. [TO CHECK] Best option is an owner photo of a natural citrine point and a heated amethyst cluster in the same light, on a white card. Until then, the two Commons files below, both visual_check ok, visual_use secondary.
-LEFT. Wikimedia Commons, "File Citrine 1 (Russie).jpg", by Parent Géry. Page https://commons.wikimedia.org/wiki/File:Citrine_1_(Russie).jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Citrine_1_%28Russie%29.jpg/1280px-Citrine_1_%28Russie%29.jpg (tracking parameters removed). License Public domain. Credit line "Photo Parent Géry, public domain, via Wikimedia Commons". Wikipedia's citrine article captions this file "Twinned natural citrine crystals from Russia" [TO CHECK, the natural color is Wikipedia's caption, not a lab report]. Alt text "Pale yellow citrine crystal point from Russia on a dark background".
-RIGHT. Wikimedia Commons, "File Citrine. Bahia, Brazil-8845.jpg", by Raimond Spekking. Page https://commons.wikimedia.org/wiki/File:Citrine._Bahia,_Brazil-8845.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Citrine._Bahia%2C_Brazil-8845.jpg/1280px-Citrine._Bahia%2C_Brazil-8845.jpg (tracking parameters removed). License CC BY-SA 4.0. Credit line "Photo Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons". Wikipedia's citrine article captions this file as a "citrine" crystal that is heat-treated amethyst [TO CHECK, same caveat]. Alt text "Yellow to orange quartz crystal from Bahia, Brazil, sold as citrine".
+<!-- PHOTO HERO, a pair side by side. Best option is an owner photo of a natural citrine point and a heated amethyst cluster in the same light, on a white card. Until then, the two Commons files below, both visual_check ok, visual_use secondary.
+LEFT. Wikimedia Commons, "File Citrine 1 (Russie).jpg", by Parent Géry. Page https://commons.wikimedia.org/wiki/File:Citrine_1_(Russie).jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Citrine_1_%28Russie%29.jpg/1280px-Citrine_1_%28Russie%29.jpg (tracking parameters removed). License Public domain. Credit line "Photo Parent Géry, public domain, via Wikimedia Commons". Wikipedia's citrine article captions this file "Twinned natural citrine crystals from Russia" (the natural color is Wikipedia's caption, not a lab report). Alt text "Pale yellow citrine crystal point from Russia on a dark background".
+RIGHT. Wikimedia Commons, "File Citrine. Bahia, Brazil-8845.jpg", by Raimond Spekking. Page https://commons.wikimedia.org/wiki/File:Citrine._Bahia,_Brazil-8845.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Citrine._Bahia%2C_Brazil-8845.jpg/1280px-Citrine._Bahia%2C_Brazil-8845.jpg (tracking parameters removed). License CC BY-SA 4.0. Credit line "Photo Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons". Wikipedia's citrine article captions this file as a "citrine" crystal that is heat-treated amethyst (same caveat). Alt text "Yellow to orange quartz crystal from Bahia, Brazil, sold as citrine".
 Suggested visible caption, attributed "Left, crystals Wikipedia's citrine article shows as natural citrine. Right, a crystal the same article shows as heat-treated amethyst." -->
+
+<!-- OWNER Hero pair. Either shoot your own natural citrine point and heated amethyst cluster in the same light, or approve the two Commons files, whose natural and heated labels rest on Wikipedia captions, not a lab report. The suggested caption above names Wikipedia, which visible text must not do, so the photo pass needs a neutral caption such as "Left, crystals described as natural citrine. Right, a crystal described as heat-treated amethyst." -->
 
 ## Natural Citrine vs Heated Amethyst at a Glance
 
@@ -74,7 +81,7 @@ Natural citrine is yellow to orange-yellow and comes in much lighter hues than h
 
 ### 2. Check Where the Color Sits
 
-Heated amethyst keeps the color pattern of amethyst, concentrated at the top of each crystal and weaker at the base, while natural citrine is much more evenly colored throughout ([Gem-A](https://gem-a.com/gem-hub/testing-rare-natural-citrine/)). On a cluster or a geode piece, look at the roots. Deep orange tips over a pale or white base is the pattern Wikipedia's citrine article also describes for heated geodes.
+Heated amethyst keeps the color pattern of amethyst, concentrated at the top of each crystal and weaker at the base, while natural citrine is much more evenly colored throughout ([Gem-A](https://gem-a.com/gem-hub/testing-rare-natural-citrine/)). On a cluster or a geode piece, look at the roots. Deep orange tips over a pale or white base fit that heated pattern.
 
 **The limit.** This only works on crystals with their base intact. A tumbled stone or a cut gem has lost the base, and fine citrine shows no visible color zoning at all ([International Gem Society](https://www.gemsociety.org/article/is-citrine-expensive/)).
 
@@ -94,13 +101,13 @@ A dichroscope is a small viewer that shows whether a stone splits light into two
 
 No. Light, camera settings and screens all shift yellow and orange, and the strongest clues need the stone in hand. A photo of a cluster with orange tips and a white base makes heated amethyst very likely. A photo can never prove a stone is natural.
 
-<!-- PHOTO 2, beside "Check Where the Color Sits". Wikimedia Commons, "File Quartz vat Citrine NHMLA.png", by Eric Polk. Page https://commons.wikimedia.org/wiki/File:Quartz_vat_Citrine_NHMLA.png . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Quartz_vat_Citrine_NHMLA.png/1280px-Quartz_vat_Citrine_NHMLA.png (tracking parameters removed). License CC BY-SA 4.0. Credit line "Photo Eric Polk, CC BY-SA 4.0, via Wikimedia Commons". Commons description "Sample of Citrine collected from Rio Grande do Sul, Brazil", on display at the Natural History Museum of Los Angeles County. visual_check ok ("raw cluster with orange-red tips on white"), visual_use secondary. [TO CHECK] Do not caption it as heated amethyst, the museum labels it citrine. Neutral caption "A cluster labeled citrine, with its color concentrated at the tips." Alt text "Quartz cluster with orange-red crystal tips and pale bases, labeled citrine". -->
+<!-- PHOTO 2, beside "Check Where the Color Sits". Wikimedia Commons, "File Quartz vat Citrine NHMLA.png", by Eric Polk. Page https://commons.wikimedia.org/wiki/File:Quartz_vat_Citrine_NHMLA.png . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Quartz_vat_Citrine_NHMLA.png/1280px-Quartz_vat_Citrine_NHMLA.png (tracking parameters removed). License CC BY-SA 4.0. Credit line "Photo Eric Polk, CC BY-SA 4.0, via Wikimedia Commons". Commons description "Sample of Citrine collected from Rio Grande do Sul, Brazil", on display at the Natural History Museum of Los Angeles County. visual_check ok ("raw cluster with orange-red tips on white"), visual_use secondary. Caption rule, do not caption it as heated amethyst, the museum labels it citrine. Neutral caption "A cluster labeled citrine, with its color concentrated at the tips." Alt text "Quartz cluster with orange-red crystal tips and pale bases, labeled citrine". -->
 
 ## What a Gem Lab Can Tell
 
 Many gem labs have instruments that reliably separate natural citrine from synthetic, and Geology.com notes the test can often be done for less than $100. That matters because lab-grown citrine has so few inclusions that a gemologist with traditional tools may not be able to tell it from natural ([Geology.com](https://geology.com/gemstones/citrine/)).
 
-For heated versus natural, a gemologist works with the clues above, dichroism and the inclusions amethyst leaves behind ([Gem-A](https://gem-a.com/gem-hub/testing-rare-natural-citrine/)). There is no simple way to test citrine's iron content ([International Gem Society](https://www.gemsociety.org/article/citrine-jewelry-gemstone-information/)). [TO CHECK whether standard US lab reports state heat treatment for citrine, and their current fees.] A report is worth it when you are paying extra for natural color. For an everyday tumbled stone, the clues above are enough to decide what you are happy to pay.
+For heated versus natural, a gemologist works with the clues above, dichroism and the inclusions amethyst leaves behind ([Gem-A](https://gem-a.com/gem-hub/testing-rare-natural-citrine/)). There is no simple way to test citrine's iron content ([International Gem Society](https://www.gemsociety.org/article/citrine-jewelry-gemstone-information/)). A GIA Colored Stone Identification Report describes the type of gemstone, whether it is natural or laboratory-grown, and any detectable treatments, so heat appears on it only when the lab can detect it. For quartz under 15 carats, GIA's US fee schedule effective July 1, 2026 lists $75 per stone, plus shipping and handling ([GIA](https://www.gia.edu/dam/jcr:d51cfb7e-ebf0-41f4-833a-0fe8a0254e13/ColoredStones_FeeSchedule_MASTER_Q3%202026%20Revisedv2_USD.pdf)). A report is worth it when you are paying extra for natural color. For an everyday tumbled stone, the clues above are enough to decide what you are happy to pay.
 
 ## Other Things Sold as Citrine
 
@@ -135,7 +142,9 @@ What does not change is the stone. Heated or not, it is quartz, hardness 7, colo
 
 Even fine citrine has a modest price tag, and price per carat does not rise dramatically for larger sizes ([GIA](https://www.gia.edu/citrine/gem-overview)). Because heating is so common, it does not lower the value. Color drives the price more than anything else, rich golden stones are worth much more than watery or pale ones, and stones with uneven color are discounted heavily ([International Gem Society](https://www.gemsociety.org/article/is-citrine-expensive/)).
 
-The practical rule follows from that. The International Gem Society says it is safe to assume citrine is treated unless it is explicitly stated that it is not. Pay the normal citrine price for heated amethyst, and pay a natural premium only with something in writing. [TO CHECK typical US retail ranges for tumbled stones, points, clusters and faceted citrine, with a dated source.]
+The practical rule follows from that. The International Gem Society says it is safe to assume citrine is treated unless it is explicitly stated that it is not. Pay the normal citrine price for heated amethyst, and pay a natural premium only with something in writing.
+
+Polished points sold as natural, unheated citrine ran about $25 for a 1 inch point to about $105 for a 1.8 inch one. Raw pieces sold as natural, untreated citrine ran about $30 for a 31 to 40 gram piece to about $59 for one about 2.3 inches long. Faceted citrine whose listings stated no treatment either way ran about $3 for a 0.65 carat stone to about $48 for a 7.55 carat stone. The word natural on those listings is the seller's claim, which is why the receipt matters. Prices from online listings in US dollars, November 2026.
 
 Three questions to ask the seller.
 
@@ -145,19 +154,19 @@ Three questions to ask the seller.
 
 ## How to Care for Citrine
 
-Heated or natural, citrine takes a rinse with warm, soapy water ([GIA](https://www.gia.edu/citrine-care-cleaning)), but our sources do not cover a long soak, so the [Care Checker](/tools/crystal-care-checker/) rates soaking Brief Only. It rates sunlight Brief Only too, so keep sun sessions short and do not leave it on a sunny windowsill, since some citrine color can fade with prolonged exposure to intense light. Keep it away from heat as well. Heat-treated stones may fade when exposed to heat, so skip steam cleaning and boiling ([International Gem Society](https://www.gemsociety.org/article/citrine-jewelry-gemstone-information/)), and abrupt temperature changes can make citrine fracture ([GIA](https://www.gia.edu/citrine-care-cleaning)). Our sources say nothing yet about salt. Handling it is safe. The quartz dust risk the International Gem Society lists is for cutting and polishing, not for wearing or holding a stone ([IGS](https://www.gemsociety.org/article/gemstone-care-guide/)).
+Heated or natural, citrine takes a rinse with warm, soapy water ([GIA](https://www.gia.edu/citrine-care-cleaning)), but that is a wash, not a long soak, so the [Care Checker](/tools/crystal-care-checker/) rates soaking Brief Only. It rates sunlight Brief Only too, so keep sun sessions short and do not leave it on a sunny windowsill, since some citrine color can fade with prolonged exposure to intense light. Keep it away from heat as well. Heat-treated stones may fade when exposed to heat, so skip steam cleaning and boiling ([International Gem Society](https://www.gemsociety.org/article/citrine-jewelry-gemstone-information/)), and abrupt temperature changes can make citrine fracture ([GIA](https://www.gia.edu/citrine-care-cleaning)). The Care Checker has no salt rating for it yet. Handling it is safe. The quartz dust risk the International Gem Society lists is for cutting and polishing, not for wearing or holding a stone ([IGS](https://www.gemsociety.org/article/gemstone-care-guide/)).
 
 ## Sources
 
-- GIA, [Citrine gem overview](https://www.gia.edu/citrine/gem-overview), [Citrine Description](https://www.gia.edu/citrine-description) and [Citrine Care and Cleaning](https://www.gia.edu/citrine-care-cleaning)
+- GIA, [Citrine gem overview](https://www.gia.edu/citrine/gem-overview), [Citrine Description](https://www.gia.edu/citrine-description), [Citrine Care and Cleaning](https://www.gia.edu/citrine-care-cleaning) and [Colored Stone Services fee schedule](https://www.gia.edu/dam/jcr:d51cfb7e-ebf0-41f4-833a-0fe8a0254e13/ColoredStones_FeeSchedule_MASTER_Q3%202026%20Revisedv2_USD.pdf) (US dollars, effective July 1, 2026)
+- Online retail listings in US dollars for citrine points, raw pieces and faceted stones at two crystal shops and one gem dealer, read November 18, 2026
 - International Gem Society, [Citrine Value, Price, and Jewelry Information](https://www.gemsociety.org/article/citrine-jewelry-gemstone-information/), Emily Frontiere, [Is Citrine Expensive?](https://www.gemsociety.org/article/is-citrine-expensive/) (updated January 26, 2026), and the [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Hobart M. King, Geology.com, [Citrine](https://geology.com/gemstones/citrine/)
 - Minerals.net, [Citrine, the mineral](https://www.minerals.net/mineral/citrine) and [Citrine, the gemstone](https://www.minerals.net/gemstone/citrine)
 - Juliette Hibou, Gem-A, [Understanding and Testing for Rare Natural Citrine](https://gem-a.com/gem-hub/testing-rare-natural-citrine/) (July 1, 2022)
-- Wikipedia, [Citrine](https://en.wikipedia.org/wiki/Citrine), used as a pointer only
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 154 to 155, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
-- Modern associations and beliefs about heated citrine compared across the crystal guides in our lore collection, including personare.com.br and edelsteine.net, read November 12, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

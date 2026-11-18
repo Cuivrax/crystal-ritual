@@ -21,7 +21,12 @@ sources:
   - "https://geology.com/gemstones/opal/common-opal.shtml"
   - "https://www.gemdat.org/gem-28956.html"
   - "https://boa.unimib.it/handle/10281/694"
-  - "https://en.wikipedia.org/wiki/Opal"
+  - "https://doi.org/10.1127/0935-1221/2004/0016-0743"
+  - "https://www.gia.edu/articles/winter-2017-gemnews-update-dyed-hydrophane-opal"
+  - "https://geology.com/gemstones/opal/synthetic-opal.shtml"
+  - "https://geology.com/gemstones/opal/imitation-opal.shtml"
+  - "https://cnmnc.units.it/"
+  - "https://openlibrary.org/books/OL8518534M"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
   - "https://www.americangemsociety.org/birthstones/"
@@ -30,7 +35,10 @@ sources:
   - "https://www.gemsociety.org/article/rhodochrosite-jewelry-and-gemstone-information/"
   - "https://www.gemsociety.org/article/coral-jewelry-and-gemstone-information/"
   - "https://doi.org/10.1016/j.xcrm.2022.100895"
-  - "https://www.samhsa.gov/sites/default/files/988-factsheet.pdf"
+  - "https://988lifeline.org/"
+  - "https://www.samhsa.gov/mental-health/988"
+  - "https://www.satincrystals.com/products/pink-opal-tumbled"
+  - "https://www.crystalvaults.com/shop-crystals/900297/"
   - "https://www.crystals.com/pages/crystals/pink-opal"
   - "https://www.crystals.com/blogs/news/opal-crystal-meaning-benefits-and-how-to-use-it"
   - "https://www.jewelsforme.com/pink_opal-meaning"
@@ -53,7 +61,7 @@ Pink opal is a pastel pink common opal, best known from Peru, without the rainbo
 | Fact | Pink opal |
 |---|---|
 | What it is | Pink common opal (no play-of-color), mixed with palygorskite and a little chalcedony |
-| Mineral group | Opal, a mineraloid with no crystal structure, listed on the IMA List of Minerals (July 2026) |
+| Mineral group | Opal, a mineraloid with no crystal structure, listed on the [IMA List of Minerals](https://cnmnc.units.it/) (July 2026 edition) |
 | Formula | Hydrated silica, SiO₂ with variable water |
 | Mohs hardness | 6 (opal in general 5 to 6.5) |
 | Specific gravity | 2.0 to 2.2 for opal in general |
@@ -66,8 +74,8 @@ Pink opal is a pastel pink common opal, best known from Peru, without the rainbo
 | Heat | Avoid |
 | Salt | Avoid (provisional) |
 | Toxic to handle | No. Cutting dust is a silicosis hazard |
-| Common fakes | [TO CHECK] Glass and plastic imitate opal in general |
-| Price range | Affordable [TO CHECK US retail ranges] |
+| Common fakes | Glass, resin and plastic imitate opal in general. GIA has reported dyed pink opal |
+| Price range | Affordable, see the Price Guide |
 | Birthstone | October (opal in general) |
 | Chakra (Modern Association) | Heart |
 
@@ -81,7 +89,7 @@ Pink opal is not pure opal either. The gem database [Gemdat](https://www.gemdat.
 
 ### What Makes It Pink?
 
-The pink comes from organic compounds called quinones, according to Gemdat, which cites a 2004 study by Fritsch and colleagues [TO CHECK DOI of the Fritsch 2004 paper]. The Acarí study tentatively links the pink to biogenic compounds such as carotenoids and quinones and possibly to iron. Shop guides disagree, one crediting manganese and another palygorskite. Our reference sources point to the organic molecules.
+The pink comes from organic compounds called quinones, according to Gemdat, which cites a 2004 study by Emmanuel Fritsch and colleagues. That lab study of pink opals from Mexico and Peru found 10 to 40 percent palygorskite and a light absorption centered near 500 nanometers, which the authors proposed comes from quinone fossil products tied to the palygorskite fibers ([*European Journal of Mineralogy*, 2004](https://doi.org/10.1127/0935-1221/2004/0016-0743)). It is a proposed cause, not a proven one. The Acarí study tentatively links the pink to biogenic compounds such as carotenoids and quinones and possibly to iron. Shop guides disagree, one crediting manganese and another palygorskite. Both lab studies point mainly to the organic molecules.
 
 ### Water Inside the Stone
 
@@ -102,7 +110,7 @@ Common opal often forms around volcanic ashfalls or under dry climates, where sc
 - **Around 1600.** **Tradition.** In *Twelfth Night*, Shakespeare's clown tells the Duke "thy mind is very opal," a picture of a changeable mind (Kunz 1913, pages 150 to 151). One shop page claims Shakespeare was fond of pink opal. Pink common opal has no shifting colors, so the line fits it less than most opals.
 - **1829.** **Tradition.** Walter Scott's novel *Anne of Geierstein* gave opal its unlucky reputation (GIA). Kunz blamed a careless reading, and also cutters who often broke the brittle stone and came to see it as unlucky (1913, pages 143 to 144 and 152).
 - **Victorian era.** **Tradition.** Queen Victoria helped make opals fashionable again, and they became favorite bridal gifts (*The Magic of Jewels and Charms*, 1915, page 375).
-- **Today.** **Modern Association.** The gentle love meaning of pink opal is modern. A shop guide credits *The Book of Stones* by Robert Simmons and Naisha Ahsian with its tension-easing reputation ([Navratan](https://www.navratan.com/blog/pink-opal-healing-properties)) [TO CHECK edition and year].
+- **Today.** **Modern Association.** The gentle love meaning of pink opal is modern. A shop guide credits *The Book of Stones* by Robert Simmons and Naisha Ahsian, first published in 2005, with its tension-easing reputation ([Navratan](https://www.navratan.com/blog/pink-opal-healing-properties)).
 
 ### What About the Inca Legends?
 
@@ -112,7 +120,7 @@ Several sellers say the Incas revered pink opal as a sacred gift from Pachamama,
 
 ### What Does Pink Opal Mean?
 
-**Modern Association.** In modern crystal practice, pink opal means gentle love, calm and emotional healing. In the guides we compared it is a Classic stone for [love](/crystals-for/love/), and it is linked to the heart chakra and to self-love, peace and comfort after heartbreak ([Crystals.com](https://www.crystals.com/pages/crystals/pink-opal), [Jewels for Me](https://www.jewelsforme.com/pink_opal-meaning)). Sellers also call it the Stone of Resolution or the Stone of Spiritual Awakening.
+**Modern Association.** In modern crystal practice, pink opal means gentle love, calm and emotional healing. In modern crystal guides it is a Classic stone for [love](/crystals-for/love/), and it is linked to the heart chakra and to self-love, peace and comfort after heartbreak ([Crystals.com](https://www.crystals.com/pages/crystals/pink-opal), [Jewels for Me](https://www.jewelsforme.com/pink_opal-meaning)). Sellers also call it the Stone of Resolution or the Stone of Spiritual Awakening.
 
 The "why" is color and texture. Soft pink reads as affection, and the stone's pastel, candy-like look even earned it the nickname "candy stone" ([GomGG](https://www.gomggsale.com/blogs/news/what-is-pink-opal)). In Japan, one gem magazine notes that it is called the Cupid Stone and sold as a stone for finding love ([Brand Revalue](https://brandrevalue.com/rnm/gem-article73)).
 
@@ -136,18 +144,18 @@ Rarer links include Cancer and Capricorn as signs and Venus as a planet. Some gu
 
 **Safety.** Small tumbled stones and bead bracelets are not toys. Keep them away from small children and pets who might swallow them.
 
-**What Research Says.** In a 2023 randomized study at Stanford, 108 adults did 5 minutes a day of breathing exercises or mindfulness meditation for 28 days, and cyclic sighing improved mood more than meditation did (Balban and colleagues, *Cell Reports Medicine*, [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)). The groups were small, the study lasted four weeks, and it involved no stones.
+**What Research Says.** In a remote randomized study of 108 adults, 5 minutes a day of breathwork for a month, especially exhale-focused cyclic sighing, improved mood and lowered breathing rate more than the same time spent in mindfulness meditation (Balban and colleagues, *Cell Reports Medicine*, 2023, [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)). It began as an exploratory study, volunteers knew which exercise they were doing and rated their own mood, and it tested breathing, not stones.
 
-> **When a Stone Is Not Enough.** Pink opal is often chosen for grief, heartbreak, anxiety and sleep, and sometimes for a worried child. A stone can be a comfort to hold, but it is not care. If sadness, anxiety or poor sleep lasts or feels heavy, talk to a doctor or a therapist, and bring a child's fears to their pediatrician. If you are in crisis in the US, call or text 988 or chat at 988lifeline.org, any time of day ([SAMHSA](https://www.samhsa.gov/sites/default/files/988-factsheet.pdf)).
+> **When a Stone Is Not Enough.** Pink opal is often chosen for grief, heartbreak, anxiety and sleep, and sometimes for a worried child. A stone can be a comfort to hold, but it is not care. If sadness, anxiety or poor sleep lasts or feels heavy, talk to a doctor or a therapist, and bring a child's fears to their pediatrician. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
 
 ## Is My Pink Opal Real?
 
 We use the same five labels on every stone.
 
 - **Natural, untreated.** Peruvian common opal reaches the market as beads, cabochons and tumbled stones (Geology.com). When Geology.com doubted the color of a green Peruvian bead, GIA identified it as natural opal.
-- **Natural, treated.** Opal in general can be impregnated with oil, wax or plastic, or sugar and smoke treated ([GIA](https://www.gia.edu/gems-gemology/opal-care-cleaning)), and enhancements should be disclosed (International Gem Society). [TO CHECK treatments used on pink opal.]
-- **Lab-grown.** Lab-grown opals exist and are real opal (International Gem Society). [TO CHECK whether lab-grown pink common opal is sold.]
-- **Imitation.** Opal imitations are usually plastic or glass (International Gem Society). [TO CHECK which imitations are sold as pink opal.]
+- **Natural, treated.** Opal in general can be impregnated with oil, wax or plastic, or sugar and smoke treated ([GIA](https://www.gia.edu/gems-gemology/opal-care-cleaning)), and enhancements should be disclosed (International Gem Society). GIA has also reported white hydrophane opal, likely from Ethiopia, dyed vivid pink and blue and reportedly sold to a designer as a new find from Mexico, with the dye gathered around pits and scratches on the surface (Boehm and Renfro, [*Gems & Gemology*, 2017](https://www.gia.edu/articles/winter-2017-gemnews-update-dyed-hydrophane-opal)). Those stones showed play-of-color, so they were not pastel common opal. We found no reference source on treated Peruvian pink opal.
+- **Lab-grown.** Lab-grown opals exist and are real opal (International Gem Society), made in a wide range of colors and patterns ([Geology.com](https://geology.com/gemstones/opal/synthetic-opal.shtml)). We found no reference source on a lab-grown version of pastel pink common opal.
+- **Imitation.** Opal imitations are usually plastic or glass (International Gem Society), and Geology.com names opalescent glass as one of the most common ([Imitation Opal](https://geology.com/gemstones/opal/imitation-opal.shtml)). We found no reference source on imitations made to pass as pink common opal.
 - **Trade names.** "Peruvian opal" honestly covers Peru's pink, blue and green common opal (Geology.com), and shops also say "Andean opal." "Opalite" usually means a glass or plastic simulant (International Gem Society). See [opal vs opalite](/compare/opal-vs-opalite/).
 
 Three checks you can do at home, with their limits.
@@ -166,18 +174,18 @@ Three questions for the seller. Is this natural opal, and was it treated? Where 
 - **Sun.** Brief only. Heat from intense light can cause fine fracture lines called crazing (GIA).
 - **Heat.** Avoid. High heat or sudden temperature changes can fracture opal (GIA).
 - **Chemicals.** Avoid. Hydrofluoric acid and caustic alkaline solutions attack opal (GIA).
-- **Salt.** Avoid. [Wikipedia](https://en.wikipedia.org/wiki/Opal) lists hot salt water among the things that dissolve opal. This rating rests on Wikipedia alone, so treat it as provisional.
+- **Salt.** Avoid. Hot salt water is often listed among the things that dissolve opal, and a salt soak adds the moisture opal is sensitive to (International Gem Society). Treat this rating as provisional.
 - **Cleaning.** Warm soapy water is the only safe way, says GIA, with a soft brush (International Gem Society).
 - **Storage.** Keep it apart from harder stones, and take a pink opal ring off for gardening, gym sessions or anything rough (Geology.com).
 - **Toxicity.** OK to handle. The International Gem Society [toxicity table](https://www.gemsociety.org/article/gemstone-care-guide/) rates opal Low, and its silicosis hazard concerns cutting dust.
 
 ### Should You Store Pink Opal in Water?
 
-No. Some shops advise storing pink opal in water or damp cotton, or soaking it for 3 hours to cleanse it. Our care data rates water and soaking as Brief only, because opal is sensitive to moisture. The worry behind the advice is real for some opal, since Kunz noted that opals slowly lose their water and some Mexican opals lost their color within a few years (1913, page 146). Our sources describe no benefit from water storage for pink opal, so keep it dry, cool and steady.
+No. Some shops advise storing pink opal in water or damp cotton, or soaking it for 3 hours to cleanse it. Our care data rates water and soaking as Brief only, because opal is sensitive to moisture. The worry behind the advice is real for some opal, since Kunz noted that opals slowly lose their water and some Mexican opals lost their color within a few years (1913, page 146). We found no reference source describing any benefit from water storage for pink opal, so keep it dry, cool and steady.
 
 ### Does Pink Opal Fade in the Sun?
 
-Our sources cannot say whether the pink fades. They do say intense light can heat opal enough to craze it (GIA), so the Care Checker rates sun as Brief only. One seller warns that long direct sun may fade pink opal (Gem Agency). If yours paled on a sunny sill, light and heat are the first suspects. No source we have documents dyed pink opal, though. [TO CHECK]
+We found no reference source on whether natural pink opal fades. GIA does say intense light can heat opal enough to craze it, so the Care Checker rates sun as Brief only. One seller warns that long direct sun may fade pink opal (Gem Agency). If yours paled on a sunny sill, light and heat are the first suspects. Dyed pink opal does exist, and in GIA's tests the pink dye in treated hydrophane opal faded to very light pink in hydrogen peroxide, though GIA reported no sunlight test (*Gems & Gemology*, 2017).
 
 ### Cleansing Pink Opal
 
@@ -201,7 +209,7 @@ Shop guides suggest moonlight, sound and smoke for cleansing ([Camille Ambiance 
 
 Geology.com calls common opal underappreciated and says beautiful pieces sell for prices anyone can afford. Its editors bought 16-inch strands of Peruvian opal beads in late 2015 for about $40 a strand and were surprised it was not more expensive.
 
-[TO CHECK typical US retail ranges for pink opal tumbled stones, beads, eggs, towers and cabochons, with a dated source.]
+Small tumbled pieces are still affordable. One listing we found priced a single tumbled stone at $10 for 3/4 to 1 inch and $15 for 1 to 1 1/4 inches, and another sold a bag of six small pieces, 1/2 to 3/4 inch, for about $10. These are single listings, not full ranges. Prices from US-dollar listings at online crystal shops in November 2026.
 
 **Next Step.** Choosing a stone for someone you love? See how pink opal compares with the usual picks in [crystals for love](/crystals-for/love/), or read about opal on the [October birthstone page](/birthstones/october/).
 
@@ -209,15 +217,19 @@ Geology.com calls common opal underappreciated and says beautiful pieces sell fo
 
 - Gemological Institute of America, [Opal](https://www.gia.edu/opal/gem-overview), [Opal Care and Cleaning](https://www.gia.edu/gems-gemology/opal-care-cleaning) and [Rose Quartz](https://www.gia.edu/rose-quartz/gem-overview)
 - International Gem Society, [Opal](https://www.gemsociety.org/article/opal-jewelry-and-gemstone-information/), [Rhodochrosite](https://www.gemsociety.org/article/rhodochrosite-jewelry-and-gemstone-information/), [Coral](https://www.gemsociety.org/article/coral-jewelry-and-gemstone-information/) and the [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
-- Hobart M. King, Geology.com, [Opal](https://geology.com/gemstones/opal/), [Common Opal](https://geology.com/gemstones/opal/common-opal.shtml), [Peruvian Opal](https://geology.com/gemstones/opal/peruvian-opal.shtml) and [Rhodochrosite](https://geology.com/minerals/rhodochrosite.shtml)
+- Hobart M. King, Geology.com, [Opal](https://geology.com/gemstones/opal/), [Common Opal](https://geology.com/gemstones/opal/common-opal.shtml), [Peruvian Opal](https://geology.com/gemstones/opal/peruvian-opal.shtml), [Synthetic Opal](https://geology.com/gemstones/opal/synthetic-opal.shtml), [Imitation Opal](https://geology.com/gemstones/opal/imitation-opal.shtml) and [Rhodochrosite](https://geology.com/minerals/rhodochrosite.shtml)
+- Edward Boehm and Nathan Renfro, "Update on Dyed Hydrophane Opal," *Gems & Gemology*, Winter 2017, [GIA](https://www.gia.edu/articles/winter-2017-gemnews-update-dyed-hydrophane-opal)
+- Emmanuel Fritsch and colleagues, *European Journal of Mineralogy* 16(5), 2004, [doi.org/10.1127/0935-1221/2004/0016-0743](https://doi.org/10.1127/0935-1221/2004/0016-0743)
 - Gemdat, [Pink Opal](https://www.gemdat.org/gem-28956.html), citing J. Hyrsl, *Gemstones of Peru* (2012)
 - A. Brajkovic and colleagues, *Australian Gemmologist* 23(1), 2007, [repository record](https://boa.unimib.it/handle/10281/694)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - M. Y. Balban and colleagues, *Cell Reports Medicine* (2023), [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)
-- SAMHSA, [988 fact sheet](https://www.samhsa.gov/sites/default/files/988-factsheet.pdf), and American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
-- Wikipedia, [Opal](https://en.wikipedia.org/wiki/Opal), used as a pointer only
-- Modern associations compared across crystals.com, jewelsforme.com, gem.agency, gomggsale.com, camille-ambiance-nature.fr, navratan.com, brandrevalue.com and firemountaingems.com, read November 13, 2026
+- Robert Simmons and Naisha Ahsian, *The Book of Stones*, subtitled *Who They Are and What They Teach* (Heaven and Earth Publishing, 2005), [Open Library record](https://openlibrary.org/books/OL8518534M), named as a modern source of meanings
+- 988 Suicide & Crisis Lifeline contact details from [988lifeline.org](https://988lifeline.org/) and [SAMHSA](https://www.samhsa.gov/mental-health/988)
+- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the [IMA List of Minerals](https://cnmnc.units.it/), July 2026 edition, from the official IMA CNMNC site
+- Retail prices from US-dollar listings at online crystal shops, read November 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

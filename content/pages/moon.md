@@ -59,7 +59,7 @@ Every full and new moon of 2027, with its traditional name and New York time, is
 
 ## Stones Tied to the Moon
 
-None of the old sources behind this page gives each phase its own stone. They do record a handful of stones tied to the moon itself, many of them pale, glowing or clear.
+No old source we know of gives each phase its own stone. They do record a handful of stones tied to the moon itself, many of them pale, glowing or clear.
 
 ### What the Old Books Say
 

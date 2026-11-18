@@ -94,7 +94,7 @@ It is cut into tumbled stones, beads and cabochons, and Geology.com even shows a
 **The Story.** No old text names mahogany obsidian. Kunz's two books on gem lore (1913 and 1915) mention obsidian as black glass, mirrors and tools, never the mahogany kind. What it inherits is the long human story of obsidian itself.
 
 - **Stone Age.** Sharp flakes of obsidian were probably its first use. It became one of the first targets of organized mining, and ancient people traded it over distances of up to a thousand miles (Geology.com).
-- **Ancient Rome, 1st century CE.** **Tradition.** Pliny the Elder named the "obsian stone" for Obsius, who found it in Ethiopia, and described it as "of a very dark colour, and sometimes transparent." It was set into walls as a mirror that showed shadows more than images (*Natural History*, Book 36, chapter 67, Bostock and Riley translation, [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D36%3Achapter%3D67)). Shop guides spell the finder Obsidius.
+- **Ancient Rome, 1st century CE.** **Tradition.** Pliny the Elder wrote that the "obsian stone" took its name from Obsius, who found it in Ethiopia, and called it "of a very dark colour, and sometimes transparent." It served as a wall mirror that showed shadows more than images (*Natural History*, Book 36, chapter 67, Bostock and Riley translation, [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D36%3Achapter%3D67)). Shop guides spell the finder Obsidius.
 - **Ancient Mexico.** **Tradition.** The Mexicans made images of the god Tezcatlipoca of obsidian, and his name is read as "shining mirror." Obsidian mirrors are said to have been used for divination (Kunz, *The Curious Lore of Precious Stones*, 1913, pages 204 to 205).
 - **16th century, England.** **Tradition.** A polished slab of Mexican obsidian later owned by Horace Walpole was described in an old catalogue as "the black stone into which Dr. Dee used to call his spirits," after John Dee and his crystal gazing (Kunz 1913, pages 195 to 196).
 - **Today.** **Modern Association.** Grounding and protection, a softer version of black obsidian's reputation, as told in modern crystal guides.
@@ -113,7 +113,7 @@ The "why" has three parts. Obsidian already carries a protection reputation, a s
 
 Most guides place it on the sacral chakra, the center of emotion and creativity in chakra charts, and some on the root chakra. Signs scatter from Aries to Aquarius, so treat any single sign as one guide's pick.
 
-Gem Avenue adds cutting "energetic cords" and setting boundaries, and Stonebridge Imports calls it "a stone of reflection, a reminder to notice what deserves your attention," maybe the most useful line of the lot.
+Gem Avenue adds cutting "energetic cords," and Stonebridge Imports calls it "a stone of reflection, a reminder to notice what deserves your attention," maybe the most useful line of the lot.
 
 ### What Does Mahogany Obsidian Do?
 

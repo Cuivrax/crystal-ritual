@@ -66,7 +66,7 @@ Every page ends with its sources and the date it was last reviewed.
 
 ## Get in Touch
 
-Spotted a mistake, or a question a page did not answer? Write to us through the [contact page](/contact/). Corrections are always welcome, and they make the encyclopedia better for the next reader.
+Spotted a mistake, or a question a page did not answer? See the [contact page](/contact/) for what helps most. Corrections are always welcome, and they make the encyclopedia better for the next reader.
 
 ## Sources
 

@@ -1,4 +1,53 @@
 ---
-const { page } = Astro.props;
+// The contact form (owner decision of 2026-11-18, self-hosted PHP on o2switch, no third-party service).
+// Fields and wording follow the BUILD note in contact.md. It posts to /contact/send.php,
+// which mails the owner at the address kept in a config file outside the web root.
 ---
-<div data-tool="ContactSoon"></div>
+<section class="contact-form-wrap" aria-labelledby="contact-form-title">
+  <h2 class="sr-only" id="contact-form-title">Write to Us</h2>
+  <p class="form-error" id="contact-error" role="alert" hidden>Something went wrong. Please try again in a moment.</p>
+  <form class="contact-form card" action="/contact/send.php" method="post" accept-charset="UTF-8">
+    <div class="field">
+      <label for="cf-name">Your Name</label>
+      <input id="cf-name" name="name" type="text" autocomplete="name" maxlength="100">
+    </div>
+    <div class="field">
+      <label for="cf-email">Your Email</label>
+      <input id="cf-email" name="email" type="email" autocomplete="email" maxlength="254" required aria-describedby="cf-email-help">
+      <p class="field-help" id="cf-email-help">So we can reply. We never show or share it.</p>
+    </div>
+    <div class="field">
+      <label for="cf-topic">What It's About</label>
+      <select id="cf-topic" name="topic" required>
+        <option value="correction">A Correction</option>
+        <option value="question">A Question</option>
+        <option value="other">Something Else</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="cf-page">Page Address</label>
+      <input id="cf-page" name="page" type="url" inputmode="url" maxlength="300" placeholder="https://crystalandritual.com/" aria-describedby="cf-page-help">
+      <p class="field-help" id="cf-page-help">If it is about a page, paste its link.</p>
+    </div>
+    <div class="field">
+      <label for="cf-message">Your Message</label>
+      <textarea id="cf-message" name="message" rows="7" maxlength="5000" required></textarea>
+    </div>
+    <div class="hp-field" aria-hidden="true">
+      <label for="cf-website">Leave This Empty</label>
+      <input id="cf-website" name="website" type="text" tabindex="-1" autocomplete="off">
+    </div>
+    <input type="hidden" name="ts" id="cf-ts" value="">
+    <button class="btn btn-primary" type="submit">Send Message</button>
+  </form>
+</section>
+<script is:inline>
+(function () {
+  var ts = document.getElementById('cf-ts');
+  if (ts) ts.value = String(Date.now());
+  if (/[?&]error=1\b/.test(window.location.search)) {
+    var e = document.getElementById('contact-error');
+    if (e) { e.hidden = false; }
+  }
+})();
+</script>

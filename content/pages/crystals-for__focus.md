@@ -91,7 +91,7 @@ Heliodor, yellow apatite, white topaz and pietersite are Classic too, but rarer 
 
 ### Can Crystals Help You Focus?
 
-We found no study showing that a crystal improves attention, and none of the sources behind this page tested the idea. What does have some research behind it is the routine around the stone, such as brief breaks during long work and a short bout of writing before an exam. A stone you pick up at the same moment every time is an easy way to keep that routine going.
+We found no study showing that a crystal improves attention. What does have some research behind it is the routine around the stone, such as brief breaks during long work and a short bout of writing before an exam. A stone you pick up at the same moment every time is an easy way to keep that routine going.
 
 ### Gemstone Clarity Means Something Else
 
@@ -151,7 +151,7 @@ Crystal grid examples online can get elaborate. A desk needs very little.
 
 ### Tiger's Eye
 
-**Mineral Fact.** Tiger's eye is quartz grown around fibers of crocidolite, a blue asbestos mineral, and iron staining turns it golden brown ([International Gem Society](https://www.gemsociety.org/article/tigers-eye-gem-information/)). The silky band that slides across it as you turn it comes from those fibers catching the light ([Ganoksin](https://ganoksin.com/article/a-second-look-at-tigers-eye)). It rates 6.5 to 7, and Deposits Magazine says it is not hazardous to wear or handle, though cutting and grinding dust needs protection ([Deposits Magazine](https://depositsmag.com/2023/04/29/the-how-and-why-of-tigers-eye/)). Our sources give no simple home test against glass imitations, so ask the seller to name the material on the receipt. **Modern Association.** Golden tiger's eye is Classic for focus, and the guides lean on it for exams, interviews and first days. More on [tiger's eye](/stones/tigers-eye/).
+**Mineral Fact.** Tiger's eye is quartz grown around fibers of crocidolite, a blue asbestos mineral, and iron staining turns it golden brown ([International Gem Society](https://www.gemsociety.org/article/tigers-eye-gem-information/)). The silky band that slides across it as you turn it comes from those fibers catching the light ([Ganoksin](https://ganoksin.com/article/a-second-look-at-tigers-eye)). It rates 6.5 to 7, and Deposits Magazine says it is not hazardous to wear or handle, though cutting and grinding dust needs protection ([Deposits Magazine](https://depositsmag.com/2023/04/29/the-how-and-why-of-tigers-eye/)). A glass imitation is hard to rule out at home, so ask the seller to name the material on the receipt. **Modern Association.** Golden tiger's eye is Classic for focus, and the guides lean on it for exams, interviews and first days. More on [tiger's eye](/stones/tigers-eye/).
 
 ### Yellow Calcite
 
@@ -165,7 +165,7 @@ Crystal grid examples online can get elaborate. A desk needs very little.
 
 **Mineral Fact.** Lapis lazuli is a blue rock, mostly lazurite with white calcite and gold flecks of pyrite, and it rates 5 to 6. Much lapis is dyed to hide the white calcite and then waxed, and it scratches easily ([Geology.com](https://geology.com/gemstones/lapis-lazuli/)). Renaissance painters ground it into the pigment ultramarine ([GIA](https://www.gia.edu/lapis-lazuli/gem-overview)). Clean it with mild soap and a soft brush, never with solvents ([IGS](https://www.gemsociety.org/article/lapis-lazuli-jewelry-and-gemstone-information/)). **Modern Association.** Widely Linked to focus as a desk stone for writing, studying and exams, and a desk suits it better than a pocket. More on [lapis lazuli](/stones/lapis-lazuli/).
 
-> **When a Stone Is Not Enough.** A stone can mark the start of a study block. It cannot treat trouble with attention. If you struggle to concentrate for weeks at a time, feel foggy most days, sleep badly or freeze up before exams, talk to a doctor, your school's counseling service or a therapist. Some crystal sites say stones help with ADHD. Nothing in the mineral, historical or research sources behind this page supports that, and a stone should never replace an evaluation or a treatment plan.
+> **When a Stone Is Not Enough.** A stone can mark the start of a study block. It cannot treat trouble with attention. If you struggle to concentrate for weeks at a time, feel foggy most days, sleep badly or freeze up before exams, talk to a doctor, your school's counseling service or a therapist. Some crystal sites say stones help with ADHD. We know of no study that supports that, and a stone should never replace an evaluation or a treatment plan.
 
 **Next Step.** Exam nerves more than a wandering mind? Read [crystals for anxiety and a simple grounding routine](/crystals-for/anxiety/).
 
@@ -180,7 +180,7 @@ Crystal grid examples online can get elaborate. A desk needs very little.
 - Ariga, A., and Lleras, A. (2011), Brief and rare mental "breaks" keep you focused, *Cognition* 118(3), 439 to 443, [doi.org/10.1016/j.cognition.2010.12.007](https://doi.org/10.1016/j.cognition.2010.12.007), with the sample size from the University of Illinois news release, [Brief Diversions Vastly Improve Focus, Researchers Find](https://news.illinois.edu/brief-diversions-vastly-improve-focus-researchers-find/)
 - Ramirez, G., and Beilock, S. L. (2011), Writing about testing worries boosts exam performance in the classroom, *Science* 331(6014), 211 to 213, [doi.org/10.1126/science.1199427](https://doi.org/10.1126/science.1199427)
 - Hobson, N. M., Bonk, D., and Inzlicht, M. (2017), Rituals decrease the neural response to performance failure, *PeerJ* 5, e3363, [doi.org/10.7717/peerj.3363](https://doi.org/10.7717/peerj.3363)
-- Focus rankings and modern associations compared across modern crystal guides, including crystalgemstones.net, lebensquelle-plus.de, crystals.com, france-mineraux.fr and firemountaingems.com, read November 13, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

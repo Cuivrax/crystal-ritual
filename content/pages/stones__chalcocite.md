@@ -14,7 +14,6 @@ sources:
   - "https://www.handbookofmineralogy.org/pdfs/chalcocite.pdf"
   - "https://www.minerals.net/mineral/chalcocite"
   - "https://pubs.usgs.gov/sir/2010/5070/c/Chapter12SIR10-5070-C-3.pdf"
-  - "https://www.gemsociety.org/article/gemstone-toxicity-table/"
   - "https://earthwonders.com/wiki/chalcocite"
   - "https://www.crystals.com/pages/crystals/chalcocite"
   - "https://www.france-mineraux.fr/vertus-des-pierres/pierre-chalcocite/"
@@ -45,7 +44,7 @@ Chalcocite is a copper sulfide, Cu₂S, a heavy, metallic, blackish gray mineral
 | Sun | OK |
 | Heat | Avoid |
 | Salt | Unknown |
-| Toxic to handle | Unknown. Handle it like other copper minerals |
+| Toxic to handle | Brief only. It is copper sulfide, so wash your hands after handling |
 | Common fakes | [TO CHECK which imitations are sold as chalcocite.] Watch for glued repairs and coatings |
 | Price range | [TO CHECK US retail ranges] |
 | Birthstone | None |
@@ -92,7 +91,7 @@ The [Earth Wonders collector guide](https://earthwonders.com/wiki/chalcocite) ex
 **The Story.** Chalcocite has a mining history and almost no folklore. One French crystal site states plainly that there are no legends or myths about the stone.
 
 - **The miners' names.** Minerals.net lists redruthite for chalcocite from the Redruth area of Cornwall, and a UK crystal shop lists copper glance as another old miners' name. Ducktownite is chalcocite coating or replacing pyrite (Minerals.net).
-- **The name chalcocite.** Two crystal shop pages credit it to the American mineralogist James Dwight Dana, one in 1862 and one in 1868. [TO CHECK who named chalcocite and when.]
+- **The name chalcocite.** The name is sometimes credited to the American mineralogist James Dwight Dana, with the year given as 1862 or 1868. [TO CHECK who named chalcocite and when.]
 - **Alchemy.** **Modern Association.** One French shop guide reads chalcocite through alchemy, where copper was the metal of Venus, and makes it a symbol of transformation.
 - **Unsourced stories.** Some shop pages add Native American councils or the bronze of ancient Cyprus. They come without names, dates or sources, so read them as modern storytelling.
 
@@ -155,7 +154,7 @@ Chalcocite dissolves in nitric acid (Minerals.net), a lab test, not a home one. 
 - **Chemicals.** Avoid acids, strong bases, steam, abrasives and ultrasonic cleaners (Earth Wonders).
 - **Salt.** Unknown. Our care data has no rating yet, so skip salt.
 - **Storage.** Brief only. Keep it dry in a closed cabinet with fresh silica gel and activated carbon, away from newly oiled wood, some foams and rubber, which give off sulfur gases (Earth Wonders).
-- **Toxicity.** Unknown. The International Gem Society's [toxicity table](https://www.gemsociety.org/article/gemstone-toxicity-table/) has no row for chalcocite, but it rates its companions bornite and covellite high risk, with copper as the hazard. Our rule for copper minerals like [malachite](/stones/malachite/) is Brief only, meaning wash your hands and never make elixirs, so treat chalcocite the same way. More in [toxic crystals](/care/toxic-crystals/).
+- **Toxicity.** Brief only. Chalcocite is copper sulfide. Like other copper minerals such as [malachite](/stones/malachite/), handle it briefly, wash your hands after, keep it out of drinking water, elixirs and baths, and away from children and pets (*Handbook of Mineralogy*). More in [toxic crystals](/care/toxic-crystals/).
 
 ### Does Chalcocite Tarnish?
 
@@ -178,7 +177,6 @@ Massive chalcocite is a widespread ore, but crystals are another story. Minerals
 - *Handbook of Mineralogy*, [Chalcocite](https://www.handbookofmineralogy.org/pdfs/chalcocite.pdf), Mineral Data Publishing, 2001 to 2005
 - Minerals.net, [Chalcocite](https://www.minerals.net/mineral/chalcocite), and the IMA List of Minerals, July 2026 edition
 - Randolph A. Koski, [Supergene Ore and Gangue Characteristics](https://pubs.usgs.gov/sir/2010/5070/c/Chapter12SIR10-5070-C-3.pdf), U.S. Geological Survey Scientific Investigations Report 2010-5070-C, chapter 12
-- International Gem Society, [Gemstone Toxicity Table](https://www.gemsociety.org/article/gemstone-toxicity-table/)
 - Earth Wonders, [Chalcocite Collectors Guide](https://earthwonders.com/wiki/chalcocite), a mineral dealer's guide updated November 21, 2025
 - Modern associations from crystals.com, france-mineraux.fr, en.camille-ambiance-nature.fr and albionfireandice.co.uk, read November 18, 2026
 

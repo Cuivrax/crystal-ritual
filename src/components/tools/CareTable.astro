@@ -1,4 +1,81 @@
 ---
-const { page } = Astro.props;
+// The full water table, built from care.json at compile time (Rinse = field water, Soak = field soak),
+// with the Care Checker's labels and reasons. Reference links only, dealer guides are never linked.
+import care from '../../data/care.json';
+import { getSite } from '../../lib/site.mjs';
+import { policy } from '../../lib/render.mjs';
+import { RATINGS, esc } from '../../lib/ui.mjs';
+const site = await getSite();
+const label = (u) => { const h = new URL(u).hostname.replace(/^www\./, ''); return care.hosts?.[h]?.label || h; };
+const rows = [...care.stones].sort((a, b) => a.name.localeCompare(b.name)).map((s) => {
+  const cell = (f) => {
+    const c = s.care?.[f] || { rating: 'unknown' };
+    const r = RATINGS[c.rating] ? c.rating : 'unknown';
+    return { r, short: c.short || c.reason || '', sources: (c.sources || []).filter((u) => policy.isReferenceUrl(u)), guide: (c.sources || []).length > 0 && !(c.sources || []).some((u) => policy.isReferenceUrl(u)) };
+  };
+  const rinse = cell('water');
+  const soak = cell('soak');
+  const src = [...new Set([...rinse.sources, ...soak.sources])];
+  return {
+    slug: s.slug, name: s.name, url: site.isBuilt(`/stones/${s.slug}/`) ? `/stones/${s.slug}/` : null,
+    search: [s.name, ...(s.aliases || [])].join(' ').toLowerCase(), rinse, soak, src, guide: rinse.guide || soak.guide,
+  };
+});
+const counts = Object.fromEntries(Object.keys(RATINGS).map((k) => [k, rows.filter((r) => r.rinse.r === k).length]));
 ---
-<div data-tool="CareTable"></div>
+<div class="care-table-tool" id="care-table">
+  <form class="care-table-controls" role="search" aria-label="Filter the water table" onsubmit="return false">
+    <div class="field">
+      <label for="ct-search">Find a Stone</label>
+      <input id="ct-search" type="search" placeholder="Name or another name it goes by" autocomplete="off">
+    </div>
+    <div class="field">
+      <label for="ct-rating">Rinse Rating</label>
+      <select id="ct-rating">
+        <option value="">All Ratings</option>
+        {Object.entries(RATINGS).map(([k, v]) => <option value={k}>{v.label} ({counts[k]})</option>)}
+      </select>
+    </div>
+    <div class="field field-btn"><button type="button" class="btn btn-secondary" id="ct-print">Print the Table</button></div>
+  </form>
+  <p class="ct-count" id="ct-count" aria-live="polite">{rows.length} stones</p>
+  <div class="table-wrap care-table-wrap" role="region" aria-label="Water table, scrolls sideways on small screens" tabindex="0">
+    <table class="care-table">
+      <thead><tr><th scope="col">Stone</th><th scope="col">Rinse</th><th scope="col">Soak</th><th scope="col">Sources</th></tr></thead>
+      <tbody>
+        {rows.map((r) => (
+          <tr data-search={r.search} data-rinse={r.rinse.r}>
+            <th scope="row">{r.url ? <a href={r.url}>{r.name}</a> : r.name}</th>
+            <td><span class={`pill is-small ${RATINGS[r.rinse.r].cls}`}>{RATINGS[r.rinse.r].label}</span>{r.rinse.r !== 'unknown' && <span class="ct-why">{r.rinse.short}</span>}</td>
+            <td><span class={`pill is-small ${RATINGS[r.soak.r].cls}`}>{RATINGS[r.soak.r].label}</span>{r.soak.r !== 'unknown' && r.soak.short !== r.rinse.short && <span class="ct-why">{r.soak.short}</span>}</td>
+            <td class="ct-src">{r.src.map((u, i) => <Fragment>{i > 0 && ', '}<a href={u} rel="noopener">{label(u)}</a></Fragment>)}{!r.src.length && r.guide && <span>A dealer care guide</span>}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p class="ct-none" id="ct-none" hidden>No stone by that name yet. Try another spelling.</p>
+</div>
+<script>
+  const q = document.getElementById('ct-search');
+  const sel = document.getElementById('ct-rating');
+  const rows = [...document.querySelectorAll('.care-table tbody tr')];
+  const count = document.getElementById('ct-count');
+  const none = document.getElementById('ct-none');
+  const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/['’]/g, '').trim();
+  function apply() {
+    const t = norm(q.value || '');
+    const r = sel.value;
+    let n = 0;
+    for (const row of rows) {
+      const show = (!t || norm(row.dataset.search).includes(t)) && (!r || row.dataset.rinse === r);
+      row.hidden = !show;
+      if (show) n++;
+    }
+    count.textContent = `${n} ${n === 1 ? 'stone' : 'stones'}`;
+    none.hidden = n > 0;
+  }
+  q.addEventListener('input', apply);
+  sel.addEventListener('change', apply);
+  document.getElementById('ct-print').addEventListener('click', () => window.print());
+</script>

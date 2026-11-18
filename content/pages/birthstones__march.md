@@ -42,7 +42,7 @@ sources:
 
 # March Birthstone Meaning, History & Honest Buying Tips
 
-The March birthstones are aquamarine and bloodstone, the two stones the American Gem Society lists for the month. Aquamarine is the pale blue to greenish blue variety of beryl, and bloodstone is a dark green chalcedony spattered with red. Both have been on the US jewelers' list since 1912, and most aquamarine sold today is heated.
+The March birthstones are aquamarine and bloodstone, the two stones the American Gem Society lists for the month. Aquamarine is the pale blue to greenish blue variety of beryl, and bloodstone is a dark green chalcedony spattered with red. Kunz's 1913 account of the 1912 US jewelers' list names both, and most aquamarine sold today is heated.
 
 <!-- PHOTO TO FIND, hero, aquamarine. No aquamarine row in images_candidates.csv, and the aquamarine rows in images_commons_candidates.csv all have visual_check empty. Candidates to check first, "File AquamarineYalePeabodyYampolLoan.jpg" (CC0, Yale Peabody Museum label "Beryl variety aquamarine"), https://commons.wikimedia.org/wiki/File:AquamarineYalePeabodyYampolLoan.jpg , and "File Aquamarine (GeoDIL number - 1864).jpg" (CC0, Shannon Heinle), https://commons.wikimedia.org/wiki/File:Aquamarine_(GeoDIL_number_-_1864).jpg . Skip the rows that show an aquarium, tights or office buildings. Log file, license and credit after the visual check. -->
 
@@ -54,7 +54,7 @@ The March birthstones are aquamarine and bloodstone, the two stones the American
 |---|---|---|
 | What it is | The greenish blue to blue variety of beryl | A dark green chalcedony, a form of quartz, with red spots |
 | Formula | Be₃Al₂Si₆O₁₈ | SiO₂ |
-| On the 1912 US jewelers' list | As the alternate | As the main stone |
+| On the 1912 US jewelers' list, per Kunz | As the alternate | As the main stone |
 | Colors | Very light to rich blue, often a little green | Deep green with red to orange spots |
 | Mohs hardness | 7.5 to 8 | 6.5 to 7 |
 | Look | Transparent, usually faceted | Opaque, usually a cabochon |
@@ -76,10 +76,13 @@ March has two, aquamarine and bloodstone. The [American Gem Society](https://www
 | Kunz's list of American gems | Californite | Kunz 1913, page 323 |
 | American Gem Society today | Aquamarine, bloodstone | AGS |
 | International Gem Society chart | Aquamarine as modern, bloodstone as traditional | IGS |
+| Geology.com | Bloodstone as the modern stone since 1912, aquamarine also a March stone | Geology.com |
 
 ### Modern vs Traditional March Birthstones
 
-"Traditional" usually means bloodstone. The International Gem Society's [birthstone chart](https://www.gemsociety.org/article/birthstone-chart/) calls aquamarine the modern March stone and bloodstone the traditional one. The labels are loose, though. Both were on the 1912 list, bloodstone first, and Geology.com says bloodstone "has served as the modern birthstone for the month of March since 1912" ([Geology.com](https://geology.com/gemstones/bloodstone/)).
+Three sources tell the 1912 story three ways. The International Gem Society's [birthstone chart](https://www.gemsociety.org/article/birthstone-chart/) calls aquamarine the modern March stone and bloodstone the traditional one, and its [history page](https://www.gemsociety.org/article/history-of-birthstones/) says the modern list is the one set by the National Association of Jewelers. Geology.com says bloodstone "has served as the modern birthstone for the month of March since 1912" ([Geology.com](https://geology.com/gemstones/bloodstone/)). Kunz, who printed the list adopted at Kansas City in August 1912, shows bloodstone as the birthstone with aquamarine as the alternate (1913, page 319).
+
+So "traditional" usually means bloodstone, but which stone counts as the modern one depends on who you ask. Our table above keeps each version with its source.
 
 Aquamarine is the newcomer. On the old lists Kunz gathered, it was the October stone (page 315). The 1952 revision of the US list changed June, October, November and December and left March alone, according to the IGS [history of birthstones](https://www.gemsociety.org/article/history-of-birthstones/). Today the AGS chart names aquamarine first. [TO CHECK when US lists began naming aquamarine ahead of bloodstone.]
 

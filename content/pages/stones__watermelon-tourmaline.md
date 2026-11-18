@@ -21,6 +21,9 @@ sources:
   - "https://www.americangemsociety.org/birthstones/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
+  - "https://doi.org/10.1037/0022-3514.84.2.377"
+  - "https://988lifeline.org/"
+  - "https://cnmnc.units.it/"
   - "https://crystalgemstones.net/watermelon-tourmaline-meaning-and-spiritual-properties.html"
   - "https://www.edelsteine.net/wassermelonen-turmalin/"
   - "https://moonrisecrystals.com/watermelon-tourmaline-meaning/"
@@ -30,7 +33,7 @@ sources:
 
 Watermelon tourmaline is a single tourmaline crystal that grew pink or red at its core and green around the outside, so a thin slice looks like the fruit. Modern crystal guides tie it to the heart, love and the meeting of opposites. In 1915 it was called the Peace Stone. It rates 7 to 7.5 on the Mohs scale.
 
-<!-- PHOTO TO FIND, hero. No watermelon tourmaline candidate is checked as good. images_candidates.csv has no Smithsonian row for watermelon-tourmaline. Unchecked Wikimedia Commons leads in images_commons_candidates.csv, "File Maine Mineral and Gem Museum, Bethel - Elbaite tourmaline - watermelon tourmaline.jpg" by Graeme Churchard (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Maine_Mineral_and_Gem_Museum,_Bethel_-_Elbaite_tourmaline_-_watermelon_tourmaline.jpg , and "File Watermelon Tourmaline with polished top.jpg" by Jeremiasjeremias (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Watermelon_Tourmaline_with_polished_top.jpg . Check each visually and log the credit line before use. Wanted, a polished cross-section slice showing the pink core, the green rind and ideally the colorless band between them. -->
+<!-- PHOTO HERO. File site/photos/stones__watermelon-tourmaline/hero.jpg. Source Openverse/Flickr, https://www.flickr.com/photos/52450054@N04/16648695872 . License BY 2.0. Credit "Photo by Judy Gallagher on Flickr (BY 2.0)". Visual check 2026-11-18, Polished crystal, green to pink bi-colour; alt slice with pink core and green rind; alt2 Smithsonian crystals on quartz (blue backdrop). -->
 
 ## Watermelon Tourmaline Quick Facts
 
@@ -92,7 +95,7 @@ It depends on quality. Tourmaline in general is abundant and affordable (Interna
 
 ## What People Use Watermelon Tourmaline for Today
 
-**Modern Association.** Every guide we read places watermelon tourmaline on the heart chakra, a fit one guide traces to chakra color symbolism (Crystal Gemstones). Love and courage come up most, with compassion, joy and confidence close behind. A German encyclopedia site adds understanding, joy and a feeling of being safe ([Edelsteine.net](https://www.edelsteine.net/wassermelonen-turmalin/)).
+**Modern Association.** Modern crystal guides place watermelon tourmaline on the heart chakra, a fit one guide traces to chakra color symbolism (Crystal Gemstones). Love and courage come up most, with compassion, joy and confidence close behind. A German encyclopedia site adds understanding, joy and a feeling of being safe ([Edelsteine.net](https://www.edelsteine.net/wassermelonen-turmalin/)).
 
 Real-life uses in the guides are gentle. People give it between partners and close friends, or keep it close during a stretch when they want to treat themselves more kindly (Crystal Gemstones). For [love](/crystals-for/love/), one guide pairs it with [pink tourmaline](/stones/pink-tourmaline/) to double the tenderness (Crystal Gemstones).
 
@@ -122,17 +125,17 @@ Some sites go much further. One dealer lists immune support, metabolism and pain
 
 **Safety.** Small slices and tumbled stones are not toys. Keep them away from small children and pets who might swallow them, and watch thin edges, which can be sharp.
 
-**What Research Says.** [TO CHECK a peer-reviewed study with DOI on gratitude prompts, family mealtime routines or pausing before responding in conflict, and say plainly that it did not use stones.] Until then, treat these as personal practices.
+**What Research Says.** In three randomized studies, two with college students (192 and 157 of them) and one with 65 adults living with neuromuscular disease, people asked to list what they were grateful for reported better well-being than comparison groups on several measures, and the clearest gain was in positive mood (Emmons and McCullough, 2003, *Journal of Personality and Social Psychology*, [doi.org/10.1037/0022-3514.84.2.377](https://doi.org/10.1037/0022-3514.84.2.377)). The results were self-reported, the gains did not show on every measure, and no stones were involved. Treat the habits above as personal practices.
 
-> **When a Stone Is Not Enough.** Watermelon tourmaline is often chosen for heartbreak, old hurts and low moods, and some sites make claims about heart and nerve conditions. A stone can be a comfort to hold, but it is not care. If sadness, anxiety or a health worry lasts, talk to a doctor or a therapist. If you are in crisis in the US, reach the 988 Suicide and Crisis Lifeline [TO CHECK official link and contact options].
+> **When a Stone Is Not Enough.** Watermelon tourmaline is often chosen for heartbreak, old hurts and low moods, and some sites make claims about heart and nerve conditions. A stone can be a comfort to hold, but it is not care. If sadness, anxiety or a health worry lasts, talk to a doctor or a therapist. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
 
 ## Is My Watermelon Tourmaline Real?
 
 We use the same five labels on every stone.
 
-- **Natural, untreated.** Many slices and crystals. [TO CHECK what share of watermelon tourmaline on the US market is untreated.]
-- **Natural, treated.** GIA names heating and irradiation as the two most important tourmaline treatments. Heat changes are stable and undetectable, and irradiation color can fade with heat or bright light. Gem Rock Auctions adds laser drilling and fracture filling for clarity, which lower value.
-- **Lab-grown.** [TO CHECK whether synthetic watermelon tourmaline is sold.]
+- **Natural, untreated.** We found no reference source giving the share of watermelon tourmaline on the US market that is untreated, and the International Gem Society says natural tourmalines frequently receive enhancements, so ask.
+- **Natural, treated.** GIA names heating and irradiation as the two most important tourmaline treatments. Heat changes are stable and undetectable, and irradiation color can fade with heat or bright light. The [International Gem Society](https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/) calls both common and notes that irradiation can produce red, deep pink and parti-colors. Gem Rock Auctions adds laser drilling and fracture filling for clarity, which lower value.
+- **Lab-grown.** Not on the market. The International Gem Society says no commercially available lab-created tourmaline exists for gem or jewelry use, since it is expensive and difficult to make. A "simulated" tag online often means a fake.
 - **Imitation.** Fakes are usually glass, plastic or cheaper stones (Gem Rock Auctions).
 - **Trade name.** "Watermelon" is an honest pattern name. "Reverse watermelon" is the same idea turned inside out.
 
@@ -148,18 +151,18 @@ A price far below the market is one more warning sign. Ask the seller three ques
 
 **Mineral Fact.** With a hardness of 7 to 7.5, no cleavage and only slight brittleness, tourmaline makes a good stone for everyday jewelry (International Gem Society). GIA rates its toughness as fair.
 
-- **Water.** Unknown for soaking. Our sources cover washing only.
+- **Water.** Unknown for soaking. GIA's advice covers washing only.
 - **Cleaning.** OK. "Warm, soapy water is the best method for cleaning tourmaline," says [GIA](https://www.gia.edu/tourmaline-care-cleaning), and ultrasonic and steam cleaners are not recommended.
 - **Sun.** OK. GIA says tourmaline is generally stable to light. The exception is color created by irradiation, which can fade with bright light or heat.
 - **Heat.** Avoid. High heat can alter the color, and sudden temperature change can crack the stone (GIA).
 - **Chemicals.** OK. GIA says tourmaline is not affected by chemicals. A mild wash is still all it needs.
-- **Salt.** Unknown. None of our sources cover it yet.
+- **Salt.** Unknown. We found no reference source on salt and tourmaline, so skip it.
 - **Storage.** OK for everyday wear, with one caution for slices. The International Gem Society's [care guide](https://www.gemsociety.org/article/gemstone-care-guide/) warns that bi-colored crystals sometimes split where the colors meet, and that pink tourmaline is often flawed. Store slices flat in their own pouch.
 - **Toxicity.** None known, per the same International Gem Society table.
 
 ### Can Watermelon Tourmaline Go in Water or Sun?
 
-A wash in warm soapy water, yes. A long soak or a monthly session under running water, as one German site suggests, is not covered by any source we have, so our Care Checker rates water Unknown. Sun is the easier one. GIA calls tourmaline generally stable to light, so a few hours on the sill is fine unless the color came from irradiation. Skip salt, since no source covers it, and skip drinking elixirs too. Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown, with the reason and the source.
+A wash in warm soapy water, yes. A long soak or a monthly session under running water, as one German site suggests, has no reference guidance behind it, so our Care Checker rates water Unknown. Sun is the easier one. GIA calls tourmaline generally stable to light, so a few hours on the sill is fine unless the color came from irradiation. Skip salt, which is also Unknown, and skip drinking elixirs too. Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown, with the reason and the source.
 
 ## Watermelon Tourmaline vs Look-Alikes
 
@@ -171,9 +174,9 @@ A wash in warm soapy water, yes. A long soak or a monthly session under running 
 
 ## Price Guide
 
-The most detailed figures we have come from one marketplace dealer, Gem Rock Auctions, in a guide updated January 25, 2026. Rough runs about $3 to $8 per carat, faceted stones about $20 to $55 per carat (roughly $10 to $80 at the extremes), and cabochons about $15 to $40 per carat. The most coveted look, a green rind fading into a hot pink core, costs more than other patterns, and cat's-eye stones cut as cabochons fetch more too.
+The most detailed published figures come from one marketplace dealer, Gem Rock Auctions, in a guide updated January 25, 2026. Rough runs about $3 to $8 per carat, faceted stones about $20 to $55 per carat (roughly $10 to $80 at the extremes), and cabochons about $15 to $40 per carat. The most coveted look, a green rind fading into a hot pink core, costs more than other patterns, and cat's-eye stones cut as cabochons fetch more too.
 
-At the top end, tourmaline specimens with attractive color and crystal form can sell for thousands of dollars (Geology.com). [TO CHECK typical US retail ranges for polished slices, tumbled stones and pendants with a second dated source.]
+At the top end, tourmaline specimens with attractive color and crystal form can sell for thousands of dollars (Geology.com). For slices, tumbled stones and pendants we found no current US shop listings to quote, so judge them by what drives tourmaline prices in general. The International Gem Society names color, clarity and origin, with a premium for clean stones, particularly those over 10 carats. Treatment matters too, so ask whether a piece was heated, irradiated or filled.
 
 **Next Step.** Curious about the stone's single-color sibling? Read our [pink tourmaline page](/stones/pink-tourmaline/), which tells the Chinese wedding sword story.
 
@@ -182,11 +185,13 @@ At the top end, tourmaline specimens with attractive color and crystal form can 
 - Gemological Institute of America, [Tourmaline Description](https://www.gia.edu/tourmaline-description) and [Tourmaline Care and Cleaning](https://www.gia.edu/tourmaline-care-cleaning)
 - International Gem Society, [Tourmaline Jewelry and Gemstone Information](https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/) and [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Hobart M. King, Geology.com, [Tourmaline](https://geology.com/minerals/tourmaline.shtml)
-- Ross Sedawie, Gem Rock Auctions, [Watermelon Tourmaline](https://www.gemrockauctions.com/learn/a-z-of-gemstones/watermelon-tourmaline), a dealer guide updated January 25, 2026
-- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
+- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
+- IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Magic of Jewels and Charms* (1915), pages 51 to 59, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- Modern associations compared across crystalgemstones.net, edelsteine.net and moonrisecrystals.com, read November 13, 2026
+- R. A. Emmons and M. E. McCullough, *Journal of Personality and Social Psychology* (2003), [doi.org/10.1037/0022-3514.84.2.377](https://doi.org/10.1037/0022-3514.84.2.377)
+- [988 Suicide & Crisis Lifeline](https://988lifeline.org/)
+- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

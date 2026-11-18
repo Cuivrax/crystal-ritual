@@ -29,7 +29,6 @@ sources:
   - "https://geology.com/gemstones/tanzanite/"
   - "https://geology.com/minerals/zircon.shtml"
   - "https://geology.com/minerals/topaz.shtml"
-  - "https://en.wikipedia.org/wiki/Zircon"
   - "https://www.gutenberg.org/ebooks/57978"
 ---
 
@@ -159,7 +158,7 @@ Assume your tanzanite is heated. It is a stable treatment, and synthetic tanzani
 
 ### Real or Fake Zircon
 
-Almost all blue and colorless zircon is heated, and the treatment cannot be detected. Crystalline zircon has been made for research, and the International Gem Society knows of no jewelry use, so a "synthetic zircon" listing may really be cubic zirconia. Watch for old trade names too, since colorless zircon was sold as "Matara diamonds" and blue as "Siam aquamarines" ([International Gem Society](https://www.gemsociety.org/article/zircon-jewelry-and-gemstone-information/)). With a 10x loupe, look down through the table at the pavilion (lower) facet junctions. In zircon they appear doubled, while diamond does not show doubling ([Geology.com](https://geology.com/minerals/zircon.shtml)). [Wikipedia](https://en.wikipedia.org/wiki/Zircon) notes that some Sri Lankan zircons show little or no doubling, so this check can mislead.
+Almost all blue and colorless zircon is heated, and the treatment cannot be detected. Crystalline zircon has been made for research, and the International Gem Society knows of no jewelry use, so a "synthetic zircon" listing may really be cubic zirconia. Watch for old trade names too, since colorless zircon was sold as "Matara diamonds" and blue as "Siam aquamarines" ([International Gem Society](https://www.gemsociety.org/article/zircon-jewelry-and-gemstone-information/)). With a 10x loupe, look down through the table at the pavilion (lower) facet junctions. In zircon they appear doubled, while diamond does not show doubling ([Geology.com](https://geology.com/minerals/zircon.shtml)).
 
 Three questions for any seller. What is the mineral name? Has it been treated, and how? Is there a lab report, and from which lab?
 
@@ -189,9 +188,8 @@ GIA adds that turquoise can be damaged by acids and discolored by cosmetics and 
 - Gemological Institute of America, [December Birthstones](https://gia.edu/birthstones/december-birthstones), [GIA Celebrates Birthstones](https://my.gia.edu/gia-museum-exhibit-birthstones), [Turquoise](https://www.gia.edu/turquoise/gem-overview) and [Tanzanite](https://www.gia.edu/tanzanite/gem-overview) overviews
 - International Gem Society, [December Birthstones](https://www.gemsociety.org/article/december-birthstone/) by Elizabeth Gathu and Emily Frontiere, updated April 10, 2025, and Amanda Butcher's [History of Birthstones](https://www.gemsociety.org/article/history-of-birthstones/), updated October 3, 2024, and the [turquoise](https://www.gemsociety.org/article/turquoise-jewelry-gem-information/), [tanzanite](https://www.gemsociety.org/article/tanzanite-jewelry-and-gemstone-information/) and [zircon](https://www.gemsociety.org/article/zircon-jewelry-and-gemstone-information/) pages
 - Hobart M. King, Geology.com, [Turquoise](https://geology.com/minerals/turquoise.shtml), [Tanzanite](https://geology.com/gemstones/tanzanite/), [Zircon](https://geology.com/minerals/zircon.shtml) and [Topaz](https://geology.com/minerals/topaz.shtml)
-- Wikipedia, [Zircon](https://en.wikipedia.org/wiki/Zircon), used as a pointer only
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 37 to 38, 73, 108 to 113, 238, 307 to 321, 331 and 344 to 345, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
-- Modern associations compared across the crystal guides in our lore collection, including crystalvaults.com, crystals.com, firemountaingems.com, moonrisecrystals.com and crystalgemstones.net, read November 13, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 18, 2026.
 

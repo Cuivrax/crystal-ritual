@@ -11,7 +11,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-13"
 publishTime: "07:14"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/agate-gem-information/"
@@ -23,11 +23,14 @@ sources:
   - "https://geology.com/gemstones/carnelian/"
   - "https://geology.com/minerals/quartz.shtml"
   - "https://www.minerals.net/mineral/chalcedony"
-  - "https://en.wikipedia.org/wiki/Agate"
-  - "https://en.wikipedia.org/wiki/Chalcedony"
+  - "https://www.psu.edu/news/research/story/how-do-agates-form"
+  - "https://www.gia.edu/gems-gemology/FA13-dumanska-agate-sidi-rahal"
   - "https://www.americangemsociety.org/birthstones/"
+  - "https://cnmnc.units.it/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
+  - "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D54"
+  - "https://doi.org/10.1287/mnsc.2014.1901"
   - "https://lebensquelle-plus.de/blogs/magazin/achat-wirkung"
   - "https://www.crystalvaults.com/crystal-encyclopedia/agate/"
   - "https://www.crystals.com/pages/crystals/agate"
@@ -52,12 +55,12 @@ Agate is a banded, translucent variety of chalcedony, the microcrystalline form 
 | Formula | SiO₂ |
 | Mohs hardness | 6.5 to 7, no cleavage |
 | Colors | Brown, white, red, gray, pink, black and yellow, usually in bands |
-| Color cause | Traces of metal oxides, mostly iron |
+| Color cause | Traces of metal oxides, such as iron and manganese |
 | Main sources | Brazil, Uruguay, Madagascar, Mexico, the US. Moss agate also from India and Scotland |
 | Water, sun, salt | Unknown |
 | Toxic to handle | No. Cutting dust is a silica hazard |
-| Common fakes | Undisclosed dye. Imitations [TO CHECK] |
-| Price range | Generally modest [TO CHECK US retail ranges] |
+| Common fakes | Undisclosed dye |
+| Price range | Generally modest (see Price Guide) |
 | Birthstone | Not on the modern list, though sardonyx, a banded chalcedony, is one of August's stones |
 | Chakra (Modern Association) | Most often root, or matched to the color |
 
@@ -67,21 +70,21 @@ Agate is a banded, translucent variety of chalcedony, the microcrystalline form 
 
 **The Stone.** Agate is chalcedony, a mass of quartz crystals far too small to see. The [International Gem Society](https://www.gemsociety.org/article/agate-gem-information/) says its patterns, translucency and sometimes moss-like inclusions set it apart from other chalcedonies, and [Geology.com](https://geology.com/gemstones/agate/) calls it a translucent variety of microcrystalline quartz.
 
-Being quartz makes it hard, 6.5 to 7 on the Mohs scale (7 per Geology.com), with no cleavage and a curved, shell-like fracture ([Geology.com](https://geology.com/minerals/quartz.shtml)). It also takes an exceptional polish (IGS).
+Being quartz makes it hard, 6.5 to 7 on the Mohs scale (IGS, 7 per Geology.com), with no cleavage and a curved, shell-like fracture ([Geology.com](https://geology.com/minerals/quartz.shtml)). It also takes an exceptional polish (IGS).
 
 ### How Agate Forms
 
-Agate grows in holes. Groundwater carrying silica seeps into cavities in igneous rock and leaves the silica behind in layers, either following the cavity walls or building up flat from the bottom (Geology.com). Each band records a change in the water's chemistry. Most agates form as nodules in volcanic rock, often in old gas bubbles in lava, and [Wikipedia](https://en.wikipedia.org/wiki/Agate) says agate banding has never been reproduced in a lab, a claim we could not confirm on a reference site [TO CHECK with a reference source].
+Agate grows in holes. Groundwater carrying silica seeps into cavities in igneous rock and leaves the silica behind in layers, either following the cavity walls or building up flat from the bottom (Geology.com). Each band records a change in the water's chemistry. The best agates come from basalt, where gas bubbling out of the hardening lava left the holes, according to a 2001 [Penn State](https://www.psu.edu/news/research/story/how-do-agates-form) article quoting the mineralogist Peter Heaney. Exactly how the bands form is still not completely understood, a 2013 study in GIA's [Gems & Gemology](https://www.gia.edu/gems-gemology/FA13-dumanska-agate-sidi-rahal) notes, and in the Penn State article Heaney said no one had ever made an agate.
 
 ### What Gives Agate Its Colors
 
-The colors come from impurities that line up as bands (Geology.com), namely traces of iron, manganese, titanium, chromium and nickel oxides (International Gem Society). Iron does most of the work, with hematite behind many red bands and goethite behind yellow ones (Wikipedia).
+The colors come from impurities that line up as bands (Geology.com), namely traces of iron, manganese, titanium, chromium and nickel oxides (International Gem Society). In Moroccan agates studied for *Gems & Gemology* in 2013, the red to red-brown layer owed its color to the iron minerals hematite and goethite.
 
 Here is the part shops skip. Most agate has unimpressive colors, and because the stone is porous and readily takes dye, most spectacularly colored agates in the trade have been dyed (Geology.com).
 
 ### Agate or Geode?
 
-Often both. A geode is a cavity lined with crystals (Geology.com), and agate is banded silica that can fill one. When the silica runs short, the center stays hollow and quartz crystals grow inward, which Wikipedia calls an agate geode. [Minerals.net](https://www.minerals.net/mineral/chalcedony) notes that agate commonly lines geodes under the larger quartz crystals.
+Often both. A geode is a cavity lined with crystals (Geology.com), and agate is banded silica that can fill one. In the last stage, quartz crystals can grow in the middle of the cavity, sometimes as smoky quartz or amethyst (*Gems & Gemology*, 2013), and [Minerals.net](https://www.minerals.net/mineral/chalcedony) notes that agate commonly lines geodes under the larger quartz crystals.
 
 <!-- PHOTO 2, beside "Agate or Geode?". Smithsonian NMNH, "Quartz (var. agate)", Dryhead, Montana, United States. Image https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3710909c8e0fd41b7bcf2aca51e075068 . Record http://n2t.net/ark:/65665/349ff0422-7267-4c8b-8ed4-46c9e0373e1e . License CC0 (Smithsonian Open Access), https://www.si.edu/openaccess . Credit line "Smithsonian National Museum of Natural History, CC0". visual_check ok, visual_use secondary. Alt text "Agate slice from Dryhead, Montana, with a banded brown rim around a white crystal center, Smithsonian collection". -->
 
@@ -102,17 +105,17 @@ Banded agates also come from Uruguay, Madagascar and the United States (IGS). Ag
 
 - **The Hebrew breastplate.** **Tradition.** Exodus sets "an agate" in the breastplate's third row, and George Frederick Kunz reads it as a banded agate engraved with the name Benjamin (*The Curious Lore of Precious Stones*, 1913, pages 276 and 296 to 297).
 - **Ancient seafaring.** **Tradition.** One of seven sailors' amulets Kunz describes held a stone "girdled with stripes like the body of a snake," most probably banded agate, and its wearer "had no need to fear the surging ocean" (1913, page 39).
-- **Roman times.** **Tradition.** Pliny said agate was named for the River Achates in Sicily (Wikipedia), and he found it so common it was "but little regarded," as Kunz reports (1913, pages 296 to 297) [TO CHECK Pliny, Book 37, Bostock and Riley translation].
+- **Roman times.** **Tradition.** Pliny the Elder wrote that achates was first found in Sicily, near a river of the same name, and that "Achates was a stone formerly in high esteem, but now held in none" (*Natural History*, Book 37, chapter 54, Bostock and Riley translation, via [Perseus, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D54)). His achates is generally taken to be banded chalcedony, the family modern agate belongs to, though some of the named kinds he lists mix in jasper and coral.
 - **Before Islam, Arabia.** **Tradition.** Hobal, the most celebrated idol at the Kaaba, was a man carved in red agate, and prayers for rain were made to it in drought. In Persia agate was believed to ward off tempests (*The Magic of Jewels and Charms*, 1915, page 84).
 - **11th century.** **Tradition.** Marbodus, Bishop of Rennes, wrote that agates make their wearers "agreeable and persuasive." Camillo Leonardo added victory, strength and protection from tempests and lightning (Kunz 1913, page 51).
 - **16th century.** **Tradition.** Agate was believed to cure insomnia and bring pleasant dreams. Girolamo Cardano wore one, suffered misfortunes and gave it up. Kunz's verdict is that Cardano "quite failed to appreciate the fact that no real connection of any kind existed between the stones and their supposed effects" (1913, page 52).
 - **Folk tradition, New Year.** **Tradition.** The St. Sylvester stone, a two-color banded agate, was a typical New Year's present. Its light side stood for the old year and its dark side for the new one, "dark like futurity" (Kunz 1913, page 258).
 - **Mid-1800s, Germany and Africa.** **Tradition.** Cutters at Idar and Oberstein were kept busy making agate amulets for the Sudan, brown or black stones with a white ring read as an eye against the Evil Eye. Single firms exported 40,000 thalers' worth a year (Kunz 1913, page 54).
-- **Today.** **Modern Association.** Grounding, stability and protection lead. One large crystal encyclopedia builds its agate entry from published crystal books, Judy Hall's among them [TO CHECK titles and years before naming them].
+- **Today.** **Modern Association.** Grounding, stability and protection lead in modern crystal books and seller guides.
 
 ## What People Use Agate for Today
 
-**Modern Association.** In the crystal guides we compared, agate is Widely Linked with [grounding](/crystals-for/grounding/), almost always paired with stability and protection. Balance, courage and calm come next, and one shop guide calls it a stone of "slow, steady strength."
+**Modern Association.** In modern crystal guides, agate is Widely Linked with [grounding](/crystals-for/grounding/), almost always paired with stability and protection. Balance, courage and calm come next, and one crystal seller calls it a stone of "slow, steady strength."
 
 Most of the "why" seems to come from the stone itself. Layers laid down one at a time look like patience, and earthy browns suit the element earth that guides give it. The protection theme is the oldest thread, from snake-striped sailors' amulets to the eye agates of the 1800s.
 
@@ -144,7 +147,7 @@ As a mineral, agate is a hard stone that takes a high polish. Everything else is
 
 **Try This.** Keep a thin agate slice on the nightstand. Instead of one more scroll, hold it to the lamp for a minute and follow the bands as light comes through. The 16th century hoped agate would bring pleasant dreams. A minute without a screen is the realistic version.
 
-**What Research Says.** [TO CHECK a peer-reviewed study with DOI on short pauses or bedtime screen habits, and say plainly that it did not use stones.] Until then, treat these as personal practices.
+**What Research Says.** The New Year's stone has the closest match in research, though not with stones. Three archival field studies, which tracked Google searches for "diet," visits to a university gym and commitments made on a goal-setting website, found that people took up their goals more often right after dates that feel like a fresh start, such as a new week, month or year (Dai, Milkman and Riis, 2014, *Management Science*, [doi.org/10.1287/mnsc.2014.1901](https://doi.org/10.1287/mnsc.2014.1901)). The data were observational, so they show a pattern rather than a cause, and no agate or any other stone was tested. Treat the habits above as personal practices.
 
 > **When a Stone Is Not Enough.** Agate is often chosen for stress and unsettled sleep, and some guides suggest it in pregnancy. A stone can be a comfort to hold, but it is not care. If anxiety, low mood or poor sleep lasts or feels heavy, talk to a doctor or a therapist, and bring pregnancy questions to your doctor or midwife.
 
@@ -154,8 +157,8 @@ We use the same five labels on every stone. Agate is easy to find real and hard 
 
 - **Natural, untreated.** Usually soft grays, browns and whites, the unimpressive colors Geology.com says most agate has.
 - **Natural, treated.** Dyeing is ancient, common, usually stable, and should be disclosed (International Gem Society). Heating is used too, and much material sold as carnelian is plainer agate heated or stained (Geology.com).
-- **Lab-grown.** Wikipedia says agate has never been made synthetically, but neither Geology.com nor the International Gem Society says so. The IGS only points to its quartz page for lab-made quartz in general [TO CHECK with a reference source].
-- **Imitation.** [TO CHECK which glass, resin or other stones are sold as agate in the US.]
+- **Lab-grown.** We found no reference source on lab-grown agate sold in the US, and in 2001 the Penn State mineralogist Peter Heaney said no one had ever made an agate.
+- **Imitation.** We found no reference source describing glass, resin or other materials sold as agate in the US.
 - **Trade names.** "Agatized wood" is chalcedony (Geology.com), and moss "agates" lack true bands. Stretched names, not fakes.
 
 ### Is Bright Blue, Pink or Purple Agate Dyed?
@@ -164,17 +167,17 @@ Almost certainly. Geology.com shows agate bookends whose blue was produced with 
 
 Three checks you can do at home, with their limits.
 
-1. **Look for bands against the light.** Agate is banded and usually translucent. This rules jasper out, but not every banded chalcedony is an agate (Wikipedia).
-2. **Judge the color honestly.** Neon shades point to dye, but our sources give no home test that proves it. Treat it as a question for the seller.
+1. **Look for bands against the light.** Agate is banded and usually translucent. This rules jasper out, but it does not prove agate, since onyx and sardonyx are banded chalcedony too (IGS).
+2. **Judge the color honestly.** Neon shades point to dye, but we found no reference source with a home test that proves it. Treat it as a question for the seller.
 3. **Look at a chip or break.** Quartz breaks with a curved fracture and no flat cleavage planes. A banded stone that splits along flat faces is probably something else.
 
 Ask the seller whether the color was dyed or heated, and where the stone was found. The [Label Decoder](/tools/crystal-label-decoder/) turns the words on a tag into what they usually mean.
 
 ## How to Care for Agate
 
-**Mineral Fact.** Agate is tough enough for most jewelry (IGS), though Wikipedia lists it as brittle, so a hard knock can chip it.
+**Mineral Fact.** Agate is tough enough for most jewelry (IGS).
 
-- **Water, sun, heat, chemicals and salt.** Unknown. None of our sources cover them yet.
+- **Water, sun, heat, chemicals and salt.** Unknown. We found no reference source that covers them for agate yet.
 - **Storage.** OK. Durable enough for most jewelry.
 - **Toxicity.** OK to wear and handle. The International Gem Society rates agate's toxicity as low, and the hazard it names, silicosis, concerns dust from cutting and polishing ([IGS care guide](https://www.gemsociety.org/article/gemstone-care-guide/)).
 
@@ -190,7 +193,7 @@ Agate is translucent and usually banded, and jasper is opaque. Both are microcry
 
 ### Red Agate vs Carnelian
 
-Carnelian is named for its color, a translucent orange to red to brown chalcedony, and red agate for its bands, usually reddened by hematite. The line blurs. [Geology.com](https://geology.com/gemstones/carnelian/) calls carnelian "carnelian agate," often banded with white, while Wikipedia lists it as its own chalcedony, so a banded piece can fairly be called either. Treatment matters more. The [International Gem Society](https://www.gemsociety.org/article/carnelian-gem-information/) says to assume any carnelian is enhanced unless told otherwise. See [red agate vs carnelian](/compare/red-agate-vs-carnelian/).
+Carnelian is named for its color, a translucent orange to red to brown chalcedony, and red agate for its bands, colored by iron oxides. The line blurs. [Geology.com](https://geology.com/gemstones/carnelian/) calls carnelian "carnelian agate," often banded with white, while the International Gem Society treats it as a chalcedony variety of its own, so a banded piece can fairly be called either. Treatment matters more. The [International Gem Society](https://www.gemsociety.org/article/carnelian-gem-information/) says to assume any carnelian is enhanced unless told otherwise. See [red agate vs carnelian](/compare/red-agate-vs-carnelian/).
 
 ### Other Stones Sold Near Agate
 
@@ -199,7 +202,7 @@ Carnelian is named for its color, a translucent orange to red to brown chalcedon
 
 ## Price Guide
 
-The International Gem Society calls agate's value generally quite modest, with labor and artistry counting for more than the stone. Larger pieces with fine or landscape-like patterns, custom cuts and stones from prized locations cost more (IGS). [TO CHECK typical US retail ranges for tumbled stones, slices, bracelets and cabochons, with a dated source.]
+The International Gem Society calls agate's value generally quite modest, with labor and artistry counting for more than the stone. Larger pieces with fine or landscape-like patterns, custom cuts and stones from prized locations cost more (IGS). Treatment counts too. Most spectacularly colored agate has been dyed (Geology.com), so ask before paying extra for a bright color.
 
 **Next Step.** Building a steadier routine? See how agate compares with the other usual picks in [crystals for grounding](/crystals-for/grounding/).
 
@@ -208,11 +211,15 @@ The International Gem Society calls agate's value generally quite modest, with l
 - International Gem Society, [Agate](https://www.gemsociety.org/article/agate-gem-information/), [Jasper](https://www.gemsociety.org/article/jasper-gem-information/), [Carnelian](https://www.gemsociety.org/article/carnelian-gem-information/), [Chalcedony](https://www.gemsociety.org/article/chalcedony-jewelry-and-gemstone-information/) and the [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Geology.com, [Agate](https://geology.com/gemstones/agate/), [Carnelian](https://geology.com/gemstones/carnelian/) and [Quartz](https://geology.com/minerals/quartz.shtml)
 - Minerals.net, [Chalcedony](https://www.minerals.net/mineral/chalcedony)
-- Wikipedia, [Agate](https://en.wikipedia.org/wiki/Agate) and [Chalcedony](https://en.wikipedia.org/wiki/Chalcedony), used as pointers only
-- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
+- Magdalena Dumanska-Słowik and colleagues, "Agates from Sidi Rahal, in the Atlas Mountains of Morocco, Gemological Characteristics and Proposed Origin," *Gems & Gemology*, Fall 2013, [GIA](https://www.gia.edu/gems-gemology/FA13-dumanska-agate-sidi-rahal)
+- Nancy Marie Brown, "How Do Agates Form?" Penn State News, August 31, 2001, [Penn State](https://www.psu.edu/news/research/story/how-do-agates-form)
+- American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
+- IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
+- Pliny the Elder, *Natural History*, Book 37, chapter 54, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D54)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 39, 51 to 52, 54, 137, 149, 258, 276, 296 to 297 and 336 to 337, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), page 84, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- Modern associations compared across the crystal guides in our lore collection, including lebensquelle-plus.de, crystalvaults.com, crystals.com, energymuse.com, france-mineraux.fr, edelsteine.net and wemystic.com.br, read November 13, 2026
+- H. Dai, K. L. Milkman and J. Riis, *Management Science* 60 (2014), [doi.org/10.1287/mnsc.2014.1901](https://doi.org/10.1287/mnsc.2014.1901)
+- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

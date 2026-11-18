@@ -23,7 +23,12 @@ sources:
   - "https://geology.com/minerals/calcite.shtml"
   - "https://geology.com/gemstones/aventurine/"
   - "https://www.minerals.net/mineral/jadeite.aspx"
-  - "https://en.wikipedia.org/wiki/Jade"
+  - "https://www.gemsociety.org/article/nephrite-jewelry-and-gemstone-information/"
+  - "https://www.gemsociety.org/article/does-synthetic-jade-exist/"
+  - "https://www.gia.edu/gems-gemology/spring-1987-synthetic-jadeite-nassau"
+  - "https://www.gia.edu/gems-gemology/spring-2017-japanese-jadeite"
+  - "https://doi.org/10.1016/S0065-2601%2806%2938002-1"
+  - "https://cnmnc.units.it/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
   - "https://moonrisecrystals.com/green-jade-meaning/"
@@ -35,7 +40,7 @@ sources:
 
 Green jade is jade in its best-known color, and it can be either of two different materials, jadeite or nephrite. Chinese carvers made it an emblem of long life and riches, and modern crystal guides tie it to luck, money and the heart. Plenty of "green jade" for sale is treated, dyed or another stone entirely.
 
-<!-- PHOTO TO FIND, hero. No green jade candidate is checked as good. The Smithsonian "Nephrite" from North Table Butte, Leucite Hills, Wyoming (images_candidates.csv, slug jade) has visual_check ok but visual_use no, because of a ruler and museum label in frame. Record http://n2t.net/ark:/65665/3f44d8842-6b96-42c3-bc09-af4ac9d67fff , image https://ids.si.edu/ids/deliveryService/id/ark:/65665/m34515b827dffb452485109570b70e5173 , CC0 (Smithsonian Open Access). It could work cropped, as a polished green nephrite sphere. Unchecked Wikimedia Commons leads in images_commons_candidates.csv, "File 02.Nephrite green jade bracelet.jpg" by Notenatdanai0311 (CC BY 4.0) https://commons.wikimedia.org/wiki/File:02.Nephrite_green_jade_bracelet.jpg , and for the history section "File Neolithic Liangzhu Culture Green Jade Cong, c. 3300-2200 BC.jpg" by Gary Todd (CC0) https://commons.wikimedia.org/wiki/File:Neolithic_Liangzhu_Culture_Green_Jade_Cong,_c._3300-2200_BC.jpg . Check each visually, and never call a piece jadeite or nephrite in the alt text unless the source says which. -->
+<!-- PHOTO HERO. File site/photos/stones__green-jade/hero.jpg. Source Smithsonian NMNH, http://n2t.net/ark:/65665/3e0bb5dd7-c61f-41ff-b880-4123cc6446fa . License CC0. Credit "Smithsonian National Museum of Natural History, CC0". Visual check 2026-11-18, Mogoung (Myanmar) jadeite with emerald-green window in brown skin on white. -->
 
 ## Green Jade Quick Facts
 
@@ -54,7 +59,7 @@ Green jade is jade in its best-known color, and it can be either of two differen
 | Chemicals | Avoid acids |
 | Salt | Unknown |
 | Toxic to handle | Unknown |
-| Price range | From inexpensive to more per carat than fine diamonds [TO CHECK US retail ranges] |
+| Price range | From inexpensive to more per carat than fine diamonds (see Price Guide) |
 | Chakra (Modern Association) | Heart |
 
 > **Is It Real? Quick Checks.** Read the label first. Names like "Mexican jade," "Indian jade" and "Korean jade" usually mean calcite, aventurine or serpentine. Real jade feels heavy for its size and does not scratch easily. Bright, even green at a low price can mean dye. Only a gem lab can tell untreated jadeite from bleached and filled Type B.
@@ -71,7 +76,7 @@ Yes. Green jade is jade, just named by its color, and the name alone does not te
 
 ### What Makes Jade Green
 
-In jadeite, rich deep green material can show a chromium spectrum when gemologists examine it, and its formula can also carry iron ([International Gem Society](https://www.gemsociety.org/article/jadeite-jewelry-and-gemstone-information)). Nephrite's formula includes iron as well. [TO CHECK with a reference source which elements color green nephrite.]
+In jadeite, rich deep green material can show a chromium spectrum when gemologists examine it, and its formula can also carry iron ([International Gem Society](https://www.gemsociety.org/article/jadeite-jewelry-and-gemstone-information)). Nephrite's formula includes iron as well, and the International Gem Society puts nephrite's green colors down to that iron, with more iron giving darker greens ([International Gem Society](https://www.gemsociety.org/article/nephrite-jewelry-and-gemstone-information/)).
 
 The finest green has its own names. The Chinese called rich emerald-green jadeite fei ts'ui, "kingfisher plumes," or Imperial jade (Kunz, *The Curious Lore of Precious Stones*, 1913, page 83). Geology.com describes it as fine-grained, brightly translucent jadeite of a rich, uniform green, once reserved for the Emperor.
 
@@ -96,13 +101,13 @@ Green nephrite is the Maori "green stone" of New Zealand (Geology.com), punamu t
 
 ## What People Use Green Jade for Today
 
-**Modern Association.** In the crystal guides we compared, green jade is a Classic stone for [money](/crystals-for/money/), alongside luck and prosperity. The guides we read place it on the heart chakra, and harmony, calm and loyal relationships follow close behind. Zodiac charts vary, with Taurus and Libra among the signs listed.
+**Modern Association.** In modern crystal guides, green jade is a Classic stone for [money](/crystals-for/money/), alongside luck and prosperity. The same guides place it on the heart chakra, and harmony, calm and loyal relationships follow close behind. Zodiac charts vary, with Taurus and Libra among the signs listed.
 
 The "why" is mostly history. Chinese fortune emblems carved in green jade lead straight to the money link. One guide says businessmen have long carried jade in their pockets during negotiations, and that jade is traditionally given to newlyweds ([Moonrise Crystals](https://moonrisecrystals.com/green-jade-meaning/)). The same guide gives green jade the east in a feng shui scheme of five colored jades.
 
 ### What Does Green Jade Symbolize?
 
-Historically, rank, long life, riches and love in China, the heart in ancient Mexico, and the ancestors in New Zealand. Today, mostly luck, abundance and harmony. Wikipedia mentions a theory, not an established fact, that ancient Japan valued green jade because green stood for fertility and "the soul of the earth" ([Wikipedia](https://en.wikipedia.org/wiki/Jade)) [TO CHECK upstream source].
+Historically, rank, long life, riches and love in China, the heart in ancient Mexico, and the ancestors in New Zealand. Today, mostly luck, abundance and harmony. Japan has a jade story too, though it is about jadeite of any color. Jadeite carving began in the Itoigawa region about 5,500 years ago, and curved magatama beads of jadeite appear to have been sacred ornaments as well as symbols of wealth and prestige ([Gems & Gemology](https://www.gia.edu/gems-gemology/spring-2017-japanese-jadeite), Spring 2017).
 
 Some sites go much further, listing kidneys, the adrenal glands, autoimmune disorders, fever, asthma, fertility and safe childbirth. The kidney idea is the flank stone story above, which Kunz already doubted in 1913. Nothing in the mineral or medical sources behind this page supports those claims.
 
@@ -124,7 +129,7 @@ Some sites go much further, listing kidneys, the adrenal glands, autoimmune diso
 
 **Safety.** Small beads and tumbled stones are not toys. Keep them away from small children and pets, and never put jade in drinking water or tea, since our data does not cover its toxicity and treated jade can contain resin and dye.
 
-**What Research Says.** [TO CHECK a peer-reviewed study with DOI on implementation intentions, money habits or tactile cues, and say plainly that it did not use stones.] Until then, treat these as personal practices.
+**What Research Says.** A 2006 meta-analysis that pooled earlier lab and field studies found that people who decided in advance "if this happens, then I will do that" acted on their goals more often than people who only meant to (Gollwitzer and Sheeran, *Advances in Experimental Social Psychology*, [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)). The studies covered everyday goals, not stones or money talks, and a plan helps most with something you already want to do. Treat the habits above as personal practices.
 
 > **When a Stone Is Not Enough.** Green jade is often chosen for fertility, pregnancy, a newborn's protection and stress. A stone can be a comfort to hold, but it is not care. Talk to a doctor or a midwife about fertility and pregnancy, and to a pediatrician about a baby's health. Never put a jade amulet or a small bead on a sleeping baby.
 
@@ -134,7 +139,7 @@ We use the same five labels on every stone, plus the trade's own A, B, C system 
 
 - **Natural, untreated.** The trade's Type A comes closest. Type A jadeite has only a traditional wax coating, expected and accepted by serious buyers (Geology.com).
 - **Natural, treated.** Type B jadeite is bleached in acid, then impregnated with wax or polymer resin. It can start to deteriorate in just a few years, sells for a fraction of Type A and is often sold without disclosure. Type C adds dye to all that, and its color can fade with time, heat and light (Geology.com).
-- **Lab-grown.** [TO CHECK whether synthetic jadeite is sold.]
+- **Lab-grown.** Made, but not sold. General Electric produced green and lavender synthetic jadeite on an experimental basis, and when GIA studied it in 1987 there were no plans for commercial production ([Gems & Gemology](https://www.gia.edu/gems-gemology/spring-1987-synthetic-jadeite-nassau), Spring 1987). The International Gem Society says it still is not produced commercially and that nephrite has not been synthesized at all, so "synthetic jade" on a tag most likely means a look-alike ([International Gem Society](https://www.gemsociety.org/article/does-synthetic-jade-exist/)).
 - **Imitation.** Glass and plastic (International Gem Society), plus triplets with a green-dyed cement filling made to look like Imperial jade.
 - **Trade names.** Many "jade" names cover other stones (Geology.com). Mexican jade is dyed calcite or travertine, Indian jade is aventurine, Korean jade can be glass, soapstone or serpentine, African jade is grossular garnet and Amazon jade is amazonite. US Federal Trade Commission guides of 2018 call incorrect varietal names potentially "deceptive."
 
@@ -162,7 +167,7 @@ The [Label Decoder](/tools/crystal-label-decoder/) translates jade names like th
 - **Sun.** Brief only. GIA says jade itself is stable to light, but Type B resins can discolor and Type C dyes can fade with sunlight (Geology.com), and you may not know which you have.
 - **Heat.** Brief only. The same resins and dyes react to heat, and GIA warns that a jeweler's torch can harm jade.
 - **Chemicals.** Avoid. Warm acids can affect jade (GIA), and acid-treated pieces may be weakened, says the International Gem Society [care guide](https://www.gemsociety.org/article/gemstone-care-guide/).
-- **Salt.** Unknown. None of our sources cover it yet.
+- **Salt.** Unknown. We found no reference source on salt and jade, so skip it.
 - **Cleaning.** OK with warm water, mild detergent and a soft brush. GIA says ultrasonic and steam cleaners are safe only for untreated jade.
 - **Toxicity.** Unknown. Keep jade out of anything you drink.
 
@@ -182,7 +187,7 @@ A wash, yes. A long soak, a salt cleanse or a day in the sun, not by our data. O
 
 Green jade prices span an enormous range. The best Imperial Jade can cost more per carat than high-quality diamonds (Geology.com), and GIA's gem encyclopedia notes that green is the most valuable jade color. At the other end, Type B jadeite sells for a small fraction of a similar Type A piece, and Type C for a fraction of Type B. Geology.com advises buying Type C at a price that assumes temporary use for a few years.
 
-[TO CHECK typical US retail ranges for green jade beads, bangles, pendants and carvings, with a dated source.]
+For beads, bangles, pendants and carvings, the International Gem Society names color, origin and size as the main value factors for jade, and for carvings the artistry and provenance, since carved pieces are priced by the piece rather than by the carat ([International Gem Society](https://www.gemsociety.org/article/nephrite-jewelry-and-gemstone-information/)). Add the treatment type for jadeite, and ask for a lab report before paying a high price.
 
 **Next Step.** Choosing a stone for a fresh start with money? See how green jade compares with the other usual picks in [crystals for money](/crystals-for/money/).
 
@@ -193,12 +198,16 @@ Green jade prices span an enormous range. The best Imperial Jade can cost more p
 - Joel E. Arem and Donald Clark, International Gem Society, [Jadeite](https://www.gemsociety.org/article/jadeite-jewelry-and-gemstone-information)
 - Gaurav Agrawal, International Gem Society, [Jade Sources](https://www.gemsociety.org/article/jade-sources/), updated October 3, 2022
 - International Gem Society, [Serpentine](https://www.gemsociety.org/article/serpentine-jewelry-and-gemstone-information/) and [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
-- Minerals.net, [Jadeite](https://www.minerals.net/mineral/jadeite.aspx), and the IMA List of Minerals, July 2026 edition
-- Wikipedia, [Jade](https://en.wikipedia.org/wiki/Jade), used as a pointer only
+- Joel E. Arem, International Gem Society, [Nephrite](https://www.gemsociety.org/article/nephrite-jewelry-and-gemstone-information/), updated July 10, 2025, and International Gem Society, [Does Synthetic Jade Exist?](https://www.gemsociety.org/article/does-synthetic-jade-exist/), updated October 26, 2022
+- Kurt Nassau and James E. Shigley, *Gems & Gemology*, Spring 1987, [A Study of the General Electric Synthetic Jadeite](https://www.gia.edu/gems-gemology/spring-1987-synthetic-jadeite-nassau)
+- Ahmadjan Abduriyim, Kazuko Saruwatari and Yusuke Katsurada, *Gems & Gemology*, Spring 2017, [Japanese Jadeite, History, Characteristics, and Comparison with Other Sources](https://www.gia.edu/gems-gemology/spring-2017-japanese-jadeite)
+- Minerals.net, [Jadeite](https://www.minerals.net/mineral/jadeite.aspx)
+- IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 83 to 89 and 382 to 383, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 384 to 385, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - Handbook of Mineralogy, [Grossular](https://www.handbookofmineralogy.org/pdfs/grossular.pdf)
-- Modern associations compared across moonrisecrystals.com and france-mineraux.fr, read November 13, 2026
+- P. M. Gollwitzer and P. Sheeran, *Advances in Experimental Social Psychology* (2006), [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)
+- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

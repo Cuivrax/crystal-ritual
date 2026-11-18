@@ -111,7 +111,7 @@ Rarely, and only for collectors. At 3.5 on the Mohs scale with good cleavage, ad
 
 ## Where the Meaning Comes from
 
-**The Story.** Adamite has no ancient lore, and the reason is simple. It was not described until 1866, too late for the old lapidaries, and George Frederick Kunz's two big books of gem lore (1913 and 1915) never mention it. Its story is a collector's story, and its meanings are recent.
+**The Story.** Adamite has no ancient lore, and the reason is simple. It was not described until 1866, too late for the old lapidaries. Its story is a collector's story, and its meanings are recent.
 
 - **1866.** **Mineral Fact.** Adamite is described and named for Gilbert-Joseph Adam, who supplied the first specimens (IMA List of Minerals, *Handbook of Mineralogy*). Chañarcillo, in Chile's Atacama region, is usually given as its type locality.
 - **1948, Mexico.** **Mineral Fact.** *American Mineralogist* publishes a study of adamite from the Ojuela Mine by Mrose, Mayers and Wise (cited in the *Handbook of Mineralogy*).
@@ -225,7 +225,7 @@ Adamite sells mostly as mineral specimens, and faceted stones are small collecto
 - Rebecca Tsang, [Unusual Colored Stones](https://www.gia.edu/gems-gemology/spring-2016-labnotes-unusual-colored-stones), *Gems & Gemology*, Spring 2016
 - Merriam-Webster, [Adamite](https://www.merriam-webster.com/dictionary/adamite)
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
-- George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583), searched for adamite with no result
+- George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - Modern associations compared across crystalvaults.com, crystalgemstones.net, france-mineraux.fr, wemystic.fr, realitypathing.com, fiercelynxdesigns.com and the Crystals and Beyond podcast, read November 18, 2026
 
 Last reviewed [TO CHECK date at final review].

@@ -11,7 +11,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-06"
 publishTime: "07:00"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/chrysoprase-gem-information/"
@@ -39,7 +39,7 @@ sources:
 
 Chrysoprase is the apple-green variety of chalcedony, a quartz made of microscopic crystals, and nickel gives it its color. Modern crystal guides tie it to the heart, hope and fresh starts, which are beliefs. The honest note is that a lot of "chrysoprase" for sale is ordinary chalcedony dyed green.
 
-<!-- PHOTO HERO TO FIND. No chrysoprase row in images_candidates.csv or image_picks_new_stones.json, and every Commons candidate has visual_check empty. Best candidates to check first, "File Chrysoprase (GeoDIL number - 2262).jpg" by Shannon Heinle, CC0, and "File Quartz, chrysoprase (GeoDIL number - 2465).jpg" by Darla Sondrol, CC0, then "File Chrysoprase (Australia) 1.jpg" by James St. John, CC BY-SA 4.0. Check that the stone shows natural variation (not the flat even green of dyed chalcedony), then log page, license and credit. -->
+<!-- PHOTO HERO. File site/photos/stones__chrysoprase/hero.jpg. Source Openverse/Flickr, https://www.flickr.com/photos/47445767@N05/32132827260 . License BY 2.0. Credit "Photo by James St. John on Flickr (BY 2.0)". Visual check 2026-11-18, Apple-green rough chrysoprase. -->
 
 ## Chrysoprase Quick Facts
 
@@ -118,7 +118,7 @@ The "why" is mostly color. One guide compares its green to new leaves and early 
 
 ### What Does Chrysoprase Do?
 
-As a mineral, it is a hard gem with no cleavage, fit for any jewelry (International Gem Society). Everything else people say it does is belief. Some sites promise detox, liver or heart benefits, and one German guide credits healing claims to Hildegard of Bingen while noting she may have meant a different green chalcedony. Nothing in the mineral or medical sources behind this page supports those claims.
+As a mineral, it is a hard gem with no cleavage, fit for any jewelry (International Gem Society). Everything else people say it does is belief. Some sites promise detox, liver or heart benefits, and one German guide credits healing claims to Hildegard of Bingen while noting she may have meant a different green chalcedony. No mineral or medical reference we know of supports those claims.
 
 ## How to Use Chrysoprase in Everyday Life
 
@@ -142,7 +142,7 @@ As a mineral, it is a hard gem with no cleavage, fit for any jewelry (Internatio
 
 **Safety.** Small tumbled stones and bead bracelets are not toys. Keep them away from small children and pets who might swallow them.
 
-**What Research Says.** No study behind this page tested chrysoprase, so treat these as personal practices.
+**What Research Says.** No study we know of tested chrysoprase, so treat these as personal practices.
 
 > **When a Stone Is Not Enough.** Chrysoprase is often chosen for heartbreak and grief. A stone can be a comfort, but it is not care. If sadness, anxiety or trouble sleeping lasts or feels heavy, talk to a doctor or a therapist. If you are in crisis in the US, call or text 988, or chat at [988lifeline.org](https://988lifeline.org).
 
@@ -180,7 +180,7 @@ A gem lab can confirm it. The 2026 GIA study recorded a refractive index of 1.53
 
 ### Can Chrysoprase Go in Water?
 
-Yes, for washing. The International Gem Society cleans it with mild detergent, warm water and a soft brush, and even stores faded European stones with a moist cloth to bring the color back. Our sources cover washing, not long soaks, so our [Care Checker](/tools/crystal-care-checker/) rates soaking Brief only.
+Yes, for washing. The International Gem Society cleans it with mild detergent, warm water and a soft brush, and even stores faded European stones with a moist cloth to bring the color back. The International Gem Society covers washing, not long soaks, so our [Care Checker](/tools/crystal-care-checker/) rates soaking Brief only.
 
 ### Can Chrysoprase Go in the Sun?
 
@@ -219,7 +219,7 @@ What sets the price is mostly color, translucency and whether the color is natur
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 36 to 37, 67 to 68, 259 to 260, 265, 305, 312, 313, 316, 319 and 373, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 122 to 123 and 277, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - 988 Suicide & Crisis Lifeline contact details from [988lifeline.org](https://988lifeline.org/) and [SAMHSA](https://www.samhsa.gov/mental-health/988)
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

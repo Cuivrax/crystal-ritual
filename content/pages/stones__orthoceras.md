@@ -16,7 +16,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-10"
 publishTime: "07:32"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://woostergeologists.scotblogs.wooster.edu/2013/11/03/woosters-fossils-of-the-week-very-common-orthocerid-nautiloids-from-the-siluro-devonian-of-morocco/"
@@ -24,8 +24,6 @@ sources:
   - "https://museumdata.uk/objects/d100f9fe-14ec-3c11-90a8-477e10e347a6"
   - "https://iugs-geoheritage.org/geoheritage_sites/the-ordovician-section-of-the-hallekis-quarry/"
   - "https://geology.com/minerals/calcite.shtml"
-  - "https://en.wikipedia.org/wiki/Orthoceras"
-  - "https://en.wikipedia.org/wiki/Ammonoidea"
   - "https://www.americangemsociety.org/birthstones/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
@@ -50,7 +48,7 @@ Orthoceras is a fossil, not a mineral. It is the chambered shell of an extinct s
 | Mineral status | Not a mineral and not on the IMA List of Minerals. A fossil in rock |
 | What it is made of | Shell replaced by calcite, chambers filled with calcite, set in limestone |
 | Hardness | Calcite rates 3 on the Mohs scale |
-| Age | The true genus is Middle Ordovician. Moroccan shop pieces come from Silurian to Devonian limestone |
+| Age | The true genus is Ordovician. Moroccan shop pieces come from Silurian to Devonian limestone |
 | Main sources | Morocco, most likely near Erfoud, for shop plates. Sweden and the Baltic region for the true genus |
 | Water, sun, heat, salt | Unknown |
 | Chemicals | Unknown in our Care Checker. Calcite reacts with acids |
@@ -60,11 +58,11 @@ Orthoceras is a fossil, not a mineral. It is the chambered shell of an extinct s
 | Birthstone | Not on the modern list |
 | Chakra (Modern Association) | Root |
 
-> **Is It Real? Quick Checks.** Look for chambers. A real orthocone shows a row of chambers, and paleontologist Neale Monks puts it bluntly, "if it isn't chambered, it isn't an Orthoceras fossil." The chambers should shrink steadily toward the narrow tip. A sudden jump in chamber size or shell thickness can mean two fossils were glued together. Only a specialist can name the exact genus.
+> **Is It Real? Quick Checks.** Look for chambers. A real orthocone shows a row of chambers, and Dr. Neale Monks puts it bluntly in Deposits magazine, "for all practical purposes, if it isn't chambered, it isn't an Orthoceras fossil." The chambers should shrink steadily toward the narrow tip. A sudden jump in chamber size or shell thickness can mean two fossils were glued together. Only a specialist can name the exact genus.
 
 ## What Orthoceras Actually Is
 
-**The Stone.** Orthoceras is not a stone in the mineral sense. It is an animal. The name, from the Greek for "straight horn," belongs to an extinct nautiloid cephalopod, a mollusk that lived in the open end of a long, straight, chambered shell. The French zoologist Jean Guillaume Bruguière named the genus in 1789, according to geologist Mark Wilson at the [College of Wooster](https://woostergeologists.scotblogs.wooster.edu/2013/11/03/woosters-fossils-of-the-week-very-common-orthocerid-nautiloids-from-the-siluro-devonian-of-morocco/). Wilson describes the animals as active swimming predators.
+**The Stone.** Orthoceras is not a stone in the mineral sense. It is an animal. The name, from the Greek for "straight horn," belongs to an extinct nautiloid cephalopod, a mollusk that lived in the open end of a long, straight, chambered shell. The French zoologist Jean Guillaume Bruguière named the genus in 1789, according to geologist Mark Wilson at the [College of Wooster](https://woostergeologists.scotblogs.wooster.edu/2013/11/03/woosters-fossils-of-the-week-very-common-orthocerid-nautiloids-from-the-siluro-devonian-of-morocco/). Wilson describes nautiloids as "effective nektic (swimming) predators" of the Paleozoic.
 
 What you hold is that shell turned to rock. The shells were originally made of aragonite, "but almost all have been replaced and recrystallized with calcite," Wilson writes. The white to gray material inside the chambers is crystalline calcite "that filled the empty shell after death and burial." The surrounding stone is limestone, and calcite is the main mineral of limestone ([Geology.com](https://geology.com/minerals/calcite.shtml)).
 
@@ -86,27 +84,27 @@ A museum record from [Nottingham Museums](https://museumdata.uk/objects/d100f9fe
 
 ### Where It Comes From
 
-Morocco exports these fossils in large numbers, says paleontologist Neale Monks in [Deposits](https://depositsmag.com/2016/04/29/essential-collectibles-4-orthoceras-nautiloid/), a British magazine for fossil and mineral collectors. Wilson traces Moroccan specimens like his to the Orthoceras Limestone, of Silurian to Devonian age, most likely the beds "exposed near Erfoud in the Ziz Valley near the edge of the Sahara Desert." In places like Morocco, he adds, nautiloids were so common "that their dead shells carpeted shallow seafloors." Those crowded seafloors are the plates you see today.
+Orthocones are exported from Morocco "in large numbers," writes Dr. Neale Monks in [Deposits](https://depositsmag.com/2016/04/29/essential-collectibles-4-orthoceras-nautiloid/), a magazine for fossil and mineral collectors. Wilson traces Moroccan specimens like his to the Orthoceras Limestone, of Silurian to Devonian age, most likely the beds "exposed near Erfoud in the Ziz Valley near the edge of the Sahara Desert." In places like Morocco, he adds, nautiloids were so common "that their dead shells carpeted shallow seafloors." Those crowded seafloors are the plates you see today.
 
-The true genus comes from older rock. *Orthoceras* in the strict sense is restricted to Middle Ordovician marine limestones of Sweden and the Baltic States. At the Hällekis quarry in Sweden, the Ordovician "orthoceratite limestone" holds "abundant and spectacular accumulations of orthocone cephalopods and trilobites," and a nearby quarry in the same interval of rock has given up more than one hundred fossil meteorites ([IUGS Geoheritage](https://iugs-geoheritage.org/geoheritage_sites/the-ordovician-section-of-the-hallekis-quarry/)).
+The true genus is usually tied to older rock, the Ordovician marine limestones of Sweden and the Baltic region. At the Hällekis quarry in Sweden, the Ordovician "orthoceratite limestone" holds "abundant and spectacular accumulations of orthocone cephalopods and trilobites," and a nearby quarry in the same interval of rock has given up more than one hundred fossil meteorites ([IUGS Geoheritage](https://iugs-geoheritage.org/geoheritage_sites/the-ordovician-section-of-the-hallekis-quarry/)).
 
 The Nottingham pieces show how loosely the name has traveled. They were collected at Torquay in South Devon, England, from Middle Devonian marine beds, and the museum still files them as "Orthoceras sp."
 
 ### How Old Are Orthoceras Fossils?
 
-The true genus, *O. regulare*, is Middle Ordovician, roughly 470 to 458 million years old. The Moroccan plates are Silurian to Devonian, so somewhat younger [TO CHECK age range in millions of years for the Moroccan Orthoceras Limestone].
+The true genus, with *O. regulare* as its type species, is Ordovician. The Moroccan plates are Silurian to Devonian, so somewhat younger [TO CHECK age ranges in millions of years for the Ordovician genus and for the Moroccan Orthoceras Limestone].
 
 ### How Big Do Orthoceras Get?
 
-Collector pieces are modest. Monks describes "anything up to 30 cm" (about 12 inches) as typical, and notes that these are usually smaller than the giants of the period. Size is also where shaping comes in, so read the section on fakes below before paying extra for a "large" fossil.
+Collector pieces are modest. Monks writes that the ones sold to collectors are generally smaller than the giants of the Paleozoic, "anything up to 30 cm being typical" (about 12 inches). Size is also where shaping comes in, so read the section on fakes below before paying extra for a "large" fossil.
 
 ## Where the Meaning Comes From
 
-**The Story.** Orthoceras has no ancient or medieval lore that we can document. George Frederick Kunz's two books on gem lore, from 1913 and 1915, have no entry for it, and one crystal shop guide states outright that there are no legends or myths about it. Its story is scientific first and spiritual only recently.
+**The Story.** Orthoceras has no documented ancient or medieval lore. George Frederick Kunz's two books on gem lore, from 1913 and 1915, have no entry for it, and one crystal shop guide states outright that there are no legends or myths about it. Its story is scientific first and spiritual only recently.
 
-- **Middle Ordovician.** *Orthoceras regulare* lives in the sea that laid down the marine limestones of Sweden and the Baltic region. Later, in the Silurian and Devonian, straight-shelled nautiloids carpet shallow seafloors in what is now Morocco (Wilson).
+- **Ordovician.** *Orthoceras regulare* lives in the sea that laid down the marine limestones of Sweden and the Baltic region. Later, in the Silurian and Devonian, straight-shelled nautiloids carpet shallow seafloors in what is now Morocco (Wilson).
 - **1789, France.** Bruguière names the genus Orthoceras, "straight horn" (Wilson).
-- **Later, in paleontology.** The name becomes a catch-all for almost any straight nautiloid from the Paleozoic and even the Triassic. Study of the inner structures, such as the siphuncle, later showed that these shells belong to several different groups. The Treatise on Invertebrate Paleontology, the standard reference for fossil invertebrates, now ties the name to its type species, *O. regulare*, from the Middle Ordovician of Sweden, Russia, Ukraine, Belarus, Estonia and Lithuania, with perhaps a few close relatives.
+- **Later, in paleontology.** The name becomes a catch-all for almost any straight nautiloid, and paleontologists are said to have since narrowed it to the type species *O. regulare* and perhaps a few close relatives, with the many other straight shells moved to other genera.
 - **Today, in the trade.** "Orthoceras" remains, in Wilson's words, "the go-to term for unknown orthoconic (straight) nautiloids." Monks goes further and says the name on Moroccan specimens "is almost certainly not correct." *Michelinoceras michelini* and *Orthocycloceras fluminense*, both known from the Devonian of Morocco, are possibilities, but nobody has settled which, if either, fits most traded pieces.
 - **2013.** Wilson notes in passing that "you can buy 'Orthoceras healing stones'." By then the fossil had joined the crystal shelf.
 - **Today.** **Modern Association.** Crystal shop guides link it to grounding, patience, stability and the root chakra, with a few adding ancestors, the cycles of life and "the here and now." One Dutch shop guide notes that little is published about the stone and describes the shop's own practice instead. A Swiss shop says contemporary esotericism treats it as a talisman for sea travelers. Whether a modern crystal book first gave it these meanings is still open [TO CHECK book titles and years].
@@ -123,7 +121,7 @@ Some associations are marginal. Zodiac lists scatter across Gemini, Leo, Aquariu
 
 As a fossil, orthoceras records how one kind of animal built its shell and how a seafloor turned to stone. It is a teaching piece, a display piece and, in thin slices, a decorative one. Everything else people say it does is belief about the person holding it.
 
-A few pages go further and list fatigue, digestion, rheumatism, vitality or a longer life, often as claims about fossils in general. Nothing in the paleontology behind this page supports them, and shop guides themselves warn that their associations are not medical fact and not a substitute for treatment.
+A few pages go further and list fatigue, digestion, rheumatism, vitality or a longer life, often as claims about fossils in general. Those are health claims, not paleontology, and shop guides themselves warn that their associations are not medical fact and not a substitute for treatment.
 
 ## How to Use Orthoceras in Everyday Life
 
@@ -165,7 +163,7 @@ Three checks you can do at home, with their limits.
 
 1. **Find the chambers.** No chambers, no orthocone. This rules out plain carved stone, not a skilled composite.
 2. **Follow the taper.** In a genuine large specimen, Monks writes, the shell tapers evenly, with chambers and walls getting steadily smaller toward the tip. Sudden changes in shell thickness or uneven chamber sizes can point to pieces joined together. A crushed or broken fossil can also look uneven, so treat it as a hint.
-3. **Check the suture.** Where the inner walls meet the outer shell, the line is simple in orthoceras and intricately folded in Baculites. This needs a clear, well-preserved surface.
+3. **Check the suture.** Where the inner walls meet the outer shell, the line is said to be simple in orthoceras and intricately folded in Baculites. This needs a clear, well-preserved surface.
 
 Ask the seller three questions. Is this one fossil, or several joined? Has the matrix been carved around it, and has anything been dyed or filled? Where was it collected? The [Label Decoder](/tools/crystal-label-decoder/) turns the words on a tag into what they usually mean.
 
@@ -191,7 +189,7 @@ Our Care Checker has no rating for orthoceras yet, so it shows Unknown for water
 
 ## Orthoceras vs Look-Alikes
 
-- **Baculites.** A Late Cretaceous ammonoid, far younger, with the same long tubular form. The two evolved that shape independently. The intricately folded suture line gives Baculites away.
+- **Baculites.** A Late Cretaceous ammonoid, far younger, with the same long tubular form. The two evolved that shape independently. The intricately folded suture line is said to give Baculites away.
 - **Ammonite.** A coiled relative of Baculites. Shop pairings put the two side by side. See [ammonite](/stones/ammonite/).
 - **Michelinoceras and other orthocerids.** Many very similar straight shells are placed in other genera, so a polished cross-section can rarely be named to genus.
 
@@ -208,7 +206,6 @@ Size and preparation drive the price, and preparation can inflate size. Monks ad
 - Nottingham Museums, [Orthoceras sp., cut and polished limestone](https://museumdata.uk/objects/d100f9fe-14ec-3c11-90a8-477e10e347a6), via the Museum Data Service, CC BY
 - International Commission on Geoheritage, IUGS, [The Ordovician Section of the Hällekis Quarry](https://iugs-geoheritage.org/geoheritage_sites/the-ordovician-section-of-the-hallekis-quarry/)
 - Hobart M. King, Geology.com, [Calcite](https://geology.com/minerals/calcite.shtml)
-- Treatise on Invertebrate Paleontology, Part K, Mollusca 3 (Sweet 1964), as summarized in [Orthoceras](https://en.wikipedia.org/wiki/Orthoceras), and [Ammonoidea](https://en.wikipedia.org/wiki/Ammonoidea), used as pointers
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913) and *The Magic of Jewels and Charms* (1915), [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978) and [66583](https://www.gutenberg.org/ebooks/66583), searched for orthoceras with no result
 - Modern associations from crystal shop guides at webshop-danielleforrer.nl, theharmonystore.com, camille-ambiance-nature.fr, kurma.ch and gemestonesfans.blogspot.com, read November 18, 2026

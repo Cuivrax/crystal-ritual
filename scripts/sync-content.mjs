@@ -70,7 +70,28 @@ if (!existsSync(moonFrom)) fail(`missing ${moonFrom}`);
 copyFileSync(moonFrom, join(ROOT, 'src/lib/moon.js'));
 console.log('code, src/lib/moon.js');
 
-// 4. A slim index of the stone sheets. Only verified values are kept.
+// 4. Checked photos, site/photos/<page-file-name>/hero.jpg with their credits in picks.json.
+//    They land in src/assets/photos/<page-file-name>/ for the image pipeline. _rejected/ and cutouts/ are skipped.
+const PHOTOS_SRC = join(HC, 'site/photos');
+if (existsSync(PHOTOS_SRC)) {
+  const picksFile = join(PHOTOS_SRC, 'picks.json');
+  const picks = existsSync(picksFile) ? JSON.parse(readFileSync(picksFile, 'utf8')) : {};
+  writeFileSync(join(DATA_DST, 'photo_picks.json'), `${JSON.stringify(picks, null, 1)}\n`);
+  let n = 0;
+  for (const dir of readdirSync(PHOTOS_SRC, { withFileTypes: true })) {
+    if (!dir.isDirectory() || dir.name.startsWith('_') || dir.name === 'cutouts') continue;
+    for (const f of readdirSync(join(PHOTOS_SRC, dir.name))) {
+      if (!/^hero\.(jpe?g|png|webp)$/i.test(f)) continue; // alt.jpg files are not used by the build
+      const to = join(ROOT, 'src/assets/photos', dir.name);
+      mkdirSync(to, { recursive: true });
+      copyFileSync(join(PHOTOS_SRC, dir.name, f), join(to, f.toLowerCase()));
+      n++;
+    }
+  }
+  console.log(`photos, ${n} checked photo files copied, picks.json for ${Object.keys(picks).length} pages`);
+}
+
+// 5. A slim index of the stone sheets. Only verified values are kept.
 const val = (field) => (field && field.verified && field.value ? field.value : null);
 const stones = {};
 for (const dir of STONE_SHEET_DIRS) {

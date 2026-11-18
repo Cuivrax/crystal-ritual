@@ -1,6 +1,6 @@
 ---
 title: "Merlinite Meaning, Properties & What It Really Is"
-description: "Merlinite is a trade name for chalcedony or opal with black manganese dendrites. What sellers mean, how it differs from Mystic Merlinite, its care and meaning."
+description: "Merlinite is a trade name for chalcedony or opal with black manganese dendrites. What sellers mean, how it differs from Mystic Merlinite, care and meaning."
 h1: "Merlinite Meaning, Properties & What It Really Is"
 url: "/stones/merlinite/"
 primary_keyword: "merlinite"

@@ -29,18 +29,22 @@ export function parsePhotoComment(raw, unnumberedIndex = 1) {
   else if (/^\d+\b/.test(header)) role = `photo-${header.match(/^\d+/)[0]}`;
   else if (header === '') role = `photo-${unnumberedIndex}`;
   const image = cleanUrl(pick(/\bImage (https?:\/\/\S+)/, text));
-  const page = cleanUrl(pick(/\bPage (https?:\/\/\S+)/, text));
+  const file = cleanUrl(pick(/\bFile (site\/photos\/\S+)/, text));
+  const sourcePage = cleanUrl(pick(/\bSource [^,]+, (https?:\/\/\S+)/, text));
+  const page = cleanUrl(pick(/\bPage (https?:\/\/\S+)/, text)) || sourcePage;
   const record = cleanUrl(pick(/\bRecord (https?:\/\/\S+)/, text));
   const license = pick(/\bLicense (.+?)(?:\.\s|,\s|\s\(|$)/, text);
-  const credit = pick(/Credit line "([^"]+)"/, text);
+  const credit = pick(/Credit line "([^"]+)"/, text) || pick(/\bCredit "([^"]+)"/, text);
   const caption = pick(/Caption "([^"]+)"/, text);
-  const alt = pick(/Alt text "([^"]+)"/, text);
-  const visualOk = /visual_check ok|verdict (?:ok|hero|secondary)|visual pass|Checked as (?:hero|secondary)/i.test(text);
+  const visualDesc = pick(/Visual check \d{4}-\d{2}-\d{2},\s*([^;.]+)/i, text);
+  const alt = pick(/Alt text "([^"]+)"/, text) || (visualDesc ? visualDesc.trim() : null);
+  const visualOk = /visual_check ok|verdict (?:ok|hero|secondary)|visual pass|Checked as (?:hero|secondary)|Visual check \d{4}-\d{2}-\d{2}/i.test(text);
   const smithsonian = image ? /ids\.si\.edu/.test(image) : false;
   const creditText = credit || (smithsonian && /CC0/i.test(license || '') ? 'Smithsonian NMNH, CC0' : null);
-  const usable = Boolean(!plural && role && !toFind && image && visualOk && alt && (creditText || caption) && !/\[TO CHECK/i.test(text));
+  const usable = Boolean(!plural && role && !toFind && (image || file) && visualOk && alt && (creditText || caption) && !/\[TO CHECK/i.test(text));
   return {
     role,
+    file: file || null,
     hero: role === 'hero',
     image,
     page: page || record,

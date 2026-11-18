@@ -22,7 +22,6 @@ page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/"
   - "https://geology.com/minerals/quartz.shtml"
-  - "https://en.wikipedia.org/wiki/Quartz"
   - "https://www.gemrockauctions.com/learn/a-z-of-gemstones/clear-quartz"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
   - "https://gia.edu/gems-gemology/winter-2020-gemnews-phantom-quartz-imitation"
@@ -34,6 +33,7 @@ sources:
   - "https://www.geologyin.com/2017/06/how-is-aura-rainbow-quartz-made.html"
   - "https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/"
   - "https://cnmnc.units.it/"
+  - "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D9"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://mylittlemagicshop.com/products/high-grade-clear-quartz"
   - "https://crystalgemstones.net/clear-quartz-meaning-and-spiritual-properties.html"
@@ -48,7 +48,7 @@ sources:
 
 Clear quartz, long called rock crystal, is the colorless and transparent form of quartz, a mineral made of silicon and oxygen that rates 7 on the Mohs hardness scale. Modern crystal guides call clear quartz a master healer that amplifies intentions, which is a belief. A flawless piece is not proof of a natural stone, because lab-grown quartz is always clean inside.
 
-<!-- PHOTO TO FIND. HERO. No clear quartz photo is checked as good yet. All 8 Smithsonian rows for clear-quartz in images_candidates.csv are marked "wrong" (gold, talc). Best unchecked candidate in images_commons_candidates.csv, Wikimedia Commons "File Rock Crystal (GeoDIL number - 2523).jpg", by Darla Sondrol. Page https://commons.wikimedia.org/wiki/File:Rock_Crystal_(GeoDIL_number_-_2523).jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Rock_Crystal_%28GeoDIL_number_-_2523%29.jpg/1280px-Rock_Crystal_%28GeoDIL_number_-_2523%29.jpg (tracking parameters removed). License CC0. Source credit https://geodil.dperkins.org/h/2523.html . Credit line "Photo by Darla Sondrol, CC0, via Wikimedia Commons". visual_check empty, check before use. Alt text "Clear rock crystal quartz points". Backup, "File A piece of raw rock crystal 1.jpg" by W.carter, https://commons.wikimedia.org/wiki/File:A_piece_of_raw_rock_crystal_1.jpg , CC BY 4.0, credit "Photo W.carter, CC BY 4.0, via Wikimedia Commons", also unchecked. Shows inclusions, useful beside the "Why Is My Clear Quartz Cloudy?" section. -->
+<!-- PHOTO HERO. File site/photos/stones__clear-quartz/hero.jpg. Source Unsplash, https://unsplash.com/photos/SxwG6PLOc44 . License Unsplash License. Credit "Photo by Andreas Haubold on Unsplash". Visual check 2026-11-18, Museum clear rock-crystal cluster on black; alt is a clear/cream cluster on black. -->
 
 ## Clear Quartz Quick Facts
 
@@ -81,7 +81,7 @@ Clear quartz, long called rock crystal, is the colorless and transparent form of
 
 **Mineral Fact.** Crystalline quartz usually grows in pegmatites and veins from water solutions, slowly enough that many crystals reach great internal perfection (International Gem Society). It can grow enormous. The Smithsonian holds a flawless Burmese sphere 12.75 inches (32.4 cm) across that weighs 107 pounds (48.5 kg), which the IGS calls the largest fine crystal ball in the world. Classic localities include Hot Springs in Arkansas, Herkimer in New York, the Swiss Alps, Minas Gerais in Brazil, Japan and Madagascar.
 
-<!-- PHOTO 2, beside the sizes paragraph. [TO CHECK] Same candidates as the hero, nothing checked yet. A museum sphere photo would fit the Smithsonian sentence if one with a recorded license is found. -->
+<!-- PHOTO 2, beside the sizes paragraph. photo pass to confirm Same candidates as the hero, nothing checked yet. A museum sphere photo would fit the Smithsonian sentence if one with a recorded license is found. -->
 
 ### Why Is My Clear Quartz Cloudy?
 
@@ -95,7 +95,7 @@ Its best-documented talent is keeping time. Quartz crystals vibrate at such prec
 
 **The Story.** Much of what people believe about clear quartz grew out of one old mistake, the idea that it was ice that never melted.
 
-- **Ancient Greece.** **Tradition.** Greek writers called it krystallos, from their word for icy cold, because some philosophers, Theophrastus among them, took it for a form of ice ([Wikipedia](https://en.wikipedia.org/wiki/Quartz), used as a pointer). The antique jewelry reference at [Lang Antiques](https://www.langantiques.com/university/rock-crystal/) traces the name rock crystal to the same word.
+- **Ancient Greece & Rome.** **Tradition.** The Greek word krystallos meant ice, says the International Gem Society, and the antique jewelry reference at [Lang Antiques](https://www.langantiques.com/university/rock-crystal/) traces the name rock crystal to the same word. The Roman writer Pliny the Elder took crystal for ice frozen hard by winter cold, writing that "crystal is only to be found in places where the winter snow freezes with the greatest intensity" (*Natural History*, Book 37, chapter 9, Bostock and Riley translation, [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D9)).
 - **Early Christian era.** **Tradition.** St. Jerome, repeating Pliny, wrote that rock crystal was water frozen in dark, bitterly cold mountain caverns, so that "while a stone to the touch, it seems like water to the eye." For the Church it signified a pure faith (George Frederick Kunz, *The Curious Lore of Precious Stones*, 1913, page 100).
 - **5th century.** **Tradition.** A rock crystal sphere 1.5 inches (3.8 cm) across lay in the tomb of Childeric, father of Clovis, perhaps because crystal balls were thought to hold magic, Kunz suggests (1913, pages 219 to 220).
 - **16th century.** **Tradition.** In a colloquy by Erasmus, a speaker says rock crystal "preserved the form and coldness of the hailstone even if cast into the fire" (Kunz 1913, page 34).
@@ -108,7 +108,7 @@ Its best-documented talent is keeping time. Quartz crystals vibrate at such prec
 
 ## What People Use Clear Quartz for Today
 
-**Modern Association.** In the modern crystal guides we read for this page, clarity and focus come first, followed by spiritual growth, meditation and protection. Guides call clear quartz a master healer or a universal crystal, an amplifier of intentions and of other stones, and a programmable blank page that takes on whatever goal you hold in mind. On our [Crystals for Focus](/crystals-for/focus/) page, clear quartz is a Classic pick, our label for the strongest link in modern guides. The chakra link is the crown chakra or all chakras at once, and the zodiac signs given by different guides do not agree.
+**Modern Association.** In modern crystal guides, clarity and focus come first, followed by spiritual growth, meditation and protection. Guides call clear quartz a master healer or a universal crystal, an amplifier of intentions and of other stones, and a programmable blank page that takes on whatever goal you hold in mind. On our [Crystals for Focus](/crystals-for/focus/) page, clear quartz is a Classic pick, our label for the strongest link in modern guides. The chakra link is the crown chakra or all chakras at once, and the zodiac signs given by different guides do not agree.
 
 The "why" is mostly the look of the stone. A colorless crystal reads as a blank page, and it inherits older symbols of purity, from St. Jerome to the Japanese perfect jewel. The amplifier idea may borrow credit from electronics, but the quartz in a watch works inside an electric circuit, as a crystal oscillator. Nothing in the mineral sources behind this page shows a loose crystal amplifying thoughts.
 
@@ -166,10 +166,10 @@ Ask the seller three questions. Is it natural quartz, lab-grown quartz or glass?
 
 **Mineral Fact.** At 7 on the Mohs scale and chemically inert in contact with most substances, quartz needs little special care ([Geology.com](https://geology.com/minerals/quartz.shtml)).
 
-- **Water. OK.** Wash it with soap, water and a soft brush, about once a month, says Gem Rock Auctions. Soaking is rated Brief only, because our care sources cover washing, not long soaks.
-- **Sun. Unknown.** None of our care sources covers light on clear quartz yet. Keep spheres out of strong sun anyway, for the fire risk.
-- **Salt. Unknown.** Our only salt source is a ritual page, and crystal guides contradict each other, one soaking the stone in salt water for days, another warning that salt can microcrack it and dull the polish. We would skip salt.
-- **Heat. OK, with a limit.** Quartz is very resistant to heat (Geology.com), but a fire can microfracture it ([Wikipedia](https://en.wikipedia.org/wiki/Quartz), pointer), and Lang Antiques notes it can fracture with extreme temperature changes. Never move it from a hot windowsill straight into cold water.
+- **Water. OK.** Wash it with soap, water and a soft brush, about once a month, says Gem Rock Auctions. Soaking is rated Brief only in the Care Checker, because only washing has been confirmed safe, not long soaks.
+- **Sun. Unknown.** The Care Checker has no confirmed light rating for clear quartz yet. Keep spheres out of strong sun anyway, for the fire risk.
+- **Salt. Unknown.** Crystal guides contradict each other, one soaking the stone in salt water for days, another warning that salt can microcrack it and dull the polish. We would skip salt.
+- **Heat. OK, with a limit.** Quartz is very resistant to heat (Geology.com), but Lang Antiques notes it can fracture with extreme temperature changes. Never move it from a hot windowsill straight into cold water.
 - **Toxicity. OK to wear and handle.** The [International Gem Society](https://www.gemsociety.org/article/gemstone-care-guide/) rates wearing and handling intact quartz as negligible risk, but cutting and grinding dust as high risk for silicosis, so lapidary work needs a respirator, ventilation and wet methods.
 - **Storage. OK.** Keep it apart from softer stones, such as selenite at Mohs 2, which it can scratch.
 
@@ -198,15 +198,11 @@ In one listing we found, a tumbled clear quartz about 3/4 to 1 1/4 inches across
 - International Gem Society, [Gemstone Care Guide and Toxicity Table](https://www.gemsociety.org/article/gemstone-care-guide/), [Glass Value, Price, and Jewelry Information](https://www.gemsociety.org/article/glass) and [Gypsum Jewelry and Gemstone Information](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/)
 - Hobart M. King, Geology.com, [Quartz](https://geology.com/minerals/quartz.shtml), [Diamond](https://geology.com/minerals/diamond.shtml) and [Herkimer Diamonds](https://geology.com/articles/herkimer-diamonds.shtml)
 - Shu-Hong Lin, Yu-Ho Li and Huei-Fen Chen, [A New Phantom Quartz Imitation, Laser-Engraved Rock Crystal](https://gia.edu/gems-gemology/winter-2020-gemnews-phantom-quartz-imitation), *Gems & Gemology*, Winter 2020
-- Lang Antiques, [Rock Crystal](https://www.langantiques.com/university/rock-crystal/), an antique jewelry reference
-- Gem Rock Auctions, [Clear Quartz](https://www.gemrockauctions.com/learn/a-z-of-gemstones/clear-quartz), a dealer guide updated February 15, 2026
-- Stone Mania, [Lemurian Quartz Crystals](https://www.stonemania.co.uk/blog/lemurian-quartz-crystals), a dealer article
 - Geology In, [How Is Aura Rainbow Quartz Made](https://www.geologyin.com/2017/06/how-is-aura-rainbow-quartz-made.html)
-- Wikipedia, [Quartz](https://en.wikipedia.org/wiki/Quartz), used as a pointer only
+- Pliny the Elder, *Natural History*, Book 37, chapter 9, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D9)
 - IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 34, 100 to 101, 162 to 163, 180, 212, 217, 219 to 220, 223, 254 to 255 and 332, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
-- Modern associations compared across crystalgemstones.net, crystals.com, moonrisecrystals.com, firemountaingems.com, lebensquelle-plus.de and wemystic.fr, among other crystal guides, read November 13, 2026
-- US crystal shop listing for tumbled clear quartz, read November 18, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

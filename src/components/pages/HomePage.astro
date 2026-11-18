@@ -8,6 +8,7 @@ import { stoneThumbs, stonesIndex } from '../../lib/render.mjs';
 import { icon, facetSvg, FACET_LABELS, esc, facetsFromLabel } from '../../lib/ui.mjs';
 import { ogImageFrom, citationsFor } from '../../lib/page-meta.mjs';
 const { page, doc, site } = Astro.props;
+const builtStones = JSON.stringify(site.pages.filter((p) => p.type === 'stone').map((p) => p.slug));
 const m = homeModel(doc);
 const thumbs = await stoneThumbs(site);
 const notes = articles(site).slice(0, 5);
@@ -75,6 +76,7 @@ const pad = (n) => String(n).padStart(2, '0');
                 return f.built ? <a class="featured-item" href={f.path} set:html={inner} /> : <div class="featured-item" set:html={inner} />;
               })}
             </div>
+            {(() => { const credits = [...new Set(m.find.featured.map((f) => f.path && thumbs.get(f.path.split('/').filter(Boolean).pop())?.credit).filter(Boolean))]; return credits.length > 0 && <p class="photo-credits">{credits.join('. ')}</p>; })()}
             {m.find.fine && <p class="featured-fine" set:html={m.find.fine} />}
           </div>
         )}
@@ -204,4 +206,5 @@ const pad = (n) => String(n).padStart(2, '0');
       </div>
     </section>
   )}
+  <script type="application/json" id="built-stones" set:html={builtStones} />
 </Base>

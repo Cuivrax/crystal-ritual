@@ -23,13 +23,22 @@ sources:
   - "https://www.gia.edu/articles/winter-2014-gemnews-dyed-green-marble-imitating-jadeite"
   - "https://www.langantiques.com/university/calcite-2/"
   - "https://www.gemselect.com/other-info/calcite-gems.php"
-  - "https://en.wikipedia.org/wiki/Calcite"
+  - "https://www.handbookofmineralogy.org/pdfs/calcite.pdf"
+  - "https://www.minerals.net/mineral/calcite.aspx"
+  - "https://www.minerals.net/Image/18/38/Calcite.aspx"
+  - "https://www.gia.edu/gems-gemology/fall-2024-lab-notes-two-imitation-melo-pearls"
+  - "https://cnmnc.units.it/"
   - "https://www.gia.edu/sunstone/gem-overview"
   - "https://geology.com/gemstones/sunstone/"
   - "https://www.gemsociety.org/article/carnelian-gem-information/"
   - "https://geology.com/gemstones/carnelian/"
   - "https://doi.org/10.1016/S0065-2601(06)38002-1"
-  - "https://www.samhsa.gov/sites/default/files/988-factsheet.pdf"
+  - "https://988lifeline.org/"
+  - "https://www.samhsa.gov/mental-health/988"
+  - "https://www.crystalvaults.com/shop-crystals/922499/"
+  - "https://crystalmagic.com/products/orange_calcite_chunks_4-95"
+  - "https://www.healingcrystals.com/Calcite_-_Orange_Calcite_Natural_Chunks__Mexico___Canada_.html"
+  - "https://www.castastone.com/products/orange-calite-tumbled-single-gemstone"
   - "https://www.crystals.com/pages/crystals/orange-calcite"
   - "https://crystalgemstones.net/orange-calcite-meaning-and-spiritual-properties.html"
   - "https://kumioils.com/blogs/news/orange-calcite-meaning"
@@ -52,23 +61,23 @@ Orange calcite is an orange form of calcite, the soft calcium carbonate mineral 
 
 | Fact | Orange calcite |
 |---|---|
-| What it is | An orange color of calcite, a recognized species on the IMA List of Minerals (July 2026) |
+| What it is | An orange color of calcite, a recognized species on the [IMA List of Minerals](https://cnmnc.units.it/) (July 2026 edition) |
 | Also sold as | Mexican onyx, when banded |
 | Formula | CaCO₃ (calcium carbonate) |
 | Mohs hardness | 3 |
 | Specific gravity | About 2.7 |
 | Crystal system | Trigonal, perfect cleavage in three directions |
 | Luster | Vitreous to resinous, dull in massive pieces |
-| Color cause | Possibly iron, as hematite per one seller [TO CHECK with a reference source] |
-| Main sources | Mexico, per a mineral seller [TO CHECK]. Classic amber-orange crystals from Ohio, Tennessee and Cornwall |
+| Color cause | Not pinned down. Possibly iron, as hematite per one seller |
+| Main sources | Mexico, per crystal sellers. Classic orange crystals from Ohio, Tennessee, Pennsylvania, Cornwall and Sweden |
 | Water | Brief only |
 | Sun | Unknown |
 | Heat | Avoid |
 | Salt | Unknown |
 | Acids | Avoid |
 | Toxic to handle | No known toxicity |
-| Common fakes | Dyed calcite exists [TO CHECK for orange] |
-| Price range | Inexpensive [TO CHECK US retail ranges] |
+| Common fakes | Dyed calcite, reported in orange by GIA |
+| Price range | Inexpensive, see the Price Guide |
 | Birthstone | None |
 | Chakra (Modern Association) | Sacral, often solar plexus |
 
@@ -82,11 +91,11 @@ It is the same mineral as [blue calcite](/stones/blue-calcite/), with the same s
 
 ### What Makes It Orange?
 
-Possibly iron, but nobody in our sources has pinned it down. A UK mineral seller says its Mexican orange calcite owes its color to hematite impurities ([Geology Superstore](https://www.geologysuperstore.com/product/orange-calcite/)). The Natural History Museum of Utah says iron can make calcite yellowish or golden. A Cincinnati Museum Center paper goes further and calls the cause of the yellow color in calcite unknown, though thought to involve iron impurities or defects in the crystal ([Huizing, New Mexico Mineral Symposium, 2015](https://doi.org/10.58799/NMMS-2015.505)). [TO CHECK the cause of orange color in calcite with a reference source.]
+Possibly iron, but the cause has not been pinned down. A UK mineral seller says its Mexican orange calcite owes its color to hematite impurities ([Geology Superstore](https://www.geologysuperstore.com/product/orange-calcite/)). The Natural History Museum of Utah says iron can make calcite yellowish or golden. A Cincinnati Museum Center paper goes further and calls the cause of the yellow color in calcite unknown, though thought to involve iron impurities or defects in the crystal ([Huizing, New Mexico Mineral Symposium, 2015](https://doi.org/10.58799/NMMS-2015.505)). On one Pennsylvania specimen, [minerals.net](https://www.minerals.net/Image/18/38/Calcite.aspx) describes the golden-orange crystals as limonite-stained, that is, coated by a rusty iron mineral. The [Handbook of Mineralogy](https://www.handbookofmineralogy.org/pdfs/calcite.pdf) says only that calcite takes many colors from included minerals. We found no reference source that names the cause for orange calcite as a whole.
 
 ### Where It Comes From
 
-Geology Superstore sells its orange calcite as rough collected in Mexico. Amethyst Galleries names classic amber-orange "dogtooth spar," calcite crystals with sharp points like a canine tooth, from Pugh Quarry in Ohio, Elmwood in Tennessee and Cornwall in England. [TO CHECK the main commercial sources of orange calcite tumbled stones and spheres.]
+Geology Superstore sells its orange calcite as rough collected in Mexico. Amethyst Galleries names classic amber-orange "dogtooth spar," calcite crystals with sharp points like a canine tooth, from Pugh Quarry in Ohio, Elmwood in Tennessee and Cornwall in England. [Minerals.net](https://www.minerals.net/mineral/calcite.aspx) adds orange crystals from York, Pennsylvania, and yellow and orange crystals, sometimes in "butterfly twins," from Malmberget in Swedish Lapland. US crystal shops also label their rough chunks as Mexican, and one sells a bag from Canada. We found no reference source on where most tumbled stones and spheres are mined.
 
 ### Orange, Honey or Yellow Calcite?
 
@@ -98,7 +107,7 @@ Same mineral, different shade on the label. When colored calcite crystals turn u
 
 - **Ancient world.** **Tradition.** Many historical artifacts labeled alabaster are in fact calcite, according to [GemSelect](https://www.gemselect.com/other-info/calcite-gems.php). One shop guide says the Egyptians carved calcite under that name ([Kumi Oils](https://kumioils.com/blogs/news/orange-calcite-meaning)). Geologists reserve "alabaster" for gypsum (International Gem Society).
 - **The onyx animal.** **Mineral Fact.** Banded calcite sold as Mexican onyx, in orange, yellow, red, tan, brown and white, is carved into vases, bookends, eggs and figurines. Amethyst Galleries says it is so popular that almost every child in the USA owns a small onyx animal or two. It is not the black and white onyx of quartz.
-- **Today.** **Modern Association.** Creativity, joy and motivation come from modern crystal practice and rest on the color. One guide traces it to orange as the warmth of fire, harvest and sunset ([Crystal Gemstones](https://crystalgemstones.net/orange-calcite-meaning-and-spiritual-properties.html)). [TO CHECK which modern crystal book first described orange calcite, with title and year.]
+- **Today.** **Modern Association.** Creativity, joy and motivation come from modern crystal practice and rest on the color. One guide traces it to orange as the warmth of fire, harvest and sunset ([Crystal Gemstones](https://crystalgemstones.net/orange-calcite-meaning-and-spiritual-properties.html)).
 
 ## What People Use Orange Calcite for Today
 
@@ -108,7 +117,7 @@ Same mineral, different shade on the label. When colored calcite crystals turn u
 
 The chakra link is the sacral chakra below the navel, with the solar plexus close behind ([Crystals.com](https://www.crystals.com/pages/crystals/orange-calcite), Crystal Gemstones). One guide sets it against [carnelian](/stones/carnelian/), calling carnelian the bolder, action-driven stone and orange calcite the softer, more playful one.
 
-The rest scatters. Leo, Cancer, Scorpio, Aries and Taurus each claim it in different guides, its number is 5 in one and 8 in another, and one adds the Monkey of the Chinese zodiac. A few pages list bones, kidneys, immunity, viruses or digestion ([Live in the Light](https://liveinthelight.co.uk/blogs/beauty-blog/orange-calcite-solar-plexus), Moonrise Crystals). Nothing in the mineral sources behind this page supports those claims. One guide we read says that if low mood or anxiety lasts or gets worse, you should talk to a doctor or mental-health professional (Crystal Gemstones).
+The rest scatters. Leo, Cancer, Scorpio, Aries and Taurus each claim it in different guides, its number is 5 in one and 8 in another, and one adds the Monkey of the Chinese zodiac. A few pages list bones, kidneys, immunity, viruses or digestion ([Live in the Light](https://liveinthelight.co.uk/blogs/beauty-blog/orange-calcite-solar-plexus), Moonrise Crystals). Nothing in the mineral sources behind this page supports those claims. One crystal guide says that if low mood or anxiety lasts or gets worse, you should talk to a doctor or mental-health professional (Crystal Gemstones).
 
 Is it psychology or energy? Owners disagree, and the ritual below works the same either way.
 
@@ -120,7 +129,7 @@ Is it psychology or energy? Owners disagree, and the ritual below works the same
 
 **Try This.** Pick one creative thing you keep putting off, a sketchbook, a song or a recipe. Write it on a slip of paper as a plan with a when and a where ("After dinner on Tuesday, at the kitchen table, I will draw for 10 minutes"). Set the orange calcite on top of the paper and leave it on your desk for the week. A crystal guide suggests the stone-on-paper part (Crystal Gemstones), and the when-and-where part has research behind it.
 
-**What Research Says.** A meta-analysis of 94 tests found that if-then plans naming when, where and how to act had a medium-to-large effect on reaching goals (Gollwitzer and Sheeran, *Advances in Experimental Social Psychology*, 2006, [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601(06)38002-1)). None of those studies used stones. The plan is doing the work, and the stone is the paperweight that keeps it in view.
+**What Research Says.** A 2006 meta-analysis by Peter Gollwitzer and Paschal Sheeran found that people who wrote an if-then plan ("if situation X happens, then I will do Y") were more likely to act on a goal than people who only intended to (*Advances in Experimental Social Psychology*, [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601(06)38002-1)). It pooled published studies of everyday goals, so publication bias is possible, and none of them used stones. The plan is doing the work, and the stone is the paperweight that keeps it in view.
 
 ### A Warm Stone for the Gray Months
 
@@ -136,7 +145,7 @@ Is it psychology or energy? Owners disagree, and the ritual below works the same
 
 **Safety.** Small tumbled stones are not toys. Keep them away from small children and pets, and never taste or lick an unknown stone.
 
-> **When a Stone Is Not Enough.** Orange calcite is often chosen for low mood, anxiety and exhaustion. A stone can be a comfort to hold, but it is not care. If sadness, anxiety or tiredness lasts or feels heavy, talk to a doctor or a therapist, and never use a stone in place of treatment. If you are in crisis in the US, call or text 988 or chat at 988lifeline.org, any time of day ([SAMHSA](https://www.samhsa.gov/sites/default/files/988-factsheet.pdf)).
+> **When a Stone Is Not Enough.** Orange calcite is often chosen for low mood, anxiety and exhaustion. A stone can be a comfort to hold, but it is not care. If sadness, anxiety or tiredness lasts or feels heavy, talk to a doctor or a therapist, and never use a stone in place of treatment. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States.
 
 ## Is My Orange Calcite Real?
 

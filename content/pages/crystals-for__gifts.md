@@ -55,7 +55,7 @@ sources:
 
 The easiest crystal gifts to get right are sturdy, inexpensive stones with a clear story, such as rose quartz, amethyst, citrine or tiger's eye, or the person's own birthstone. Choose by the person and the occasion, then add a short card that says what the stone is and how to care for it. For homes with babies or pets, skip small stones.
 
-<!-- PHOTO TO FIND. Hero, a tumbled stone in a small open gift box next to a handwritten care card, ideally an owner photo. No licensed candidate in our image files shows a wrapped stone or a card, and a generated image must not stand in for a real stone. -->
+<!-- PHOTO HERO. File site/photos/crystals-for__gifts/hero.jpg. Source Unsplash, https://unsplash.com/photos/fgy3lrj4TRQ . License Unsplash License. Credit "Photo by Edz Norton on Unsplash". Visual check 2026-11-18, Cream cloth, candle, clear quartz point, blue calcite, dried flowers. -->
 
 ## Crystal Gift Ideas at a Glance
 
@@ -139,7 +139,7 @@ The list is younger than it looks. In 1912 the National Association of Jewelers 
 3. **How to care for it.** Water, sun and storage, from the [Care Checker](/tools/crystal-care-checker/).
 4. **Why you chose it for them.** This is the line they will remember.
 
-Three filled-in examples, using facts from our sources.
+Three filled-in examples.
 
 > **Rose Quartz.** A pink form of quartz, hardness 7, tough enough for everyday handling ([Geology.com](https://geology.com/gemstones/rose-quartz/)). Modern crystal guides connect it with love above all. Rinse it in warm soapy water when it gets dusty ([IGS](https://www.gemsociety.org/article/rose-quartz/)). I picked it because you are the kindest person I know.
 
@@ -178,7 +178,7 @@ Most crystal gifts go wrong in a few predictable ways.
 - Kumar, A., and Epley, N. (2018), Undervaluing gratitude, expressers misunderstand the consequences of showing appreciation, *Psychological Science*, [doi.org/10.1177/0956797618772506](https://doi.org/10.1177/0956797618772506), summarized by the [Association for Psychological Science](https://www.psychologicalscience.org/publications/observer/obsonline/people-underestimate-the-power-of-saying-thanks.html)
 - Mount Nittany Health, [Safety Hazards of Teething Jewelry](https://kids.mountnittany.org/resources/details/safety-hazards-of-teething-jewelry), summary of the FDA warning of December 2018, and the FDA, [Safely Soothing Teething Pain in Infants and Children](https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children)
 - 988 Suicide and Crisis Lifeline, [fact sheet](https://988lifeline.org/wp-content/uploads/2026/08/988Day_FactSheet_988-2026_EN.pdf)
-- Gift and intention associations compared across modern crystal guides, including crystalgemstones.net, read November 13, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

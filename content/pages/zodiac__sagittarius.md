@@ -1,6 +1,6 @@
 ---
 title: "Sagittarius Birthstone, Crystals & Their Real Story"
-description: "There is no official Sagittarius birthstone. Why topaz and turquoise get the title, which crystals guides link to the sign, and where the links come from."
+description: "There is no official Sagittarius birthstone. Why topaz and turquoise get the title, which crystal guides link to the sign, and where the links come from."
 h1: "Sagittarius Crystals, Birthstones & Where the Links Come from"
 url: "/zodiac/sagittarius/"
 primary_keyword: "sagittarius birthstone"
@@ -86,7 +86,7 @@ We grade each link with the same words we use across the site, from Classic down
 | [Azurite](/stones/azurite/) | Widely Linked | Its deep blue and the sign's truth-seeking image in modern guides | Soft, 3.5 to 4, and it slowly loses its blue in air, heat and light |
 | Sodalite | Often Linked | Said to help the sign speak its truth with tact | Scratches easily, 5.5 to 6 |
 | Blue topaz | Often Linked | Blue, and one guide even calls it "the birthstone of Sagittarius" | Birthstone lists go by month. The International Gem Society counts blue topaz as a modern December option |
-| Zircon, especially blue | Often Linked | December birthstone | UV can turn heated blue zircon brown |
+| Zircon, especially blue | Widely Linked | December birthstone | UV can turn heated blue zircon brown |
 | Smoky quartz | Often Linked | Grounding for a restless sign, though guides tie it more to Capricorn | Our care data rates sun Avoid, since UV can fade it |
 | Tanzanite | Sometimes Linked | December birthstone since 2002 | Sagittarius is still the sign guides name most for tanzanite |
 | Lapis lazuli | Sometimes Linked | 1912 December alternate, and one guide calls it the main Sagittarius stone | Often dyed, soft, and porous |
@@ -130,7 +130,7 @@ Before any cleansing ritual, look the stone up in the [Care Checker](/tools/crys
 - Hobart M. King, Geology.com, [Turquoise](https://geology.com/minerals/turquoise.shtml), [Topaz](https://geology.com/minerals/topaz.shtml), [Azurite](https://geology.com/minerals/azurite.shtml) and [Sodalite](https://geology.com/minerals/sodalite.shtml)
 - International Gem Society, [Azurite](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/) and [December Birthstones](https://www.gemsociety.org/article/december-birthstone/)
 - Gemological Institute of America, [Citrine](https://www.gia.edu/citrine/gem-overview)
-- Modern associations compared across the crystal guides in our lore collection, including crystalvaults.com, crystals.com, tinyrituals.co, journee-mondiale.com, france-mineraux.fr and lebensquelle-plus.de, read November 13 and 18, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 18, 2026.
 

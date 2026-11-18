@@ -1,0 +1,20 @@
+---
+// /contact/thanks/, the page the contact form sends people to after a successful send.
+// Built only when /contact/ is built. Not indexed, not in the sitemap.
+import Base from '../../layouts/Base.astro';
+import { getSite } from '../../lib/site.mjs';
+export async function getStaticPaths() {
+  const site = await getSite();
+  return site.isBuilt('/contact/') ? [{ params: { step: 'thanks' } }] : [];
+}
+const site = await getSite();
+const links = [{ label: 'Back to the Home Page', href: '/' }, { label: 'Open the Stone Atlas', href: '/stones/' }].filter((l) => site.isBuilt(l.href));
+---
+<Base title="Message Sent | Crystal & Ritual" description="Your message to Crystal & Ritual is on its way." url="/contact/thanks/" noindexPage={true}>
+  <section class="wrap thanks">
+    <p class="eyebrow">Contact</p>
+    <h1 class="page-title">Message Sent</h1>
+    <p>Thank you. Your message is on its way.</p>
+    {links.length > 0 && <div class="btn-row" style="justify-content:center">{links.map((l, i) => <a class={`btn ${i === 0 ? 'btn-primary' : 'btn-secondary'}`} href={l.href}>{l.label}</a>)}</div>}
+  </section>
+</Base>

@@ -11,7 +11,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-06"
 publishTime: "07:00"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gia.edu/sunstone/gem-overview"
@@ -125,7 +125,7 @@ The "why" is easy to trace. A warm orange stone that throws sparks reads as sunl
 
 ### What Does Sunstone Do?
 
-As a mineral, sunstone flashes in the light. Everything else people say it does is belief, about the person wearing it. A few sites promise better metabolism or relief from seasonal low mood. Nothing in the mineral or medical sources behind this page supports those claims, and one crystal guide states plainly that sunstone is not a treatment for low mood or depression.
+As a mineral, sunstone flashes in the light. Everything else people say it does is belief, about the person wearing it. A few sites promise better metabolism or relief from seasonal low mood. No mineral or medical reference we know of supports those claims, and one crystal guide states plainly that sunstone is not a treatment for low mood or depression.
 
 ### Sunstone & Moonstone, the Sun & Moon Pair
 
@@ -185,7 +185,7 @@ Three questions to ask the seller.
 
 **Mineral Fact.** GIA calls sunstone durable enough for daily wear if you avoid rough handling. It has perfect cleavage in two directions, so earrings, brooches and small pendants suit it best, and a ring is safer in a bezel, flush or recessed setting (Geology.com).
 
-- **Water.** OK. Warm, soapy water and gentle scrubbing (GIA). Our sources cover washing, not long soaks, so keep those brief.
+- **Water.** OK. Warm, soapy water and gentle scrubbing (GIA). GIA covers washing, not long soaks, so keep those brief.
 - **Sun.** Unknown (see below).
 - **Heat.** Unknown.
 - **Salt.** Unknown. Skip it until a reference source covers it.
@@ -225,7 +225,7 @@ In the listings we checked, round and oval faceted orange sunstones of about 2 t
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
 - 988 Suicide & Crisis Lifeline contact details from [988lifeline.org](https://988lifeline.org/) and [SAMHSA](https://www.samhsa.gov/mental-health/988)
 - Prices from US-dollar listings at an online gem dealer, November 2026
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

@@ -16,7 +16,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-14"
 publishTime: "06:19"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gia.edu/sapphire/gem-overview"
@@ -94,7 +94,7 @@ Those are sellers' color words, not grades. The International Gem Society's [fan
 
 ### Where Yellow Sapphire Comes From
 
-Yellow sapphires are found in "a wide range of deposits worldwide" (*Gems & Gemology*). Sri Lanka, an ancient source, still produces sapphires of every color (International Gem Society), and GIA's 2023 study opens with fine natural yellow sapphires from Madagascar. The International Gem Society also pictures chartreuse rough from Montana.
+Yellow sapphires are found in "a wide range of deposits worldwide" (*Gems & Gemology*). Sri Lanka, an ancient source, still produces sapphires of every color (International Gem Society), and GIA's 2023 study cites Madagascar for exceptional natural yellow sapphires. The International Gem Society also pictures chartreuse rough from Montana.
 
 ### Yellow Sapphire Crystals & Star Stones
 
@@ -129,7 +129,7 @@ Many yellow sapphire meaning pages tie it to Indian astrology, where it is sold 
 
 ### How Long Does It Take for Yellow Sapphire to Work?
 
-There is no timeline, because wealth and wisdom are beliefs, not measurable effects of corundum. Even GemSelect, which sells the stone, says these benefits "lack scientific backing" ([GemSelect](https://www.gemselect.com/other-info/yellow-sapphire.php)). Judge it by what you do differently, not by a date.
+There is no timeline, because wealth and wisdom are beliefs, not measurable effects of corundum. Judge it by what you do differently, not by a date.
 
 ### What Are the Benefits of Yellow Sapphire?
 
@@ -171,7 +171,7 @@ We use the same five labels on every stone. Yellow sapphire can be any of them, 
 
 ### Is Heat-Treated Yellow Sapphire Real?
 
-Yes. It is real corundum, mined and then heated, so it belongs in the natural, treated group, and heating alone does not lower its value (International Gem Society). Gem-A calls treatment acceptable "so long as buyers are told," including any durability issue such as fading. High heat even removes unstable color, since heating to at least 2,190 to 2,370 °F (1,200 to 1,300 °C) bleaches unstable color centers ([Gems & Gemology, Summer 2022](https://www.gia.edu/gems-gemology/summer-2022-gemnews-yellow-sapphires-unstable-color)). Check the disclosure, not the heating.
+Yes. It is real corundum, mined and then heated, so it belongs in the natural, treated group, and heating alone does not lower its value (International Gem Society). Gem-A calls treatment acceptable "so long as buyers are told," including any durability issue such as fading. High heat even removes unstable color, since heating to at least 2,192 to 2,372 °F (1,200 to 1,300 °C) bleaches unstable color centers ([Gems & Gemology, Summer 2022](https://www.gia.edu/gems-gemology/summer-2022-gemnews-yellow-sapphires-unstable-color)). Check the disclosure, not the heating.
 
 ### Three Checks, With Their Limits
 

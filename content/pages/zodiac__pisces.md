@@ -39,7 +39,6 @@ sources:
   - "https://lebensquelle-plus.de/blogs/magazin/heliotrop-wirkung"
   - "https://lebensquelle-plus.de/blogs/magazin/angelit-wirkung"
   - "https://www.france-mineraux.fr/vertus-des-pierres/la-morganite/"
-  - "https://www.journee-mondiale.com/amethyste-pierre-bienfaits-spiritualite-et-soins-758.htm"
   - "https://www.marothjewels.com/blog/red-agate-ring-meaning"
   - "https://crystalgemstones.net/bloodstone-meaning-and-spiritual-properties.html"
   - "https://sagaciajewelry.com/blogs/news/blue-opal-history-meaning-symbolism-healing-properties-more"

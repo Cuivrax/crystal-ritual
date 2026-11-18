@@ -89,7 +89,7 @@ Green jade and blue jade rank separately in our data. They share one card here, 
 - **Green and growing.** **Modern Association.** Moss agate's plant-like patterns have made it the gardener's stone of modern crystal lore ([Crystal Gemstones](https://crystalgemstones.net/green-moss-agate-meaning-and-spiritual-properties.html)), and shop guides carry the same idea of slow, steady growth over to business.
 - **Today.** **Modern Association.** Feng shui-inspired guides place a prosperity stone in the home's "wealth corner", but they do not agree on where that is. One says the far left corner from the front door ([Crystals.com](https://www.crystals.com/blogs/news/citrine-meaning-properties)), others say the southeast ([Solacely](https://www.solacely.co/en-eu/blogs/crystals/pyrite-meaning), [Crystal Gemstones](https://crystalgemstones.net/ammolite-meaning-and-spiritual-properties.html)).
 
-**What Research Says.** None of the sources behind this page tested a stone for money, luck or wealth. In a 2025 trial on anxiety, belief explained the change and a look-alike stone did as well as rose quartz ([PubMed 40855750](https://pubmed.ncbi.nlm.nih.gov/40855750/)). If a money stone helps, it helps through what you do while it sits on the desk. For the wider history of luck charms, see [lucky crystals](/crystals-for/luck/).
+**What Research Says.** No study we know of has tested a stone for money, luck or wealth. In a 2025 trial on anxiety, scores fell only among people who believed in crystal healing, and a look-alike stone did as well as rose quartz ([PubMed 40855750](https://pubmed.ncbi.nlm.nih.gov/40855750/)). If a money stone helps, it helps through what you do while it sits on the desk. For the wider history of luck charms, see [lucky crystals](/crystals-for/luck/).
 
 ## A 10-Minute Weekly Money Check-In
 
@@ -169,7 +169,7 @@ Leave ammolite, whose thin layers can separate with a jolt, and epidote, which h
 - Dana Inkster, [Ammolite History](https://galtmuseum.com/articles/2017/08/ammolite-history.html), Galt Museum & Archives, August 22, 2017
 - Hobart M. King, Geology.com, [aventurine](https://geology.com/gemstones/aventurine/), [pyrite](https://geology.com/minerals/pyrite.shtml), [epidote](https://geology.com/minerals/epidote.shtml), [agate](https://geology.com/gemstones/agate/) and [jade](https://geology.com/gemstones/jade/)
 - GemSelect, [aventurine](https://www.gemselect.com/gem-info/aventurine/aventurine-info.php), Gem Rock Auctions, [aventurine](https://gemrockauctions.com/learn/a-z-of-gemstones/aventurine-stone), and Korite, [ammolite](https://korite.com/ammolite/), dealer pages
-- Money rankings and modern associations compared across modern crystal guides, including crystals.com, firemountaingems.com, solacely.co, crystalgemstones.net, crystalvaults.com and moonrisecrystals.com, read November 12 to 18, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

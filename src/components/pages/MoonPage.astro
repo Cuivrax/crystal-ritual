@@ -8,6 +8,7 @@ import AuthorBox from '../AuthorBox.astro';
 import Sources from '../Sources.astro';
 import { breadcrumbsFor, ogImageFrom, citationsFor } from '../../lib/page-meta.mjs';
 const { page, doc, site } = Astro.props;
+const builtStones = JSON.stringify(site.pages.filter((p) => p.type === 'stone').map((p) => p.slug));
 const crumbs = breadcrumbsFor(page, site);
 ---
 <Base page={page} title={page.data.title} description={page.data.description} url={page.url} image={ogImageFrom(doc.heroHtml)} breadcrumbs={crumbs} citations={citationsFor(page)} night={true}>
@@ -27,4 +28,5 @@ const crumbs = breadcrumbsFor(page, site);
   <Sections sections={doc.sections} page={page} />
   <AuthorBox text={doc.authorText} />
   <Sources html={doc.sources} lastReviewed={doc.lastReviewed} />
+  <script type="application/json" id="built-stones" set:html={builtStones} />
 </Base>

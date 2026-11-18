@@ -186,7 +186,7 @@ A wash, yes. A long soak, no, because our Care Checker rates soaking as Brief on
 
 ### How to Cleanse Kambaba Jasper
 
-Cleansing is a belief practice, so pick a method that cannot hurt the stone. Guides suggest a brief rinse, moonlight, sound, smoke or a selenite plate, and all of those are fine. Skip sun charging, since sun is Unknown, and skip salt. Our [guide to cleansing crystals](/care/how-to-cleanse-crystals/) covers each method, and the [Care Checker](/tools/crystal-care-checker/) shows the rating for your exact piece.
+Cleansing is a belief practice, so pick a method that cannot hurt the stone. Guides suggest a brief rinse, moonlight, sound, smoke or a selenite plate, all fine as long as a moonlit sill is cleared before the sun reaches it. Skip sun charging, since sun is Unknown, and skip salt. Our [guide to cleansing crystals](/care/how-to-cleanse-crystals/) covers each method, and the [Care Checker](/tools/crystal-care-checker/) shows the rating for your exact piece.
 
 ## Kambaba Jasper vs Look-Alikes
 

@@ -61,7 +61,7 @@ sources:
 
 The best crystals for a beginner's collection are clear quartz, amethyst, rose quartz, agate, red jasper, tiger's eye and green aventurine. All seven are made mostly of quartz, so they are hard, inexpensive and easy to look after. Their meanings are beliefs, some old and some new, and this page labels them that way.
 
-<!-- PHOTO TO FIND. Hero, the seven tumbled starter stones side by side on a plain surface, ideally an owner photo with a label card under each stone. No licensed candidate in images_candidates.csv, images_commons_candidates.csv or image_picks_new_stones.json shows a mixed set, and none of rose quartz, red jasper, tiger's eye or green aventurine has a row with visual_check ok. A generated image must not stand in for real stones. -->
+<!-- PHOTO HERO. File site/photos/crystals-for__beginners/hero.jpg. Source Unsplash, https://unsplash.com/photos/EUIALcbnQYI . License Unsplash License. Credit "Photo by Edz Norton on Unsplash". Visual check 2026-11-18, Flat lay of assorted tumbled and raw crystals on white. -->
 
 ## The Starter Set at a Glance
 
@@ -91,7 +91,7 @@ The other thing these seven share is price. Rose quartz is abundant and usually 
 
 ### What the Meanings Are & Are Not
 
-**Modern Association.** Today's meanings come mostly from modern crystal guides. Rose quartz for love, amethyst for calm sleep and tiger's eye for confidence are the classic pairings, and most of the "why" is color, name or old story. Treat them as a starting vocabulary, not as instructions. Nothing in the mineral or research sources behind this page shows a stone changing your health or your luck. What a stone does reliably is sit where you put it, which makes it a good reminder.
+**Modern Association.** Today's meanings come mostly from modern crystal guides. Rose quartz for love, amethyst for calm sleep and tiger's eye for confidence are the classic pairings, and most of the "why" is color, name or old story. Treat them as a starting vocabulary, not as instructions. No study we know of shows a stone changing your health or your luck. What a stone does reliably is sit where you put it, which makes it a good reminder.
 
 ### Best Crystals for Beginner Witches
 
@@ -164,7 +164,7 @@ None of these are bad stones. They just punish beginner mistakes, cost more than
 | Aura quartz | A metal film only nanometers thick, with no real resistance to wear | [Skyjems](https://skyjems.ca/pages/encyclopedia-aquaaura-quartz), a dealer |
 | Moldavite | Much of what is sold online is green man-made glass | [Geology.com](https://geology.com/gemstones/moldavite/) |
 
-Finished malachite and azurite are fine to hold and display, the International Gem Society says. The risk is dust and drinking water. Why pyrite darkens is one of the most followed care questions on crystal forums, and our care data cannot answer it yet. If you already own a moldavite, our [moldavite page](/stones/moldavite/) covers the checks that help and the ones that do not.
+Finished malachite and azurite are fine to hold and display, the International Gem Society says. The risk is dust and drinking water. If you already own a moldavite, our [moldavite page](/stones/moldavite/) covers the checks that help and the ones that do not.
 
 ## Buying & Caring for a First Collection
 
@@ -198,7 +198,7 @@ These ratings come from the same data as our [Care Checker](/tools/crystal-care-
 
 Salt is unrated for all seven, so leave the salt bowl out of your cleansing routine for now. Moonlight, the method modern guides suggest most often, involves no water, salt or heat, as long as you bring the stones in before the sun reaches them. Store the stones in a soft pouch or a lined box so the harder ones do not scratch the softer ones. For everything else, see [which crystals can go in water](/care/crystals-that-cant-go-in-water/).
 
-> **When a Stone Is Not Enough.** Crystal healing for beginners is a popular search, so here is the plain version. No stone treats, cures or prevents any illness, physical or mental, and none of the sources behind this page shows otherwise. Enjoy your stones as objects, reminders and rituals. If something about your body or your mood worries you, talk to a doctor or a therapist, and never delay or replace care because of a stone.
+> **When a Stone Is Not Enough.** Crystal healing for beginners is a popular search, so here is the plain version. No stone treats, cures or prevents any illness, physical or mental, and no study we know of shows otherwise. Enjoy your stones as objects, reminders and rituals. If something about your body or your mood worries you, talk to a doctor or a therapist, and never delay or replace care because of a stone.
 
 **Next Step.** Ready for a second stone with a job? Pick one from [crystals for focus and studying](/crystals-for/focus/).
 
@@ -212,7 +212,8 @@ Salt is unrated for all seven, so leave the salt bowl out of your cleansing rout
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 37 to 38 and 290 to 291, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
 - Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., and Wardle, J. (2010), How are habits formed, modelling habit formation in the real world, *European Journal of Social Psychology* 40, 998 to 1009, [doi.org/10.1002/ejsp.674](https://doi.org/10.1002/ejsp.674)
 - Gollwitzer, P. M., and Sheeran, P. (2006), Implementation intentions and goal achievement, a meta-analysis of effects and processes, *Advances in Experimental Social Psychology* 38, 69 to 119, [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)
-- Care ratings from the Crystal & Ritual care data, the same data as the Care Checker. Intention labels from our comparison of modern crystal guides, read November 13, 2026
+- Care ratings from the Crystal & Ritual care data, the same data as the Care Checker
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 - Prices from single listings at US crystal shops, read November 18, 2026
 
 Last reviewed November 2026.

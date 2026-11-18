@@ -20,7 +20,6 @@ sources:
   - "https://www.gia.edu/gems-gemology/summer-2015-gemnews-blue-chalcedony-partially-filled-epoxy-resin"
   - "https://gia.edu/gems-gemology/spring-2020-gemnews-dyed-chalcedony-imitation-of-chrysocolla-in-chalcedony"
   - "https://www.gia.edu/gems-gemology/summer-2020-labnotes-crackled-dyed-chalcedony"
-  - "https://geology.com/gemstones/agate/"
   - "https://snr.unl.edu/data/geologysoils/agates/"
   - "https://www.gemselect.com/gem-info/chalcedony/chalcedony-info.php"
   - "https://www.gemrockauctions.com/learn/a-z-of-gemstones/blue-lace-agate"
@@ -31,7 +30,6 @@ sources:
   - "https://doi.org/10.7717/peerj.3363"
   - "https://www.crystalvaults.com/crystal-encyclopedia/blue-chalcedony/"
   - "https://crystalgemstones.net/blue-chalcedony-meaning-and-spiritual-properties.html"
-  - "https://www.france-mineraux.fr/vertus-des-pierres/pierre-calcedoine-bleue/"
   - "https://moonrisecrystals.com/blue-chalcedony-meaning/"
 ---
 
@@ -65,7 +63,7 @@ Blue chalcedony is the pale to medium blue variety of chalcedony, a quartz made 
 | State gem | Nebraska, since 1967, as "Blue Agate" |
 | Chakra (Modern Association) | Throat, often third eye |
 
-> **Is It Real? Quick Checks.** Natural blue chalcedony is usually a soft grayish, lavender or sky blue that glows a little against a light. Neon blue, or color that collects in cracks, points to dye. Only a lab can prove a stone is undyed.
+> **Is It Real? Quick Checks.** Natural blue chalcedony is usually a soft grayish, lavender or pale blue that glows a little against a light. Neon blue, or color that collects in cracks, points to dye. Only a lab can prove a stone is undyed.
 
 ## What Blue Chalcedony Actually Is
 
@@ -88,7 +86,7 @@ The color types are usually named for their source (International Gem Society).
 
 ### Is Blue Chalcedony the Same as Blue Agate?
 
-Often, yes. "Blue Chalcedony, commonly called Blue Agate," became Nebraska's state gemstone by legislative action in 1967 ([University of Nebraska](https://snr.unl.edu/data/geologysoils/agates/)). Strictly, agate is a patterned, usually banded variety of chalcedony ([IGS](https://www.gemsociety.org/article/agate-gem-information/)), though tags do not always keep that line.
+The names overlap. "Blue Chalcedony, commonly called Blue Agate," became Nebraska's state gemstone by legislative action in 1967 ([University of Nebraska](https://snr.unl.edu/data/geologysoils/agates/)). Strictly, agate is a patterned, usually banded variety of chalcedony ([IGS](https://www.gemsociety.org/article/agate-gem-information/)), though tags do not always keep that line.
 
 ## Blue Chalcedony vs Blue Lace Agate
 
@@ -97,7 +95,7 @@ Blue lace agate is a banded kind of blue chalcedony, so the real difference is t
 | | Blue chalcedony | Blue lace agate |
 |---|---|---|
 | Pattern | Even color, sometimes a soft inner glow | Fine bands, swirls and loops |
-| Typical color | Grayish, lavender or sky blue | Sky blue and white |
+| Typical color | Grayish, lavender or pale blue | Sky blue and white |
 | Mineral | Chalcedony (quartz) | Chalcedony (quartz), banded |
 | Care Checker heat rating | Avoid | Unknown |
 
@@ -207,9 +205,8 @@ GemSelect puts most chalcedony at a few dollars per carat at wholesale, with cla
 - S.-H. Lin, Y.-H. Li, H.-F. Chen and J.-N. Fang, [Dyed Chalcedony Imitation of Chrysocolla in Chalcedony](https://gia.edu/gems-gemology/spring-2020-gemnews-dyed-chalcedony-imitation-of-chrysocolla-in-chalcedony), *Gems & Gemology*, Spring 2020
 - M. Miura, [Quench-Crackled Dyed Blue Chalcedony Resembling Larimar](https://www.gia.edu/gems-gemology/summer-2020-labnotes-crackled-dyed-chalcedony), *Gems & Gemology*, Summer 2020
 - University of Nebraska-Lincoln, Conservation and Survey Division, [The Agates Collection](https://snr.unl.edu/data/geologysoils/agates/)
-- Hobart M. King, Geology.com, [Agate](https://geology.com/gemstones/agate/)
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
-- George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 35, 38 to 39, 65, 121 to 122, 132 to 134, 303, 305 and 319, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), page 131, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
+- George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 35, 38 to 39, 65, 132 to 134, 303, 305 and 319, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), page 131, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - Pliny the Elder, *Natural History*, Book 37, chapter 37, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D37)
 - Nicholas M. Hobson, Devin Bonk and Michael Inzlicht, "Rituals Decrease the Neural Response to Performance Failure," *PeerJ* 5 (2017), e3363, [doi.org/10.7717/peerj.3363](https://doi.org/10.7717/peerj.3363)
 - Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)

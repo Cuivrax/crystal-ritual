@@ -1,4 +1,84 @@
 ---
-const { page } = Astro.props;
+// The Crystal Care Checker, from tools/care-checker (markup, styles and script kept, data built here).
+import '../../styles/care-checker.css';
+import care from '../../data/care.json';
+import { getSite } from '../../lib/site.mjs';
+import { policy } from '../../lib/render.mjs';
+const site = await getSite();
+const keep = ['water', 'soak', 'sun_light', 'salt'];
+const hosts = Object.fromEntries(Object.entries(care.hosts || {}).filter(([h]) => policy.isReferenceUrl(`https://${h}/`)));
+const stones = care.stones.map((s) => {
+  const out = { slug: s.slug, name: s.name, aliases: s.aliases || [], care: {} };
+  if (site.isBuilt(`/stones/${s.slug}/`)) out.url = `/stones/${s.slug}/`;
+  for (const f of keep) {
+    const c = s.care?.[f] || { rating: 'unknown', reason: '', sources: [] };
+    const shown = (c.sources || []).filter((u) => policy.isReferenceUrl(u));
+    out.care[f] = { rating: c.rating, reason: c.reason, sources: shown, ...(c.wikipedia_only ? { wikipedia_only: true } : {}), ...(shown.length < (c.sources || []).length && !shown.length ? { guide_sources: true } : {}) };
+  }
+  return out;
+});
+const slim = JSON.stringify({ site: care.site, generated: care.generated, fields: keep, ratings: care.ratings, hosts, stones }).replace(/</g, '\\u003c');
 ---
-<div data-tool="CareChecker"></div>
+<div class="care-tool" id="checker">
+  <section class="step" aria-labelledby="step-stones">
+    <h2 id="step-stones"><span class="num" aria-hidden="true">1</span> Choose Your Stones</h2>
+    <label class="field-label" for="stone-search">Search for a stone</label>
+    <div class="combo">
+      <input id="stone-search" type="text" role="combobox" aria-autocomplete="list" aria-expanded="false"
+             aria-controls="stone-list" aria-describedby="search-hint" autocomplete="off" autocapitalize="off"
+             spellcheck="false" enterkeyhint="done" placeholder="Try amethyst or selenite">
+      <ul id="stone-list" class="listbox" role="listbox" aria-label="Matching stones" hidden></ul>
+    </div>
+    <p id="search-hint" class="hint">Type a name or another name it goes by. Arrow keys move through matches and Enter adds one.</p>
+    <ul id="chips" class="chips" aria-label="Your stones"></ul>
+    <p id="count" class="count"></p>
+    <div id="quick" class="quick" role="group" aria-labelledby="quick-label">
+      <span id="quick-label" class="quick-label">Popular picks</span>
+    </div>
+  </section>
+
+  <section class="step" aria-labelledby="step-method">
+    <fieldset>
+      <legend><h2 id="step-method"><span class="num" aria-hidden="true">2</span> Choose a Method</h2></legend>
+      <h3 class="group-title" id="g-contact">Water, Sun &amp; Salt</h3>
+      <p class="group-intro">Each of these is checked against what our sources say about that kind of contact.</p>
+      <div class="methods contact" id="methods-contact" role="group" aria-labelledby="g-contact"></div>
+      <h3 class="group-title" id="g-dry">Dry Methods</h3>
+      <p class="group-intro">These keep the stone dry. People follow them as practices, and our sources document no physical contact risk for them.</p>
+      <div class="methods dry" id="methods-dry" role="group" aria-labelledby="g-dry"></div>
+    </fieldset>
+  </section>
+
+  <section id="results" class="results" aria-labelledby="results-title" tabindex="-1">
+    <h2 id="results-title">Your Results</h2>
+    <p id="empty" class="empty">Pick at least one stone and a method, and your results show up here.</p>
+    <div id="result-body" hidden>
+      <div class="summary-box">
+        <p id="summary-method" class="summary-method"></p>
+        <p id="summary" class="summary" tabindex="-1"></p>
+        <div class="actions">
+          <button type="button" id="save" class="btn btn-primary">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7.5 10.5L12 15l4.5-4.5M5 19h14"/></svg>
+            <span>Save as Image</span>
+          </button>
+          <button type="button" id="try-dry" class="btn btn-secondary" hidden>Try Moonlight Instead</button>
+          <button type="button" id="reset" class="btn btn-quiet">Start Over</button>
+        </div>
+      </div>
+      <div id="cards" class="cards"></div>
+    </div>
+  </section>
+
+  <section class="about" aria-labelledby="about-title">
+    <h2 id="about-title">How We Rate Each Stone</h2>
+    <dl class="legend" id="legend"></dl>
+    <h2 id="sources-title">Where the Ratings Come From</h2>
+    <p>Every rating rests on a quote we checked against the source page, and each card links to the reference pages behind it. We never guess a rating from hardness or from what a stone is made of. When only Wikipedia backs a rating, the card says so.</p>
+    <p>Moonlight, sound, smoke, a selenite plate and brown rice are practices people follow. This checker looks at the physical side of care only, and our sources document no physical contact risk for any of them.</p>
+    <p class="built-line"><span id="built"></span></p>
+  </section>
+  <p id="status" class="sr-only" aria-live="polite"></p>
+  <noscript><p>The checker needs JavaScript to run.</p></noscript>
+</div>
+<script type="application/json" id="care-data" set:html={slim} />
+<script>import '../../scripts/care-checker.js';</script>

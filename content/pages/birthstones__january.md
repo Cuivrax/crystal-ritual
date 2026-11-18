@@ -35,7 +35,7 @@ sources:
 
 The January birthstone is garnet, the only stone the American Gem Society lists for the month. Garnet is not one mineral but a family of closely related minerals, with gems in almost every color, though red is the classic. Most garnets are not treated, which makes it one of the simpler birthstones to buy honestly.
 
-<!-- PHOTO TO FIND, hero. A classic red faceted garnet (almandine or pyrope) or a rough red garnet crystal. No row for garnet, almandine or pyrope in images_candidates.csv, and the 12 garnet rows in images_commons_candidates.csv all have visual_check empty. Check one of those Commons files or search Smithsonian Open Access for "almandine" or "pyrope", then log file, license and credit. -->
+<!-- PHOTO HERO. File site/photos/birthstones__january/hero.jpg. Source Unsplash, https://unsplash.com/photos/Ayhynh0kXwM . License Unsplash License. Credit "Photo by sameer Ali on Unsplash". Visual check 2026-11-18, Three faceted red garnets on white with a leaf; stone identity plausible from colour/cut, not stated. -->
 
 <!-- PHOTO 2, orange garnet. Smithsonian NMNH, "Spessartine". Image https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3ee4052650d1e4c36ae929ff4130ccedf . Record http://n2t.net/ark:/65665/39471b447-6764-4b70-9555-bef707129c89 . License CC0 (Smithsonian Open Access), https://www.si.edu/openaccess . Credit line "Smithsonian National Museum of Natural History, CC0". Hero pick for spessartine in image_picks_new_stones.json (visual pass). Alt text "Faceted orange-red spessartine garnet, Smithsonian collection". -->
 
@@ -147,7 +147,7 @@ We use the same five labels on every stone. Garnet scores well on honesty, becau
 - **Natural, untreated.** Most garnets you will see.
 - **Natural, treated.** Rarely, surface-reaching cracks are filled with a glass-like substance (GIA). Proteus garnets, almandine-pyrope with a thin metallic surface layer, are the only regularly treated garnets, and they look dark gray and metallic in reflected light ([International Gem Society](https://www.gemsociety.org/article/garnet-jewelry-and-gemstone-information/)).
 - **Lab-made.** Synthetic garnets called YAG and GGG were the main diamond simulants before cubic zirconia arrived in the late 1970s, and they are still made in many colors (International Gem Society). They are lab materials with a garnet structure, not the same compounds as the natural gem species.
-- **Imitation.** Our sources do not say which imitations are most common, so ask the seller to name the mineral.
+- **Imitation.** Ask the seller to name the mineral, and get it in writing.
 - **Trade name.** Rhodolite, malaia, tsavorite, demantoid and cinnamon stone are honest names for real garnets. Chrome pyrope from Arizona is called "anthill garnet," because ants bring the stones to the surface (International Gem Society).
 
 Home checks are limited. Garnet has no cleavage, so a stone that splits cleanly along flat planes is probably something else ([Geology.com](https://geology.com/minerals/garnet.shtml)). Color alone cannot identify a garnet, because the species overlap so much (International Gem Society). Naming the exact species or blend takes a gem lab.
@@ -184,7 +184,7 @@ The general garnet entry still reads Unknown, so check your variety. The Interna
 - International Gem Society, [Garnet](https://www.gemsociety.org/article/garnet-jewelry-and-gemstone-information/), [Zircon](https://www.gemsociety.org/article/zircon-jewelry-and-gemstone-information/), [Rhodolite](https://www.gemsociety.org/article/rhodolite-garnet/), [Spessartite](https://www.gemsociety.org/article/spessartite-garnet), [Grossular](https://www.gemsociety.org/article/grossular-garnet/), [Hessonite](https://www.gemsociety.org/article/hessonite/) and the [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Hobart M. King, Geology.com, [Garnet](https://geology.com/minerals/garnet.shtml)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 33 to 34, 37 to 38, 133, 165, 292 to 293, 307 to 327 and 345, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
-- Modern associations compared across the crystal guides in our lore collection, including crystalvaults.com, crystals.com, firemountaingems.com and lebensquelle-plus.de, read November 13, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 18, 2026.
 

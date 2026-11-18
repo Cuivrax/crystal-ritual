@@ -1,4 +1,37 @@
 ---
-const { page } = Astro.props;
+// Tonight's Moon panel and The Month in Moons strip (tools/moon, sections #tonight and #month).
+const { month = true } = Astro.props;
 ---
-<div data-tool="MoonTonight"></div>
+<section class="moon-tool" id="tonight" aria-label="Tonight's Moon">
+  <div class="moon-panel">
+    <div class="moon-big" aria-hidden="false">
+      <div class="moon-halo" aria-hidden="true"></div>
+      <div class="moon-wrap" id="tonight-moon"></div>
+    </div>
+    <div class="moon-now">
+      <p class="moon-eyebrow">Tonight's Moon</p>
+      <p class="moon-date" id="tonight-date"></p>
+      <p class="phase-name" id="tonight-phase">&nbsp;</p>
+      <p class="stat"><strong id="tonight-pct"></strong> lit, <span id="tonight-trend"></span></p>
+      <p class="exact" id="tonight-age"></p>
+      <p class="exact" id="tonight-exact" hidden></p>
+      <dl class="moon-next">
+        <div><dt>Next Full Moon</dt><dd><span id="next-name"></span>, <span id="next-date"></span><span class="next-in" id="next-in"></span></dd></div>
+        <div><dt>Next New Moon</dt><dd id="new-date"></dd></div>
+      </dl>
+      <p class="fine" id="tz-note"></p>
+    </div>
+  </div>
+  <noscript><p class="fine">The moon tools work out the sky in your browser and need JavaScript turned on.</p></noscript>
+</section>
+{month && (
+  <section class="moon-tool moon-month" id="month" aria-label="The Month in Moons">
+    <p class="moon-tool-title">The Month in Moons</p>
+    <p class="moon-tool-sub"><span id="month-label"></span>. The principal phases of the month in your time zone, each with the stones crystal guides most often pair with it. On a phone, swipe the strip.</p>
+    <div class="month-scroll" role="region" aria-label="Moon phases this month, scrolls sideways" tabindex="0">
+      <ol class="phase-strip" id="month-list"></ol>
+    </div>
+    <p class="fine">These pairings are a tradition reported by crystal guides, not a proven effect. The facets show how widely a pairing is held on our five-facet scale.</p>
+  </section>
+)}
+<script>import '../../scripts/moon-tools.js';</script>

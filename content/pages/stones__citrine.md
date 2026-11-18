@@ -204,7 +204,7 @@ For a wash, yes. Some guides go further and suggest citrine elixirs or gemstone 
 
 Even fine citrine has a modest price tag, and GIA notes that the price per carat does not rise dramatically for larger sizes. Color drives value. Stones with a faint color are abundant and inexpensive, while a rich, uniform color is rare and valuable (Geology.com). Eye-visible inclusions are not common, and when present they lower the value (GIA). Natural color can carry a premium, and since there is no simple test for it, ask the seller how they know before you pay extra.
 
-Here is what that premium can look like. Polished points sold as natural-color, unheated citrine, 1 to 1.8 inches tall, ran about $25 to $105, and rough pieces sold as unheated, about 2 inches long or 31 to 40 grams, ran about $30 to $59. Loose faceted yellow citrine from Brazil, with no treatment stated, was about $3 for a 0.65 carat stone, $9 for 1.57 carats and $48 for 7.55 carats at one large gem dealer. Prices from US-dollar listings at online crystal shops and gem dealers in November 2026.
+Here is what that premium can look like. Polished points sold as natural-color, unheated citrine, 1 to 1.8 inches tall, ran about $25 to $105, and rough pieces sold as unheated, two about 2 inches long and one of 31 to 40 grams, ran about $30 to $59. Loose faceted yellow citrine from Brazil, with no treatment stated, was about $3 for a 0.65 carat stone, $9 for 1.57 carats and $48 for 7.55 carats at one large gem dealer. Prices from US-dollar listings at online crystal shops and gem dealers in November 2026.
 
 **Next Step.** Want to see where citrine fits among the usual prosperity stones? Read [crystals for money](/crystals-for/money/).
 
@@ -220,7 +220,7 @@ Here is what that premium can look like. Polished points sold as natural-color, 
 - Judy Hall, *The Crystal Bible* (2003), named as a modern source of meanings
 - Retail prices from US-dollar listings at online crystal shops and gem dealers, read November 2026
 - SAMHSA, [988 Suicide and Crisis Lifeline fact sheet](https://www.samhsa.gov/sites/default/files/988-factsheet.pdf)
-- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 
