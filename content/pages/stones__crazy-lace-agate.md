@@ -82,11 +82,11 @@ Mostly white and gray. Cross writes that while individual bands of red, yellow, 
 
 For agate in general, the colors come from impurities that line up as bands (Geology.com), traces of iron, manganese, titanium, chromium and nickel oxides (International Gem Society). Agate is also porous and takes dye readily, a point that matters for the brightly colored pieces covered below.
 
-### Where Crazy Lace Agate Comes from
+### Where Crazy Lace Agate Comes From
 
 Crazy lace comes from the Sierra Santa Lucia in Chihuahua, a range Cross says "hosts numerous agate mining concessions and diggings." Mexico is also one of the premier sources of lace agate in general, which is found in Arizona and Namibia too (International Gem Society). Lace agate is the broader name.
 
-## Where the Meaning Comes from
+## Where the Meaning Comes From
 
 **The Story.** "Crazy lace" is a modern trade name, so no ancient text mentions it. What it inherits is the long lore of agate, plus a nickname from modern crystal books.
 

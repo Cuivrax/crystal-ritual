@@ -126,7 +126,7 @@ Where do the meanings come from, then? One crystal guide answers honestly that t
 
 Students and language learners are the classic audience. Guides suggest a raw chunk or palm stone on a study desk, next to a planner or a calendar, and pendants worn near the throat. Zodiac links scatter, with Leo in one guide and Sagittarius in another, so treat any single sign as one shop's choice.
 
-### What Is Dumortierite Good for?
+### What Is Dumortierite Good For?
 
 As a mineral, it is a hard, tough blue stone that holds up well in jewelry, and the IGS calls it eminently suitable for it. Everything else people say it does is belief about the person holding it, a steadier study session or a calmer reply.
 

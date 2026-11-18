@@ -97,7 +97,7 @@ One gem dealer's encyclopedia names Pakistan as the big supplier of onyx marble 
 
 The difference matters most for hardness. Chalcedony onyx rates 6.5 to 7 on the Mohs scale (GemSelect), calcite only 3 (Geology.com), so a green onyx bowl scratches far more easily than a green onyx ring.
 
-## Where the Meaning Comes from
+## Where the Meaning Comes From
 
 **The Story.** Green onyx has no lore of its own. It inherits the stories of onyx, and those are darker than most shop pages suggest. George Frederick Kunz collected them in two books of gem lore.
 
@@ -121,7 +121,7 @@ The "why" is mostly the color. Green reads as new beginnings and growth ([Green 
 
 Guides agree less on the details. Signs scatter, Gemini most often, then Virgo, Taurus and Leo. One shop calls green onyx a May birthstone, but the [American Gem Society](https://www.americangemsociety.org/birthstones/) list gives May to emerald, and green onyx appears nowhere on it.
 
-### What Is Green Onyx Good for?
+### What Is Green Onyx Good For?
 
 As a material, green onyx is good for jewelry and for decor. Chalcedony onyx is cut into cabochons and beads for rings, bracelets, necklaces and earrings, and carved into cameos and small figures (Minerals.net). Onyx marble is carved into vases, bookends and plates (Amethyst Galleries). Everything else is belief about the person wearing it.
 

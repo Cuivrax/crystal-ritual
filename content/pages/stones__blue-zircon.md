@@ -104,7 +104,7 @@ A 2016 GIA study explains the chemistry. Blue zircon comes from heating brown ma
 
 Natural blue straight from the ground occurs "extremely rarely," according to the International Gem Society's December guide. Within the gem trade, all blue zircon is presumed to be heat treated (Gems & Gemology), and the International Gem Society calls the heating undetectable. That is normal for this gem, and an honest seller says so.
 
-### Where Blue Zircon Comes from
+### Where Blue Zircon Comes From
 
 Cambodia is the chief source of zircon that heats to colorless and blue, and Thailand is one of the most important commercial sources of gem zircon (International Gem Society). The December guide adds Myanmar, and GIA has published on heated blue zircon reportedly from a mine near Maripa, Malawi.
 
@@ -112,7 +112,7 @@ Cambodia is the chief source of zircon that heats to colorless and blue, and Tha
 
 Gem zircon, as a rule, is not. Some zircon picks up uranium and thorium as it grows, and over millions of years the radiation breaks down its crystal structure. The International Gem Society says most gem-quality zircon is the fully crystalline "high" type, which is not radioactive, and that wearing zircon typically poses no significant health risk. The stones it suggests having a lab measure are green, brown or orange, the colors typical of radiation-damaged zircon. Our [Care Checker](/tools/crystal-care-checker/) rates blue zircon OK to wear and handle.
 
-## Where the Meaning Comes from
+## Where the Meaning Comes From
 
 **The Story.** Blue zircon's own story is short, because blue is mostly a heated color. Most older lore belongs to zircon in general, and some to stones that only shared its old names.
 

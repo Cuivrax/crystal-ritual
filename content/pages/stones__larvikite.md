@@ -77,7 +77,7 @@ That is the key difference from [labradorite](/stones/labradorite/). Labradorite
 
 No. The IUGS describes larvikite as a group of monzonitic rocks, a different family from granite, yet it is sold as "Blue Pearl Granite." The stone trade stretches the word, the same way it sells labradorite-rich anorthosite as "blue granite" (Geology.com). The name is a trade label, not a rock type.
 
-### Where Larvikite Comes from
+### Where Larvikite Comes From
 
 The rock is quarried in the municipality of Larvik, in Vestfold County, Norway (IUGS). Quarrying began in 1884, when Ferdinand Narvesen opened a quarry near the town of Stavern, and by 2015 about 30 quarries were shipping rough blocks with an export value of some 500 million Norwegian kroner (GEO365). Light larvikite is sold as "Blue Pearl" and dark larvikite as "Emerald Pearl," among other commercial names (IUGS record).
 
@@ -87,7 +87,7 @@ Your tumbled stone has famous relatives. Larvikite gravestones were already expo
 
 > **Trade Name.** "Blue Pearl Granite" and "Emerald Pearl" are trade names for light and dark larvikite (IUGS), and GEO365 adds "Royal Blue" and "Marina Pearl." The bead seller [Dakota Stones](https://dakotastones.com/pages/larvikite-stone-glossary) also sells it as "Norwegian Moonstone," and one crystal guide notes "black moonstone" on beads and bracelets ([CrystalGemstones.net](https://crystalgemstones.net/larvikite-meaning-and-spiritual-properties.html)). None of these is granite, and none is moonstone. On our five-label ladder, larvikite is a natural rock with several misleading names.
 
-## Where the Meaning Comes from
+## Where the Meaning Comes From
 
 **The Story.** Larvikite has no known ancient or medieval lore. Neither of Kunz's books on gem lore (1913 and 1915) mentions it, and modern crystal sellers agree it is a newcomer. Its real history is industrial, and that is a good story too.
 

@@ -111,7 +111,7 @@ Minerals.net's one magnetic note is that goethite "will become attracted to magn
 
 Goethite hides in many better-known stones. Thin plates of goethite are among the inclusions that make some sunstone glitter ([Geology.com](https://geology.com/gemstones/sunstone/)). Skyjems describes golden to reddish brown goethite needles in quartz and warns that they are easily confused with rutile, so some stones sold as [rutilated quartz](/stones/rutilated-quartz/) hold goethite instead.
 
-## Where the Meaning Comes from
+## Where the Meaning Comes From
 
 **The Story.** Goethite has no ancient lore under its own name, because the name is only about two centuries old. Kunz's books on gem lore never mention it. Its story is about pigment, a poet and a lot of rust.
 
@@ -127,7 +127,7 @@ Goethite hides in many better-known stones. Thin plates of goethite are among th
 
 The "why" is unusually easy to see. Goethite is rust and earth, so a mineral that forms where iron meets soil and water reads as grounding. One crystal guide ties the creative side partly to its namesake, the poet, and the root chakra, shown in red and often black on today's chakra chart, suits a dark brown stone.
 
-### What Is Goethite Good for?
+### What Is Goethite Good For?
 
 As a mineral, iron ore, yellow ochre pigment and some of the most delicate brown crystals a collector can own. As a belief, steadiness on days when attention drifts, during a move or after travel, as one guide puts it.
 

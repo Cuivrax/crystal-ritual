@@ -1,7 +1,7 @@
 ---
-title: "Aquarius Birthstone, Crystals & Where They Come from"
+title: "Aquarius Birthstone, Crystals & Where They Come From"
 description: "Aquarius has no single birthstone. Garnet and amethyst from the month lists, today's angelite and aquamarine, where each link comes from and daily rituals."
-h1: "Aquarius Crystals & Birthstones, Plus Where the Links Come from"
+h1: "Aquarius Crystals & Birthstones, Plus Where the Links Come From"
 url: "/zodiac/aquarius/"
 primary_keyword: "aquarius birthstone"
 secondary_keywords:
@@ -41,7 +41,7 @@ sources:
   - "https://crystalgemstones.net/angelite-meaning-and-spiritual-properties.html"
 ---
 
-# Aquarius Crystals & Birthstones, Plus Where the Links Come from
+# Aquarius Crystals & Birthstones, Plus Where the Links Come From
 
 Aquarius has no single official birthstone, because birthstones belong to months and Aquarius runs from about January 20 to February 18. That gives garnet for a January birthday and amethyst for a February one. As a zodiac stone, a 1913 list gives Aquarius the garnet and an old Spanish list the amethyst, while today's crystal guides favor angelite and aquamarine, all beliefs rather than mineral facts.
 
@@ -104,7 +104,7 @@ Celestite, turquoise, fluorite, azurite and fuchsite each turn up in a few Aquar
 
 Some associations sit at the edge and you can skip them, like amber, which appears in very few modern Aquarius lists.
 
-## Where the Aquarius Links Come from
+## Where the Aquarius Links Come From
 
 **The Story.** Aquarius has no famous cameo like Capricorn's, but the old books still leave a trail.
 

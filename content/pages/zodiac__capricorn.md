@@ -1,7 +1,7 @@
 ---
-title: "Capricorn Birthstone, Crystals & Where They Come from"
+title: "Capricorn Birthstone, Crystals & Where They Come From"
 description: "Capricorn has no single birthstone. The December and January stones, the ruby of a 1913 list, today's jet and smoky quartz links and how to use them daily."
-h1: "Capricorn Crystals & Birthstones, Plus Where the Links Come from"
+h1: "Capricorn Crystals & Birthstones, Plus Where the Links Come From"
 url: "/zodiac/capricorn/"
 primary_keyword: "capricorn birthstone"
 secondary_keywords:
@@ -46,7 +46,7 @@ sources:
   - "https://www.crystals.com/pages/crystals/jet"
 ---
 
-# Capricorn Crystals & Birthstones, Plus Where the Links Come from
+# Capricorn Crystals & Birthstones, Plus Where the Links Come From
 
 Capricorn has no single official birthstone, because birthstones belong to months and Capricorn runs from about December 22 to January 19. That gives tanzanite, turquoise or zircon for a December birthday and garnet for a January one. As a zodiac stone, a 1913 list gives Capricorn the ruby, while today's crystal guides favor jet, tourmalinated quartz and smoky quartz, all beliefs rather than mineral facts.
 
@@ -115,7 +115,7 @@ Ruby is July's birthstone today ([GIA](https://www.gia.edu/ruby/gem-overview)). 
 
 Some links stay rare and you can skip them, like ruby in modern guides. It survives mostly as the 1913 verse.
 
-## Where the Capricorn Links Come from
+## Where the Capricorn Links Come From
 
 **The Story.** Capricorn's oldest gem links run through one Roman emperor.
 

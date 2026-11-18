@@ -1,7 +1,7 @@
 ---
-title: "Birthstone Chart by Month & Where the Lists Come from"
+title: "Birthstone Chart by Month & Where the Lists Come From"
 description: "A birthstone chart for every month, modern and traditional, with the 1912 jewelers' list, the later updates and why zodiac stones are a different list."
-h1: "Birthstones by Month & Where the Lists Come from"
+h1: "Birthstones by Month & Where the Lists Come From"
 url: "/birthstones/"
 primary_keyword: "birthstone chart"
 secondary_keywords:
@@ -24,7 +24,7 @@ sources:
   - "https://www.gutenberg.org/ebooks/57978"
 ---
 
-# Birthstones by Month & Where the Lists Come from
+# Birthstones by Month & Where the Lists Come From
 
 A birthstone chart pairs each month of the year with one or more gems. The modern US chart is the American Gem Society list, which grew out of a list US jewelers adopted in Kansas City in 1912, itself built on much older European lists. The chart below shows all three, so you can see which stones are new and which go back centuries.
 
@@ -49,7 +49,7 @@ A birthstone chart pairs each month of the year with one or more gems. The moder
 
 Sources for the chart. Modern list from the [American Gem Society](https://www.americangemsociety.org/birthstones/), read November 12, 2026. The 1912 list and the older column come from George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 315 and 319 to 320, where the older column is his summary of usage from the 15th to the 20th century.
 
-## Where Birthstone Lists Come from
+## Where Birthstone Lists Come From
 
 **Tradition.** The idea starts with the twelve stones on the breastplate of the Jewish high priest. In the 1st century the historian Josephus wrote that those twelve stones could stand for the months or for the twelve signs of the zodiac, and St. Jerome repeated the link in the early 400s (Kunz 1913, pages 307 to 310). Later writers swapped in the twelve foundation stones of the New Jerusalem from the book of Revelation, which is why the oldest lists start the year in March (pages 307 to 308 and 314).
 

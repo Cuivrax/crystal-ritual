@@ -93,13 +93,13 @@ Rarer colors exist. [Minerals.net](https://www.minerals.net/mineral/prehnite) li
 
 Many tumbled stones show dark needles inside the pale green. A dealer guide says these are often epidote or black tourmaline, both separate minerals (Gem Rock Auctions). The [Wisconsin Geological and Natural History Survey](https://home.wgnhs.wisc.edu/minerals/prehnite/) notes that prehnite can enclose small clusters of epidote crystals, and epidote often grows as long, slender crystals (James Madison University). The pair turns up together in basalts from Virginia to Wisconsin. More on the dark one on our [epidote page](/stones/epidote/).
 
-### Where Prehnite Comes from
+### Where Prehnite Comes From
 
 The type locality is the Cape of Good Hope in South Africa (Galleries.com). The International Gem Society lists facetable material from Australia and Scotland, fine green prehnite from the Fairfax Quarry in Centreville, Virginia, prehnite in the basalts of New Jersey, and colorless crystals up to 3 inches from Asbestos, Quebec.
 
 Prehnite is popular with hobbyists as a cabochon. Australian material can be faceted into a striking gem "with a soft, velvety look," and a few cat's-eye stones have been reported (IGS).
 
-## Where the Meaning Comes from
+## Where the Meaning Comes From
 
 **The Story.** Prehnite has a short paper trail. It does not appear in either of Kunz's books on gem lore (1913 and 1915), and one crystal guide says itself that the stone "was not included in any of the older lapidaries" ([Moonrise Crystals](https://moonrisecrystals.com/prehnite-meaning/)).
 

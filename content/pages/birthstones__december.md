@@ -78,7 +78,7 @@ Go back further and "traditional" points somewhere else. **Tradition.** In 1913 
 
 GIA's birthstone exhibit says that tradition is one reason, but "the more significant reason is that some gemstones are too rare and expensive, and others just aren't as popular" ([GIA](https://my.gia.edu/gia-museum-exhibit-birthstones)). A third stone gives buyers a different price and a different look. Kunz objected to the idea. In 1913 he wrote that "there should be no duplication or triplication of birth-stones for any given month" (pages 320 to 321).
 
-## Where Birthstone Lists Come from
+## Where Birthstone Lists Come From
 
 **Tradition.** Month stones go back to the twelve stones on the breastplate of the Jewish high priest. In the 1st century the historian Josephus tied them to the twelve months and the twelve zodiac signs, and St. Jerome repeated the link in the early 400s (Kunz 1913, pages 307 to 310). Wearing your own month's stone came much later, probably in 18th century Poland, Kunz says (page 307).
 

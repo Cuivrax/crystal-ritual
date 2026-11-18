@@ -6,6 +6,8 @@ const { page = null, title, description, url, image = null, breadcrumbs = [], ci
 // The 404 page answers at any address, so it gets no canonical, no og:url and no structured data.
 const canonical = errorPage ? null : absoluteUrl(url);
 const isArticle = page && !['home', 'hub', 'directory', 'trust', 'tool', 'color', 'chakra'].includes(page.type);
+// Pages without a photo share the brand card, so links on Pinterest, Facebook and Threads always show an image.
+const shareImage = image || absoluteUrl('/og-default.jpg');
 const ld = errorPage ? null : jsonLd({ page, title, description, url, image, breadcrumbs, citations, authorUrl });
 ---
 <title>{title}</title>
@@ -18,10 +20,10 @@ const ld = errorPage ? null : jsonLd({ page, title, description, url, image, bre
 <meta property="og:title" content={title}>
 <meta property="og:description" content={description}>
 {canonical && <meta property="og:url" content={canonical}>}
-{image && <meta property="og:image" content={image}>}
+<meta property="og:image" content={shareImage}>
 {isArticle && page && <meta property="article:author" content="Iris Holloway">}
-<meta name="twitter:card" content={image ? 'summary_large_image' : 'summary'}>
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content={title}>
 <meta name="twitter:description" content={description}>
-{image && <meta name="twitter:image" content={image}>}
+<meta name="twitter:image" content={shareImage}>
 {ld && <script type="application/ld+json" set:html={ld} />}

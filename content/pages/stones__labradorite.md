@@ -86,7 +86,7 @@ Not every labradorite flashes. Geology.com says labradorite is the only plagiocl
 
 It is usually normal. The quality of the flash varies from stone to stone and even within one stone (Geology.com). Cutting matters too. The flash shows best when the flat back of a cabochon runs parallel to the layers inside, and a stone cut at another angle shows its flash off to one side (Geology.com). A dull, gray-looking piece is not a fake for that reason alone.
 
-### Where Labradorite Comes from
+### Where Labradorite Comes From
 
 Labradorite is named for where it was found, the Isle of Paul near Nain in Labrador, Canada, where a Moravian missionary came across it in 1770 (Geology.com). The International Gem Society notes that crystals there reach 2 feet long but are badly cracked.
 
@@ -97,7 +97,7 @@ Labradorite is named for where it was found, the Isle of Paul near Nain in Labra
 
 Labradorite also sparkles on buildings. Anorthosite rich in labradorite is cut into countertops, tiles and facing stone sold as "blue granite," and a building faced with it glitters when the sun hits at the right angle (Geology.com).
 
-## Where the Meaning Comes from
+## Where the Meaning Comes From
 
 **The Story.** Labradorite has no ancient or medieval lore. It does not appear in either of Kunz's books on gem lore (1913 and 1915), which makes sense for a stone first found by a missionary in 1770. What it has is a modern story, a scientific puzzle and a trade name or two.
 

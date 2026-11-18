@@ -75,7 +75,7 @@ Agate, jasper, carnelian, chrysoprase and onyx are chalcedonies too ([Internatio
 
 Chalcedony colors come from metallic impurities, such as iron, nickel, copper and titanium, present as the stone crystallizes, and unstained material is often grayish blue (International Gem Society). In the related chrysocolla-in-chalcedony, GIA researchers trace the greenish blue to micro-inclusions of chrysocolla, a color rooted in copper ([GIA, Spring 2020](https://gia.edu/gems-gemology/spring-2020-gemnews-dyed-chalcedony-imitation-of-chrysocolla-in-chalcedony)). We found no reference source that pins the soft blue of ordinary blue chalcedony on one element.
 
-### Where It Comes from
+### Where It Comes From
 
 The color types are usually named for their source (International Gem Society).
 
@@ -101,7 +101,7 @@ Blue lace agate is a banded kind of blue chalcedony, so the real difference is t
 
 Their care ratings differ, so check each in the [Care Checker](/tools/crystal-care-checker/). One guide calls the two a "classic pairing for communication" ([CrystalGemstones.net](https://crystalgemstones.net/blue-chalcedony-meaning-and-spiritual-properties.html)). See [blue lace agate](/stones/blue-lace-agate/), [agate](/stones/agate/) and [chalcedony vs agate](/compare/chalcedony-vs-agate/).
 
-## Where the Meaning Comes from
+## Where the Meaning Comes From
 
 **The Story.** Old texts say a lot about chalcedony and nothing specific about the blue kind, so read every line below as family lore. Ancient names also described appearance, so an old "chalcedony" may not be your stone.
 

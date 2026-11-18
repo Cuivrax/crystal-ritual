@@ -106,7 +106,7 @@ Yellow sapphires are found in "a wide range of deposits worldwide" (*Gems & Gemo
 
 Rough sapphire has a highly symmetrical hexagonal crystal habit (International Gem Society). Some sapphires hold enough rutile needles, precisely arranged, to show a six-rayed star when cut as a cabochon. One gem dealer lists yellow, orange and green as the rarest star sapphire colors ([Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/star-sapphire)). More on our [star sapphire page](/stones/star-sapphire/).
 
-## Where the Meaning Comes from
+## Where the Meaning Comes From
 
 **The Story.** Yellow sapphire spent most of its history under other names. Here is what George Frederick Kunz found in the texts.
 

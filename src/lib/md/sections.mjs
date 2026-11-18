@@ -270,7 +270,9 @@ function relatedCards(section, ctx) {
     const built = target && ctx.isBuilt(target);
     const slug = target ? target.split('/').filter(Boolean).pop() : null;
     const thumb = slug && ctx.helpers?.stoneThumb ? ctx.helpers.stoneThumb(slug, 'card') : null;
-    const title = el('h3', { className: ['related-name'] }, built ? [el('a', { href: target, className: ['stretched'] }, [txt(name)])] : [txt(name)]);
+    // Card titles are headings, so they follow the house Title Case rule even when the list item is in sentence case.
+    const shown = titleCase(name);
+    const title = el('h3', { className: ['related-name'] }, built ? [el('a', { href: target, className: ['stretched'] }, [txt(shown)])] : [txt(shown)]);
     return el('article', { className: ['related-card', built ? 'is-link' : ''].filter(Boolean) }, [
       ...(thumb ? [raw(thumb)] : []),
       el('div', { className: ['related-body'] }, [title, el('div', { className: ['related-text'] }, isEl(body, 'p') ? [body, ...meaningful(li.children).slice(1)] : li.children)]),

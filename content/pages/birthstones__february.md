@@ -79,7 +79,7 @@ None of those changes touched February. Kunz would have approved. In 1913 he arg
 
 If you want a second February stone anyway, the zodiac offers one route. A February birthday falls under Aquarius or Pisces, and our [Aquarius](/zodiac/aquarius/) and [Pisces](/zodiac/pisces/) pages list the stones each sign is linked to.
 
-## Where the February Stone's Meaning Comes from
+## Where the February Stone's Meaning Comes From
 
 **The Story.** The February amethyst is the end point of a long chain of lists. Here is how the stone got the month, and then the meanings.
 

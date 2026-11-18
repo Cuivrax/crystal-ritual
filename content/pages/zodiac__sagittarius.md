@@ -1,7 +1,7 @@
 ---
 title: "Sagittarius Birthstone, Crystals & Their Real Story"
 description: "There is no official Sagittarius birthstone. Why topaz and turquoise get the title, which crystal guides link to the sign, and where the links come from."
-h1: "Sagittarius Crystals, Birthstones & Where the Links Come from"
+h1: "Sagittarius Crystals, Birthstones & Where the Links Come From"
 url: "/zodiac/sagittarius/"
 primary_keyword: "sagittarius birthstone"
 secondary_keywords:
@@ -26,7 +26,7 @@ sources:
   - "https://www.gutenberg.org/ebooks/57978"
 ---
 
-# Sagittarius Crystals, Birthstones & Where the Links Come from
+# Sagittarius Crystals, Birthstones & Where the Links Come From
 
 There is no official Sagittarius birthstone, because birthstones belong to months and Sagittarius runs from late November to December 21. The stones most often named are topaz, which an old zodiac rhyme gives to the sign, and turquoise, a December birthstone that modern crystal guides tie to Sagittarius more than to any other sign. Both links are beliefs, from astrology and from modern crystal books.
 
@@ -60,7 +60,7 @@ So when a site names one Sagittarius birthstone, it is choosing. Topaz has the b
 
 Kunz's table runs the sign from November 21 to December 21, and horoscope sources do not all use the same dates, so check the ones you follow. The sign is also not the same thing as the constellation. Astrology's signs were mapped long ago, and because of a slow shift called precession, they no longer line up with the star patterns that share their names ([We The Curious planetarium](https://wethecurious.org/planetariumblog/star-signs-and-precession)). The same planetarium team notes that the constellation Ophiuchus sits between Scorpius and Sagittarius. Western astrology ties its signs to the seasons instead, starting Aries at the March equinox, so your sign stays the same either way.
 
-## Where the Sagittarius Links Come from
+## Where the Sagittarius Links Come From
 
 **The Story.** The links between Sagittarius and stones come from two very different eras, an old astrological layer and a young crystal one.
 

@@ -80,7 +80,7 @@ No. On today's US lists January has one stone, while months like December have t
 
 The hyacinth and jacinth on some old lists may not be a rival at all. The International Gem Society says those names were used for reddish brown zircon and, historically, also for hessonite, which is a garnet ([International Gem Society](https://www.gemsociety.org/article/zircon-jewelry-and-gemstone-information/)).
 
-## Where the January Birthstone Comes from
+## Where the January Birthstone Comes From
 
 **Tradition.** Birthstone lists grew out of the twelve stones on the breastplate of the Jewish high priest, which the historian Josephus tied to the twelve months in the 1st century (Kunz 1913, pages 307 to 310). Kunz thought the fourth stone, the one engraved with the name of Judah, was probably an almandine garnet (pages 292 to 293). That is his reading, not a settled fact. When the stones were later matched to the months, garnet replaced the jacinth for January, which Kunz noted as one of only two departures from the foundation stones of Revelation (page 316).
 
@@ -106,7 +106,7 @@ Garnet is typically red, but it can be orange, green, yellow, purple, black or b
 | Tsavorite | Strong, vibrant green | A grossular, mostly from Kenya, Tanzania and Madagascar |
 | Demantoid | Golden green (Geology.com) | The gem variety of andradite |
 
-## Where Garnet's Meaning Comes from
+## Where Garnet's Meaning Comes From
 
 **The Story.** Garnet's meaning has always followed its color, the red of blood, fire and fruit.
 

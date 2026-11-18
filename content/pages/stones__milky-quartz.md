@@ -91,7 +91,7 @@ It also shows up inside other crystals. Milky quartz is often the cloudy phantom
 
 <!-- PHOTO 2, beside "Where Milky Quartz Forms". Wikimedia Commons, "File Milky quartz 2.jpg", by James St. John. Page https://commons.wikimedia.org/wiki/File:Milky_quartz_2.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Milky_quartz_2.jpg/1280px-Milky_quartz_2.jpg (tracking parameters removed). License CC BY 2.0. Credit line "Photo James St. John, CC BY 2.0, via Wikimedia Commons". Visual verdict ok in image_picks_new_stones.json ("white milky quartz, smooth surface"). Alt text "Smooth piece of white milky quartz". -->
 
-## Where the Meaning Comes from
+## Where the Meaning Comes From
 
 **The Story.** Milky quartz has no grand legend. What it has is a long record of white stones kept, buried and carried, and one very practical meaning.
 

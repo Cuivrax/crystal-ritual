@@ -93,7 +93,7 @@ Montana has a purple chapter too. A 2020 lab note in [Gems & Gemology](https://w
 
 <!-- PHOTO 2, beside the Montana paragraph. Wikimedia Commons, "File PurpleYogoSapphire6B.jpg", by PumpkinSky. Page https://commons.wikimedia.org/wiki/File:PurpleYogoSapphire6B.jpg . Image https://upload.wikimedia.org/wikipedia/commons/5/57/PurpleYogoSapphire6B.jpg (tracking parameters removed). License CC BY-SA 3.0. Credit line "Photo PumpkinSky, CC BY-SA 3.0, via Wikimedia Commons". Visual verdict ok in image_picks_new_stones.json ("purple-blue Yogo sapphire cut gem, bluish background"). Alt text "Cut purple-blue gemstone on a blue background, labeled as a Yogo sapphire by its photographer". -->
 
-## Where the Meaning Comes from
+## Where the Meaning Comes From
 
 **The Story.** Purple sapphire has almost no lore of its own, and one gem dealer, [GemSelect](https://www.gemselect.com/other-info/purple-sapphire-meaning-history-guide.php), says it is usually understood within the history of sapphire in general. What it does have is a long record of mixed-up names.
 

@@ -103,7 +103,7 @@ Ruby zoisite comes from the Longido district of northeast Tanzania, at the Munda
 
 Nearby amphibolite with large brown-red garnets usually signals that the zoisite-ruby rock is close (atlas). The atlas calls Tanzania the only source, while one dealer also lists Kenya.
 
-## Where the Meaning Comes from
+## Where the Meaning Comes From
 
 **The Story.** Ruby zoisite was identified in the 1950s, so its lore is borrowed from ruby or written by modern shops.
 

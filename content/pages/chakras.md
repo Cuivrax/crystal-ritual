@@ -28,7 +28,7 @@ sources:
   - "https://www.crystalvaults.com/crystal-encyclopedia/smoky-quartz/"
 ---
 
-# Chakra Stones Chart & Where the Rainbow System Comes from
+# Chakra Stones Chart & Where the Rainbow System Comes From
 
 Chakra stones are crystals that modern guides match to the seven chakras of today's Western chart, mostly by color, from red jasper at the root to amethyst at the crown. The rainbow chart itself is recent. Kurt Leland, who wrote a history of the Western chakra system, finds that the rainbow colors and the list of chakra qualities did not come together in print until 1977, in Ken Dychtwald's *Bodymind* and a related magazine article, and he notes that the Indian chakras had colors but no rainbow.
 
@@ -50,7 +50,7 @@ This is the modern Western chart. Locations and Sanskrit names follow most cryst
 
 **Modern Association.** Every link here is a modern belief. The colors run the rainbow up the body, and most stones land where their color does, except [clear quartz](/stones/clear-quartz/), Widely Linked to all seven at once.
 
-## Where the Rainbow Chakra System Comes from
+## Where the Rainbow Chakra System Comes From
 
 **The Story.** Most of today's chart was assembled in the 20th century, according to Kurt Leland's article "The Rainbow Body" in *Quest*, the magazine of the Theosophical Society in America ([Quest](https://www.theosophical.org/publications/quest-magazine/the-rainbow-body-how-the-western-chakra-system-came-to-be), Spring 2017).
 

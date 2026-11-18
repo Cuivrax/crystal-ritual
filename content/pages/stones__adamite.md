@@ -110,7 +110,7 @@ Color and glow. Minerals.net calls adamite a fine specimen mineral in demand for
 
 Rarely, and only for collectors. At 3.5 on the Mohs scale with good cleavage, adamite makes "less than optimal" jewelry and turns up far more often as a crystal specimen, says the International Gem Society, which advises protective settings for any jewelry use. Faceted stones are small, about 1 to 3 carats from green material, and it lists a 4.38 ct pink stone from Mexico in a private collection. When a parcel of rare gems reached GIA's Carlsbad laboratory in 2016, a 0.87 ct green adamite was among six gem types the lab had never examined there before ([Gems & Gemology, Spring 2016](https://www.gia.edu/gems-gemology/spring-2016-labnotes-unusual-colored-stones)).
 
-## Where the Meaning Comes from
+## Where the Meaning Comes From
 
 **The Story.** Adamite has no ancient lore, and the reason is simple. It was not described until 1866, too late for the old lapidaries. Its story is a collector's story, and its meanings are recent.
 

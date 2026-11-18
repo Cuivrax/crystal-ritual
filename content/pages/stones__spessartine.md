@@ -99,11 +99,11 @@ Orange is the signature, leaning toward yellow in some stones and toward red in 
 
 **Mineral Fact.** Spessartine is common in granite pegmatites, granites and rhyolites. It also forms in skarns and in manganese-rich rocks altered next to igneous intrusions (Handbook of Mineralogy). [Geology.com](https://geology.com/minerals/garnet.shtml) sums it up as an orange garnet found as crystals in granite pegmatites. Crystals can grow large. A few Brazilian spessartines have weighed several pounds while staying transparent, and faceters have cut gems of more than 100 carats from Brazilian and Madagascar rough (International Gem Society).
 
-### Where Spessartine Comes from
+### Where Spessartine Comes From
 
 Namibia, Nigeria and Tanzania are major sources, including of Mandarin garnet (International Gem Society), and GIA names Namibia and Tanzania as key sources of rich orange-to-yellow spessartine. In the US, San Diego County, California, especially Ramona, has produced fine orange gems, and Amelia Court House in Virginia gives "fine, gemmy orange to deep brownish material" (International Gem Society). Brazil, Madagascar, Pakistan and China are on the list too (International Gem Society, Minerals.net).
 
-### What Is Spessartine Used for?
+### What Is Spessartine Used For?
 
 Mostly as a gem. Minerals.net calls it the most widely used orange and reddish-orange garnet. With a hardness of 7 to 7.5 and no cleavage, it makes a durable stone for any jewelry, engagement rings included (International Gem Society). Crystal specimens, especially recent finds from Tanzania, are popular with collectors (Minerals.net). Industrial garnet abrasive is another story, since almandine is the garnet most used in industry (Geology.com).
 
@@ -120,7 +120,7 @@ Mostly as a gem. Minerals.net calls it the most widely used orange and reddish-o
 
 "Flame spessartine" is not a species, and the International Gem Society's spessartite article does not use the term. Read "flame," like other color words in a listing, as a seller's description of the color, not a separate kind of garnet, and ask which garnet it is.
 
-## Where the Meaning Comes from
+## Where the Meaning Comes From
 
 **The Story.** Spessartine has no ancient lore of its own. It was described as a species only in 1832, so its older story is garnet's story.
 

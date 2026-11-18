@@ -72,7 +72,7 @@ Kunz saw the overlap as a feature, since zodiac stones widen the choice while th
 
 So "the Capricorn birthstone" has a two-part answer. The month stone depends on the birthday, and the sign stone depends on the tradition you follow.
 
-## Where Zodiac Stones Come from
+## Where Zodiac Stones Come From
 
 **The Story.** The idea is old, but the lists keep changing.
 

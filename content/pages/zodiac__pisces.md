@@ -1,7 +1,7 @@
 ---
 title: "Pisces Birthstone, Crystals & Their Real Story"
 description: "There is no official Pisces birthstone. Why amethyst and aquamarine get the title, which crystals guides link to the sign, and where each link comes from."
-h1: "Pisces Crystals, Birthstones & Where the Links Come from"
+h1: "Pisces Crystals, Birthstones & Where the Links Come From"
 url: "/zodiac/pisces/"
 primary_keyword: "pisces birthstone"
 secondary_keywords:
@@ -45,7 +45,7 @@ sources:
   - "https://www.firemountaingems.com/learn/categories/essential-resources/gemstone-meanings/morganite-gemstone-meanings.html"
 ---
 
-# Pisces Crystals, Birthstones & Where the Links Come from
+# Pisces Crystals, Birthstones & Where the Links Come From
 
 There is no official Pisces birthstone, because birthstones belong to months and Pisces runs from about February 19 to March 20. The stones most often named are amethyst, which a zodiac rhyme printed in 1913 gives to the sign, and aquamarine, a March birthstone that modern crystal guides link to Pisces more than any other stone. Both links are beliefs, from old astrology lists and from modern crystal books.
 
@@ -80,7 +80,7 @@ Kunz's verse table ends Pisces on March 21, while his chapter on birthstones end
 
 The sign is also not the constellation. Because of a slow shift called precession, astrology's signs no longer line up with the star patterns that share their names ([We The Curious planetarium](https://wethecurious.org/planetariumblog/star-signs-and-precession)). Tropical astrologers start Aries at the March equinox, which makes Pisces the last sign of the cycle.
 
-## Where the Pisces Links Come from
+## Where the Pisces Links Come From
 
 **The Story.** Pisces stones come from two layers, an old astrological one and a young crystal one.
 

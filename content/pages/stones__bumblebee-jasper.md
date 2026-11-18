@@ -88,11 +88,11 @@ The famous bull's-eyes come from slicing across rounded, grape-like growths, and
 
 <!-- PHOTO 2, beside "How Bumblebee Jasper Forms". PHOTO TO FIND, a slab showing bull's-eye (orbicular) patterns. Candidates to review, other files in the James St. John "Sulfidic travertine" series on Wikimedia Commons (CC BY 2.0). Log visual_check before use. -->
 
-### Where Bumblebee Jasper Comes from
+### Where Bumblebee Jasper Comes From
 
 The mining area sits on the lower slopes of Mount Ciremai (or Cereme), an active volcano about 16 miles (25 km) southwest of the town of Cirebon in West Java. Production began in 2003 and had yielded an estimated 150 tons by the 2018 study, and no other deposit has been documented (Gem-A). Many sellers name Papandayan, another West Java volcano, instead.
 
-## Where the Meaning Comes from
+## Where the Meaning Comes From
 
 **The Story.** Bumblebee jasper has no ancient lore, and two shop guides say so plainly. Its whole history is recent.
 

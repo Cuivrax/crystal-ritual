@@ -90,7 +90,7 @@ Three lines of evidence point the other way.
 
 So the orbs appear to be a feature of a volcanic rock, not the remains of ancient life.
 
-### Where Kambaba Comes from
+### Where Kambaba Comes From
 
 FossilEra places it in the west-central Bongolava region of Madagascar, and Haynes in the Bongollava region of central Madagascar. Rhyolite itself is an extrusive igneous rock with a very high silica content, typically made of quartz, plagioclase and sanidine, and it usually forms where granitic magma reaches the surface ([Geology.com](https://geology.com/rocks/rhyolite.shtml)). In a rock tumbler, Kambaba behaves like agate and jasper even though it is neither, and its very few pore spaces let it take a high polish (Rocktumbler.com).
 
@@ -98,7 +98,7 @@ FossilEra places it in the west-central Bongolava region of Madagascar, and Hayn
 
 > **Trade Name.** "Kambaba jasper" is a trade name. Spellings vary between Kambaba, Kambamba, Kabamby and Kabamba (Haynes). It is also sold as crocodile jasper, a name Rocktumbler.com traces to people who thought the orbs looked like crocodile eyes. Rocktumbler.com notes that some people have also called it "nebula stone." On our five-label ladder, it is a natural rock with a misleading name.
 
-## Where the Meaning Comes from
+## Where the Meaning Comes From
 
 **The Story.** Kambaba has no known ancient or medieval lore. Neither of Kunz's two books on gem lore (1913 and 1915) has an entry for it, and its story begins with the fossil label. Here is what can actually be dated.
 

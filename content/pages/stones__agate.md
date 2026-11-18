@@ -89,7 +89,7 @@ Often both. A geode is a cavity lined with crystals (Geology.com), and agate is 
 
 <!-- PHOTO 2, beside "Agate or Geode?". Smithsonian NMNH, "Quartz (var. agate)", Dryhead, Montana, United States. Image https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3710909c8e0fd41b7bcf2aca51e075068 . Record http://n2t.net/ark:/65665/349ff0422-7267-4c8b-8ed4-46c9e0373e1e . License CC0 (Smithsonian Open Access), https://www.si.edu/openaccess . Credit line "Smithsonian National Museum of Natural History, CC0". visual_check ok, visual_use secondary. Alt text "Agate slice from Dryhead, Montana, with a banded brown rim around a white crystal center, Smithsonian collection". -->
 
-### Types of Agate & Where They Come from
+### Types of Agate & Where They Come From
 
 Gemologists name agates by pattern, inclusions or source (International Gem Society).
 
@@ -100,7 +100,7 @@ Gemologists name agates by pattern, inclusions or source (International Gem Soci
 
 Banded agates also come from Uruguay, Madagascar and the United States (IGS). Agates were some of the earliest stones people shaped (Geology.com).
 
-## Where the Meaning Comes from
+## Where the Meaning Comes From
 
 **The Story.** Agate's meaning built up in layers, a bit like the stone. Here is what each era left in writing.
 
