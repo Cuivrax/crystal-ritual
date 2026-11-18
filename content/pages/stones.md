@@ -55,7 +55,7 @@ Crystal meanings are the beliefs people attach to stones, such as amethyst for s
 
 <!-- TOOL. The Stone Atlas, A to Z directory with search by name and alias and the four filters (Color, Intention, "Chakra, a Modern Belief", Hardness). Filter states are not indexed. Every published stone page is also listed in plain HTML links for search engines. Cards show one honest fact and the stone's best-known belief with its facet word, never a count. -->
 
-<!-- PHOTO HERO. Wikimedia Commons, "File Amethyst Rio Grande do Sul Minéraux SU n02.jpg", by Marie-Lan Taÿ Pamart, Sorbonne University mineral collection. Page https://commons.wikimedia.org/wiki/File:Amethyst_Rio_Grande_do_Sul_Min%C3%A9raux_SU_n02.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Amethyst_Rio_Grande_do_Sul_Min%C3%A9raux_SU_n02.jpg/1280px-Amethyst_Rio_Grande_do_Sul_Min%C3%A9raux_SU_n02.jpg (tracking parameters removed). License CC BY 4.0, credit required. Credit line "Photo Marie-Lan Taÿ Pamart, CC BY 4.0, via Wikimedia Commons". visual_check ok (raw purple crystal cluster on black background), visual_use hero. Alt text "Purple amethyst crystal cluster from Rio Grande do Sul, Brazil". -->
+<!-- PHOTO HERO. File site/photos/stones/hero.jpg. Source Unsplash, https://unsplash.com/photos/FyvkyiZuZpU . License Unsplash License. Credit "Photo by Gabby Conde on Unsplash". Alt text "A few crystals and a selenite moon set out on white marble". Visual check 2026-11-19, Clear quartz, amethyst, rose quartz, blue lace agate, amazonite, a selenite moon, citrine and celestine on white marble. -->
 
 ## How the Stone Atlas Works
 

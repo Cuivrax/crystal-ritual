@@ -417,5 +417,29 @@
   "visual": "Tumbled chiastolite with a clear dark cross on white marble, bright and sharp; title names the stone.",
   "brightness": "Bright, clean, white marble.",
   "confidence": "high"
+ },
+ "home": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/gdHLzLJIENk",
+  "image_url": "https://images.unsplash.com/photo-1678244660394-fa02a19ac24a",
+  "license": "Unsplash License",
+  "creator": "Kier in Sight Archives",
+  "credit": "Photo by Kier in Sight Archives on Unsplash",
+  "visual": "Collection of amethyst crystals on white fabric, bright flat lay",
+  "brightness": "Bright, soft lilac",
+  "confidence": "high",
+  "alt_text": "Amethyst crystals of many sizes scattered on white fabric"
+ },
+ "stones": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/FyvkyiZuZpU",
+  "image_url": "https://images.unsplash.com/photo-1580916964970-b14c09d28879",
+  "license": "Unsplash License",
+  "creator": "Gabby Conde",
+  "credit": "Photo by Gabby Conde on Unsplash",
+  "visual": "Clear quartz, amethyst, rose quartz, blue lace agate, amazonite, a selenite moon, citrine and celestine on white marble",
+  "brightness": "Bright marble",
+  "confidence": "high",
+  "alt_text": "A few crystals and a selenite moon set out on white marble"
  }
 }

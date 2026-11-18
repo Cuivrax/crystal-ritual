@@ -45,7 +45,7 @@ Crystals, as most people use the word, are the polished stones and mineral speci
 
 <!-- Search field placeholder text "Search a stone, or the name on a label". -->
 
-<!-- PHOTO HERO. Smithsonian NMNH, "Quartz (var. amethyst)", Sweden, Oxford Co., Maine, United States. Record http://n2t.net/ark:/65665/317d704cc-0622-4a73-a7ed-7f7c342577da . Image https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3cb4ef913a35c404b97c564769f6e9965 . License CC0 (Smithsonian Open Access), https://www.si.edu/openaccess . visual_check ok, visual_use secondary (raw amethyst druse on cream matrix, black background), used as the hero in R3-Home. Caption "Amethyst, Sweden, Oxford County, Maine. Smithsonian NMNH, CC0". Alt text "Raw purple amethyst crystals on a pale rock matrix". -->
+<!-- PHOTO HERO. File site/photos/home/hero.jpg. Source Unsplash, https://unsplash.com/photos/gdHLzLJIENk . License Unsplash License. Credit "Photo by Kier in Sight Archives on Unsplash". Alt text "Amethyst crystals of many sizes scattered on white fabric". Visual check 2026-11-19, Collection of amethyst crystals on white fabric, bright flat lay. -->
 
 <!-- SECTION 3, FIND YOUR STONE. Keep the label "Find Your Stone" for search, the visible title is the H2. Anchor id "find-your-stone". -->
 
