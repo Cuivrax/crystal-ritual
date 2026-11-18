@@ -1,0 +1,425 @@
+{
+  "generated": "2026-11-18",
+  "note": "Counts of crystal guides that tie a stone to a moon phase. A tradition, never an effect.",
+  "method": {
+    "lore_files": 353,
+    "claims_read": 43862,
+    "claims_kept": 339,
+    "claims_skipped_category": 3,
+    "skipped_categories": [
+      "physical_health_claim",
+      "warning"
+    ],
+    "min_sources": 2,
+    "top_n": 6,
+    "source_unit": "distinct site (one guide) within one stone file",
+    "dark_moon": "counted with the new moon",
+    "ranking": "sources desc, then sources/sources_read desc, then name"
+  },
+  "phase_groups": {
+    "New Moon": "new_moon",
+    "Waxing Crescent": "waxing",
+    "First Quarter": "waxing",
+    "Waxing Gibbous": "waxing",
+    "Full Moon": "full_moon",
+    "Waning Gibbous": "waning",
+    "Last Quarter": "waning",
+    "Waning Crescent": "waning"
+  },
+  "phases": {
+    "new_moon": {
+      "label": "new moon",
+      "heading": "Stones crystal guides most often pair with the new moon",
+      "stones": [
+        {
+          "slug": "moonstone",
+          "name": "Moonstone",
+          "sources": 4,
+          "sources_read": 14,
+          "sites": [
+            "crystalgemstones.net",
+            "crystals.com",
+            "crystalvaults.com",
+            "satincrystals.com"
+          ],
+          "src_ids": [
+            "L3",
+            "L5",
+            "L7",
+            "L12"
+          ]
+        },
+        {
+          "slug": "black-moonstone",
+          "name": "Black Moonstone",
+          "sources": 2,
+          "sources_read": 2,
+          "sites": [
+            "france-mineraux.fr",
+            "moonrisecrystals.com"
+          ],
+          "src_ids": [
+            "L1",
+            "L2"
+          ]
+        },
+        {
+          "slug": "peach-moonstone",
+          "name": "Peach Moonstone",
+          "sources": 2,
+          "sources_read": 7,
+          "sites": [
+            "crystals.com",
+            "moonrisecrystals.com"
+          ],
+          "src_ids": [
+            "L2",
+            "L7"
+          ]
+        },
+        {
+          "slug": "rainbow-moonstone",
+          "name": "Rainbow Moonstone",
+          "sources": 2,
+          "sources_read": 14,
+          "sites": [
+            "crystals.com",
+            "otterspirit.com"
+          ],
+          "src_ids": [
+            "L1",
+            "L2"
+          ]
+        }
+      ],
+      "eligible_count": 4,
+      "tied_at_cutoff_not_shown": 0,
+      "named_by_one_source": [
+        "black-jasper",
+        "carnelian",
+        "cassiterite",
+        "citrine",
+        "dark-amber",
+        "flower-agate",
+        "labradorite",
+        "merlinite",
+        "ocean-picture-stone",
+        "phosphosiderite",
+        "silver-sheen-obsidian",
+        "smoky-quartz",
+        "snow-quartz",
+        "snowflake-obsidian",
+        "stichtite",
+        "strawberry-quartz",
+        "turquoise"
+      ]
+    },
+    "waxing": {
+      "label": "waxing moon",
+      "heading": "Stones crystal guides most often pair with the waxing moon",
+      "stones": [],
+      "eligible_count": 0,
+      "tied_at_cutoff_not_shown": 0,
+      "named_by_one_source": [
+        "aquamarine",
+        "atlantisite",
+        "bicolor-tourmaline",
+        "bornite",
+        "chlorite",
+        "eudialyte",
+        "flower-agate",
+        "goshenite",
+        "green-aventurine",
+        "green-calcite",
+        "green-quartz",
+        "indicolite",
+        "moonstone",
+        "peacock-ore",
+        "pyrite",
+        "red-jasper",
+        "rhodonite",
+        "taaffeite",
+        "turquoise",
+        "white-opal"
+      ]
+    },
+    "full_moon": {
+      "label": "full moon",
+      "heading": "Stones crystal guides most often pair with the full moon",
+      "stones": [
+        {
+          "slug": "moonstone",
+          "name": "Moonstone",
+          "sources": 10,
+          "sources_read": 14,
+          "sites": [
+            "aglaiaco.com",
+            "crystalgemstones.net",
+            "crystals.com",
+            "crystalvaults.com",
+            "edelsteine.net",
+            "journee-mondiale.com",
+            "lebensquelle-plus.de",
+            "moonrisecrystals.com",
+            "satincrystals.com",
+            "tinyrituals.co"
+          ],
+          "src_ids": [
+            "L1",
+            "L2",
+            "L3",
+            "L4",
+            "L5",
+            "L6",
+            "L7",
+            "L10",
+            "L12",
+            "L13"
+          ]
+        },
+        {
+          "slug": "rainbow-moonstone",
+          "name": "Rainbow Moonstone",
+          "sources": 7,
+          "sources_read": 14,
+          "sites": [
+            "crystals.com",
+            "gemselect.com",
+            "histoiredor.com",
+            "lebensquelle-plus.de",
+            "moonmagic.com",
+            "otterspirit.com",
+            "saracura.squarespace.com"
+          ],
+          "src_ids": [
+            "L1",
+            "L2",
+            "L6",
+            "L8",
+            "L9",
+            "L12",
+            "L13"
+          ]
+        },
+        {
+          "slug": "obsidian",
+          "name": "Obsidian",
+          "sources": 6,
+          "sources_read": 12,
+          "sites": [
+            "bindi-online.com",
+            "crystals.com",
+            "journee-mondiale.com",
+            "lebensquelle-plus.de",
+            "mylittlemagicshop.com",
+            "otherworldlyoracle.com"
+          ],
+          "src_ids": [
+            "L2",
+            "L4",
+            "L5",
+            "L7",
+            "L8",
+            "L10"
+          ]
+        },
+        {
+          "slug": "strawberry-quartz",
+          "name": "Strawberry Quartz",
+          "sources": 6,
+          "sources_read": 12,
+          "sites": [
+            "gthic.com",
+            "jewelsandchains.com",
+            "kamoshika01.com",
+            "kumioils.com",
+            "otterspirit.com",
+            "perlesandco.co.uk"
+          ],
+          "src_ids": [
+            "L1",
+            "L3",
+            "L4",
+            "L5",
+            "L7",
+            "L12"
+          ]
+        },
+        {
+          "slug": "peach-moonstone",
+          "name": "Peach Moonstone",
+          "sources": 4,
+          "sources_read": 7,
+          "sites": [
+            "crystals.com",
+            "histoiredor.com",
+            "lebensquelle-plus.de",
+            "stonebridgeimports.com"
+          ],
+          "src_ids": [
+            "L2",
+            "L3",
+            "L4",
+            "L6"
+          ]
+        },
+        {
+          "slug": "citrine",
+          "name": "Citrine",
+          "sources": 4,
+          "sources_read": 12,
+          "sites": [
+            "aglaiaco.com",
+            "bindi-online.com",
+            "mysticryst.com",
+            "ontrip.jal.co.jp"
+          ],
+          "src_ids": [
+            "L6",
+            "L9",
+            "L11",
+            "L12"
+          ]
+        }
+      ],
+      "eligible_count": 58,
+      "tied_at_cutoff_not_shown": 2,
+      "named_by_one_source": [
+        "actinolite",
+        "african-turquoise",
+        "agate",
+        "amazonite",
+        "amber",
+        "ammonite",
+        "apatite",
+        "aquamarine",
+        "aragonite",
+        "arfvedsonite",
+        "auralite-23",
+        "azurite",
+        "baltic-amber",
+        "bicolor-tourmaline",
+        "black-moonstone",
+        "black-quartz",
+        "bloodstone",
+        "blue-agate",
+        "blue-apatite",
+        "blue-aragonite",
+        "blue-chalcedony",
+        "blue-kyanite",
+        "blue-opal",
+        "blue-tigers-eye",
+        "bolivianite",
+        "bornite",
+        "boulder-opal",
+        "brookite",
+        "cats-eye",
+        "chalcedony",
+        "chalcocite",
+        "chevron-amethyst",
+        "chiastolite",
+        "chlorite",
+        "chrysoprase",
+        "coral",
+        "cuprite",
+        "danburite",
+        "dendritic-agate",
+        "dioptase",
+        "dolomite",
+        "elestial-quartz",
+        "ethiopian-opal",
+        "euclase",
+        "eudialyte",
+        "fire-agate",
+        "fire-quartz",
+        "garnet",
+        "goethite",
+        "goshenite",
+        "green-opal",
+        "hackmanite",
+        "halite",
+        "hemimorphite",
+        "hyalite-opal",
+        "imperial-topaz",
+        "indicolite",
+        "indigo-gabbro",
+        "jade",
+        "kammererite",
+        "lapis-lazuli",
+        "larimar",
+        "lazurite",
+        "lemurian-quartz",
+        "magnesite",
+        "mangano-calcite",
+        "marcasite",
+        "mexican-fire-opal",
+        "moss-agate",
+        "natrolite",
+        "nuummite",
+        "ocean-jasper",
+        "orbicular-jasper",
+        "peacock-ore",
+        "peridot",
+        "phenakite",
+        "phosphosiderite",
+        "picasso-jasper",
+        "pietersite",
+        "pink-amethyst",
+        "pink-opal",
+        "pink-tourmaline",
+        "polychrome-jasper",
+        "prasiolite",
+        "purple-fluorite",
+        "red-aventurine",
+        "red-beryl",
+        "red-tiger-eye",
+        "red-tourmaline",
+        "rhodolite",
+        "ruby",
+        "sapphire",
+        "scolecite",
+        "septarian",
+        "seraphinite",
+        "serpentine",
+        "silver-sheen-obsidian",
+        "snow-quartz",
+        "snowflake-obsidian",
+        "sodalite",
+        "sphalerite",
+        "star-sapphire",
+        "stilbite",
+        "super-seven",
+        "tanzanite",
+        "thomsonite",
+        "topaz",
+        "tourmaline",
+        "tree-agate",
+        "tsavorite-garnet",
+        "turquoise",
+        "turritella-agate",
+        "vesuvianite",
+        "white-calcite",
+        "white-jade",
+        "white-onyx",
+        "white-opal",
+        "wulfenite",
+        "yellow-agate",
+        "yellow-jade",
+        "yellow-opal",
+        "zebra-jasper",
+        "zircon"
+      ]
+    },
+    "waning": {
+      "label": "waning moon",
+      "heading": "Stones crystal guides most often pair with the waning moon",
+      "stones": [],
+      "eligible_count": 0,
+      "tied_at_cutoff_not_shown": 0,
+      "named_by_one_source": [
+        "chiastolite",
+        "smoky-quartz"
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+ "_source": {
+  "list": "Modern US birthstone list as published by the American Gem Society",
+  "url": "https://www.americangemsociety.org/birthstones/",
+  "retrieved": "2026-11-12",
+  "note": "History of the list (1912 jewelers' list and later updates) still to be sourced before publication"
+ },
+ "months": {
+  "january": [
+   "garnet"
+  ],
+  "february": [
+   "amethyst"
+  ],
+  "march": [
+   "aquamarine",
+   "bloodstone"
+  ],
+  "april": [
+   "diamond"
+  ],
+  "may": [
+   "emerald"
+  ],
+  "june": [
+   "pearl",
+   "alexandrite",
+   "moonstone"
+  ],
+  "july": [
+   "ruby"
+  ],
+  "august": [
+   "peridot",
+   "sardonyx",
+   "spinel"
+  ],
+  "september": [
+   "sapphire"
+  ],
+  "october": [
+   "opal",
+   "tourmaline"
+  ],
+  "november": [
+   "topaz",
+   "citrine"
+  ],
+  "december": [
+   "tanzanite",
+   "turquoise",
+   "zircon"
+  ]
+ }
+}

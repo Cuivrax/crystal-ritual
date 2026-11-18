@@ -1,0 +1,11 @@
+---
+import { getSite } from '../lib/site.mjs';
+export async function getStaticPaths() {
+  const site = await getSite();
+  return site.pages.map((p) => ({ params: { slug: p.url === '/' ? undefined : p.url.replace(/^\/|\/$/g, '') }, props: { url: p.url } }));
+}
+const { url } = Astro.props;
+const site = await getSite();
+const page = site.byUrl.get(url);
+---
+<html lang="en-US"><body><h1>{page.data.h1}</h1></body></html>
