@@ -9,7 +9,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-02-01"
 publishTime: "05:37"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/"
@@ -59,7 +59,7 @@ Milky quartz is the cloudy white variety of quartz, made white by countless tiny
 | Chemicals | Brief only. Dissolves in hydrofluoric acid |
 | Toxic to handle | No. Cutting dust is a silica hazard |
 | Common fakes | None described in gem references. Glass is the usual quartz imitation |
-| Price range | Gold-bearing pieces are the prized ones (see Price Guide) |
+| Price range | Common material, set by size, finish and any visible gold (see Price Guide) |
 | Birthstone | Not on the modern list |
 | Chakra (Modern Association) | Crown, sometimes all seven |
 
@@ -142,10 +142,10 @@ Some pages promise far more, from balancing hormones and easing breastfeeding pa
 
 We use the same five labels on every stone. Milky quartz is common, and its look comes from its own inclusions, so there is little reason to fake it.
 
-- **Natural, untreated.** Most likely what you have. Gem references describe color treatment for gem forms of quartz such as citrine and amethyst ([minerals.net](https://www.minerals.net/mineral/quartz)), but we found no reference source describing treated milky quartz.
-- **Natural, treated.** We found no reference source on heated, dyed or coated milky quartz. The metal-coated quartz minerals.net describes is sold under "aura" names.
+- **Natural, untreated.** Most likely what you have. Gem references describe color treatment for gem forms of quartz such as citrine and amethyst ([minerals.net](https://www.minerals.net/mineral/quartz)), but no reference describes treated milky quartz.
+- **Natural, treated.** No reference describes heated, dyed or coated milky quartz. The metal-coated quartz minerals.net describes is sold under "aura" names.
 - **Lab-grown.** Quartz was one of the first gems grown on a large scale, with major development during World War II to supply crystals for radios, and the IGS notes that synthetic quartz is always clean. Cloudiness is the opposite of what labs grow it for.
-- **Imitation.** Glass is the classic quartz imitation. We found no reference source on glass sold as milky quartz in particular.
+- **Imitation.** Glass is the usual quartz imitation, though no reference describes glass sold as milky quartz in particular.
 - **Trade names.** "Snow quartz" and "white quartz" describe the same material. "Quartzite" on a milky quartz tag is a loose use of the word, since quartzite is a rock (IGS).
 
 ### Three Checks, With Their Limits
@@ -160,17 +160,17 @@ Ask the seller two questions. Is this natural quartz or glass? Where was it foun
 
 **Mineral Fact.** Quartz is durable at 7 on the Mohs scale and chemically inert in contact with most substances (Geology.com), but it dissolves in hydrofluoric acid (minerals.net).
 
-- **Water, soaking and cleaning.** Unknown. We found no care source that covers milky quartz itself yet, so the Care Checker leaves it unrated. Skip long soaks until one does.
+- **Water, soaking and cleaning.** Unknown. Care guides cover quartz in general, but none covers milky quartz itself, so water, soaking and cleaning stay unrated here and the page gives no soaking advice.
 - **Sun.** Unknown.
 - **Heat.** Brief only. Heat can microfracture quartz stone, as after a fire. One jeweler's care guide ([Gemporia](https://www.gemporia.com/en-gb/gemology-hub/article/922/)) warns that inclusions can expand at a different rate from the stone and crack it under extreme heat or cold, especially tiny pockets of moisture, and milky quartz is full of them.
 - **Chemicals.** Brief only. Inert with most substances, but keep it away from anything containing hydrofluoric acid.
 - **Salt.** Unknown.
-- **Scratches and storage.** Brief only. Hard at 7 and durable, but it chips with curved breaks. Store it apart from softer stones it could scratch.
+- **Scratches and storage.** Brief only. Hard at 7 and durable, but brittle, and it breaks with curved, conchoidal fractures. No care source gives storage advice for it.
 - **Toxicity.** OK to wear and handle. The [International Gem Society](https://www.gemsociety.org/article/gemstone-care-guide/) rates wearing and handling intact quartz as negligible risk, but cutting and grinding dust as high risk, which calls for a respirator, ventilation and wet methods.
 
 ### Can Milky Quartz Go in Water?
 
-Our data cannot clear it yet. Quartz itself is chemically inert, but the Care Checker rates water Unknown for milky quartz because no care source covers this variety, and the care data wins over any guide. A quick wipe with a damp cloth is the cautious way to clean it. Keep every stone out of drinking water, and read our guide to [moon water without ruining your stones](/rituals/moon-water/). Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+That is still an open question. Quartz itself is chemically inert, but no care source covers milky quartz as a variety, so water, soaking and cleaning are rated Unknown and this page gives no advice on them either way. A soft dry cloth is enough for dust. Keep every stone out of drinking water, and read our guide to [moon water without ruining your stones](/rituals/moon-water/). Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
 
 ## Milky Quartz vs Look-Alikes
 
@@ -183,7 +183,14 @@ Our data cannot clear it yet. Quartz itself is chemically inert, but the Care Ch
 
 ## Price Guide
 
-Milky quartz is a common, massive variety available in large pieces, and the IGS says it is little used in gems, except as cabochons of milky quartz with yellow gold specks. Gold is the exception, since many of the most beautiful gold specimens are lacy gold in pure white milky quartz (Amethyst Galleries). [TO CHECK US retail ranges]
+Milky quartz is a common, massive variety available in large pieces, and the IGS says it is little used in gems, except as cabochons of milky quartz with yellow gold specks. Amethyst Galleries notes that the trapped fluid has ruined the crystal for gem and optical work, though milky quartz is used in many fine ornamental carvings. Gem references do not price milky quartz, so the list below covers what moves the price instead.
+
+What drives the price.
+
+- **Use.** The inclusions that make it white have ruined the crystal for most gem and optical work, leaving ornamental carvings and the occasional cabochon (IGS, Amethyst Galleries).
+- **Size.** It comes in large pieces (IGS), so a bigger specimen is simply more material.
+- **Gold.** Many of the most beautiful gold specimens are lacy gold in pure white milky quartz (Amethyst Galleries), so a piece with visible gold is the exception.
+- **Name on the tag.** The same cloudy white quartz also sells as snow quartz or white quartz, so compare listings by size and finish, not by name.
 
 **Next Step.** Want a desk stone for a focus habit? Compare the usual picks in [crystals for focus](/crystals-for/focus/).
 

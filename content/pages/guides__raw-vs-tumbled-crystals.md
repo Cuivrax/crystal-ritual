@@ -10,7 +10,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-02-05"
 publishTime: "06:05"
-status: "draft"
+status: "verified"
 page_type: "guide"
 sources:
   - "https://geology.com/rock-tumblers/tumbled-stones"
@@ -56,7 +56,7 @@ sources:
 
 # Raw or Tumbled Crystals & Which One to Buy
 
-Raw crystals are stones left unpolished, as natural points, clusters or rough chunks, while tumbled stones are the same materials rolled in a barrel with grit and water for a few weeks until they come out smooth, rounded and shiny. Tumbling changes the shape and the surface, not the mineral, so hardness, care and safety stay the same. Pick tumbled for a pocket or a bowl you handle, and raw for a shelf where crystal faces and texture can show.
+Raw crystals are stones left unpolished, as natural points, clusters or rough chunks, while tumbled stones are the same materials rolled in a barrel with grit and water for days and weeks until they come out smooth, rounded and shiny. Tumbling changes the shape and the surface, not the mineral, so hardness, care and safety stay the same. Pick tumbled for a pocket or a bowl you handle, and raw for a shelf where crystal faces and texture can show.
 
 <!-- PHOTO HERO, a pair side by side, the same stone raw and tumbled. Both Commons files have visual_check ok, visual_use secondary.
 LEFT, raw. Wikimedia Commons, "File Citrine-from-brasil-rough-cristals.jpg", by Paweł Maliszczak. Page https://commons.wikimedia.org/wiki/File:Citrine-from-brasil-rough-cristals.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Citrine-from-brasil-rough-cristals.jpg/1280px-Citrine-from-brasil-rough-cristals.jpg (tracking parameters removed). License CC BY-SA 4.0. Credit line "Photo Paweł Maliszczak [hardleo.com], CC BY-SA 4.0, via Wikimedia Commons". Visual note "raw small yellow crystals on black background". Alt text "Small rough yellow quartz crystals sold as citrine, on a black background".
@@ -80,7 +80,7 @@ Better single photo to check first, "File Quarz - Aventurin.jpg" by Ra'ike, a ra
 
 **Mineral Fact.** "Tumbled stones are small, rounded, brightly polished pieces of rocks and minerals," also known as polished stones, tumbled gems or baroque gems, according to Geology.com. A rotary tumbler turns a barrel holding the stones, abrasive grit and water "for days and weeks at a time." In the first step the grit gets caught between the rocks and wears off sharp points and edges. Two more steps with finer silicon carbide smooth the surfaces, and a final polish such as micron-size aluminum oxide leaves the bright, lustrous finish ([Geology.com](https://geology.com/rock-tumblers/tumbled-stones)). The International Gem Society says the first stages take about a week each and the whole process about a month, "although the actual work is only a couple of hours" ([IGS](https://www.gemsociety.org/article/lapidary-fundamentals-gemstone-tumbling/)).
 
-Not every stone suits the barrel. The most popular tumbling materials have a Mohs hardness between 5 and 8, are durable and take a good polish, and quartz, agate and jasper are favorites (Geology.com). Agate is the most popular rough of all ([Geology.com](https://geology.com/gemstones/agate/)). Every stone in a barrel needs the same hardness, the International Gem Society adds, because "harder stones will scratch softer ones."
+Not every stone suits the barrel. The most popular tumbling materials have a Mohs hardness between 5 and 8, are durable and take a good polish, and quartz, agate and jasper are favorites (Geology.com). Agate is the most popular rough for producing tumbled stones ([Geology.com](https://geology.com/gemstones/agate/)). Every stone in a barrel needs the same hardness, the International Gem Society adds, because "harder stones will scratch softer ones."
 
 Polish also shows what was there all along, good and bad. It can reveal grain and pattern, as in tumbled petrified wood (Geology.com), and it shows flaws. Aventurine with coarse mica flakes comes out pitted, because the mica tends to pluck out during polishing ([Geology.com](https://geology.com/gemstones/aventurine/)). A few small pits on a tumbled aventurine are normal, not damage.
 
@@ -88,7 +88,7 @@ Polish also shows what was there all along, good and bad. It can reveal grain an
 
 Nature runs the same process. Miners recover many spinels from stream gravels, where "the rough-and-tumble action of the stream smoothed these gem crystals into rounded shapes and removed much of the included and fractured parts" ([International Gem Society](https://www.gemsociety.org/article/spinel-jewelry-and-gemstone-information/)).
 
-**Tradition.** People have always picked up the results. George Frederick Kunz called it "pebble-mania," "an inherent trait in all mankind," and described Redondo Beach pebbles in California that local collectors kept "in a bottle of water to bring out the beauty of their colors" (*The Magic of Jewels and Charms*, 1915, pages 19 to 20 and 30). Most ancient Mexican jadeite beads, he wrote, "appear to have been rounded pebbles of this material, assorted as to size and drilled" for necklaces (*The Curious Lore of Precious Stones*, 1913, page 252).
+**Tradition.** People have always picked up the results. George Frederick Kunz called it "pebble-mania," "an inherent trait in all mankind," and described Redondo Beach pebbles in California, some of which were placed "in a bottle of water to bring out the beauty of their colors" (*The Magic of Jewels and Charms*, 1915, pages 19 to 20 and 30). Most ancient Mexican jadeite beads, he wrote, "appear to have been rounded pebbles of this material, assorted as to size and drilled" for necklaces (*The Curious Lore of Precious Stones*, 1913, page 252).
 
 ### What Tumbling Does Not Change
 
@@ -154,7 +154,7 @@ The honest note. Energy in this sense is not something geology measures, and the
 
 Not reliably. For common stones both forms are cheap, and in the listings we found, the stone and its size moved the price more than the finish did.
 
-Single tumbled stones of common materials cost little in the listings we found, about $1 for a rose quartz about 3/4 inch across, $3 for a red jasper about an inch across and $7 for a clear quartz of 3/4 to 1 1/4 inches. Raw chunks of a common stone were just as cheap, about $2 for an orange calcite chunk about 1.5 inches wide and $4 for one 1.5 to 2 inches across. A rarer stone costs more in either form. A tumbled pink opal of 3/4 to 1 inch was $10 in one listing, and raw citrine sold as natural and unheated ran about $30 for a 31 to 40 gram piece to about $59 for one about 2.3 inches long. Apart from the citrine range, these are single listings, not typical prices. The word natural on those citrine listings is the seller's claim. Prices from US-dollar listings at online crystal shops in November 2026.
+Single tumbled stones of common materials cost little, and each figure here is one listing we found, about $1 for a rose quartz about 3/4 inch across, $3 for a red jasper about an inch across and $7 for a clear quartz of 3/4 to 1 1/4 inches. Raw chunks of a common stone were just as cheap, about $2 for an orange calcite chunk about 1.5 inches wide and $4 for one 1.5 to 2 inches across. A rarer stone costs more in either form. A tumbled pink opal of 3/4 to 1 inch was $10 in one listing, and raw citrine sold as natural and unheated ran about $30 for a 31 to 40 gram piece to about $59 for one about 2.3 inches long. Apart from the citrine range, these are single listings, not typical prices. The word natural on those citrine listings is the seller's claim. Prices from US-dollar listings at online crystal shops in November 2026.
 
 Past a small piece, the work counts. The International Gem Society says of agate that "labor and artistry play a more significant role in pricing than the raw material's inherent value" ([IGS](https://www.gemsociety.org/article/agate-gem-information/)). Tumbling is light on labor, about a month in the barrel for only a couple of hours of actual work, by the same society's count. Geology.com adds that tumbled stones can be bought by the pound "at prices that just about everyone can afford."
 
@@ -162,7 +162,7 @@ Past a small piece, the work counts. The International Gem Society says of agate
 
 Yes. The International Gem Society calls tumbling the simplest and least expensive lapidary art to learn, and says "the only equipment you need is a tumbler and abrasives, often sold in kits, and the rough you want to polish." Load stones of one hardness, expect about a week per stage, and follow its two warnings. Rinse stones outside, not in the sink, because tumbler waste "can plug up a drain quickly," and open the barrel daily, because gas can build up and could "blow the top off the barrel" ([IGS](https://www.gemsociety.org/article/lapidary-fundamentals-gemstone-tumbling/)).
 
-Leave anything the Care Checker flags for toxicity out of the barrel, since tumbling grinds stone away, and grinding dust is the hazard the International Gem Society warns about for malachite. Even quartz, safe to handle, is a different matter as dust. The International Gem Society rates cutting and grinding quartz a high risk, with silicosis as the hazard, and lists a respirator, ventilation and wet methods as precautions ([IGS care guide](https://www.gemsociety.org/article/gemstone-care-guide/)).
+Leave anything the Care Checker flags for toxicity out of the barrel, since tumbling grinds stone away, and grinding dust is the hazard the International Gem Society warns about for malachite. Even quartz, safe to handle, is a different matter as dust. The International Gem Society rates cutting and grinding quartz a high risk, with silicosis as the hazard, and says lapidary work needs a respirator and wet methods ([IGS care guide](https://www.gemsociety.org/article/gemstone-care-guide/)).
 
 A tumbler also rounds off points and edges for good, so if a raw crystal has faces you love, keep it raw.
 

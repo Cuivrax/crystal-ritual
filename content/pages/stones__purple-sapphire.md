@@ -8,7 +8,7 @@ secondary_keywords: []
 author: "Iris Holloway"
 publishDate: "2027-01-31"
 publishTime: "06:15"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gia.edu/sapphire/gem-overview"
@@ -101,15 +101,15 @@ Montana has a purple chapter too. A 2020 lab note in [Gems & Gemology](https://w
 - **Pliny's "sapphire."** **Tradition.** His sapphirus, azure and only rarely purple, is lapis lazuli, not corundum, say the same translators ([Book 37, chapter 39](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D39)). Sapphire was long linked with royalty and said to protect against poison and fraud (International Gem Society).
 - **The "Oriental amethyst."** **Tradition.** Old jewelers called purple corundum Oriental amethyst. George Frederick Kunz lists it with ruby, sapphire and Oriental topaz among the corundum gems (*The Magic of Jewels and Charms*, 1915, page 58), and he notes that the amethyst of the Hebrew breastplate was "not, however, the Oriental amethyst, a variety of corundum," but a dark blue or purple quartz (*The Curious Lore of Precious Stones*, 1913, page 297).
 - **Old color symbolism.** **Tradition.** In one scheme Kunz describes, violet stood for sober judgment, industry and gravity in a man, and for high thoughts and religious love in a woman. It was the color of Jupiter and of Thursday, its animal was the bull, and "the sapphire was conceived to present violet most attractively" (1913, pages 32 to 33).
-- **18th century.** **Tradition.** A sapphire once at the South Kensington Museum in London looked rich blue by day and violet by artificial light, like an amethyst. The writer Mme. de Genlis made it the theme of a story, "Le Saphire Merveilleux," in which the color change served as a test of a wearer's faithfulness. The stone later belonged to the Duke of Orleans, known as Philippe Égalité in the French Revolution (Kunz 1913, pages 105 to 106).
+- **18th century.** **Tradition.** A sapphire once at the South Kensington Museum in London looked rich blue by day and violet by artificial light, like an amethyst. The writer Mme. de Genlis made it the theme of a story, "Le Saphire Merveilleux," in which the color change served as a test of a wearer's faithfulness. Kunz adds that it was for a time in the collection of the Duke of Orleans, known as Philippe Égalité in the French Revolution (1913, pages 105 to 106).
 - **Zodiac verse.** **Tradition.** An old list of zodiacal gems that Kunz reprints gives the sapphire to Taurus (1913, page 346), which may be where today's Taurus link comes from.
 - **Today.** **Modern Association.** Dealer guides call purple sapphire a crown chakra stone and the "Stone of Awakening." Gem Rock Auctions adds that in Hindu astrology a rare blue-violet sapphire with crimson hints, khooni neelam, is a stone for Saturn and Mars.
 
 ### Is the Delhi Purple Sapphire Really a Sapphire?
 
-No. The [Natural History Museum in London](https://www.nhm.ac.uk/visit/weird-objects-in-the-museum.html) calls it "The Cursed Amethyst," an oval amethyst set in a silver ring shaped like a snake. The story says it was looted from the Temple of Indra in Cawnpore during the Indian uprising against British rule and brought its owners disaster.
+No. The stone usually called the Delhi Purple Sapphire is an amethyst. The [Natural History Museum in London](https://www.nhm.ac.uk/visit/weird-objects-in-the-museum.html), which holds it, lists it as "The Cursed Amethyst," an oval amethyst set in a silver ring shaped like a snake. The story says it was looted from the Temple of Indra in Cawnpore during the Indian uprising against British rule and that later owners suffered disaster.
 
-Its last owner, Edward Heron-Allen, locked it away with a warning letter saying it should not see daylight until 33 years after his death. His daughter waited 12 months and gave it to the museum in 1944, and rumor has it that he invented the curse to promote his 1921 short story "The Purple Sapphire" (Natural History Museum). The most famous purple sapphire in the world is a case of mistaken identity, a useful lesson for any buyer.
+Its last private owner, Edward Heron-Allen, sealed it in a safety deposit box with a warning letter saying it should not be seen again until 33 years after his death. His daughter waited 12 months and gave it to the museum in 1944, and rumor has it that he invented the curse to promote his short story "The Purple Sapphire" (Natural History Museum). The best-known "purple sapphire" in the world is a case of mistaken identity, a useful lesson for any buyer.
 
 ## What People Use Purple Sapphire for Today
 
@@ -155,7 +155,7 @@ We use the same five labels on every stone. Purple sapphire can be any of them, 
 
 ### Is Heat-Treated Purple Sapphire Real?
 
-Yes. It is real corundum, mined and then heated, so it sits in the natural, treated group. GIA calls heating an accepted treatment, and the IGS says it is so common that it does not lower value, while other treatments do. One twist matters for purple. Heated purple sapphires can take on a more valuable pink or red color (IGS), so a heated stone may not stay purple at all.
+Yes. It is real corundum, mined and then heated, so it sits in the natural, treated group. GIA calls heating an accepted treatment, and the IGS says it is so common that it does not lower value much, while other treatments do. One twist matters for purple. Heated purple sapphires can take on a more valuable pink or red color (IGS), so a heated stone may not stay purple at all.
 
 ### What Does Lab-Created Purple Sapphire Mean?
 
@@ -177,7 +177,7 @@ Four questions to ask the seller. Natural or lab-grown? Heated, diffused or fill
 - **Soaking.** Brief only. The guidance covers washing, not a long soak.
 - **Sun, heat, salt and chemicals.** Unknown. There is no reliable guidance for purple sapphire yet, so keep it away from harsh cleaners and strong heat and ask a jeweler before anything stronger than soapy water.
 - **Filled or dyed stones.** GIA says fracture-filled, cavity-filled or dyed material should only be cleaned with a damp cloth.
-- **Scratches and storage.** Brief only. Very hard and durable, but not immune to damage (Gem Rock Auctions), so store it apart from diamond jewelry, the one natural gem harder than it.
+- **Scratches and storage.** Brief only. Very hard and durable, but not immune to damage (Gem Rock Auctions). Only diamond is harder among natural gems (International Gem Society), and no care source gives storage advice for this stone.
 - **Toxicity.** OK to wear and handle. The International Gem Society lists no known risk for sapphire.
 
 ### Can Purple Sapphire Go in Water?
@@ -187,15 +187,22 @@ For a wash, yes. A long soak is rated Brief only because no care source covers s
 ## Purple Sapphire vs Look-Alikes
 
 - **Amethyst.** Purple quartz, 7 on the Mohs scale against sapphire's 9 ([Geology.com](https://geology.com/minerals/quartz.shtml)). Quartz has a specific gravity of 2.6 to 2.7 against 4.00, and a refractive index near 1.54 to 1.55 against about 1.76 ([IGS quartz guide](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/), GIA). Amethyst is mistaken for purple sapphire more often than the reverse, says the IGS [amethyst guide](https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/). See [amethyst](/stones/amethyst/) and [purple sapphire vs amethyst](/compare/purple-sapphire-vs-amethyst/).
-- **Spinel and rhodolite garnet.** Sometimes purple, with a refractive index and specific gravity higher than amethyst's (International Gem Society), so telling them from sapphire takes a gemologist.
+- **Spinel and rhodolite garnet.** Rarely purple, but they can pass for amethyst, with a refractive index and specific gravity higher than amethyst's (International Gem Society), so telling them from sapphire takes a gemologist.
 - **Pink sapphire.** The same mineral one shade over, and far more sought after (IGS). See [pink sapphire](/stones/pink-sapphire/).
-- **Blue sapphire.** The most valued blues run from velvety blue to violetish blue (GIA), so violet-blue versus purple is partly a naming question. Our [sapphire page](/stones/sapphire/) covers the family.
+- **Blue sapphire.** GIA says blue sapphire ranges from greenish blue to violetish blue, so violet-blue versus purple is partly a naming question. Our [sapphire page](/stones/sapphire/) covers the family.
 
 ## Price Guide
 
-Is purple sapphire expensive? Less than you might expect for a sapphire. The International Gem Society says purple sapphires are "not nearly as sought-after as pinks," tend to be darker in tone, and compete directly with amethyst, which is low-cost and can be vividly colored.
+Is purple sapphire expensive? The International Gem Society says purple sapphires are "not nearly as sought-after as pinks," tend to be darker in tone, and compete directly with amethyst, which is low-cost and can be vividly colored. Prices vary too much by stone to quote a single figure, so ask any seller for the weight, color and treatment in writing and compare like with like.
 
-The usual sapphire rules still apply. Strong saturation sits at the top of the range, patchy color zoning lowers value, and above five carats value "jumps significantly" with good color and clarity (IGS). GIA adds that a poor cut sells at a discount. Gem Rock Auctions says most purple sapphires sold are just under 1 carat. [TO CHECK US retail ranges]
+What drives the price.
+
+- **Color.** The most important factor. Strong saturation sits at the top of the range, and each fancy color has its own value range (IGS). Purple allows small touches of red or violet.
+- **Treatment.** Heating is standard and does not lower value much, while fine unheated stones sell for more, beryllium lattice diffusion is a drastic treatment that reduces value, and radiation treatment is unstable and often reversible (IGS). GIA says lattice-diffused sapphire generally costs less than heated sapphire, and that an independent lab report adds to the value of exceptional stones.
+- **Clarity.** Eye-clean stones command more, and fractures and inclusions lower value (IGS). GIA adds that price can drop if inclusions threaten the stone's durability.
+- **Cut.** A poor cut sells at a discount (GIA), while skilled cutting can hide color zoning (IGS).
+- **Color zoning.** A noticeably patchy stone is worth less than an evenly colored one (IGS).
+- **Size.** Above five carats value "jumps significantly" with good color and clarity (IGS). Gem Rock Auctions says most purple sapphires sold are just under 1 carat.
 
 **Next Step.** Weighing purple sapphire against amethyst for a ring? Read [purple sapphire vs amethyst](/compare/purple-sapphire-vs-amethyst/) first.
 
