@@ -1,6 +1,7 @@
 ---
 // The full water table, built from care.json at compile time (Rinse = field water, Soak = field soak),
-// with the Care Checker's labels and reasons. Reference links only, dealer guides are never linked.
+// with the Care Checker's labels and reasons. No source column here (owner's request, 2026-11-19), the sources
+// for each rating are on the stone's card in the Care Checker and in the page's Sources list.
 import care from '../../data/care.json';
 import { getSite } from '../../lib/site.mjs';
 import { policy } from '../../lib/render.mjs';
@@ -41,20 +42,20 @@ const counts = Object.fromEntries(Object.keys(RATINGS).map((k) => [k, rows.filte
   <p class="ct-count" id="ct-count" aria-live="polite">{rows.length} stones</p>
   <div class="table-wrap care-table-wrap" role="region" aria-label="Water table, scrolls sideways on small screens" tabindex="0">
     <table class="care-table">
-      <thead><tr><th scope="col">Stone</th><th scope="col">Rinse</th><th scope="col">Soak</th><th scope="col">Sources</th></tr></thead>
+      <thead><tr><th scope="col">Stone</th><th scope="col">Rinse</th><th scope="col">Soak</th></tr></thead>
       <tbody>
         {rows.map((r) => (
           <tr data-search={r.search} data-rinse={r.rinse.r}>
             <th scope="row">{r.url ? <a href={r.url}>{r.name}</a> : r.name}</th>
             <td><span class={`pill is-small ${RATINGS[r.rinse.r].cls}`}>{RATINGS[r.rinse.r].label}</span>{r.rinse.r !== 'unknown' && <span class="ct-why">{r.rinse.short}</span>}</td>
             <td><span class={`pill is-small ${RATINGS[r.soak.r].cls}`}>{RATINGS[r.soak.r].label}</span>{r.soak.r !== 'unknown' && r.soak.short !== r.rinse.short && <span class="ct-why">{r.soak.short}</span>}</td>
-            <td class="ct-src">{r.src.map((u, i) => <Fragment>{i > 0 && ', '}<a href={u} rel="noopener">{label(u)}</a></Fragment>)}{!r.src.length && r.guide && <span>A dealer care guide</span>}</td>
           </tr>
         ))}
       </tbody>
     </table>
   </div>
   <p class="ct-none" id="ct-none" hidden>No stone by that name yet. Try another spelling.</p>
+  <p class="ct-note">The sources behind each rating are on the stone's card in the <a href="/tools/crystal-care-checker/">Crystal Care Checker</a>.</p>
 </div>
 <script>
   const q = document.getElementById('ct-search');
