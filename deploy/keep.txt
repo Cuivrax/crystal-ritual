@@ -1,0 +1,18 @@
+# Fichiers et dossiers du dossier web que pull.sh ne doit jamais effacer ni remplacer.
+# Une règle par ligne, syntaxe rsync --exclude (chemins relatifs au dossier web).
+# .well-known/ est toujours protégé par le script lui-même.
+
+# Formulaire de contact. La config et le dossier anti-abus sont normalement HORS du dossier web
+# (un niveau au-dessus), ces lignes sont une sécurité si quelqu'un les y déplace.
+crystal-contact-config.php
+crystal-contact-ratelimit/
+
+# Fichiers de vérification des moteurs et réseaux (Search Console, Bing, Pinterest).
+google*.html
+BingSiteAuth.xml
+pinterest-*.html
+
+# Réglages propres à l'hébergeur.
+.user.ini
+cgi-bin/
+error_log
