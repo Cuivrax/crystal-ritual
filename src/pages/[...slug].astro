@@ -1,5 +1,15 @@
 ---
+// Every content page. The layout follows the page_type of the frontmatter.
 import { getSite } from '../lib/site.mjs';
+import { renderPage } from '../lib/render.mjs';
+import HomePage from '../components/pages/HomePage.astro';
+import StonePage from '../components/pages/StonePage.astro';
+import SituationPage from '../components/pages/SituationPage.astro';
+import GuidePage from '../components/pages/GuidePage.astro';
+import HubPage from '../components/pages/HubPage.astro';
+import MoonPage from '../components/pages/MoonPage.astro';
+import ComparePage from '../components/pages/ComparePage.astro';
+
 export async function getStaticPaths() {
   const site = await getSite();
   return site.pages.map((p) => ({ params: { slug: p.url === '/' ? undefined : p.url.replace(/^\/|\/$/g, '') }, props: { url: p.url } }));
@@ -7,5 +17,13 @@ export async function getStaticPaths() {
 const { url } = Astro.props;
 const site = await getSite();
 const page = site.byUrl.get(url);
+const doc = await renderPage(page, site);
+const t = page.type;
 ---
-<html lang="en-US"><body><h1>{page.data.h1}</h1></body></html>
+{t === 'home' ? <HomePage page={page} doc={doc} site={site} />
+  : page.night ? <MoonPage page={page} doc={doc} site={site} />
+  : t === 'stone' ? <StonePage page={page} doc={doc} site={site} />
+  : t === 'compare' ? <ComparePage page={page} doc={doc} site={site} />
+  : ['situation', 'month', 'sign'].includes(t) ? <SituationPage page={page} doc={doc} site={site} />
+  : ['hub', 'directory', 'color', 'chakra'].includes(t) ? <HubPage page={page} doc={doc} site={site} />
+  : <GuidePage page={page} doc={doc} site={site} />}

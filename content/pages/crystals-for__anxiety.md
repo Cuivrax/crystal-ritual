@@ -17,8 +17,9 @@ publishTime: "07:00"
 status: "verified"
 page_type: "situation"
 sources:
+  - "https://doi.org/10.1017/S1092852925100515"
   - "https://pubmed.ncbi.nlm.nih.gov/40855750/"
-  - "https://doi.org/10.1016/j.obhdp.2016.07.004"
+  - "https://doi.org/10.1016/j.xcrm.2022.100895"
   - "https://health.clevelandclinic.org/grounding-techniques"
   - "https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety"
   - "https://988lifeline.org/"
@@ -33,7 +34,6 @@ sources:
   - "https://www.gia.edu/articles/rose-quartz-care-cleaning"
   - "https://geology.com/minerals/azurite.shtml"
   - "https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/"
-  - "https://en.wikipedia.org/wiki/Azurite"
   - "https://tinyrituals.co/blogs/tiny-rituals/azurite-meaning-healing-properties-everyday-uses"
   - "https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/"
   - "https://www.gemstones.com/gemopedia/celestite"
@@ -44,7 +44,6 @@ sources:
   - "https://younghouselove.com/green-aventurine-crystal-meaning-properties"
   - "https://www.crystals.com/blogs/news/green-aventurine-meaning-properties"
   - "https://www.gemsociety.org/article/howlite-jewelry-and-gemstone-information/"
-  - "https://en.wikipedia.org/wiki/Howlite"
   - "https://galleries.com/minerals/silicate/howlite/howlite.htm"
   - "https://www.gemstones.com/gemopedia/howlite"
   - "https://www.gemrockauctions.com/learn/a-z-of-gemstones/howlite"
@@ -76,21 +75,21 @@ If anxiety is shaping your days, read [When a Stone Is Not Enough](#when-a-stone
 | 7 | [Howlite](/stones/howlite/) | Classic | Pale and quiet, often dyed | Soft, dissolves in acids |
 | 8 | [Moonstone](/stones/moonstone/) | Classic | Recommended for "nervousness" in 1915 | Protect it from knocks |
 
-**How to read the Link column.** We rate each link on five steps, Classic, Widely Linked, Often Linked, Sometimes Linked and Rarely Linked, from what modern crystal guides say. Classic means calm is part of the stone's standard description today. All eight stones rate Classic and appear in the order the guides agree on most. The rating measures a belief, not an effect.
+**How to read the Link column.** We rate each link on our five-facet scale, Classic, Widely Linked, Often Linked, Sometimes Linked and Rarely Linked, from what modern crystal guides say. Classic means calm is part of the stone's standard description today. All eight stones rate Classic and appear in the order the guides agree on most. The rating measures a belief, not an effect.
 
 ## Do Crystals Help with Anxiety?
 
 We found no study showing a crystal easing anxiety better than a fake stone, and the clearest recent trial points the other way.
 
-**What Research Says.** In a 2025 randomized trial published in *CNS Spectrums*, 138 adults, some who believed in crystal healing and some who did not, used either rose quartz or a visually matched placebo stone for 14 days. Anxiety, measured on the Beck Anxiety Inventory and the Kuwait University Anxiety Scale, dropped only among the believers, and it dropped whether they had the real crystal or the fake. The authors found no difference between the two stones and concluded that the crystal had no calming effect beyond placebo ([PubMed 40855750](https://pubmed.ncbi.nlm.nih.gov/40855750/)). One trial with one stone is not the last word, but it is the cleanest test we have. If you own [rose quartz](/stones/rose-quartz/), that does not make it worthless. It may point to where the calm came from.
+**What Research Says.** In a 2025 randomized controlled study published in *CNS Spectrums*, 138 adults from the general population, 70 who believed in crystal healing and 68 who did not, used either rose quartz or a visually matched glass imitation over a 14-day protocol. Anxiety, measured on the Beck Anxiety Inventory and a Spanish version of the Kuwait University Anxiety Scale, fell only among the believers, whether their stone was real or glass, and the real rose quartz did no better than the fake ([Escolà-Gascón and colleagues, 2025](https://doi.org/10.1017/S1092852925100515)). It is one trial, in people whose anxiety was low to begin with, belief was measured rather than assigned, and the scores were self-reported, so it is not the last word, but it is the cleanest test we have. If you own [rose quartz](/stones/rose-quartz/), that does not make it worthless. It may point to where the calm came from.
 
-That still leaves room for the habit. **What Research Says.** In a series of experiments, Alison Wood Brooks and colleagues found that a short ritual before a stressful task reduced anxiety and improved performance, as long as people saw the actions as a ritual ([Brooks and colleagues, 2016](https://doi.org/10.1016/j.obhdp.2016.07.004)). Those rituals used no stones. And holding onto something tightly is one of the grounding techniques the Cleveland Clinic lists for anxious moments, with a pen or the edge of a desk as examples ([Cleveland Clinic](https://health.clevelandclinic.org/grounding-techniques)).
+That still leaves room for the habit. **What Research Says.** Breathing, unlike stones, has been tested directly. In a small remote randomized study, 108 adults spent 5 minutes a day for a month on one of three breathing exercises or on mindfulness meditation, and the breathing groups, especially cyclic sighing with its long, slow exhale, gained more in mood and slowed their breathing rate more than the meditation group ([Balban and colleagues, 2023](https://doi.org/10.1016/j.xcrm.2022.100895)). The authors call it exploratory, people knew which exercise they were doing, mood was self-reported, and no stones were involved. And holding onto something tightly is one of the grounding techniques the Cleveland Clinic lists for anxious moments, with a pen or the edge of a desk as examples ([Cleveland Clinic](https://health.clevelandclinic.org/grounding-techniques)).
 
 Worry stones, smooth stones with a shallow dip for the thumb, are made for exactly that kind of touch. We have not found a published study on worry stones themselves, so treat them as a personal practice that borrows from those findings.
 
 ## Why These Stones Get Linked to Calm
 
-**The Story.** Most anxiety meanings on today's lists are young. The oldest one in our sources belongs to moonstone. In 1915 Kunz reported that the Baroness d'Orchamps, one of "the latest Parisian oracles on mystic subjects," recommended moonstone "for the manifold forms of nervousness" (*The Magic of Jewels and Charms*, pages 371 to 372). That is an occult adviser's tip from the early 1900s, not an ancient tradition.
+**The Story.** Most anxiety meanings on today's lists are young. The oldest one we can trace belongs to moonstone. In 1915 Kunz reported that the Baroness d'Orchamps, one of "the latest Parisian oracles on mystic subjects," recommended moonstone "for the manifold forms of nervousness" (*The Magic of Jewels and Charms*, pages 371 to 372). That is an occult adviser's tip from the early 1900s, not an ancient tradition.
 
 **Modern Association.** The rest follows color and feel. Soft blues such as celestite and azurite read as sky and water. Pale howlite and pink strawberry quartz read as gentle. Dark, plain stones like black agate and smoky quartz read as steady, the quality guides call grounding. And a smooth tumbled stone simply feels good under a thumb, which may matter more than its color.
 
@@ -128,7 +127,7 @@ Worry stones, smooth stones with a shallow dip for the thumb, are made for exact
 
 **Classic.** [Smoky quartz](/stones/smoky-quartz/) is quartz turned brown by natural radiation acting on traces of aluminum ([Geology.com](https://geology.com/gemstones/smoky-quartz/)). In 12th-century China, flat panes of it served as sunglasses, and a few were worn by judges in court to hide their expressions, Geology.com notes, a fitting past for a stone now sold for composure. One German shop calls it "the stone of grounding, calm, and letting go" ([Lebensquelle Plus](https://lebensquelle-plus.de/blogs/magazin/rauchquarz-wirkung)), and a small point on the desk is the usual placement.
 
-**Care.** Heat lightens its color ([Geology.com](https://geology.com/gemstones/smoky-quartz/)), and Wikipedia adds that UV light can fade it ([Wikipedia](https://en.wikipedia.org/wiki/Smoky_quartz)), so skip the sunny windowsill.
+**Care.** Heat lightens its color ([Geology.com](https://geology.com/gemstones/smoky-quartz/)), and our care data rates strong sun as one to avoid, since UV light is often said to fade it too. Skip the sunny windowsill.
 
 ### 3. Strawberry Quartz
 
@@ -140,7 +139,7 @@ Worry stones, smooth stones with a shallow dip for the thumb, are made for exact
 
 **Classic.** [Azurite](/stones/azurite/) is a soft, deep blue copper carbonate ([Geology.com](https://geology.com/minerals/azurite.shtml)). Its history is in paint, not calm, since it was the most important blue pigment in Europe through the Middle Ages and the Renaissance (Geology.com). Its overthinking link is modern, and it works best as something to look at on a shelf.
 
-**Care.** It is soft (Mohs 3.5 to 4) and brittle, and heat and acids damage it. The International Gem Society says it slowly loses its blue in air, heat and light and should be stored in the dark ([IGS](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/)), though a curator quoted on [Wikipedia](https://en.wikipedia.org/wiki/Azurite) calls that a legend. Handling finished azurite poses no hazard, but its cutting dust is toxic because of the copper, and it never goes in water you drink.
+**Care.** It is soft (Mohs 3.5 to 4) and brittle, and heat and acids damage it. The International Gem Society says it slowly loses its blue in air, heat and light and should be stored in the dark ([IGS](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/)). Handling finished azurite poses no hazard, but its cutting dust is toxic because of the copper, and it never goes in water you drink.
 
 ### 5. Celestite
 
@@ -156,7 +155,7 @@ Worry stones, smooth stones with a shallow dip for the thumb, are made for exact
 
 ### 7. Howlite
 
-**Classic.** [Howlite](/stones/howlite/) is a white mineral with dark web-like veins, often dyed blue to imitate turquoise ([International Gem Society](https://www.gemsociety.org/article/howlite-jewelry-and-gemstone-information/)). It was first found in 1868 near Windsor, Nova Scotia, in a gypsum quarry whose miners considered it a nuisance, according to [Wikipedia](https://en.wikipedia.org/wiki/Howlite), so its calm meaning is entirely modern. The dealer Gem Rock Auctions repeats the belief that it calms an overactive mind ([Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/howlite)).
+**Classic.** [Howlite](/stones/howlite/) is a white mineral with dark web-like veins, often dyed blue to imitate turquoise ([International Gem Society](https://www.gemsociety.org/article/howlite-jewelry-and-gemstone-information/)). It was first described in 1868, after miners at a gypsum quarry in Nova Scotia told the geologist Henry How about a new material that was making their work harder, according to the dealer [Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/howlite), so its calm meaning is entirely modern. The same dealer repeats the belief that it calms an overactive mind.
 
 **Care.** It is soft ([Amethyst Galleries](https://galleries.com/minerals/silicate/howlite/howlite.htm)) and dissolves in dilute acids. Dyed pieces should skip harsh chemicals, ultrasonic cleaners and steam, a dealer guide adds ([Gemstones.com](https://www.gemstones.com/gemopedia/howlite)). Our care data has no water rating for it yet.
 
@@ -172,25 +171,23 @@ Our ranking also rates [white jade](/stones/white-jade/), [onyx](/stones/onyx/),
 
 ## When a Stone Is Not Enough
 
-> **When a Stone Is Not Enough.** A stone can be a comfort to hold, but it is not treatment. If worry or panic keeps coming back, gets in the way of sleep, work or the people you love, or comes with a low mood that does not lift, talk to a doctor or a licensed therapist. Never stop or delay medication or therapy because of a crystal. If you are thinking about suicide or are in crisis in the US, call or text 988 to reach the 988 Suicide and Crisis Lifeline, or chat at [988lifeline.org](https://988lifeline.org/). In an emergency, call 911.
+> **When a Stone Is Not Enough.** A stone can be a comfort to hold, but it is not treatment. If worry or panic keeps coming back, gets in the way of sleep, work or the people you love, or comes with a low mood that does not lift, talk to a doctor or a licensed therapist. Never stop or delay medication or therapy because of a crystal. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Sources
 
-- Placebo trial, "Placebo Effects in Alternative Medical Treatments for Anxiety, False Hope or Healing Potential?" *CNS Spectrums* 30 (2025), e70, [PubMed 40855750](https://pubmed.ncbi.nlm.nih.gov/40855750/)
-- Alison Wood Brooks and colleagues, "Don't Stop Believing," *Organizational Behavior and Human Decision Processes* 137 (2016), pages 71 to 85, [doi.org/10.1016/j.obhdp.2016.07.004](https://doi.org/10.1016/j.obhdp.2016.07.004)
+- Álex Escolà-Gascón, Neil Dagnall, Kenneth Drinkwater, A. Denovan and Julián Benito-León, "Placebo Effects in Alternative Medical Treatments for Anxiety, False Hope or Healing Potential?" *CNS Spectrums* 30(1) (2025), e70, [doi.org/10.1017/S1092852925100515](https://doi.org/10.1017/S1092852925100515), also on [PubMed 40855750](https://pubmed.ncbi.nlm.nih.gov/40855750/)
+- Melis Yilmaz Balban and colleagues, "Brief Structured Respiration Practices Enhance Mood and Reduce Physiological Arousal," *Cell Reports Medicine* 4(1) (2023), 100895, [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)
 - Cleveland Clinic Health Essentials, [13 Grounding Techniques for When You Feel Overwhelmed](https://health.clevelandclinic.org/grounding-techniques), November 25, 2024
 - Sara Smith, University of Rochester Medical Center, [5-4-3-2-1 Coping Technique for Anxiety](https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety), April 10, 2018
-- [988 Suicide and Crisis Lifeline](https://988lifeline.org/)
+- [988 Suicide & Crisis Lifeline](https://988lifeline.org/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 97 to 98, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 371 to 372, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - GIA, [Moonstone](https://www.gia.edu/moonstone/gem-overview) and [Rose Quartz Care and Cleaning](https://www.gia.edu/articles/rose-quartz-care-cleaning)
 - International Gem Society, pages on [azurite](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/), [celestite](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/), [howlite](https://www.gemsociety.org/article/howlite-jewelry-and-gemstone-information/) and [moonstone](https://www.gemsociety.org/article/moonstone-jewelry-gem-information/)
 - Hobart M. King, Geology.com, [smoky quartz](https://geology.com/gemstones/smoky-quartz/), [azurite](https://geology.com/minerals/azurite.shtml), [aventurine](https://geology.com/gemstones/aventurine/) and [moonstone](https://geology.com/gemstones/moonstone/)
 - JCK, [Black Chalcedony](https://www.jckonline.com/magazine-article/black-chalcedony/), trade magazine
 - Amethyst Galleries, [Howlite](https://galleries.com/minerals/silicate/howlite/howlite.htm)
-- Dealer guides, used for attributed claims only, GemSelect on [strawberry quartz](https://www.gemselect.com/other-info/about-strawberry-quartz.php), [aventurine](https://www.gemselect.com/gem-info/aventurine/aventurine-info.php) and [cleaning](https://gemselect.com/gem-info/cleaning.php), Gemstones.com on [celestite](https://www.gemstones.com/gemopedia/celestite) and [howlite](https://www.gemstones.com/gemopedia/howlite), Gem Rock Auctions on [celestite](https://www.gemrockauctions.com/learn/a-z-of-gemstones/celestite) and [howlite](https://www.gemrockauctions.com/learn/a-z-of-gemstones/howlite)
-- Wikipedia, [Smoky quartz](https://en.wikipedia.org/wiki/Smoky_quartz), [Azurite](https://en.wikipedia.org/wiki/Azurite) and [Howlite](https://en.wikipedia.org/wiki/Howlite), used as pointers for attributed details only
-- Modern associations compared across the crystal guides in our lore collection, including crystals.com, crystalvaults.com, tinyrituals.co, otterspirit.com, younghouselove.com, nanboya.com and lebensquelle-plus.de, read November 13, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

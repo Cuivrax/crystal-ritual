@@ -16,7 +16,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-06"
 publishTime: "07:00"
-status: "draft"
+status: "verified"
 page_type: "situation"
 sources:
   - "https://geology.com/minerals/quartz.shtml"
@@ -52,6 +52,9 @@ sources:
   - "https://core.ac.uk/download/70653523.pdf"
   - "https://doi.org/10.1016/S0065-2601%2806%2938002-1"
   - "https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f"
+  - "https://crystalmagic.com/products/rose-quartz-tumbled"
+  - "https://crystalmagic.com/products/red_jasper_tumbled"
+  - "https://mylittlemagicshop.com/products/high-grade-clear-quartz"
 ---
 
 # Best Crystals for Beginners & a Starter Set That Makes Sense
@@ -111,7 +114,7 @@ Chakra sets pair one stone with each of seven colors, from red at the base of th
 3. **Name one thing.** One thing that went right today, however small.
 4. **Put it back.** Same spot every night. Lights out.
 
-**What Research Says.** In a study that followed 96 volunteers as they tried to build a daily habit in the same setting (82 gave enough data to analyze), it took a median of 66 days for the behavior to feel automatic, with a range of 18 to 254 days. Missing a single day did not set people back much (Lally and colleagues, 2010, *European Journal of Social Psychology*, [doi.org/10.1002/ejsp.674](https://doi.org/10.1002/ejsp.674)). A review of 94 tests found that if-then plans like "when I plug in my phone, I will..." had a medium-to-large effect on reaching goals (Gollwitzer and Sheeran, 2006, *Advances in Experimental Social Psychology*, [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)). Neither study involved stones. The stone is simply the object that holds the plan in place.
+**What Research Says.** In a study that followed 96 volunteers as they tried to build a daily habit in the same setting (82 gave enough data to analyze), it took a median of 66 days for the behavior to feel automatic, with a range of 18 to 254 days. Missing a single day did not set people back much (Lally and colleagues, 2010, *European Journal of Social Psychology*, [doi.org/10.1002/ejsp.674](https://doi.org/10.1002/ejsp.674)). A 2006 meta-analysis found that people who made if-then plans like "when I plug in my phone, I will..." were more likely to act on a goal than people who only intended to (Gollwitzer and Sheeran, 2006, *Advances in Experimental Social Psychology*, [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)). Neither study involved stones. The stone is simply the object that holds the plan in place.
 
 **Safety.** Small tumbled stones and bead bracelets are not toys. Keep them away from small children and pets who might swallow them.
 
@@ -167,7 +170,9 @@ Finished malachite and azurite are fine to hold and display, the International G
 
 ### What It Should Cost
 
-[TO CHECK typical US retail prices for tumbled clear quartz, amethyst, rose quartz, agate, red jasper, tiger's eye and green aventurine, with a dated source.] Until we have dated prices, the sourced rule of thumb is the jasper figure above. These seven are common, and the International Gem Society says that with agate most of what you pay is for the cutting and polishing, not the stone itself.
+One listing we found priced a tumbled rose quartz about 3/4 inch wide at $1, another a tumbled red jasper about an inch wide at $3, and a third a tumbled clear quartz of 3/4 inch to 1 1/4 inches at $7. Those are single listings, not typical ranges. Prices from listings at US crystal shops in November 2026.
+
+Past a small tumbled piece, the price follows the work and the look more than the stone. The International Gem Society says agate value is generally modest, with labor and artistry counting for more than the raw material, and larger agates with fine, landscape-like patterns or from prized locations costing more ([IGS](https://www.gemsociety.org/article/agate-gem-information/)). For jasper it ties most of the value to the saturation of the color, the beauty of the pattern and the artistry of the cutting ([IGS](https://www.gemsociety.org/article/jasper-gem-information/)), and for amethyst it says value depends almost entirely on color ([IGS](https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/)).
 
 Three questions to ask before you pay, in a shop or online.
 
@@ -179,7 +184,7 @@ A seller who cannot answer the second question is telling you something useful t
 
 ### Quick Care for the Starter Set
 
-These ratings come from the same data as our [Care Checker](/tools/crystal-care-checker/). OK means our sources say it is fine, Brief only means a short exposure, and Unknown means no source covers it yet.
+These ratings come from the same data as our [Care Checker](/tools/crystal-care-checker/). OK means it is cleared for that use, Brief only means a short exposure, and Unknown means there is no rating yet.
 
 | Stone | Quick Rinse | Long Soak | Sunny Windowsill | Salt |
 |---|---|---|---|---|
@@ -208,7 +213,8 @@ Salt is unrated for all seven, so leave the salt bowl out of your cleansing rout
 - Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., and Wardle, J. (2010), How are habits formed, modelling habit formation in the real world, *European Journal of Social Psychology* 40, 998 to 1009, [doi.org/10.1002/ejsp.674](https://doi.org/10.1002/ejsp.674)
 - Gollwitzer, P. M., and Sheeran, P. (2006), Implementation intentions and goal achievement, a meta-analysis of effects and processes, *Advances in Experimental Social Psychology* 38, 69 to 119, [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)
 - Care ratings from the Crystal & Ritual care data, the same data as the Care Checker. Intention labels from our comparison of modern crystal guides, read November 13, 2026
+- Prices from single listings at US crystal shops, read November 18, 2026
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

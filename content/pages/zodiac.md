@@ -11,7 +11,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-14"
 publishTime: "10:17"
-status: "draft"
+status: "verified"
 page_type: "hub"
 sources:
   - "https://www.gutenberg.org/ebooks/57978"
@@ -49,20 +49,20 @@ Dates follow most modern guides. The 1913 column is the verse list George Freder
 
 | Sign | Dates | Month Birthstones | 1913 Zodiac Stone | Linked Most Today |
 |---|---|---|---|---|
-| [Aries](/zodiac/aries/) | March 21 to April 19 | Aquamarine, bloodstone, diamond | Bloodstone | Red jasper, blue kyanite, bloodstone, carnelian |
-| [Taurus](/zodiac/taurus/) | April 20 to May 20 | Diamond, emerald | Sapphire | Rose quartz, emerald, morganite, rhodonite |
-| [Gemini](/zodiac/gemini/) | May 21 to June 20 | Emerald, pearl, alexandrite, moonstone | Agate | Citrine, celestite, agate, alexandrite |
-| [Cancer](/zodiac/cancer/) | June 21 to July 22 | Pearl, alexandrite, moonstone, ruby | Emerald | Moonstone, opal, morganite |
+| [Aries](/zodiac/aries/) | March 21 to April 19 | Aquamarine, bloodstone, diamond | Bloodstone | Blue kyanite, red jasper, bloodstone, carnelian |
+| [Taurus](/zodiac/taurus/) | April 20 to May 20 | Diamond, emerald | Sapphire | Morganite, rhodonite, rose quartz, emerald |
+| [Gemini](/zodiac/gemini/) | May 21 to June 20 | Emerald, pearl, alexandrite, moonstone | Agate | Agate, celestite, citrine, alexandrite |
+| [Cancer](/zodiac/cancer/) | June 21 to July 22 | Pearl, alexandrite, moonstone, ruby | Emerald | Opal, moonstone, morganite |
 | [Leo](/zodiac/leo/) | July 23 to August 22 | Ruby, peridot, sardonyx, spinel | Onyx | Pyrite, sunstone, citrine, amber |
-| [Virgo](/zodiac/virgo/) | August 23 to September 22 | Peridot, sardonyx, spinel, sapphire | Carnelian | Carnelian, moss agate, diopside, purpurite |
-| [Libra](/zodiac/libra/) | September 23 to October 22 | Sapphire, opal, tourmaline | Chrysolite | Lepidolite, prehnite, rose quartz, opal |
-| [Scorpio](/zodiac/scorpio/) | October 23 to November 21 | Opal, tourmaline, topaz, citrine | Beryl | Malachite, obsidian, charoite, unakite |
-| [Sagittarius](/zodiac/sagittarius/) | November 22 to December 21 | Topaz, citrine, tanzanite, turquoise, zircon | Topaz | Turquoise, topaz, azurite, sodalite |
-| [Capricorn](/zodiac/capricorn/) | December 22 to January 19 | Tanzanite, turquoise, zircon, garnet | Ruby | Jet, tourmalinated quartz, smoky quartz, black tourmaline |
+| [Virgo](/zodiac/virgo/) | August 23 to September 22 | Peridot, sardonyx, spinel, sapphire | Carnelian | Purpurite, moss agate, diopside, carnelian |
+| [Libra](/zodiac/libra/) | September 23 to October 22 | Sapphire, opal, tourmaline | Chrysolite | Lepidolite, prehnite, opal, rose quartz |
+| [Scorpio](/zodiac/scorpio/) | October 23 to November 21 | Opal, tourmaline, topaz, citrine | Beryl | Malachite, charoite, obsidian, unakite |
+| [Sagittarius](/zodiac/sagittarius/) | November 22 to December 21 | Topaz, citrine, tanzanite, turquoise, zircon | Topaz | Azurite, topaz, turquoise, sodalite |
+| [Capricorn](/zodiac/capricorn/) | December 22 to January 19 | Tanzanite, turquoise, zircon, garnet | Ruby | Tourmalinated quartz, jet, smoky quartz, black tourmaline |
 | [Aquarius](/zodiac/aquarius/) | January 20 to February 18 | Garnet, amethyst | Garnet | Angelite, aquamarine, blue tiger's eye |
 | [Pisces](/zodiac/pisces/) | February 19 to March 20 | Amethyst, aquamarine, bloodstone | Amethyst | Aquamarine, fluorite, bloodstone, moonstone |
 
-Born on a cusp? Guides disagree by a day at the edges, and Kunz's 1913 list starts Capricorn on December 21, so check the boundary before you buy.
+Born on a cusp? Guides disagree by a day at the edges, and Kunz's 1913 text starts Capricornus at the winter solstice, so check the boundary before you buy.
 
 ## Zodiac Birthstones vs Month Birthstones
 
@@ -72,7 +72,7 @@ Kunz saw the overlap as a feature, since zodiac stones widen the choice while th
 
 So "the Capricorn birthstone" has a two-part answer. The month stone depends on the birthday, and the sign stone depends on the tradition you follow.
 
-## Where Zodiac Stones Come From
+## Where Zodiac Stones Come from
 
 **The Story.** The idea is old, but the lists keep changing.
 
@@ -81,7 +81,7 @@ So "the Capricorn birthstone" has a two-part answer. The month stone depends on 
 - **1st century CE.** **Tradition.** The historian Josephus tied the twelve stones of the Hebrew high priest's breastplate to the months or to "the twelve signs of what the Greeks call the zodiac." St. Jerome adapted the passage about three centuries later, and Kunz calls it the foundation of both birthstones and zodiac stones (1913, pages 309 to 310).
 - **Medieval Jewish tradition.** **Tradition.** Medieval Jewish tradition paired the twelve tribes of Israel with the twelve signs, Judah with Aries through Asher with Pisces (Kunz 1913, pages 313 to 314).
 - **1762.** **Tradition.** The writer Poujet fils described rings set with the birth-month stone and engraved with the zodiac sign, a fashion he dated two centuries back (Kunz 1913, pages 316 to 317).
-- **1913.** **Tradition.** Kunz printed the verse list in our chart, plus an old Spanish list that he thought probably reflected Arab tradition, with crystal for Aries, chalcedony for Capricorn and amethyst for Aquarius (1913, page 347).
+- **1913.** **Tradition.** Kunz printed the verse list in our chart, plus an old Spanish list that he thought probably reflected Arab tradition, with chalcedony for Capricorn and amethyst for Aquarius (1913, page 347).
 - **Today.** **Modern Association.** Crystal guides add their own picks, often by color or by a stone's modern meaning, and one openly calls jet's Capricorn link a newer association.
 
 Astronomers also count a thirteenth zodiac constellation, Ophiuchus, between Scorpius and Sagittarius (We The Curious). Astrology's twelve signs leave it out, and so do all these lists.

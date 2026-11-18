@@ -37,6 +37,7 @@ export function processComments(tree, ctx) {
     const inline = isEl(parent, ['p', 'li', 'td', 'th', 'strong', 'em', 'a']);
     const photo = photosByRaw.get(value);
     if (photo) {
+      if (photo.pair) return []; // compare pages render the pair under the title
       if (photo.hero) { if (!ctx.hero && ctx.photoHtml?.has('hero')) ctx.hero = photo; return []; }
       const figure = ctx.photoHtml?.get(photo.role);
       if (figure && !inline) return [raw(figure)];
@@ -136,7 +137,7 @@ export function processCallouts(tree) {
     if (/when a stone is not enough/i.test(title)) kind = 'callout-care';
     else if (/is it real|quick checks/i.test(title)) kind = 'callout-real';
     else if (/trade name/i.test(title)) kind = 'callout-trade';
-    return [el('aside', { className: ['callout', kind] }, [el('p', { className: ['callout-title'] }, [txt(title)]), ...kids])];
+    return [el('aside', { className: ['callout', kind] }, [el('p', { className: ['callout-title'] }, [txt(title)]), el('div', { className: ['callout-body'] }, kids)])];
   });
 }
 
@@ -242,7 +243,9 @@ function stripRatingWord(nodes) {
   const container = p || { children: nodes };
   const first = container.children.find((c) => !isBlank(c));
   if (first && first.type === 'text') {
-    first.value = first.value.trimStart().replace(/^(OK|Brief only|Avoid|Unknown)\b[.,]?\s*/i, '');
+    first.value = first.value.trimStart()
+      .replace(/^(OK|Brief only|Avoid|Unknown)\s*\(see below\)\.?\s*/i, 'See below. ')
+      .replace(/^(OK|Brief only|Avoid|Unknown)[.,]\s*/i, '');
   }
   return nodes;
 }

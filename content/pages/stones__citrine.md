@@ -12,7 +12,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-06"
 publishTime: "07:00"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gia.edu/citrine/gem-overview"
@@ -21,9 +21,17 @@ sources:
   - "https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
   - "https://geology.com/gemstones/citrine/"
-  - "https://en.wikipedia.org/wiki/Citrine"
   - "https://www.americangemsociety.org/birthstones/"
   - "https://www.gutenberg.org/ebooks/57978"
+  - "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D32"
+  - "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D42"
+  - "https://openlibrary.org/books/OL8788839M"
+  - "https://doi.org/10.1016/S0065-2601%2806%2938002-1"
+  - "https://www.mineralminers.com/html/citpolx.stm"
+  - "https://www.mandalagems.com/products/raw-natural-citrine-from-the-congo-not-heat-treated-copy"
+  - "https://www.gemselect.com/citrine/7-55-carat-yellow-citrine-pear-shape-loose-natural-gemstones-brazil-508372.php"
+  - "https://www.gemselect.com/citrine/1-57-carat-yellow-citrine-square-loose-natural-gemstones-brazil-514072.php"
+  - "https://www.gemselect.com/citrine/0-65-carat-yellow-citrine-pear-shape-loose-natural-gemstones-brazil-546443.php"
   - "https://www.samhsa.gov/sites/default/files/988-factsheet.pdf"
   - "https://988lifeline.org/"
   - "https://www.crystals.com/blogs/news/citrine-meaning-properties"
@@ -60,7 +68,7 @@ Citrine is the yellow to brownish orange variety of quartz, colored by a trace o
 | Salt | Unknown |
 | Toxic to handle | No. Cutting dust is a silica hazard |
 | Common fakes | Lab-grown citrine, yellow lab-made corundum, glass-ceramic |
-| Price range | Affordable [TO CHECK US retail ranges] |
+| Price range | Affordable, natural color can cost more (see Price Guide) |
 | Birthstone | November, with topaz, plus the 13th anniversary |
 | Chakra (Modern Association) | Solar plexus |
 
@@ -86,7 +94,7 @@ Heat with the right iron content creates the prized Madeira color, but there is 
 
 The giant orange geodes at mineral shows are the clearest case. Gem hunters find them in the basalt fields of Brazil filled with purple amethyst, and somewhere between discovery and the buyer they go into industrial ovens. Why? Because many people who will not buy an amethyst geode will buy a citrine one, says [Geology.com](https://geology.com/gemstones/citrine/). GIA calls the results giant citrine "cathedrals."
 
-<!-- PHOTO 2, beside "How Citrine Heat Treatment Works". Wikimedia Commons, "File Tumble-polished citrine 2.jpg", by W.carter, studio photo in Visby, Gotland, Sweden. Page https://commons.wikimedia.org/wiki/File:Tumble-polished_citrine_2.jpg . Image https://upload.wikimedia.org/wikipedia/commons/a/a7/Tumble-polished_citrine_2.jpg (tracking parameters removed). License CC BY-SA 4.0. Credit line "Photo W.carter, CC BY-SA 4.0, via Wikimedia Commons". visual_check ok, visual_use secondary. Wikipedia's citrine article captions this file as tumbled "citrine" made from heat-treated amethyst [TO CHECK before using that caption]. Alt text "Golden tumbled citrine on an upside-down drinking glass". -->
+<!-- PHOTO 2, beside "How Citrine Heat Treatment Works". Wikimedia Commons, "File Tumble-polished citrine 2.jpg", by W.carter, studio photo in Visby, Gotland, Sweden. Page https://commons.wikimedia.org/wiki/File:Tumble-polished_citrine_2.jpg . Image https://upload.wikimedia.org/wikipedia/commons/a/a7/Tumble-polished_citrine_2.jpg (tracking parameters removed). License CC BY-SA 4.0. Credit line "Photo W.carter, CC BY-SA 4.0, via Wikimedia Commons". visual_check ok, visual_use secondary. Wikipedia's citrine article captions this file as tumbled "citrine" made from heat-treated amethyst, photo pass to confirm before using that caption. Alt text "Golden tumbled citrine on an upside-down drinking glass". -->
 
 ## Where the Meaning Comes From
 
@@ -97,15 +105,15 @@ The giant orange geodes at mineral shows are the clearest case. Gem hunters find
 - **1538, Rome.** **Tradition.** Benvenuto Cellini, the goldsmith, believed like his contemporaries that diamond dust was a deadly poison. Imprisoned in Rome, he found bright grit in his food and, to his joy, managed to crush a splinter against the stone windowsill. He later learned that an enemy had given a poor gem-cutter a diamond to grind for his food, and the cutter kept it and ground a citrine instead (Kunz, *The Curious Lore of Precious Stones*, 1913, pages 154 to 155). Kunz uses the word citrine for the stone.
 - **1912 and 1952, United States.** Topaz was one of the original modern birthstones chosen by the National Association of Jewelers in 1912, and citrine joined the November list in 1952 (Geology.com).
 - **Recent decades.** Earth-tone fashion and home shopping networks turn a "no respect" gem into a bestseller (International Gem Society).
-- **Today.** **Modern Association.** The merchant's stone, the money stone and the solar plexus chakra, which Geology.com also notes. Modern guides credit these meanings to current authors and shops, from Judy Hall to the co-founder of Energy Muse [TO CHECK book titles and years].
+- **Today.** **Modern Association.** The merchant's stone, the money stone and the solar plexus chakra, which Geology.com also notes. Modern guides credit these meanings to current authors and shops, from Judy Hall, author of *The Crystal Bible* (2003), to the co-founder of Energy Muse.
 
 ### What About the Roman Merchants?
 
-Several guides say Roman merchants carried citrine or carved it with Mercury, the god of trade. None of them gives an ancient source, and none of the reference sources behind this page mentions it [TO CHECK Pliny, *Natural History* Book 37, Bostock and Riley translation]. The same goes for older claims that citrine protected against snakebite or the evil eye. Treat these as modern retellings until someone finds the text.
+Several crystal sellers' guides say Roman merchants carried citrine or carved it with Mercury, the god of trade. None of them gives an ancient source. Pliny the Elder's *Natural History*, the Roman work that covers gems in its Book 37, describes no stone that can be shown to be citrine. His golden chrysolithos is read by his 1855 translators, Bostock and Riley, as probably a yellow sapphire or other yellow corundum, and his topazos as peridot (Book 37, [chapter 32](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D32) and [chapter 42](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D42), Perseus Digital Library, Tufts University). The same goes for older claims that citrine protected against snakebite or the evil eye. Treat these as modern retellings until someone finds the text.
 
 ## What People Use Citrine for Today
 
-**Modern Association.** In the crystal guides we compared, citrine is a Classic stone for [money](/crystals-for/money/), for confidence and for protection, and Widely Linked to focus. The "why" is mostly color. A golden stone reads as gold and sunshine, so guides call it the sun stone, the success stone and the merchant's stone, and place it by a cash register, in a wallet or in the feng shui wealth corner, far left from the front door.
+**Modern Association.** In modern crystal guides, citrine is a Classic stone for [money](/crystals-for/money/), for confidence and for protection, and Widely Linked to focus. The "why" is mostly color. A golden stone reads as gold and sunshine, so guides call it the sun stone, the success stone and the merchant's stone, and place it by a cash register, in a wallet or in the feng shui wealth corner, far left from the front door.
 
 ### What Does Citrine Mean?
 
@@ -139,7 +147,7 @@ It depends what you want it to do. As a gem, heated citrine is the same quartz, 
 
 **Safety.** Small tumbled stones are a choking hazard. Keep them away from small children and pets.
 
-**What Research Says.** [TO CHECK a peer-reviewed study with DOI on implementation intentions or spending reflection, and say plainly that it did not use stones.] Until then, treat these as personal practices.
+**What Research Says.** A 2006 meta-analysis that pooled earlier lab and field studies found that people who made an if-then plan ("if situation X happens, then I will do Y") were more likely to act on a goal than people who only intended to (Gollwitzer and Sheeran, *Advances in Experimental Social Psychology*, [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)). Those studies covered everyday goals, not stones, and a plan helps most with something you already want to do. Treat the habits above as personal practices.
 
 > **When a Stone Is Not Enough.** Some guides link citrine to depression, anxiety and money worries. A stone can be a cheerful object, but it is not care. If low mood, anxiety or stress about money lasts or feels heavy, talk to a doctor or a therapist. In a crisis in the US, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), the 988 Suicide and Crisis Lifeline, open 24/7.
 
@@ -156,7 +164,7 @@ We use the same five labels on every stone. Geology.com sorts the citrine market
 Three checks you can do at home, with their limits.
 
 1. **Read the color.** Pale yellow with a smoky cast fits natural citrine, strong orange to orangey brown fits heated amethyst (IGS). It is a hint, never a proof.
-2. **Look at the form.** Almost all citrine geodes are heated amethyst (Geology.com). Wikipedia's citrine article adds that heated amethyst clusters are often deepest in color at the tips and white near the base [TO CHECK with a reference source].
+2. **Look at the form.** Almost all citrine geodes are heated amethyst (Geology.com), so an orange geode, or a section cut from one, is very likely heated.
 3. **Check for neon.** A bright, slightly greenish yellow points to lemon quartz rather than citrine.
 
 Ask the seller whether the color is natural or heated, whether the stone could be lab-grown, and where it was mined. "We don't know" is an honest answer. For the full side-by-side, see [real citrine vs heated amethyst](/real-or-fake/citrine/), and for where the purple starts, the [amethyst page](/stones/amethyst/).
@@ -169,7 +177,7 @@ Ask the seller whether the color is natural or heated, whether the stone could b
 - **Sun.** Brief only. GIA says some citrine color can fade with prolonged exposure to intense light.
 - **Heat.** Avoid. IGS says heat-treated stones may fade when exposed to heat, so no steam cleaning and no boiling. GIA adds that abrupt temperature changes can fracture citrine.
 - **Chemicals.** Avoid. GIA lists hydrofluoric acid, ammonium fluoride and alkaline solutions.
-- **Salt.** Unknown. None of our sources cover salt yet.
+- **Salt.** Unknown. We found no reference source on salt and citrine, so skip it.
 - **Cleaning.** Ultrasonic or warm soapy water both work for most stones, but citrine with visible liquids, gases or crystals inside should be cleaned by hand only (International Gem Society).
 - **Toxicity.** OK to wear and handle. The silica risk in the IGS [toxicity table](https://www.gemsociety.org/article/gemstone-care-guide/) concerns dust from cutting and polishing, not intact stones.
 
@@ -196,7 +204,7 @@ For a wash, yes. Some guides go further and suggest citrine elixirs or gemstone 
 
 Even fine citrine has a modest price tag, and GIA notes that the price per carat does not rise dramatically for larger sizes. Color drives value. Stones with a faint color are abundant and inexpensive, while a rich, uniform color is rare and valuable (Geology.com). Eye-visible inclusions are not common, and when present they lower the value (GIA). Natural color can carry a premium, and since there is no simple test for it, ask the seller how they know before you pay extra.
 
-[TO CHECK typical US retail ranges for tumbled stones, points, geodes, bead bracelets and faceted stones, with a dated source.]
+Here is what that premium can look like. Polished points sold as natural-color, unheated citrine, 1 to 1.8 inches tall, ran about $25 to $105, and rough pieces sold as unheated, about 2 inches long or 31 to 40 grams, ran about $30 to $59. Loose faceted yellow citrine from Brazil, with no treatment stated, was about $3 for a 0.65 carat stone, $9 for 1.57 carats and $48 for 7.55 carats at one large gem dealer. Prices from US-dollar listings at online crystal shops and gem dealers in November 2026.
 
 **Next Step.** Want to see where citrine fits among the usual prosperity stones? Read [crystals for money](/crystals-for/money/).
 
@@ -205,12 +213,15 @@ Even fine citrine has a modest price tag, and GIA notes that the price per carat
 - Gemological Institute of America, [Citrine](https://www.gia.edu/citrine/gem-overview) and [Citrine Care and Cleaning](https://www.gia.edu/citrine-care-cleaning)
 - International Gem Society, [Citrine](https://www.gemsociety.org/article/citrine-jewelry-gemstone-information/), [Amethyst](https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/) and [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Hobart M. King, Geology.com, [Citrine](https://geology.com/gemstones/citrine/)
-- Wikipedia, [Citrine](https://en.wikipedia.org/wiki/Citrine), used as a pointer only
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 154 to 155, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
+- Pliny the Elder, *Natural History*, Book 37, chapters 32 and 42, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D42)
+- P. M. Gollwitzer and P. Sheeran, *Advances in Experimental Social Psychology* 38 (2006), [doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601%2806%2938002-1)
+- Judy Hall, *The Crystal Bible* (2003), named as a modern source of meanings
+- Retail prices from US-dollar listings at online crystal shops and gem dealers, read November 2026
 - SAMHSA, [988 Suicide and Crisis Lifeline fact sheet](https://www.samhsa.gov/sites/default/files/988-factsheet.pdf)
-- Modern associations compared across the crystal guides in our lore collection, including crystals.com, purewow.com, mysticryst.com, bindi-online.com and personare.com.br, read November 12, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
 
-Last reviewed November 18, 2026.
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

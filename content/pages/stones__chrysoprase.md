@@ -22,8 +22,8 @@ sources:
   - "https://www.americangemsociety.org/birthstones/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
-  - "https://www.samhsa.gov/sites/default/files/988-factsheet.pdf"
-  - "https://www.fcc.gov/988-suicide-and-crisis-lifeline"
+  - "https://988lifeline.org/"
+  - "https://www.samhsa.gov/mental-health/988"
   - "https://lebensquelle-plus.de/blogs/magazin/chrysopras-wirkung"
   - "https://www.crystals.com/pages/crystals/chrysoprase"
   - "https://www.crystals.com/blogs/news/chrysoprase-crystal-healing-properties-a-comprehensive-guide"
@@ -58,7 +58,7 @@ Chrysoprase is the apple-green variety of chalcedony, a quartz made of microscop
 | Salt | Unknown, no source yet |
 | Toxic to handle | Low risk. The silica hazard concerns cutting dust |
 | Common fakes | Ordinary chalcedony or agate dyed green |
-| Price range | The second most valuable chalcedony after gem silica [TO CHECK US retail ranges] |
+| Price range | The second most valuable chalcedony after gem silica. Color, translucency and whether it is dyed set the price |
 | Birthstone | None on the modern US list |
 | Zodiac (Modern Association) | Libra, Taurus or Cancer, guides disagree |
 | Chakra (Modern Association) | Heart |
@@ -112,7 +112,7 @@ Not on the modern US list, which gives May to emerald ([American Gem Society](ht
 
 ## What People Use Chrysoprase for Today
 
-**Modern Association.** In the modern crystal guides we compared, the heart chakra comes up almost everywhere. Chrysoprase is Widely Linked to love, to money, to focus and to confidence, and Often Linked to grief. Hope, forgiveness, calm and fresh starts round it out. Several guides call it a stone of Venus, and zodiac picks split between Libra, Taurus and Cancer.
+**Modern Association.** In modern crystal guides, the heart chakra comes up almost everywhere. Chrysoprase is Widely Linked to love, to money, to focus and to confidence, and Often Linked to grief. Hope, forgiveness, calm and fresh starts round it out. Several guides call it a stone of Venus, and zodiac picks split between Libra, Taurus and Cancer.
 
 The "why" is mostly color. One guide compares its green to new leaves and early spring, and green is the color modern chakra charts give the heart.
 
@@ -204,9 +204,9 @@ Aquaprase is a bluish green to turquoise chalcedony sold under that trade name s
 
 ## Price Guide
 
-Chrysoprase is a valued chalcedony, yet rarely seen in mass-market jewelry, because stones of consistent color in standard sizes are hard to get in quantity. It turns up mostly in designer, limited-run and one-of-a-kind pieces (Geology.com). The new Western Australian material has drawn connoisseurs despite its limited volume (*Gems & Gemology*, 2026).
+Chrysoprase is a valued chalcedony, yet rarely seen in mass-market jewelry, because stones of consistent color in standard sizes are hard to get in quantity. It turns up mostly in designer, limited-run and one-of-a-kind pieces (Geology.com). The new Western Australian material has drawn connoisseurs despite its limited volume, especially in markets with an appetite for fine green translucent gems (*Gems & Gemology*, 2026).
 
-[TO CHECK typical US retail ranges for tumbled stones, bead bracelets and cabochons, with a dated source.]
+What sets the price is mostly color, translucency and whether the color is natural. Chrysoprase runs from apple to olive green and from nearly opaque to nearly transparent, and very fine, highly saturated stones have been sold as "imperial jade," a far pricier gem (International Gem Society). Origin claims matter too, since untreated Australian stones hold their color in sunlight while European ones can fade. Dyed green chalcedony is not chrysoprase at any price, so ask the questions above before you look at the tag. We give no price figures here, since the current listings we found did not make clear whether prices were per stone or per carat.
 
 **Next Step.** Choosing a stone for someone heartbroken? Compare the usual picks in [crystals for love](/crystals-for/love/).
 
@@ -218,9 +218,9 @@ Chrysoprase is a valued chalcedony, yet rarely seen in mass-market jewelry, beca
 - [Merriam-Webster](https://www.merriam-webster.com/dictionary/chrysoprase), pronunciation and etymology
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 36 to 37, 67 to 68, 259 to 260, 265, 305, 312, 313, 316, 319 and 373, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 122 to 123 and 277, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- 988 Suicide and Crisis Lifeline contact details from [SAMHSA](https://www.samhsa.gov/sites/default/files/988-factsheet.pdf) and the [FCC](https://www.fcc.gov/988-suicide-and-crisis-lifeline)
-- Modern associations compared across the crystal guides in our lore collection, including crystals.com, crystalgemstones.net, edelsteine.net, energymuse.com, firemountaingems.com and lebensquelle-plus.de, read November 13, 2026
+- 988 Suicide & Crisis Lifeline contact details from [988lifeline.org](https://988lifeline.org/) and [SAMHSA](https://www.samhsa.gov/mental-health/988)
+- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

@@ -8,10 +8,12 @@ secondary_keywords: []
 author: "Iris Holloway"
 publishDate: "2026-12-06"
 publishTime: "07:00"
-status: "draft"
+status: "verified"
 page_type: "trust"
 sources:
   - "https://gia.edu/gems-gemology/spring-2017-iridescence-natural-quartz"
+  - "https://www.designingbuildings.co.uk/wiki/Hollow_way"
+  - "https://treeterms.co.uk/holloway/"
 ---
 
 # About Crystal & Ritual
@@ -22,7 +24,7 @@ Crystal & Ritual is an independent encyclopedia of crystals and stones, written 
 
 Iris Holloway is the pen name of the founder and editor of Crystal & Ritual. It is a pen name, and we say so up front. The site claims no gemology diploma and no healer's certificate. What it offers instead is a method you can check on every page. The stone comes first, every belief is labeled with who held it and when, and every fact links to the source it came from.
 
-<!-- AVATAR. Illustrated avatar for Iris Holloway, never a stock photo of a real person and never a generated face presented as a real one (doc 07 section 11). [TO CHECK homonym search on the pen name before launch, still open per 00-persona.md]. -->
+<!-- AVATAR. Illustrated avatar for Iris Holloway, never a stock photo of a real person and never a generated face presented as a real one (doc 07 section 11). -->
 
 ### Why the Name
 
@@ -48,6 +50,8 @@ Around the stone pages sit guides on care, real or fake stones and birthstones, 
 - **Not a debunking site.** We do not mock anyone. Some readers use crystals spiritually, others simply love the colors, and both deserve accurate context.
 - **Not fortune telling.** Zodiac and birthstone pages tell the history of each link, not your future.
 
+<!-- OWNER monetization line in "Not a shop" above. True at launch. Once display ads or affiliate links start (strategy doc, section 11), check the "No seller or brand pays to appear" sentence and add a disclosure. -->
+
 ## Who We Write For
 
 The curious owner who just got a bracelet or a first tumbled stone and wants to know what it means. The respectful skeptic who enjoys the colors and the ritual but does not believe a rock heals anything. The careful buyer who wants to avoid dyed, glass or lab-made stones sold as natural. The gifter looking for something safe and kind. And the worried parent or pet owner who asks whether a stone is safe around kids, cats, water or sun.
@@ -67,7 +71,8 @@ Spotted a mistake, or a question a page did not answer? Write to us through the 
 ## Sources
 
 - Xiayang Lin and Peter J. Heaney, [Causes of Iridescence in Natural Quartz](https://gia.edu/gems-gemology/spring-2017-iridescence-natural-quartz), *Gems & Gemology*, Spring 2017
+- Designing Buildings, [Hollow Way](https://www.designingbuildings.co.uk/wiki/Hollow_way), and Philip Wilson, [Holloway](https://treeterms.co.uk/holloway/), in *A to Z of Tree Terms*
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the founder and editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

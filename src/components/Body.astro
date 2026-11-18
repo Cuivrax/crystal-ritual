@@ -1,0 +1,31 @@
+---
+// Renders a page HTML string and fills the tool slots left by the Markdown pipeline.
+import MoonTonight from './tools/MoonTonight.astro';
+import MoonCalendar from './tools/MoonCalendar.astro';
+import MoonBirthday from './tools/MoonBirthday.astro';
+import MoonMini from './tools/MoonMini.astro';
+import CareChecker from './tools/CareChecker.astro';
+import CareTable from './tools/CareTable.astro';
+import Atlas from './tools/Atlas.astro';
+import ContactSoon from './tools/ContactSoon.astro';
+const { html = '', page } = Astro.props;
+const parts = [];
+const rx = /<div data-slot="([a-z-]+)"><\/div>/g;
+let last = 0;
+for (const m of html.matchAll(rx)) {
+  if (m.index > last) parts.push({ html: html.slice(last, m.index) });
+  parts.push({ tool: m[1] });
+  last = m.index + m[0].length;
+}
+if (last < html.length) parts.push({ html: html.slice(last) });
+---
+{parts.map((p) => p.html !== undefined ? <Fragment set:html={p.html} />
+  : p.tool === 'moon-tonight' ? <MoonTonight page={page} month={true} />
+  : p.tool === 'moon-calendar' ? <Fragment><MoonTonight page={page} month={false} /><MoonCalendar page={page} /></Fragment>
+  : p.tool === 'moon-birthday' ? <MoonBirthday page={page} />
+  : p.tool === 'moon-mini' ? <MoonMini page={page} />
+  : p.tool === 'care-checker' ? <CareChecker page={page} />
+  : p.tool === 'care-table' ? <CareTable page={page} />
+  : p.tool === 'atlas' ? <Atlas page={page} />
+  : p.tool === 'contact-form' ? <ContactSoon page={page} />
+  : null)}

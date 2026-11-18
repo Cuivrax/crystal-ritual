@@ -26,7 +26,7 @@ sources:
   - "https://www.gemsociety.org/article/obsidian-jewelry-and-gemstone-information/"
   - "https://lebensquelle-plus.de/en/blogs/magazin/obsidian-wirkung"
   - "https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/"
-  - "https://en.wikipedia.org/wiki/Petrified_wood"
+  - "https://www.nps.gov/pefo/learn/historyculture/agate-house.htm"
   - "https://www.spiralnature.com/magick/petrified-wood-deep-roots"
   - "https://geology.com/minerals/hematite.shtml"
   - "https://www.gemsociety.org/article/hematite-jewelry-and-gemstone-information/"
@@ -66,7 +66,7 @@ Crystals for grounding are dark, dense or earthy stones that people hold to feel
 | 7 | [Mahogany obsidian](/stones/mahogany-obsidian/) | Classic | Brown and black volcanic glass | Pendants, not rings |
 | 8 | [Aragonite](/stones/aragonite/) | Classic | Linked to patience and calm | Soft, never in salt |
 
-**How to read the Link column.** We rate each link on five steps, Classic, Widely Linked, Often Linked, Sometimes Linked and Rarely Linked, from what modern crystal guides say. Classic means grounding is part of the stone's standard description today. All eight stones rate Classic and appear in the order the guides agree on most. The rating measures a belief, not an effect.
+**How to read the Link column.** We rate each link on our five-facet scale, Classic, Widely Linked, Often Linked, Sometimes Linked and Rarely Linked, from what modern crystal guides say. Classic means grounding is part of the stone's standard description today. All eight stones rate Classic and appear in the order the guides agree on most. The rating measures a belief, not an effect.
 
 ## What Does Grounding Mean with Crystals?
 
@@ -114,7 +114,7 @@ In crystal practice, grounding means feeling rooted, calm and present in your bo
 
 ### 3. Petrified Wood
 
-**Classic.** [Petrified wood](/stones/petrified-wood/) is ancient wood replaced by minerals, which the International Gem Society describes as colorful agate that has replaced tree trunks and limbs ([IGS](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/)). Ancestral Puebloan builders used it for structures near today's Petrified Forest National Park, including the Agate House Pueblo, according to [Wikipedia](https://en.wikipedia.org/wiki/Petrified_wood), and modern guides call it "deeply grounding" ([Spiral Nature](https://www.spiralnature.com/magick/petrified-wood-deep-roots)). A polished slice on the desk, growth rings and all, is a reminder that slow change still counts.
+**Classic.** [Petrified wood](/stones/petrified-wood/) is ancient wood replaced by minerals, which the International Gem Society describes as colorful agate that has replaced tree trunks and limbs ([IGS](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/)). Ancestral Puebloan people built Agate House, an eight-room pueblo in what is now Petrified Forest National Park, from petrified wood sometime between 1050 and 1300, according to the [National Park Service](https://www.nps.gov/pefo/learn/historyculture/agate-house.htm), and modern guides call it "deeply grounding" ([Spiral Nature](https://www.spiralnature.com/magick/petrified-wood-deep-roots)). A polished slice on the desk, growth rings and all, is a reminder that slow change still counts.
 
 No visible rings? The same IGS page says the woody structure is preserved in many cases and can be seen with a microscope, so a piece without obvious rings is not automatically fake.
 
@@ -132,7 +132,7 @@ Bracelet pulling in pins and paper clips? Magnetic "hematite" is usually hematin
 
 **Classic.** [Smoky quartz](/stones/smoky-quartz/) is quartz turned brown by natural radiation acting on traces of aluminum. It is the national gem of Scotland, where it is called cairngorm, and since 1985 the state gem of New Hampshire ([Geology.com](https://geology.com/gemstones/smoky-quartz/)). Crystals.com lists it with black tourmaline and hematite as a grounding partner for moldavite (see below), and a small point on a desk is the usual placement.
 
-**Care.** Heat lightens its color (Geology.com), and Wikipedia adds that UV light can fade it ([Wikipedia](https://en.wikipedia.org/wiki/Smoky_quartz)), so skip the sunny windowsill.
+**Care.** Heat lightens its color (Geology.com). Sunlight is often blamed for fading too, and our care data rates sun as one to avoid, so a shaded desk beats a sunny windowsill.
 
 ### 6. Leopardskin Jasper
 
@@ -150,7 +150,7 @@ Bracelet pulling in pins and paper clips? Magnetic "hematite" is usually hematin
 
 **Classic.** [Aragonite](/stones/aragonite/) is a calcium carbonate mineral, a sister form of calcite ([International Gem Society](https://www.gemsociety.org/article/aragonite-jewelry-and-gemstone-information/)). Kunz describes ancient Mexicans carving figures, ornaments and beads from "Mexican onyx," an aragonite stalagmite (1913, page 251), and one large crystal encyclopedia credits the crystal author Melody with tying aragonite to patience and calm under stress ([Crystal Vaults](https://www.crystalvaults.com/crystal-encyclopedia/aragonite/)).
 
-**Care.** It is too soft (Mohs 3.5 to 4) to wear safely in jewelry, says the IGS, and it dissolves in acids and, more slowly, in saltwater ([Wikipedia](https://en.wikipedia.org/wiki/Aragonite)). Clean it with a soft brush and warm water and skip salt cleansing entirely.
+**Care.** It is too soft (Mohs 3.5 to 4) to wear safely in jewelry, says the IGS, and our care data rates acids and salt water as ones to avoid. Clean it with a soft brush and warm water and skip salt cleansing entirely.
 
 ## What Is a Grounding Stone for Moldavite?
 
@@ -158,7 +158,7 @@ A grounding stone for moldavite is a dark, steady stone that sellers pair with m
 
 **The Stone.** [Moldavite](/stones/moldavite/) is a natural glass thought to have formed in an asteroid impact in Germany about 15 million years ago. Geology.com warns that "much of the moldavite offered for sale, especially online, is a green man-made glass," and finds no scientific evidence of any medical effect beyond placebo ([Geology.com](https://geology.com/gemstones/moldavite/)).
 
-**What Research Says.** That tingle may come from expectation. In experiments described in *The Skeptic*, the psychologist Chris French found that volunteers reported sensations whether they held real quartz or glass fakes, and the reports tracked belief in the paranormal rather than the stone ([The Skeptic](https://www.skeptic.org.uk/?p=40532)). If any stone leaves you dizzy or unwell, put it down, and if the feeling continues, see a doctor.
+**What Research Says.** That tingle may come from expectation. In two studies with 80 volunteers each, presented at psychology conferences in 1999 and 2001 and never published in a peer-reviewed journal, the psychologist Chris French and colleagues at Goldsmiths had people hold a real or fake crystal for five minutes. Most reported at least one odd sensation, and the reports tracked belief in the paranormal, not whether the crystal was real ([The Skeptic](https://www.skeptic.org.uk/?p=40532)). Because the work was never peer reviewed, it is known only through French's own account. If any stone leaves you dizzy or unwell, put it down, and if the feeling continues, see a doctor.
 
 ## Black Tourmaline, Grounding & Protection
 
@@ -170,7 +170,7 @@ One step down, [red jasper](/stones/red-jasper/), [bloodstone](/stones/bloodston
 
 ## When a Stone Is Not Enough
 
-> **When a Stone Is Not Enough.** Grounding exercises are coping tools, not treatment. If you often feel panicked, cut off from your surroundings or unable to calm down, or if anxiety gets in the way of sleep, work or relationships, talk to a doctor or a licensed therapist. URMC gives the same advice if anxiety is a regular struggle. If you are in crisis in the US, call or text 988 or chat at [988lifeline.org](https://988lifeline.org/), and in an emergency call 911.
+> **When a Stone Is Not Enough.** Grounding exercises are coping tools, not treatment. If you often feel panicked, cut off from your surroundings or unable to calm down, or if anxiety gets in the way of sleep, work or relationships, talk to a doctor or a licensed therapist. URMC gives the same advice if anxiety is a regular struggle. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 For a shorter routine built around anxious moments, see [crystals for anxiety](/crystals-for/anxiety/).
 
@@ -179,15 +179,15 @@ For a shorter routine built around anxious moments, see [crystals for anxiety](/
 - Sara Smith, University of Rochester Medical Center, [5-4-3-2-1 Coping Technique for Anxiety](https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety), April 10, 2018
 - Cleveland Clinic Health Essentials, [13 Grounding Techniques for When You Feel Overwhelmed](https://health.clevelandclinic.org/grounding-techniques), November 25, 2024
 - *Quest* magazine, Theosophical Society in America, [The Rainbow Body, How the Western Chakra System Came to Be](https://www.theosophical.org/publications/quest-magazine/the-rainbow-body-how-the-western-chakra-system-came-to-be)
-- Chris French, [Romance in the Stones? The Power of Crystals vs the Power of Suggestion](https://www.skeptic.org.uk/?p=40532), *The Skeptic*
+- Chris French, [Romance in the Stones? The Power of Crystals vs the Power of Suggestion](https://www.skeptic.org.uk/?p=40532), *The Skeptic*, April 21, 2021, his account of two conference presentations (Sixth European Congress of Psychology, Rome, 1999, and British Psychological Society Centenary Annual Conference, Glasgow, 2001)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 80 to 81 and 251, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
 - International Gem Society, pages on [obsidian](https://www.gemsociety.org/article/obsidian-jewelry-and-gemstone-information/), [quartz and petrified wood](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/), [hematite](https://www.gemsociety.org/article/hematite-jewelry-and-gemstone-information/) and [aragonite](https://www.gemsociety.org/article/aragonite-jewelry-and-gemstone-information/)
 - Hobart M. King, Geology.com, [obsidian](https://geology.com/rocks/obsidian.shtml), [hematite](https://geology.com/minerals/hematite.shtml), [smoky quartz](https://geology.com/gemstones/smoky-quartz/) and [moldavite](https://geology.com/gemstones/moldavite/)
 - Rock Seeker, [Leopard Jasper](https://rockseeker.com/?p=9422), a collector site
-- Wikipedia, [Petrified wood](https://en.wikipedia.org/wiki/Petrified_wood), [Smoky quartz](https://en.wikipedia.org/wiki/Smoky_quartz) and [Aragonite](https://en.wikipedia.org/wiki/Aragonite), used as pointers for attributed details only
-- [988 Suicide and Crisis Lifeline](https://988lifeline.org/)
-- Modern associations compared across the crystal guides in our lore collection, including crystals.com, crystalvaults.com, lebensquelle-plus.de, spiralnature.com, rareearthgallerycc.com and thecrystalstudio.blogspot.com, read November 13, 2026
+- National Park Service, Petrified Forest National Park, [Agate House](https://www.nps.gov/pefo/learn/historyculture/agate-house.htm)
+- [988 Suicide & Crisis Lifeline](https://988lifeline.org/)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

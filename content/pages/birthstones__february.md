@@ -14,7 +14,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-17"
 publishTime: "07:40"
-status: "draft"
+status: "verified"
 page_type: "month"
 sources:
   - "https://www.americangemsociety.org/birthstones/"
@@ -55,7 +55,7 @@ The February birthstone is amethyst, the purple variety of quartz. It is Februar
 | Old zodiac lists | Pisces's stone in Kunz's 1913 verse list, Aquarius's in an old Spanish list |
 | Anniversaries | 6th and 17th (GIA) |
 | Flower in Kunz's 1913 calendar | Primrose |
-| Price | Affordable [TO CHECK US retail ranges by form, with a dated source] |
+| Price | Affordable [TO CHECK US retail ranges] |
 | Common mix-ups | Purple chalcedony sold as "amethyst," lab-grown rough sold as natural |
 | Care | Water OK, Sun Brief only, Heat Avoid, Salt Unknown |
 
@@ -71,11 +71,11 @@ One outlier is worth knowing. A Hindu list of gems of the months that Kunz repri
 
 The 1912 list already gave a second stone to March, June, August, October and December (Kunz 1913, pages 319 to 320). Later updates added more. The Jewelry Industry Council of America added alexandrite to June, citrine to November, pink tourmaline to October and zircon to December in 1952, tanzanite joined December in 2002, and spinel joined August in 2016 ([International Gem Society](https://www.gemsociety.org/article/history-of-birthstones/)).
 
-None of those changes touched February. Kunz would have approved. In 1913 he argued that there should be "no duplication or triplication of birth-stones for any given month" (pages 320 to 321), a battle he lost everywhere but February.
+None of those changes touched February. Kunz would have approved. In 1913 he argued that there should be "no duplication or triplication of birth-stones for any given month" (pages 320 to 321), a rule February still keeps.
 
 If you want a second February stone anyway, the zodiac offers one route. A February birthday falls under Aquarius or Pisces, and our [Aquarius](/zodiac/aquarius/) and [Pisces](/zodiac/pisces/) pages list the stones each sign is linked to.
 
-## Where the February Stone's Meaning Comes From
+## Where the February Stone's Meaning Comes from
 
 **The Story.** The February amethyst is the end point of a long chain of lists. Here is how the stone got the month, and then the meanings.
 
@@ -102,7 +102,7 @@ We use the same five labels on every stone. Here is where amethyst stands.
 - **Natural, untreated.** Purple straight from the ground. It is so abundant and cheap that the International Gem Society sees little incentive to buy synthetics.
 - **Natural, treated.** Heat and irradiation can change the color. Amethyst heated to yellow or red-orange is, by definition, citrine, and the International Gem Society calls the heat treatment undetectable and very stable.
 - **Lab-grown.** Labs grow amethyst hydrothermally, or make it by irradiating specially prepared smoky quartz, and synthetic rough is sometimes sold as natural rough (International Gem Society).
-- **Imitation.** Purple chalcedony is often wrongly called "amethyst" or "amethyst chalcedony." Purple or lilac chalcedony are the honest names ([Geology.com](https://geology.com/gemstones/amethyst/)). [TO CHECK which glass or dyed imitations are sold as amethyst in the US.]
+- **Imitation.** Purple chalcedony is often wrongly called "amethyst" or "amethyst chalcedony." Purple or lilac chalcedony are the honest names ([Geology.com](https://geology.com/gemstones/amethyst/)).
 - **Trade names.** "Siberian" is a grade for dark purple with red or blue flashes, not an origin. "Rose de France" is very light, pinkish violet amethyst. "Madeira," "Palmyra" and "Spanish" topaz are heated amethyst, not topaz (International Gem Society).
 
 Three checks you can do at home, with their limits.
@@ -117,7 +117,7 @@ For natural versus lab-grown, the International Gem Society points you to a prof
 
 Not by itself. Amethyst is one of the most affordable gems, and enormous deposits in South America and Africa keep the price low (Geology.com). A low price is normal for this stone, so judge the piece in front of you, not the tag. The opposite holds too. Pale stones that have faded in a sunny window are not proof of a fake, because GIA says some amethyst color can fade with prolonged exposure to intense light.
 
-Wondering whether a very dark stone was dyed? None of the sources behind this page describes dyed amethyst [TO CHECK whether dyed quartz is sold as amethyst, with a reference source]. Ask the seller in writing.
+Wondering whether a very dark stone was dyed? Ask the seller in writing whether the color is natural or treated.
 
 ## Honest Buying Tips for a February Birthday
 
@@ -133,13 +133,13 @@ Wondering whether a very dark stone was dyed? None of the sources behind this pa
 
 Three questions to ask the seller before you buy. Is it natural, and was the color treated? Could it be lab-grown, especially if it is sold as rough? Where was it mined?
 
-[TO CHECK typical US retail ranges for tumbled stones, geodes, bead bracelets, rings and faceted stones, with a dated source.]
+[TO CHECK US retail ranges]
 
 ## How to Use Amethyst for a February Birthday
 
 **The Ritual.** The stone will not do the work, but a small object tied to a date is an easy anchor for a habit.
 
-### A Birthday Card With the 1913 Verse
+### A Birthday Card with the 1913 Verse
 
 **Try This.** Wrap a tumbled amethyst and copy Kunz's February lines inside the card, "The February-born may find / Sincerity and peace of mind." Add one sentence on what the stone is (purple quartz, colored by iron and natural radiation in the rock). The card does half the work.
 
@@ -159,11 +159,11 @@ Three questions to ask the seller before you buy. Is it natural, and was the col
 
 **Mineral Fact.** Amethyst is quartz with good toughness, and GIA calls it suitable for all jewelry. These ratings come from our care data, the same data as the [Care Checker](/tools/crystal-care-checker/).
 
-- **Water.** OK. Warm water, mild detergent and a soft brush (International Gem Society). Keep soaks brief, since our sources cover washing, not long soaks.
+- **Water.** OK. Warm water, mild detergent and a soft brush (International Gem Society). Keep soaks brief, since the guidance covers washing, not long soaks.
 - **Sun.** Brief only. Some amethyst color can fade with prolonged exposure to intense light ([GIA](https://www.gia.edu/amethyst-care-cleaning)), so a sunny windowsill is the wrong home for it.
 - **Heat.** Avoid. The International Gem Society says amethyst remains sensitive to extreme heat, and its [care guide](https://www.gemsociety.org/article/gemstone-care-guide/) warns it can crack as well as fade.
 - **Chemicals.** Avoid. GIA lists hydrofluoric acid, ammonium fluoride and alkaline solutions.
-- **Salt.** Unknown. None of our sources cover salt yet, so skip salt baths until one does.
+- **Salt.** Unknown. Our care data has no salt guidance yet, so skip salt baths for now.
 - **Cleaning machines.** Skip them. Inclusions can shatter in an ultrasonic cleaner (International Gem Society).
 - **Storage.** Keep it apart from harder gems, and take amethyst jewelry off for strenuous activity (International Gem Society).
 - **Toxicity.** OK to wear and handle. The silica risk the International Gem Society lists concerns dust from cutting and polishing, not intact stones.

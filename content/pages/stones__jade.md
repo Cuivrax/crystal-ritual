@@ -26,7 +26,12 @@ sources:
   - "https://geology.com/minerals/serpentine.shtml"
   - "https://www.gemsociety.org/article/serpentine-jewelry-and-gemstone-information/"
   - "https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/"
+  - "https://www.gemsociety.org/article/jadeite-jewelry-and-gemstone-information/"
+  - "https://www.gemsociety.org/article/nephrite-jewelry-and-gemstone-information/"
+  - "https://gia.edu/gems-gemology/spring-1987-synthetic-jadeite-nassau"
+  - "https://www.gia.edu/jade"
   - "https://geology.com/minerals/quartz.shtml"
+  - "https://cnmnc.units.it/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://energymuse.com/pages/jade-meaning"
   - "https://www.crystalvaults.com/crystal-encyclopedia/jade/"
@@ -64,7 +69,7 @@ Jade stone is the name shared by two different minerals, jadeite and nephrite, t
 | Toxic to handle | Unknown |
 | Treatments | Wax (Type A), acid bleach and resin (Type B), dye (Type C), plus heat and others |
 | Common fakes | Serpentine, dyed calcite, aventurine quartz, soapstone, glass |
-| Price range | Very wide. Fine Imperial jadeite can cost more per carat than diamonds [TO CHECK US retail by form] |
+| Price range | Very wide. Fine Imperial jadeite can cost more per carat than diamonds. Color, transparency, texture, size and treatment set the price |
 | Birthstone | None on the modern US list |
 | Chakra (Modern Association) | Heart chakra |
 
@@ -152,7 +157,7 @@ You cannot fully confirm jade at home. Only trained observers with significant e
 
 - **Natural, untreated.** Wikipedia describes Type A as natural, untreated jadeite, and GIA defines it as jadeite that is natural or polished with wax only.
 - **Natural, treated.** Heat, wax, dye, bleach, acid and polymer injection have all been used on jadeite and nephrite (Geology.com). The Type A, B and C system below covers jadeite.
-- **Lab-grown.** Our sources describe no lab-grown jade on the market [TO CHECK whether lab-grown jadeite is sold].
+- **Lab-grown.** General Electric grew jadeite in the lab as an experiment, and a 1987 study in GIA's journal *Gems & Gemology* reported no plans for commercial production ([GIA](https://gia.edu/gems-gemology/spring-1987-synthetic-jadeite-nassau)). The International Gem Society says GE has not released synthetic jadeite commercially to date and that nephrite has not yet been synthesized ([IGS jadeite](https://www.gemsociety.org/article/jadeite-jewelry-and-gemstone-information/), [IGS nephrite](https://www.gemsociety.org/article/nephrite-jewelry-and-gemstone-information/)). We found no reference source describing lab-grown jade sold in the US.
 - **Imitation.** Glass, soapstone and serpentine are sold as jade, as is green-dyed calcite.
 - **Trade name.** Dozens of "jade" names belong to other minerals (see the table below).
 
@@ -219,25 +224,26 @@ Here the care data overrules some crystal guides. One German guide suggests jade
 
 ## Price Guide
 
-Jade prices span an enormous range. The best Imperial Jade can cost more per carat than high-quality diamonds, while Type B sells for a small fraction of a similar Type A piece and Type C for a small fraction of Type B (Geology.com). Wikipedia reports that in 2010 the finest "mutton fat" jade, named for its marbled white look, could sell for $3,000 an ounce, a tenfold rise in a decade [TO CHECK upstream source].
+Jade prices span an enormous range. The best Imperial Jade can cost more per carat than high-quality diamonds, while Type B sells for a small fraction of a similar Type A piece and Type C for a small fraction of Type B (Geology.com). Among nephrites, the International Gem Society calls creamy white "mutton fat" jade a traditional favorite and the most popular nephrite in Chinese markets.
 
 GIA lists what drives the price of jadeite. Color comes first, ideally a very specific green. The best jadeite is semitransparent, so text read through it looks slightly blurred. Texture runs from fine to coarse, and value rises with size, all else being equal.
 
-[TO CHECK typical US retail ranges for nephrite beads, jadeite bangles, pendants and carvings, with a dated source.]
+The [International Gem Society](https://www.gemsociety.org/article/nephrite-jewelry-and-gemstone-information/) names color, origin and size as the main value factors for jade. Carvings are valued by the piece rather than by the carat, with artistry and provenance counting most, and the IGS recommends buying only Type A. We give no dollar range here, because the November 2026 US shop listing we found for plain "jade" did not say whether it was jadeite or nephrite, and the IGS notes that jadeite commands higher prices. Ask which one you are buying before you compare prices.
 
 **Next Step.** Wondering whether your jade bracelet can go in the bath or the sun? Look it up in the [Care Checker](/tools/crystal-care-checker/).
 
 ## Sources
 
 - Hobart M. King, Geology.com, [What Is Jade?](https://geology.com/gemstones/jade/), [Serpentine](https://geology.com/minerals/serpentine.shtml) and [Quartz](https://geology.com/minerals/quartz.shtml)
-- GIA, [Jade Description](https://www.gia.edu/jade-description), [What Is Jade Gemstone](https://www.gia.edu/jade/buyers-guide) and [Jade Care and Cleaning Guide](https://gia.edu/jade-care-cleaning)
-- International Gem Society, [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/), [Serpentine Jewelry and Gemstone Information](https://www.gemsociety.org/article/serpentine-jewelry-and-gemstone-information/) and [Quartz Jewelry and Gemstone Information](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/)
+- GIA, [Jade Description](https://www.gia.edu/jade-description), [What Is Jade Gemstone](https://www.gia.edu/jade/buyers-guide), [Jade](https://www.gia.edu/jade) and [Jade Care and Cleaning Guide](https://gia.edu/jade-care-cleaning)
+- Kurt Nassau and James E. Shigley, [A Study of the General Electric Synthetic Jadeite](https://gia.edu/gems-gemology/spring-1987-synthetic-jadeite-nassau), *Gems & Gemology*, Spring 1987
+- International Gem Society, [Jadeite](https://www.gemsociety.org/article/jadeite-jewelry-and-gemstone-information/) and [Nephrite](https://www.gemsociety.org/article/nephrite-jewelry-and-gemstone-information/), by Joel E. Arem and colleagues, updated July 2025, [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/), [Serpentine Jewelry and Gemstone Information](https://www.gemsociety.org/article/serpentine-jewelry-and-gemstone-information/) and [Quartz Jewelry and Gemstone Information](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/)
 - Wikipedia, [Jade](https://en.wikipedia.org/wiki/Jade), used as a pointer only
-- IMA List of Minerals, July 2026 edition [TO CHECK official link]
+- IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 83 to 88, 246, 254, 264 to 265, 299 to 300 and 382 to 383, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
 - Energy Muse, [Jade Meaning](https://energymuse.com/pages/jade-meaning), a crystal shop guide
 - Modern associations compared across crystalvaults.com, crystals.com, firemountaingems.com, energymuse.com, lithotherapie.net, france-mineraux.fr and edelsteine.net, read November 13, 2026
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

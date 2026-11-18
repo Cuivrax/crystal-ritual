@@ -40,10 +40,10 @@ If a stone comes back Avoid or Not Enough Data, a Try Moonlight Instead button s
 
 | Rating | What it means |
 |---|---|
-| OK | Our sources say this kind of contact is fine |
+| OK | Our sources call this kind of contact fine |
 | Brief Only | Our sources allow short contact only, so keep it quick |
 | Avoid | Our sources warn against it |
-| Not Enough Data | Our sources say nothing yet. Until they do, a dry method like moonlight or sound is the gentle choice |
+| Not Enough Data | No source we trust covers it yet. Until one does, a dry method like moonlight or sound is the gentle choice |
 
 The word always shows next to the color, so the rating reads the same on any screen and to anyone who cannot tell the colors apart.
 
@@ -57,7 +57,7 @@ These rules decide what you see. They lean cautious on purpose, because a cautio
 
 **Soak is Brief Only unless a source clears it.** Most reference guides describe washing a stone, warm water, mild detergent and a soft brush ([International Gem Society](https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/)), and say nothing about leaving it in a bowl. So when a stone is OK for a rinse, the checker still shows Brief Only for a long soak, unless the source itself says soaking is fine. Today that is true for three stones, black agate, flower agate and grape agate, through a dealer's care table for agate in general ([GemSelect](https://gemselect.com/gem-info/cleaning.php)).
 
-**A Wikipedia-only OK is not used.** Wikipedia is a useful lead, not a source we publish on its own. If Wikipedia is the only page saying a contact is fine, the rating drops to Not Enough Data. A warning that rests on Wikipedia alone stays, because caution is the safe side to err on, and the card says plainly that only Wikipedia backs it so far. Orange calcite and water is one of those ([Wikipedia](https://en.wikipedia.org/wiki/Calcite)).
+**An encyclopedia-only OK is not used.** An open online encyclopedia is a useful lead, not a source we publish on its own. If it is the only page saying a contact is fine, the rating drops to Not Enough Data. A warning that rests on it alone stays, because caution is the safe side to err on, and the card says plainly how thin the support is. Orange calcite and water is one of those.
 
 **A source has to fit the stone.** When the only source does not match the stone or the use, we leave the rating out. Our only sunlight source for rainbow moonstone was about orthoclase moonstone ([GIA](https://www.gia.edu/moonstone-care-cleaning)), and rainbow moonstone is a labradorite. Our only salt source for clear quartz was a ritual page, not gem care advice ([Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/clear-quartz)). Both show Not Enough Data.
 
@@ -91,11 +91,8 @@ Every card in the checker links the pages its rating comes from. The examples on
 
 - International Gem Society, [gypsum](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/), [amethyst](https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/) and [fluorite](https://www.gemsociety.org/article/fluorite-jewelry-gemstone-information/) care pages, and the [Gemstone Toxicity Table](https://www.gemsociety.org/article/gemstone-toxicity-table)
 - GIA, [Amethyst Care and Cleaning](https://www.gia.edu/amethyst-care-cleaning) and [Moonstone Care and Cleaning](https://www.gia.edu/moonstone-care-cleaning)
-- GemSelect, [gemstone cleaning table](https://gemselect.com/gem-info/cleaning.php), a dealer guide
-- Gem Rock Auctions, [Clear Quartz](https://www.gemrockauctions.com/learn/a-z-of-gemstones/clear-quartz), a dealer guide
-- Wikipedia, [Calcite](https://en.wikipedia.org/wiki/Calcite), used as a lead only
 - Care ratings from the Crystal & Ritual care data, built November 18, 2026
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

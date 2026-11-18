@@ -1,0 +1,34 @@
+---
+// Guides (care, real or fake, rituals, lists, lab, essays), tools on light pages and trust pages.
+import Base from '../../layouts/Base.astro';
+import Breadcrumbs from '../Breadcrumbs.astro';
+import Sections from '../Sections.astro';
+import Body from '../Body.astro';
+import AuthorBox from '../AuthorBox.astro';
+import Sources from '../Sources.astro';
+import { SECTION_LABELS, categoryOf } from '../../lib/site.mjs';
+import { breadcrumbsFor, ogImageFrom, citationsFor } from '../../lib/page-meta.mjs';
+const { page, doc, site } = Astro.props;
+const crumbs = breadcrumbsFor(page, site);
+const trust = page.type === 'trust';
+const eyebrow = trust ? 'Crystal & Ritual' : page.type === 'tool' ? 'Tools' : categoryOf(page);
+const byline = !trust;
+---
+<Base page={page} title={page.data.title} description={page.data.description} url={page.url} image={ogImageFrom(doc.heroHtml)} breadcrumbs={crumbs} citations={citationsFor(page)}>
+  <div class="wrap"><Breadcrumbs items={crumbs} /></div>
+  <section class="wrap page-hero">
+    <div class={['hero-grid', doc.heroHtml ? 'photo-first' : 'no-photo'].join(' ')}>
+      {doc.heroHtml && <div class="hero-figure guide-photo"><Fragment set:html={doc.heroHtml} /></div>}
+      <div class="hero-text">
+        <p class="eyebrow">{eyebrow}</p>
+        <h1 class="page-title">{page.data.h1}</h1>
+        {byline && <p class="byline">By <a href="#author">Iris Holloway</a></p>}
+        {doc.lead && <p class="lead" set:html={doc.lead} />}
+      </div>
+    </div>
+  </section>
+  {doc.intro && <div class="wrap section-intro"><div class="prose"><Body html={doc.intro} page={page} /></div></div>}
+  <Sections sections={doc.sections} page={page} />
+  {!(trust && page.slug === 'about') && <AuthorBox text={doc.authorText} compact={trust} />}
+  <Sources html={doc.sources} lastReviewed={doc.lastReviewed} />
+</Base>

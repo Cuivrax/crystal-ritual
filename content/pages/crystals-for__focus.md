@@ -44,10 +44,10 @@ sources:
   - "https://www.gutenberg.org/ebooks/66583"
   - "https://doi.org/10.1016/j.cognition.2010.12.007"
   - "https://experts.illinois.edu/en/publications/brief-and-rare-mental-breaks-keep-you-focused-deactivation-and-re/"
+  - "https://news.illinois.edu/brief-diversions-vastly-improve-focus-researchers-find/"
   - "https://doi.org/10.1126/science.1199427"
   - "https://pubmed.ncbi.nlm.nih.gov/21233387/"
-  - "https://doi.org/10.1016/j.obhdp.2016.07.004"
-  - "https://ideas.repec.org/a/eee/jobhdp/v137y2016icp71-85.html"
+  - "https://doi.org/10.7717/peerj.3363"
   - "https://crystalgemstones.net/fluorite-meaning-and-spiritual-properties.html"
   - "https://lebensquelle-plus.de/blogs/magazin/fluorit-wirkung"
   - "https://www.crystals.com/blogs/news/citrine-meaning-properties"
@@ -113,7 +113,7 @@ If you searched for gemstone clarity meaning, the word has a trade sense too. In
 4. **Take a real 5-minute break.** Pick up the stone, stand up, look out a window. Messages can wait.
 5. **Reset.** New note, stone back on top, timer again. After four rounds, take a longer break.
 
-**What Research Says.** In a lab study, people doing a long, dull screen-watching task got worse as time went on, unless they briefly switched to a different small task now and then (Ariga and Lleras, 2011, *Cognition*, [doi.org/10.1016/j.cognition.2010.12.007](https://doi.org/10.1016/j.cognition.2010.12.007)). The authors argue that a brief switch keeps the goal of the main task fresh. It was a lab task, not studying, and no stones were involved [TO CHECK sample size in the full paper]. The 25-minute block is our suggestion, not a finding of that study.
+**What Research Says.** In a lab study of 84 people doing a dull, 50-minute computer task, performance slipped as time went on, except in the group that twice switched briefly to a different small task (Ariga and Lleras, 2011, *Cognition*, [doi.org/10.1016/j.cognition.2010.12.007](https://doi.org/10.1016/j.cognition.2010.12.007), sample size from the [University of Illinois](https://news.illinois.edu/brief-diversions-vastly-improve-focus-researchers-find/)). The authors argue that a brief switch keeps the goal of the main task fresh. It was a lab task, not studying, and no stones were involved. The 25-minute block is our suggestion, not a finding of that study.
 
 ### Best Crystals for an Exam & a Pocket Routine
 
@@ -125,7 +125,7 @@ If you searched for gemstone clarity meaning, the word has a trade sense too. In
 
 If your exam has rules about what you can bring into the room, follow them. The stone can wait in your bag, because the parts that matter happen before you sit down.
 
-**What Research Says.** Students who did a brief writing exercise about their test worries just before an exam scored better, especially those who usually get anxious about tests. The paper reports four experiments, two in the lab and two randomized studies in real classrooms (Ramirez and Beilock, 2011, *Science*, [doi.org/10.1126/science.1199427](https://doi.org/10.1126/science.1199427)). In a separate set of experiments, doing a short ritual before a stressful task lowered anxiety and improved performance, and believing the steps were a ritual mattered (Brooks and colleagues, 2016, *Organizational Behavior and Human Decision Processes*, [doi.org/10.1016/j.obhdp.2016.07.004](https://doi.org/10.1016/j.obhdp.2016.07.004)). Neither study used stones [TO CHECK sample sizes in both papers]. We are borrowing the routine, not claiming the stone did the work.
+**What Research Says.** Students who did a brief writing exercise about their test worries just before an exam scored better, especially those who usually get anxious about tests. The paper reports four experiments, two in the lab and two randomized studies in real classrooms (Ramirez and Beilock, 2011, *Science*, [doi.org/10.1126/science.1199427](https://doi.org/10.1126/science.1199427)). Research on rituals is thinner. In a small, pre-registered brain-recording study of 48 mostly undergraduate volunteers, those who repeated a made-up ritual at home for a week then showed a weaker brain response to their own mistakes, though their task scores and their reported feelings did not change (Hobson, Bonk and Inzlicht, 2017, *PeerJ*, [doi.org/10.7717/peerj.3363](https://doi.org/10.7717/peerj.3363)). Neither study used stones. We are borrowing the routine, not claiming the stone did the work.
 
 ### A Simple Study Grid
 
@@ -177,11 +177,11 @@ Crystal grid examples online can get elaborate. A desk needs very little.
 - Hobart M. King, Geology.com, [quartz](https://geology.com/minerals/quartz.shtml), [amethyst](https://geology.com/gemstones/amethyst/), [fluorite](https://geology.com/minerals/fluorite.shtml), [calcite](https://geology.com/minerals/calcite.shtml) and [lapis lazuli](https://geology.com/gemstones/lapis-lazuli/)
 - Deposits Magazine, [The How and Why of Tiger's Eye](https://depositsmag.com/2023/04/29/the-how-and-why-of-tigers-eye/), and Ganoksin, [A Second Look at Tiger's Eye](https://ganoksin.com/article/a-second-look-at-tigers-eye)
 - Gem Rock Auctions, [iolite](https://www.gemrockauctions.com/learn/a-z-of-gemstones/iolite) and [clear quartz](https://www.gemrockauctions.com/learn/a-z-of-gemstones/clear-quartz), dealer guides
-- Ariga, A., and Lleras, A. (2011), Brief and rare mental "breaks" keep you focused, *Cognition* 118(3), 439 to 443, [doi.org/10.1016/j.cognition.2010.12.007](https://doi.org/10.1016/j.cognition.2010.12.007)
+- Ariga, A., and Lleras, A. (2011), Brief and rare mental "breaks" keep you focused, *Cognition* 118(3), 439 to 443, [doi.org/10.1016/j.cognition.2010.12.007](https://doi.org/10.1016/j.cognition.2010.12.007), with the sample size from the University of Illinois news release, [Brief Diversions Vastly Improve Focus, Researchers Find](https://news.illinois.edu/brief-diversions-vastly-improve-focus-researchers-find/)
 - Ramirez, G., and Beilock, S. L. (2011), Writing about testing worries boosts exam performance in the classroom, *Science* 331(6014), 211 to 213, [doi.org/10.1126/science.1199427](https://doi.org/10.1126/science.1199427)
-- Brooks, A. W., and colleagues (2016), Don't stop believing, rituals improve performance by decreasing anxiety, *Organizational Behavior and Human Decision Processes* 137, 71 to 85, [doi.org/10.1016/j.obhdp.2016.07.004](https://doi.org/10.1016/j.obhdp.2016.07.004)
-- Focus rankings and modern associations compared across the crystal guides in our lore collection, including crystalgemstones.net, lebensquelle-plus.de, crystals.com, france-mineraux.fr and firemountaingems.com, read November 13, 2026
+- Hobson, N. M., Bonk, D., and Inzlicht, M. (2017), Rituals decrease the neural response to performance failure, *PeerJ* 5, e3363, [doi.org/10.7717/peerj.3363](https://doi.org/10.7717/peerj.3363)
+- Focus rankings and modern associations compared across modern crystal guides, including crystalgemstones.net, lebensquelle-plus.de, crystals.com, france-mineraux.fr and firemountaingems.com, read November 13, 2026
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

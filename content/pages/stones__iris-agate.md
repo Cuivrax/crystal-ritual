@@ -12,13 +12,12 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-09"
 publishTime: "06:58"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/agate-gem-information/"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
   - "https://geology.com/gemstones/agate/"
-  - "https://en.wikipedia.org/wiki/Agate"
   - "https://gia.edu/gems-gemology/spring-2017-iridescence-natural-quartz"
   - "https://geologyin.com/2023/12/iris-agate-rainbow-in-stone.html"
   - "https://www.gutenberg.org/ebooks/57978"
@@ -46,14 +45,14 @@ Iris agate is a banded agate whose silica layers are so fine that light shining 
 | Mineral | Quartz, in its microcrystalline form, chalcedony. Agate is a variety, not an IMA species |
 | Formula | SiO₂ (silicon dioxide) |
 | Mohs hardness | About 7 (6.5 to 7) |
-| Crystal structure | Microscopic quartz fibers. No visible crystals |
+| Crystal structure | Chalcedony, with crystals too small to see |
 | Body color | Light gray to brown |
 | Rainbow colors | Blue, green, purple and yellow |
 | Color cause | A natural diffraction grating, light passing through very thin, repeating layers |
 | How to see it | A thin, polished slice with light shining through it |
 | Reported sources | Oregon, Montana and California in the US, Brazil, Indonesia, India and Madagascar |
 | Other names | Rainbow agate, peacock agate |
-| Lab-grown | None. Agate has never been made synthetically |
+| Lab-grown | Not reported for iris agate |
 | Water | Unknown |
 | Sun | Unknown |
 | Heat | Unknown |
@@ -68,13 +67,13 @@ Iris agate is a banded agate whose silica layers are so fine that light shining 
 
 ## What Iris Agate Actually Is
 
-**The Stone.** Agate is a variety of chalcedony, the form of quartz whose crystals are too small to see, according to the [International Gem Society](https://www.gemsociety.org/article/agate-gem-information/). It grows in layers. Silica from groundwater deposits in cavities in igneous rock, building concentric layers around the walls or level layers up from the bottom, and the banding records how the water chemistry changed ([Geology.com](https://geology.com/gemstones/agate/)). Most agates form as nodules inside volcanic rock, and exactly how the bands form is still widely debated, says [Wikipedia](https://en.wikipedia.org/wiki/Agate) [TO CHECK upstream source].
+**The Stone.** Agate is a variety of chalcedony, the form of quartz whose crystals are too small to see, according to the [International Gem Society](https://www.gemsociety.org/article/agate-gem-information/). It grows in layers. Silica from groundwater deposits in cavities in igneous rock, building concentric layers around the walls or level layers up from the bottom, and the banding records how the water chemistry changed ([Geology.com](https://geology.com/gemstones/agate/)). Agates typically form as small nodules, according to the International Gem Society.
 
 Iris agate is an agate whose layers are extraordinarily thin and regular. The International Gem Society puts it in one line, "Iris agates show iridescent colors between color layers." Agate rates 7 on the Mohs scale (Geology.com), and the International Gem Society calls agate tough enough for most jewelry.
 
 ### Where the Rainbow Comes From
 
-**Mineral Fact.** The colors are not pigment. A 2017 study in *Gems & Gemology* explains two ways minerals make iridescence, thin films and repeating structures, and names iris agate as a classic case of the second, where light passes through transparent, regularly repeating substructures and diffracts, alongside precious opal, labradorite and moonstone ([GIA](https://gia.edu/gems-gemology/spring-2017-iridescence-natural-quartz)). The study cites research on iris agate from 1994 and 1995 [TO CHECK titles and DOIs of Taijing and Sunagawa 1994 and Heaney and Davis 1995].
+**Mineral Fact.** The colors are not pigment. A 2017 study by Xiayang Lin and Peter J. Heaney in *Gems & Gemology* explains two ways minerals make iridescence, thin films and repeating structures, and names iris agate as a classic case of the second, where light passes through transparent, regularly repeating substructures and diffracts, alongside precious opal, labradorite and moonstone ([GIA](https://gia.edu/gems-gemology/spring-2017-iridescence-natural-quartz)).
 
 In plainer words, the silica layers are so thin and so evenly spaced that they act like the grooves on a CD, splitting white light into colors. Geology In, a geology blog, describes alternating layers of silica with different refractive indices, too thin to see with the naked eye ([Geology In](https://geologyin.com/2023/12/iris-agate-rainbow-in-stone.html)).
 
@@ -90,7 +89,7 @@ So a dull-looking slice in a shop may be the real thing. Ask to hold it up to a 
 
 Iris agate can form in any agate deposit but is less common than other varieties, says Geology In, which lists Oregon, Montana and California in the US, Rio Grande do Sul in Brazil, and occasional finds in Indonesia, India and Madagascar. It adds that iridescent agates from Indonesia may need further examination before they can be confirmed as true iris agate. These localities come from a blog, so treat them as reported, not mapped.
 
-You may also see "Horse Mountain iris agate" in listings. None of the sources behind this page covers that locality [TO CHECK Horse Mountain iris agate locality with a reference source].
+You may also see "Horse Mountain iris agate" in listings. We found no reference source that maps that locality, so read it as the seller's label and ask how they know where the piece came from.
 
 ## Where the Meaning Comes From
 
@@ -103,7 +102,7 @@ You may also see "Horse Mountain iris agate" in listings. None of the sources be
 
 ## What People Use Iris Agate for Today
 
-**Modern Association.** Confidence, balance and protection are the themes the iris agate guides we read come back to most. A gem shop's blog says it is believed to give courage and confidence, suggests it for people who are shy or afraid to speak in front of others, and says artists, writers and musicians love it for new ideas ([Raza Gems](https://razagems.com/blogs/loose-stones/healing-properties-of-iris-agate)). A crystal shop calls it a stone of "happiness, manifestation, imagination and well-being" and, "one fun attribute," a stone said to grant wishes ([Cape Cod Crystals](https://capecodcrystals.com/pages/rainbow-iris-agate)).
+**Modern Association.** Confidence and protection are both Widely Linked with iris agate in the guides we compared. A gem shop's blog says it is believed to give courage and confidence, suggests it for people who are shy or afraid to speak in front of others, and says artists, writers and musicians love it for new ideas ([Raza Gems](https://razagems.com/blogs/loose-stones/healing-properties-of-iris-agate)). A crystal shop calls it a stone of "happiness, manifestation, imagination and well-being" and, "one fun attribute," a stone said to grant wishes ([Cape Cod Crystals](https://capecodcrystals.com/pages/rainbow-iris-agate)).
 
 Chakra links lean toward all chakras, with the third eye named most often after that. Another shop blog lists the sacral, solar plexus and third eye ([Wicca SG](https://wiccasg.com/blogs/crystals-sanctum/iris-agate-properties-and-chakras)).
 
@@ -137,14 +136,14 @@ Some links are marginal or contradictory. Zodiac signs vary from Taurus to Gemin
 
 ### Is Iris Agate Natural?
 
-Yes. The rainbow is a natural effect of the stone's structure, not a pigment (Geology In), and GIA's 2017 study lists iris agate among natural examples of iridescence. Agate has never been made synthetically, according to Wikipedia. The questions to ask are about labels and dye, not about lab-made agate.
+Yes. The rainbow is a natural effect of the stone's structure, not a pigment (Geology In), and GIA's 2017 study lists iris agate among natural examples of iridescence. The questions to ask are about labels, dye and coatings.
 
 We use the same five labels on every stone.
 
 - **Natural, untreated.** A slice that shows its rainbow only with light through it.
 - **Natural, treated.** Agate is very often dyed. Most spectacularly colored agates in the gem trade have been dyed (Geology.com), dyeing is usually stable, and ethical dealers disclose it (International Gem Society). Dye adds color you can see in ordinary light. The iris rainbow needs light through the slice.
-- **Lab-grown.** None exists.
-- **Imitation.** [TO CHECK which imitations are sold as iris agate.] Iridescent quartz has been faked with thin metal films, sold as "aurora quartz," according to GIA, so do not confuse coated quartz with iris agate.
+- **Lab-grown.** Not reported for iris agate.
+- **Imitation.** Brightly dyed banded agate is the usual mix-up. Iridescent quartz has been faked with thin metal films, sold as "aurora quartz," according to GIA, so do not confuse coated quartz with iris agate.
 - **Trade names.** Rainbow agate and peacock agate, depending on the colors (Geology In). Kunz used "Rainbow Agate" in 1915.
 
 Three checks you can do at home, with their limits.
@@ -191,7 +190,6 @@ Ask to see the rainbow before you pay a premium, and ask whether the slice is dy
 
 - International Gem Society, [Agate](https://www.gemsociety.org/article/agate-gem-information/) and [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Hobart M. King, Geology.com, [Agate](https://geology.com/gemstones/agate/)
-- Wikipedia, [Agate](https://en.wikipedia.org/wiki/Agate), used as a pointer only
 - Gemological Institute of America, [Causes of Iridescence in Natural Quartz](https://gia.edu/gems-gemology/spring-2017-iridescence-natural-quartz), *Gems & Gemology*, Spring 2017, Vol. 53, No. 1
 - Geology In, [Iris Agate, a Rainbow in Stone](https://geologyin.com/2023/12/iris-agate-rainbow-in-stone.html), December 2023, a geology blog
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 54 and 296 to 297, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), page 377, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)

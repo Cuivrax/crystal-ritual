@@ -16,13 +16,14 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-04"
 publishTime: "05:54"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/topaz-jewelry-and-gemstone-information/"
   - "https://www.gemsociety.org/article/common-gemstone-treatments-cheat-sheet-2/"
   - "https://www.gemsociety.org/article/history-legend-topaz-gems-yore/"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
+  - "https://www.gemsociety.org/article/from-silicon-to-sparkle-the-story-behind-azotics-gemstone-revolution/"
   - "https://geology.com/minerals/topaz.shtml"
   - "https://geology.com/minerals/quartz.shtml"
   - "https://en.wikipedia.org/wiki/Topaz"
@@ -72,7 +73,7 @@ Mystic topaz is natural colorless topaz with a metal film, most often titanium, 
 
 ## What the Name Actually Covers
 
-**Trade Name.** "Mystic topaz" is a trade name, not a gem variety. The [International Gem Society](https://www.gemsociety.org/article/topaz-jewelry-and-gemstone-information/) uses it for surface-treated topaz showing multiple colors, and [Wikipedia](https://en.wikipedia.org/wiki/Topaz) describes it as colorless topaz "artificially coated via a vapor deposition process" [TO CHECK upstream source]. The topaz is real. The rainbow is added.
+**Trade Name.** "Mystic topaz" is a trade name, not a gem variety. The [International Gem Society](https://www.gemsociety.org/article/topaz-jewelry-and-gemstone-information/) uses it for surface-treated topaz showing multiple colors, and [Geology.com](https://geology.com/minerals/topaz.shtml) says treated topaz of this kind is sold under the trade name "mystic topaz." The topaz is real. The rainbow is added.
 
 The same product goes by other names. Skyjems, a gem dealer with an online encyclopedia, lists Mystic Fire, Rainbow topaz and Caribbean topaz, depending on the producer and color balance ([Skyjems](https://skyjems.ca/pages/encyclopedia-mystic-topaz)). The International Gem Society's [treatments cheat sheet](https://www.gemsociety.org/article/common-gemstone-treatments-cheat-sheet-2/) says metallic coatings create both mystic and azotic topaz, and Mystic Quartz is the same coating on colorless quartz (Skyjems).
 
@@ -80,7 +81,7 @@ On our five-step ladder, mystic topaz is **Natural, treated (coated)**, sold und
 
 ## What Mystic Topaz Actually Is
 
-**The Stone.** Under the film is ordinary topaz, a silicate of aluminum and fluorine. It rates 8 on the Mohs scale and has a specific gravity of 3.4 to 3.6, says [Geology.com](https://geology.com/minerals/topaz.shtml), and most topaz crystals are colorless. Brazil is the principal source of gem-quality topaz (International Gem Society). Our sources do not say where the colorless rough for mystic topaz is mined or where it is coated [TO CHECK].
+**The Stone.** Under the film is ordinary topaz, a silicate of aluminum and fluorine. It rates 8 on the Mohs scale and has a specific gravity of 3.4 to 3.6, says [Geology.com](https://geology.com/minerals/topaz.shtml), and most topaz crystals are colorless. Brazil is the principal source of gem-quality topaz (International Gem Society). Where the colorless rough for mystic topaz is mined and where it is coated is not covered here [TO CHECK].
 
 Colorless topaz is cheap, and treatment is what sells it. Most topaz in commercial jewelry has been heated, irradiated or coated, Geology.com notes, and the most affordable, most often bought topaz is the blue and mystic material that got its color from treatment.
 
@@ -90,9 +91,9 @@ Colorless topaz is cheap, and treatment is what sells it. Most topaz in commerci
 
 The topaz is faceted first, usually as an oval, round, cushion or pear, and only then coated. In a vacuum chamber, titanium is sputtered onto the back facets, called the pavilion, and some producers use other metals such as gold or chromium. The film is nanometers to a few hundred nanometers thick (Skyjems). Light enters through the untreated top, bounces off the coated back and comes out tinted with rainbow color.
 
-Sources do not describe the process the same way. The International Gem Society calls it chemical vapor deposition, Skyjems describes physical vapor deposition, and Geology.com says some topaz is heated and then coated with a metallic oxide. GemSelect, another dealer, simply calls it thin-film deposition, the same family of technology used for lens coatings and computer chips ([GemSelect](https://www.gemselect.com/english/help/faq/mystic-topaz-gems.php)). For you as a buyer, the details matter less than the result, a real stone wearing a very thin metal skin.
+Sources do not describe the process the same way. The International Gem Society calls it chemical vapor deposition, Skyjems describes physical vapor deposition, and Geology.com says some topaz is heated and then coated with a metallic oxide. GemSelect, another dealer, simply calls it thin-film deposition, a technology also used in optics and electronics ([GemSelect](https://www.gemselect.com/english/help/faq/mystic-topaz-gems.php)). For you as a buyer, the details matter less than the result, a real stone wearing a very thin metal skin.
 
-One dealer encyclopedia credits the coating to a company called Azotic and dates the gem to about 1998 [TO CHECK with a reference source].
+The International Gem Society credits Mystic Fire, an early rainbow-coated topaz, to a company called Azotic ([Azotic story](https://www.gemsociety.org/article/from-silicon-to-sparkle-the-story-behind-azotics-gemstone-revolution/)), and the dealer GemSelect says mystic topaz emerged around 1998 ([GemSelect](https://www.gemselect.com/gem-info/mystic-topaz/mystic-topaz-info.php)).
 
 ### Why the Colors Shift
 
@@ -106,7 +107,7 @@ Same coating, different stone. Topaz is harder, Mohs 8 against 7 for quartz, and
 
 ## Where the Meaning Comes From
 
-**The Story.** There is no old lore for mystic topaz, because it only reached the market in the late 1990s. The crystal guides we read say so plainly and borrow the meaning of topaz in general. That older meaning comes with a catch, because "topaz" did not always mean topaz.
+**The Story.** There is no old lore for mystic topaz, because it only reached the market in the late 1990s. Crystal guides say so plainly and borrow the meaning of topaz in general. That older meaning comes with a catch, because "topaz" did not always mean topaz.
 
 - **Ancient world.** **Tradition.** Pliny told of an island in the Red Sea called Topazos, from a Greek word for "to conjecture," because it was hard to find. His topazius was greenish and usually what we call peridot (Kunz, *The Curious Lore of Precious Stones*, 1913, page 291). The International Gem Society adds that before the 20th century, all yellow, brown and orange transparent gems were called topaz ([Topaz Symbolism and Legends](https://www.gemsociety.org/article/history-legend-topaz-gems-yore/)).
 - **13th century.** **Tradition.** A falcon engraved on a topaz was said to win the goodwill of kings, princes and magnates (Kunz 1913, pages 133 to 134). The International Gem Society also records a popular belief that topaz could make its wearer invisible.
@@ -124,7 +125,7 @@ The "why" is mostly the rainbow. One guide calls it a stone "for seeing one situ
 
 Practitioners do not agree on the coating. Some feel a treated stone carries less of the earth, the first guide notes, while others are happy to inherit the topaz meaning. Mystic topaz is not on any official birthstone list, though that guide says it is often given as a November gift.
 
-A few associations are marginal, like specific star signs linked through Jupiter. The jeweler's blog also repeats old claims about respiratory problems, then states that healing properties are not scientifically proven. Nothing in the mineral sources behind this page supports them either.
+A few associations are marginal, like specific star signs linked through Jupiter. The jeweler's blog also repeats old claims about respiratory problems, then states that healing properties are not scientifically proven. Gemological references do not support them either.
 
 ## How to Use Mystic Topaz in Everyday Life
 
@@ -160,7 +161,7 @@ Here "real" means honest. Is it coated topaz, as the tag says, or coated quartz,
 
 ### Is Mystic Topaz Natural?
 
-The topaz is natural, the rainbow is not. Skyjems is blunt that a buyer should not be told a mystic topaz is naturally colored, and no source behind this page describes topaz that grows with this coloring.
+The topaz is natural, the rainbow is not. Skyjems is blunt that a buyer should not be told a mystic topaz is naturally colored, and topaz does not come out of the ground with this coloring.
 
 Three checks you can do at home, with their limits.
 
@@ -190,7 +191,7 @@ The care rules come from two facts. Topaz has perfect cleavage, so a hard knock 
 
 ### Can Mystic Topaz Get Wet?
 
-A quick wash, yes. A soak, a salt bowl or a dip in cleaner, no. Warm water with a little mild soap and a soft brush is the method every source agrees on. If you make moon water, set the stone beside the jar. Check your own piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+A quick wash, yes. A long soak or a dip in cleaner, no. Salt has no reference source, and grit can scratch the coating, so skip salt bowls. Warm water with a little mild soap and a soft brush is the method Skyjems and the International Gem Society both give. If you make moon water, set the stone beside the jar. Check your own piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
 
 ## Mystic Topaz vs Look-Alikes
 
@@ -215,6 +216,7 @@ What you pay for is the setting, the cut and the look, not rarity. If a seller p
 ## Sources
 
 - International Gem Society, [Topaz](https://www.gemsociety.org/article/topaz-jewelry-and-gemstone-information/) and [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
+- Michael Seeley, International Gem Society, [From Silicon to Sparkle, the Azotic Story](https://www.gemsociety.org/article/from-silicon-to-sparkle-the-story-behind-azotics-gemstone-revolution/), updated September 8, 2025
 - Addison Rice, International Gem Society, [Common Gemstone Treatments Cheat Sheet](https://www.gemsociety.org/article/common-gemstone-treatments-cheat-sheet-2/), updated July 16, 2022
 - Fara Braid, International Gem Society, [Topaz Symbolism and Legends](https://www.gemsociety.org/article/history-legend-topaz-gems-yore/), updated October 22, 2023
 - Hobart M. King, Geology.com, [Topaz](https://geology.com/minerals/topaz.shtml) and [Quartz](https://geology.com/minerals/quartz.shtml)

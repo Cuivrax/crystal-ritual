@@ -1,0 +1,20 @@
+---
+import { FOOTER_NAV, SITE_NAME, TAGLINE, DISCLAIMER, pathOf } from '../lib/nav.mjs';
+import { getSite } from '../lib/site.mjs';
+const site = await getSite();
+const items = FOOTER_NAV.map((n) => ({ ...n, built: site.isBuilt(pathOf(n.href)) }));
+---
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <p class="name">{SITE_NAME}</p>
+        <p>{TAGLINE}</p>
+      </div>
+      <nav class="footer-nav" aria-label="Footer">
+        {items.map((n) => n.built ? <a href={n.href}>{n.label}</a> : <span class="is-off">{n.label}</span>)}
+      </nav>
+    </div>
+    <p class="footer-note">{DISCLAIMER}</p>
+  </div>
+</footer>

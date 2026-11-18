@@ -12,7 +12,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-06"
 publishTime: "07:00"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gia.edu/amethyst/gem-overview"
@@ -29,6 +29,10 @@ sources:
   - "https://www.americangemsociety.org/birthstones/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
+  - "https://doi.org/10.1016/j.xcrm.2022.100895"
+  - "https://openlibrary.org/books/OL8788839M"
+  - "https://crystalmagic.com/products/amethyst_tumbled"
+  - "https://www.crystals.com/collections/amethyst?page=1"
   - "https://www.crystals.com/blogs/news/amethyst-meaning"
   - "https://www.firemountaingems.com/learn/categories/essential-resources/gemstone-meanings/amethyst-meanings.html"
   - "https://otherworldlyoracle.com/amethyst-properties/"
@@ -57,8 +61,8 @@ Amethyst is the purple variety of quartz, colored by traces of iron and natural 
 | Heat | Avoid |
 | Salt | Unknown |
 | Toxic to handle | No. Cutting dust is a silica hazard |
-| Common fakes | Lab-grown rough sold as natural, purple chalcedony sold as "amethyst" |
-| Price range | Affordable [TO CHECK US retail ranges] |
+| Common fakes | Lab-grown rough sold as natural, purple chalcedony sold as "amethyst", purple glass |
+| Price range | Affordable (see Price Guide) |
 | Birthstone | February, plus the 6th and 17th anniversaries |
 | Chakra (Modern Association) | Crown, often third eye |
 
@@ -98,17 +102,17 @@ Brazil gives large stones of generally moderate color, while many gem lovers pre
 - **Early Christianity.** **Tradition.** Amethyst is the twelfth foundation stone of the New Jerusalem in Revelation (Kunz 1913, page 303). Kunz also passes on the story that St. Valentine wore an amethyst ring engraved with Cupid, doubtful but "by no means impossible" (page 257).
 - **15th century.** **Tradition.** Camillo Leonardi, whom GIA calls an astrologer, wrote that amethyst controls evil thoughts, quickens the intelligence and makes men shrewd in business. It also sobered people "over-excited by the love-passion" and kept soldiers from harm (Kunz 1913, page 58). Kunz calls him simply Leonardo, and some modern sites credit the same lines to Leonardo da Vinci.
 - **1576, France.** **Tradition.** The tale of the maiden Amethyst, turned to white stone by Diana to escape Bacchus and stained violet by his wine, is often told as Greek myth. The International Gem Society credits it to the French poet Remy Belleau in 1576, and Kunz knew it from "French verse" (1913, pages 58 to 59).
-- **Today.** **Modern Association.** Geology.com calls amethyst an important New Age gem. Most modern guides place it on the crown chakra, with the third eye close behind, and one sends readers to Judy Hall's *The Crystal Bible* [TO CHECK publication year].
+- **Today.** **Modern Association.** Geology.com calls amethyst an important New Age gem. Most modern guides place it on the crown chakra, with the third eye close behind, and one sends readers to Judy Hall's *The Crystal Bible* (2003).
 
 ## What People Use Amethyst for Today
 
-**Modern Association.** In the crystal guides we compared, amethyst is a Classic stone for [sleep](/crystals-for/sleep/), for focus and for protection, and calm comes up almost everywhere. The "why" is easy to trace. The sober stone of the Greeks became a clear-head stone, and a clear head became a calm one. The dream link may be the oldest thread, if Kunz's reading of the Hebrew name is right.
+**Modern Association.** In modern crystal guides, amethyst is a Classic stone for [sleep](/crystals-for/sleep/), for focus and for protection, and calm comes up almost everywhere. The "why" is easy to trace. The sober stone of the Greeks became a clear-head stone, and a clear head became a calm one. The dream link may be the oldest thread, if Kunz's reading of the Hebrew name is right.
 
 ### What Does Amethyst Do?
 
 As a mineral, amethyst is a hard, glassy gem, durable enough for any jewelry (Geology.com). Everything else people say it does is belief, about the person holding it (a calmer evening, a clearer head), so the rituals below focus on habits.
 
-Some associations are marginal, like fairies that dislike its iron. A few sites promise relief from headaches, insomnia or hormone trouble. Nothing in the mineral sources behind this page supports that, and one shop guide we read states plainly that amethyst is not a medical device or treatment.
+Some associations are marginal, like fairies that dislike its iron. A few sites promise relief from headaches, insomnia or hormone trouble. Nothing in the mineral sources behind this page supports that, and one crystal seller states plainly that amethyst is not a medical device or treatment.
 
 ## How to Use Amethyst in Everyday Life
 
@@ -132,7 +136,7 @@ Some associations are marginal, like fairies that dislike its iron. A few sites 
 
 **Try This.** For a [February birthday](/birthstones/february/) or a Valentine, wrap a tumbled amethyst with a card that says what it is (purple quartz, colored by iron and natural radiation) and one line of its story, like the Cupid ring St. Valentine was said to wear.
 
-**What Research Says.** [TO CHECK a peer-reviewed study with DOI on bedtime routines or slow breathing, and say plainly that it did not use stones.] Until then, treat these as personal practices. None of the sources behind this page tested amethyst itself.
+**What Research Says.** In a remote randomized study of 108 adults, five minutes a day of breathing exercises for a month, especially cyclic sighing with its long exhales, improved mood and lowered breathing rate more than the same time spent in mindfulness meditation (Balban and colleagues, 2023, *Cell Reports Medicine*, [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)). It tested breathing, not amethyst or any other stone, and the volunteers knew which exercise they were doing. Treat the habits above as personal practices.
 
 > **When a Stone Is Not Enough.** Amethyst is often chosen for sleep, stress and cutting back on drinking. A stone can be a comfort, but it is not care. If poor sleep, anxiety or worries about drinking last or feel heavy, talk to a doctor, a therapist or a counselor.
 
@@ -143,7 +147,7 @@ We use the same five labels on every stone.
 - **Natural, untreated.** Purple straight from the ground, so abundant and cheap that the International Gem Society sees little incentive to buy synthetics.
 - **Natural, treated.** A stone heated to yellow, orange or green should be sold as citrine or prasiolite. IGS calls this treatment undetectable and very stable.
 - **Lab-grown.** Grown hydrothermally or made by irradiating prepared smoky quartz. Synthetic rough is sometimes sold as natural rough (International Gem Society).
-- **Imitation.** Purple chalcedony, quartz made of microscopic crystals, is often wrongly sold as "amethyst" or "amethyst chalcedony." Purple or lilac chalcedony are the honest names ([Geology.com](https://geology.com/gemstones/amethyst/)). Very dark color alone is no red flag, since dark Siberian purple is the most prized natural grade. [TO CHECK which glass or dyed imitations are sold as amethyst in the US.]
+- **Imitation.** Purple chalcedony, quartz made of microscopic crystals, is often wrongly sold as "amethyst" or "amethyst chalcedony." Purple or lilac chalcedony are the honest names ([Geology.com](https://geology.com/gemstones/amethyst/)). Very dark color alone is no red flag, since dark Siberian purple is the most prized natural grade. Purple glass is the most common and least expensive amethyst simulant, lab-made purple corundum is a more durable and convincing one, and Nanosital, a man-made glass-ceramic, imitates it too (Geology.com).
 - **Trade names.** "Siberian" is a color grade, no longer an origin, and "Rose de France" means very light amethyst. "Madeira," "Palmyra" and "Spanish" topaz are misleading names sometimes given to heated amethyst. "Oriental amethyst" is violet sapphire, and "lithia amethyst" is kunzite (International Gem Society).
 
 Three checks you can do at home, with their limits.
@@ -162,7 +166,7 @@ Orange geodes are no exception. Almost all citrine geodes are found with amethys
 
 ### Is a Big Geode or a Chevron Piece Real?
 
-Usually, yes. Amethyst geodes are among the most common geological items for sale, and many tons sell at the Tucson Gem and Mineral Show alone (Geology.com). Big real pieces are normal, and chevron amethyst is genuine amethyst banded with white quartz. [TO CHECK whether dyed agate geodes are sold as amethyst.]
+Usually, yes. Amethyst geodes are among the most common geological items for sale, and many tons sell at the Tucson Gem and Mineral Show alone (Geology.com). Big real pieces are normal, and chevron amethyst is genuine amethyst banded with white quartz.
 
 <!-- PHOTO 3, beside the geode section. Wikimedia Commons, "File Amethyst geode (South America) (32935201091).jpg", by James St. John, public display at the Montana Bureau of Mines and Geology Mineral Museum. Page https://commons.wikimedia.org/wiki/File:Amethyst_geode_(South_America)_(32935201091).jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Amethyst_geode_%28South_America%29_%2832935201091%29.jpg/1280px-Amethyst_geode_%28South_America%29_%2832935201091%29.jpg (tracking parameters removed). License CC BY 2.0. Credit line "Photo James St. John, CC BY 2.0, via Wikimedia Commons". visual_check ok. Alt text "Cut amethyst geode slice from South America with a dark purple crystal center". -->
 
@@ -181,7 +185,7 @@ Usually, yes. Amethyst geodes are among the most common geological items for sal
 
 ### Can Amethyst Go in the Sun?
 
-Briefly, yes, but a sunny windowsill is the wrong home for it. GIA says some amethyst color can fade with prolonged exposure to intense light, so our Care Checker rates sun as Brief only. Our sources give no number of hours and do not say how much a window or blind helps, so treat any long spell in direct sun as the risk.
+Briefly, yes, but a sunny windowsill is the wrong home for it. GIA says some amethyst color can fade with prolonged exposure to intense light, so our Care Checker rates sun as Brief only. GIA gives no number of hours and no word on how much a window or blind helps, so treat any long spell in direct sun as the risk.
 
 A faded stone is not proof of a fake, since real amethyst can fade, and our sources describe no way for a dark drawer to bring the color back. If a stone paled, strong light is the usual suspect, and heat is the other one to avoid.
 
@@ -202,7 +206,9 @@ The same goes for the amethyst-infused drinking water some guides suggest. Keep 
 
 Even fine amethyst has a modest price tag, and GIA notes that the price per carat does not rise dramatically with size. Value depends almost entirely on color, with dark "Siberian" purple at the top, and since the stone is plentiful, there is little reason to pay top dollar for visible inclusions (International Gem Society).
 
-Pricing a big Uruguayan geode? Geodes are mostly sold by weight (Geology.com), and our sources give no price lists. [TO CHECK typical US retail ranges for tumbled stones, points, geodes, bracelets and faceted stones, with a dated source.]
+Pricing a big Uruguayan geode? Geodes are mostly sold by weight (Geology.com), so size and weight set most of the price.
+
+Small pieces cost little. A small tumbled piece, half an inch to an inch across, was $4 in one listing we found, a Brazilian cluster 2 to 3 inches across started at $15 in another, and a small point 1.5 to 2 inches long started at $18 in a third. These are single listings, not full ranges. Prices from US-dollar listings at online crystal shops in November 2026.
 
 **Next Step.** Choosing a bedroom stone? Compare the usual picks in [crystals for sleep](/crystals-for/sleep/).
 
@@ -214,8 +220,11 @@ Pricing a big Uruguayan geode? Geodes are mostly sold by weight (Geology.com), a
 - Hobart M. King, Geology.com, [Amethyst](https://geology.com/gemstones/amethyst/), [Citrine](https://geology.com/gemstones/citrine/), [Fluorite](https://geology.com/minerals/fluorite.shtml) and [Lepidolite](https://geology.com/minerals/lepidolite.shtml)
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 58 to 59, 257, 297, 303 and 370 to 371, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), page 317, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- Modern associations compared across the crystal guides in our lore collection, including crystals.com, firemountaingems.com, keystonecrystals.com and solacely.co, read November 12, 2026
+- M. Y. Balban and colleagues, *Cell Reports Medicine* (2023), [doi.org/10.1016/j.xcrm.2022.100895](https://doi.org/10.1016/j.xcrm.2022.100895)
+- Judy Hall, *The Crystal Bible* (2003), named as a modern source of meanings
+- Retail prices from US-dollar listings at online crystal shops, read November 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
 
-Last reviewed November 18, 2026.
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

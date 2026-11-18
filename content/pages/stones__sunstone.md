@@ -20,13 +20,16 @@ sources:
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
   - "https://geology.com/gemstones/sunstone/"
   - "https://geology.com/minerals/calcite.shtml"
-  - "https://en.wikipedia.org/wiki/Sunstone"
+  - "https://gia.edu/gems-gemology/spring-2011-chinese-red-feldspar-rossman"
   - "https://doi.org/10.1098/rspa.2011.0369"
   - "https://openpolar.no/Record/crroyalsociety:10.1098%2Frspa.2011.0369"
-  - "https://doi.org/10.1016/j.obhdp.2016.07.004"
-  - "https://ideas.repec.org/a/eee/jobhdp/v137y2016icp71-85.html"
-  - "https://www.samhsa.gov/sites/default/files/988-factsheet.pdf"
-  - "https://www.fcc.gov/988-suicide-and-crisis-lifeline"
+  - "https://doi.org/10.1098/rspa.2012.0651"
+  - "https://doi.org/10.7717/peerj.3363"
+  - "https://988lifeline.org/"
+  - "https://www.samhsa.gov/mental-health/988"
+  - "https://www.gemselect.com/sunstone/2-1-carat-orange-sunstone-round-loose-natural-gemstone-india-482245.php"
+  - "https://www.gemselect.com/sunstone/4-06-carat-orange-sunstone-round-loose-natural-gemstone-india-511218.php"
+  - "https://www.gemselect.com/sunstone/3-73-carat-orange-sunstone-oval-loose-natural-gemstone-india-514400.php"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
   - "https://www.americangemsociety.org/birthstones/"
@@ -67,7 +70,7 @@ Sunstone is a feldspar that glitters, because thin flat flakes of copper or hema
 | Zodiac (Modern Association) | Leo in many guides, sometimes Libra or Aries |
 | Chakra (Modern Association) | Sacral and solar plexus |
 
-> **Is It Real? Quick Checks.** Tilt the stone under a lamp. True sunstone flashes when you move the stone, the light or your eye. Goldstone glass glitters too, and our sources give no reliable home test for it, so ask the seller what the material is. Natural versus treated color is a question for a gem lab.
+> **Is It Real? Quick Checks.** Tilt the stone under a lamp. True sunstone flashes when you move the stone, the light or your eye. Goldstone glass glitters too, and we know of no reliable home test to separate the two, so ask the seller what the material is. Natural versus treated color is a question for a gem lab.
 
 ## What Sunstone Actually Is
 
@@ -101,7 +104,7 @@ In Norway, sunstone occurs as masses in quartz veins at Tvedestrand and Hitterö
 
 **The Story.** The sun in sunstone is all about that flash, which reminded people of sunlight, so the stone was believed to carry the sun's warmth and good fortune (International Gem Society). Here is what each era actually left in writing.
 
-- **Norse legend, undated.** **Tradition.** Some believe sunstone served Norse sailors as a "sun compass" to locate the sun on cloudy days (International Gem Society). In 2011, researchers led by Guy Ropars proposed that a clear crystal of Iceland spar could have served as such a sun locator ([DOI 10.1098/rspa.2011.0369](https://doi.org/10.1098/rspa.2011.0369)). That remains a hypothesis, since it shows what such a crystal could do, not that Norse sailors used one. Iceland spar is transparent calcite ([Geology.com](https://geology.com/minerals/calcite.shtml)), not feldspar. So the sunstone of Norse legend and the sunstone in your bracelet may share only a name.
+- **Norse legend, undated.** **Tradition.** Some believe sunstone served Norse sailors as a "sun compass" to locate the sun on cloudy days (International Gem Society). In 2011, lab experiments led by Guy Ropars found that a rotated crystal of Iceland spar can find the sun's direction within a few degrees, even in dim twilight ([DOI 10.1098/rspa.2011.0369](https://doi.org/10.1098/rspa.2011.0369)). In 2013, Albert Le Floch and colleagues showed that a calcite crystal recovered from the 1592 Alderney shipwreck could have worked as an optical sun compass ([DOI 10.1098/rspa.2012.0651](https://doi.org/10.1098/rspa.2012.0651)). Together the papers show that a sunstone was physically possible for navigation, not that Vikings used one. Iceland spar is transparent calcite ([Geology.com](https://geology.com/minerals/calcite.shtml)), not feldspar. So the sunstone of Norse legend and the sunstone in your bracelet may share only a name.
 - **Undated, Oregon.** **Tradition.** Native Americans collected Oregon sunstone, traded it widely and sometimes buried it with the dead (Geology.com).
 - **1500s, Rome.** **Tradition.** Pope Clement VII was said to own a stone with a golden spot that moved across it in step with the sun across the sky. Kunz calls the tale one of the "undoubtedly fables" spread to boost the fame of two fine stones, a moonstone and a sunstone, in the papal treasury (*The Magic of Jewels and Charms*, 1915, pages 386 to 387).
 - **1800s to 1900s.** Russian deposits near Lake Baikal were mined in the early 1800s and Norwegian ones later that century. In the early 1900s, Tiffany & Company opened the first commercial US sunstone mine near Plush, Oregon, and called the clear stones "Plush Diamonds" (Geology.com).
@@ -110,13 +113,13 @@ In Norway, sunstone occurs as masses in quartz veins at Tvedestrand and Hitterö
 
 ### What About Greek Sun Gods & Warrior Legends?
 
-You will find pages saying the ancient Greeks dedicated sunstone to Helios or Apollo, that it fell from the sun during an eclipse, or that a wounded warrior's blood turned Oregon's stones red. None of the reference sources or old texts behind this page record those stories, so treat them as modern retellings.
+You will find pages saying the ancient Greeks dedicated sunstone to Helios or Apollo, that it fell from the sun during an eclipse, or that a wounded warrior's blood turned Oregon's stones red. We found no reference work or old text that records those stories, so treat them as modern retellings.
 
 Old books also use the word loosely. In Kunz's summary of a medieval Spanish lapidary, the ruby is "more especially a sunstone," a stone ruled by the Sun (*The Curious Lore of Precious Stones*, 1913, page 348). That is astrology, not feldspar.
 
 ## What People Use Sunstone for Today
 
-**Modern Association.** In the crystal guides we compared, sunstone is a Classic stone for [confidence](/crystals-for/confidence/) and Widely Linked to money and abundance. Joy, leadership and courage come close behind. Most guides place it on the sacral or solar plexus chakra, many pair it with Leo, though one large encyclopedia ties it to no zodiac sign at all. Fire is the usual element.
+**Modern Association.** In modern crystal guides, sunstone is a Classic stone for [confidence](/crystals-for/confidence/) and Widely Linked to money and abundance. Joy, leadership and courage come close behind. Most guides place it on the sacral or solar plexus chakra, many pair it with Leo, though one large encyclopedia ties it to no zodiac sign at all. Fire is the usual element.
 
 The "why" is easy to trace. A warm orange stone that throws sparks reads as sunlight, and sunlight reads as energy and good cheer.
 
@@ -150,7 +153,7 @@ Moonstone is the partner guides name most often, sun and moon, action and reflec
 
 **Safety.** Small tumbled stones and bead bracelets are not toys. Keep them away from small children and pets who might swallow them.
 
-**What Research Says.** In 2016 experiments, Alison Wood Brooks and colleagues found that a short ritual before a stressful task lowered anxiety, measured by self-report and physiologically, and improved performance, more so when people called it a ritual rather than random behavior ([DOI 10.1016/j.obhdp.2016.07.004](https://doi.org/10.1016/j.obhdp.2016.07.004)). The study tested rituals in general, not stones, so applying it to a pocket sunstone is our extrapolation.
+**What Research Says.** In a small 2017 experiment with 48 mostly undergraduate participants, Nicholas Hobson and colleagues found that people who practiced an invented ritual at home for a week then showed a smaller brain response to their own mistakes on a task, though they performed no better ([DOI 10.7717/peerj.3363](https://doi.org/10.7717/peerj.3363)). Their self-reported feelings did not change and no stone was involved, so tying this to a pocket sunstone is our extrapolation.
 
 > **When a Stone Is Not Enough.** Sunstone is sometimes sold as a cure for winter blues. A bright stone on the sill can be a nice cue, but it is not care. If low mood, poor sleep or low energy lasts or feels heavy, talk to a doctor or a therapist. If you are in crisis in the US, call or text 988, or chat at [988lifeline.org](https://988lifeline.org).
 
@@ -159,8 +162,8 @@ Moonstone is the partner guides name most often, sun and moon, action and reflec
 We use the same five labels on every stone.
 
 - **Natural, untreated.** Oregon sunstone is not treated to improve its appearance, according to [GIA's buyer's guide](https://www.gia.edu/sunstone/buyers-guide).
-- **Natural, treated.** GIA adds that pale feldspar from other areas might be enhanced to improve its color. Wikipedia reports that red and green "andesine" sold like sunstone in the early 2000s, allegedly from China, was later found to be mostly colored by copper diffusion ([Wikipedia](https://en.wikipedia.org/wiki/Sunstone), which we use as a pointer only). GIA researchers have also published on copper-diffused labradorite and andesine (2023).
-- **Lab-grown.** [TO CHECK whether synthetic sunstone is sold. No source behind this page covers it.]
+- **Natural, treated.** GIA adds that pale feldspar from other areas might be enhanced to improve its color. In the early 2000s, copper-bearing feldspar like Oregon's was reported from new sources in Congo, Tibet or elsewhere in China, and its origin and natural color were widely questioned. A research chronology in *Gems & Gemology* concluded that much of the red andesine on the market was pale yellow andesine from Inner Mongolia with copper diffused into it in a lab ([Gems & Gemology, Spring 2011](https://gia.edu/gems-gemology/spring-2011-chinese-red-feldspar-rossman)). GIA researchers have also published on copper-diffused labradorite and andesine (2023).
+- **Lab-grown.** We found no reference source describing lab-grown sunstone for sale. The glittery stand-in you are likely to meet is goldstone, which is glass, so it belongs under imitation.
 - **Imitation.** Goldstone, a glass with small flat copper crystals, is the common imitation buyers should know about (GIA). See [is goldstone real](/real-or-fake/goldstone/) for its own story.
 - **Trade name.** See the box below.
 
@@ -170,7 +173,7 @@ Three checks you can do at home, with their limits.
 
 1. **Tilt it.** Move the stone, the lamp or your head. Aventurescent sunstone flashes at a matching angle (Geology.com). This shows the flash only, not that the stone is natural, and goldstone glitters too.
 2. **Use a 10x loupe.** Geology.com notes that you can see that the flakes in Indian sunstone are not copper. This tells you the inclusion type, not whether the color was treated.
-3. **Look for color zones.** Natural Oregon stones can shade from pink to orange or show green beside red (Geology.com). Zoning fits a natural stone, but our sources do not say a treated stone can never show it.
+3. **Look for color zones.** Natural Oregon stones can shade from pink to orange or show green beside red (Geology.com). Zoning fits a natural stone, but that does not mean a treated stone can never show it.
 
 Three questions to ask the seller.
 
@@ -192,20 +195,20 @@ Three questions to ask the seller.
 
 ### Can Sunstone Go in the Sun?
 
-Nobody in our sources says yes or no yet. Guides often charge sunstone in sunlight, which fits the name, while a couple warn that long exposure may discolor it. Our [Care Checker](/tools/crystal-care-checker/) shows sun as Unknown, so until a reference source covers it, keep sun sessions short and skip the hot windowsill.
+Gem reference works do not settle it yet. Guides often charge sunstone in sunlight, which fits the name, while a couple warn that long exposure may discolor it. Our [Care Checker](/tools/crystal-care-checker/) shows sun as Unknown, so until a reference source covers it, keep sun sessions short and skip the hot windowsill.
 
 ## Sunstone vs Look-Alikes
 
 - **Goldstone.** Glass with copper crystals, the imitation GIA warns about, not feldspar at all.
 - **Moonstone.** A feldspar cousin (GIA) and the usual partner in sun and moon pairings.
 - **Labradorite.** Oregon sunstone is itself labradorite with copper inclusions (International Gem Society).
-- **Andesine.** Red or green feldspar sold like sunstone, reportedly much of it copper-diffused (see above).
+- **Andesine.** Red andesine feldspar, much of it on the market colored by copper diffused into pale stones (see above).
 
 ## Price Guide
 
 Sunstone fits almost any budget. Small cabochons with a pleasant orange color and good flash can cost under $50, while nicely faceted bright red and bicolor stones can sell for over $1,000 per carat. Price climbs from colorless and yellow through pink, orange and red, and transparent stones with strong flash cost the most (Geology.com). GIA names deep red, deep green and intense bicolors as the most sought-after colors, and large carved stones are rare.
 
-[TO CHECK typical US retail ranges for tumbled stones, raw pieces and bead bracelets, with a dated source.]
+In the listings we checked, round and oval faceted orange sunstones of about 2 to 4 carats ran about $13 to $37 a stone. Prices from US-dollar listings at an online gem dealer in November 2026.
 
 **Next Step.** Building a small set around a goal? See how sunstone sits with pyrite and citrine in [crystals for money and abundance](/crystals-for/money/).
 
@@ -214,14 +217,16 @@ Sunstone fits almost any budget. Small cabochons with a pleasant orange color an
 - Gemological Institute of America, [Sunstone](https://www.gia.edu/sunstone/gem-overview) and [Sunstone Buyer's Guide](https://www.gia.edu/sunstone/buyers-guide), including its 2023 research listing on copper-diffused plagioclase by Zhou, Wang and Shen
 - International Gem Society, [Sunstone](https://www.gemsociety.org/article/sunstone/) and [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Hobart M. King, Geology.com, [Sunstone](https://geology.com/gemstones/sunstone/) and [Calcite](https://geology.com/minerals/calcite.shtml)
+- George R. Rossman, "The Chinese Red Feldspar Controversy, Chronology of Research Through July 2009," *Gems & Gemology*, Spring 2011, [GIA](https://gia.edu/gems-gemology/spring-2011-chinese-red-feldspar-rossman)
 - Guy Ropars and colleagues, "A Depolarizer as a Possible Precise Sunstone for Viking Navigation by Polarized Skylight," *Proceedings of the Royal Society A*, 2011, [DOI 10.1098/rspa.2011.0369](https://doi.org/10.1098/rspa.2011.0369)
-- Alison Wood Brooks and colleagues, "Don't Stop Believing," *Organizational Behavior and Human Decision Processes* 137, 2016, pages 71 to 85, [DOI 10.1016/j.obhdp.2016.07.004](https://doi.org/10.1016/j.obhdp.2016.07.004)
+- Albert Le Floch and colleagues, "The Sixteenth Century Alderney Crystal, a Calcite as an Efficient Reference Optical Compass?" *Proceedings of the Royal Society A*, 2013, [DOI 10.1098/rspa.2012.0651](https://doi.org/10.1098/rspa.2012.0651)
+- Nicholas M. Hobson, Devin Bonk and Michael Inzlicht, "Rituals Decrease the Neural Response to Performance Failure," *PeerJ*, 2017, [DOI 10.7717/peerj.3363](https://doi.org/10.7717/peerj.3363)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), page 348, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 386 to 387, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- Wikipedia, [Sunstone](https://en.wikipedia.org/wiki/Sunstone), used as a pointer only
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
-- 988 Suicide and Crisis Lifeline contact details from [SAMHSA](https://www.samhsa.gov/sites/default/files/988-factsheet.pdf) and the [FCC](https://www.fcc.gov/988-suicide-and-crisis-lifeline)
-- Modern associations compared across the crystal guides in our lore collection, including crystalvaults.com, crystalgemstones.net, energymuse.com and lebensquelle-plus.de, read November 13, 2026
+- 988 Suicide & Crisis Lifeline contact details from [988lifeline.org](https://988lifeline.org/) and [SAMHSA](https://www.samhsa.gov/mental-health/988)
+- Prices from US-dollar listings at an online gem dealer, November 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

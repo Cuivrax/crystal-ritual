@@ -130,7 +130,7 @@ export async function renderDocument(page, ctx) {
   }
 
   // Finish, drop the hidden link markers and stringify.
-  const finish = (nodes) => { const r = { type: 'root', children: nodes }; unwrapHidden(r); return html(r.children); };
+  const finish = (nodes) => { const r = { type: 'root', children: nodes }; if (!ctx.keepHidden) unwrapHidden(r); return html(r.children); };
   out.intro = finish(out.introNodes);
   for (const s of out.sections) {
     s.headingHtml = finish(s.heading.children);

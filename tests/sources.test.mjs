@@ -86,7 +86,7 @@ test('crystal guide items become one line linking to /sources/, once per page', 
 
 test('the guides line follows the hidden-link rule when /sources/ is not built', async () => {
   const { out } = await sourcesOf(SAMPLE, new Set());
-  assert.match(out, /rated on our five-step scale, see How We Rate/);
+  assert.match(out, /rated on our five-facet scale, see How We Rate/);
   assert.doesNotMatch(out, /href="\/sources\/"/);
 });
 

@@ -1,0 +1,34 @@
+---
+import Body from './Body.astro';
+import { badge } from '../lib/ui.mjs';
+const { sections = [], page, skip = [], plainBands = false } = Astro.props;
+const list = sections.filter((s) => !skip.includes(s.kind));
+---
+{list.map((s) => (
+  <section class={['section', `kind-${s.kind}`, plainBands ? '' : s.band].filter(Boolean).join(' ')} aria-labelledby={s.id}>
+    <div class="wrap">
+      {s.layout === 'price' ? (
+        <div class="price-row">
+          <div class="card">
+            <h2 class="section-title" id={s.id} set:html={s.headingHtml} />
+            <div class="prose"><Body html={s.html} page={page} /></div>
+          </div>
+          {s.extraHtml && <Fragment set:html={s.extraHtml} />}
+        </div>
+      ) : (
+        <Fragment>
+          {s.badge && <p class="section-badge" set:html={badge(s.badge)} />}
+          <h2 class="section-title" id={s.id} set:html={s.headingHtml} />
+          {s.layout === 'split' && s.asideHtml ? (
+            <div class="split">
+              <div class="prose"><Body html={s.html} page={page} /></div>
+              <aside class="side" set:html={s.asideHtml} />
+            </div>
+          ) : (
+            <div class={['prose', s.layout ? `layout-${s.layout}` : ''].filter(Boolean).join(' ')}><Body html={s.html} page={page} /></div>
+          )}
+        </Fragment>
+      )}
+    </div>
+  </section>
+))}

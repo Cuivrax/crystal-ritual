@@ -44,7 +44,7 @@ sources:
   - "https://www.gemsociety.org/article/obsidian-jewelry-and-gemstone-information/"
   - "https://geology.com/gemstones/moonstone/"
   - "https://www.gia.edu/rose-quartz/gem-overview"
-  - "https://cnmnc.units.it/files/editor/IMA_Master_List_%282026-07%29.pdf"
+  - "https://cnmnc.units.it/"
   - "https://www.theosophical.org/publications/quest-magazine/the-rainbow-body-how-the-western-chakra-system-came-to-be"
   - "https://commons.wikimedia.org/wiki/File:Amethyst_Rio_Grande_do_Sul_Min%C3%A9raux_SU_n02.jpg"
 ---
@@ -103,7 +103,7 @@ The honest way to sort types of crystals is by what each one is, and every stone
 | Treated | A real stone changed by heat, dye or a coating | Aqua aura quartz, quartz with a metal coating |
 | Trade name | A selling name that hides what the stone is | Rainbow moonstone, Herkimer diamond |
 
-The International Mineralogical Association's list of July 2026 recognizes 6,226 mineral species ([IMA](https://cnmnc.units.it/files/editor/IMA_Master_List_%282026-07%29.pdf)). Many of the best-loved stones are not on it, because they are varieties, rocks, glasses or organic gems.
+The International Mineralogical Association's list of July 2026 recognizes 6,226 mineral species ([IMA CNMNC](https://cnmnc.units.it/)). Many of the best-loved stones are not on it, because they are varieties, rocks, glasses or organic gems.
 
 ## Start With These Stones
 
@@ -125,12 +125,11 @@ The International Mineralogical Association's list of July 2026 recognizes 6,226
 - GIA, [Amethyst](https://www.gia.edu/amethyst/gem-overview), [Citrine](https://www.gia.edu/citrine/gem-overview), [Rose Quartz](https://www.gia.edu/rose-quartz/gem-overview), [Moonstone](https://www.gia.edu/moonstone/gem-overview), [Opal](https://www.gia.edu/opal/gem-overview), [Amber](https://www.gia.edu/amber/gem-overview) and [Pearl](https://www.gia.edu/pearl/gem-overview)
 - International Gem Society, [Amethyst](https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/), [Chrysoprase](https://www.gemsociety.org/article/chrysoprase-gem-information/), [Rose Quartz](https://www.gemsociety.org/article/rose-quartz/), [Moonstone](https://www.gemsociety.org/article/moonstone-jewelry-gem-information/), [Gypsum](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/), [Tourmaline](https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/), [Hematite](https://www.gemsociety.org/article/hematite-jewelry-and-gemstone-information/) and [Obsidian](https://www.gemsociety.org/article/obsidian-jewelry-and-gemstone-information/)
 - Hobart M. King, Geology.com, [Amethyst](https://geology.com/gemstones/amethyst/), [Herkimer Diamonds](https://geology.com/articles/herkimer-diamonds.shtml), [Jade](https://geology.com/gemstones/jade/), [Obsidian](https://geology.com/rocks/obsidian.shtml), [Moldavite](https://geology.com/gemstones/moldavite/), [Moonstone](https://geology.com/gemstones/moonstone/), [Sunstone](https://geology.com/gemstones/sunstone/), [Calcite](https://geology.com/minerals/calcite.shtml) and [Fluorite](https://geology.com/minerals/fluorite.shtml)
-- Stonemania, [Jasper Stone](https://www.stonemania.co.uk/crystals/i-j/jasper-stone), a dealer guide
-- IMA Commission on New Minerals, Nomenclature and Classification, [The New IMA List of Minerals](https://cnmnc.units.it/files/editor/IMA_Master_List_%282026-07%29.pdf), updated July 2026
+- IMA Commission on New Minerals, Nomenclature and Classification, [official site](https://cnmnc.units.it/), home of the IMA List of Minerals (our figures come from the July 2026 edition)
 - Kurt Leland, [The Rainbow Body, How the Western Chakra System Came to Be](https://www.theosophical.org/publications/quest-magazine/the-rainbow-body-how-the-western-chakra-system-came-to-be), *Quest* 105.2 (Spring 2017), pp. 25 to 29
-- Facet ratings from the crystal guides in our lore collection, read November 2026, method on [Sources & Methods](/sources/#how-we-rate)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 - Photo, Marie-Lan Taÿ Pamart, CC BY 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amethyst_Rio_Grande_do_Sul_Min%C3%A9raux_SU_n02.jpg)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

@@ -1,0 +1,41 @@
+---
+// Directory hubs (/stones/, /birthstones/, /zodiac/, /crystals-for/ ...), they list only published children.
+import Base from '../../layouts/Base.astro';
+import Breadcrumbs from '../Breadcrumbs.astro';
+import Sections from '../Sections.astro';
+import Body from '../Body.astro';
+import AuthorBox from '../AuthorBox.astro';
+import Sources from '../Sources.astro';
+import { childrenOf } from '../../lib/site.mjs';
+import { breadcrumbsFor, ogImageFrom, citationsFor, shortName } from '../../lib/page-meta.mjs';
+const { page, doc, site } = Astro.props;
+const crumbs = breadcrumbsFor(page, site);
+const hasAtlas = doc.slots.includes('atlas');
+const children = hasAtlas ? [] : childrenOf(site, page.url);
+---
+<Base page={page} title={page.data.title} description={page.data.description} url={page.url} image={ogImageFrom(doc.heroHtml)} breadcrumbs={crumbs} citations={citationsFor(page)}>
+  <div class="wrap"><Breadcrumbs items={crumbs} /></div>
+  <section class="wrap page-hero">
+    <div class={['hero-grid', doc.heroHtml ? 'photo-first' : 'no-photo'].join(' ')}>
+      {doc.heroHtml && <div class="hero-figure"><div class="arch"><div class="arch-frame" aria-hidden="true"></div><Fragment set:html={doc.heroHtml} /></div></div>}
+      <div class="hero-text">
+        <h1 class="page-title">{page.data.h1}</h1>
+        {doc.lead && <p class="lead" set:html={doc.lead} />}
+      </div>
+    </div>
+  </section>
+  {doc.intro && <div class="wrap section-intro"><div class="prose"><Body html={doc.intro} page={page} /></div></div>}
+  {children.length > 0 && (
+    <section class="section band-soft" aria-labelledby="in-this-section">
+      <div class="wrap">
+        <h2 class="section-title" id="in-this-section">In This Section</h2>
+        <div class="child-grid">
+          {children.map((c) => <a class="child-card" href={c.url}><span class="child-title">{c.data.h1}</span><span class="child-text">{c.data.description}</span></a>)}
+        </div>
+      </div>
+    </section>
+  )}
+  <Sections sections={doc.sections} page={page} />
+  <AuthorBox text={doc.authorText} />
+  <Sources html={doc.sources} lastReviewed={doc.lastReviewed} />
+</Base>

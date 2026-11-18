@@ -144,6 +144,10 @@ function factsCard(section, ctx) {
     const text = textOf(r.cell).trim();
     if (/mohs|hardness/.test(low)) mohsRow = text;
     if (/^colou?rs?$/.test(low)) colorsRow = text;
+    if (/^what it is/.test(low) && !/\[TO CHECK/i.test(text)) {
+      const first = text.split(/\.\s|,\s/)[0].replace(/\.$/, '').trim();
+      if (first.length >= 8 && first.length <= 56) section.whatItIs = first;
+    }
     const rule = TILE_RULES.find(([rx]) => rx.test(low));
     const hasMark = /\[TO CHECK/i.test(text);
     if (rule && tiles.length < 5 && text.length <= 70 && !(rule[2] === 'Formula' && text.length > 18)) {
@@ -171,7 +175,10 @@ function factsCard(section, ctx) {
   const parts = [];
   if (tiles.length) parts.push(el('div', { className: ['fact-tiles'] }, tiles.map((t) => t.node)));
   parts.push(el('div', { className: ['facts-row'] }, [
-    el('div', { className: ['facts-list'] }, [el('dl', {}, dl)]),
+    el('details', { className: ['fold', 'facts-fold'], open: true }, [
+      el('summary', {}, [txt('All Quick Facts'), raw(icon('chevron', { size: 18 }))]),
+      el('div', { className: ['facts-list'] }, [el('dl', {}, dl)]),
+    ]),
     ...(real ? [real] : []),
   ]));
 
@@ -376,9 +383,22 @@ function rankedCards(section, ctx) {
   section.layout = 'ranked';
 }
 
+// ------------------------------------------------------------ timeline fold (stone, phone)
+function foldTimeline(section) {
+  const i = section.nodes.findIndex((n) => isEl(n, 'ol') && hasClass(n, 'timeline'));
+  if (i < 0) return;
+  const tl = section.nodes[i];
+  const eras = meaningful(tl.children).map((li) => textOf(meaningful(li.children)[1]?.children?.[0] || {}).trim());
+  const first = eras[0] ? eras[0].replace(/\s*(Tradition|Modern Association|Mineral Fact)$/, '') : '';
+  const last = eras[eras.length - 1] || '';
+  const label = first && /^today/i.test(last) ? `The Timeline, ${titleCase(first.toLowerCase())} to Today` : 'The Timeline';
+  section.nodes[i] = el('details', { className: ['fold', 'tl-fold'], open: true }, [el('summary', {}, [txt(label), raw(icon('chevron', { size: 18 }))]), tl]);
+}
+
 // ------------------------------------------------------------ dispatcher
 export function transformSection(section, ctx) {
   const type = ctx.page.type;
+  if (type === 'home') return; // the home layout maps its sections itself (lib/home.mjs)
   sectionBadge(section);
   if (type === 'stone') {
     section.navLabel = NAV_LABELS[section.kind] || null;
@@ -390,6 +410,7 @@ export function transformSection(section, ctx) {
     if (section.kind === 'price') priceNext(section);
     if (section.kind === 'story' || section.kind === 'care') section.band = 'band-soft';
     if (section.kind === 'ritual') section.band = 'band-white';
+    if (section.kind === 'story') foldTimeline(section);
     return;
   }
   if (['situation', 'month', 'sign'].includes(type)) {

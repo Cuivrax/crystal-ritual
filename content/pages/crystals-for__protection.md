@@ -43,7 +43,7 @@ sources:
   - "https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/"
   - "https://www.gia.edu/amethyst-care-cleaning"
   - "https://www.crystals.com/blogs/news/amethyst-meaning"
-  - "https://en.wikipedia.org/wiki/Chiastolite"
+  - "https://www.parquehistorico.org/images/prensa/quiastolitas2015.pdf"
   - "https://www.crystalvaults.com/crystal-encyclopedia/chiastolite/"
   - "https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/"
   - "https://galleries.com/minerals/silicate/schorl/schorl.htm"
@@ -51,7 +51,7 @@ sources:
   - "https://lebensquelle-plus.de/blogs/magazin/schwarzer-turmalin-wirkung"
   - "https://geology.com/gemstones/smoky-quartz/"
   - "https://en.wikipedia.org/wiki/Smoky_quartz"
-  - "https://doi.org/10.1016/j.obhdp.2016.07.004"
+  - "https://doi.org/10.1177/1088868317734944"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
 ---
@@ -75,7 +75,7 @@ Crystals for protection are stones people wear, carry or set by the front door a
 | 7 | [Amethyst](/stones/amethyst/) | Classic | A soldiers' stone in the 1400s | Can fade in strong light |
 | 8 | [Chiastolite](/stones/chiastolite/) | Classic | The cross stone of pilgrims | Not rated yet |
 
-**How to read the Link column.** We rate each link on five steps, Classic, Widely Linked, Often Linked, Sometimes Linked and Rarely Linked, from what modern crystal guides say. Classic means protection is part of the stone's standard description today. All eight stones rate Classic and appear in the order the guides agree on most. The rating measures a belief, not an effect.
+**How to read the Link column.** We rate each link on our five-facet scale, Classic, Widely Linked, Often Linked, Sometimes Linked and Rarely Linked, from what modern crystal guides say. Classic means protection is part of the stone's standard description today. All eight stones rate Classic and appear in the order the guides agree on most. The rating measures a belief, not an effect.
 
 Before you wash, salt or sun-charge a stone you already own, check it in the [Care Checker](/tools/crystal-care-checker/).
 
@@ -105,7 +105,7 @@ Black stones fill today's protection lists, from obsidian and black agate to bla
 4. **Set it down as you walk in.** Drop your keys in the dish beside the stone every day. The stone marks the line between out there and in here.
 5. **Once a month, wipe the dish.** Reread the card and rewrite it if life has changed.
 
-**Why it helps.** Whatever you believe about the stone, here is what the ritual does for sure. It turns walking through your own door into a moment you notice, and your keys stop disappearing. **What Research Says.** In a series of experiments, Alison Wood Brooks and colleagues found that a short ritual before a stressful task reduced anxiety and improved performance, as long as people saw the actions as a ritual ([Brooks and colleagues, 2016](https://doi.org/10.1016/j.obhdp.2016.07.004)). None of those rituals used stones or doorways, so treat this as a related finding, not proof.
+**Why it helps.** Whatever you believe about the stone, here is what the ritual does for sure. It turns walking through your own door into a moment you notice, and your keys stop disappearing. **What Research Says.** A 2018 review by Nicholas Hobson and colleagues, a narrative look back over earlier ritual research with no participants of its own, proposes that rituals help people steady their emotions, their focus on a goal and their sense of connection to others, through both the physical steps and the meaning people give them ([Hobson and colleagues, 2018](https://doi.org/10.1177/1088868317734944)). It is a framework, not a test, and none of the work it reviews used stones or doorways, so read it as background on why small routines feel steadying, not as proof.
 
 **Safety.** Small tumbled stones are not toys. Keep the dish where young children and pets cannot reach it.
 
@@ -165,7 +165,7 @@ Much cheap "sugilite" is powdered sugilite pressed into a mold with resin, often
 
 ### 8. Chiastolite
 
-**Classic.** [Chiastolite](/stones/chiastolite/) is a variety of andalusite with a dark cross inside, and Kunz explains that its name means a mark like the Greek letter chi and that "the divine symbol it bore served to drive away evil spirits" (1913, page 270). Pilgrims brought pieces home from Santiago de Compostela as amulets or souvenirs, according to [Wikipedia](https://en.wikipedia.org/wiki/Chiastolite).
+**Classic.** [Chiastolite](/stones/chiastolite/) is a variety of andalusite with a dark cross inside, and Kunz explains that its name means a mark like the Greek letter chi and that "the divine symbol it bore served to drive away evil spirits" (1913, page 270). Pilgrims on the Camino Primitivo to Santiago de Compostela collected it as protective amulets for the road, according to a 2015 study by Ramón Jiménez Martínez of Spain's Museo Geominero and Matina Prieto Fernández ([De Re Metallica](https://www.parquehistorico.org/images/prensa/quiastolitas2015.pdf)).
 
 **Try This.** Give one to a friend setting out on a long trip, with a note about the pilgrims.
 
@@ -181,7 +181,7 @@ Black tourmaline is the stone many crystal shops now sell first for protection, 
 
 **Care.** Tourmaline suits everyday jewelry, says the International Gem Society. Our care data has no water, sun or salt rating for black tourmaline yet.
 
-**Smoky Quartz, Too.** [Smoky quartz](/stones/smoky-quartz/) also rates Classic for protection. John Dee's crystal ball in the British Museum is smoky quartz, perhaps chosen because of Scottish superstitions about the stone, Kunz suggests (1913, page 190). Heat lightens its color ([Geology.com](https://geology.com/gemstones/smoky-quartz/)), and Wikipedia adds that UV light can fade it, so keep it off a sunny windowsill.
+**Smoky Quartz, Too.** [Smoky quartz](/stones/smoky-quartz/) also rates Classic for protection. John Dee's crystal ball in the British Museum is smoky quartz, perhaps chosen because of Scottish superstitions about the stone, Kunz suggests (1913, page 190). Heat lightens its color ([Geology.com](https://geology.com/gemstones/smoky-quartz/)), and strong sunlight is often said to fade it, which is why our care data rates sun as one to avoid. Keep it off a sunny windowsill.
 
 ## Grounding & Protection Crystals
 
@@ -199,11 +199,10 @@ Obsidian, smoky quartz and [hematite](/stones/hematite/) rate Classic for both p
 - JCK, [Black Chalcedony](https://www.jckonline.com/magazine-article/black-chalcedony/), trade magazine
 - Amethyst Galleries, [Schorl](https://galleries.com/minerals/silicate/schorl/schorl.htm)
 - US Food and Drug Administration, [Safely Soothing Teething Pain in Infants and Children](https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children), content current as of June 26, 2024
-- Alison Wood Brooks and colleagues, "Don't Stop Believing," *Organizational Behavior and Human Decision Processes* 137 (2016), pages 71 to 85, [doi.org/10.1016/j.obhdp.2016.07.004](https://doi.org/10.1016/j.obhdp.2016.07.004)
-- Dealer and shop guides, used for attributed claims only, [GemSelect](https://gemselect.com/gem-info/cleaning.php), [Gemstones.com](https://gemstones.com/gemopedia/chalcedony), [Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/black-tourmaline)
-- Wikipedia, [Chiastolite](https://en.wikipedia.org/wiki/Chiastolite) and [Smoky quartz](https://en.wikipedia.org/wiki/Smoky_quartz), used for the pilgrim story and the UV note only
-- Modern associations compared across the crystal guides in our lore collection, including crystals.com, crystalvaults.com, mooncatcrystals.com, beadsofcambay.com, mindbodygreen.com and lebensquelle-plus.de, read November 13, 2026
+- Nicholas M. Hobson, Juliana Schroeder, Jane L. Risen, Dimitris Xygalatas and Michael Inzlicht, "The Psychology of Rituals, An Integrative Review and Process-Based Framework," *Personality and Social Psychology Review* 22(3) (2018), pages 260 to 284, [doi.org/10.1177/1088868317734944](https://doi.org/10.1177/1088868317734944)
+- Ramón Jiménez Martínez and Matina Prieto Fernández, "Las quiastolitas del Parque Histórico del Navia, patrimonio mineralógico en el occidente de Asturias," *De Re Metallica* 24 (2015), pages 25 to 32, [PDF](https://www.parquehistorico.org/images/prensa/quiastolitas2015.pdf)
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

@@ -1,0 +1,21 @@
+---
+import Base from '../layouts/Base.astro';
+import { getSite } from '../lib/site.mjs';
+import { icon } from '../lib/ui.mjs';
+const site = await getSite();
+const links = [
+  { label: 'Open the Stone Atlas', href: '/stones/' },
+  { label: 'Find Your Stone', href: '/#find-your-stone' },
+  { label: 'Tonight\'s Moon', href: '/moon/' },
+  { label: 'Crystal Care Checker', href: '/tools/crystal-care-checker/' },
+].filter((l) => site.isBuilt(l.href.split('#')[0]));
+---
+<Base title="Page Not Found | Crystal & Ritual" description="This page does not exist, or it has not been published yet." url="/404/">
+  <section class="wrap notfound">
+    <span style="color: var(--gold)"><Fragment set:html={icon('star', { size: 36 })} /></span>
+    <p class="eyebrow" style="margin-top:18px">Error 404</p>
+    <h1 class="page-title">This Page Is Not Here</h1>
+    <p>The address may be mistyped, or the page has not been published yet. New stone pages go live every week.</p>
+    {links.length > 0 && <div class="btn-row" style="justify-content:center">{links.map((l, i) => <a class={`btn ${i === 0 ? 'btn-primary' : 'btn-secondary'}`} href={l.href}>{l.label}</a>)}</div>}
+  </section>
+</Base>

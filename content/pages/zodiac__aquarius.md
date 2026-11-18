@@ -1,7 +1,7 @@
 ---
-title: "Aquarius Birthstone, Crystals & Where They Come From"
+title: "Aquarius Birthstone, Crystals & Where They Come from"
 description: "Aquarius has no single birthstone. Garnet and amethyst from the month lists, today's angelite and aquamarine, where each link comes from and daily rituals."
-h1: "Aquarius Crystals & Birthstones, Plus Where the Links Come From"
+h1: "Aquarius Crystals & Birthstones, Plus Where the Links Come from"
 url: "/zodiac/aquarius/"
 primary_keyword: "aquarius birthstone"
 secondary_keywords:
@@ -11,7 +11,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-24"
 publishTime: "06:34"
-status: "draft"
+status: "verified"
 page_type: "sign"
 sources:
   - "https://www.gutenberg.org/ebooks/57978"
@@ -41,7 +41,7 @@ sources:
   - "https://crystalgemstones.net/angelite-meaning-and-spiritual-properties.html"
 ---
 
-# Aquarius Crystals & Birthstones, Plus Where the Links Come From
+# Aquarius Crystals & Birthstones, Plus Where the Links Come from
 
 Aquarius has no single official birthstone, because birthstones belong to months and Aquarius runs from about January 20 to February 18. That gives garnet for a January birthday and amethyst for a February one. As a zodiac stone, a 1913 list gives Aquarius the garnet and an old Spanish list the amethyst, while today's crystal guides favor angelite and aquamarine, all beliefs rather than mineral facts.
 
@@ -51,7 +51,7 @@ Aquarius has no single official birthstone, because birthstones belong to months
 
 | | |
 |---|---|
-| Dates | About January 20 to February 18 in modern guides. Kunz's 1913 verse list ran from January 21 to February 21 |
+| Dates | About January 20 to February 18 in modern guides. Kunz's 1913 text runs Aquarius from January 21 to February 20 |
 | Month birthstones | January, garnet. February, amethyst |
 | 1913 zodiac stone | Garnet |
 | Old Spanish list | Amethyst |
@@ -86,7 +86,7 @@ If those dates are right, the Aquarius link for angelite cannot be older than 19
 
 ### Aquamarine
 
-**Often Linked.** Aquamarine is the greenish blue to blue variety of the mineral beryl, and it rates 7.5 to 8 on the Mohs scale ([GIA](https://www.gia.edu/aquamarine/gem-overview)). Trace iron gives it the color ([Geology.com](https://geology.com/gemstones/aquamarine/)). Its name comes from the Latin for seawater, and **Tradition** says it calmed waves and kept sailors safe (GIA). The name does a lot of work here. "Aqua" sits in both words, which is our best guess for the link, since none of the guides we read explains it.
+**Often Linked.** Aquamarine is the greenish blue to blue variety of the mineral beryl, and it rates 7.5 to 8 on the Mohs scale ([GIA](https://www.gia.edu/aquamarine/gem-overview)). Trace iron gives it the color ([Geology.com](https://geology.com/gemstones/aquamarine/)). Its name comes from the Latin for seawater, and **Tradition** says it calmed waves and kept sailors safe (GIA). The name probably does a lot of the work here, since "aqua" sits in both words.
 
 Most aquamarine on sale is gently heated to remove a green tint, and the treatment cannot be detected ([Geology.com](https://geology.com/gemstones/aquamarine/)). Stones sold as "white aquamarine" are most likely colorless beryl, called goshenite ([International Gem Society](https://www.gemsociety.org/article/aquamarine-jewelry-and-gemstone-information/)). Aquamarine is March's birthstone, which makes it a better fit for Pisces birthdays than for Aquarius ones.
 
@@ -104,7 +104,7 @@ Celestite, turquoise, fluorite, azurite and fuchsite each turn up in a few Aquar
 
 Some associations sit at the edge and you can skip them, like amber, which appears in very few Aquarius lists in our collection.
 
-## Where the Aquarius Links Come From
+## Where the Aquarius Links Come from
 
 **The Story.** Aquarius has no famous cameo like Capricorn's, but the old books still leave a trail.
 
@@ -137,7 +137,7 @@ Friendship runs through the old Aquarius garnet like a thread. The zodiac verse 
 
 **Try This.** For an Aquarius born in February, an amethyst covers the birthday and Valentine's week at once. Kunz passes on the story that St. Valentine wore an amethyst ring engraved with a little Cupid, which he calls doubtful but "by no means impossible" (1913, page 257).
 
-**Safety.** Small tumbled stones and bead bracelets are not toys. Keep them away from small children and pets who might swallow them. These are personal practices, and none of the sources behind this page tested a stone.
+**Safety.** Small tumbled stones and bead bracelets are not toys. Keep them away from small children and pets who might swallow them. These are personal practices, not treatments.
 
 ## Caring for Aquarius Stones
 
@@ -157,11 +157,11 @@ These ratings come from our care data, the same data as the [Care Checker](/tool
 
 Amethyst's Brief only rating for sun comes from [GIA](https://www.gia.edu/amethyst-care-cleaning), which says some amethyst can fade with prolonged exposure to intense light. Turquoise is porous, so liquids and cleaning products can damage or recolor it ([Geology.com](https://geology.com/minerals/turquoise.shtml)). Azurite gradually loses its blue in air, heat and light, according to the [International Gem Society](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/). None of these stones belongs in water you drink.
 
-**Next Step.** Born on February 19 or later? Your sign is [Pisces](/zodiac/pisces/). Compare every sign on the [zodiac stones chart](/zodiac/). For the numbers side of an Aquarius birthday, clearnumerology.com covers numerology [TO CHECK target page URL for the clearnumerology.com cross-link].
+**Next Step.** Born on February 19 or later? Your sign is [Pisces](/zodiac/pisces/). Compare every sign on the [zodiac stones chart](/zodiac/).
 
 ## Sources
 
-- George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 257, 313 to 314, 319, 326 to 327, 332, 345, 347 and 353, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
+- George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 257, 313 to 314, 319, 321, 326 to 327, 332, 345, 347 and 353, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and Amanda Butcher, International Gem Society, [History of Birthstones](https://www.gemsociety.org/article/history-of-birthstones/), updated October 3, 2024
 - Gemological Institute of America, [Aquamarine](https://www.gia.edu/aquamarine/gem-overview), [Garnet](https://www.gia.edu/garnet/gem-overview), [Amethyst](https://www.gia.edu/amethyst/gem-overview) and [Amethyst Care and Cleaning](https://www.gia.edu/amethyst-care-cleaning)
 - International Gem Society, [Aquamarine](https://www.gemsociety.org/article/aquamarine-jewelry-and-gemstone-information/), [Tiger's Eye](https://www.gemsociety.org/article/tigers-eye-gem-information/), [Amethyst](https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/), [Celestite](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/), [Fluorite](https://www.gemsociety.org/article/fluorite-jewelry-gemstone-information/) and [Azurite](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/)

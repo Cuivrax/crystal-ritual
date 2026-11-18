@@ -21,6 +21,9 @@ sources:
   - "https://www.gemsociety.org/article/tektite-jewelry-and-gemstone-information/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.simonandschuster.ca/books/The-Book-of-Moldavite/Robert-Simmons/9781644119129"
+  - "https://www.loc.gov/item/89080025/"
+  - "https://openlibrary.org/books/OL8518534M"
+  - "https://www.loc.gov/item/90085000/"
   - "https://www.americangemsociety.org/birthstones/"
   - "https://www.firemountaingems.com/resources/encyclobeadia/gem-notes/j23a"
   - "https://www.crystals.com/blogs/news/moldavite-crystal"
@@ -55,7 +58,7 @@ Moldavite is a green natural glass formed about 15 million years ago, when an as
 | Salt | Unknown, no source yet |
 | Toxic to handle | None known |
 | Common fakes | Green man-made glass, often sold online without disclosure |
-| Price range | [TO CHECK dated US price per gram and per carat] |
+| Price range | Set mostly by size and quality. A big faceted stone at a bargain price is a red flag |
 | Birthstone | None on the modern US list |
 | Zodiac (Modern Association) | "All signs" in guides that name one |
 | Chakra (Modern Association) | Heart, often third eye |
@@ -94,16 +97,16 @@ Size is a clue. Faceted moldavite tops out around 25 carats (International Gem S
 - **1787.** Moldavite was first described scientifically as "chrysolite," or golden stone, a name also used for chrysoberyl, prehnite and peridot. Before it was known as natural glass, it was taken for slag from Bohemian glassmaking (International Gem Society).
 - **1836.** Scientists named it moldavite, after a major source near the Moldau River in Bohemia (International Gem Society). Geology.com lists vltavín as another name.
 - **Late 1800s.** Faceted moldavite was popular in Czech jewelry, often with Czech garnets or small river pearls, until its use faded in the early 1900s, as green bottle glass imitations appeared (*Gems & Gemology*).
-- **Today.** **Modern Association.** Geology.com notes that its impact origin gives moldavite special appeal for New Age, astrological and spiritual practices. The crystal author Robert Simmons gave it a whole book, now titled *The Book of Moldavite*, subtitled *Starborn Stone of Transformation*. One moldavite jeweler cites his *The Book of Stones* (with Naisha Ahsian) and Melody's *Love Is in the Earth* as its sources.
+- **Today.** **Modern Association.** Geology.com notes that its impact origin gives moldavite special appeal for New Age, astrological and spiritual practices. The crystal author Robert Simmons gave it a whole book with Kathy Warner, *Moldavite*, subtitled *Starborn Stone of Transformation* (1988), and later a separate title, *The Book of Moldavite*. One moldavite jeweler cites *The Book of Stones* (Simmons with Naisha Ahsian, 2005) and Melody's *Love Is in the Earth* (1991) as its sources.
 - **Folk belief.** **Tradition.** A bead dealer's guide says Czechoslovakian legend made moldavite a stone of good luck and a common betrothal gift. We found no older source for it.
 
 ### What About the Emerald That Fell From the Sky?
 
-Shop pages say medieval Europeans called moldavite "the emerald that fell from the sky," that it surrounded the Venus of Willendorf, or that it was the Holy Grail. None of the reference sources behind this page support those stories, and Kunz's two big books of gem lore never mention moldavite. Even GemSelect, which sells it, warns that not every popular claim about its past is documented history.
+Shop pages say medieval Europeans called moldavite "the emerald that fell from the sky," that it surrounded the Venus of Willendorf, or that it was the Holy Grail. We found no reference work that supports those stories, and Kunz's two big books of gem lore never mention moldavite. Even GemSelect, which sells it, warns that not every popular claim about its past is documented history.
 
 ## What People Use Moldavite for Today
 
-**Modern Association.** In the modern crystal guides we compared, one idea shows up nearly everywhere, transformation and change. Spiritual growth, intuition and protection come next. Most guides tie it to the heart chakra, with the third eye close behind, and those that mention astrology call it a stone for every sign. The "why" is the origin story. A glass born in a violent impact reads as sudden change.
+**Modern Association.** In modern crystal guides, one idea shows up nearly everywhere, transformation and change. Spiritual growth, intuition and protection come next. Most guides tie it to the heart chakra, with the third eye close behind, and those that mention astrology call it a stone for every sign. The "why" is the origin story. A glass born in a violent impact reads as sudden change.
 
 ### What Does Moldavite Do?
 
@@ -213,7 +216,9 @@ Check your exact piece in the [Care Checker](/tools/crystal-care-checker/).
 
 Rising prices are exactly why imitations spread (*Gems & Gemology*, 2015). Czech supply has been depleted, and the best rough specimens often go to collectors for more than they would fetch as jewelry (Geology.com). Most genuine faceted stones are small, so a large faceted stone at a bargain price is the red flag.
 
-[TO CHECK typical US retail prices per gram for rough and per carat for faceted moldavite, with a dated source.]
+What moves the price is mostly size and quality, because large faceted stones and big rough pieces are rare (International Gem Society). Part of the premium also comes from belief, since many people pay extra for its reputed healing properties (Geology.com). We give no price figures here, since the only current listing we found gave no size or weight.
+
+What the fakes cost buyers is the price of a real stone paid for glass. Much of the moldavite sold online is undisclosed man-made glass, so Geology.com advises anyone spending serious money on it to be knowledgeable and careful. A high price is no guarantee either, since the two huge fakes Hyršl saw were in a high-end jewelry shop (*Gems & Gemology*). The checks above matter more than the tag.
 
 **Next Step.** Unsure about a piece you own? Try the five checks above with a loupe and a glass of water.
 
@@ -223,10 +228,11 @@ Rising prices are exactly why imitations spread (*Gems & Gemology*, 2015). Czech
 - Hobart M. King, Geology.com, [Moldavite](https://geology.com/gemstones/moldavite/)
 - Jaroslav Hyršl, "Moldavites, Natural or Fake?" *Gems & Gemology*, Spring 2015, volume 51, number 1, [GIA](https://www.gia.edu/gems-gemology/spring-2015-gemnews-moldavites-natural-fake)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 373 to 374, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
-- Robert Simmons, *The Book of Moldavite*, [publisher listing](https://www.simonandschuster.ca/books/The-Book-of-Moldavite/Robert-Simmons/9781644119129)
+- Robert Simmons and Kathy Warner, *Moldavite*, subtitled *Starborn Stone of Transformation* (Heaven and Earth Books, 1988), [Library of Congress record](https://www.loc.gov/item/89080025/), and Robert Simmons, *The Book of Moldavite*, [publisher listing](https://www.simonandschuster.ca/books/The-Book-of-Moldavite/Robert-Simmons/9781644119129)
+- Book years for *The Book of Stones* (2005) and *Love Is in the Earth* (1991) from [Open Library](https://openlibrary.org/books/OL8518534M) and the [Library of Congress](https://www.loc.gov/item/90085000/)
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
-- Modern associations compared across the crystal guides in our lore collection, including crystals.com, firemountaingems.com, gemselect.com, moldavitejewelry.com and stonebridgeimports.com, read November 13, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

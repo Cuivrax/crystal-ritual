@@ -1,0 +1,10 @@
+---
+const { html = null, lastReviewed = null } = Astro.props;
+---
+{(html || lastReviewed) && (
+  <section class="wrap sources-block" aria-labelledby="sources">
+    {html && <h2 id="sources">Sources</h2>}
+    {html && <Fragment set:html={html} />}
+    {lastReviewed && <p class="reviewed" set:html={lastReviewed} />}
+  </section>
+)}

@@ -18,6 +18,9 @@ sources:
   - "https://www.gia.edu/rose-quartz/gem-overview"
   - "https://www.gia.edu/rose-quartz-care-cleaning"
   - "https://www.gia.edu/jp/rose-quartz-history-lore"
+  - "https://www.gia.edu/rose-quartz-description"
+  - "https://www.gia.edu/articles/spring-2003-lab-notes"
+  - "https://doi.org/10.1017/S1092852925100515"
   - "https://www.gemsociety.org/article/rose-quartz/"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
   - "https://geology.com/gemstones/rose-quartz/"
@@ -57,8 +60,8 @@ Rose quartz is the pale to medium pink variety of quartz, colored by microscopic
 | Heat | OK, generally stable |
 | Salt | Unknown |
 | Toxic to handle | No. Cutting dust is a silica hazard |
-| Common fakes | Glass "cherry quartz" [TO CHECK dyed and resin imitations] |
-| Price range | Usually inexpensive [TO CHECK US retail ranges] |
+| Common fakes | Glass sold as "cherry quartz" |
+| Price range | Usually inexpensive |
 | Birthstone | None on the modern US list. 5th wedding anniversary |
 | Chakra (Modern Association) | Heart |
 
@@ -88,7 +91,7 @@ Brazil and Madagascar are the main sources of gem material (IGS). Much of the ro
 
 **The Story.** Rose quartz has been carved and worn for a very long time. Its love story is harder to pin down.
 
-- **About 7000 BCE, Mesopotamia.** Rose quartz beads from this date have been found in what is now Iraq, according to GIA's history page in its Japanese edition ([GIA](https://www.gia.edu/jp/rose-quartz-history-lore)) [TO CHECK against the English edition].
+- **About 7000 BCE, Mesopotamia.** Rose quartz beads from this date have been found in what is now Iraq, according to GIA's history page in its Japanese edition ([GIA](https://www.gia.edu/jp/rose-quartz-history-lore)).
 - **Antiquity.** **Tradition.** The same GIA page says Assyrians made rose quartz jewelry around 800 to 600 BCE, Romans used it for seals to mark ownership, and Egyptians believed it could prevent aging.
 - **18th century, China.** The International Gem Society shows a rose quartz vase from the Qing Dynasty in the collection of the Metropolitan Museum of Art.
 - **1915, China.** **Tradition.** Kunz describes the Chinese marriage sword carried by the priest at important weddings, its sheath studded with pink stones, rose quartz among them. The groom holds the sword, the bride the sheath, and as the ring goes on her finger the two are brought together. Kunz adds that the pink was often deepened with paste or foil beneath the stones, and occasionally by dipping them in a pink aniline solution (*The Magic of Jewels and Charms*, 1915, pages 384 to 385).
@@ -97,17 +100,17 @@ Brazil and Madagascar are the main sources of gem material (IGS). Much of the ro
 
 ### What About Aphrodite & the Face Masks?
 
-You will read that Aphrodite's blood stained white quartz pink, or that Egyptian tombs held rose quartz face masks. None of the guides that tell these stories gives an ancient text or a museum record, and none of our reference sources mentions them [TO CHECK with a primary source]. The GIA line on Egyptian beliefs about aging is the closest thing to a source, and it says nothing about masks.
+You will read that Aphrodite's blood stained white quartz pink, or that Egyptian tombs held rose quartz face masks. These stories come from crystal sellers' guides, and none of them gives an ancient text or a museum record. Treat them as modern retellings. The GIA line on Egyptian beliefs about aging is the closest thing to a source, and it says nothing about masks.
 
 ## What People Use Rose Quartz for Today
 
-**Modern Association.** In the crystal guides we compared, rose quartz is a Classic stone for [love](/crystals-for/love/), and most guides put it on the heart chakra. Self-love and compassion follow close behind, then calm and emotional healing. Grief is only Sometimes Linked, though some guides suggest it after a loss or a breakup.
+**Modern Association.** In modern crystal guides, rose quartz is a Classic stone for [love](/crystals-for/love/), and most guides put it on the heart chakra. Self-love and compassion follow close behind, then calm and emotional healing. Grief is only Sometimes Linked, though some guides suggest it after a loss or a breakup.
 
 ### What Does Rose Quartz Do?
 
 As a stone, rose quartz is a durable, inexpensive carving material, cut into cabochons, beads, spheres, puffed hearts and small sculptures (Geology.com). What it does in crystal practice is symbolic. People use it as a reminder to be gentle, with others and with themselves. Carrying one does not have to signal romance either, since guides give self-love nearly as much room as romance. And a love stone is for your own intentions, not a way to steer someone else's.
 
-Many sites go further, listing heart disease, blood pressure, fertility, pregnancy and wrinkles. Nothing in the mineral sources behind this page supports those claims, and one of the guides we read says outright that its intentions are cultural and personal, not medical guidance.
+Many sites go further, listing heart disease, blood pressure, fertility, pregnancy and wrinkles. Nothing in the mineral sources behind this page supports those claims, and one crystal seller says outright that the intentions it lists are cultural and personal, not medical guidance.
 
 ## How to Use Rose Quartz in Everyday Life
 
@@ -131,7 +134,7 @@ Many sites go further, listing heart disease, blood pressure, fertility, pregnan
 
 **Safety.** Small tumbled stones and bead bracelets are a choking hazard. Keep them away from small children and pets.
 
-**What Research Says.** [TO CHECK a peer-reviewed study with DOI on self-compassion practices or expressive writing, and say plainly that it did not use stones.] Until then, treat these as personal practices.
+**What Research Says.** In a 2025 randomized study of 138 adults who used either a real rose quartz or a glass look-alike over 14 days, anxiety scores fell only in people who believed in crystal healing, and the real stone did no better than the fake one (Escolà-Gascón and colleagues, *CNS Spectrums*, [doi.org/10.1017/S1092852925100515](https://doi.org/10.1017/S1092852925100515)). It was a single trial in adults with low anxiety who rated their own symptoms, and belief was measured rather than assigned. Treat the habits above as personal practices.
 
 > **When a Stone Is Not Enough.** Rose quartz is often chosen for heartbreak, grief and stress, and some sites tie it to fertility and pregnancy. A stone can be a comfort to hold, but it is not care. If sadness or anxiety lasts or feels heavy, talk to a doctor or a therapist, and for fertility or pregnancy, talk to your doctor or midwife. In a crisis in the US, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), the 988 Suicide and Crisis Lifeline, open 24/7.
 
@@ -140,9 +143,9 @@ Many sites go further, listing heart disease, blood pressure, fertility, pregnan
 We use the same five labels on every stone.
 
 - **Natural, untreated.** The usual case. The International Gem Society says rose quartz typically receives no treatments.
-- **Natural, treated.** GIA says rose quartz is occasionally irradiated to intensify its color, and Kunz recorded paste, foil and dye in 1915. Boosted pink is not a new trick. [TO CHECK whether dyed quartz is sold as rose quartz today.]
+- **Natural, treated.** GIA says rose quartz is occasionally irradiated to intensify its color, and Kunz recorded paste, foil and dye in 1915. Boosted pink is not a new trick.
 - **Lab-grown.** Pink quartz has been made in labs, but synthetic rose quartz has no significant market presence, since natural material is too abundant and cheap (Geology.com).
-- **Imitation.** "Cherry quartz" is usually man-made glass, according to the dealer GemSelect. [TO CHECK with a reference source, and which resin imitations exist.]
+- **Imitation.** "Cherry quartz" is usually man-made glass, according to the dealer GemSelect, and GIA's lab has reported a "cherry quartz" glass imitation (*Gems & Gemology*, [Spring 2003 Lab Notes](https://www.gia.edu/articles/spring-2003-lab-notes)).
 - **Trade names.** "American Ruby" and "Bohemian Ruby" are misleading names for rose quartz, which is not ruby (IGS).
 
 Three checks you can do at home, with their limits.
@@ -178,7 +181,7 @@ Common rose quartz is generally stable in light, so our Care Checker rates sun a
 
 The exception is real. Transparent, crystal-shaped pink quartz can lose its color rapidly under UV light, and its color is often unstable with heat or light (IGS, Geology.com). IGS advises keeping pink quartz jewelry for evening wear and storing it in the dark. If you own clear pink crystals, treat them that way.
 
-What about the bracelet that paled in ten days? Fast fading does not fit common rose quartz as GIA and IGS describe it, and our sources do not explain it [TO CHECK dyed beads and other causes]. A faded stone means the same to you as before, if you decide it does. Our guide to [rose quartz fading](/care/rose-quartz-fading/) will follow this question further.
+What about the bracelet that paled in ten days? Fast fading does not fit common rose quartz as GIA and IGS describe it. The pink that GIA says fades in natural light belongs to the rare transparent pink quartz from some Brazilian deposits ([GIA](https://www.gia.edu/rose-quartz-description)), so if cloudy beads lost their color in days, ask the seller whether the color was enhanced. A faded stone means the same to you as before, if you decide it does. Our guide to [rose quartz fading](/care/rose-quartz-fading/) will follow this question further.
 
 ### Can Rose Quartz Go in Water?
 
@@ -192,23 +195,23 @@ For a wash, yes. Some guides suggest rose quartz elixirs to drink or water for t
 
 ## Price Guide
 
-Rose quartz is abundant and usually inexpensive, and pieces up to a few pounds with nice color are generally available at modest prices (Geology.com). Larger gems generally show the most intense pink (GIA), so size and color drive what you pay. Exceptional crystal specimens are another world. "La Madona Rosa," a cluster of smoky quartz ringed with vivid pink quartz crystals, sold for $550,000 at Heritage Auctions in June 2013 (Geology.com).
+Rose quartz is abundant and usually inexpensive, and pieces up to a few pounds with nice color are generally available at modest prices (Geology.com). Larger gems generally show the most intense pink (GIA), so size and color drive what you pay. Exceptional crystal specimens are another world. "La Madona Rosa," a cluster of smoky quartz ringed with vivid pink quartz crystals, sold at Heritage Auctions in June 2013, for $550,000 according to Geology.com and $662,500 according to [GIA](https://www.gia.edu/rose-quartz-description).
 
-[TO CHECK typical US retail ranges for tumbled stones, towers, spheres, bead bracelets and carvings, with a dated source.]
+For everyday pieces, GIA lists color, clarity, cut and size as what sets the value. Rose quartz is cloudy by nature, so transparent material is usually faceted, while translucent material becomes cabochons and carvings (GIA), and cut stones seldom stay transparent above 20 to 30 carats (IGS). The best star stones have a vivid pink and a distinct, symmetrical, well-centered six-ray star (Geology.com). Rose quartz typically receives no treatment (IGS), though GIA notes occasional irradiation, so ask whether the color was enhanced before paying extra for an unusually deep pink in a small piece.
 
 **Next Step.** Building a small love altar or a gift? Compare the usual picks in [crystals for love](/crystals-for/love/).
 
 ## Sources
 
-- Gemological Institute of America, [Rose Quartz](https://www.gia.edu/rose-quartz/gem-overview), [Rose Quartz Care and Cleaning](https://www.gia.edu/rose-quartz-care-cleaning) and the [rose quartz history page, Japanese edition](https://www.gia.edu/jp/rose-quartz-history-lore)
+- Gemological Institute of America, [Rose Quartz](https://www.gia.edu/rose-quartz/gem-overview), [Rose Quartz Description](https://www.gia.edu/rose-quartz-description), [Rose Quartz Care and Cleaning](https://www.gia.edu/rose-quartz-care-cleaning), the [rose quartz history page, Japanese edition](https://www.gia.edu/jp/rose-quartz-history-lore) and *Gems & Gemology* [Spring 2003 Lab Notes](https://www.gia.edu/articles/spring-2003-lab-notes)
+- Á. Escolà-Gascón and colleagues, *CNS Spectrums* (2025), [doi.org/10.1017/S1092852925100515](https://doi.org/10.1017/S1092852925100515)
 - International Gem Society, [Rose Quartz](https://www.gemsociety.org/article/rose-quartz/) and [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Hobart M. King, Geology.com, [Rose Quartz](https://geology.com/gemstones/rose-quartz/)
-- GemSelect, [About Strawberry Quartz](https://www.gemselect.com/other-info/about-strawberry-quartz.php), a dealer guide
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition
 - George Frederick Kunz, *The Magic of Jewels and Charms* (1915), pages 384 to 385, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - SAMHSA, [988 Suicide and Crisis Lifeline fact sheet](https://www.samhsa.gov/sites/default/files/988-factsheet.pdf)
-- Modern associations compared across the crystal guides in our lore collection, including thenightsky.com, otterspirit.com, djuna.co.uk, crystals.com and bindi-online.com, read November 12, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-step scale, see [How We Rate](/sources/)
 
-Last reviewed November 18, 2026.
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

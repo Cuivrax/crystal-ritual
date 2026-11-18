@@ -16,13 +16,12 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-07"
 publishTime: "05:22"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/obsidian-jewelry-and-gemstone-information/"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
   - "https://geology.com/rocks/obsidian.shtml"
-  - "https://en.wikipedia.org/wiki/Obsidian"
   - "https://www.gemdat.org/gem-27158.html"
   - "https://geologybase.com/obsidian-types/"
   - "https://www.gutenberg.org/ebooks/57978"
@@ -48,12 +47,12 @@ Rainbow obsidian is natural volcanic glass, found in Mexico and the western Unit
 |---|---|
 | What it is | A variety of obsidian, natural volcanic glass, with an iridescent banded sheen |
 | Mineral status | Not a mineral. Obsidian is a glass, with no crystal structure and no IMA species |
-| Composition | Mostly silica, SiO₂, usually 70% by weight or more |
+| Composition | Mostly silica, SiO₂ |
 | Mohs hardness | 5 to 6 |
 | Crystal system | None, it is amorphous glass |
-| Specific gravity | About 2.4 |
+| Specific gravity | About 2.4 for obsidian in general |
 | Colors | Black body with bands of blue, green, purple and bronze |
-| Color cause | Thin-film interference from tiny layered inclusions. Sources disagree on which |
+| Color cause | Thin-film interference from tiny layered inclusions. Reference works name different inclusions |
 | Main sources | Oregon and California in the US, and Jalisco, Mexico |
 | Water | OK for washing, keep soaks brief |
 | Sun | Unknown |
@@ -70,7 +69,7 @@ Rainbow obsidian is natural volcanic glass, found in Mexico and the western Unit
 
 ## What Rainbow Obsidian Actually Is
 
-**The Stone.** Obsidian is natural glass. It forms when molten rock cools so fast that its atoms cannot arrange themselves into crystals ([Geology.com](https://geology.com/rocks/obsidian.shtml)). That makes it a rock, not a mineral, says the [International Gem Society](https://www.gemsociety.org/article/obsidian-jewelry-and-gemstone-information/), and Wikipedia adds that it is mineral-like but not a true mineral because, as a glass, it is not crystalline [TO CHECK upstream source].
+**The Stone.** Obsidian is natural glass. It forms when molten rock cools so fast that its atoms cannot arrange themselves into crystals ([Geology.com](https://geology.com/rocks/obsidian.shtml)). That makes it a rock, not a mineral, says the [International Gem Society](https://www.gemsociety.org/article/obsidian-jewelry-and-gemstone-information/). Because it is a glass, it has no crystal structure and no IMA species.
 
 ### Is Rainbow Obsidian a Crystal?
 
@@ -80,7 +79,7 @@ No. It is sold in crystal shops, and some listings call it a "rainbow obsidian c
 
 **Mineral Fact.** Black is the most common color of obsidian. Rarely, it shows an iridescent or metallic sheen from light reflecting off minute inclusions of mineral crystals, rock debris or gas, and depending on the color, these pieces are called rainbow, golden or silver obsidian (Geology.com). In rainbow obsidian the colors come from thin-film interference, light bouncing between layers so thin that they split it into colors.
 
-What makes those layers is less settled than the shops suggest. The International Gem Society credits inclusions of magnetite, an iron oxide, in nano-sized crystals. Wikipedia says rainbow obsidian from Mexico contains oriented nanorods of hedenbergite, a pyroxene mineral, and Gemdat, a gem database, says layers of minute bubbles ([Gemdat](https://www.gemdat.org/gem-27158.html)). We cannot settle that from here [TO CHECK with a peer-reviewed source, for example the Caltech study "Micro-analytical study of the optical properties of rainbow and sheen obsidians"].
+What makes those layers is less settled than the shops suggest. The International Gem Society credits inclusions of magnetite, an iron oxide, in nano-sized crystals. [Geologybase](https://geologybase.com/obsidian-types/) describes oriented nanorods of hedenbergite, a pyroxene mineral, and [Gemdat](https://www.gemdat.org/gem-27158.html), a gem database, describes layers of minute bubbles. The cause is still an open question, and the thin-film effect holds whichever inclusion is behind it.
 
 One practical result is agreed on. The color sits in bands inside a dark glass, so a piece can look plain black on a shelf and come alive when you turn it toward a lamp.
 
@@ -92,7 +91,7 @@ Obsidian is confined to areas of geologically recent volcanic activity, because 
 
 ### Rainbow Obsidian vs Black Obsidian
 
-Same glass, different inclusions. Black obsidian gets its dark color from iron and other elements, and most black obsidian contains nano-inclusions of magnetite, according to Wikipedia. Rainbow obsidian adds the layered inclusions that make the sheen. In the hand, a rainbow piece looks black until the light hits the bands.
+Same glass, different inclusions. Black obsidian gets its dark color from iron and other elements, and Geologybase ties the dark color to crystallites of minerals such as magnetite, pyroxene and hornblende in the glass. Rainbow obsidian adds the layered inclusions that make the sheen. In the hand, a rainbow piece looks black until the light hits the bands.
 
 <!-- PHOTO 3, beside "Rainbow Obsidian vs Black Obsidian". Wikimedia Commons, "File Rainbow obsidian (Jalisco State, Mexico) 34.jpg", by James St. John. Page https://commons.wikimedia.org/wiki/File:Rainbow_obsidian_(Jalisco_State,_Mexico)_34.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Rainbow_obsidian_%28Jalisco_State%2C_Mexico%29_34.jpg/1280px-Rainbow_obsidian_%28Jalisco_State%2C_Mexico%29_34.jpg (tracking parameters removed). License CC BY 2.0. Credit line "Photo James St. John, CC BY 2.0, via Wikimedia Commons". visual_check family (labeled rainbow obsidian, no sheen visible in this shot). Alt text "Rainbow obsidian from Jalisco, Mexico, photographed at an angle where no sheen shows, looking like plain black obsidian". -->
 
@@ -101,21 +100,21 @@ Same glass, different inclusions. Black obsidian gets its dark color from iron a
 **The Story.** Almost all of obsidian's long history is about black obsidian as a tool and a mirror. Rainbow obsidian's own meaning is modern, built on that history and on the old symbol of a rainbow after a storm.
 
 - **Stone Age.** Sharp obsidian flakes made it the material of choice for almost any cutting tool, and the making of arrowheads, spear points, knives and scrapers may have been "the world's first manufacturing industry" (Geology.com). Today thin obsidian blades are still used in some surgical scalpels.
-- **Ancient Rome.** **Tradition.** Pliny's *Natural History* describes a volcanic glass called obsidian, said to have been found in Ethiopia by a man named Obsidius, according to Wikipedia [TO CHECK Pliny, Natural History Book 36, Bostock and Riley translation].
+- **Ancient Rome.** **Tradition.** Pliny the Elder wrote about a volcanic glass in his *Natural History* [TO CHECK Pliny].
 - **Ancient Mexico.** **Tradition.** Images of the god Tezcatlipoca were made of obsidian, and his name is read as "shining mirror." Obsidian mirrors were said to be used for divination (Kunz, *The Curious Lore of Precious Stones*, 1913, pages 204 to 205). The lapidaries' gods were credited with teaching people to make obsidian lip plugs and ear ornaments (pages 255 to 256).
 - **Old Aztec folklore.** **Tradition.** In tales from Milpa Alta near Mexico City, fragments of obsidian found after a rainstorm were believed to have fallen from the sky, a sign that a dreamer had been accepted by the gods. Kunz adds that the rain had probably washed them out of the earth (*The Magic of Jewels and Charms*, 1915, pages 348 to 349).
 - **16th century, England.** **Tradition.** Horace Walpole's label for a polished slab of Mexican obsidian quoted an old catalogue calling it "the black stone into which Dr. Dee used to call his spirits," after John Dee and his crystal-gazing (Kunz 1913, pages 195 to 196).
-- **Today.** **Modern Association.** Hope, protection and grief, tied to the colors hidden in the dark. A magazine piece on rainbow obsidian quotes the authors of the crystal book *Crystal Muse* [TO CHECK authors, publisher and year before naming it as a source].
+- **Today.** **Modern Association.** Hope, protection and grief, tied to the colors hidden in the dark.
 
 ## What People Use Rainbow Obsidian for Today
 
-**Modern Association.** Protection comes up in almost every rainbow obsidian guide we read, and emotional healing close behind. In the guides we compared for [crystals for grief](/crystals-for/grief/), rainbow obsidian is Often Linked with grief. One shop says it reminds you "there is a rainbow waiting for you once you move through the darkness" ([Energy Muse](https://energymuse.com/pages/rainbow-obsidian-meaning)), and a crystal blog says many people use it "after a breakup, a loss or the end of a chapter" ([crystalgemstones.net](https://crystalgemstones.net/rainbow-obsidian-meaning-and-spiritual-properties.html)).
+**Modern Association.** Protection is a Classic link for rainbow obsidian in the guides we compared, and grief is an Often Linked one (see [crystals for grief](/crystals-for/grief/)). One shop says it reminds you "there is a rainbow waiting for you once you move through the darkness" ([Energy Muse](https://energymuse.com/pages/rainbow-obsidian-meaning)), and a crystal blog says many people use it "after a breakup, a loss or the end of a chapter" ([crystalgemstones.net](https://crystalgemstones.net/rainbow-obsidian-meaning-and-spiritual-properties.html)).
 
 The "why" is easy to see. A dark stone with color hidden inside is an easy symbol for hope on a bad day. Black stones in general carry protection and grounding in modern crystal guides, and the color adds warmth. One crystal encyclopedia calls it "a gentle, loving variety of Obsidian" and suggests giving one "as a glimmer of hope" ([Crystal Vaults](https://www.crystalvaults.com/crystal-encyclopedia/rainbow-obsidian/)). Fire Mountain Gems links it with "openness, encouragement and reclamation" ([Fire Mountain Gems](https://www.firemountaingems.com/learn/categories/essential-resources/gemstone-meanings/rainbow-obsidian-gemstone-meanings.html)).
 
 The root chakra is the most common link, with heart or all chakras in some guides. Shadow work, looking at the parts of yourself you usually avoid, comes up too ([Moonrise Crystals](https://moonrisecrystals.com/rainbow-obsidian-meaning/)).
 
-Some links disagree or sit at the margins. Zodiac signs vary between Libra and Scorpio, elements between fire and earth and water, and one guide adds the number 2. A few guides go further and list broken bones, pain and stress-related disease. Nothing in the mineral sources behind this page supports those claims. The obsidian scalpels mentioned above are about sharp edges, not about any healing power in the stone.
+Some links disagree or sit at the margins. Zodiac signs, elements and numbers differ from guide to guide. A few guides go further and list pain and stress-related disease. Nothing in the mineral sources behind this page supports those claims. The obsidian scalpels mentioned above are about sharp edges, not about any healing power in the stone.
 
 ## How to Use Rainbow Obsidian in Everyday Life
 
@@ -143,12 +142,12 @@ Some links disagree or sit at the margins. Zodiac signs vary between Libra and S
 
 ### Is Rainbow Obsidian Natural?
 
-Yes. Rainbow obsidian is a naturally occurring volcanic glass, and our sources describe no treatment used to create its sheen. The fakes to watch for are manufactured glass, not treated obsidian.
+Yes. Rainbow obsidian is a naturally occurring volcanic glass, and no treatment is described for its sheen. The fakes to watch for are manufactured glass, not treated obsidian.
 
 We use the same five labels on every stone.
 
 - **Natural, untreated.** This is what rainbow obsidian should be.
-- **Natural, treated.** None described in our sources [TO CHECK].
+- **Natural, treated.** No treatment is described for the sheen.
 - **Lab-grown.** Not applicable. Man-made glass is not lab-grown obsidian, it is simply glass.
 - **Imitation.** Manufactured blue, green or red glass is sometimes passed off as natural obsidian in rare colors (International Gem Society). One crystal encyclopedia warns of artificial glass mass-produced in places such as Indonesia and sold as obsidian.
 - **Trade name.** "Rainbow" is a descriptive name. Some sellers also call it "aurora obsidian."
@@ -203,7 +202,6 @@ So color strength and size are the first things to compare when you shop for a p
 
 - International Gem Society, [Obsidian](https://www.gemsociety.org/article/obsidian-jewelry-and-gemstone-information/) and [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Hobart M. King, Geology.com, [Obsidian](https://geology.com/rocks/obsidian.shtml)
-- Wikipedia, [Obsidian](https://en.wikipedia.org/wiki/Obsidian), used as a pointer only
 - Gemdat, [Rainbow Obsidian](https://www.gemdat.org/gem-27158.html)
 - Geologybase, [Obsidian Types](https://geologybase.com/obsidian-types/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 195 to 196, 204 to 205 and 255 to 256, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 348 to 349, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)

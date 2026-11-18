@@ -1,0 +1,18 @@
+---
+import { AUTHOR, AUTHOR_LINE } from '../lib/nav.mjs';
+import { getSite } from '../lib/site.mjs';
+const { text = null, compact = false } = Astro.props;
+const site = await getSite();
+const policyBuilt = site.isBuilt('/editorial-policy/');
+const aboutBuilt = site.isBuilt('/about/');
+---
+<section id="author" class="wrap author-wrap" aria-label="About the author">
+  <div class="author-box">
+    <span class="avatar" aria-hidden="true">I</span>
+    <div class="author-text">
+      <p class="author-name">{aboutBuilt ? <a href="/about/" style="color:inherit;text-decoration:none">{AUTHOR}</a> : AUTHOR}</p>
+      <p>{text || AUTHOR_LINE}</p>
+    </div>
+    {policyBuilt && !compact && <a class="btn btn-secondary" href="/editorial-policy/">Our Editorial Policy</a>}
+  </div>
+</section>

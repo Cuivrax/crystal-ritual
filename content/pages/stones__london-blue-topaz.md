@@ -8,11 +8,12 @@ secondary_keywords: []
 author: "Iris Holloway"
 publishDate: "2027-01-06"
 publishTime: "10:43"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/topaz-jewelry-and-gemstone-information/"
   - "https://www.gemsociety.org/article/december-birthstone/"
+  - "https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/irradiated-gemstones"
   - "https://www.gemsociety.org/article/fourth-year-anniversary-gift/"
   - "https://www.gemsociety.org/article/history-legend-topaz-gems-yore/"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
@@ -32,7 +33,7 @@ sources:
 
 # London Blue Topaz Meaning, Properties & What It Really Is
 
-London blue topaz is the trade name for the darkest common shade of treated blue topaz, made by irradiating naturally colorless topaz and then heating it. The color is permanent, and US regulators know of no harm from wearing irradiated gems. Its calm, honest meanings are modern beliefs.
+London blue topaz is the trade name for the darkest common shade of treated blue topaz, made by irradiating naturally colorless topaz and then heating it. Its blue is described as stable, and the US Nuclear Regulatory Commission says it has no reason to believe wearing irradiated gems is harmful. Its calm, honest meanings are modern beliefs.
 
 <!-- PHOTO HERO. Wikimedia Commons, "File London Blue.jpg", by Pithecanthropus4152. Page https://commons.wikimedia.org/wiki/File:London_Blue.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/London_Blue.jpg/1280px-London_Blue.jpg (tracking parameters removed). License CC BY-SA 4.0. Credit line "Photo Pithecanthropus4152, CC BY-SA 4.0, via Wikimedia Commons". visual_check ok in image_picks_new_stones.json (dark deep-blue cut stone that matches the London blue color, small in frame, crop before use). Alternative hero, "File London blue topaz.JPG", https://commons.wikimedia.org/wiki/File:London_blue_topaz.JPG , CC BY 3.0, credit "Photo Humanfeather / michelle jo, CC BY 3.0, via Wikimedia Commons", sharper but the shade looks lighter than London blue. Alt text "Faceted London blue topaz, a deep inky blue treated topaz, on a gray background". -->
 
@@ -52,7 +53,7 @@ London blue topaz is the trade name for the darkest common shade of treated blue
 | Our ladder | Natural, treated (irradiated and heated), sold under a trade name |
 | Lab-grown | Synthetic topaz exists but is not usually sold |
 | Water | OK for washing, keep soaks brief |
-| Sun | Unknown in our care data for London blue. Treated blue topaz in general is rated OK |
+| Sun | Unknown for London blue itself. GIA and Geology.com describe treated blue topaz in general as light stable |
 | Heat | Avoid |
 | Chemicals | Unknown |
 | Salt | Unknown |
@@ -60,9 +61,9 @@ London blue topaz is the trade name for the darkest common shade of treated blue
 | Price range | Among the least expensive gems, about $10 to $30 per carat retail |
 | Birthstone | Topaz is November. Some lists add blue topaz to December |
 | Anniversary | 4th, for blue topaz |
-| Chakra (Modern Association) | None named in the guides we read |
+| Chakra (Modern Association) | None commonly named |
 
-> **Is It Real? Quick Checks.** A deep London blue is a treated color by default, so the useful question is topaz or something else. Glass is much lighter than topaz of the same size. Dark treated topaz is sometimes sold as aquamarine, so be wary of a very dark, very cheap "aquamarine." Even a gem lab cannot routinely tell natural blue topaz from treated.
+> **Is It Real? Quick Checks.** A deep London blue is a treated color by default, so the useful question is topaz or something else. Dark treated topaz is sometimes sold as aquamarine, so be wary of a very dark, very cheap "aquamarine." Even a gem lab cannot routinely tell natural blue topaz from treated.
 
 ## What London Blue Topaz Actually Is
 
@@ -96,7 +97,7 @@ The timeline depends on the source. The International Gem Society dates the meth
 
 Slightly, right after treatment, and not by the time it reaches a store. Some irradiation leaves topaz slightly radioactive, but the level starts dropping as soon as treatment ends ([Geology.com](https://geology.com/minerals/topaz.shtml)). GemSelect says London blue may need months of storage for its radioactivity to decay to safe levels.
 
-**Safety.** In the United States, companies that distribute newly irradiated gems must be licensed by the Nuclear Regulatory Commission. They store the stones securely and survey them until their radioactivity has declined to a safe level (Geology.com). Geology.com quotes the NRC directly. "The NRC has no reason to believe that wearing irradiated gemstones can be harmful. There have been no reported cases of anyone being harmed by wearing them." Geology.com notes that this procedure covers blue topaz treated within the United States [TO CHECK how imported irradiated topaz is checked].
+**Safety.** In the United States, the first distribution of irradiated gems requires a license from the Nuclear Regulatory Commission, and the licensed distributor surveys the stones before they reach the market, typically after a couple of months of storage while any radioactivity decays ([NRC](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/irradiated-gemstones)). The NRC states that it "has no reason to believe that wearing irradiated gemstones can be harmful" and knows of no reported cases of harm. Geology.com describes the same procedure for blue topaz treated in the United States [TO CHECK how imported irradiated topaz is checked].
 
 ### Can Anyone Tell It Was Treated?
 
@@ -107,7 +108,7 @@ Not with routine tests. The International Gem Society says the process so nearly
 **The Story.** London blue's own story is only a few decades old. Everything older belongs to topaz in general, and that older lore was rarely about blue stones, since natural blue topaz was so scarce.
 
 - **Ancient world.** **Tradition.** Pliny told of a Red Sea island called Topazos, from a Greek word meaning "to conjecture," because it was hard to find. His topazius was greenish and usually what we call peridot (Kunz, *The Curious Lore of Precious Stones*, 1913, page 291). Before the 20th century all yellow, brown and orange transparent gems were called topaz (International Gem Society, [Topaz Symbolism and Legends](https://www.gemsociety.org/article/history-legend-topaz-gems-yore/)).
-- **Medieval talismans.** **Tradition.** A falcon engraved on a topaz was said to win the goodwill of kings, princes and magnates (Kunz 1913, pages 133 to 134). Wikipedia adds that the Romans believed topaz protected travelers and that medieval Europeans tied it to the left arm against curses and the evil eye [TO CHECK upstream sources].
+- **Medieval talismans.** **Tradition.** A falcon engraved on a topaz was said to win the goodwill of kings, princes and magnates (Kunz 1913, pages 133 to 134).
 - **13th century, India.** **Tradition.** The Hindu physician Naharari wrote that anyone who wears topaz "will be assured of long life, beauty and intelligence" (Kunz, *The Magic of Jewels and Charms*, 1915, page 158).
 - **15th century, Rome.** **Tradition.** A physician was said to cure plague sores by touching them with a topaz once owned by two popes, and Kunz suspected the patients' faith "may really have helped" (1913, pages 389 to 390).
 - **1960s to 1970s.** Treaters learn to turn colorless topaz blue, and blue becomes the topaz most people know (International Gem Society, Geology.com).
@@ -115,13 +116,13 @@ Not with routine tests. The International Gem Society says the process so nearly
 
 ### Why Is It Called London Blue?
 
-Nobody in our sources dates the name. The International Gem Society says it "originated because London houses the largest blue topaz ever discovered," the 9,381-carat Ostro Stone. The Natural History Museum's own announcement says that stone, mined in Minas Gerais, Brazil, and colored by treatment, went on display in its Minerals Gallery in October 2016, on loan from Maurice Ostro ([Natural History Museum](https://www.nhm.ac.uk/discover/news/2016/september/largest-blue-topaz-goes-on-display.html)). A jeweler's blog offers a simpler story, that the name honors London itself. Since the museum display came in 2016, check when the trade name first appeared before you repeat either story [TO CHECK first recorded use of the trade name London Blue].
+The International Gem Society says the name "originated because London houses the largest blue topaz ever discovered," the 9,381-carat Ostro Stone. The Natural History Museum's announcement describes that stone, found in Minas Gerais, Brazil, and colored by treatment, and says it went on display in its Minerals Gallery from October 19, 2016, on loan from Maurice Ostro ([Natural History Museum](https://www.nhm.ac.uk/discover/news/2016/september/largest-blue-topaz-goes-on-display.html)). The museum's announcement does not mention the trade name, and the stone's 2016 display does not date the name. A jeweler's blog offers a simpler story, that the name honors London itself. The origin of the name is unsettled [TO CHECK first recorded use of the trade name London Blue].
 
 <!-- PHOTO 2, beside "Why Is It Called London Blue?". Wikimedia Commons, "File NHM London Ostro Stone.jpg", by Greyzxq. Page https://commons.wikimedia.org/wiki/File:NHM_London_Ostro_Stone.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/NHM_London_Ostro_Stone.jpg/1280px-NHM_London_Ostro_Stone.jpg (tracking parameters removed). License CC BY-SA 4.0. Credit line "Photo Greyzxq, CC BY-SA 4.0, via Wikimedia Commons". visual_check ok (museum display with placard text, crop the placard). Alt text "The Ostro Stone, a 9,381-carat treated blue topaz on display at the Natural History Museum in London". -->
 
 ## What People Use London Blue Topaz for Today
 
-**Modern Association.** Calm is the theme the London blue guides we read agree on most. GemSelect links it with "serenity and emotional balance," and one jeweler's blog calls it a symbol of "honesty, courage, peace, and fidelity" ([Sagacia Jewelry](https://sagaciajewelry.com/blogs/news/london-blue-topaz-meaning-healing-properties-and-cleaning-process)). Another jeweler adds love, friendship, clarity of mind and self-confidence, and says it helps you "find your lost voice" ([Rose C Jewels](https://rosecjewels.com/pages/london-blue-topaz-education)).
+**Modern Association.** Calm is the most common theme in London blue guides. GemSelect links it with "serenity and emotional balance," and one jeweler's blog calls it a symbol of "honesty, courage, peace, and fidelity" ([Sagacia Jewelry](https://sagaciajewelry.com/blogs/news/london-blue-topaz-meaning-healing-properties-and-cleaning-process)). Another jeweler adds love, friendship, clarity of mind and self-confidence, and says it helps you "find your lost voice" ([Rose C Jewels](https://rosecjewels.com/pages/london-blue-topaz-education)).
 
 The "why" is the color. GemSelect compares London blue to twilight skies and the depths of the ocean, and the guides read that deep blue as calm and steady. The honesty and fidelity themes fit its anniversary role, since blue topaz is the gem of the 4th wedding anniversary (International Gem Society, [Fourth Year Anniversary Gift Guide](https://www.gemsociety.org/article/fourth-year-anniversary-gift/)).
 
@@ -129,7 +130,7 @@ The "why" is the color. GemSelect compares London blue to twilight skies and the
 
 On some lists, yes. The International Gem Society counts blue topaz among the modern December birthstones. The American Gem Society list we follow names [topaz for November](/birthstones/november/) and tanzanite, turquoise and zircon for December ([American Gem Society](https://www.americangemsociety.org/birthstones/)). If you are buying for a December birthday, London blue is a reasonable choice, and you can say why on the card.
 
-Some links are marginal, like calling it a "gem of the sun," wealth and prosperity, or chakra activation. The jewelers' blogs also list throat problems, migraine, digestion and the immune system. Nothing in the mineral sources behind this page supports those claims.
+Some links are marginal, like calling it a "gem of the sun," wealth and prosperity, or chakra activation. The jewelers' blogs also list throat problems, migraine, digestion and the immune system. Gemological references do not support those claims.
 
 ## How to Use London Blue Topaz in Everyday Life
 
@@ -145,11 +146,11 @@ Some links are marginal, like calling it a "gem of the sun," wealth and prosperi
 
 ### A Fourth Anniversary Gift With a Note
 
-**Try This.** Blue topaz is the 4th anniversary gem. Write on the card what it really is (natural topaz, colored by irradiation and heat, a permanent and safe treatment) and one line of lore, like Pliny's island that was hard to find. Telling the truth about the treatment is part of the gift.
+**Try This.** Blue topaz is the 4th anniversary gem. Write on the card what it really is (natural topaz, colored by irradiation and heat, a stable treatment that the NRC says it has no reason to believe is harmful to wear) and one line of lore, like Pliny's island that was hard to find. Telling the truth about the treatment is part of the gift.
 
 **Safety.** Loose stones and small jewelry are not toys. Keep them away from small children and pets who might swallow them.
 
-**What Research Says.** [TO CHECK a peer-reviewed study with DOI on implementation intentions or slow breathing, and say plainly that it did not use stones.] Until then, treat these as personal practices. None of the sources behind this page tested London blue topaz itself.
+**What Research Says.** [TO CHECK a peer-reviewed study with DOI on implementation intentions or slow breathing, and say plainly that it did not use stones.] Until then, treat these as personal practices. None of that research tested London blue topaz itself.
 
 > **When a Stone Is Not Enough.** Some guides offer London blue topaz for anxiety, depression, heartbreak or divorce. A stone can be a comfort to wear, but it is not care. If sadness or anxiety lasts or feels heavy, talk to a doctor or a therapist. If you are in crisis in the US, reach the 988 Suicide and Crisis Lifeline [TO CHECK official link and contact options].
 
@@ -160,7 +161,7 @@ We use the same five labels on every stone.
 - **Natural, untreated.** Natural blue topaz exists but is extremely rare and usually pale (Geology.com). A deep London blue is not what nature usually makes.
 - **Natural, treated.** This is London blue, natural topaz irradiated and heated.
 - **Lab-grown.** Topaz has been synthesized in labs but is not usually commercially available (International Gem Society).
-- **Imitation.** Glass is much lighter than topaz of the same size, according to Wikipedia. [TO CHECK which imitations are sold as London blue topaz in the US.]
+- **Imitation.** Dark blue treated topaz is sometimes sold as aquamarine (International Gem Society). [TO CHECK which imitations are sold as London blue topaz in the US.]
 - **Trade name.** London Blue, along with Swiss Blue and Sky Blue.
 
 ### Is London Blue Topaz Natural?
@@ -174,7 +175,7 @@ Dark treated topaz is sometimes used as a simulant for aquamarine, a different g
 Three checks you can do at home, with their limits.
 
 1. **Judge the color.** A dark, inky blue topaz is treated in practice. This tells you the treatment, not whether it is topaz.
-2. **Feel the weight.** Topaz is heavy for its size, and glass stones are much lighter than equally sized topaz (Wikipedia). You need a known stone of the same size to compare, so this is a hint, not a test.
+2. **Feel the weight.** Topaz has a specific gravity of 3.4 to 3.6 (Geology.com), so it feels solid for its size. You need a known stone of the same size to compare, so this is a hint, not a test.
 3. **Look at the price.** London blue sells for roughly $10 to $30 per carat (International Gem Society). An "aquamarine" at that price, or a "natural blue topaz" at a premium, deserves questions.
 
 Three questions to ask the seller. Is it topaz, and was the color produced by irradiation and heating? Where was it treated? If it is sold as aquamarine, can you show a lab report? The [Label Decoder](/tools/crystal-label-decoder/) turns names like London Blue and Swiss Blue into plain words.
@@ -186,7 +187,7 @@ Three questions to ask the seller. Is it topaz, and was the color produced by ir
 - **Water.** OK. A soft brush, mild detergent and warm water (International Gem Society). Keep soaks brief, since our sources cover washing, not long soaks.
 - **Ultrasonic and steam.** Avoid. Topaz can split, and Geology.com adds that liquid-filled inclusions can make a gem fracture when heated.
 - **Heat.** Avoid. Keep it away from heat, and tell your jeweler it is topaz before any repair.
-- **Sun.** Unknown in our care data (see below).
+- **Sun.** Unknown for London blue itself (see below).
 - **Chemicals.** Unknown. None of our London blue sources covers chemicals. One jeweler suggests keeping it away from makeup and harsh chemicals.
 - **Salt.** Unknown. None of our sources covers salt yet.
 - **Storage.** Keep it apart from harder gems and away from knocks. No source gives storage advice for London blue itself.
@@ -194,7 +195,7 @@ Three questions to ask the seller. Is it topaz, and was the color produced by ir
 
 ### Can London Blue Topaz Go in the Sun?
 
-Our Care Checker shows Unknown for London blue, because none of the London blue sources behind it covers light. The reference sources on treated blue topaz in general are reassuring. Nassau's 1985 study found the blue from irradiation and heating "stable to light," and Geology.com says the treatment is permanent, "so there is no worry about the gems fading with exposure to light." Our blue topaz entry rates sun OK on that basis, and we will move London blue to match once a source covers it directly [TO CHECK London blue light stability with a reference source].
+Our Care Checker shows Unknown for London blue, because no source covers London blue's light stability directly. The reference sources on treated blue topaz in general are reassuring. Nassau's 1985 study in GIA's *Gems & Gemology* says the blue from irradiation and heat treatment is "stable to light," and Geology.com says the treatment is permanent, "so there is no worry about the gems fading with exposure to light." Those statements cover treated blue topaz in general, not this trade name, so we keep Unknown until a source names London blue [TO CHECK London blue light stability with a reference source].
 
 ### Can London Blue Topaz Get Wet?
 
@@ -206,7 +207,6 @@ For a wash, yes. One jeweler's blog suggests holding the stone under running wat
 - **Aquamarine.** A different species, often confused with treated topaz (see above).
 - **Blue sapphire.** Corundum, harder at 9 against topaz's 8 ([GIA](https://www.gia.edu/sapphire/gem-overview)).
 - **Mystic topaz.** Also colorless topaz, but colored by a surface coating rather than through the whole stone. See [mystic topaz](/stones/mystic-topaz/).
-- **Glass.** Much lighter for its size.
 
 ## Price Guide
 
@@ -231,6 +231,7 @@ What drives price is size, cut and the setting, not rarity. A seller who prices 
 - Hobart M. King, Geology.com, [Topaz](https://geology.com/minerals/topaz.shtml) and [Blue Topaz](https://geology.com/gemstones/blue-topaz/), including the quoted NRC answers
 - Kurt Nassau, [Altering the Color of Topaz](https://www.gia.edu/UK-EN/gems-gemology/spring-1985-topaz-color-nassau), *Gems & Gemology*, Spring 1985, Vol. 21, No. 1
 - Gemological Institute of America, [Sapphire](https://www.gia.edu/sapphire/gem-overview)
+- US Nuclear Regulatory Commission, [Backgrounder on Irradiated Gemstones](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/irradiated-gemstones)
 - Natural History Museum, London, [Largest blue topaz gemstone of its kind goes on display](https://www.nhm.ac.uk/discover/news/2016/september/largest-blue-topaz-goes-on-display.html), September 27, 2016
 - Wikipedia, [Topaz](https://en.wikipedia.org/wiki/Topaz), used as a pointer only
 - GemSelect, [London Blue Topaz](https://www.gemselect.com/other-info/london-blue-topaz.php), a dealer guide

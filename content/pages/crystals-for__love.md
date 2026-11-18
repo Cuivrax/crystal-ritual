@@ -22,8 +22,10 @@ sources:
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
   - "https://www.theosophical.org/publications/quest-magazine/the-rainbow-body-how-the-western-chakra-system-came-to-be"
-  - "https://doi.org/10.1016/j.obhdp.2016.07.004"
-  - "https://econpapers.repec.org/RePEc:eee:jobhdp:v:137:y:2016:i:c:p:71-85"
+  - "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D37"
+  - "https://doi.org/10.1037/0022-3514.84.2.377"
+  - "https://greatergood.berkeley.edu/pdfs/GratitudePDFs/6Emmons-BlessingsBurdens.pdf"
+  - "https://doi.org/10.1017/S1092852925100515"
   - "https://pubmed.ncbi.nlm.nih.gov/40855750/"
   - "https://www.americangemsociety.org/birthstones/"
   - "https://www.gia.edu/moonstone/gem-overview"
@@ -92,7 +94,7 @@ Eudialyte, rhodochrosite, ruby, mangano calcite and rubellite are Classic too, b
 - **1977.** **Modern Association.** Modern chakra charts make green the heart chakra's color, with pink as its partner, so pink and green stones inherit love by color. That chart is younger than it looks. The Theosophical Society's *Quest* magazine credits Ken Dychtwald with first printing the rainbow colors alongside the familiar chakra qualities, in 1977 ([Quest](https://www.theosophical.org/publications/quest-magazine/the-rainbow-body-how-the-western-chakra-system-came-to-be)). More on our [heart chakra stones](/chakras/heart/) page.
 - **Today.** **Modern Association.** Some love stones are new to everyone. Morganite was named in 1910 by Kunz himself, for the banker J. P. Morgan ([Geology.com](https://geology.com/gemstones/morganite/)). Sugilite was first found in Japan in 1944 and named in 1976 ([Geology.com](https://geology.com/minerals/sugilite.shtml)). When a crystal guide calls sugilite "a love stone for the modern age", it is simply accurate.
 
-You will also read that rose quartz was stained pink by Aphrodite's blood, or that Egyptians and Romans used it in face masks. We did not find an old text for either story in the sources behind this page, so treat both as modern tales.
+You will also read that rose quartz was stained pink by Aphrodite's blood, or that Egyptians and Romans used it in face masks. Treat both as modern tales. Pliny the Elder's *Natural History*, read in the Bostock and Riley translation, does not describe rose quartz under any name in its books on stones and gems. Its rose-colored stone is a kind of iaspis, ranked second best, which the translators read as jasper (Book 37, chapter 37, [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D37)).
 
 ## Self-Love or Attracting Someone?
 
@@ -102,7 +104,7 @@ People often ask what it means to put rose quartz under someone's pillow. In mod
 
 **Safety.** If you make a love jar or spell jar with small chips, close it tightly and keep it away from small children and pets, since chips are a choking hazard. Leave out pink opal if the jar holds salt.
 
-**What Research Says.** In a 2025 trial in *CNS Spectrums*, 138 adults used either rose quartz or a look-alike placebo stone for 14 days. Anxiety scores fell only among people who already believed in crystals, real stone or not ([PubMed 40855750](https://pubmed.ncbi.nlm.nih.gov/40855750/)). It tested anxiety, not love, and none of our sources tested a love stone.
+**What Research Says.** A 2025 randomized controlled study in *CNS Spectrums* gave 138 adults, some who believed in crystal healing and some who did not, either rose quartz or a visually matched glass imitation for 14 days. Anxiety scores fell only among the believers, real stone or not ([Escolà-Gascón and colleagues, 2025](https://doi.org/10.1017/S1092852925100515)). It tested anxiety, not love, and we know of no study that has tested a love stone.
 
 ## A Weekly Love Note Ritual
 
@@ -123,7 +125,7 @@ People often ask what it means to put rose quartz under someone's pillow. In mod
 
 **Try This.** Before a first date, a pocket stone can start a small pre-date ritual. Hold it, breathe out slowly three times, pick one question you really want to ask, then put the stone away and go.
 
-**What Research Says.** In a series of experiments, doing a short ritual before a stressful task lowered anxiety and improved performance, and believing the steps were a ritual mattered. The same steps labeled "random behaviors" helped less. The authors open their paper with public speaking and first dates as examples of performance anxiety (Brooks and colleagues, 2016, *Organizational Behavior and Human Decision Processes*, [doi.org/10.1016/j.obhdp.2016.07.004](https://doi.org/10.1016/j.obhdp.2016.07.004)). None of those rituals used stones.
+**What Research Says.** The card ritual is close to a gratitude exercise, and those have been studied. In three randomized studies, two with college students (192 and 157 people) and one with 65 adults living with neuromuscular disease, those asked to list things they were grateful for reported better well-being than comparison groups on several measures, and the clearest gain was in positive mood ([Emmons and McCullough, 2003](https://doi.org/10.1037/0022-3514.84.2.377)). The results were self-reported, the studies did not look at couples, and no stones were involved, so take it as a reason to try the cards, not proof that the ritual works.
 
 ## Crystal Gifts for Love That Get It Right
 
@@ -169,9 +171,9 @@ People often ask what it means to put rose quartz under someone's pillow. In mod
 
 ### Pink Opal
 
-**Mineral Fact.** Pink opal is common opal, the kind without play of color, mixed with other minerals, and its pink comes from organic compounds called quinones ([Gemdat](https://www.gemdat.org/gem-28956.html)). Pink opal from Peru is sold as Peruvian opal ([Geology.com](https://geology.com/gemstones/opal/peruvian-opal.shtml)). **Modern Association.** Classic for love, especially for healing heartbreak and self-acceptance ([Gem Agency](https://gem.agency/gemstones/pink-opal/)). **Care.** Opal in general is sensitive to moisture, heat and temperature changes ([International Gem Society](https://www.gemsociety.org/article/opal-jewelry-and-gemstone-information/)), and our care data rates salt as one to avoid, since hot salt water dissolves opal ([Wikipedia](https://en.wikipedia.org/wiki/Opal), pointer only). If a pink opal egg paled on a windowsill, light is the likely suspect, and GIA warns that heat from intense light can craze opal ([GIA](https://www.gia.edu/gems-gemology/opal-care-cleaning)). More on [pink opal](/stones/pink-opal/).
+**Mineral Fact.** Pink opal is common opal, the kind without play of color, mixed with other minerals, and its pink comes from organic compounds called quinones ([Gemdat](https://www.gemdat.org/gem-28956.html)). Pink opal from Peru is sold as Peruvian opal ([Geology.com](https://geology.com/gemstones/opal/peruvian-opal.shtml)). **Modern Association.** Classic for love, especially for healing heartbreak and self-acceptance ([Gem Agency](https://gem.agency/gemstones/pink-opal/)). **Care.** Opal in general is sensitive to moisture, heat and temperature changes ([International Gem Society](https://www.gemsociety.org/article/opal-jewelry-and-gemstone-information/)), and our care data rates salt as one to avoid, so leave it out of salt cleansing. If a pink opal egg paled on a windowsill, light is the likely suspect, and GIA warns that heat from intense light can craze opal ([GIA](https://www.gia.edu/gems-gemology/opal-care-cleaning)). More on [pink opal](/stones/pink-opal/).
 
-> **When a Stone Is Not Enough.** Many of these stones are given after a breakup or a loss. A stone can be a comfort to hold, but it is not care. If heartbreak or grief turns into weeks of low mood, poor sleep or trouble getting through the day, talk to a doctor or a therapist. If a relationship leaves you feeling afraid or unsafe, reach out to someone you trust or a local support service. If you are in crisis in the US, call or text 988 to reach the 988 Suicide and Crisis Lifeline, or chat at [988lifeline.org](https://988lifeline.org/). In an emergency, call 911.
+> **When a Stone Is Not Enough.** Many of these stones are given after a breakup or a loss. A stone can be a comfort to hold, but it is not care. If heartbreak or grief turns into weeks of low mood, poor sleep or trouble getting through the day, talk to a doctor or a therapist. If a relationship leaves you feeling afraid or unsafe, reach out to someone you trust or a local support service. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 **Next Step.** Buying for someone who is into crystals? Start with our [crystal gift ideas](/crystals-for/gifts/).
 
@@ -179,18 +181,17 @@ People often ask what it means to put rose quartz under someone's pillow. In mod
 
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 97 to 98, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 384 to 385, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - The Theosophical Society, *Quest* magazine, [The Rainbow Body, How the Western Chakra System Came to Be](https://www.theosophical.org/publications/quest-magazine/the-rainbow-body-how-the-western-chakra-system-came-to-be)
-- Brooks, A. W., and colleagues (2016), Don't stop believing, rituals improve performance by decreasing anxiety, *Organizational Behavior and Human Decision Processes* 137, 71 to 85, [doi.org/10.1016/j.obhdp.2016.07.004](https://doi.org/10.1016/j.obhdp.2016.07.004), abstract read on [EconPapers](https://econpapers.repec.org/RePEc:eee:jobhdp:v:137:y:2016:i:c:p:71-85)
-- Placebo effects in alternative medical treatments for anxiety, *CNS Spectrums* 30, e70 (2025), [PubMed 40855750](https://pubmed.ncbi.nlm.nih.gov/40855750/)
+- Pliny the Elder, *Natural History*, Books 36 and 37, translated by John Bostock and H. T. Riley (1855), [Perseus Digital Library, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D37)
+- Robert A. Emmons and Michael E. McCullough, "Counting Blessings Versus Burdens, An Experimental Investigation of Gratitude and Subjective Well-Being in Daily Life," *Journal of Personality and Social Psychology* 84(2) (2003), pages 377 to 389, [doi.org/10.1037/0022-3514.84.2.377](https://doi.org/10.1037/0022-3514.84.2.377)
+- Álex Escolà-Gascón and colleagues, "Placebo Effects in Alternative Medical Treatments for Anxiety, False Hope or Healing Potential?" *CNS Spectrums* 30(1), e70 (2025), [doi.org/10.1017/S1092852925100515](https://doi.org/10.1017/S1092852925100515), also on [PubMed 40855750](https://pubmed.ncbi.nlm.nih.gov/40855750/)
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
 - GIA, [Moonstone](https://www.gia.edu/moonstone/gem-overview), [Rose Quartz](https://www.gia.edu/rose-quartz/gem-overview), rose quartz care ([1](https://www.gia.edu/rose-quartz-care-cleaning), [2](https://www.gia.edu/articles/rose-quartz-care-cleaning)), [Morganite](https://www.gia.edu/morganite/gem-overview) and [opal care](https://www.gia.edu/gems-gemology/opal-care-cleaning)
 - International Gem Society, [moonstone](https://www.gemsociety.org/article/moonstone-jewelry-gem-information/), [rose quartz](https://www.gemsociety.org/article/rose-quartz/), [sugilite](https://www.gemsociety.org/article/sugilite-jewelry-and-gemstone-information/), [morganite](https://www.gemsociety.org/article/morganite-jewelry-and-gemstone-information/) and [opal](https://www.gemsociety.org/article/opal-jewelry-and-gemstone-information/)
 - Hobart M. King, Geology.com, [moonstone](https://geology.com/gemstones/moonstone/), [rose quartz](https://geology.com/gemstones/rose-quartz/), [sugilite](https://geology.com/minerals/sugilite.shtml), [aventurine](https://geology.com/gemstones/aventurine/), [prasiolite](https://geology.com/gemstones/prasiolite), [morganite](https://geology.com/gemstones/morganite/) and [Peruvian opal](https://geology.com/gemstones/opal/peruvian-opal.shtml)
-- [988 Suicide and Crisis Lifeline](https://988lifeline.org/)
+- [988 Suicide & Crisis Lifeline](https://988lifeline.org/)
 - Gemdat, [pink opal](https://www.gemdat.org/gem-28956.html)
-- GemSelect, [strawberry quartz](https://www.gemselect.com/other-info/about-strawberry-quartz.php) and [aventurine](https://www.gemselect.com/gem-info/aventurine/aventurine-info.php), dealer guides
-- Wikipedia, [Opal](https://en.wikipedia.org/wiki/Opal), used as a pointer only
-- Love rankings and modern associations compared across the crystal guides in our lore collection, including thenightsky.com, lebensquelle-plus.de, otterspirit.com, tinyrituals.co, crystals.com, kumioils.com and gem.agency, read November 12 to 18, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

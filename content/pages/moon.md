@@ -135,9 +135,9 @@ The next new moon falls on Tuesday, December 8, 2026, at 7:52 PM. Times are comp
 - International Gem Society, [Moonstone](https://www.gemsociety.org/article/moonstone-jewelry-gem-information/) and [Gypsum](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/)
 - Hobart M. King, Geology.com, [Moonstone](https://geology.com/gemstones/moonstone/)
 - Moon times computed with the method of Jean Meeus, *Astronomical Algorithms*, 2nd edition (1998), chapters 47 to 49, checked against US Naval Observatory phase times. Traditional full moon names from the Old Farmer's Almanac
-- Modern moon associations compared across the crystal guides in our lore collection, including [Crystal Vaults](https://www.crystalvaults.com/crystal-encyclopedia/moonstone/), [crystals.com](https://www.crystals.com/blogs/news/moonstone-meaning-properties), [Moonrise Crystals](https://moonrisecrystals.com/moonstone-meaning/), [Satin Crystals](https://www.satincrystals.com/blogs/news/moonstone-for-intuitive-moon-healing) and [Tiny Rituals](https://tinyrituals.co/blogs/tiny-rituals/moonstone-meaning-healing-properties-everyday-uses), read November 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 - Photo, Smithsonian National Museum of Natural History, [specimen record](http://n2t.net/ark:/65665/3b20c30b9-5238-4533-bf1b-16308b71c630), CC0 via [Smithsonian Open Access](https://www.si.edu/openaccess)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

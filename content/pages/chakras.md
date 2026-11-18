@@ -1,7 +1,7 @@
 ---
-title: "Chakra Stones Chart & Where the Rainbow Colors Come From"
+title: "Chakra Stones Chart & Where the Rainbow Colors Come from"
 description: "Chakra stones chart for all seven chakras, with colors and the crystals guides link most, plus the real history of the rainbow chart from India to 1977."
-h1: "Chakra Stones Chart & Where the Rainbow System Comes From"
+h1: "Chakra Stones Chart & Where the Rainbow System Comes from"
 url: "/chakras/"
 primary_keyword: "chakra stones"
 secondary_keywords:
@@ -10,7 +10,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2027-01-01"
 publishTime: "09:11"
-status: "draft"
+status: "verified"
 page_type: "hub"
 sources:
   - "https://www.theosophical.org/publications/quest-magazine/the-rainbow-body-how-the-western-chakra-system-came-to-be"
@@ -27,9 +27,9 @@ sources:
   - "https://www.crystalvaults.com/crystal-encyclopedia/smoky-quartz/"
 ---
 
-# Chakra Stones Chart & Where the Rainbow System Comes From
+# Chakra Stones Chart & Where the Rainbow System Comes from
 
-Chakra stones are crystals that modern guides match to the seven chakras of today's Western chart, mostly by color, from red jasper at the root to amethyst at the crown. The rainbow chart itself is recent. Kurt Leland, who wrote a history of the Western chakra system, traces its first full version in print to Ken Dychtwald's 1977 book *Bodymind*, and he notes that the Indian chakras had colors but no rainbow.
+Chakra stones are crystals that modern guides match to the seven chakras of today's Western chart, mostly by color, from red jasper at the root to amethyst at the crown. The rainbow chart itself is recent. Kurt Leland, who wrote a history of the Western chakra system, finds that the rainbow colors and the list of chakra qualities first came together in print in 1977, in Ken Dychtwald's *Bodymind*, and he notes that the Indian chakras had colors but no rainbow.
 
 <!-- PHOTO HERO. PHOTO TO FIND. Owner photo wanted, seven real tumbled stones in a row from red to violet on a plain background, each one identified (for example red jasper, carnelian, citrine, green aventurine, aquamarine, amethyst, howlite). No licensed group photo exists in our image files, and a generated image must not stand in for real stones (doc 08 section 2). -->
 
@@ -40,29 +40,29 @@ This is the modern Western chart. Locations and Sanskrit names follow most cryst
 | Chakra | Sanskrit Name | Where | Rainbow Color | Stones Linked Most |
 |---|---|---|---|---|
 | [Root](/chakras/root/) | Muladhara | Base of the spine | Red, often black too | Smoky quartz, red jasper, obsidian, onyx |
-| [Sacral](/chakras/sacral/) | Svadhisthana | Lower belly | Orange | Carnelian, orange calcite, sunstone, moonstone |
-| [Solar Plexus](/chakras/solar-plexus/) | Manipura | Upper belly | Yellow | Citrine, pyrite, amber, tiger's eye |
-| [Heart](/chakras/heart/) | Anahata | Center of the chest | Green, with pink as partner | Rose quartz, green aventurine, malachite, emerald |
-| [Throat](/chakras/throat/) | Vishuddha | Throat | Blue | Turquoise, aquamarine, celestite, angelite |
+| [Sacral](/chakras/sacral/) | Svadhisthana | Lower belly | Orange | Orange calcite, carnelian, sunstone, moonstone |
+| [Solar Plexus](/chakras/solar-plexus/) | Manipura | Upper belly | Yellow | Amber, citrine, pyrite, tiger's eye |
+| [Heart](/chakras/heart/) | Anahata | Center of the chest | Green, with pink as partner | Emerald, malachite, green aventurine, rose quartz |
+| [Throat](/chakras/throat/) | Vishuddha | Throat | Blue | Turquoise, celestite, angelite, aquamarine |
 | [Third Eye](/chakras/third-eye/) | Ajna | Between the brows | Indigo, stones mostly blue or purple | Azurite, lepidolite, amethyst, labradorite |
 | [Crown](/chakras/crown/) | Sahasrara | Top of the head | Violet or white | Charoite, amethyst, howlite, moonstone |
 
 **Modern Association.** Every link here is a modern belief. The colors run the rainbow up the body, and most stones land where their color does, except [clear quartz](/stones/clear-quartz/), Widely Linked to all seven at once.
 
-## Where the Rainbow Chakra System Comes From
+## Where the Rainbow Chakra System Comes from
 
 **The Story.** Most of today's chart was assembled in the 20th century, according to Kurt Leland's article "The Rainbow Body" in *Quest*, the magazine of the Theosophical Society in America ([Quest](https://www.theosophical.org/publications/quest-magazine/the-rainbow-body-how-the-western-chakra-system-came-to-be), Spring 2017).
 
 - **India.** **Tradition.** Indian sources vary widely, with as few as four chakras in some and as many as forty-nine in others. The chakras "have colors, but there is no rainbow," and they were meant to be pierced, dissolved and transcended.
 - **1880s.** **Tradition.** The base of seven chakras tied to nerve plexuses comes from Helena Blavatsky's writings.
 - **1919.** **Tradition.** Sir John Woodroffe's *The Serpent Power* appears, which Leland describes as the first scholarly publication in English on one version of the system.
-- **1920s.** **Tradition.** The vernacular names appear. In 1927, C. W. Leadbeater's *The Chakras* describes the centers as he said he saw them clairvoyantly, in terms that match neither the old Indian texts nor today's New Age books. In 1928, Cajzoran Ali's book joins the chakras to the endocrine glands.
-- **1920s to 1950s.** **Tradition.** Color healers, among them Ivah Bergh Whitten, her student Roland Hunt and S. G. J. Ouseley, link chakras to rainbow colors. One color per chakra shows up from the 1930s.
-- **1977.** **Modern Association.** Ken Dychtwald's *Bodymind* combines the rainbow colors, the glands and a list of qualities (grounding, sexuality, empowerment, compassion, communication, intuitive insight and enlightenment). Leland calls him the father of the Western chakra system.
+- **1920s.** **Tradition.** The vernacular names appear. In 1927, C. W. Leadbeater's *The Chakras* appears. Leland calls it a classic written in obscure terminology, and says the clairvoyant perceptions it records differ from both ancient Indian texts and recent New Age books. In 1928, Cajzoran Ali's book joins the chakras to the endocrine glands.
+- **1920s to 1950s.** **Tradition.** Color healers, among them the American Ivah Bergh Whitten, her student Roland Hunt (author of *The Seven Keys of Color Healing*) and the British S. G. J. Ouseley, contribute the color associations. One color per chakra, in rainbow order, shows up in the 1930s.
+- **1977.** **Modern Association.** Ken Dychtwald's *Bodymind* brings the color healers' rainbow colors and the glands together with the human potential movement's list of qualities (grounding, sexuality, empowerment, compassion, communication, intuitive insight and enlightenment). Leland says the two strands did not meet in print until then, and that Dychtwald became the father of the Western chakra system.
 - **1980s.** **Modern Association.** Anodea Judith's *Wheels of Life* pulls the systems together, and Barbara Brennan's *Hands of Light* (1988) adds aura layers.
 - **1990.** **Modern Association.** Leland calls Shirley MacLaine's October 4, 1990, appearance on the *Tonight Show* the system's coming-out party.
 
-Leland lists gemstones and minerals among the Western system's correspondences but gives no date for when stones joined the chart [TO CHECK earliest dated book that assigns stones to the seven chakras].
+Leland lists gemstones and minerals among the Western system's many correspondences but gives no date for when stones joined the chart, so we do not credit any book with starting the stone chart.
 
 ## Why Chakra Stone Charts Disagree
 
@@ -70,7 +70,7 @@ Charts disagree because the matching is done by color, and stones do not come in
 
 Some guides add chakras the chart lacks, such as an earth star or a soul star. Those are rare in our lore collection.
 
-The biggest clash is with the care data, and the care data wins. Malachite is a Classic heart stone, but it is a copper mineral whose dust is toxic to breathe when it is cut or ground ([International Gem Society](https://www.gemsociety.org/article/malachite-jewelry-and-gemstone-information/)), so it never goes in water you drink. Selenite, Sometimes Linked to the crown, is a form of gypsum, which is water soluble ([International Gem Society](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/)). Celestite and angelite, two Classic throat stones, are both soft, and dealers advise keeping angelite away from water ([Gemstones.com](https://www.gemstones.com/gemopedia/angelite)). Check any set in the [Care Checker](/tools/crystal-care-checker/) before a cleansing bath.
+The biggest clash is with the care data, and the care data wins. Malachite is a Classic heart stone, but it is a copper mineral whose dust is toxic to breathe when it is cut or ground ([International Gem Society](https://www.gemsociety.org/article/malachite-jewelry-and-gemstone-information/)), so it never goes in water you drink. Selenite, Often Linked to the crown, is a form of gypsum, which is water soluble ([International Gem Society](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/)). Celestite and angelite, two Classic throat stones, are both soft, and dealers advise keeping angelite away from water ([Gemstones.com](https://www.gemstones.com/gemopedia/angelite)). Check any set in the [Care Checker](/tools/crystal-care-checker/) before a cleansing bath.
 
 ## A Simple Seven-Stone Practice
 
@@ -87,7 +87,7 @@ The biggest clash is with the care data, and the care data wins. Malachite is a 
 ## Sources
 
 - Kurt Leland, "The Rainbow Body, How the Western Chakra System Came to Be," *Quest* 105, no. 2 (Spring 2017), pages 25 to 29, [Theosophical Society in America](https://www.theosophical.org/publications/quest-magazine/the-rainbow-body-how-the-western-chakra-system-came-to-be)
-- "Placebo effects in alternative medical treatments for anxiety, false hope or healing potential?" *CNS Spectrums* 30 (2025), e70, [PubMed 40855750](https://pubmed.ncbi.nlm.nih.gov/40855750/)
+- "Placebo effects in alternative medical treatments for anxiety, false hope or healing potential?" *CNS Spectrums* 30 (2025), e70, [PubMed 40855750](https://pubmed.ncbi.nlm.nih.gov/40855750/), DOI 10.1017/S1092852925100515
 - International Gem Society, [Malachite](https://www.gemsociety.org/article/malachite-jewelry-and-gemstone-information/), [Gypsum](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/) and [Celestite](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/)
 - Gemstones.com, [Angelite](https://www.gemstones.com/gemopedia/angelite), a dealer guide
 - Chakra locations, colors and stones compared across the crystal guides in our lore collection, including crystalgemstones.net, crystals.com, crystalvaults.com and lebensquelle-plus.de, read November 13, 2026

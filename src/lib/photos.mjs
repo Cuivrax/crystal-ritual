@@ -54,6 +54,25 @@ export function parsePhotoComment(raw, unnumberedIndex = 1) {
   };
 }
 
+/**
+ * "PHOTO PAIR ... LEFT, ruby. <note> RIGHT, garnet. <note>" (compare pages) becomes two notes,
+ * roles "pair-left" and "pair-right", each with the stone word as its label.
+ */
+export function parsePairComment(raw) {
+  const text = String(raw).replace(/^\s*<!--/, '').replace(/-->\s*$/, '');
+  const left = /\bLEFT,\s*([^.]+)\.([\s\S]*?)(?=\bRIGHT,|$)/.exec(text);
+  const right = /\bRIGHT,\s*([^.]+)\.([\s\S]*?)(?=\bALTERNATE\b|$)/.exec(text);
+  const out = [];
+  for (const [side, m] of [['left', left], ['right', right]]) {
+    if (!m) continue;
+    const note = parsePhotoComment(`PHOTO ${side === 'left' ? 1 : 2}. ${m[2]}`);
+    if (!note) continue;
+    const toFind = /TO FIND/i.test(m[2]);
+    out.push({ ...note, role: `pair-${side}`, hero: false, pair: side, label: m[1].trim(), toFind, usable: note.usable && !toFind });
+  }
+  return out;
+}
+
 /** All photo notes of a page body, in reading order. */
 export function parsePhotoComments(body) {
   const out = [];
@@ -61,6 +80,10 @@ export function parsePhotoComments(body) {
   for (const m of String(body).matchAll(/<!--[\s\S]*?-->/g)) {
     const head = /^<!--\s*PHOTO(S?)\b([^.,]*)/.exec(m[0]);
     if (!head) continue;
+    if (/^\s*PAIR\b/i.test(head[2])) {
+      for (const p of parsePairComment(m[0])) out.push({ ...p, raw: m[0], offset: m.index });
+      continue;
+    }
     if (!head[1] && head[2].trim() === '') unnumbered++;
     const p = parsePhotoComment(m[0], unnumbered);
     if (p) out.push({ ...p, raw: m[0], offset: m.index });

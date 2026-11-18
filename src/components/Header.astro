@@ -1,0 +1,49 @@
+---
+import { MAIN_NAV, SITE_NAME, pathOf } from '../lib/nav.mjs';
+import { logoMark, icon } from '../lib/ui.mjs';
+import { getSite } from '../lib/site.mjs';
+const { current = '/' } = Astro.props;
+const site = await getSite();
+const homeBuilt = site.isBuilt('/');
+const items = MAIN_NAV.map((n) => {
+  const built = site.isBuilt(pathOf(n.href));
+  const here = n.match.some((m) => current.startsWith(m)) || (!n.href.includes('#') && pathOf(n.href) === current);
+  return { ...n, built, here };
+});
+const searchHref = site.isBuilt('/stones/') ? '/stones/#atlas' : null;
+---
+<header class="site-header">
+  <div class="bar">
+    {homeBuilt
+      ? <a class="brand" href="/"><Fragment set:html={logoMark({ size: 40 })} /><span class="brand-name">{SITE_NAME}</span></a>
+      : <span class="brand"><Fragment set:html={logoMark({ size: 40 })} /><span class="brand-name">{SITE_NAME}</span></span>}
+    <nav class="main-nav" aria-label="Main">
+      {items.map((n) => n.built
+        ? <a href={n.href} aria-current={n.here ? 'page' : undefined}>{n.label}</a>
+        : <span class="is-off">{n.label}</span>)}
+    </nav>
+    <div class="head-actions">
+      {searchHref && <a class="round-btn" href={searchHref} aria-label="Search the Stone Atlas"><Fragment set:html={icon('magnifier', { size: 18, stroke: 2 })} /></a>}
+      <button type="button" class="round-btn is-dark menu-toggle" aria-expanded="false" aria-controls="mobile-nav" aria-label="Open menu"><Fragment set:html={icon('menu', { size: 18, stroke: 2 })} /></button>
+    </div>
+  </div>
+  <nav class="mobile-nav" id="mobile-nav" aria-label="Main" hidden>
+    <ul>
+      {items.map((n) => <li>{n.built ? <a href={n.href} aria-current={n.here ? 'page' : undefined}>{n.label}</a> : <span class="is-off">{n.label}</span>}</li>)}
+    </ul>
+  </nav>
+  <noscript><style>.mobile-nav[hidden] { display: block; } .menu-toggle { display: none; }</style></noscript>
+</header>
+<script is:inline>
+(function () {
+  var b = document.querySelector('.menu-toggle');
+  var n = document.getElementById('mobile-nav');
+  if (!b || !n) return;
+  b.addEventListener('click', function () {
+    var open = b.getAttribute('aria-expanded') === 'true';
+    b.setAttribute('aria-expanded', String(!open));
+    b.setAttribute('aria-label', open ? 'Open menu' : 'Close menu');
+    n.hidden = open;
+  });
+})();
+</script>

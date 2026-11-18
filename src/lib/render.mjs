@@ -62,7 +62,9 @@ export async function renderPage(page, site) {
   const thumbs = await stoneThumbs(site);
   const photoHtml = new Map();
   let heroHtml = null;
+  const pair = [];
   for (const p of photos) {
+    if (p.pair) { pair.push({ side: p.pair, label: p.label, html: p.meta ? await figureHtml(p, p.meta, { variant: 'card' }) : null }); continue; }
     if (!p.meta || !p.role) continue;
     if (p.hero) {
       if (!heroHtml) heroHtml = await figureHtml(p, p.meta, { variant: 'hero', eager: true });
@@ -72,6 +74,7 @@ export async function renderPage(page, site) {
     }
   }
   const ctx = {
+    keepHidden: page.type === 'home',
     preview: site.preview,
     isBuilt: site.isBuilt,
     policy,
@@ -87,5 +90,6 @@ export async function renderPage(page, site) {
   const doc = await renderDocument(page, ctx);
   doc.heroHtml = doc.hero ? heroHtml : null;
   doc.photos = photos;
+  doc.pair = pair;
   return doc;
 }

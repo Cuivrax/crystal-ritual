@@ -1,0 +1,73 @@
+---
+// Compare pages, A vs B (R3-Compare).
+import Base from '../../layouts/Base.astro';
+import Breadcrumbs from '../Breadcrumbs.astro';
+import Sections from '../Sections.astro';
+import Body from '../Body.astro';
+import AuthorBox from '../AuthorBox.astro';
+import Sources from '../Sources.astro';
+import { breadcrumbsFor, ogImageFrom, citationsFor } from '../../lib/page-meta.mjs';
+import { stoneThumbs, knownFor, stonesIndex } from '../../lib/render.mjs';
+import { facetRating, titleCase, HOW_WE_RATE_TEXT, esc } from '../../lib/ui.mjs';
+const { page, doc, site } = Astro.props;
+const crumbs = breadcrumbsFor(page, site);
+const thumbs = await stoneThumbs(site);
+const slugs = page.slug.split('-vs-');
+const sides = slugs.map((slug, i) => {
+  const fromPair = doc.pair.find((p) => p.label && p.label.toLowerCase().replace(/\s+/g, '-') === slug) || doc.pair[i] || null;
+  const name = stonesIndex.stones[slug]?.name || titleCase(slug.replace(/-/g, ' '));
+  const url = site.isBuilt(`/stones/${slug}/`) ? `/stones/${slug}/` : null;
+  return { slug, name, url, photo: fromPair?.html || thumbs.get(slug)?.card || null, known: knownFor(slug, 4) };
+});
+const others = site.pages.filter((p) => p.type === 'compare' && p.url !== page.url);
+const hasKnown = sides.some((s) => s.known.length);
+const howHref = site.isBuilt('/sources/') ? '/sources/#how-we-rate' : '#how-we-rate';
+---
+<Base page={page} title={page.data.title} description={page.data.description} url={page.url} image={ogImageFrom(sides[0].photo)} breadcrumbs={crumbs} citations={citationsFor(page)}>
+  <div class="wrap"><Breadcrumbs items={crumbs} /></div>
+  <section class="wrap page-hero compare-hero">
+    <p class="eyebrow">Compare Two Stones</p>
+    <h1 class="page-title" style="max-width:980px">{page.data.h1}</h1>
+    <p class="byline">By <a href="#author">Iris Holloway</a></p>
+    <div class="vs-pair">
+      {sides.map((s, i) => (
+        <Fragment>
+          {i === 1 && <div class="vs-disc" aria-hidden="true">vs</div>}
+          <div class={`vs-side side-${i}`}>
+            {s.photo ? <Fragment set:html={s.photo} /> : <div class="vs-blank" aria-hidden="true"></div>}
+            <p class="vs-name">{s.url ? <a href={s.url}>{s.name}</a> : s.name}</p>
+          </div>
+        </Fragment>
+      ))}
+    </div>
+    {doc.lead && <p class="lead" set:html={doc.lead} />}
+  </section>
+  {doc.intro && <div class="wrap section-intro"><div class="prose"><Body html={doc.intro} page={page} /></div></div>}
+  <Sections sections={doc.sections} page={page} />
+  {hasKnown && (
+    <section class="section band-soft" aria-labelledby="known-for">
+      <div class="wrap">
+        <div class="card known-pair">
+          <div class="card-head"><h2 class="card-title" id="known-for">Known For</h2><a class="small-link" href={howHref}>How We Rate</a></div>
+          <div class="known-cols">
+            {sides.map((s) => s.known.length > 0 && (
+              <div>
+                <p class="fact-label">{s.name}</p>
+                <ul class="kf-list">{s.known.map((k) => <li><span class="kf-name">{k.label}</span><Fragment set:html={facetRating(k.facets)} /></li>)}</ul>
+              </div>
+            ))}
+            <p class="note" id="how-we-rate"><strong>How We Rate.</strong> {HOW_WE_RATE_TEXT}</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  )}
+  {others.length > 0 && (
+    <section class="wrap section" aria-labelledby="more-compares">
+      <h2 class="card-title" id="more-compares">More Side by Sides</h2>
+      <div class="child-grid">{others.map((o) => <a class="child-card" href={o.url}><span class="child-title">{o.data.h1}</span></a>)}</div>
+    </section>
+  )}
+  <AuthorBox text={doc.authorText} compact={true} />
+  <Sources html={doc.sources} lastReviewed={doc.lastReviewed} />
+</Base>

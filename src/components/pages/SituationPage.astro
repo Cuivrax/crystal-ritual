@@ -1,0 +1,60 @@
+---
+// Crystals For pages (R3-For-Sleep), also used for birthstone months and zodiac signs.
+import Base from '../../layouts/Base.astro';
+import Breadcrumbs from '../Breadcrumbs.astro';
+import Sections from '../Sections.astro';
+import Body from '../Body.astro';
+import AuthorBox from '../AuthorBox.astro';
+import Sources from '../Sources.astro';
+import { icon, INTENTIONS, HOW_WE_RATE_TEXT, facetLegend, titleCase } from '../../lib/ui.mjs';
+import { breadcrumbsFor, ogImageFrom, citationsFor } from '../../lib/page-meta.mjs';
+const { page, doc, site } = Astro.props;
+const crumbs = breadcrumbsFor(page, site);
+if (page.type === 'situation') {
+  crumbs.splice(1, 0, { name: 'Find Your Stone', url: site.isBuilt('/') ? '/#find-your-stone' : null });
+  crumbs.shift();
+}
+const intent = INTENTIONS[page.slug] || null;
+const tone = page.type === 'month' ? 'gold' : page.type === 'sign' ? 'blue' : (intent?.tone || 'lavender');
+const eyebrowIcon = page.type === 'month' ? 'calendar' : page.type === 'sign' ? 'zodiac' : (intent?.icon || 'gem');
+const eyebrow = page.type === 'month' ? `${titleCase(page.slug)} Birthstones` : page.type === 'sign' ? `${titleCase(page.slug)} Stones` : `Crystals for ${titleCase(page.slug.replace(/-/g, ' '))}`;
+const usesFacets = page.type !== 'month';
+const howHref = site.isBuilt('/sources/') ? '/sources/#how-we-rate' : null;
+const howBox = `<p class="card-title">How We Rate</p><p>${HOW_WE_RATE_TEXT}</p>${facetLegend()}${howHref ? `<p><a href="${howHref}">How We Rate</a></p>` : ''}`;
+const others = site.pages.filter((p) => p.type === 'situation' && p.url !== page.url);
+---
+<Base page={page} title={page.data.title} description={page.data.description} url={page.url} image={ogImageFrom(doc.heroHtml)} breadcrumbs={crumbs} citations={citationsFor(page)}>
+  <section class={`intent-hero tone-${tone}`}>
+    <div class="wrap">
+      <Breadcrumbs items={crumbs} />
+      <div class="hero-grid">
+        <div class="hero-text" style="flex: 2 1 560px">
+          <p class="intent-eyebrow"><Fragment set:html={icon(eyebrowIcon, { size: 22 })} />{eyebrow}</p>
+          <h1 class="page-title">{page.data.h1}</h1>
+          {doc.lead && <p class="lead" set:html={doc.lead} />}
+          <p class="byline">By <a href="#author">Iris Holloway</a></p>
+        </div>
+        {doc.heroHtml
+          ? <div class="hero-figure intent-photo"><Fragment set:html={doc.heroHtml} /></div>
+          : usesFacets && <aside class="dark-aside" set:html={howBox} />}
+      </div>
+    </div>
+  </section>
+  {doc.intro && <div class="wrap section-intro"><div class="prose"><Body html={doc.intro} page={page} /></div></div>}
+  {doc.heroHtml && usesFacets && (
+    <div class="wrap how-row"><aside class="dark-aside" id="how-we-rate" set:html={howBox} /></div>
+  )}
+  <Sections sections={doc.sections} page={page} />
+  {page.type === 'situation' && others.length > 0 && (
+    <section class="section band-lavender more-intents">
+      <div class="wrap">
+        <p class="card-title">Other Things People Look For</p>
+        <div class="chip-row" style="margin-top:14px">
+          {others.map((o) => { const it = INTENTIONS[o.slug]; return <a class={`chip tone-${it?.tone || 'gray'}`} href={o.url}>Crystals for {titleCase(o.slug.replace(/-/g, ' '))}</a>; })}
+        </div>
+      </div>
+    </section>
+  )}
+  <AuthorBox text={doc.authorText} />
+  <Sources html={doc.sources} lastReviewed={doc.lastReviewed} />
+</Base>

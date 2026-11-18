@@ -1,0 +1,30 @@
+---
+// Moon pages and moon tools, night style (R3-Moon).
+import Base from '../../layouts/Base.astro';
+import Breadcrumbs from '../Breadcrumbs.astro';
+import Sections from '../Sections.astro';
+import Body from '../Body.astro';
+import AuthorBox from '../AuthorBox.astro';
+import Sources from '../Sources.astro';
+import { breadcrumbsFor, ogImageFrom, citationsFor } from '../../lib/page-meta.mjs';
+const { page, doc, site } = Astro.props;
+const crumbs = breadcrumbsFor(page, site);
+---
+<Base page={page} title={page.data.title} description={page.data.description} url={page.url} image={ogImageFrom(doc.heroHtml)} breadcrumbs={crumbs} citations={citationsFor(page)} night={true}>
+  <div class="wrap"><Breadcrumbs items={crumbs} /></div>
+  <section class="wrap page-hero moon-hero">
+    <div class={['hero-grid', doc.heroHtml ? '' : 'no-photo'].join(' ')}>
+      <div class="hero-text">
+        <p class="eyebrow">Moon</p>
+        <h1 class="page-title">{page.data.h1}</h1>
+        {doc.lead && <p class="lead lead-muted" set:html={doc.lead} />}
+        <p class="byline">By <a href="#author">Iris Holloway</a></p>
+      </div>
+      {doc.heroHtml && <div class="hero-figure moon-photo"><Fragment set:html={doc.heroHtml} /></div>}
+    </div>
+  </section>
+  {doc.intro && <div class="wrap moon-intro"><Body html={doc.intro} page={page} /></div>}
+  <Sections sections={doc.sections} page={page} />
+  <AuthorBox text={doc.authorText} />
+  <Sources html={doc.sources} lastReviewed={doc.lastReviewed} />
+</Base>

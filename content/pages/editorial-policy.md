@@ -8,12 +8,14 @@ secondary_keywords: []
 author: "Iris Holloway"
 publishDate: "2026-12-06"
 publishTime: "07:00"
-status: "draft"
+status: "verified"
 page_type: "trust"
 sources:
   - "https://www.gia.edu/amethyst/gem-overview"
   - "https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/"
   - "https://www.gutenberg.org/ebooks/57978"
+  - "https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children"
+  - "https://www.news-medical.net/news/20181221/FDA-warns-against-use-of-jewelry-to-relieve-teething-pain-in-children.aspx"
 ---
 
 # Editorial Policy
@@ -63,7 +65,7 @@ Every stone page uses the same five labels for what a stone really is.
 - **When a Stone Is Not Enough.** Pages about anxiety, sleep, grief, depression, pain, pregnancy, fertility, children or pets carry a short box with that title and plain advice to talk to a doctor, therapist, midwife or vet. Pages on grief or depression add the 988 Suicide and Crisis Lifeline.
 - **Never instead of care.** Nothing here suggests replacing or delaying medical care, medication or vet care.
 - **Crystal water.** We describe only the indirect method, with the stone beside the jar or sealed in a small inner glass, and only for stones our care data lists as both non-toxic and stable in water. We always name the stones that must never go in water you drink, malachite, azurite, chrysocolla, pyrite, galena, cinnabar, stibnite, realgar, orpiment, and any dyed or stabilized stone.
-- **Small stones and children.** Tumbled stones and bead bracelets are not toys. Amber teething necklaces get an explicit warning, because the US Food and Drug Administration warned in December 2018 that teething jewelry carries a risk of choking and strangulation [TO CHECK link to the official fda.gov warning].
+- **Small stones and children.** Tumbled stones and bead bracelets are not toys. Amber teething necklaces get an explicit warning. The US Food and Drug Administration warned parents and caregivers against teething jewelry in December 2018, as [News-Medical reported at the time](https://www.news-medical.net/news/20181221/FDA-warns-against-use-of-jewelry-to-relieve-teething-pain-in-children.aspx). Its consumer advice still cites reports of deaths and serious injuries to infants and children, including strangulation and choking, caused by teething jewelry such as amber teething necklaces ([FDA](https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children)).
 - **Radioactive jewelry.** Where it matters, we mention the December 2021 warning from the Dutch nuclear safety authority (ANVS) about radioactive "negative ion" and "quantum" pendants.
 
 ## Care & Safety Data
@@ -88,6 +90,6 @@ Found a mistake? Tell us through the [contact page](/contact/), with the page ad
 
 Every page shows the date it was last reviewed.
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the founder and editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

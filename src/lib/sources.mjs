@@ -87,7 +87,7 @@ export function domainsInText(text) {
 
 /** The one line that stands for every "crystal guides" or "lore collection" item of a page. */
 export const GUIDES_LINE = {
-  before: 'Modern associations as described in popular crystal books and guides, rated on our five-step scale, see ',
+  before: 'Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see ',
   link: 'How We Rate',
   href: '/sources/',
 };

@@ -1,0 +1,39 @@
+---
+import '../styles/global.css';
+import Seo from '../components/Seo.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { getSite } from '../lib/site.mjs';
+import { ornament } from '../lib/ui.mjs';
+const { page = null, title, description, url, image = null, breadcrumbs = [], citations = [], night = false, bodyClass = '', showOrnament = false } = Astro.props;
+const site = await getSite();
+const noindex = site.preview;
+const authorUrl = site.isBuilt('/about/') ? '/about/' : null;
+---
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content={night ? 'dark' : 'light'}>
+<meta name="theme-color" content={night ? '#141A2E' : '#FBFAF8'}>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="Crystal & Ritual" href="/rss.xml">
+<Seo page={page} title={title} description={description} url={url} image={image} breadcrumbs={breadcrumbs} citations={citations} noindex={noindex} authorUrl={authorUrl} />
+</head>
+<body class={[night ? 'theme-night' : '', bodyClass].filter(Boolean).join(' ')}>
+<a class="skip" href="#main">Skip to the content</a>
+{site.preview && <div class="draft-ribbon" title={page && page.heldReasons.length ? `Held outside preview, ${page.heldReasons.map((r) => r.text).join(', ')}` : 'Preview build'}>Draft</div>}
+<Header current={url} />
+{showOrnament && <Fragment set:html={ornament()} />}
+<main id="main">
+<slot />
+</main>
+<Footer />
+<script is:inline>
+if (window.matchMedia && window.matchMedia('(max-width: 719px)').matches) {
+  document.querySelectorAll('details.fold[open]').forEach(function (d) { d.removeAttribute('open'); });
+}
+</script>
+</body>
+</html>

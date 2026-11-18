@@ -23,11 +23,12 @@ sources:
   - "https://gemstones.com/gemopedia/jasper"
   - "https://www.stonemania.co.uk/crystals/i-j/jasper-stone"
   - "https://www.langantiques.com/university/jasper-2/"
-  - "https://www.gemrockauctions.com/learn/a-z-of-gemstones/howlite"
   - "https://www.americangemsociety.org/birthstones/"
+  - "https://cnmnc.units.it/"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
-  - "https://doi.org/10.1016/j.obhdp.2016.07.004"
+  - "https://doi.org/10.7717/peerj.3363"
+  - "https://crystalmagic.com/products/red_jasper_tumbled"
   - "https://mindbodygreen.com/articles/red-jasper"
   - "https://www.crystals.com/blogs/news/red-jasper-crystal-meaning"
   - "https://www.beadsofcambay.com/blogs/meaning/red-jasper-meaning-healing-properties-benefits-and-uses"
@@ -53,7 +54,7 @@ Red jasper is an opaque, brick-red form of jasper, a microcrystalline quartz col
 | Specific gravity | 2.55 to 2.91, for jasper in general |
 | Transparency | Opaque |
 | Color cause | Iron oxides, often hematite |
-| Where it is found | Jasper occurs worldwide [TO CHECK localities for red jasper itself] |
+| Where it is found | Worldwide, for jasper in general |
 | Water | OK to wash. Soaking Brief only |
 | Sun | OK |
 | Heat | OK unless dyed. Heat may shift the color |
@@ -130,7 +131,7 @@ Many sites go further, listing circulation, period pain, fertility, pregnancy an
 
 **Try This.** Keep a tumbled piece in your pocket on the day of a presentation or an interview. Five minutes before, hold it, breathe out slowly three times, count to five and put it away. Do it the same way every time.
 
-**What Research Says.** Brooks and colleagues (2016) compared people who followed a short ritual just before a stressful task with people who did nothing special. The ritual group reported feeling calmer and did better, and the gap narrowed when the same actions were described as random behavior ([journal article](https://doi.org/10.1016/j.obhdp.2016.07.004)). No stone was involved, so the jasper is our addition. What may carry over is the repeatable routine, which is why the steps above stay the same every time.
+**What Research Says.** In a small pre-registered experiment, 48 mostly undergraduate volunteers practiced an invented ritual at home for a week, and afterward an EEG showed a smaller brain response to their own errors during a task, with no change in how well they did it ([Hobson and colleagues, 2017](https://doi.org/10.7717/peerj.3363)). They did not report feeling any different, and no stone was involved, so the jasper is our addition. What may carry over is the practiced, repeated routine, which is why the steps above stay the same every time.
 
 ### A Desk Anchor
 
@@ -149,9 +150,9 @@ Many sites go further, listing circulation, period pain, fertility, pregnancy an
 Most red jasper doubts are mix-ups rather than fakes, and carnelian is one of the most common. Here is where red jasper stands on our five labels.
 
 - **Natural, untreated.** Red jasper as it formed, only cut and polished.
-- **Natural, treated.** Lang Antiques lists dyeing and heat treatment for jasper in general, and Gemstones.com says jasper is sometimes dyed, often to look like lapis lazuli. [TO CHECK how often red jasper itself is dyed or heated.]
+- **Natural, treated.** For jasper in general, the [International Gem Society](https://www.gemsociety.org/article/jasper-gem-information/) lists dyeing as common and stable, something a gemologist can detect by appearance, spectrum or a Chelsea filter, and heating as a common, stable color change that cannot be detected. Lang Antiques also lists dyeing and heat treatment, and Gemstones.com says jasper is sometimes dyed, often to look like lapis lazuli. We found no reference source on how often red jasper itself is dyed or heated.
 - **Lab-grown.** None in our sources.
-- **Imitation.** Howlite, a soft white mineral at 3 to 3.5 ([Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/howlite)), is frequently dyed to imitate turquoise ([International Gem Society](https://www.gemsociety.org/article/howlite-jewelry-and-gemstone-information/)), and red dye can make it imitate red coral (Gem Rock Auctions). [TO CHECK whether red-dyed howlite is sold as red jasper.]
+- **Imitation.** We found no reference source describing dyed howlite, or any other imitation, sold as red jasper. Howlite, a soft white mineral at 3 to 3.5, is frequently dyed blue to resemble turquoise, according to the [International Gem Society](https://www.gemsociety.org/article/howlite-jewelry-and-gemstone-information/).
 - **Trade name.** Rhyolite and other rocks sold under jasper names, as above.
 
 ### Red Jasper vs Carnelian
@@ -194,9 +195,9 @@ Check your exact piece, including dyed beads or a bracelet on elastic, in the [C
 
 ## Price Guide
 
-Jaspers in general are very common, so most of a piece's value lies in the saturation of its color, the beauty of its pattern and the skill of the cutting, according to the International Gem Society. In rock shops, simple commercial pieces might cost $5 or less, and fine material cut in designer forms generally runs $2 to $5 per carat. The IGS article is undated, so treat these as rough guides.
+Jaspers in general are very common, so most of a piece's value lies in the saturation of its color, the beauty of its pattern and the skill of the cutting, according to the International Gem Society. In rock shops, simple commercial pieces might cost $5 or less, and fine material cut in designer forms generally runs $2 to $5 per carat. The IGS gives no date for these figures, so treat them as rough guides.
 
-[TO CHECK typical US retail ranges for tumbled stones, bead bracelets, towers and spheres, with a dated source.]
+In one listing we found, a tumbled red jasper about 1 inch across was $3. Price from a US crystal shop listing in November 2026.
 
 **Next Step.** Before your red jasper goes into a bath or a jar, look it up in the [Care Checker](/tools/crystal-care-checker/).
 
@@ -207,14 +208,14 @@ Jaspers in general are very common, so most of a piece's value lies in the satur
 - Gemstones.com, [Jasper](https://gemstones.com/gemopedia/jasper), a dealer guide
 - Stone Mania, [Jasper, Properties, Facts and Photos](https://www.stonemania.co.uk/crystals/i-j/jasper-stone), a dealer article
 - Lang Antiques, [Jasper](https://www.langantiques.com/university/jasper-2/), an antique jewelry reference
-- Gem Rock Auctions, [Howlite](https://www.gemrockauctions.com/learn/a-z-of-gemstones/howlite), a dealer guide
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
-- IMA List of Minerals, July 2026 edition [TO CHECK official link]
+- IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 6, 91, 140, 226, 290 to 291, 299 to 300 and 332, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 144 to 145 and 148 to 149, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
-- Alison Wood Brooks and colleagues, "Don't Stop Believing, Rituals Improve Performance by Decreasing Anxiety," *Organizational Behavior and Human Decision Processes* 137 (2016), pages 71 to 85, [DOI 10.1016/j.obhdp.2016.07.004](https://doi.org/10.1016/j.obhdp.2016.07.004)
+- Nicholas M. Hobson, Devin Bonk and Michael Inzlicht, "Rituals Decrease the Neural Response to Performance Failure," *PeerJ* 5 (2017), e3363, [DOI 10.7717/peerj.3363](https://doi.org/10.7717/peerj.3363)
+- US crystal shop listing for tumbled red jasper, read November 18, 2026
 - mindbodygreen, [Red Jasper](https://mindbodygreen.com/articles/red-jasper), quoting Heather Askinosie of Energy Muse
 - Modern associations compared across crystals.com, mindbodygreen.com, beadsofcambay.com, thenightsky.com, otterspirit.com, bindi-online.com and gambin.co, among other crystal guides, read November 13, 2026
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

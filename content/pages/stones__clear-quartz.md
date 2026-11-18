@@ -33,7 +33,9 @@ sources:
   - "https://www.stonemania.co.uk/blog/lemurian-quartz-crystals"
   - "https://www.geologyin.com/2017/06/how-is-aura-rainbow-quartz-made.html"
   - "https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/"
+  - "https://cnmnc.units.it/"
   - "https://www.gutenberg.org/ebooks/57978"
+  - "https://mylittlemagicshop.com/products/high-grade-clear-quartz"
   - "https://crystalgemstones.net/clear-quartz-meaning-and-spiritual-properties.html"
   - "https://www.crystals.com/blogs/news/clear-quartz-meaning-properties"
   - "https://moonrisecrystals.com/clear-quartz-meaning/"
@@ -66,7 +68,7 @@ Clear quartz, long called rock crystal, is the colorless and transparent form of
 | Salt | Unknown |
 | Toxic to handle | No. Cutting and grinding dust is a silicosis risk |
 | Common fakes | Glass, lab-grown quartz, laser-engraved "phantom" quartz |
-| Price range | Low for most pieces, high only for large flawless ones [TO CHECK US retail by form] |
+| Price range | Low for most pieces, high only for large flawless ones. One tumbled stone, 3/4 to 1 1/4 inches, was $7 in November 2026 |
 | Birthstone | None on the modern US list |
 | Weekday & sign (Tradition) | Wednesday, Mercury and Gemini, in an old print of the Roman weekday gods described by Kunz |
 | Chakra (Modern Association) | Crown chakra, or all chakras, depending on the guide |
@@ -186,7 +188,7 @@ A quick rinse suits clear quartz as a cleansing ritual. Drinking water is anothe
 
 Rock crystal is common and has little intrinsic value, except in very large, flawless pieces, according to the International Gem Society. Gem Rock Auctions quotes quartz crystal at $1 to $7 per carat and $4 to $10 per pound, figures it says come from a quick online search. Clarity and size drive the price, so a transparent piece without fractures costs more than a cloudy one of the same weight. At the top end sit museum spheres like Kunz's Madagascar ball.
 
-[TO CHECK typical US retail ranges for tumbled stones, points, towers, spheres and bead bracelets, with a dated source.]
+In one listing we found, a tumbled clear quartz about 3/4 to 1 1/4 inches across was $7. Price from a US crystal shop listing in November 2026.
 
 **Next Step.** Before your stone meets water, sun or salt, look it up in the [Care Checker](/tools/crystal-care-checker/).
 
@@ -201,10 +203,11 @@ Rock crystal is common and has little intrinsic value, except in very large, fla
 - Stone Mania, [Lemurian Quartz Crystals](https://www.stonemania.co.uk/blog/lemurian-quartz-crystals), a dealer article
 - Geology In, [How Is Aura Rainbow Quartz Made](https://www.geologyin.com/2017/06/how-is-aura-rainbow-quartz-made.html)
 - Wikipedia, [Quartz](https://en.wikipedia.org/wiki/Quartz), used as a pointer only
-- IMA List of Minerals, July 2026 edition [TO CHECK official link]
+- IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 34, 100 to 101, 162 to 163, 180, 212, 217, 219 to 220, 223, 254 to 255 and 332, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
 - Modern associations compared across crystalgemstones.net, crystals.com, moonrisecrystals.com, firemountaingems.com, lebensquelle-plus.de and wemystic.fr, among other crystal guides, read November 13, 2026
+- US crystal shop listing for tumbled clear quartz, read November 18, 2026
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

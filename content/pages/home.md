@@ -15,7 +15,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-06"
 publishTime: "07:00"
-status: "draft"
+status: "verified"
 page_type: "home"
 sources:
   - "https://www.gia.edu/amethyst/gem-overview"
@@ -30,7 +30,7 @@ sources:
 
 <!-- HOME PAGE COPY, sections in the order of the R3-Home artboard (canvas "Crystal & Ritual, Directions"). Layout, colors and components come from the mockup. Only the words live here. -->
 
-<!-- SECTION 1, HEADER NAV. Labels "Stones" (/stones/), "Find Your Stone" (#find-your-stone), "Rituals" (/rituals/moon-water/ until a rituals hub exists), "Moon" (/moon/), "Tools" (/tools/crystal-care-checker/ until a tools hub exists), "Field Notes" [TO CHECK the URL, no Field Notes index in content_plan.csv]. Search button label "Search". -->
+<!-- SECTION 1, HEADER NAV. Labels "Stones" (/stones/), "Find Your Stone" (#find-your-stone), "Rituals" (/rituals/moon-water/ until a rituals hub exists), "Moon" (/moon/), "Tools" (/tools/crystal-care-checker/ until a tools hub exists), "Field Notes" (/#field-notes, the Field Notes section of this page, because content_plan.csv has no Field Notes index). Search button label "Search". -->
 
 <!-- SECTION 2, HERO. -->
 
@@ -119,7 +119,11 @@ Evening. Write one line about something you handled kindly today, then set the s
 
 Moon. Jar on the windowsill, stone beside it, one line on a card about what you are done carrying. [Moon water, the safe way](/rituals/moon-water/)
 
-<!-- SECTION 7, FIELD NOTES, the newest first. Pull titles from each page's frontmatter at build time, the titles below follow jday_pages.csv. "All Field Notes" link [TO CHECK the URL]. -->
+<!-- SECTION 7, FIELD NOTES, the newest first. Pull titles from each page's frontmatter at build time, the titles below follow jday_pages.csv. -->
+
+<!-- BUILD no "All Field Notes" link at launch, since content_plan.csv has no Field Notes index. The H2 below keeps the id "field-notes", the target of the header nav label. -->
+
+<!-- OWNER Field Notes index. No such page is in content_plan.csv. Add one to the plan if you want an "All Field Notes" link and a nav target of its own. -->
 
 ## Field Notes
 
@@ -130,8 +134,6 @@ Short, honest reads for the questions people actually ask. The newest first.
 3. Care. [Which Crystals Can Go in Water?](/care/crystals-that-cant-go-in-water/)
 4. Crystals For. [Crystals for Sleep & a Calm Bedtime Routine](/crystals-for/sleep/)
 5. Birthstones. [January Birthstone Meaning, History & Honest Buying Tips](/birthstones/january/)
-
-All Field Notes
 
 <!-- SECTION 8, THE STONE ATLAS teaser. Filter labels "Color" (Any Color, Pink, Purple, Black, White), "Intention" (Any Intention, Sleep, Love, Protection), "Chakra, a Modern Belief" (Any Chakra, Heart, Root), "Hardness" (Any Hardness, "Soft, Under 5", "Medium, 5 to 6.5", "Hard, 7 and Up"). Card chips show the facet word, never a count. -->
 
@@ -157,17 +159,17 @@ One name for two different minerals, jadeite and nephrite ([Geology.com](https:/
 
 [Open the Stone Atlas](/stones/)
 
-<!-- PHOTOS for the four cards. Amethyst, same Smithsonian record as the hero. Pink tourmaline, R3 used /home/claude/hc/r3/img/full/pink-tourmaline-mesa-grande.jpg (Smithsonian NMNH, CC0) [TO CHECK record link and log it in the image file]. PHOTO TO FIND for moldavite and jade, no candidate with visual_check ok in images_candidates.csv or images_commons_candidates.csv. Caption line "Photos Smithsonian NMNH, CC0" only for the cards that use Smithsonian photos. -->
+<!-- PHOTOS for the four cards. Amethyst, same Smithsonian record as the hero. Pink tourmaline, R3 used /home/claude/hc/r3/img/full/pink-tourmaline-mesa-grande.jpg (Smithsonian NMNH, CC0), record http://n2t.net/ark:/65665/3ff6e21bd-aa98-48fa-8a9c-b1800cffa2c5 (Elbaite, Mesa Grande, San Diego Co., California), image https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3c72581061d904dd7b3bc143ac0bea37d (byte-identical to the R3 file, pink elbaite crystal on a dark background, checked 2026-11-18). PHOTO TO FIND for moldavite and jade, no candidate with visual_check ok in images_candidates.csv or images_commons_candidates.csv. Caption line "Photos Smithsonian NMNH, CC0" only for the cards that use Smithsonian photos. -->
 
-<!-- SECTION 9, NEWSLETTER. -->
+<!-- BUILD log the pink tourmaline Smithsonian record above in the image register, it is not in images_candidates.csv yet. -->
 
-## One Stone, One True Story, One Small Ritual
+<!-- SECTION 9, NEWSLETTER, shown as coming soon at launch. -->
 
-A short letter [TO CHECK how often] with one stone, where its meaning really comes from and a ritual that fits a normal day.
+<!-- HIDDEN AT LAUNCH. The visible "Coming Soon" newsletter block (H2 "One Stone, One True Story, One Small Ritual", copy saying a letter is on the way) was removed by the final check, because no sign-up exists and no page may promise one. When the service is live, restore a block with the label "Coming Soon" dropped, the H2 above, a short line on what the letter holds, and the form. -->
 
-<!-- Field label "Your Email", button "Subscribe", fine print below. -->
+<!-- BUILD newsletter form. No sign-up service exists at launch, so show nothing about a newsletter, no email field and no Subscribe button. When the service is live, add the field label "Your Email", the button "Subscribe" and the fine print "No spam. Unsubscribe in one click.", and update the copy above. -->
 
-No spam. Unsubscribe in one click.
+<!-- OWNER newsletter. Pick the sign-up service and decide how often the letter goes out before the form is switched on. -->
 
 <!-- SECTION 10, CLOSING BAND (D style). -->
 
@@ -179,7 +181,7 @@ Keep the stone in your pocket on the day of the talk. Before you walk in, hold i
 
 [Read the Pink Tourmaline Page](/stones/pink-tourmaline/)
 
-<!-- PHOTO for the band. R3 used "Pink tourmaline, Mesa Grande, California. Smithsonian NMNH, CC0" [TO CHECK record link, same file as the Atlas card]. -->
+<!-- PHOTO for the band. R3 used "Pink tourmaline, Mesa Grande, California. Smithsonian NMNH, CC0", record http://n2t.net/ark:/65665/3ff6e21bd-aa98-48fa-8a9c-b1800cffa2c5, same file as the Atlas card. -->
 
 <!-- SECTION 11, FOOTER. Brand "Crystal & Ritual". Nav labels "Stone Atlas" (/stones/), "Find Your Stone" (/#find-your-stone), "Moon" (/moon/), "Care Checker" (/tools/crystal-care-checker/), "Label Decoder" (/tools/crystal-label-decoder/, live from week 3), "About Iris Holloway" (/about/), "Editorial Policy" (/editorial-policy/), "How We Use AI" (/editorial-policy/#how-we-use-ai), "Sources & Methods" (/sources/), "Contact" (/contact/). -->
 

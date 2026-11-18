@@ -1,0 +1,207 @@
+---
+// Home page, from R3-Home. The Markdown body of home.md supplies the text of each band.
+import Base from '../../layouts/Base.astro';
+import MoonMini from '../tools/MoonMini.astro';
+import { homeModel } from '../../lib/home.mjs';
+import { articles, categoryOf } from '../../lib/site.mjs';
+import { stoneThumbs, stonesIndex } from '../../lib/render.mjs';
+import { icon, facetSvg, FACET_LABELS, esc, facetsFromLabel } from '../../lib/ui.mjs';
+import { ogImageFrom, citationsFor } from '../../lib/page-meta.mjs';
+const { page, doc, site } = Astro.props;
+const m = homeModel(doc);
+const thumbs = await stoneThumbs(site);
+const notes = articles(site).slice(0, 5);
+const atlasBuilt = site.isBuilt('/stones/');
+const ctas = m.heroCtas;
+const placeholder = 'Search a stone, or the name on a label';
+const pad = (n) => String(n).padStart(2, '0');
+---
+<Base page={page} title={page.data.title} description={page.data.description} url="/" image={ogImageFrom(doc.heroHtml)} breadcrumbs={[]} citations={citationsFor(page)} showOrnament={true}>
+  <section class="wrap home-hero">
+    <div class="home-hero-text">
+      {doc.eyebrow && <p class="pill-eyebrow" set:html={doc.eyebrow} />}
+      <h1 class="home-title">{page.data.h1}</h1>
+      {doc.lead && <p class="home-lead" set:html={doc.lead} />}
+      {ctas.length > 0 && (
+        <div class="btn-row">
+          {ctas.map((c, i) => c.built
+            ? <a class={`btn ${i === 0 ? 'btn-primary' : 'btn-secondary'}`} href={c.href}>{c.text}</a>
+            : <span class={`btn ${i === 0 ? 'btn-primary' : 'btn-secondary'} is-off`}>{c.text}</span>)}
+        </div>
+      )}
+      {atlasBuilt && (
+        <form class="hero-search" role="search" action="/stones/" method="get">
+          <label class="sr-only" for="home-search">Search a Stone</label>
+          <input id="home-search" name="q" type="search" placeholder={placeholder} autocomplete="off">
+          <button type="submit" class="btn btn-dark">Search</button>
+        </form>
+      )}
+    </div>
+    {doc.heroHtml && (
+      <div class="home-hero-figure">
+        <div class="arch"><div class="arch-frame" aria-hidden="true"></div><Fragment set:html={doc.heroHtml} />
+          <svg class="sprig" viewBox="0 0 120 220" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" aria-hidden="true"><path d="M92 214 C80 160 70 110 52 20"/><path d="M86 180 C64 172 50 160 44 146 C62 148 78 160 86 180Z"/><path d="M80 150 C98 138 106 124 108 108 C92 114 82 128 80 150Z"/><path d="M72 118 C52 110 40 96 36 82 C54 86 68 98 72 118Z"/><path d="M66 88 C82 76 88 62 88 48 C74 54 66 68 66 88Z"/></svg>
+        </div>
+      </div>
+    )}
+  </section>
+
+  {m.find && (
+    <section class="home-find" id="find-your-stone" aria-labelledby={m.find.id}>
+      <div class="wrap">
+        <h2 class="home-h2 center" id={m.find.id}>
+          {m.find.eyebrow && <span class="h2-eyebrow">{m.find.eyebrow}</span>}
+          <span class="h2-main">{m.find.title}</span>
+        </h2>
+        <div class="center-text" set:html={m.find.intro} />
+        <div class="intent-grid">
+          {m.find.chips.map((c) => {
+            const inner = `${icon(c.icon, { size: 30 })}<span class="intent-name">${esc(c.text)}</span>${c.sub ? `<span class="intent-sub">${esc(c.sub)}</span>` : ''}`;
+            return c.built ? <a class={`intent-card tone-${c.tone}`} href={c.href} set:html={inner} /> : <div class={`intent-card tone-${c.tone} is-off`} set:html={inner} />;
+          })}
+        </div>
+        {m.find.more && <div class="center-text more-needs" set:html={m.find.more} />}
+        {m.find.featuredTitle && (
+          <div class="featured-box">
+            <div class="featured-head">
+              <p class="featured-title">{m.find.featuredTitle}</p>
+              {m.find.featuredLink && m.find.featuredLink.built && <a class="featured-link" href={m.find.featuredLink.href}>{m.find.featuredLink.text}</a>}
+            </div>
+            <div class="featured-grid">
+              {m.find.featured.map((f) => {
+                const slug = f.path ? f.path.split('/').filter(Boolean).pop() : null;
+                const thumb = slug ? thumbs.get(slug)?.circle : null;
+                const inner = `${thumb ? thumb : '<span class="circle-blank" aria-hidden="true"></span>'}<span><span class="featured-name">${esc(f.name)}</span>${f.facets ? `<span class="featured-rating">${facetSvg(f.facets, { width: 68, label: false })}${esc(FACET_LABELS[f.facets])}</span>` : ''}</span>`;
+                return f.built ? <a class="featured-item" href={f.path} set:html={inner} /> : <div class="featured-item" set:html={inner} />;
+              })}
+            </div>
+            {m.find.fine && <p class="featured-fine" set:html={m.find.fine} />}
+          </div>
+        )}
+      </div>
+    </section>
+  )}
+
+  {m.quote && (
+    <section class="wrap quote-band">
+      <Fragment set:html={icon('star', { size: 36 })} />
+      <blockquote><p set:html={m.quote.text} /></blockquote>
+      {m.quote.tagline && <p class="quote-tagline">{m.quote.tagline}</p>}
+    </section>
+  )}
+
+  {m.moon && (
+    <section class="home-moon" aria-labelledby={m.moon.id}>
+      <div class="wrap home-moon-grid">
+        <div class="home-moon-now">
+          <h2 class="moon-label" id={m.moon.id}>{m.moon.title}</h2>
+          <div set:html={m.moon.intro} class="moon-intro-text" />
+          <MoonMini page={page} />
+        </div>
+        <div class="home-moon-month">
+          <p class="moon-month-title">The Month in Moons</p>
+          <ol class="moon-strip" data-moon-strip></ol>
+          <div class="btn-row">
+            {m.moon.ctas.map((c) => c.built ? <a class="btn btn-night" href={c.href}>{c.text}</a> : null)}
+          </div>
+        </div>
+      </div>
+    </section>
+  )}
+
+  {m.rituals && (
+    <section class="wrap home-rituals" id="rituals" aria-labelledby={m.rituals.id}>
+      <div class="rituals-head">
+        <div>
+          <h2 class="home-h2" id={m.rituals.id}>{m.rituals.title}</h2>
+          <div class="muted-text" set:html={m.rituals.intro} />
+        </div>
+        {m.rituals.categories.length > 1 && (
+          <ul class="color-key" aria-label="Color key">
+            {m.rituals.categories.map((c) => <li class={`tone-${({ daytime: 'pink', evening: 'lavender', 'self-care': 'green', moon: 'night' })[c.toLowerCase()] || 'pink'}`}>{c}</li>)}
+          </ul>
+        )}
+      </div>
+      <div class="home-ritual-grid">
+        {m.rituals.cards.map((c) => {
+          const inner = `${c.eyebrow ? `<span class="hr-eyebrow">${esc(c.eyebrow)}</span>` : ''}<h3>${esc(c.title)}</h3><p>${esc(c.text)}</p>${c.link && c.link.built ? `<span class="hr-more">${esc(c.link.text)}</span>` : ''}`;
+          return c.link && c.link.built ? <a class={`home-ritual tone-${c.tone}`} href={c.link.href} set:html={inner} /> : <div class={`home-ritual tone-${c.tone}`} set:html={inner} />;
+        })}
+      </div>
+    </section>
+  )}
+
+  {m.notes && notes.length > 0 && (
+    <section class="home-notes" id="field-notes" aria-labelledby="field-notes-h">
+      <div class="wrap notes-grid">
+        <div class="notes-intro">
+          <h2 class="home-h2" id="field-notes-h">{m.notes.title}</h2>
+          <div set:html={m.notes.intro} />
+          <p><a class="small-link" href="/rss.xml">Follow by RSS</a></p>
+        </div>
+        <ol class="notes-list">
+          {notes.map((n, i) => (
+            <li><a href={n.url}><span class="note-num">{pad(i + 1)}</span><span class="note-body"><span class="note-cat">{categoryOf(n)}</span><span class="note-title">{n.data.h1}</span></span></a></li>
+          ))}
+        </ol>
+      </div>
+    </section>
+  )}
+
+  {m.atlas && (
+    <section class="wrap home-atlas" aria-labelledby={m.atlas.id}>
+      <div class="atlas-head">
+        <div>
+          <h2 class="home-h2" id={m.atlas.id}>{m.atlas.title}</h2>
+          <div class="muted-text" set:html={m.atlas.intro} />
+        </div>
+        {atlasBuilt && <a class="small-link" href="/stones/">Open the Stone Atlas</a>}
+      </div>
+      {atlasBuilt && (
+        <form class="atlas-teaser-form" action="/stones/" method="get" aria-label="Filter the Stone Atlas">
+          <div class="field"><label for="t-color">Color</label><select id="t-color" name="color"><option value="">Any Color</option><option value="pink">Pink</option><option value="purple">Purple</option><option value="black">Black</option><option value="white">White</option></select></div>
+          <div class="field"><label for="t-int">Intention</label><select id="t-int" name="intention"><option value="">Any Intention</option><option value="sleep">Sleep</option><option value="love">Love</option><option value="protection">Protection</option></select></div>
+          <div class="field"><label for="t-hard">Hardness</label><select id="t-hard" name="hardness"><option value="">Any Hardness</option><option value="soft">Soft, Under 5</option><option value="medium">Medium, 5 to 6.5</option><option value="hard">Hard, 7 and Up</option></select></div>
+          <div class="field field-btn"><button class="btn btn-dark" type="submit">Show Stones</button></div>
+        </form>
+      )}
+      <div class="atlas-cards">
+        {m.atlas.cards.map((c) => {
+          const photo = c.slug ? thumbs.get(c.slug)?.card : null;
+          const chips = c.chips.map((t) => {
+            const fl = facetsFromLabel(t.split(',').pop());
+            const cls = /^hardness/i.test(t) ? 'tone-green' : fl ? 'tone-lavender' : 'tone-gray';
+            return `<span class="mini-chip ${cls}">${esc(t)}</span>`;
+          }).join('');
+          const title = c.link && c.link.built ? `<a class="stretched" href="${esc(c.link.href)}">${esc(c.name)}</a>` : esc(c.name);
+          return <article class={`atlas-card${c.link && c.link.built ? ' is-link' : ''}`} set:html={`${photo || ''}<div class="atlas-card-body"><h3>${title}</h3><p>${esc(c.description)}</p><div class="mini-chips">${chips}</div></div>`} />;
+        })}
+      </div>
+    </section>
+  )}
+
+  {m.letter && (
+    <section class="home-letter" aria-labelledby={m.letter.id}>
+      <div class="wrap letter-inner">
+        <h2 class="home-h2" id={m.letter.id}>{m.letter.title}</h2>
+        <div class="center-text" set:html={m.letter.text} />
+        <p class="coming-soon"><span class="soon-pill">Coming Soon</span></p>
+        {m.letter.fine && <p class="letter-fine">{m.letter.fine}</p>}
+      </div>
+    </section>
+  )}
+
+  {m.closing && (
+    <section class="home-closing" aria-labelledby={m.closing.id}>
+      <div class="wrap closing-grid">
+        <div class="closing-text">
+          {m.closing.eyebrow && <p class="closing-eyebrow">{m.closing.eyebrow}</p>}
+          <h2 class="home-h2" id={m.closing.id}>{m.closing.title}</h2>
+          <div set:html={m.closing.text} />
+          {m.closing.link && m.closing.link.built && <a class="btn btn-dark" href={m.closing.link.href}>{m.closing.link.text}</a>}
+        </div>
+        {m.closing.slug && thumbs.get(m.closing.slug) && <div class="closing-figure" set:html={thumbs.get(m.closing.slug).card} />}
+      </div>
+    </section>
+  )}
+</Base>

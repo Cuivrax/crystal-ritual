@@ -1,0 +1,56 @@
+---
+// Stone page, from R3-Stone and R3-Stone-Mobile.
+import Base from '../../layouts/Base.astro';
+import Breadcrumbs from '../Breadcrumbs.astro';
+import Sections from '../Sections.astro';
+import Body from '../Body.astro';
+import AuthorBox from '../AuthorBox.astro';
+import Sources from '../Sources.astro';
+import { evidenceLegend } from '../../lib/ui.mjs';
+import { breadcrumbsFor, ogImageFrom, citationsFor } from '../../lib/page-meta.mjs';
+import { comparesFor } from '../../lib/render.mjs';
+const { page, doc, site } = Astro.props;
+const crumbs = breadcrumbsFor(page, site);
+const facts = doc.sections.find((s) => s.kind === 'facts');
+const real = doc.sections.find((s) => s.kind === 'real');
+const compare = comparesFor(site, page.slug)[0] || null;
+const toc = doc.sections.filter((s) => s.navLabel);
+const eyebrow = facts?.whatItIs || null;
+---
+<Base page={page} title={page.data.title} description={page.data.description} url={page.url} image={ogImageFrom(doc.heroHtml)} breadcrumbs={crumbs} citations={citationsFor(page)}>
+  <div class="wrap"><Breadcrumbs items={crumbs} /></div>
+  <section class="wrap page-hero">
+    <div class={['hero-grid', 'photo-first', doc.heroHtml ? '' : 'no-photo'].join(' ')}>
+      {doc.heroHtml && <div class="hero-figure"><div class="arch"><div class="arch-frame" aria-hidden="true"></div><Fragment set:html={doc.heroHtml} /></div></div>}
+      <div class="hero-text">
+        {eyebrow && <p class="eyebrow">{eyebrow}</p>}
+        <h1 class="page-title">{page.data.h1}</h1>
+        <p class="byline">By <a href="#author">Iris Holloway</a></p>
+        {doc.lead && <p class="lead" set:html={doc.lead} />}
+        <Fragment set:html={evidenceLegend()} />
+        <div class="btn-row stack">
+          {real && <a class="btn btn-primary" href={`#${real.id}`}>Is Yours Real?</a>}
+          {compare && <a class="btn btn-secondary" href={compare.url}>{compare.title}</a>}
+        </div>
+        {doc.intro && <div class="prose hero-extra"><Body html={doc.intro} page={page} /></div>}
+      </div>
+    </div>
+  </section>
+  {facts && (
+    <section class="section section-facts" aria-labelledby={facts.id}>
+      <div class="wrap">
+        <h2 class="section-title is-facts" id={facts.id} set:html={facts.headingHtml} />
+        <div class="prose layout-facts"><Body html={facts.html} page={page} /></div>
+      </div>
+    </section>
+  )}
+  {toc.length > 2 && (
+    <nav class="toc" aria-label="On this page">
+      {toc.map((s) => <a href={`#${s.id}`}>{s.navLabel}</a>)}
+      {doc.sources && <a href="#sources">Sources</a>}
+    </nav>
+  )}
+  <Sections sections={doc.sections} page={page} skip={['facts']} />
+  <AuthorBox text={doc.authorText} />
+  <Sources html={doc.sources} lastReviewed={doc.lastReviewed} />
+</Base>

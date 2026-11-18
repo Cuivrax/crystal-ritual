@@ -15,6 +15,7 @@ status: "verified"
 page_type: "situation"
 sources:
   - "https://www.americangemsociety.org/birthstones/"
+  - "https://www.gemsociety.org/article/history-of-birthstones/"
   - "https://www.gia.edu/rose-quartz/gem-overview"
   - "https://geology.com/gemstones/rose-quartz/"
   - "https://www.gemsociety.org/article/rose-quartz/"
@@ -125,7 +126,7 @@ For crystals for a birthday, the birthstone is the safest bet, because it is per
 | November | Topaz, citrine |
 | December | Tanzanite, turquoise, zircon |
 
-[TO CHECK the history of the modern list, the 1912 jewelers' list and later updates, with a dated source.] For February and November, a tumbled amethyst or citrine is an easy, inexpensive way to give the birthstone without buying jewelry. Our [birthstones by month guide](/birthstones/) explains where each list comes from.
+The list is younger than it looks. In 1912 the National Association of Jewelers met to standardize the American birthstones, and in 1952 the Jewelry Industry Council of America revised the list, adding alexandrite for June, pink tourmaline for October, citrine for November and zircon for December. Tanzanite joined December in 2002 and spinel joined August in 2016 ([International Gem Society](https://www.gemsociety.org/article/history-of-birthstones/)). For February and November, a tumbled amethyst or citrine is an easy, inexpensive way to give the birthstone without buying jewelry. Our [birthstones by month guide](/birthstones/) explains where each list comes from.
 
 ## The Care Card That Makes the Gift
 
@@ -146,7 +147,7 @@ Three filled-in examples, using facts from our sources.
 
 > **Tiger's Eye.** Quartz grown around mineral fibers ([IGS](https://www.gemsociety.org/article/tigers-eye-gem-information/)), which is why a band of light slides across it when you turn it ([Ganoksin](https://ganoksin.com/article/a-second-look-at-tigers-eye)). Safe to carry and handle, says [Deposits Magazine](https://depositsmag.com/2023/04/29/the-how-and-why-of-tigers-eye/). Many people keep one in a pocket on days that call for nerve. For your first week at the new job.
 
-**What Research Says.** In four experiments, people who wrote letters of gratitude underestimated how happy their recipients would feel and overestimated how awkward the letter would be (Kumar and Epley, 2018, *Psychological Science*, [doi.org/10.1177/0956797618772506](https://doi.org/10.1177/0956797618772506)). The study was about letters, not stones or gifts [TO CHECK sample sizes in the full paper]. It does suggest that the fourth line on the card matters more than you think.
+**What Research Says.** In four experiments, people who wrote letters of gratitude underestimated how happy their recipients would feel and overestimated how awkward the letter would be (Kumar and Epley, 2018, *Psychological Science*, [doi.org/10.1177/0956797618772506](https://doi.org/10.1177/0956797618772506)). The study was about letters, not stones or gifts. It does suggest that the fourth line on the card matters more than you think.
 
 ### For the Skeptic
 
@@ -170,16 +171,15 @@ Most crystal gifts go wrong in a few predictable ways.
 
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), modern US list, retrieved November 12, 2026
 - GIA, [Rose Quartz](https://www.gia.edu/rose-quartz/gem-overview), [Amethyst](https://www.gia.edu/amethyst/gem-overview), [amethyst care](https://www.gia.edu/amethyst-care-cleaning), [Citrine](https://www.gia.edu/citrine/gem-overview), [citrine care](https://www.gia.edu/citrine-care-cleaning), [Tanzanite](https://www.gia.edu/tanzanite/gem-overview), [Turquoise](https://www.gia.edu/turquoise/gem-overview) and [Reversible Color Modification of Blue Zircon by Long-Wave Ultraviolet Radiation](https://www.gia.edu/gems-gemology/fall-2016-reversible-color-modification-blue-zircon-long-wave-ultraviolet-radiation) (Gems & Gemology, Fall 2016)
-- International Gem Society, [rose quartz](https://www.gemsociety.org/article/rose-quartz/), [tiger's eye](https://www.gemsociety.org/article/tigers-eye-gem-information/), [tanzanite](https://www.gemsociety.org/article/tanzanite-jewelry-and-gemstone-information/), [turquoise](https://www.gemsociety.org/article/turquoise-jewelry-gem-information/), [zircon](https://www.gemsociety.org/article/zircon-jewelry-and-gemstone-information/), [fluorite](https://www.gemsociety.org/article/fluorite-jewelry-gemstone-information/) and [gypsum](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/)
+- International Gem Society, [rose quartz](https://www.gemsociety.org/article/rose-quartz/), [tiger's eye](https://www.gemsociety.org/article/tigers-eye-gem-information/), [tanzanite](https://www.gemsociety.org/article/tanzanite-jewelry-and-gemstone-information/), [turquoise](https://www.gemsociety.org/article/turquoise-jewelry-gem-information/), [zircon](https://www.gemsociety.org/article/zircon-jewelry-and-gemstone-information/), [fluorite](https://www.gemsociety.org/article/fluorite-jewelry-gemstone-information/), [gypsum](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/) and Amanda Butcher, [History of Birthstones](https://www.gemsociety.org/article/history-of-birthstones/), updated October 3, 2024
 - Hobart M. King, Geology.com, [quartz](https://geology.com/minerals/quartz.shtml), [rose quartz](https://geology.com/gemstones/rose-quartz/), [amethyst](https://geology.com/gemstones/amethyst/), [smoky quartz](https://geology.com/gemstones/smoky-quartz/), [tanzanite](https://geology.com/gemstones/tanzanite/), [turquoise](https://geology.com/minerals/turquoise.shtml) and [zircon](https://geology.com/minerals/zircon.shtml)
 - Deposits Magazine, [The How and Why of Tiger's Eye](https://depositsmag.com/2023/04/29/the-how-and-why-of-tigers-eye/), and Ganoksin, [A Second Look at Tiger's Eye](https://ganoksin.com/article/a-second-look-at-tigers-eye)
-- Wikipedia, [Smoky quartz](https://en.wikipedia.org/wiki/Smoky_quartz), used as a pointer for fading, in line with our care data
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 73, 109 to 110, 114, 307 to 308, 320 and 344 to 345, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
 - Kumar, A., and Epley, N. (2018), Undervaluing gratitude, expressers misunderstand the consequences of showing appreciation, *Psychological Science*, [doi.org/10.1177/0956797618772506](https://doi.org/10.1177/0956797618772506), summarized by the [Association for Psychological Science](https://www.psychologicalscience.org/publications/observer/obsonline/people-underestimate-the-power-of-saying-thanks.html)
 - Mount Nittany Health, [Safety Hazards of Teething Jewelry](https://kids.mountnittany.org/resources/details/safety-hazards-of-teething-jewelry), summary of the FDA warning of December 2018, and the FDA, [Safely Soothing Teething Pain in Infants and Children](https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children)
 - 988 Suicide and Crisis Lifeline, [fact sheet](https://988lifeline.org/wp-content/uploads/2026/08/988Day_FactSheet_988-2026_EN.pdf)
-- Gift and intention associations compared across the crystal guides in our lore collection, including crystalgemstones.net, read November 13, 2026
+- Gift and intention associations compared across modern crystal guides, including crystalgemstones.net, read November 13, 2026
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*

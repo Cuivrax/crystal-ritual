@@ -26,7 +26,9 @@ page_type: "situation"
 sources:
   - "https://www.cdc.gov/sleep/about/index.html"
   - "https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children"
+  - "https://doi.org/10.1017/S1092852925100515"
   - "https://pubmed.ncbi.nlm.nih.gov/40855750/"
+  - "https://doi.org/10.1093/sleep/32.5.599"
   - "https://www.gutenberg.org/ebooks/57978"
   - "https://www.gutenberg.org/ebooks/66583"
   - "https://www.gia.edu/amethyst/gem-overview"
@@ -37,6 +39,7 @@ sources:
   - "https://galleries.com/minerals/silicate/howlite/howlite.htm"
   - "https://www.gemsociety.org/article/charoite-jewelry-and-gemstone-information/"
   - "https://www.minerals.net/mineral/stilbite"
+  - "https://www.handbookofmineralogy.org/pdfs/stilbite-Ca.pdf"
   - "https://en.wikipedia.org/wiki/Stilbite"
   - "https://www.gemsociety.org/article/prehnite-jewelry-and-gemstone-information/"
   - "https://galleries.com/minerals/silicate/prehnite/prehnite.htm"
@@ -100,7 +103,7 @@ The labels run from Classic and Widely Linked down to Often Linked, Sometimes Li
 - **1915, Paris.** **Tradition.** A Parisian oracle on mystic subjects, as Kunz calls the Baroness d'Orchamps, recommended moonstone "for the manifold forms of nervousness" (*The Magic of Jewels and Charms*, 1915, pages 371 to 372).
 - **Today.** **Modern Association.** The rest is recent. Howlite is named for Henry How, the Nova Scotia geologist who described it ([Amethyst Galleries](https://galleries.com/minerals/silicate/howlite/howlite.htm)), and the IMA list of minerals dates it to 1868. Charoite reached Western markets only in the 1970s ([International Gem Society](https://www.gemsociety.org/article/charoite-jewelry-and-gemstone-information/)). Their bedtime meanings come from crystal shops and books, not from old lapidaries. Color helps too, since modern charts put purple stones at the crown chakra and guides tie anything that glows like moonstone to the moon.
 
-**What Research Says.** None of the sources behind this page tested a crystal for sleep. The closest study is a 2025 trial in *CNS Spectrums* that gave 138 adults either rose quartz or a look-alike placebo stone for 14 days. Anxiety scores fell only among people who already believed in crystals, and it made no difference whether their stone was real ([PubMed 40855750](https://pubmed.ncbi.nlm.nih.gov/40855750/)). It measured anxiety, not sleep. So the honest case for a sleep stone is the routine around it.
+**What Research Says.** No study we know of has tested a crystal for sleep. The closest is a 2025 randomized controlled study in *CNS Spectrums* that gave 138 adults, believers and nonbelievers in crystal healing, either rose quartz or a visually matched glass imitation for 14 days. Anxiety scores fell only among the believers, and it made no difference whether their stone was real ([Escolà-Gascón and colleagues, 2025](https://doi.org/10.1017/S1092852925100515)). It measured anxiety, not sleep. The routine itself has better support, though from children. In a three-week randomized trial with 405 mothers and their babies or toddlers, a consistent nightly bedtime routine led to faster sleep onset, fewer night wakings and better maternal mood, as the mothers reported them ([Mindell and colleagues, 2009](https://doi.org/10.1093/sleep/32.5.599)). It was a study of young children, not adults, and no stones were involved. So the honest case for a sleep stone is the routine around it.
 
 ## A 10-Minute Bedtime Wind-Down
 
@@ -127,7 +130,7 @@ You can, but the nightstand is the better spot for most stones and the only spot
 
 **Safety.** Small tumbled stones and bead bracelets are choking hazards for babies, young children and pets. Keep crystals out of cribs and toddler beds entirely, and never put a crystal necklace, bead bracelet or teething necklace on a sleeping child. The US Food and Drug Administration has received reports of death and serious injuries to infants and children, including strangulation and choking, from teething jewelry such as amber teething necklaces ([FDA](https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children)). More in our [crystals and kids safety guide](/care/crystals-and-kids/).
 
-Some stones also do badly under a pillow. Celestite has a very low hardness of 3 to 3.5 and perfect cleavage, which is why the [International Gem Society](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/) calls it a collector's stone rather than a jewelry stone. Stilbite is brittle with perfect cleavage, according to [Wikipedia's mineral entry](https://en.wikipedia.org/wiki/Stilbite). Moonstone can break on a sharp knock. If you want a stone in the bed anyway, pick a smooth tumbled quartz such as amethyst, which rates 7 on the Mohs scale, and keep it for adults.
+Some stones also do badly under a pillow. Celestite has a very low hardness of 3 to 3.5 and perfect cleavage, which is why the [International Gem Society](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/) calls it a collector's stone rather than a jewelry stone. Stilbite is brittle with perfect cleavage, according to the [Handbook of Mineralogy](https://www.handbookofmineralogy.org/pdfs/stilbite-Ca.pdf). Moonstone can break on a sharp knock. If you want a stone in the bed anyway, pick a smooth tumbled quartz such as amethyst, which rates 7 on the Mohs scale, and keep it for adults.
 
 ## Crystals for Nightmares, Dreams & Lucid Dreaming
 
@@ -155,7 +158,7 @@ Nightmares that keep coming back, at any age, are worth a conversation with a do
 
 ### Stilbite
 
-**Mineral Fact.** Stilbite is a zeolite mineral that grows in fan, wheat sheaf and bow-tie shaped bundles, and its name comes from the Greek for "to glitter", after its pearly luster ([Minerals.net](https://www.minerals.net/mineral/stilbite)). **Modern Association.** Classic for sleep. Shop guides say it encourages sweet dreams in the bedroom ([Moonrise Crystals](https://moonrisecrystals.com/stilbite-meaning/)), and some people keep a cluster by the bed next to a dream journal ([Crystal Gemstones](https://crystalgemstones.net/stilbite-meaning-and-spiritual-properties.html)). **Care.** Wikipedia's mineral entry calls it brittle with perfect cleavage, so it can split along flat planes, and says it decomposes in hydrochloric acid. Treat it as a shelf piece, away from heat and acids. More on [stilbite](/stones/stilbite/).
+**Mineral Fact.** Stilbite is a zeolite mineral that grows in fan, wheat sheaf and bow-tie shaped bundles, and its name comes from the Greek for "to glitter", after its pearly luster ([Minerals.net](https://www.minerals.net/mineral/stilbite)). **Modern Association.** Classic for sleep. Shop guides say it encourages sweet dreams in the bedroom ([Moonrise Crystals](https://moonrisecrystals.com/stilbite-meaning/)), and some people keep a cluster by the bed next to a dream journal ([Crystal Gemstones](https://crystalgemstones.net/stilbite-meaning-and-spiritual-properties.html)). **Care.** The Handbook of Mineralogy lists it as brittle with perfect cleavage, so it can split along flat planes ([Handbook of Mineralogy](https://www.handbookofmineralogy.org/pdfs/stilbite-Ca.pdf)), and our care data rates heat and acids as ones to avoid. Treat it as a shelf piece. More on [stilbite](/stones/stilbite/).
 
 <!-- PHOTO 3, in the Stilbite card. Wikimedia Commons, "File Cavansite sur stilbite (Poonah, Maharashtra - India) 3.jpg", by Parent Géry. Page https://commons.wikimedia.org/wiki/File:Cavansite_sur_stilbite_(Poonah,_Maharashtra_-_India)_3.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Cavansite_sur_stilbite_%28Poonah%2C_Maharashtra_-_India%29_3.jpg/1280px-Cavansite_sur_stilbite_%28Poonah%2C_Maharashtra_-_India%29_3.jpg (tracking parameters removed). License CC BY-SA 3.0. Credit line "Photo Parent Géry, CC BY-SA 3.0, via Wikimedia Commons". Checked as hero in image_picks_new_stones.json ("clear stilbite crystal bundle with cavansite, sharp macro"). Alt text "Bundle of pale stilbite crystals with small blue cavansite crystals, from Maharashtra, India". The blue mineral is cavansite, so the caption must not call the blue part stilbite. -->
 
@@ -183,18 +186,18 @@ Nightmares that keep coming back, at any age, are worth a conversation with a do
 
 - CDC, [About Sleep](https://www.cdc.gov/sleep/about/index.html), last reviewed November 20, 2023
 - US Food and Drug Administration, [Safely Soothing Teething Pain in Infants and Children](https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children), content current as of June 26, 2024
-- Placebo effects in alternative medical treatments for anxiety, *CNS Spectrums* 30, e70 (2025), [PubMed 40855750](https://pubmed.ncbi.nlm.nih.gov/40855750/)
+- Álex Escolà-Gascón and colleagues, "Placebo Effects in Alternative Medical Treatments for Anxiety, False Hope or Healing Potential?" *CNS Spectrums* 30(1), e70 (2025), [doi.org/10.1017/S1092852925100515](https://doi.org/10.1017/S1092852925100515), also on [PubMed 40855750](https://pubmed.ncbi.nlm.nih.gov/40855750/)
+- Jodi A. Mindell, Lorena S. Telofski, Benjamin Wiegand and Ellen S. Kurtz, "A Nightly Bedtime Routine, Impact on Sleep in Young Children and Maternal Mood," *Sleep* 32(5) (2009), pages 599 to 606, [doi.org/10.1093/sleep/32.5.599](https://doi.org/10.1093/sleep/32.5.599)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 7 to 8 and 297, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 371 to 372, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - GIA, [Amethyst](https://www.gia.edu/amethyst/gem-overview), [amethyst care](https://www.gia.edu/amethyst-care-cleaning), [Moonstone](https://www.gia.edu/moonstone/gem-overview) and [moonstone care](https://www.gia.edu/moonstone-care-cleaning)
 - International Gem Society, [amethyst](https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/), [howlite](https://www.gemsociety.org/article/howlite-jewelry-and-gemstone-information/), [charoite](https://www.gemsociety.org/article/charoite-jewelry-and-gemstone-information/), [prehnite](https://www.gemsociety.org/article/prehnite-jewelry-and-gemstone-information/), [moonstone](https://www.gemsociety.org/article/moonstone-jewelry-gem-information/), [celestite](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/) and the [gemstone care guide](https://www.gemsociety.org/article/gemstone-care-guide/)
 - Hobart M. King, Geology.com, [amethyst](https://geology.com/gemstones/amethyst/), [moonstone](https://geology.com/gemstones/moonstone/) and [labradorite](https://geology.com/gemstones/labradorite/)
 - Amethyst Galleries, [howlite](https://galleries.com/minerals/silicate/howlite/howlite.htm) and [prehnite](https://galleries.com/minerals/silicate/prehnite/prehnite.htm), and Minerals.net, [stilbite](https://www.minerals.net/mineral/stilbite)
 - JCK, [Labradorite's Blue Rainbow Moonstone](https://www.jckonline.com/magazine-article/labradorites-blue-rainbow-moonstone/)
-- Wikipedia, [Stilbite](https://en.wikipedia.org/wiki/Stilbite), used as a pointer only
-- Gem Rock Auctions, [prehnite](https://www.gemrockauctions.com/learn/a-z-of-gemstones/prehnite) and [celestite](https://www.gemrockauctions.com/learn/a-z-of-gemstones/celestite), and Gemstones.com, [prehnite](https://www.gemstones.com/gemopedia/prehnite) and [celestite](https://www.gemstones.com/gemopedia/celestite), dealer guides
+- *Handbook of Mineralogy*, [Stilbite-Ca](https://www.handbookofmineralogy.org/pdfs/stilbite-Ca.pdf), Mineral Data Publishing, 2001
 - IMA List of Minerals (July 2026), for the year howlite was described
-- Sleep rankings and modern associations compared across the crystal guides in our lore collection, including crystals.com, rockngem.com, firemountaingems.com, crystalvaults.com, crystalgemstones.net, moonrisecrystals.com, lebensquelle-plus.de, ajluxe.com, otterspirit.com and energymuse.com, read November 12 to 18, 2026
+- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
-Last reviewed [TO CHECK date at final review].
+Last reviewed November 2026.
 
 *Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
