@@ -69,6 +69,32 @@ if [ -s "$TOKEN_FILE" ]; then
   AUTH_URL="${REPO_URL/https:\/\//https://x-access-token:${TOKEN}@}"
 fi
 
+# ------------------------------------------------- Publication programmée
+# Le site construit contient next-publish.txt, l'heure (Unix) de la prochaine page programmée.
+# Quand elle est passée, on demande une construction à GitHub (le planning horaire de GitHub saute
+# la plupart de ses passages). Le jeton est lu dans ~/deploy-crystal/gh_dispatch_token, jamais écrit
+# dans ce script. Jeton GitHub "fine-grained" limité au dépôt crystal-ritual, permission Actions en
+# lecture et écriture, rien d'autre. Sans ce fichier, rien ne se passe.
+DISPATCH_TOKEN_FILE="$HERE/gh_dispatch_token"
+NEXT_FILE="$HERE/.next-publish"
+DISPATCH_STAMP="$HERE/.last-dispatch"
+if [ -s "$DISPATCH_TOKEN_FILE" ] && [ -s "$NEXT_FILE" ]; then
+  NOW_S="$(date +%s)"
+  NEXT_S="$(tr -dc '0-9' < "$NEXT_FILE")"
+  LAST_S="$(tr -dc '0-9' < "$DISPATCH_STAMP" 2>/dev/null || true)"
+  LAST_S="${LAST_S:-0}"
+  if [ -n "$NEXT_S" ] && [ "$NOW_S" -ge "$NEXT_S" ] && [ $((NOW_S - LAST_S)) -ge 1800 ]; then
+    echo "$NOW_S" > "$DISPATCH_STAMP"
+    CODE="$(curl -s -o /dev/null -w '%{http_code}' -X POST \
+      -H 'Accept: application/vnd.github+json' \
+      -H "Authorization: Bearer $(tr -d '[:space:]' < "$DISPATCH_TOKEN_FILE")" \
+      -H 'X-GitHub-Api-Version: 2022-11-28' \
+      'https://api.github.com/repos/Cuivrax/crystal-ritual/actions/workflows/build.yml/dispatches' \
+      --data '{"ref":"main"}' || echo 000)"
+    log "page programmée arrivée à échéance, construction demandée à GitHub, réponse $CODE (204 attendu)"
+  fi
+fi
+
 # Rien à faire si la branche n'a pas bougé.
 REMOTE_HEAD="$(git ls-remote "$AUTH_URL" "refs/heads/$BRANCH" 2>/dev/null | cut -f1 || true)"
 if [ -z "$REMOTE_HEAD" ]; then
@@ -99,6 +125,11 @@ touch "$TMP/sitemap-before.xml"
 EXCLUDES=(--exclude '.well-known/' --exclude 'crystal-contact-config.php' --exclude 'crystal-contact-ratelimit/')
 if [ -f "$KEEP_FILE" ]; then
   EXCLUDES+=(--exclude-from "$KEEP_FILE")
+fi
+# next-publish.txt sert au serveur seulement, il reste hors du dossier web.
+if [ -f "$TMP/site/next-publish.txt" ]; then
+  cp "$TMP/site/next-publish.txt" "$NEXT_FILE"
+  rm -f "$TMP/site/next-publish.txt"
 fi
 rsync -a --delete --delay-updates "${EXCLUDES[@]}" "$TMP/site/" "$WEBROOT/"
 echo "$REMOTE_HEAD" > "$STATE_FILE"
