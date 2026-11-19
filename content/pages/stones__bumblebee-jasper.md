@@ -57,7 +57,7 @@ Bumblebee jasper is not a jasper. It is a trade name for a yellow, orange and bl
 | Acids | Avoid. It fizzes in dilute acid |
 | Toxicity | Avoid. Contains arsenic and sulfur minerals. Do not ingest it or let children mouth it |
 | Trade names | Bumblebee jasper, Bumble Bee Stone (BBS) |
-| Common fakes | No documented imitation found. Most pieces are filled with Opticon (GIA, 2014) |
+| Common fakes | No documented imitation found. Most pieces were reported filled with Opticon in 2014 |
 | Price range | Set mostly by pattern and color contrast (see Price Guide) |
 | Birthstone | Not on the modern list |
 | Chakra (Modern Association) | Solar plexus most often |
@@ -68,37 +68,37 @@ Bumblebee jasper is not a jasper. It is a trade name for a yellow, orange and bl
 
 **The Stone.** Sellers usually describe bumblebee jasper as a volcanic rock with sulfur and arsenic minerals from Indonesia. The closest look comes from a 2018 paper in *The Journal of Gemmology* by Emmanuel Fritsch and Joel Ivey, summarized by the gemological association [Gem-A](https://gem-a.com/?p=7188), which calls the material Bumble Bee Stone (BBS).
 
-A drop of dilute hydrochloric acid made the surface bubble, showing the stone is rich in carbonate. "Therefore, it is not jasper, which is an opaque form of microcrystalline quartz," the summary concludes. Electron microscope analysis showed it is mostly calcite, probably slightly magnesian (Gem-A).
+A drop of dilute hydrochloric acid made the surface bubble, showing the stone is rich in carbonate. "Therefore, it is not jasper, which is an opaque form of microcrystalline quartz," the summary concludes. Electron microscope analysis showed it is mostly calcite, probably slightly magnesian.
 
-Real jasper is an opaque variety of microcrystalline quartz that the [International Gem Society](https://www.gemsociety.org/article/jasper-gem-information/) calls trouble free to care for. Even one retailer says this stone "isn't technically a jasper at all" ([Rock Your World Gems](https://www.rockyourworldgems.com/pages/about-bumblebee-jasper)).
+Real jasper is an opaque variety of microcrystalline quartz and is trouble free to care for. Even one retailer says this stone "isn't technically a jasper at all."
 
 ### What Gives Bumblebee Jasper Its Colors?
 
-Arsenic and iron sulfides, not sulfur itself. The bright yellow comes from "an unexpected sulfide, pararealgar," a yellow form of realgar, and the orange from a mix of pararealgar and realgar, both arsenic sulfide, As₄S₄. The black is pyrite, an iron sulfide, in tiny discs (Gem-A).
+Arsenic and iron sulfides, not sulfur itself. The bright yellow comes from "an unexpected sulfide, pararealgar," a yellow form of realgar, and the orange from a mix of pararealgar and realgar, both arsenic sulfide, As₄S₄. The black is pyrite, an iron sulfide, in tiny discs.
 
 Gem-A places it in "a rare category of gems coloured by micro-inclusions of sulphide pigments." The retailer above credits sulfur compounds and manganese oxides as well, but the lab analysis found arsenic sulfides and pyrite.
 
 ### How Bumblebee Jasper Forms
 
-It grew at a solfatara, a fumarole that vents hot, sulfur-rich gases, close to the Mount Ciremai volcano. Heated groundwater picked up iron, sulfur, calcium carbonate and arsenic from the volcanic system, and as the gases escaped, minerals settled in bands inside fractures in volcanic ash and tuff (Gem-A).
+It grew at a solfatara, a fumarole that vents hot, sulfur-rich gases, close to the Mount Ciremai volcano. Heated groundwater picked up iron, sulfur, calcium carbonate and arsenic from the volcanic system, and as the gases escaped, minerals settled in bands inside fractures in volcanic ash and tuff.
 
-The veins run nearly vertical, and single color bands rarely exceed about 2 inches (5 cm), according to Gem-A.
+The veins run nearly vertical, and single color bands rarely exceed about 2 inches (5 cm).
 
-The famous bull's-eyes come from slicing across rounded, grape-like growths, and a typical one measures about half an inch (10 to 14 mm) across (Gem-A).
+The famous bull's-eyes come from slicing across rounded, grape-like growths, and a typical one measures about half an inch (10 to 14 mm) across.
 
 <!-- PHOTO 2, beside "How Bumblebee Jasper Forms". PHOTO TO FIND, a slab showing bull's-eye (orbicular) patterns. Candidates to review, other files in the James St. John "Sulfidic travertine" series on Wikimedia Commons (CC BY 2.0). Log visual_check before use. -->
 
 ### Where Bumblebee Jasper Comes From
 
-The mining area sits on the lower slopes of Mount Ciremai (or Cereme), an active volcano about 16 miles (25 km) southwest of the town of Cirebon in West Java. Production began in 2003 and had yielded an estimated 150 tons by the 2018 study, and no other deposit has been documented (Gem-A). Many sellers name Papandayan, another West Java volcano, instead.
+The mining area sits on the lower slopes of Mount Ciremai (or Cereme), an active volcano about 16 miles (25 km) southwest of the town of Cirebon in West Java. Production began in 2003 and had yielded an estimated 150 tons by the 2018 study, and no other deposit has been documented. Many sellers name Papandayan, another West Java volcano, instead.
 
 ## Where the Meaning Comes From
 
 **The Story.** Bumblebee jasper has no ancient lore, and two shop guides say so plainly. Its whole history is recent.
 
 - **1990s.** Shop histories disagree. One says an American rock and mineral enthusiast working in Indonesia named it. Another credits a company called IndoAgate in the mid-1990s and gives the local name as Batu Badar Blerang, translated as "fumarole jasper."
-- **2003.** Production of the material begins, according to the Gem-A summary.
-- **2018.** Fritsch and Ivey identify pararealgar as the yellow pigment and show the stone is mostly calcite, not jasper (Gem-A).
+- **2003.** Production of the material begins.
+- **2018.** Fritsch and Ivey identify pararealgar as the yellow pigment and show the stone is mostly calcite, not jasper.
 - **Borrowed lore.** **Tradition.** Old jasper lore belongs to real jasper. Pliny the Elder wrote that "throughout all the East, it is the custom, it is said, to wear iaspis by way of amulet" (*Natural History*, Book 37, chapter 37, Bostock and Riley translation, [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D37)). Iaspis is a good, if not exact, match for modern jasper, and none of it is about this stone.
 - **Today.** **Modern Association.** Confidence, courage, personal power and joy lead, with the solar plexus chakra, Leo and the element fire, which one guide ties to the volcano where the stone formed.
 
@@ -140,29 +140,29 @@ Some guides list allergies, skin rashes, blood sugar, fertility, circulation or 
 
 We use the same five labels on every stone. The name is the first thing to correct.
 
-- **Natural, untreated.** The material Gem-A describes, colored by natural sulfide pigments. In 2014 GIA reported that most specimens are filled (see the next label), and we found no newer figure for the untreated share.
-- **Natural, treated.** The stone is porous (Gem-A). In 2014, GIA's *Gems & Gemology* reported that the porous rock is easily cut and polished and that most specimens are filled with a product called Opticon ([GIA](https://www.gia.edu/gems-gemology/summer-2014-gemnews-bumble-bee-jasper-indonesia)). We found no reference source on dyed or coated bumblebee stone.
+- **Natural, untreated.** The material itself, colored by natural sulfide pigments. In 2014 most specimens were reported filled (see the next label), and we found no newer figure for the untreated share.
+- **Natural, treated.** The stone is porous. In 2014, GIA's *Gems & Gemology* reported that the porous rock is easily cut and polished and that most specimens are filled with a product called Opticon. We found no reference source on dyed or coated bumblebee stone.
 - **Lab-grown.** We found no reference source on a lab-made version.
 - **Imitation.** We found no reference source describing dyed or other stones sold as bumblebee jasper.
-- **Trade names.** "Bumblebee jasper" is a trade name that hides what the stone is, since it is not jasper or quartz. Gem-A uses Bumble Bee Stone, or BBS, and GIA's 2014 report notes it was also sold at the Tucson show as Eclipse "jasper." A piece sold under the jasper name can still be the real material.
+- **Trade names.** "Bumblebee jasper" is a trade name that hides what the stone is, since it is not jasper or quartz. The 2018 study calls it Bumble Bee Stone, or BBS, and in 2014 it was also sold at the Tucson show as Eclipse "jasper." A piece sold under the jasper name can still be the real material.
 
 Two checks you can do at home, and one you should never do.
 
-1. **Read the pattern.** Look for bright yellow to orange bands with black, often as bull's-eye circles (Gem-A). The limit is that colors vary, and Gem-A notes that 2017 material was more orange than earlier finds.
-2. **Look under magnification.** Real material looks like colored powders cemented in a carbonate matrix, with tiny cavities that can hold orange to reddish crystals (Gem-A). This is a strong hint, not a proof.
+1. **Read the pattern.** Look for bright yellow to orange bands with black, often as bull's-eye circles. The limit is that colors vary, and 2017 material was more orange than earlier finds.
+2. **Look under magnification.** Real material looks like colored powders cemented in a carbonate matrix, with tiny cavities that can hold orange to reddish crystals. This is a strong hint, not a proof.
 3. **Never acid-test or scratch it.** The lab's acid drop made it fizz. At home that damages the stone, and scratching turns arsenic-bearing minerals into dust.
 
 Three questions to ask the seller. Has it been filled, stabilized, sealed or dyed? Where was it mined? Is this piece finished, or raw?
 
 ## How to Care for Bumblebee Jasper
 
-**Mineral Fact.** Bumblebee stone is mostly calcite, which rates 3 on the Mohs scale ([Geology.com](https://geology.com/minerals/calcite.shtml)), and one retailer puts the stone at around 4. It is porous, and it reacts to acid (Gem-A).
+**Mineral Fact.** Bumblebee stone is mostly calcite, which rates 3 on the Mohs scale, and one retailer puts the stone at around 4. It is porous, and it reacts to acid.
 
 - **Water.** Avoid. A retailer advises against soaking or prolonged water exposure for this soft, porous stone.
 - **Soaks.** Avoid, for the same reason.
 - **Sun.** Unknown. No source covers it yet.
 - **Heat.** Unknown. No source covers it yet.
-- **Acids and chemicals.** Avoid. It fizzes in dilute hydrochloric acid (Gem-A), and the retailer says to avoid acids.
+- **Acids and chemicals.** Avoid. It fizzes in dilute hydrochloric acid, and the retailer says to avoid acids.
 - **Salt.** Unknown. No source covers it yet.
 - **Cleaning.** Unknown in our data. A dry, soft cloth is the gentle choice until a source covers it.
 - **Storage.** Unknown in our data. Since calcite rates only 3, a separate soft pouch is the cautious choice.
@@ -172,12 +172,12 @@ Three questions to ask the seller. Has it been filled, stabilized, sealed or dye
 
 Treat it as toxic if swallowed or ground into dust. Our Care Checker rates its toxicity Avoid. A retailer says it is safe to wear but contains arsenic and sulfur minerals, and should not be ingested or handled by children who might put it in their mouth.
 
-The reason is in the colors, pararealgar and realgar, both arsenic sulfides (Gem-A). For realgar on its own, the International Gem Society rates the toxicity risk High, hazard arsenic, and describes it as dangerous if swallowed ([IGS care guide](https://www.gemsociety.org/article/gemstone-care-guide/)). The IGS advises cleaning yourself properly and avoiding dust when handling realgar ([IGS realgar](https://www.gemsociety.org/article/realgar-jewelry-and-gemstone-information/)), and [Minerals.net](https://www.minerals.net/mineral/realgar) recommends washing your hands afterward. Bumblebee stone is mostly calcite, not pure realgar, but we apply the same habits.
+The reason is in the colors, pararealgar and realgar, both arsenic sulfides. Realgar on its own carries a High toxicity risk, hazard arsenic, and is dangerous if swallowed. When handling realgar, clean yourself properly, avoid dust and wash your hands afterward. Bumblebee stone is mostly calcite, not pure realgar, but we apply the same habits.
 
 - **Handling.** Wearing a finished piece is fine by the retailer's account. Wash your hands after handling any piece, and take extra care with raw, chipped or crumbly ones.
-- **Cutting.** Never cut, drill, sand or polish it at home. The International Gem Society warns that lapidaries should take care cutting potentially toxic minerals, since inhaling or swallowing particles could harm your health.
+- **Cutting.** Never cut, drill, sand or polish it at home. Lapidaries should take care cutting potentially toxic minerals, since inhaling or swallowing particles could harm your health.
 - **Children and pets.** Keep it out of reach, and do not give it to a child as a pocket stone.
-- **If someone swallows a piece.** In the US, call the Poison Help line at 1-800-222-1222, toll-free and available 24 hours a day, 7 days a week ([Poison Help](https://poisonhelp.hrsa.gov/)). Call 911 right away if the person collapses, has a seizure, has trouble breathing or cannot be woken ([Poison Control](https://poison.org/need-immediate-assistance)). For a pet, call your vet at once.
+- **If someone swallows a piece.** In the US, call the [Poison Help line](https://poisonhelp.hrsa.gov/) at 1-800-222-1222, toll-free and available 24 hours a day, 7 days a week. Call 911 right away if the person collapses, has a seizure, has trouble breathing or cannot be woken. For a pet, call your vet at once.
 
 Our guide to [toxic crystals](/care/toxic-crystals/) covers the other stones that need the same caution.
 
@@ -189,18 +189,18 @@ That rules out every water cleanse, from running water to a moon water jar. One 
 
 ### Can Bumblebee Jasper Go in the Sun?
 
-We do not know yet, so keep it out of strong sun. Our Care Checker rates sun Unknown because no source tests the stone itself. Realgar, one of its pigments, slowly turns into yellow pararealgar in light, according to the International Gem Society. Check your piece in the [Care Checker](/tools/crystal-care-checker/).
+We do not know yet, so keep it out of strong sun. Our Care Checker rates sun Unknown because no source tests the stone itself. Realgar, one of its pigments, slowly turns into yellow pararealgar in light. Check your piece in the [Care Checker](/tools/crystal-care-checker/).
 
 ## Bumblebee Jasper vs Look-Alikes
 
 - **Orange calcite.** Also calcite, and our Care Checker rates its toxicity OK. A piece sold as bumblebee with no black pattern at all deserves a second look. See [orange calcite](/stones/orange-calcite/).
 - **Crazy lace agate.** A banded agate with streaks of yellow, red and brown. It is quartz, harder at 6.5 to 7, and rated OK for toxicity. See [crazy lace agate](/stones/crazy-lace-agate/).
 - **Realgar.** The orange pigment as a mineral on its own, rated Avoid for water, sun, heat and toxicity in our data. See [realgar](/stones/realgar/).
-- **Real jasper.** Opaque quartz, hardy enough for all jewelry uses (International Gem Society).
+- **Real jasper.** Opaque quartz, hardy enough for all jewelry uses.
 
 ## Price Guide
 
-Gem-A says the most sought-after bumblebee stone is the orbicular variety with a bull's-eye pattern, and its photos show the best pieces with strong color contrast. Treatment is the other question, since GIA reported in 2014 that most specimens are filled with Opticon, so ask whether a piece is filled before comparing prices.
+The most sought-after bumblebee stone is the orbicular variety with a bull's-eye pattern, and photos of the best pieces show strong color contrast. Treatment is the other question, since in 2014 most specimens were reported filled with Opticon, so ask whether a piece is filled before comparing prices.
 
 **Next Step.** Want a confidence stone you can carry and rinse without worry? Compare the usual picks in [crystals for confidence](/crystals-for/confidence/).
 
@@ -221,4 +221,4 @@ Gem-A says the most sought-after bumblebee stone is the orbicular variety with a
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

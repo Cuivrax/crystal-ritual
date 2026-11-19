@@ -66,48 +66,48 @@ Orthoceras is a fossil, not a mineral. It is the chambered shell of an extinct s
 
 ## What Orthoceras Actually Is
 
-**The Stone.** Orthoceras is not a stone in the mineral sense. It is an animal. The name, from the Greek for "straight horn," belongs to an extinct nautiloid cephalopod, a mollusk that lived in the open end of a long, straight, chambered shell. The French naturalist Jean Guillaume Bruguière named the genus in 1789, according to geologist Mark Wilson at the [College of Wooster](https://woostergeologists.scotblogs.wooster.edu/2013/11/03/woosters-fossils-of-the-week-very-common-orthocerid-nautiloids-from-the-siluro-devonian-of-morocco/). Wilson describes nautiloids as "effective nektic (swimming) predators" of the Paleozoic.
+**The Stone.** Orthoceras is not a stone in the mineral sense. It is an animal. The name, from the Greek for "straight horn," belongs to an extinct nautiloid cephalopod, a mollusk that lived in the open end of a long, straight, chambered shell. The French naturalist Jean Guillaume Bruguière named the genus in 1789. Geologist Mark Wilson of the College of Wooster describes nautiloids as "effective nektic (swimming) predators" of the Paleozoic.
 
-What you hold is that shell turned to rock. The shells were originally made of aragonite, "but almost all have been replaced and recrystallized with calcite," Wilson writes. The white to gray material inside the chambers is crystalline calcite "that filled the empty shell after death and burial." The surrounding stone is limestone, and calcite is the main mineral of limestone ([Geology.com](https://geology.com/minerals/calcite.shtml)).
+What you hold is that shell turned to rock. The shells were originally aragonite, and almost all of them have since been replaced and recrystallized as calcite. The white to gray material inside the chambers is crystalline calcite that filled the empty shell after the animal died and was buried. The surrounding stone is limestone, and calcite is the main mineral of limestone.
 
 ### Is Orthoceras a Stone or a Fossil?
 
-Both, in a way. The fossil is the shell, and the "stone" is the limestone it sits in. That is why orthoceras has no formula, crystal system or gem-style hardness of its own. The closest useful number is calcite's, 3 on the Mohs scale (Geology.com), soft enough that quartz and most crystals in a collection can scratch it.
+Both, in a way. The fossil is the shell, and the "stone" is the limestone it sits in. That is why orthoceras has no formula, crystal system or gem-style hardness of its own. The closest useful number is calcite's, 3 on the Mohs scale, soft enough that quartz and most crystals in a collection can scratch it.
 
 ### How to Read the Shell
 
-A cut and polished orthoceras shows its anatomy clearly. Wilson labels the parts on a Moroccan specimen.
+A cut and polished orthoceras shows its anatomy clearly. On a Moroccan specimen the parts are easy to pick out.
 
 - **Chambers.** The compartments of the shell, separated by walls called septa.
 - **Siphuncle.** A tube running through the center of the shell and connecting the chambers.
 - **Body chamber.** The large open end where the animal itself lived.
 
-A museum record from [Nottingham Museums](https://museumdata.uk/objects/d100f9fe-14ec-3c11-90a8-477e10e347a6) in England describes three cut and polished limestone pieces in which "the chambers and siphuncle of the nautiloids are selectively picked out in white calcite in a red and pink finer grained matrix making them quite attractive." That contrast is the whole appeal of a good plate.
+A museum record from Nottingham Museums in England describes three cut and polished limestone pieces in which "the chambers and siphuncle of the nautiloids are selectively picked out in white calcite in a red and pink finer grained matrix making them quite attractive." That contrast is the whole appeal of a good plate.
 
 <!-- PHOTO 2, beside "How to Read the Shell". Wikimedia Commons, "File Orthoceras, Erfoud, Marruecos, 2021-01-14, DD 001-040 FS.jpg", by Diego Delso. Page https://commons.wikimedia.org/wiki/File:Orthoceras,_Erfoud,_Marruecos,_2021-01-14,_DD_001-040_FS.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Orthoceras%2C_Erfoud%2C_Marruecos%2C_2021-01-14%2C_DD_001-040_FS.jpg/1280px-Orthoceras%2C_Erfoud%2C_Marruecos%2C_2021-01-14%2C_DD_001-040_FS.jpg (tracking parameters removed). License CC BY-SA 4.0. Credit line "Photo Diego Delso, CC BY-SA 4.0, via Wikimedia Commons". visual_check ok in image_picks_new_stones.json, noted "uncertain", confirm the chambers are visible before use. Alt text "Cut orthoceras shell showing its chambers in pinkish gray limestone, Erfoud, Morocco". -->
 
 ### Where It Comes From
 
-Orthocones are exported from Morocco "in large numbers," writes Dr. Neale Monks in [Deposits](https://depositsmag.com/2016/04/29/essential-collectibles-4-orthoceras-nautiloid/), a magazine for fossil and mineral collectors. Wilson traces Moroccan specimens like his to the Orthoceras Limestone, of Silurian to Devonian age, most likely the beds "exposed near Erfoud in the Ziz Valley near the edge of the Sahara Desert." In places like Morocco, he adds, nautiloids were so common "that their dead shells carpeted shallow seafloors." Those crowded seafloors are the plates you see today.
+Orthocones are exported from Morocco in large numbers. Moroccan specimens come from the Orthoceras Limestone, of Silurian to Devonian age, most likely the beds exposed near Erfoud in the Ziz Valley, close to the edge of the Sahara Desert. In places like Morocco, nautiloids were so common that their empty shells carpeted shallow seafloors. Those crowded seafloors are the plates you see today.
 
-The true genus is usually tied to older rock, the Ordovician marine limestones of Sweden and the Baltic region. At the Hällekis quarry in Sweden, the Ordovician "orthoceratite limestone" holds "abundant and spectacular accumulations of orthocone cephalopods and trilobites," and a nearby quarry in the same interval of rock has given up more than one hundred fossil meteorites ([IUGS Geoheritage](https://iugs-geoheritage.org/geoheritage_sites/the-ordovician-section-of-the-hallekis-quarry/)).
+The true genus is usually tied to older rock, the Ordovician marine limestones of Sweden and the Baltic region. At the Hällekis quarry in Sweden, the Ordovician "orthoceratite limestone" holds spectacular, abundant accumulations of orthocone cephalopods and trilobites, and a nearby quarry in the same interval of rock has given up more than one hundred fossil meteorites.
 
 The Nottingham pieces show how loosely the name has traveled. They were collected at Torquay in South Devon, England, from Middle Devonian marine beds, and the museum still files them as "Orthoceras sp."
 
 ### How Old Are Orthoceras Fossils?
 
-The true genus, with *O. regulare* as its type species, is Ordovician, and the Ordovician Period ran from about 485 to 444 million years ago on the [US Geological Survey](https://pubs.usgs.gov/fs/2018/3054/fs20183054.pdf)'s time scale. The Moroccan plates come from Silurian to Devonian limestone, and those two periods together ran from about 444 to 359 million years ago (USGS). So the Moroccan limestone belongs to periods that came after the Ordovician.
+The true genus, with *O. regulare* as its type species, is Ordovician, and the Ordovician Period ran from about 485 to 444 million years ago on the US Geological Survey's time scale. The Moroccan plates come from Silurian to Devonian limestone, and those two periods together ran from about 444 to 359 million years ago. So the Moroccan limestone belongs to periods that came after the Ordovician.
 
 ### How Big Do Orthoceras Get?
 
-Collector pieces are modest. Monks writes that the ones sold to collectors are generally smaller than the giants of the Paleozoic, "anything up to 30 cm being typical" (about 12 inches). Size is also where shaping comes in, so read the section on fakes below before paying extra for a "large" fossil.
+Collector pieces are modest. The ones sold to collectors are generally smaller than the giants of the Paleozoic, with anything up to 30 cm (about 12 inches) typical. Size is also where shaping comes in, so read the section on fakes below before paying extra for a "large" fossil.
 
 ## Where the Meaning Comes From
 
 **The Story.** Orthoceras has no documented ancient or medieval lore. George Frederick Kunz's two books on gem lore, from 1913 and 1915, have no entry for it, and one crystal shop guide states outright that there are no legends or myths about it. Its story is scientific first and spiritual only recently.
 
-- **Ordovician.** *Orthoceras regulare* lives in the sea that laid down the marine limestones of Sweden and the Baltic region. Later, in the Silurian and Devonian, straight-shelled nautiloids carpet shallow seafloors in what is now Morocco (Wilson).
-- **1789, France.** Bruguière names the genus Orthoceras, "straight horn" (Wilson).
+- **Ordovician.** *Orthoceras regulare* lives in the sea that laid down the marine limestones of Sweden and the Baltic region. Later, in the Silurian and Devonian, straight-shelled nautiloids carpet shallow seafloors in what is now Morocco.
+- **1789, France.** Bruguière names the genus Orthoceras, "straight horn."
 - **Later, in paleontology.** The name becomes a catch-all for almost any straight nautiloid, and paleontologists are said to have since narrowed it to the type species *O. regulare* and perhaps a few close relatives, with the many other straight shells moved to other genera.
 - **Today, in the trade.** "Orthoceras" remains, in Wilson's words, "the go-to term for unknown orthoconic (straight) nautiloids." Monks goes further and says the name on Moroccan specimens "is almost certainly not correct." *Michelinoceras michelini* and *Orthocycloceras fluminense*, both known from the Devonian of Morocco, are possibilities, but nobody has settled which, if either, fits most traded pieces.
 - **2013.** Wilson notes in passing that "you can buy 'Orthoceras healing stones'." By then the fossil had joined the crystal shelf.
@@ -157,8 +157,8 @@ A few pages go further and list fatigue, digestion, rheumatism, vitality or a lo
 
 We use the same five labels on every stone. For a fossil, "real" has two parts, whether the shell is a genuine fossil and whether the piece was shaped or assembled.
 
-- **Natural, untreated.** A genuine shell in its limestone, cut and polished. Wilson notes the rock takes "a nice polish" and looks good from almost any angle of cut, so polishing alone is normal.
-- **Natural, treated.** Monks describes preparators who carve the surrounding rock into "a conical or tapered oval shape around the fossil," which makes the fossil look larger, and some who "glue two or more fossils together to produce what seems to be a much larger specimen." We found no reference source on whether Moroccan plates are also dyed, waxed or lacquered, so ask the seller what, if anything, was put on the surface after polishing.
+- **Natural, untreated.** A genuine shell in its limestone, cut and polished. The rock takes a nice polish and looks good from almost any angle of cut, so polishing alone is normal.
+- **Natural, treated.** Some preparators carve the surrounding rock into a cone or tapered oval around the fossil, which makes the fossil look larger, and some glue two or more fossils together so the piece seems to be one much larger specimen. We found no reference source on whether Moroccan plates are also dyed, waxed or lacquered, so ask the seller what, if anything, was put on the surface after polishing.
 - **Lab-grown.** Not applicable. A fossil cannot be grown.
 - **Imitation.** Baculites, a later straight ammonoid, is reportedly sold under orthoceras' name in rock shops, and the reverse happens too. We found no reference source on cast resin or carved stone copies sold as orthoceras in the US, so the chamber check below is your best guard.
 - **Trade name.** "Orthoceras" itself works like a trade name on most shop pieces, a catch-all label for straight nautiloids rather than a confirmed genus.
@@ -166,23 +166,23 @@ We use the same five labels on every stone. For a fossil, "real" has two parts, 
 Three checks you can do at home, with their limits.
 
 1. **Find the chambers.** No chambers, no orthocone. This rules out plain carved stone, not a skilled composite.
-2. **Follow the taper.** In a genuine large specimen, Monks writes, the shell tapers evenly, with chambers and walls getting steadily smaller toward the tip. Sudden changes in shell thickness or uneven chamber sizes can point to pieces joined together. A crushed or broken fossil can also look uneven, so treat it as a hint.
+2. **Follow the taper.** In a genuine large specimen, the shell tapers evenly, with chambers and walls getting steadily smaller toward the tip. Sudden changes in shell thickness or uneven chamber sizes can point to pieces joined together. A crushed or broken fossil can also look uneven, so treat it as a hint.
 3. **Check the suture.** Where the inner walls meet the outer shell, the line is said to be simple in orthoceras and intricately folded in Baculites. This needs a clear, well-preserved surface.
 
 Ask the seller three questions. Is this one fossil, or several joined? Has the matrix been carved around it, and has anything been dyed or filled? Where was it collected? The [Label Decoder](/tools/crystal-label-decoder/) turns the words on a tag into what they usually mean.
 
 ### Are Large Orthoceras Sculptures Real?
 
-The rock is real, and the shape is human work. A tall sculpture or tower is carved limestone by definition. The question is whether the fossils in it are whole shells or shaped and glued pieces. Measure the chambered part, not the outline, since Monks advises that the true size of a specimen is the chambered portion. A long, even run of chambers that shrinks smoothly toward the tip is the best sign you can check without a lab.
+The rock is real, and the shape is human work. A tall sculpture or tower is carved limestone by definition. The question is whether the fossils in it are whole shells or shaped and glued pieces. Measure the chambered part, not the outline, since the true size of a specimen is its chambered portion. A long, even run of chambers that shrinks smoothly toward the tip is the best sign you can check without a lab.
 
 ## How to Care for Orthoceras
 
-**Mineral Fact.** Orthoceras is calcite and limestone, and calcite rates 3 on the Mohs scale (Geology.com). It is far softer than quartz, agate or most of the crystals it shares a shelf with.
+**Mineral Fact.** Orthoceras is calcite and limestone, and calcite rates 3 on the Mohs scale. It is far softer than quartz, agate or most of the crystals it shares a shelf with.
 
 - **Water.** Unknown in our Care Checker. A soft dry cloth is the cautious way to dust it.
 - **Sun.** Unknown.
 - **Heat.** Unknown.
-- **Chemicals.** Unknown in our Care Checker. Calcite reacts with acids, which is why crushed limestone is used to neutralize them (Geology.com), so keep vinegar and acidic cleaners away.
+- **Chemicals.** Unknown in our Care Checker. Calcite reacts with acids, which is why crushed limestone is used to neutralize them, so keep vinegar and acidic cleaners away.
 - **Salt.** Unknown.
 - **Storage.** Unknown. Calcite's softness makes a separate shelf or a lined box the cautious choice.
 - **Toxicity.** Unknown.
@@ -199,7 +199,7 @@ Our Care Checker has no rating for orthoceras yet, so it shows Unknown for water
 
 ## Price Guide
 
-This guide gives no dollar figures yet. Size and preparation drive the price, and preparation can inflate size. Monks advises judging a specimen by its chambered portion when a seller asks a premium for a large one. On a sculpture, ask whether the price is for the fossils or for the carving around them.
+This guide gives no dollar figures yet. Size and preparation drive the price, and preparation can inflate size. Judge a specimen by its chambered portion when a seller asks a premium for a large one. On a sculpture, ask whether the price is for the fossils or for the carving around them.
 
 **Next Step.** Building a grounding corner? See how orthoceras compares with the other usual picks in [crystals for grounding](/crystals-for/grounding/).
 
@@ -218,4 +218,4 @@ This guide gives no dollar figures yet. Size and preparation drive the price, an
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

@@ -83,27 +83,27 @@ Green beryl is light green beryl, the same mineral as emerald and aquamarine, wh
 
 ## What Green Beryl Actually Is
 
-**The Stone.** Beryl is made of beryllium, aluminum, silicon and oxygen. It is normally colorless and takes its colors from trace elements such as chromium and iron ([International Gem Society](https://www.gemsociety.org/article/beryl-jewelry-gemstone-information/)). Each color has its own trade name. Emerald is green, aquamarine greenish blue to blue, morganite pink to orange, heliodor yellow, goshenite colorless and green beryl light green ([Geology.com](https://geology.com/minerals/beryl.shtml)).
+**The Stone.** Beryl is made of beryllium, aluminum, silicon and oxygen. It is normally colorless and takes its colors from trace elements such as chromium and iron. Each color has its own trade name. Emerald is green, aquamarine greenish blue to blue, morganite pink to orange, heliodor yellow, goshenite colorless and green beryl light green.
 
-Green beryl is defined by what it is not. Geology.com describes it as light green beryl that lacks "a tone and saturation dark enough to merit the name 'emerald.'" Some of it is colored by iron, and some holds chromium or vanadium, the elements behind emerald green, without the right hue, tone and saturation. Green beryl "can be an attractive gem," Geology.com adds, "but it is rarely seen in jewelry."
+Green beryl is defined by what it is not. It is light green beryl that lacks a tone and saturation dark enough to merit the name emerald. Some of it is colored by iron, and some holds chromium or vanadium, the elements behind emerald green, without the right hue, tone and saturation. Green beryl can be an attractive gem, but it is rarely seen in jewelry.
 
 ### Green Beryl or Emerald?
 
-This is the question that sets the price. To count as emerald, Geology.com says, a stone needs a rich, distinct color somewhere between bluish green and yellowish green. Anything paler should be called green beryl. Buyers and sellers often disagree about where the boundary sits, and iron-colored material is almost always too light to be emerald.
+This is the question that sets the price. To count as emerald, a stone needs a rich, distinct color somewhere between bluish green and yellowish green. Anything paler should be called green beryl. Buyers and sellers often disagree about where the boundary sits, and iron-colored material is almost always too light to be emerald.
 
-The chemistry argument is older than most jewelry stores. Some gemologists reserve the name emerald for beryl colored by chromium (IGS). According to a gemology textbook on [LibreTexts](https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.04%3A_Beryl/16.4.04%3A_Vanadium_Beryl), GIA issued its first report calling vanadium-colored green beryl emerald in 1963, after large deposits turned up in Brazil, while Gem-A in Britain does not accept it. A tool called the Chelsea Colour Filter was even developed to separate the two.
+The chemistry argument is older than most jewelry stores. Some gemologists reserve the name emerald for beryl colored by chromium. According to a gemology textbook, GIA issued its first report calling vanadium-colored green beryl emerald in 1963, after large deposits turned up in Brazil, while Gem-A in Britain does not accept it. A tool called the Chelsea Colour Filter was even developed to separate the two.
 
-Paleness alone does not decide it either. In 2025, GIA's *Gems & Gemology* described light green, very small stones from Kazakhstan that carry enough chromium and vanadium to classify as emeralds, and suggested their small size adds to how pale they look ([GIA](https://www.gia.edu/gems-gemology/summer-2025-gemnews-emeralds-and-beryl-from-kazakhstan-and-ukraine)). So a tag that says "emerald" or "green beryl" tells you whose standard was used as much as what the stone is.
+Paleness alone does not decide it either. In 2025, GIA's *Gems & Gemology* described light green, very small stones from Kazakhstan that carry enough chromium and vanadium to classify as emeralds, and suggested their small size adds to how pale they look. So a tag that says "emerald" or "green beryl" tells you whose standard was used as much as what the stone is.
 
 ### What Is Blue-Green Beryl?
 
-Usually it is aquamarine. The International Gem Society describes aquamarine as blue to blue-green. Buyers once preferred pure blue, so aquamarines were routinely heated to remove the green, and IGS now sees a growing demand for natural, untreated blue-green stones. Many of the greenish blue aquamarines on sale were bluish green or even yellow beryl before treatment (Geology.com). A blue-green beryl is fine to buy as long as the seller tells you whether it was heated. See [aquamarine](/stones/aquamarine/) for the blue side of the family.
+Usually it is aquamarine, which is blue to blue-green. Buyers once preferred pure blue, so aquamarines were routinely heated to remove the green, and demand is now growing for natural, untreated blue-green stones. Many of the greenish blue aquamarines on sale were bluish green or even yellow beryl before treatment. A blue-green beryl is fine to buy as long as the seller tells you whether it was heated. See [aquamarine](/stones/aquamarine/) for the blue side of the family.
 
 ### Where It Grows & How Big It Gets
 
-Beryllium is a rare metal, so beryl forms only where enough of it gathers, mainly in granite, rhyolite and granite pegmatites, in nearby metamorphic rocks and in veins altered by hot fluids (Geology.com). Beryl is found worldwide (IGS). We found no reference source on which mines supply the green beryl sold in the US today.
+Beryllium is a rare metal, so beryl forms only where enough of it gathers, mainly in granite, rhyolite and granite pegmatites, in nearby metamorphic rocks and in veins altered by hot fluids. Beryl is found worldwide. We found no reference source on which mines supply the green beryl sold in the US today.
 
-Green beryl can be both clear and huge. Aquamarines and green beryls "may be completely transparent and still be very large," says IGS, which mentions a completely transparent crystal of 243 pounds (110 kg) found in Brazil in 1910. The Smithsonian holds green beryls of 1,363, 914 and 578 carats from Brazil, plus smaller pale green stones from Brazil and Connecticut and a 23-carat green stone from Maine (IGS).
+Green beryl can be both clear and huge. Aquamarines and green beryls may be completely transparent and still be very large. A completely transparent crystal of 243 pounds (110 kg) was found in Brazil in 1910. The Smithsonian holds green beryls of 1,363, 914 and 578 carats from Brazil, plus smaller pale green stones from Brazil and Connecticut and a 23-carat green stone from Maine.
 
 <!-- PHOTO 2, beside "Where It Grows". Wikimedia Commons, "File BRATTEKLEIV EVJE beryl.jpg", by Ronald Werner. Page https://commons.wikimedia.org/wiki/File:BRATTEKLEIV_EVJE_beryl.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/BRATTEKLEIV_EVJE_beryl.jpg/1280px-BRATTEKLEIV_EVJE_beryl.jpg (tracking parameters removed). License CC BY-SA 4.0. Credit line "Photo Ronald Werner, CC BY-SA 4.0, via Wikimedia Commons". Verdict ok in image_picks_new_stones.json ("rough green beryl crystal with coin for scale, paper background"). Alt text "Rough green beryl crystal from Evje, Norway, beside a coin for scale" photo pass to confirm. -->
 
@@ -118,19 +118,19 @@ Green beryl can be both clear and huge. Aquamarines and green beryls "may be com
 - **Crystal gazing.** **Tradition.** Polished beryl spheres were often preferred for scrying, and the old belief, Kunz says, was that beryl produced more visions than any other mineral (1913, pages 180 and 212). John Aubrey (1626 to 1697) described a "consecrated Beryl," a sphere a little over an inch across, that was "taken away by authority" around 1645 after its owner told strange things by it (pages 196 to 197).
 - **Old astrology.** **Tradition.** The moon controlled the beryl, Venus also "lent virtue" to it, and Libra was the sign that governed its virtues (Kunz 1913, pages 212 and 347 to 348).
 - **1913.** **Tradition.** Kunz thought beryl would make a better October birthstone than tourmaline or opal (page 320). The list did not follow him.
-- **Today.** **Modern Association.** Shop guides give green beryl renewal, growth and balance, and tie it to the heart chakra ([Kenken Gems](https://store.kenkengems.com/blogs/beryl/beryl-meaning-properties-minerals), [Miller](https://www.miller.fr/en/collections/beryl-vert)).
+- **Today.** **Modern Association.** Shop guides give green beryl renewal, growth and balance, and tie it to the heart chakra.
 
 ## What People Use Green Beryl for Today
 
 **Modern Association.** Very few guides cover green beryl on its own. Most write about beryl as a family, and in those, clarity and focus come up most, then calm, courage and balance. The green stones get the heart chakra in most of them, and green beryl specifically picks up renewal, growth, inner peace and mental clarity. The "why" is mostly color. Green reads as growth and spring, and the clear, glassy crystal reads as a clear head.
 
-One correction is worth making. [Astrology.com](https://www.astrology.com/crystals/beryl-crystal) calls beryl the designated birthstone for May. The [American Gem Society](https://www.americangemsociety.org/birthstones/) list gives May to emerald alone, and by the color rules above, green beryl is not emerald. A green beryl can still be a lovely, honest [May birthday](/birthstones/may/) gift, as long as the card says what it is.
+One correction is worth making. An astrology site calls beryl the designated birthstone for May. The American Gem Society list gives May to emerald alone, and by the color rules above, green beryl is not emerald. A green beryl can still be a lovely, honest [May birthday](/birthstones/may/) gift, as long as the card says what it is.
 
 Some guides go much further, with claims about eye strain, asthma, kidney stones, digestion or the liver. Mineralogy and medicine do not support any of them.
 
 ### Where the Guides Contradict Our Care Data
 
-Beryl water is an old belief, not a remedy. The medieval writer Thomas de Cantimpré said that water in which a beryl had been steeped would relieve hiccups (Kunz, *The Magic of Jewels and Charms*, 1915, page 130), and [Fire Mountain Gems](https://www.firemountaingems.com/learn/categories/essential-resources/gemstone-meanings/beryl-gemstone-meanings.html) repeats a story of beryl water drunk for kidney stones. Neither claim has medical backing, and our care data wins. Beryl is a beryllium mineral, the main beryllium ore outside the US, and while IGS lists no known toxicity risk for it, OSHA warns that breathing beryllium dust or fumes can cause chronic beryllium disease and lung cancer ([OSHA](https://osha.gov/beryllium/)). With the sources split, green beryl stays out of anything you drink. Do not put it in drinking water, and see a doctor for hiccups that will not stop or for kidney stone pain.
+Beryl water is an old belief, not a remedy. The medieval writer Thomas de Cantimpré said that water in which a beryl had been steeped would relieve hiccups (Kunz, *The Magic of Jewels and Charms*, 1915, page 130), and one bead dealer repeats a story of beryl water drunk for kidney stones. Neither claim has medical backing, and our care data wins. Beryl is a beryllium mineral, the main beryllium ore outside the US, and while IGS lists no known toxicity risk for it, OSHA warns that breathing beryllium dust or fumes can cause chronic beryllium disease and lung cancer ([OSHA](https://osha.gov/beryllium/)). With the sources split, green beryl stays out of anything you drink. Do not put it in drinking water, and see a doctor for hiccups that will not stop or for kidney stone pain.
 
 ## How to Use Green Beryl in Everyday Life
 
@@ -159,22 +159,22 @@ Beryl water is an old belief, not a remedy. The medieval writer Thomas de Cantim
 We use the same five labels on every stone. Most of the data covers beryl as a family, so some lines stay open for green beryl itself.
 
 - **Natural, untreated.** A green beryl straight from the ground. We found no reference source on how much green beryl is sold untreated, so ask.
-- **Natural, treated.** IGS lists heating (common, stable and undetectable in morganite and aquamarine), irradiation, oil or resin filling (common in emerald, rare in other beryls) and plastic coating that adds color (rare, easily scratched, seen under magnification), without saying which are used on green beryl itself. GIA's New York lab has seen near-colorless beryl dyed green to pass as emerald, with the dye concentrated in its fractures under the microscope ([Gems & Gemology, Winter 2016](https://www.gia.edu/gems-gemology/winter-2016-labnotes-dyed-green-beryl)). And heat can move a stone out of the category altogether, since many greenish blue aquamarines were bluish green beryl before treatment (Geology.com).
-- **Lab-grown.** All colors of beryl can be grown hydrothermally (IGS), and synthetic beryl has been made for gems since the 1930s (Geology.com). Natural and synthetic stones are easy to confuse, IGS warns, though growth produces telltale inclusions.
-- **Imitation.** We found no reference report of a particular stone sold as green beryl in the US. The imitations on record aim higher, at emerald. IGS warns of green tourmaline sold as "Brazilian emerald" and of peridot presented as emerald, and GIA has described the dyed beryl above. Green tourmaline, peridot and green glass are the look-alikes to rule out, see below.
+- **Natural, treated.** Beryl treatments include heating (common, stable and undetectable in morganite and aquamarine), irradiation, oil or resin filling (common in emerald, rare in other beryls) and plastic coating that adds color (rare, easily scratched, seen under magnification), though the references do not say which are used on green beryl itself. In a Winter 2016 lab note, GIA's New York lab described near-colorless beryl dyed green to pass as emerald, with the dye concentrated in its fractures under the microscope. And heat can move a stone out of the category altogether, since many greenish blue aquamarines were bluish green beryl before treatment.
+- **Lab-grown.** All colors of beryl can be grown hydrothermally, and synthetic beryl has been made for gems since the 1930s. Natural and synthetic stones are easy to confuse, though growth produces telltale inclusions.
+- **Imitation.** We found no reference report of a particular stone sold as green beryl in the US. The imitations on record aim higher, at emerald. Watch for green tourmaline sold as "Brazilian emerald" and for peridot presented as emerald, along with the dyed beryl above. Green tourmaline, peridot and green glass are the look-alikes to rule out, see below.
 - **Trade name.** The main naming trap is the word emerald, applied or withheld depending on the lab. Ask which standard was used. The [Label Decoder](/tools/crystal-label-decoder/) translates the most common tags.
 
 Three checks, with their limits.
 
-1. **Look at a crystal's shape.** Beryl crystals are hexagonal prisms with flat ends and no striations, the fine grooves many other crystals show (Geology.com). This only works on a well-formed raw crystal, not a cut gem.
-2. **Use hardness and heft.** Beryl's high hardness (7.5 to 8) and relatively low specific gravity help separate it from similar materials (Geology.com). Both need a gemologist's tools to measure properly.
-3. **Look for growth patterns.** Chevron-shaped growth zoning is the most common sign of synthetic beryl, visible under magnification (Geology.com), and IGS lists nail-head spicules and seed plates in lab-grown stones. That is loupe work at best and lab work at worst.
+1. **Look at a crystal's shape.** Beryl crystals are hexagonal prisms with flat ends and no striations, the fine grooves many other crystals show. This only works on a well-formed raw crystal, not a cut gem.
+2. **Use hardness and heft.** Beryl's high hardness (7.5 to 8) and relatively low specific gravity help separate it from similar materials. Both need a gemologist's tools to measure properly.
+3. **Look for growth patterns.** Chevron-shaped growth zoning is the most common sign of synthetic beryl, visible under magnification, and nail-head spicules and seed plates also mark lab-grown stones. That is loupe work at best and lab work at worst.
 
 Three questions for the seller. Is this green beryl or emerald, and by whose standard? Natural or lab-grown? Heated, irradiated, oiled or coated?
 
 ## How to Care for Green Beryl
 
-**Mineral Fact.** Beryl's hardness of 7.5 to 8 helps it resist scratches in jewelry, but it breaks by cleavage and is brittle, which leaves it vulnerable to impact, pressure and temperature change (Geology.com).
+**Mineral Fact.** Beryl's hardness of 7.5 to 8 helps it resist scratches in jewelry, but it breaks by cleavage and is brittle, which leaves it vulnerable to impact, pressure and temperature change.
 
 - **Water.** Unknown beyond washing with warm water and mild detergent. Soaking is not covered.
 - **Sun.** Unknown. No reference covers green beryl in sunlight, so keep it out of long, strong sun.
@@ -182,8 +182,8 @@ Three questions for the seller. Is this green beryl or emerald, and by whose sta
 - **Chemicals.** Unknown. There is no reliable guidance yet, so keep harsh cleaners away.
 - **Salt.** Unknown. There is no reliable guidance yet, so keep it away from salt.
 - **Scratches and storage.** OK. It resists scratching well, but store it where it cannot be knocked.
-- **Cleaning.** OK with mild detergent and warm water, the IGS method for included beryls. IGS says emeralds should never go in mechanical cleaners, so skip the ultrasonic unless a jeweler has checked your stone.
-- **Toxicity.** Brief only. IGS lists no known risk for beryl, but beryl is a beryllium ore, and OSHA links inhaled beryllium dust to lung disease and lung cancer. Never cut, sand or grind it.
+- **Cleaning.** OK with mild detergent and warm water, the usual method for included beryls. Emeralds should never go in mechanical cleaners, so skip the ultrasonic unless a jeweler has checked your stone.
+- **Toxicity.** Brief only. No known risk is listed for beryl, but beryl is a beryllium ore, and inhaled beryllium dust is linked to lung disease and lung cancer. Never cut, sand or grind it.
 
 ### Can Green Beryl Go in Water?
 
@@ -191,18 +191,18 @@ A quick wash, yes. A soak, our care data cannot say, and a drink, never. Check y
 
 ## Green Beryl vs Look-Alikes
 
-- **Emerald.** Same mineral, richer and more saturated green. Natural emeralds are usually translucent or visibly included, while lab-created emeralds are bright and transparent (Geology.com). See [emerald](/stones/emerald/).
+- **Emerald.** Same mineral, richer and more saturated green. Natural emeralds are usually translucent or visibly included, while lab-created emeralds are bright and transparent. See [emerald](/stones/emerald/).
 - **Aquamarine.** Same mineral, blue to blue-green. Bluish green beryl usually ends up here.
-- **Heliodor.** Same mineral, yellow to greenish yellow (Geology.com). See [heliodor](/stones/heliodor/).
-- **Green tourmaline.** A higher refractive index (1.624 to 1.644 against 1.566 to 1.602 for beryl), much stronger double refraction (0.018 to 0.040 against 0.004 to 0.010) and a higher specific gravity of about 3.06 ([GIA](https://www.gia.edu/tourmaline/gem-overview), [IGS beryl](https://www.gemsociety.org/article/beryl-jewelry-gemstone-information/)). Dark green tourmaline also changes color strongly with viewing angle, forest green face up and olive green from the side in one IGS example ([IGS](https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/)), while green beryl's pleochroism is only weak to moderate. See [green tourmaline](/stones/green-tourmaline/).
-- **Peridot.** Yellowish green, softer (6.5 to 7), denser (3.34) and with a refractive index of 1.65 to 1.69 ([GIA](https://www.gia.edu/peridot/gem-overview)). Its very strong double refraction can produce a doubled, fuzzy look that helps identify it ([IGS](https://www.gemsociety.org/article/peridot-jewelry-and-gemstone-information/)).
-- **Green glass.** Softer (5 to 6) and singly refractive, often with gas bubbles, swirl lines, concave facets and rounded facet edges, according to the IGS [simulant chart](https://gemsociety.org/article/diamond-and-simulant-comparison-chart). A loupe can catch the bubbles and soft edges, but only a gemologist's tests settle it.
+- **Heliodor.** Same mineral, yellow to greenish yellow. See [heliodor](/stones/heliodor/).
+- **Green tourmaline.** A higher refractive index (1.624 to 1.644 against 1.566 to 1.602 for beryl), much stronger double refraction (0.018 to 0.040 against 0.004 to 0.010) and a higher specific gravity of about 3.06. Dark green tourmaline also changes color strongly with viewing angle, forest green face up and olive green from the side in one example, while green beryl's pleochroism is only weak to moderate. See [green tourmaline](/stones/green-tourmaline/).
+- **Peridot.** Yellowish green, softer (6.5 to 7), denser (3.34) and with a refractive index of 1.65 to 1.69. Its very strong double refraction can produce a doubled, fuzzy look that helps identify it.
+- **Green glass.** Softer (5 to 6) and singly refractive, often with gas bubbles, swirl lines, concave facets and rounded facet edges. A loupe can catch the bubbles and soft edges, but only a gemologist's tests settle it.
 
 ## Price Guide
 
-The price gap between green beryl and emerald is significant (Geology.com). Green and olive beryls that are not emeralds "are not well known to the gem buying public" (IGS), which helps explain the gap. For a sense of the lab-grown end of the market, Geology.com gives an undated figure of $299 to $499 for synthetic emerald jewelry sets of ring, earrings and pendant.
+The price gap between green beryl and emerald is significant. Green and olive beryls that are not emeralds are not well known to the gem buying public, which helps explain the gap. For a sense of the lab-grown end of the market, an undated reference figure puts synthetic emerald jewelry sets of ring, earrings and pendant at $299 to $499.
 
-What matters most is the same as for any beryl. Color decides the name and has an enormous effect on value, and clarity is very important (Geology.com). A clean, lively green beryl is worth more than a cloudy one, but it will not be priced like an emerald, and it should not be.
+What matters most is the same as for any beryl. Color decides the name and has an enormous effect on value, and clarity is very important. A clean, lively green beryl is worth more than a cloudy one, but it will not be priced like an emerald, and it should not be.
 
 One current listing we found, a faceted 5-carat green beryl about 12.4 by 10.7 mm, with origin and treatment not stated, was about $250. Prices from online gem listings in US dollars, November 2026.
 
@@ -228,4 +228,4 @@ One current listing we found, a faceted 5-carat green beryl about 12.4 by 10.7 m
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

@@ -71,27 +71,27 @@ Chiastolite is a variety of the mineral andalusite whose crystals hide a natural
 
 ## What Chiastolite Actually Is
 
-**The Stone.** Chiastolite is a variety of andalusite, an aluminosilicate mineral with the formula Al₂SiO₅. Andalusite forms when shale and similar clay-rich rocks are heated and squeezed during metamorphism, and it is found mostly in schist, gneiss and hornfels ([Geology.com](https://geology.com/minerals/andalusite.shtml)). It shares its chemistry with kyanite and sillimanite but forms at the lowest temperature of the three. Andalusite is on the IMA List of Minerals (July 2026 edition) with a name dating from 1798. Chiastolite is a variety name, not a species.
+**The Stone.** Chiastolite is a variety of andalusite, an aluminosilicate mineral with the formula Al₂SiO₅. Andalusite forms when shale and similar clay-rich rocks are heated and squeezed during metamorphism, and it is found mostly in schist, gneiss and hornfels. It shares its chemistry with kyanite and sillimanite but forms at the lowest temperature of the three. Andalusite is on the IMA List of Minerals (July 2026 edition) with a name dating from 1798. Chiastolite is a variety name, not a species.
 
 ### How the Cross Forms
 
-**Mineral Fact.** The cross is made of black particles, mostly graphite. As the andalusite crystal grows inside a rock that is being metamorphosed, it pushes those particles aside, and they pile up at the crystal's boundaries. The result can be a cross-shaped pattern inside the mineral (Geology.com). Kunz described it in 1913 as "the regular arrangement of carbonaceous impurities along the axes of the crystal" (*The Curious Lore of Precious Stones*, page 270). Minerals.net adds that the dark inclusions can be carbon or clay, and that the pattern usually shows only once a crystal is cut ([Minerals.net](https://www.minerals.net/mineral/andalusite)).
+**Mineral Fact.** The cross is made of black particles, mostly graphite. As the andalusite crystal grows inside a rock that is being metamorphosed, it pushes those particles aside, and they pile up at the crystal's boundaries. The result can be a cross-shaped pattern inside the mineral. Kunz described it in 1913 as "the regular arrangement of carbonaceous impurities along the axes of the crystal" (*The Curious Lore of Precious Stones*, page 270). The dark inclusions can be carbon or clay, and the pattern usually shows only once a crystal is cut.
 
-Exactly why the arms form is less settled. One explanation often given is that impurities stick to the fast-growing corners of the crystal and slow it down there, in repeating cycles. Some pieces show a checkerboard instead of a cross ([Minerals.net](https://www.minerals.net/gemstone/andalusite)).
+Exactly why the arms form is less settled. One explanation often given is that impurities stick to the fast-growing corners of the crystal and slow it down there, in repeating cycles. Some pieces show a checkerboard instead of a cross.
 
 The name follows the mark. Kunz writes that it "signifies a marking resembling the Greek letter Χ (chi)." Kunz also calls it macle, and old lapidaries called it lapis crucifer, the cross stone.
 
 ### Why Chiastolite Is Softer Than Other Andalusite
 
-Gem andalusite rates 6.5 to 7.5 on the Mohs scale. The carbon inclusions give chiastolite a lower hardness and specific gravity than other andalusite varieties ([International Gem Society](https://www.gemsociety.org/article/andalusite-jewelry-and-gemstone-information/)). Gemdat lists chiastolite at 5 to 5.5 ([Gemdat](https://www.gemdat.org/gem-1001.html)).
+Gem andalusite rates 6.5 to 7.5 on the Mohs scale. The carbon inclusions give chiastolite a lower hardness and specific gravity than other andalusite varieties. Chiastolite rates 5 to 5.5.
 
-Some pieces are softer still. Andalusite is often replaced in part or in full by micas and other minerals, which keep its shape (Minerals.net), and many of the large Asturian crystals are altered to micas and clay minerals, according to a 2015 study by Ramón Jiménez Martínez of Spain's Museo Geominero and Matina Prieto Fernández ([De Re Metallica 24](https://www.parquehistorico.org/images/prensa/quiastolitas2015.pdf)).
+Some pieces are softer still. Andalusite is often replaced in part or in full by micas and other minerals, which keep its shape, and many of the large Asturian crystals are altered to micas and clay minerals, according to a 2015 study by Ramón Jiménez Martínez of Spain's Museo Geominero and Matina Prieto Fernández in [*De Re Metallica* 24](https://www.parquehistorico.org/images/prensa/quiastolitas2015.pdf).
 
 ### Where Chiastolite Comes From
 
-Well-formed chiastolite crystals are abundant around Boal in Asturias, northern Spain, and in Carreço, Portugal. Large ones have come from the Sangping Mine in Henan, China, and from Mount Howden in South Australia. In the United States, some of the best has come from Lancaster, Massachusetts, and from Madera County, California (Minerals.net). The Asturian crystals grow in the ring of baked rock around two bodies of once-molten rock, the Boal and El Pato plutons, and often reach about 8 inches (20 cm) long (Jiménez Martínez and Prieto Fernández). An IGS photo shows handmade chiastolite jewelry from Laraquete, in Chile's Bío Bío Region.
+Well-formed chiastolite crystals are abundant around Boal in Asturias, northern Spain, and in Carreço, Portugal. Large ones have come from the Sangping Mine in Henan, China, and from Mount Howden in South Australia. In the United States, some of the best has come from Lancaster, Massachusetts, and from Madera County, California. The Asturian crystals grow in the ring of baked rock around two bodies of once-molten rock, the Boal and El Pato plutons, and often reach about 8 inches (20 cm) long. Handmade chiastolite jewelry also comes from Laraquete, in Chile's Bío Bío Region.
 
-Since it is opaque, chiastolite is cut "more or less as a curiosity," usually as cross sections showing a black cross on a gray background, and sometimes as spheres (International Gem Society). Should you polish a big raw crystal? That is taste, not science. Raw keeps the natural shape, while the cross usually shows only on a cut face.
+Since it is opaque, chiastolite is cut largely as a curiosity, usually as cross sections showing a black cross on a gray background, and sometimes as spheres. Should you polish a big raw crystal? That is taste, not science. Raw keeps the natural shape, while the cross usually shows only on a cut face.
 
 ## Where the Meaning Comes From
 
@@ -101,12 +101,12 @@ Since it is opaque, chiastolite is cut "more or less as a curiosity," usually as
 - **Asturian names.** **Tradition.** Local names include Piedra de la Cruz (stone of the cross), Piedra de Santiago and Cruz de San Andrés, after the X-shaped cross of Saint Andrew (same study).
 - **17th century, Asturias.** **Tradition.** A monk of the monastery of Santa María de Villanueva de Oscos recorded a mountain pass at Cedemonio feared for its howling winds, which people took for demons. Benedictine monks built a chapel to Saint Peter on rocks full of chiastolite, which was said to quiet the "demons" and protect travelers (same study, citing Bouza Brey, 1954).
 - **Early lapidaries.** **Tradition.** The "lapis crucifer" of the gem writer De Boot appears to have been chiastolite, according to Kunz. Cronstedt's 1758 treatise on mineralogy reports that staurolite was also called lapis crucifer, or the "baptismal stone" of Basel, where it was an amulet at baptisms (Kunz 1913, page 271).
-- **1754, Spain.** **Mineral Fact.** José Turrubia described the chiastolite variety in 1754, decades before the mineral andalusite got its name in 1798 (International Gem Society).
+- **1754, Spain.** **Mineral Fact.** José Turrubia described the chiastolite variety in 1754, decades before the mineral andalusite got its name in 1798.
 - **Recorded in 1913.** **Tradition.** Kunz reports that the crystal was "naturally regarded as having a mystical and religious significance." It was said to stop bleeding if worn against the skin, to increase a mother's milk and to cure fevers worn at the neck, while "the divine symbol it bore" drove evil spirits away (1913, page 270).
 - **Patagonia.** **Tradition.** The 2015 study also records an Araucanian legend in which the stones hold the souls of warriors who died resisting Spanish rule.
 - **Today.** **Modern Association.** Protection first, then grounding and balance. Robert Simmons ties it to intuition in *The Book of Stones*, written with Naisha Ahsian (first published 2005), and Melody ties it to patience in *Love Is in the Earth* (1991), according to one crystal seller's summary.
 
-Good specimens are still cut and polished as amulets, charms and novelty gems, notes Geology.com.
+Good specimens are still cut and polished as amulets, charms and novelty gems.
 
 ## What People Use Chiastolite for Today
 
@@ -144,44 +144,44 @@ Some links are rare and you can skip them, like an angel named Cambiel, numerolo
 
 We use the same five labels on every stone.
 
-- **Natural, untreated.** Natural crystals, often cut into slices and polished to show the cross (Minerals.net).
-- **Natural, treated.** Gem andalusite may rarely be heated to improve its color (International Gem Society), and Minerals.net says andalusite gems are generally not treated or enhanced. We found no reference source on resin, dye or coatings used on chiastolite slices.
-- **Lab-grown.** Scientists have grown andalusite crystals for research, with no known jewelry use (International Gem Society).
+- **Natural, untreated.** Natural crystals, often cut into slices and polished to show the cross.
+- **Natural, treated.** Gem andalusite may rarely be heated to improve its color, though andalusite gems are generally not treated or enhanced. We found no reference source on resin, dye or coatings used on chiastolite slices.
+- **Lab-grown.** Scientists have grown andalusite crystals for research, with no known jewelry use.
 - **Imitation.** Gemdat says simulants do not exist, because the marking is so distinctive, and we found no reference source describing painted or printed crosses sold as chiastolite.
-- **Trade name.** "Trapiche andalusite" is chiastolite under another name, says the IGS. It is not a fake, just a fancier label.
+- **Trade name.** "Trapiche andalusite" is chiastolite under another name. It is not a fake, just a fancier label.
 
 Three checks, with their limits.
 
-1. **Find the cross inside.** In chiastolite the cross is a pattern inside the crystal, seen on a cut face (Minerals.net). Staurolite forms its cross from two whole crystals grown together at right angles (Kunz 1913, page 271), so its cross is the shape of the stone itself.
-2. **Look at the outline.** Andalusite commonly grows as prisms with a nearly square cross-section (Geology.com), so a slice is often squarish, and Gemdat describes the cross as diagonal. A round tumbled stone has lost this clue.
-3. **Mind the hardness.** At 5 to 5.5, chiastolite is harder than calcite (Mohs 3), and calcite fizzes in dilute acid ([Geology.com](https://geology.com/minerals/calcite.shtml)). A pale cross-shaped crystal that scratches easily and fizzes is a carbonate, not chiastolite. Leave acid and scratch tests to a lab or a rock club, since both mark the piece, and altered chiastolite can be soft too.
+1. **Find the cross inside.** In chiastolite the cross is a pattern inside the crystal, seen on a cut face. Staurolite forms its cross from two whole crystals grown together at right angles (Kunz 1913, page 271), so its cross is the shape of the stone itself.
+2. **Look at the outline.** Andalusite commonly grows as prisms with a nearly square cross-section, so a slice is often squarish, and the cross runs diagonally. A round tumbled stone has lost this clue.
+3. **Mind the hardness.** At 5 to 5.5, chiastolite is harder than calcite (Mohs 3), and calcite fizzes in dilute acid. A pale cross-shaped crystal that scratches easily and fizzes is a carbonate, not chiastolite. Leave acid and scratch tests to a lab or a rock club, since both mark the piece, and altered chiastolite can be soft too.
 
-Sold in a kit as "rare"? Chiastolite is abundant around Boal (Minerals.net), so a cheap piece can be perfectly real. Questions to ask the seller. Where was it collected? Is the polish natural, or has the slice been coated or filled? Is the cross in the stone, not painted on?
+Sold in a kit as "rare"? Chiastolite is abundant around Boal, so a cheap piece can be perfectly real. Questions to ask the seller. Where was it collected? Is the polish natural, or has the slice been coated or filled? Is the cross in the stone, not painted on?
 
 ## How to Care for Chiastolite
 
 Our care data has no rating for chiastolite yet. Every field below is Unknown, and the [Care Checker](/tools/crystal-care-checker/) shows the same.
 
-- **Water.** Unknown. For gem andalusite, the IGS advises a soft brush, mild detergent and warm water. Chiastolite is softer, and many Asturian pieces are partly altered to mica and clay, so we wipe it with a damp cloth and dry it rather than soak it.
+- **Water.** Unknown. For gem andalusite, the usual advice is a soft brush, mild detergent and warm water. Chiastolite is softer, and many Asturian pieces are partly altered to mica and clay, so we wipe it with a damp cloth and dry it rather than soak it.
 - **Sun.** Unknown. We found no reference source on light and chiastolite.
-- **Heat.** Unknown. For gem andalusite the IGS warns that inclusions could shatter if heated or vibrated, so skip ultrasonic cleaners and steam.
+- **Heat.** Unknown. In gem andalusite, inclusions could shatter if heated or vibrated, so skip ultrasonic cleaners and steam.
 - **Salt.** Unknown. Some guides suggest burying chiastolite in dry salt overnight or cleaning it in salted water. Our data cannot clear that, so skip it.
-- **Toxicity.** Unknown for chiastolite. The IGS toxicity table lists no known risk for andalusite ([International Gem Society](https://www.gemsociety.org/article/gemstone-care-guide/)). Our house rule still keeps it out of drinking water, like every stone our data has not cleared.
+- **Toxicity.** Unknown for chiastolite. No toxicity risk is known for andalusite. Our house rule still keeps it out of drinking water, like every stone our data has not cleared.
 - **Storage.** Unknown. Our data has no rule, but at 5 to 5.5 a slice can be scratched by harder stones such as quartz, so a pouch of its own is our habit.
 
 Some guides say chiastolite can be submerged in water, or charged in the sun for two hours. With no source behind either, our care data wins, and the gentle way costs you nothing.
 
 ## Chiastolite vs Look-Alikes
 
-- **Staurolite.** The other cross stone, named from the Greek for cross. Its cross is two twinned crystals, while chiastolite's is an inner pattern (Kunz). In Brittany, local legend said staurolite crosses had dropped from the heavens. See our [staurolite page](/stones/staurolite/).
-- **Gem andalusite.** The same mineral, transparent, harder and strongly pleochroic, showing different colors from different angles (Geology.com).
-- **Cross-shaped calcite.** Much softer, and it fizzes in acid (Geology.com).
+- **Staurolite.** The other cross stone, named from the Greek for cross. Its cross is two twinned crystals, while chiastolite's is an inner pattern. In Brittany, local legend said staurolite crosses had dropped from the heavens. See our [staurolite page](/stones/staurolite/).
+- **Gem andalusite.** The same mineral, transparent, harder and strongly pleochroic, showing different colors from different angles.
+- **Cross-shaped calcite.** Much softer, and it fizzes in acid.
 
 More on the parent mineral on our [andalusite page](/stones/andalusite/).
 
 ## Price Guide
 
-Chiastolite is cut as a curiosity rather than a fine gem (International Gem Society), and well-formed crystals are abundant around Boal (Minerals.net).
+Chiastolite is cut as a curiosity rather than a fine gem, and well-formed crystals are abundant around Boal.
 
 One listing we found offered a tumbled piece about 20 to 27 mm across for $10, or a set of seven for $40. Prices from US-dollar listings at an online crystal shop in November 2026.
 
@@ -204,4 +204,4 @@ One listing we found offered a tumbled piece about 20 to 27 mm across for $10, o
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

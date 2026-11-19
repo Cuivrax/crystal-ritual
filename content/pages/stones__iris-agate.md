@@ -70,19 +70,19 @@ Iris agate is a banded agate whose silica layers are so fine that light shining 
 
 ## What Iris Agate Actually Is
 
-**The Stone.** Agate is a variety of chalcedony, the form of quartz whose crystals are too small to see, according to the [International Gem Society](https://www.gemsociety.org/article/agate-gem-information/). It grows in layers. Silica from groundwater deposits in cavities in igneous rock, building concentric layers around the walls or level layers up from the bottom, and the banding records how the water chemistry changed ([Geology.com](https://geology.com/gemstones/agate/)). Agates typically form as small nodules, according to the International Gem Society.
+**The Stone.** Agate is a variety of chalcedony, the form of quartz whose crystals are too small to see. It grows in layers. Silica from groundwater deposits in cavities in igneous rock, building concentric layers around the walls or level layers up from the bottom, and the banding records how the water chemistry changed. Agates typically form as small nodules.
 
-Iris agate is an agate whose layers are extraordinarily thin and regular. The International Gem Society puts it in one line, "Iris agates show iridescent colors between color layers." Agate rates 7 on the Mohs scale (Geology.com), and the International Gem Society calls agate tough enough for most jewelry.
+Iris agate is an agate whose layers are extraordinarily thin and regular. Iris agates show iridescent colors between their color layers. Agate rates 7 on the Mohs scale and is tough enough for most jewelry.
 
 ### Where the Rainbow Comes From
 
-**Mineral Fact.** The colors are not pigment. A 2017 study by Xiayang Lin and Peter J. Heaney in *Gems & Gemology* explains two ways minerals make iridescence, thin films and repeating structures, and names iris agate as a classic case of the second, where light passes through transparent, regularly repeating substructures and diffracts, alongside precious opal, labradorite and moonstone ([GIA](https://gia.edu/gems-gemology/spring-2017-iridescence-natural-quartz)).
+**Mineral Fact.** The colors are not pigment. A 2017 study by Xiayang Lin and Peter J. Heaney in *Gems & Gemology* explains two ways minerals make iridescence, thin films and repeating structures, and names iris agate as a classic case of the second, where light passes through transparent, regularly repeating substructures and diffracts, alongside precious opal, labradorite and moonstone.
 
-In plainer words, the silica layers are so thin and so evenly spaced that they act like the grooves on a CD, splitting white light into colors. Geology In, a geology blog, describes alternating layers of silica with different refractive indices, too thin to see with the naked eye ([Geology In](https://geologyin.com/2023/12/iris-agate-rainbow-in-stone.html)).
+In plainer words, the silica layers are so thin and so evenly spaced that they act like the grooves on a CD, splitting white light into colors. The layers alternate between silica with different refractive indices, and they are too thin to see with the naked eye.
 
 ### How to See the Rainbow
 
-This is the part most listings leave out. Iris agate shows its rainbow when it is cut into thin slices and viewed with light shining through, and the colors change with the thickness of the slice and the angle of view (Geology In). In ordinary light, the same slice shows only the agate's own gray to brown color. Translucent pieces show it best.
+This is the part most listings leave out. Iris agate shows its rainbow when it is cut into thin slices and viewed with light shining through, and the colors change with the thickness of the slice and the angle of view. In ordinary light, the same slice shows only the agate's own gray to brown color. Translucent pieces show it best.
 
 So a dull-looking slice in a shop may be the real thing. Ask to hold it up to a light before you decide.
 
@@ -90,7 +90,7 @@ So a dull-looking slice in a shop may be the real thing. Ask to hold it up to a 
 
 ### Where Iris Agate Comes From
 
-Iris agate can form in any agate deposit but is less common than other varieties, says Geology In, which lists Oregon, Montana and California in the US, Rio Grande do Sul in Brazil, and occasional finds in Indonesia, India and Madagascar. It adds that iridescent agates from Indonesia may need further examination before they can be confirmed as true iris agate. These localities come from a blog, so treat them as reported, not mapped.
+Iris agate can form in any agate deposit but is less common than other varieties. Reported localities include Oregon, Montana and California in the US, Rio Grande do Sul in Brazil, and occasional finds in Indonesia, India and Madagascar, and iridescent agates from Indonesia may need further examination before they can be confirmed as true iris agate. These localities come from a blog, so treat them as reported, not mapped.
 
 Some sellers label pieces "Horse Mountain iris agate." Treat that place name as the seller's claim, and ask how they know where the piece came from.
 
@@ -99,15 +99,15 @@ Some sellers label pieces "Horse Mountain iris agate." Treat that place name as 
 **The Story.** Iris agate has almost no lore of its own, because the rainbow is invisible until a slice is cut and lit from behind. Its meaning borrows from agate, one of the oldest carved stones there is.
 
 - **Ancient world.** **Tradition.** Kunz identifies the shebo of the Hebrew high priest's breastplate as an agate, most likely banded gray and white. He adds that agate was highly esteemed in very ancient times, until it became so common, as Pliny noted, that it was "but little regarded" (*The Curious Lore of Precious Stones*, 1913, pages 296 to 297).
-- **19th century.** **Tradition.** The agate cutters of Idar and Oberstein in Germany were kept busy making eye agate amulets for the Sudan, brown or black agates with a white ring read as an eye against the Evil Eye (Kunz 1913, page 54). The same towns developed a celebrated secret process for dyeing agate (International Gem Society).
+- **19th century.** **Tradition.** The agate cutters of Idar and Oberstein in Germany were kept busy making eye agate amulets for the Sudan, brown or black agates with a white ring read as an eye against the Evil Eye (Kunz 1913, page 54). The same towns developed a celebrated secret process for dyeing agate.
 - **1915.** **Tradition.** Kunz writes that "Rainbow Agate is a name appropriately applied to agates showing a beautiful prismatic effect," made of quartz and chalcedony in very fine layers. He owned a splendid piece set in a jewel from an old Saxon collection, possibly from India, and noted that its colors come from minute interference lines, unlike the internal fractures behind iridescent quartz (*The Magic of Jewels and Charms*, 1915, page 377).
-- **Today.** **Modern Association.** The name comes from the Greek word iris, meaning rainbow, Geology In notes, and most of today's meanings start from the rainbow too.
+- **Today.** **Modern Association.** The name comes from the Greek word iris, meaning rainbow, and most of today's meanings start from the rainbow too.
 
 ## What People Use Iris Agate for Today
 
-**Modern Association.** Confidence and protection are both Widely Linked with iris agate in modern crystal guides. A gem shop's blog says it is believed to give courage and confidence, suggests it for people who are shy or afraid to speak in front of others, and says artists, writers and musicians love it for new ideas ([Raza Gems](https://razagems.com/blogs/loose-stones/healing-properties-of-iris-agate)). A crystal shop calls it a stone of "happiness, manifestation, imagination and well-being" and, "one fun attribute," a stone said to grant wishes ([Cape Cod Crystals](https://capecodcrystals.com/pages/rainbow-iris-agate)).
+**Modern Association.** Confidence and protection are both Widely Linked with iris agate in modern crystal guides. A gem shop's blog says it is believed to give courage and confidence, suggests it for people who are shy or afraid to speak in front of others, and says artists, writers and musicians love it for new ideas. A crystal shop calls it a stone of "happiness, manifestation, imagination and well-being" and, "one fun attribute," a stone said to grant wishes.
 
-Chakra links lean toward all chakras, with the third eye named most often after that. Another shop blog lists the sacral, solar plexus and third eye ([Wicca SG](https://wiccasg.com/blogs/crystals-sanctum/iris-agate-properties-and-chakras)).
+Chakra links lean toward all chakras, with the third eye named most often after that. Another shop blog lists the sacral, solar plexus and third eye.
 
 The "why" is the rainbow and the hidden reveal. A plain stone that lights up from inside reads easily as confidence you already have, waiting for the right moment. The protection and grounding themes come from agate in general, which is Widely Linked with grounding in modern crystal guides.
 
@@ -139,21 +139,21 @@ Some links are marginal or contradictory. Zodiac signs vary from Taurus to Gemin
 
 ### Is Iris Agate Natural?
 
-Yes. The rainbow is a natural effect of the stone's structure, not a pigment (Geology In), and GIA's 2017 study lists iris agate among natural examples of iridescence. The questions to ask are about labels, dye and coatings.
+Yes. The rainbow is a natural effect of the stone's structure, not a pigment, and Lin and Heaney's 2017 study lists iris agate among natural examples of iridescence. The questions to ask are about labels, dye and coatings.
 
 We use the same five labels on every stone.
 
 - **Natural, untreated.** A slice that shows its rainbow only with light through it.
-- **Natural, treated.** Agate is very often dyed. Most spectacularly colored agates in the gem trade have been dyed (Geology.com), dyeing is usually stable, and ethical dealers disclose it (International Gem Society). Dye adds color you can see in ordinary light. The iris rainbow needs light through the slice.
+- **Natural, treated.** Agate is very often dyed. Most spectacularly colored agates in the gem trade have been dyed, dyeing is usually stable, and ethical dealers disclose it. Dye adds color you can see in ordinary light. The iris rainbow needs light through the slice.
 - **Lab-grown.** Not reported for iris agate.
-- **Imitation.** We found no reference source describing imitations of iris agate. Two things come close. Dyed agate, which is common, adds color you can see in ordinary light (International Gem Society), and iridescent quartz has been faked with thin metal films, sold as "aurora quartz," according to GIA, so do not confuse coated quartz with iris agate.
-- **Trade names.** Rainbow agate and peacock agate, depending on the colors (Geology In). Kunz used "Rainbow Agate" in 1915.
+- **Imitation.** We found no reference source describing imitations of iris agate. Two things come close. Dyed agate, which is common, adds color you can see in ordinary light, and iridescent quartz has been faked with thin metal films, sold as "aurora quartz," so do not confuse coated quartz with iris agate.
+- **Trade names.** Rainbow agate and peacock agate, depending on the colors. Kunz used "Rainbow Agate" in 1915.
 
 Three checks you can do at home, with their limits.
 
 1. **The flashlight test.** In a dim room, shine a light through the slice from behind. Rainbow colors that shift with the angle point to the iris effect. A thick or opaque piece may show nothing even if it has fine layers.
-2. **Look in ordinary light.** A gray to brown body is normal for iris agate (Geology In). Vivid blues, pinks or purples in ordinary light usually mean dyed agate, which is common but is not the iris effect.
-3. **Read the label twice.** Geology.com notes that petrified wood sold as "agatized wood" is chalcedony rather than agate, which is why our hero photo keeps the photographer's label. And an iridescent agate from a new locality may need expert examination before it counts as true iris agate (Geology In).
+2. **Look in ordinary light.** A gray to brown body is normal for iris agate. Vivid blues, pinks or purples in ordinary light usually mean dyed agate, which is common but is not the iris effect.
+3. **Read the label twice.** Petrified wood sold as "agatized wood" is chalcedony rather than agate, which is why our hero photo keeps the photographer's label. And an iridescent agate from a new locality may need expert examination before it counts as true iris agate.
 
 Three questions to ask the seller. Can you show me the rainbow with a light behind it? Has the slice been dyed or coated? Where was it found?
 
@@ -161,31 +161,31 @@ Three questions to ask the seller. Can you show me the rainbow with a light behi
 
 Most of the care data for iris agate is still Unknown, so we stay gentle. Here is what is known.
 
-- **Scratches.** OK. Agate is hard, about 7, and tough enough for most jewelry (International Gem Society, Geology.com).
-- **Chemicals.** Brief only. Geology In advises handling it with care to avoid harsh chemicals and extreme conditions, without details.
-- **Toxicity.** OK to handle. The International Gem Society [toxicity table](https://www.gemsociety.org/article/gemstone-care-guide/) rates agate low risk, and the silica hazard concerns dust from cutting and polishing.
-- **Water.** Unknown. We found no reference source on washing iris agate. A soft dry cloth is the gentle default. Chalcedony is relatively porous, which is why it takes dye so easily (International Gem Society), one more reason not to soak a slice until a source says it is safe.
+- **Scratches.** OK. Agate is hard, about 7, and tough enough for most jewelry.
+- **Chemicals.** Brief only. A geology blog advises handling it with care to avoid harsh chemicals and extreme conditions, without details.
+- **Toxicity.** OK to handle. Agate is rated low risk, and the silica hazard concerns dust from cutting and polishing.
+- **Water.** Unknown. We found no reference source on washing iris agate. A soft dry cloth is the gentle default. Chalcedony is relatively porous, which is why it takes dye so easily, one more reason not to soak a slice until a source says it is safe.
 - **Sun.** Unknown.
 - **Heat.** Unknown.
 - **Salt.** Unknown.
 
 ### Can Iris Agate Go in Salt Water or the Sun?
 
-Not by our data, at least not yet. Some guides suggest washing iris agate in salt water or leaving it in direct sunlight for a few hours to "recharge" it. A French agate guide warns the opposite, that intense light can fade agate ([Ocarat](https://ocarat.com/guide/agate.html)). With no reference source on either, our Care Checker shows Unknown for both, so we would skip salt and long sunbathing. Moonlight and sound, which other guides suggest, need neither. Check your own piece in the [Care Checker](/tools/crystal-care-checker/).
+Not by our data, at least not yet. Some guides suggest washing iris agate in salt water or leaving it in direct sunlight for a few hours to "recharge" it. A French agate guide warns the opposite, that intense light can fade agate. With no reference source on either, our Care Checker shows Unknown for both, so we would skip salt and long sunbathing. Moonlight and sound, which other guides suggest, need neither. Check your own piece in the [Care Checker](/tools/crystal-care-checker/).
 
 ## Iris Agate vs Look-Alikes
 
-- **Fire agate.** Iridescent too, but from plate-like crystals of limonite, an iron hydroxide, that careful cutting brings out (International Gem Society). See [fire agate](/stones/fire-agate/).
-- **Iris quartz, or rainbow quartz.** Iridescent quartz from India, where GIA traced the colors to a diffraction grating on certain crystal faces. Kunz in 1915 put its iris down to internal fractures. A small brilliant piece can cost up to $2,000, GIA says, which is why coated fakes exist. See [rainbow quartz](/stones/rainbow-quartz/).
-- **Labradorite, opal and moonstone.** Different stones, same family of physics, color from regular internal structures (GIA). See [labradorite](/stones/labradorite/).
+- **Fire agate.** Iridescent too, but from plate-like crystals of limonite, an iron hydroxide, that careful cutting brings out. See [fire agate](/stones/fire-agate/).
+- **Iris quartz, or rainbow quartz.** Iridescent quartz from India, with its colors traced to a diffraction grating on certain crystal faces. Kunz in 1915 put its iris down to internal fractures. A small brilliant piece can cost up to $2,000, GIA says, which is why coated fakes exist. See [rainbow quartz](/stones/rainbow-quartz/).
+- **Labradorite, opal and moonstone.** Different stones, same family of physics, color from regular internal structures. See [labradorite](/stones/labradorite/).
 - **Rainbow obsidian.** Volcanic glass with color from thin layers of inclusions, seen in reflected light. See [rainbow obsidian](/stones/rainbow-obsidian/).
 - **Dyed banded agate.** Bright color in every light, and no rainbow when lit from behind.
 
 ## Price Guide
 
-Agate in general is modestly priced. The International Gem Society says the value of agates is generally quite modest, that labor and artistry play a bigger role in pricing than the raw material, that larger agates with distinctive, fine or landscape-like patterns command premium prices, and that custom-cut pieces or stones from prized locations are substantially more expensive ([International Gem Society](https://www.gemsociety.org/article/agate-gem-information/)).
+Agate in general is modestly priced. Labor and artistry play a bigger role in pricing than the raw material, larger agates with distinctive, fine or landscape-like patterns command premium prices, and custom-cut pieces or stones from prized locations are substantially more expensive.
 
-For iris agate, the pattern that matters is the rainbow, and it only shows with light through the slice. So ask to see the rainbow before you pay a premium, ask whether the slice is dyed, since dyeing is common for agate and should be disclosed (International Gem Society), and treat a locality on the tag as the seller's claim.
+For iris agate, the pattern that matters is the rainbow, and it only shows with light through the slice. So ask to see the rainbow before you pay a premium, ask whether the slice is dyed, since dyeing is common for agate and should be disclosed, and treat a locality on the tag as the seller's claim.
 
 We give no price figures here, since we found no current iris agate listing at the US crystal shops and gem dealers we checked in November 2026.
 
@@ -205,4 +205,4 @@ We give no price figures here, since we found no current iris agate listing at t
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

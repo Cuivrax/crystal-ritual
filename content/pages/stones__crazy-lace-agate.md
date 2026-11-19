@@ -64,13 +64,13 @@ Crazy lace agate is a banded agate from Chihuahua, Mexico, known for tight, twis
 
 ## What Crazy Lace Agate Actually Is
 
-**The Stone.** Agate is a variety of chalcedony, a form of quartz made of crystals far too small to see, and it occurs in a huge range of colors and patterns ([International Gem Society](https://www.gemsociety.org/article/agate-gem-information/)). [Geology.com](https://geology.com/gemstones/agate/) calls Mexico's Crazy Lace "one of the best-known agate varieties," with "an infinite variety of bands, orbicular structures, and lacy patterns."
+**The Stone.** Agate is a variety of chalcedony, a form of quartz made of crystals far too small to see, and it occurs in a huge range of colors and patterns. Mexico's Crazy Lace is one of the best-known agate varieties, with an infinite variety of bands, orbicular structures and lacy patterns.
 
-The open gemology textbook [LibreTexts](https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.06%3A_Quartz_-_Polycrystalline/16.6.01%3A_Chalcedony/16.6.1.01%3A_Agate) places it in Chihuahua and describes very fine banding, often in striking, contrasting colors. It also explains the lace. The bands often grow parallel to the faces of crystals that were there before the agate, usually calcite, quartz or zeolites, which gives slabs and cabochons their tangled patterns.
+It comes from Chihuahua and has very fine banding, often in striking, contrasting colors. The lace itself has a simple cause. The bands often grow parallel to the faces of crystals that were there before the agate, usually calcite, quartz or zeolites, which gives slabs and cabochons their tangled patterns.
 
 ### Why Crazy Lace Is an Unusual Agate
 
-Most agates grow in volcanic rock. Geology.com describes agate forming as groundwater leaves silica behind in cavities of igneous rocks. In northern Chihuahua, most agate deposits sit in volcanic andesites, rhyolites and ash flow tuffs, according to a 2019 abstract by Brad L. Cross for the New Mexico Mineral Symposium ([New Mexico Bureau of Geology](https://geoinfo.nmt.edu/museum/nmms/abstracts/view.cfm?aid=556)).
+Most agates grow in volcanic rock. Agate forms as groundwater leaves silica behind in cavities of igneous rocks. In northern Chihuahua, most agate deposits sit in volcanic andesites, rhyolites and ash flow tuffs, as Brad L. Cross described in a 2019 abstract for the New Mexico Mineral Symposium.
 
 Crazy lace breaks the pattern. Cross writes that "unlike all other Mexican agate, Crazy Lace Agate is mined from a highly siliceous, dark gray Cretaceous limestone." He describes it as mostly a vein agate, with "irregular curved and twisted bands in shapes of zig-zags, scallops, bouquets, sunbursts, and eyes."
 
@@ -80,19 +80,19 @@ Crazy lace breaks the pattern. Cross writes that "unlike all other Mexican agate
 
 Mostly white and gray. Cross writes that while individual bands of red, yellow, orange or brown occur, "the vast majority of the material is gray or white," and that "widespread staining is primarily responsible for much of the color." His abstract does not say what the staining is, and it does not mention dye.
 
-For agate in general, the colors come from impurities that line up as bands (Geology.com), traces of iron, manganese, titanium, chromium and nickel oxides (International Gem Society). Agate is also porous and takes dye readily, a point that matters for the brightly colored pieces covered below.
+For agate in general, the colors come from impurities that line up as bands, traces of iron, manganese, titanium, chromium and nickel oxides. Agate is also porous and takes dye readily, a point that matters for the brightly colored pieces covered below.
 
 ### Where Crazy Lace Agate Comes From
 
-Crazy lace comes from the Sierra Santa Lucia in Chihuahua, a range Cross says "hosts numerous agate mining concessions and diggings." Mexico is also one of the premier sources of lace agate in general, which is found in Arizona and Namibia too (International Gem Society). Lace agate is the broader name.
+Crazy lace comes from the Sierra Santa Lucia in Chihuahua, a range that hosts numerous agate mining concessions and diggings. Mexico is also one of the premier sources of lace agate in general, which is found in Arizona and Namibia too. Lace agate is the broader name.
 
 ## Where the Meaning Comes From
 
 **The Story.** "Crazy lace" is a modern trade name, so no ancient text mentions it. What it inherits is the long lore of agate, plus a nickname from modern crystal books.
 
-- **1st century, Rome.** **Tradition.** Pliny the Elder wrote that achates, agate, "was a stone formerly in high esteem, but now held in none," and that it was first found in Sicily near a river of that name. He repeats remedies for spider and scorpion bites, eyes and thirst without vouching for them (*Natural History*, Book 37, chapter 54, Bostock and Riley translation, [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D54)).
+- **1st century, Rome.** **Tradition.** Pliny the Elder wrote that achates, agate, "was a stone formerly in high esteem, but now held in none," and that it was first found in Sicily near a river of that name. He repeats remedies for spider and scorpion bites, eyes and thirst without vouching for them (*Natural History*, Book 37, chapter 54).
 - **11th century.** **Tradition.** Marbodus, Bishop of Rennes, wrote that agates make their wearers "agreeable and persuasive" and give them the favor of God. Camillo Leonardo added victory and strength (George Frederick Kunz, *The Curious Lore of Precious Stones*, 1913, page 51). This is agate in general.
-- **Since the 12th century.** **Tradition.** Agate has been credited with improving one's disposition and eyesight, LibreTexts notes, and one dealer page says the *Book of Saxon Leechdoms* lists it against thunder, sorcery, demonic possession, poison and drunkenness.
+- **Since the 12th century.** **Tradition.** Agate has been credited with improving one's disposition and eyesight, and one dealer page says the *Book of Saxon Leechdoms* lists it against thunder, sorcery, demonic possession, poison and drunkenness.
 - **16th century.** **Tradition.** Agate was believed to cure insomnia and bring pleasant dreams. Girolamo Cardano wore one, had misfortunes he could not explain and gave it up, and Kunz notes that "no real connection of any kind existed between the stones and their supposed effects" (1913, page 52).
 - **Shop story.** One shop guide says the earliest inhabitants of Mexico wore crazy lace as an amulet for endurance and courage in battle. We found no archaeological or museum record behind it, so it stays a seller's story.
 - **Today.** **Modern Association.** Joy and laughter lead. One large crystal encyclopedia calls it the Laughter Stone, or "Happy Lace," and ties it to Mexican fiestas and dancing, crediting crystal books.
@@ -107,7 +107,7 @@ The "why" is easy to see in the stone. Bands that zigzag and loop back read as m
 
 ### What Does Crazy Lace Agate Do?
 
-As a mineral, crazy lace is a hard, polishable agate, cut into cabochons, slabs and tumbled stones (Geology.com, LibreTexts). Everything else is belief about the person holding it.
+As a mineral, crazy lace is a hard, polishable agate, cut into cabochons, slabs and tumbled stones. Everything else is belief about the person holding it.
 
 Some guides list digestion, fever, epilepsy, the heart or pregnancy, mostly for agate in general. Nothing in the mineral sources behind this page supports those claims. One shop says its listed properties are "collected from various sources," and another states that crystal use does not treat or prevent any illness.
 
@@ -142,35 +142,35 @@ Some guides list digestion, fever, epilepsy, the heart or pregnancy, mostly for 
 We use the same five labels on every stone. Crazy lace is easy to find real. The questions are about color and names.
 
 - **Natural, untreated.** Mostly white and gray with some colored bands, as Cross describes. We found no figure for how much crazy lace sold in the US is dyed.
-- **Natural, treated.** Dyeing agate is an ancient practice, still common and usually stable, and it should be disclosed (International Gem Society). Most spectacularly colored agates in the trade have been dyed (Geology.com).
-- **Lab-grown.** We found no reference source on lab-grown agate sold in the US, and in 2001 the Penn State mineralogist Peter Heaney said no one had ever made an agate ([Penn State](https://www.psu.edu/news/research/story/how-do-agates-form)).
+- **Natural, treated.** Dyeing agate is an ancient practice, still common and usually stable, and it should be disclosed. Most spectacularly colored agates in the trade have been dyed.
+- **Lab-grown.** We found no reference source on lab-grown agate sold in the US, and in 2001 the Penn State mineralogist Peter Heaney said no one had ever made an agate.
 - **Imitation.** We found no reference source describing glass or other stones sold as crazy lace agate. The likelier mix-up is another lace agate, covered in the checks below.
 - **Trade names.** Crazy lace, Mexican lace agate, Laughter Stone and Happy Lace all point to the same Mexican agate. "Lace agate" is broader, and blue lace agate is a different stone.
 
 ### Is Pink, Blue or Purple Crazy Lace Agate Dyed?
 
-Often. For agate in general, most of the spectacularly colored pieces in the trade have been dyed (Geology.com). Natural crazy lace runs to white and gray with bands of red, yellow, orange or brown (Cross). Agate is porous and readily accepts dye (Geology.com), and a celebrated dyeing process began in 19th-century Idar-Oberstein, Germany (International Gem Society). One crystal guide advises asking the seller about any unusually vivid, even blue, pink or purple piece. A dyed piece is still agate, sold as natural, treated.
+Often. For agate in general, most of the spectacularly colored pieces in the trade have been dyed. Natural crazy lace runs to white and gray with bands of red, yellow, orange or brown. Agate is porous and readily accepts dye, and a celebrated dyeing process began in 19th-century Idar-Oberstein, Germany. One crystal guide advises asking the seller about any unusually vivid, even blue, pink or purple piece. A dyed piece is still agate, sold as natural, treated.
 
 Three checks you can do at home, with their limits.
 
 1. **Read the bands.** Look for the zigzags, scallops and eyes Cross describes. The limit is that other lace agates can look similar.
-2. **Hold a thin edge to light.** Agate is a translucent variety of microcrystalline quartz (Geology.com), though some agates are opaque (International Gem Society). Light coming through helps rule out opaque stones like jasper. It does not rule out glass.
+2. **Hold a thin edge to light.** Agate is a translucent variety of microcrystalline quartz, though some agates are opaque. Light coming through helps rule out opaque stones like jasper. It does not rule out glass.
 3. **Judge the color honestly.** Neon shades point to dye. No home test proves it, so treat it as a question for the seller.
 
 Three questions to ask the seller. Is the color natural, or was it dyed or stained? Is this Mexican crazy lace or another lace agate? Where was it mined? The [Label Decoder](/tools/crystal-label-decoder/) turns the words on a tag into what they usually mean.
 
 ## How to Care for Crazy Lace Agate
 
-**Mineral Fact.** Agate rates 6.5 to 7 on the Mohs scale (LibreTexts), and the International Gem Society says its durability makes it tough enough for most jewelry. Our care ratings come from sources on agate in general.
+**Mineral Fact.** Agate rates 6.5 to 7 on the Mohs scale, and its durability makes it tough enough for most jewelry. Our care ratings come from sources on agate in general.
 
-- **Water.** OK. A dealer page lists warm soapy water as safe for agate ([Lang Antiques](https://www.langantiques.com/agate)).
+- **Water.** OK. A dealer page lists warm soapy water as safe for agate.
 - **Soaks.** Brief only. The advice covers washing, not a long soak.
-- **Sun.** OK. The same dealer page lists no light sensitivity for agate. Fire Mountain Gems warns that color-enhanced types can fade in prolonged sunlight, so keep a dyed piece off the sunny sill.
+- **Sun.** OK. The same dealer page lists no light sensitivity for agate, but color-enhanced types can fade in prolonged sunlight, so keep a dyed piece off the sunny sill.
 - **Heat.** Unknown. No source covers it yet, so keep it away from heat until one does.
-- **Chemicals.** Avoid. The dealer page calls agate sensitive to chemical attacks.
+- **Chemicals.** Avoid. Agate is sensitive to chemical attacks.
 - **Salt.** Unknown. No source covers it yet.
-- **Cleaning machines.** Skip them. The same page rates ultrasonic and steam cleaning not safe.
-- **Toxicity.** OK to wear and handle. The International Gem Society rates agate's toxicity risk as low, and the hazard it names, silicosis, concerns dust from cutting and polishing ([IGS care guide](https://www.gemsociety.org/article/gemstone-care-guide/)).
+- **Cleaning machines.** Skip them. Ultrasonic and steam cleaning are rated not safe.
+- **Toxicity.** OK to wear and handle. Agate's toxicity risk is rated low, and the hazard, silicosis, concerns dust from cutting and polishing.
 
 ### Can Crazy Lace Agate Go in Water?
 
@@ -180,14 +180,14 @@ Keep it out of anything you drink. Check your piece in the [Care Checker](/tools
 
 ## Crazy Lace Agate vs Look-Alikes
 
-- **Lace agate.** The wider group of agates with swirls and loops, from Mexico, Arizona and Namibia (International Gem Society). Crazy lace fits the group, but not every lace agate is crazy lace. See [lace agate](/stones/lace-agate/).
+- **Lace agate.** The wider group of agates with swirls and loops, from Mexico, Arizona and Namibia. Crazy lace fits the group, but not every lace agate is crazy lace. See [lace agate](/stones/lace-agate/).
 - **Blue lace agate.** A different, pale blue banded agate. See [blue lace agate](/stones/blue-lace-agate/).
 - **Bumblebee stone.** Bright yellow with black, sold as "bumblebee jasper." It is mostly soft calcite with arsenic minerals, not agate, and needs very different care. See [bumblebee jasper](/stones/bumblebee-jasper/).
 - **Agate in general.** For banded agate from other places, and how agate differs from jasper, see [agate](/stones/agate/).
 
 ## Price Guide
 
-The International Gem Society calls agate's value generally quite modest, with labor and artistry counting for more than the stone itself. Larger pieces with fine patterns, custom cuts and stones from prized locations cost more (IGS), and agate is the most popular rough for tumbled stones (Geology.com). Treatment counts too. Dyeing agate is a common practice that should be disclosed (IGS), so ask before paying extra for a bright color.
+Agate's value is generally quite modest, with labor and artistry counting for more than the stone itself. Larger pieces with fine patterns, custom cuts and stones from prized locations cost more, and agate is the most popular rough for tumbled stones. Treatment counts too. Dyeing agate is a common practice that should be disclosed, so ask before paying extra for a bright color.
 
 **Next Step.** Heading into a week that needs a little nerve? See how crazy lace compares with the other usual picks in [crystals for confidence](/crystals-for/confidence/).
 
@@ -208,4 +208,4 @@ The International Gem Society calls agate's value generally quite modest, with l
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

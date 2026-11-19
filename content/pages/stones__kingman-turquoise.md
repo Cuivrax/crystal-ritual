@@ -40,7 +40,7 @@ sources:
 
 # Kingman Turquoise Meaning, Properties & What It Really Is
 
-Kingman turquoise is turquoise mined in the Kingman district of Mohave County, Arizona, where it has long come out of the ground as a by-product of copper mining. GIA calls the Kingman mine a historically important source known for intense blue turquoise. The name is a claim about origin, not a grade, and most turquoise sold today is treated.
+Kingman turquoise is turquoise mined in the Kingman district of Mohave County, Arizona, where it has long come out of the ground as a by-product of copper mining. The Kingman mine is a historically important source known for intense blue turquoise. The name is a claim about origin, not a grade, and most turquoise sold today is treated.
 
 <!-- PHOTO HERO. Wikimedia Commons, "File Turquoise (Ithaca Peak Mine, near Kingman, Arizona, USA) 4.jpg", by James St. John. Page https://commons.wikimedia.org/wiki/File:Turquoise_(Ithaca_Peak_Mine,_near_Kingman,_Arizona,_USA)_4.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Turquoise_%28Ithaca_Peak_Mine%2C_near_Kingman%2C_Arizona%2C_USA%29_4.jpg/1280px-Turquoise_%28Ithaca_Peak_Mine%2C_near_Kingman%2C_Arizona%2C_USA%29_4.jpg (tracking parameters removed). License CC BY 2.0, credit required. Credit line "Photo James St. John, CC BY 2.0, via Wikimedia Commons". Hero pick for kingman-turquoise in image_picks_new_stones.json (visual pass, "rough blue slab, sharp, fills the frame"). Alt text "Rough blue turquoise slab from the Ithaca Peak Mine near Kingman, Arizona". Caption it with the mine name in the file title only. Checked 2026-11-18, Ithaca Peak lies in the Mineral Park district. The USGS Geolex entry names the Ithaca Peak granite for an "imposing crag in Mineral Park district," in the Wallapai mining district, Mohave County (https://ngmdb.usgs.gov/Geolex/Units/IthacaPeak_13266.html), and Dings 1951, USGS Bulletin 978-E, restricts the name to "the granite of the Mineral Park district" (https://pubs.usgs.gov/bul/0978e/report.pdf), so the caption may call it Mineral Park district material. -->
 
@@ -61,47 +61,47 @@ Kingman turquoise is turquoise mined in the Kingman district of Mohave County, A
 | Salt | Unknown |
 | Toxic to handle | Brief only (copper) |
 | Common fakes | Dyed howlite or magnesite, plastic, glass, reconstituted turquoise, other turquoise sold as Kingman |
-| Price | Set mainly by quality, not the mine name (GIA), see the Price Guide |
+| Price | Set mainly by quality, not the mine name, see the Price Guide |
 | Birthstone | December (turquoise), 11th anniversary |
 | Chakra (Modern Association) | Throat |
 
-> **Is It Real? Quick Checks.** Turn the piece over. A flat layer of epoxy on the back means a backed stone, which the International Gem Society calls common. Under a loupe, look for filled pits and surface coatings. None of this shows where it was mined, and only the seller's records can back up the word "Kingman."
+> **Is It Real? Quick Checks.** Turn the piece over. A flat layer of epoxy on the back means a backed stone, which is common. Under a loupe, look for filled pits and surface coatings. None of this shows where it was mined, and only the seller's records can back up the word "Kingman."
 
 ## What Kingman Turquoise Actually Is
 
-**The Stone.** Kingman turquoise is turquoise, the opaque blue to green mineral that Geology.com describes as a hydrous phosphate of copper and aluminum ([Geology.com](https://geology.com/minerals/turquoise.shtml)). [Minerals.net](https://minerals.net/mineral/turquoise.aspx) lists "Kingman turquoise" as a variety name for turquoise from the Mineral Park Mine near Kingman, "known for its good color." Every mineral figure here is a turquoise figure, because Kingman material is the same mineral.
+**The Stone.** Kingman turquoise is turquoise, an opaque blue to green hydrous phosphate of copper and aluminum. "Kingman turquoise" is a variety name for turquoise from the Mineral Park Mine near Kingman, known for its good color. Every mineral figure here is a turquoise figure, because Kingman material is the same mineral.
 
-Turquoise almost never forms visible crystals. It is usually a mass of microcrystals, and when they are packed tightly the stone is less porous, more durable and takes a brighter, waxy polish (Geology.com).
+Turquoise almost never forms visible crystals. It is usually a mass of microcrystals, and when they are packed tightly the stone is less porous, more durable and takes a brighter, waxy polish.
 
 ### How Kingman Turquoise Forms
 
-**Mineral Fact.** Turquoise forms in dry regions where acidic, copper-rich groundwater seeps downward and reacts with minerals that hold phosphorus and aluminum ([GIA](https://www.gia.edu/turquoise/gem-overview)). Where it only partly replaces the host rock, the leftover rock shows as matrix, sometimes in a "spider web" (Geology.com).
+**Mineral Fact.** Turquoise forms in dry regions where acidic, copper-rich groundwater seeps downward and reacts with minerals that hold phosphorus and aluminum. Where it only partly replaces the host rock, the leftover rock shows as matrix, sometimes in a "spider web."
 
-That chemistry is why Kingman turquoise came from a copper district. Most US turquoise is a by-product of copper mining, recovered when a good seam turns up in the pit (Geology.com).
+That chemistry is why Kingman turquoise came from a copper district. Most US turquoise is a by-product of copper mining, recovered when a good seam turns up in the pit.
 
 ### What Color Is Kingman Turquoise?
 
-Bright blue, mostly. Geology.com says much of the turquoise from the Kingman Mine is bright blue with a spider web of black matrix, and GIA calls Kingman "known for producing intense blue turquoise" ([GIA](https://www.gia.edu/birthstones/december-birthstones)).
+Bright blue, mostly. Much of the turquoise from the Kingman Mine is bright blue with a spider web of black matrix, and the mine is known for producing intense blue turquoise.
 
-[Nevada Gem](https://nevadagem.com/pages/mineinfo10.html), a turquoise dealer, says high-grade Kingman stones are medium to dark blue and often flecked with pyrite. It adds that the natural matrix was white and "usually dyed black," worth knowing before you fall for a spiderweb.
+Nevada Gem, a turquoise dealer, says high-grade Kingman stones are medium to dark blue and often flecked with pyrite. It adds that the natural matrix was white and "usually dyed black," worth knowing before you fall for a spiderweb.
 
-Copper gives the blue, says the [International Gem Society](https://www.gemsociety.org/article/turquoise-jewelry-gem-information/), and iron taking the place of aluminum adds green (Geology.com). The IGS also notes that US mines typically produce slightly greenish blue stones.
+Copper gives the blue, and iron taking the place of aluminum adds green. US mines typically produce slightly greenish blue stones.
 
 <!-- PHOTO 2, beside "What Color Is Kingman Turquoise?". Wikimedia Commons, "File Turquoise (Kingman Mining District, Arizona, USA).jpg", by James St. John. Page https://commons.wikimedia.org/wiki/File:Turquoise_(Kingman_Mining_District,_Arizona,_USA).jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Turquoise_%28Kingman_Mining_District%2C_Arizona%2C_USA%29.jpg/1280px-Turquoise_%28Kingman_Mining_District%2C_Arizona%2C_USA%29.jpg (tracking parameters removed). License CC BY 2.0, credit required. Credit line "Photo James St. John, CC BY 2.0, via Wikimedia Commons". Verdict ok in image_picks_new_stones.json ("tumbled blue pieces with black matrix"). Alt text "Tumbled blue turquoise pieces with black matrix from the Kingman Mining District, Arizona". -->
 
 ### Where It Comes From
 
-Most of Kingman's history comes from Nevada Gem's 2004 mine page, so read it as a dealer's account. It places the mines in the Mineral Park district northwest of Kingman, says Native Americans worked them first, and dates modern production to the early 1880s. L.W. Hardy, who held the turquoise lease, became the "Turquoise King," and in the early 1970s his company produced over half of the world's supply.
+Most of Kingman's history comes from the same dealer's 2004 mine page, so read it as a dealer's account. It places the mines in the Mineral Park district northwest of Kingman, says Native Americans worked them first, and dates modern production to the early 1880s. L.W. Hardy, who held the turquoise lease, became the "Turquoise King," and in the early 1970s his company produced over half of the world's supply.
 
-Hardy estimated that in 1973 the mine gave 4,344 pounds of gem grade turquoise and over 78,000 pounds of "chalk," the soft, pale end of the range. *Gems & Gemology* says filling the pores of "chalky" turquoise can greatly improve its look and durability ([Spring 2021](https://www.gia.edu/gems-gemology/spring-21-technical-evolution-identification-resin-filled-turquoise)).
+Hardy estimated that in 1973 the mine gave 4,344 pounds of gem grade turquoise and over 78,000 pounds of "chalk," the soft, pale end of the range. Filling the pores of "chalky" turquoise can greatly improve its look and durability, the subject of a Spring 2021 article on resin-filled turquoise.
 
-Nevada Gem wrote in 2004 that very little high-grade Kingman turquoise was still available. We found no reference source on how much turquoise, if any, Mineral Park yields today, so ask the seller when and where a stone was mined.
+The dealer wrote in 2004 that very little high-grade Kingman turquoise was still available. We found no reference source on how much turquoise, if any, Mineral Park yields today, so ask the seller when and where a stone was mined.
 
 ## Where the Meaning Comes From
 
 **The Story.** Kingman has no lore of its own in the old books. Its meanings are turquoise meanings, and turquoise has one of the longest written histories of any gem.
 
-- **About 4,000 BC, Egypt.** Turquoise buried in Egyptian tombs is among the world's oldest jewelry, and its Egyptian name, "mefkat," also meant "joy" and "delight" ([GIA](https://www.gia.edu/turquoise/gem-overview)).
+- **About 4,000 BC, Egypt.** Turquoise buried in Egyptian tombs is among the world's oldest jewelry, and its Egyptian name, "mefkat," also meant "joy" and "delight."
 - **13th and 14th centuries, Europe.** **Tradition.** Volmar's *Steinbuch* promised that whoever owned "the true turquoise set in gold will not injure any of his limbs when he falls, whether he be riding or walking." Turks were said to tie turquoise to their horses' bridles, and George Frederick Kunz guessed it began as a horse amulet (*The Curious Lore of Precious Stones*, 1913, pages 108 to 109).
 - **The court of Charles V.** **Tradition.** Not everyone believed. Asked about its power, the court jester of Emperor Charles V said that if you fell from a high tower wearing a turquoise, the turquoise would remain unbroken (Kunz, pages 23 to 24).
 - **1609.** **Tradition.** Anselmus de Boot wrote that no man considered his hand well adorned without a fine turquoise (page 111). A widespread belief held that a turquoise kept its power only as a gift, because its spirit "was thought to take offence at the idea of being bought and sold" (page 73).
@@ -111,7 +111,7 @@ Nevada Gem wrote in 2004 that very little high-grade Kingman turquoise was still
 
 ### Why Does Turquoise Change Color?
 
-Old writers believed a turquoise grew pale when its owner fell ill. Kunz gave the "prosaic explanation" in 1913, that the stone is affected by the secretions of the skin (page 24). GIA's [buying guide](https://4cs.gia.edu/wp-content/uploads/2014/12/Tourquoise-Buying-Guide.pdf) puts it in modern terms, since porous turquoise can absorb skin oil, which darkens its color. And a faded turquoise, Kunz wrote, "like an egg, can never be restored to its original state" (page 114).
+Old writers believed a turquoise grew pale when its owner fell ill. Kunz gave the "prosaic explanation" in 1913, that the stone is affected by the secretions of the skin (page 24). In modern terms, porous turquoise can absorb skin oil, which darkens its color. And a faded turquoise, Kunz wrote, "like an egg, can never be restored to its original state" (page 114).
 
 ## What People Use Kingman Turquoise for Today
 
@@ -125,7 +125,7 @@ The protection theme echoes the old amulet against falls, and some guides now st
 
 ### The Last Thing You Put On
 
-**Try This.** GIA advises putting turquoise on after applying products to your skin, and taking it off before household cleaners. Make that the ritual. Your Kingman ring or cuff goes on last, at the door, and comes off first when you get home. It protects the stone and marks the edges of your day.
+**Try This.** Put turquoise on after applying products to your skin, and take it off before household cleaners. Make that the ritual. Your Kingman ring or cuff goes on last, at the door, and comes off first when you get home. It protects the stone and marks the edges of your day.
 
 ### A Gift That Follows the Old Rule
 
@@ -143,58 +143,58 @@ The protection theme echoes the old amulet against falls, and some guides now st
 
 ## Is My Kingman Turquoise Real?
 
-Two questions hide here. Is it turquoise, and is it from Kingman? We use the same five labels on every stone, and treated is not fake. GIA's buying guide says turquoise "is commonly treated" and all treatments should be disclosed.
+Two questions hide here. Is it turquoise, and is it from Kingman? We use the same five labels on every stone, and treated is not fake. Turquoise is commonly treated, and all treatments should be disclosed.
 
-- **Natural, untreated.** Uncommon. The IGS says fine-grained, compact turquoise that takes a good polish remains rare, and even top stones often get a paraffin wax coat.
-- **Natural, treated.** *[Gems & Gemology](https://www.gia.edu/gems-gemology/fall-2015-gemnews-impregnated-dyed-turquoise)* (Fall 2015) describes impregnation with "acrylic polymer or epoxy resin for stabilization" as common, often combined with dyeing. GIA also describes dyed turquoise. The IGS lists dyed webbing, epoxy backing and the proprietary Zachery treatment.
-- **Reconstituted.** Ground turquoise mixed with plastic. The IGS notes a debate over whether it counts as a synthetic, a hybrid or a simulant. *Gems & Gemology* has also described small turquoise pieces bonded with a polymer, in one case a gold-colored polymer holding fragments that resemble pyrite or marcasite ([Choudhary, Summer 2010](https://gia.edu/doc/A-New-Type-of-Composite-Turquoise.pdf)).
-- **Lab-grown.** Synthetic turquoise exists. The best-known kind came from the Pierre Gilson Company in 1972 and shows tiny blue spheres under a microscope (IGS).
-- **Imitation.** Blue-dyed howlite is the most common fake (Minerals.net), and GIA lists plastic and glass. The IGS adds dyed magnesite, and "white turquoise" is usually howlite. See [howlite vs turquoise](/compare/howlite-vs-turquoise/).
-- **Trade name.** "Kingman" is a locality name. "Persian blue" names a color whether or not the stone came from Iran ([GIA](https://www.gia.edu/turquoise-quality-factor)).
+- **Natural, untreated.** Uncommon. Fine-grained, compact turquoise that takes a good polish remains rare, and even top stones often get a paraffin wax coat.
+- **Natural, treated.** A Fall 2015 lab report describes impregnation with acrylic polymer or epoxy resin for stabilization as common, often combined with dyeing. Dyed turquoise is another treatment. Others include dyed webbing, epoxy backing and the proprietary Zachery treatment.
+- **Reconstituted.** Ground turquoise mixed with plastic. There is debate over whether it counts as a synthetic, a hybrid or a simulant. Small turquoise pieces bonded with a polymer are known too. In one case, reported in Summer 2010, a gold-colored polymer held fragments that resemble pyrite or marcasite.
+- **Lab-grown.** Synthetic turquoise exists. The best-known kind came from the Pierre Gilson Company in 1972 and shows tiny blue spheres under a microscope.
+- **Imitation.** Blue-dyed howlite is the most common fake. Plastic, glass and dyed magnesite also stand in, and "white turquoise" is usually howlite. See [howlite vs turquoise](/compare/howlite-vs-turquoise/).
+- **Trade name.** "Kingman" is a locality name. "Persian blue" names a color whether or not the stone came from Iran.
 
 ### Is It Really From Kingman?
 
-No home test can tell you. Geology.com says people who know turquoise can often, but not always, match a stone to its mine, and that a place name "should only be done when the material was mined in that locality."
+No home test can tell you. People who know turquoise can often, but not always, match a stone to its mine, and a place name should only be used when the material was mined in that locality.
 
-The look is not proof either. Spiderweb matrix turns up at many mines, Morenci produces dark blue turquoise with pyrite (Geology.com), and a bonded composite can carry gold-colored veins that mimic pyrite. Ask the seller which mine and how they know, whether it was stabilized, dyed or backed, and whether they will write that on the receipt. If there is no answer, the honest name is turquoise. The [Label Decoder](/tools/crystal-label-decoder/) turns a tag into these questions.
+The look is not proof either. Spiderweb matrix turns up at many mines, Morenci produces dark blue turquoise with pyrite, and a bonded composite can carry gold-colored veins that mimic pyrite. Ask the seller which mine and how they know, whether it was stabilized, dyed or backed, and whether they will write that on the receipt. If there is no answer, the honest name is turquoise. The [Label Decoder](/tools/crystal-label-decoder/) turns a tag into these questions.
 
 Three checks at home, with their limits.
 
-1. **Look at the back.** An epoxy backing is visible by sight (IGS). It says nothing about the front.
-2. **Use a loupe.** Magnification can show epoxy and surface coatings (IGS), but it misses some treatments, which labs confirm with infrared spectroscopy (*Gems & Gemology*).
-3. **Acetone on a hidden spot.** Shoe polish dye in the matrix lifts off (IGS). The IGS calls dye testing destructive and a last resort, and it catches only that dye.
+1. **Look at the back.** An epoxy backing is visible by sight. It says nothing about the front.
+2. **Use a loupe.** Magnification can show epoxy and surface coatings, but it misses some treatments, which labs confirm with infrared spectroscopy.
+3. **Acetone on a hidden spot.** Shoe polish dye in the matrix lifts off. Dye testing is destructive and a last resort, and it catches only that dye.
 
 ## How to Care for Kingman Turquoise
 
-**Mineral Fact.** Turquoise is often porous, so it soaks up perspiration, body oil and cleaning products, which can damage it or change its color (Geology.com). It averages 18 to 20 percent water and breaks down at about 750 °F (400 °C), so the IGS suggests occasional wear and protective settings for rings.
+**Mineral Fact.** Turquoise is often porous, so it soaks up perspiration, body oil and cleaning products, which can damage it or change its color. It averages 18 to 20 percent water and breaks down at about 750 °F (400 °C), so wear it occasionally and choose protective settings for rings.
 
-- **Water.** Brief only. The IGS [care guide](https://www.gemsociety.org/article/gemstone-care-guide/) says wipe with a damp cloth and dry at once, without soap. Geology.com allows a very mild soap solution, then plain water. Either way, keep it quick, and skip long soaks.
-- **Sun.** Brief only. GIA calls turquoise generally stable to light, but Geology.com advises storing it away from bright light or heat, and a sunny sill gets hot.
-- **Heat.** Avoid. GIA says high heat can cause discoloration and breakage.
-- **Chemicals.** Avoid. Cleaners soak in and can turn it green (IGS), and GIA adds acids and cosmetics.
+- **Water.** Brief only. The IGS says wipe with a damp cloth and dry at once, without soap, while Geology.com allows a very mild soap solution, then plain water. Either way, keep it quick, and skip long soaks.
+- **Sun.** Brief only. Turquoise is generally stable to light, but store it away from bright light or heat, and a sunny sill gets hot.
+- **Heat.** Avoid. High heat can cause discoloration and breakage.
+- **Chemicals.** Avoid. Cleaners soak in and can turn it green. Keep acids and cosmetics off it too.
 - **Salt.** Unknown. Our care data has no rating yet, so skip salt.
-- **Cleaning machines.** Never ultrasonic or steam (GIA).
-- **Storage.** Brief only. It scratches easily, so keep it apart from other jewelry (Geology.com).
-- **Toxicity.** Brief only. The International Gem Society's [toxicity table](https://www.gemsociety.org/article/gemstone-toxicity-table/) rates turquoise a low risk, with copper as the hazard. Wash your hands after handling rough, and keep it out of drinks and mouths.
+- **Cleaning machines.** Never ultrasonic or steam.
+- **Storage.** Brief only. It scratches easily, so keep it apart from other jewelry.
+- **Toxicity.** Brief only. Turquoise is rated a low risk, with copper as the hazard. Wash your hands after handling rough, and keep it out of drinks and mouths.
 
 ### Can Kingman Turquoise Get Wet?
 
-A quick wipe, yes. A shower, a swim or the dishes, no. Soap, detergents and cleaning solutions soak into turquoise and can turn it green (IGS), so take it off first. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+A quick wipe, yes. A shower, a swim or the dishes, no. Soap, detergents and cleaning solutions soak into turquoise and can turn it green, so take it off first. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
 
 **Where the beliefs and the care data disagree.** Some crystal guides cleanse turquoise in sunlight for hours or in salt water. Our care data rates sun and water Brief only and salt Unknown, so skip both. Moonlight keeps it dry, if you bring it in before the morning sun. Skip turquoise elixirs too, since it is porous, often filled with resin and contains copper.
 
 ## Kingman Turquoise vs Look-Alikes
 
-- **[Sleeping Beauty turquoise](/stones/sleeping-beauty-turquoise/).** Also from Arizona, but known for light blue without matrix (Geology.com). GIA says that mine is now closed to turquoise mining.
-- **Dyed howlite and magnesite.** Pale minerals that take blue dye easily, sometimes sold without disclosure (IGS).
-- **Variscite.** Can resemble green turquoise and is usually greener (IGS, Minerals.net).
-- **Chrysocolla.** Softer, with a glassier luster (Minerals.net).
+- **[Sleeping Beauty turquoise](/stones/sleeping-beauty-turquoise/).** Also from Arizona, but known for light blue without matrix. That mine is now closed to turquoise mining.
+- **Dyed howlite and magnesite.** Pale minerals that take blue dye easily, sometimes sold without disclosure.
+- **Variscite.** Can resemble green turquoise and is usually greener.
+- **Chrysocolla.** Softer, with a glassier luster.
 
 Kingman is one of many sources of [turquoise](/stones/turquoise/), the traditional [December birthstone](/birthstones/december/).
 
 ## Price Guide
 
-GIA rates an even medium blue with no matrix and a good polish as the most valuable turquoise. The IGS adds that spiderweb turquoise "enjoys premium pricing," and a stone that polishes well without stabilization is worth more.
+An even medium blue with no matrix and a good polish is the most valuable turquoise, though spiderweb turquoise enjoys premium pricing too, and a stone that polishes well without stabilization is worth more.
 
 Does the Kingman name add value? A little, at most. GIA's buying guide says fine turquoise from historical sources like Arizona "can command a small premium," but "pricing is primarily based on quality, not geographic origin." Pay for the stone in front of you, not the name on the tag.
 
@@ -212,4 +212,4 @@ Does the Kingman name add value? A little, at most. GIA's buying guide says fine
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

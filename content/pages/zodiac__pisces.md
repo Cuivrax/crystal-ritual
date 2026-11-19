@@ -76,9 +76,9 @@ Kunz's calendar of the months makes the same match from the other side. February
 
 ### A Quick Note on the Dates
 
-Kunz's verse table ends Pisces on March 21, while his chapter on birthstones ends it on March 20 (pages 321 to 322). Modern crystal guides usually say February 19 to March 20, as [Crystal Vaults](https://www.crystalvaults.com/crystal-encyclopedia/tiffany-stone/) does, so check the dates your horoscope uses.
+Kunz's verse table ends Pisces on March 21, while his chapter on birthstones ends it on March 20 (pages 321 to 322). Modern crystal guides usually say February 19 to March 20, so check the dates your horoscope uses.
 
-The sign is also not the constellation. Because of a slow shift called precession, astrology's signs no longer line up with the star patterns that share their names ([We The Curious planetarium](https://wethecurious.org/planetariumblog/star-signs-and-precession)). Tropical astrologers start Aries at the March equinox, which makes Pisces the last sign of the cycle.
+The sign is also not the constellation. Because of a slow shift called precession, astrology's signs no longer line up with the star patterns that share their names. Tropical astrologers start Aries at the March equinox, which makes Pisces the last sign of the cycle.
 
 ## Where the Pisces Links Come From
 
@@ -87,13 +87,13 @@ The sign is also not the constellation. Because of a slow shift called precessio
 - **The breastplate.** **Tradition.** In the 1st century, the historian Josephus wrote that the twelve stones of the Jewish high priest's breastplate could stand for the months or for the twelve signs (Kunz 1913, pages 309 to 310). That idea is the root of both birthstones and zodiac stones.
 - **The tribes.** **Tradition.** Medieval Jewish tradition paired each tribe of Israel with a sign, and the tribe of Asher with Pisces (page 314).
 - **Jupiter.** **Tradition.** An old print Kunz reproduced pairs Jupiter with Sagittarius and Pisces, and the carnelian, for Thursday (page 332). In the old planetary lists, Jupiter controlled the emerald, sapphire, amethyst and turquoise (page 348), which gives amethyst a second old link to the sign.
-- **Neptune.** **Modern Association.** The old lists counted seven planets, including the Sun and Moon (page 348). Modern guides give Pisces to Neptune, "associated with spirituality and psychic abilities" in the words of one crystal guide ([Crystals.com](https://www.crystals.com/blogs/news/phosphosiderite-crystal-meaning-uses-and-benefits)). Another calls aquamarine "a sacred stone to Neptune," which neatly ties March's sea-colored birthstone to the sign's modern planet.
+- **Neptune.** **Modern Association.** The old lists counted seven planets, including the Sun and Moon (page 348). Modern guides give Pisces to Neptune, "associated with spirituality and psychic abilities" in the words of one crystal guide. Another calls aquamarine "a sacred stone to Neptune," which neatly ties March's sea-colored birthstone to the sign's modern planet.
 
 ### How Modern Guides Describe Pisces
 
 **Modern Association.** Crystal guides describe Pisces as a sensitive, intuitive and dreamy water sign. One German guide calls it "the most sensitive sign of the zodiac," and a French one calls it deeply sensitive and spiritual. Guides then pick stones for two opposite jobs.
 
-Some stones are said to feed that sensitivity, like moonstone, which one guide links to Pisces "for its connection to dreams and emotional sensitivity" ([Crystals.com](https://www.crystals.com/blogs/news/moonstone-meaning-healing-properties)). Others are said to steady it. The German guide gives Pisces fluorite "against distraction, for structure" and bloodstone for "boundaries, protection from being overwhelmed by others' moods," and one jeweler calls the sign "dreamy and sometimes ungrounded." A stone can be "for" Pisces because it matches the sign or because it balances it, which is why lists disagree.
+Some stones are said to feed that sensitivity, like moonstone, which one guide links to Pisces "for its connection to dreams and emotional sensitivity." Others are said to steady it. The German guide gives Pisces fluorite "against distraction, for structure" and bloodstone for "boundaries, protection from being overwhelmed by others' moods," and one jeweler calls the sign "dreamy and sometimes ungrounded." A stone can be "for" Pisces because it matches the sign or because it balances it, which is why lists disagree.
 
 ## Crystals for Pisces, from Most to Least Linked
 
@@ -111,7 +111,7 @@ We grade each link with the same words we use across the site, from Classic down
 | [Amethyst](/stones/amethyst/) | Rarely Linked | February birthstone and Kunz's 1913 zodiac stone | Quartz, 7. Some amethyst fades in prolonged intense light |
 | Angelite, labradorite, turquoise | Rarely Linked | A few guides each | Angelite is soft. Keep it dry |
 
-Sources for the notes. GIA for [aquamarine](https://www.gia.edu/aquamarine/gem-overview), [moonstone](https://www.gia.edu/moonstone/gem-overview), [morganite](https://www.gia.edu/morganite/gem-overview) and [amethyst](https://www.gia.edu/amethyst-care-cleaning). Geology.com for [aquamarine](https://geology.com/gemstones/aquamarine/), [fluorite](https://geology.com/minerals/fluorite.shtml), [bloodstone](https://geology.com/gemstones/bloodstone/) and [moonstone](https://geology.com/gemstones/moonstone/). The International Gem Society for [fluorite](https://www.gemsociety.org/article/fluorite-jewelry-gemstone-information/), [bloodstone](https://www.gemsociety.org/article/bloodstone-value-price-jewelry-information/) and [celestite](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/). Care notes from the same data as our Care Checker.
+Care notes come from the same data as our Care Checker.
 
 Amethyst's low place is the surprise. The old rhyme and the month calendar both give it to Pisces, yet modern guides rarely do.
 
@@ -119,7 +119,7 @@ Amethyst's low place is the surprise. The old rhyme and the month calendar both 
 
 Start with the birthday. A late February Pisces gets amethyst, also the sign's old zodiac stone, and a March Pisces gets aquamarine or bloodstone. For one stone for the whole sign, amethyst has the history and aquamarine has today's guides.
 
-Then think about wear. Aquamarine is the hardest of the group at 7.5 to 8 ([GIA](https://www.gia.edu/aquamarine/gem-overview)), and bloodstone is "suitable for any type of wear" ([International Gem Society](https://www.gemsociety.org/article/bloodstone-value-price-jewelry-information/)). Fluorite and celestite are soft and happier on a shelf than in a ring.
+Then think about wear. Aquamarine is the hardest of the group at 7.5 to 8, and bloodstone holds up to any type of wear. Fluorite and celestite are soft and happier on a shelf than in a ring.
 
 Before any cleansing ritual, look the stone up in the [Care Checker](/tools/crystal-care-checker/). Fluorite should never be submerged, celestite stays out of the sun, and blue opal does not like long soaks.
 
@@ -131,7 +131,7 @@ Before any cleansing ritual, look the stone up in the [Care Checker](/tools/crys
 
 **Try This.** Guides give fluorite to Pisces for structure. Before work, write the one task that matters today on an index card and set the fluorite on it. Add a plan, "If I catch myself drifting, I will look at the card and finish one more step."
 
-**What Research Says.** That if-then wording has research behind it. A 2006 meta-analysis found that people who write an if-then plan are more likely to act on a goal than people who only intend to ([Gollwitzer and Sheeran](https://doi.org/10.1016/S0065-2601%2806%2938002-1)). It pooled published studies of everyday goals, none involving stones, so the card does the work and the fluorite only marks it.
+**What Research Says.** That if-then wording has research behind it. A 2006 meta-analysis by [Gollwitzer and Sheeran](https://doi.org/10.1016/S0065-2601%2806%2938002-1) found that people who write an if-then plan are more likely to act on a goal than people who only intend to. It pooled published studies of everyday goals, none involving stones, so the card does the work and the fluorite only marks it.
 
 ### A Boundary Stone for Busy Days
 
@@ -158,4 +158,4 @@ Before any cleansing ritual, look the stone up in the [Care Checker](/tools/crys
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

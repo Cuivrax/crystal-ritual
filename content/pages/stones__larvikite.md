@@ -63,45 +63,45 @@ Larvikite is a gray to bluish igneous rock from the Larvik area of southern Norw
 
 ## What Larvikite Actually Is
 
-**The Stone.** "Larvikite" names a group of monzonitic plutonic rocks that crystallized deep beneath a continental rift, the Oslo Rift in southern Norway, according to the [International Union of Geological Sciences](https://iugs-geoheritage.org/geoheritage_sites/the-larvikite-plutonic-rocks-of-the-oslo-rift/) (IUGS). Plutonic means it crystallized underground, and the IUGS calls the Oslo Rift one of the few places where that kind of deep rift magmatism can be studied. It dates to the Permian period.
+**The Stone.** "Larvikite" names a group of monzonitic plutonic rocks that crystallized deep beneath a continental rift, the Oslo Rift in southern Norway. Plutonic means it crystallized underground, and the Oslo Rift is one of the few places where that kind of deep rift magmatism can be studied. It dates to the Permian period.
 
-In hand it is coarse-grained, gray to bluish, and made mainly of tabular to prismatic feldspar crystals, some of which show blue iridescence ([IUGS heritage stone record](https://iugs-geoheritage.org/?p=9599)). The outcrops there are sculpted and polished by repeated glacial episodes (IUGS).
+In hand it is coarse-grained, gray to bluish, and made mainly of tabular to prismatic feldspar crystals, some of which show blue iridescence. The outcrops there are sculpted and polished by repeated glacial episodes.
 
 ### What Feldspar Is in Larvikite?
 
-**Mineral Fact.** Larvikite is primarily composed of ternary feldspar, meaning a feldspar that mixes all three end-member compositions, and that feldspar holds microscopic intergrowths called cryptoperthite (IUGS). Light waves interfering with those intergrowth lamellae create the bright blue iridescence. Norwegian geologists writing in [GEO365](https://geo365.no/national-treasure/) put it the same way, optical interference in microscopic lamellae within the feldspars.
+**Mineral Fact.** Larvikite is primarily composed of ternary feldspar, meaning a feldspar that mixes all three end-member compositions, and that feldspar holds microscopic intergrowths called cryptoperthite. Light waves interfering with those intergrowth lamellae within the feldspar create the bright blue iridescence.
 
-That is the key difference from [labradorite](/stones/labradorite/). Labradorite is a single mineral, a plagioclase feldspar, and its flash comes from light reflecting off twinning surfaces inside the stone, in blue, green, yellow, orange and red ([Geology.com](https://geology.com/gemstones/labradorite/)). Larvikite is a rock, and the feldspar doing the flashing is a different kind. Dealers often call its sheen labradorescence anyway, after labradorite ([Gemstones.com](https://www.gemstones.com/gemopedia/larvikite)).
+That is the key difference from [labradorite](/stones/labradorite/). Labradorite is a single mineral, a plagioclase feldspar, and its flash comes from light reflecting off twinning surfaces inside the stone, in blue, green, yellow, orange and red. Larvikite is a rock, and the feldspar doing the flashing is a different kind. Dealers often call its sheen labradorescence anyway, after labradorite.
 
 ### Is Larvikite Granite?
 
-No. The IUGS describes larvikite as a group of monzonitic rocks, a different family from granite, yet it is sold as "Blue Pearl Granite." The stone trade stretches the word, the same way it sells labradorite-rich anorthosite as "blue granite" (Geology.com). The name is a trade label, not a rock type.
+No. Larvikite is a group of monzonitic rocks, a different family from granite, yet it is sold as "Blue Pearl Granite." The stone trade stretches the word, the same way it sells labradorite-rich anorthosite as "blue granite." The name is a trade label, not a rock type.
 
 ### Where Larvikite Comes From
 
-The rock is quarried in the municipality of Larvik, in Vestfold County, Norway (IUGS). Quarrying began in 1884, when Ferdinand Narvesen opened a quarry near the town of Stavern, and by 2015 about 30 quarries were shipping rough blocks with an export value of some 500 million Norwegian kroner (GEO365). Light larvikite is sold as "Blue Pearl" and dark larvikite as "Emerald Pearl," among other commercial names (IUGS record).
+The rock is quarried in the municipality of Larvik, in Vestfold County, Norway. Quarrying began in 1884, when Ferdinand Narvesen opened a quarry near the town of Stavern, and by 2015 about 30 quarries were shipping rough blocks with an export value of some 500 million Norwegian kroner. Light larvikite is sold as "Blue Pearl" and dark larvikite as "Emerald Pearl," among other commercial names.
 
-Your tumbled stone has famous relatives. Larvikite gravestones were already exported to Germany and the British Isles in the last quarter of the 19th century, and the rock went on to appear around bank entrances, at Harrods in London and the Galeries Lafayette in Paris, and on some of London's best-known Art Deco buildings (IUGS record). GEO365 counts hundreds of prestigious buildings and thousands of kitchen tops worldwide.
+Your tumbled stone has famous relatives. Larvikite gravestones were already exported to Germany and the British Isles in the last quarter of the 19th century, and the rock went on to appear around bank entrances, at Harrods in London and the Galeries Lafayette in Paris, and on some of London's best-known Art Deco buildings. The count now runs to hundreds of prestigious buildings and thousands of kitchen tops worldwide.
 
 <!-- PHOTO TO FIND, PHOTO 2, the rock at scale, a quarry face or a polished building panel. Unchecked Commons lead, "File Larvikite quarry Larvik.jpg" by Mahlum, public domain, page https://commons.wikimedia.org/wiki/File:Larvikite_quarry_Larvik.jpg . Log visual_check before use. -->
 
-> **Trade Name.** "Blue Pearl Granite" and "Emerald Pearl" are trade names for light and dark larvikite (IUGS), and GEO365 adds "Royal Blue" and "Marina Pearl." The bead seller [Dakota Stones](https://dakotastones.com/pages/larvikite-stone-glossary) also sells it as "Norwegian Moonstone," and one crystal guide notes "black moonstone" on beads and bracelets ([CrystalGemstones.net](https://crystalgemstones.net/larvikite-meaning-and-spiritual-properties.html)). None of these is granite, and none is moonstone. On our five-label ladder, larvikite is a natural rock with several misleading names.
+> **Trade Name.** "Blue Pearl Granite" and "Emerald Pearl" are trade names for light and dark larvikite, and "Royal Blue" and "Marina Pearl" are two more. One bead seller also sells it as "Norwegian Moonstone," and one crystal guide notes "black moonstone" on beads and bracelets. None of these is granite, and none is moonstone. On our five-label ladder, larvikite is a natural rock with several misleading names.
 
 ## Where the Meaning Comes From
 
 **The Story.** Larvikite has no known ancient or medieval lore. Neither of Kunz's books on gem lore (1913 and 1915) mentions it, and modern crystal sellers agree it is a newcomer. Its real history is industrial, and that is a good story too.
 
-- **Permian period.** The rock crystallizes deep beneath the Oslo Rift (IUGS).
-- **1884.** Ferdinand Narvesen starts quarrying near Stavern (GEO365).
-- **Late 1800s.** Larvikite gravestones are exported to Germany and the British Isles (IUGS record).
-- **Fashion and wealth.** In Norway and abroad, the IUGS record says, larvikite "became a symbol of fashion and wealth," on bank entrances, at Harrods and Galeries Lafayette, and on Art Deco buildings.
-- **National rock.** In an open online vote, larvikite won out among more than 50 nominated rocks to become Norway's national rock ([GEO365](https://geo365.no/?p=2840)).
-- **2017.** The IUGS designates larvikite a heritage stone, one of the first rocks to receive that status (IUGS).
-- **Today.** **Modern Association.** The crystal seller [Moonrise Crystals](https://moonrisecrystals.com/larvikite-meaning/) calls it "a relatively new crystal that has only come to the attention of the metaphysical community in the 21st century," and CrystalGemstones.net notes that it "does not come with a long written record of folklore."
+- **Permian period.** The rock crystallizes deep beneath the Oslo Rift.
+- **1884.** Ferdinand Narvesen starts quarrying near Stavern.
+- **Late 1800s.** Larvikite gravestones are exported to Germany and the British Isles.
+- **Fashion and wealth.** In Norway and abroad, larvikite "became a symbol of fashion and wealth," as the heritage record of the International Union of Geological Sciences (IUGS) puts it, on bank entrances, at Harrods and Galeries Lafayette, and on Art Deco buildings.
+- **National rock.** In an open online vote, larvikite won out among more than 50 nominated rocks to become Norway's national rock.
+- **2017.** The IUGS designates larvikite a heritage stone, one of the first rocks to receive that status.
+- **Today.** **Modern Association.** One crystal seller calls it "a relatively new crystal that has only come to the attention of the metaphysical community in the 21st century," and another guide notes that it "does not come with a long written record of folklore."
 
 ### Why Its Meaning Is So Young
 
-A building stone became a crystal-shop stone only recently, so its meanings were assembled from what people see. The dark color reads as grounding and protection, the way other dark stones are used. The hidden flash that appears only at the right angle is read as insight surfacing from the dark (CrystalGemstones.net). And a rock that formed under a rift and was polished by glaciers lends itself, as the same guide puts it, to patience, endurance and "coming through change intact."
+A building stone became a crystal-shop stone only recently, so its meanings were assembled from what people see. The dark color reads as grounding and protection, the way other dark stones are used. The hidden flash that appears only at the right angle is read as insight surfacing from the dark. And a rock that formed under a rift and was polished by glaciers lends itself, as one guide puts it, to patience, endurance and "coming through change intact."
 
 ## What People Use Larvikite for Today
 
@@ -109,9 +109,9 @@ A building stone became a crystal-shop stone only recently, so its meanings were
 
 **Modern Association.** Larvikite is commonly associated today with grounding, protection, patience and clear thinking during change. In modern crystal guides, it is Sometimes Linked to [grounding](/crystals-for/grounding/), to [protection](/crystals-for/protection/), and to focus, anxiety, sleep and confidence. No single intention has claimed it yet, which fits a stone this new.
 
-The root chakra comes up most, with the third eye next and the crown now and then. One seller lists Aquarius and the elements earth and air (Moonrise Crystals), and Dakota Stones links it to "grounding, protection, and enhancing inner vision." Moonrise calls it "a wise and protective stone" and says it reminds us "to focus on what is in our control." A German guide credits it with calming the mind and lending a factual, pragmatic attitude ([Edelsteine.net](https://www.edelsteine.net/larvikit/)).
+The root chakra comes up most, with the third eye next and the crown now and then. One seller lists Aquarius and the elements earth and air, and a bead seller links it to "grounding, protection, and enhancing inner vision." The first calls it "a wise and protective stone" and says it reminds us "to focus on what is in our control." A German guide credits it with calming the mind and lending a factual, pragmatic attitude.
 
-Guides also give it everyday places, by the front door as a symbolic marker, on a desk, on a bedside table, or as a larger sphere that catches the light in a living room. Bead bracelets are popular because the shimmer moves with your wrist (CrystalGemstones.net).
+Guides also give it everyday places, by the front door as a symbolic marker, on a desk, on a bedside table, or as a larger sphere that catches the light in a living room. Bead bracelets are popular because the shimmer moves with your wrist.
 
 Some sites list brain problems, recovery after a stroke, learning differences or high blood pressure. A stone is not a treatment for any of these.
 
@@ -145,7 +145,7 @@ Some sites list brain problems, recovery after a stroke, learning differences or
 
 We use the same five labels on every stone. Larvikite is mostly a question of names.
 
-- **Natural, untreated.** The usual case. Dakota Stones lists its larvikite treatment as natural.
+- **Natural, untreated.** The usual case. One bead seller lists its larvikite treatment as natural.
 - **Natural, treated.** We found no reference source on dyed or coated larvikite sold in the US.
 - **Lab-grown.** We found no reference source on lab-grown larvikite.
 - **Imitation.** We found no reference source that documents glass or another material sold as larvikite. The usual mix-ups are names and labradorite, covered below.
@@ -153,25 +153,25 @@ We use the same five labels on every stone. Larvikite is mostly a question of na
 
 ### Is Larvikite the Same as Labradorite?
 
-No. Labradorite is one feldspar mineral, while larvikite is a rock made of many feldspar crystals of a different kind (Geology.com, IUGS). Three checks you can do at home, with their limits.
+No. Labradorite is one feldspar mineral, while larvikite is a rock made of many feldspar crystals of a different kind. Three checks you can do at home, with their limits.
 
-1. **Look for grains.** Larvikite is coarse-grained, with separate tablet-shaped crystals, and only some of them flash (IUGS). A mosaic of crystals points to a rock like larvikite. A small tumbled bead can hide the grain.
-2. **Note the flash color.** Larvikite shows a silver-blue flash, according to the dealer Dakota Stones, while labradorite can add green, yellow, orange and red (Geology.com). Labradorite's flash varies from stone to stone, so this is a hint.
+1. **Look for grains.** Larvikite is coarse-grained, with separate tablet-shaped crystals, and only some of them flash. A mosaic of crystals points to a rock like larvikite. A small tumbled bead can hide the grain.
+2. **Note the flash color.** Larvikite shows a silver-blue flash, while labradorite can add green, yellow, orange and red. Labradorite's flash varies from stone to stone, so this is a hint.
 3. **Read the tag.** "Blue Pearl," "Emerald Pearl" or "Norwegian Moonstone" usually means larvikite.
 
 Three questions to ask the seller. Is this larvikite or labradorite? Where was it quarried? Is it dyed or coated? The [Label Decoder](/tools/crystal-label-decoder/) turns tags like "Norwegian Moonstone" into what they usually mean, and our [larvikite vs labradorite](/compare/larvikite-vs-labradorite/) page goes deeper.
 
 ## How to Care for Larvikite
 
-**Mineral Fact.** Dealers give a hardness of about 6 to 7 (Gemstones.com) or 6 to 6.5 (Dakota Stones). Either way it is no harder than quartz, so store it on its own.
+**Mineral Fact.** Dealers give a hardness of about 6 to 7 or 6 to 6.5. Either way it is no harder than quartz, so store it on its own.
 
-- **Water.** OK for washing. Clean it with mild soap and water (Dakota Stones). Keep soaks brief.
+- **Water.** OK for washing. Clean it with mild soap and water. Keep soaks brief.
 - **Sun.** Unknown. Keep it off sunny windowsills until there is a rating.
 - **Heat.** Unknown.
-- **Chemicals.** Avoid harsh chemicals and ultrasonic cleaners (Dakota Stones).
+- **Chemicals.** Avoid harsh chemicals and ultrasonic cleaners.
 - **Salt.** Unknown. Skip salt baths.
 - **Toxicity.** Unknown. Keep it out of mouths and away from small children, as with any stone.
-- **Storage.** Store it separately to prevent scratches and preserve its sheen (Dakota Stones).
+- **Storage.** Store it separately to prevent scratches and preserve its sheen.
 
 ### Can Larvikite Go in Water?
 
@@ -179,14 +179,14 @@ A wash, yes, and a quick lukewarm rinse dried right away is the method one cryst
 
 ## Larvikite vs Look-Alikes
 
-- **Labradorite.** One plagioclase mineral with multicolored flash (Geology.com). See [labradorite](/stones/labradorite/).
-- **Moonstone and black moonstone.** Moonstone is the popular name for gem-quality feldspar with adularescence, a soft glow that seems to float below the surface ([Geology.com](https://geology.com/gemstones/moonstone/)). Larvikite's sharp flashes in a coarse rock are not that. See [moonstone](/stones/moonstone/) and [black moonstone](/stones/black-moonstone/).
-- **Anorthosite.** Another rock sold as "blue granite," rich in labradorite (Geology.com). See [anorthosite](/stones/anorthosite/).
-- **Spectrolite.** The trade name for labradorite with the best spectral color (Geology.com). See [spectrolite](/stones/spectrolite/).
+- **Labradorite.** One plagioclase mineral with multicolored flash. See [labradorite](/stones/labradorite/).
+- **Moonstone and black moonstone.** Moonstone is the popular name for gem-quality feldspar with adularescence, a soft glow that seems to float below the surface. Larvikite's sharp flashes in a coarse rock are not that. See [moonstone](/stones/moonstone/) and [black moonstone](/stones/black-moonstone/).
+- **Anorthosite.** Another rock sold as "blue granite," rich in labradorite. See [anorthosite](/stones/anorthosite/).
+- **Spectrolite.** The trade name for labradorite with the best spectral color. See [spectrolite](/stones/spectrolite/).
 
 ## Price Guide
 
-Larvikite is quarried on an industrial scale for building stone, from about 30 quarries around Larvik (GEO365), and crystal sellers give Norway as its usual origin (Dakota Stones). In the building-stone trade, larvikite with a strong blue play of color is the more attractive and valued kind, and flaws or uneven color reduce the price of a block significantly (GEO365). Beads are not blocks, but the flash is the easy thing to compare when you choose a piece.
+Larvikite is quarried on an industrial scale for building stone, from about 30 quarries around Larvik, and crystal sellers give Norway as its usual origin. In the building-stone trade, larvikite with a strong blue play of color is the more attractive and valued kind, and flaws or uneven color reduce the price of a block significantly. Beads are not blocks, but the flash is the easy thing to compare when you choose a piece.
 
 **Next Step.** Choosing a stone for the front door? See how the usual picks compare in [crystals for protection](/crystals-for/protection/).
 
@@ -204,4 +204,4 @@ Larvikite is quarried on an industrial scale for building stone, from about 30 q
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

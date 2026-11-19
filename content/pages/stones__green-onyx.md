@@ -77,25 +77,25 @@ Green onyx is a trade name, not a single mineral. In jewelry it often means chal
 
 ## What Green Onyx Actually Is
 
-**The Stone.** Start with onyx. Its most accepted gem definition is solid black chalcedony, or chalcedony banded black and white, though the word is also used for any gemstone with parallel bands, says [Minerals.net](https://m.minerals.net/Gemstone/Onyx.aspx). Chalcedony is quartz made of crystals far too small to see, a form of quartz rather than a mineral species of its own ([Minerals.net](https://www.minerals.net/mineral/chalcedony)).
+**The Stone.** Start with onyx. Its most accepted gem definition is solid black chalcedony, or chalcedony banded black and white, though the word is also used for any gemstone with parallel bands. Chalcedony is quartz made of crystals far too small to see, a form of quartz rather than a mineral species of its own.
 
-Green onyx sits on Minerals.net's list of false names. It "often refers to Chalcedony dyed a deep green color," may also mean agate banded light green and white, and is "sometimes also incorrectly used" for green onyx marble. So the tag tells you the color and almost nothing else.
+Mineral references class green onyx as a false name. It often refers to chalcedony dyed a deep green color, may also mean agate banded light green and white, and is sometimes also used, incorrectly, for green onyx marble. So the tag tells you the color and almost nothing else.
 
 ### Is Green Onyx Natural?
 
-The stone underneath usually is, the color usually is not. Gem Rock Auctions, a dealer, describes dyeing clear chalcedony to create green onyx ([Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/onyx-stone)), and GemSelect notes that chalcedony can be bleached and then dyed ([GemSelect](https://www.gemselect.com/gem-info/chalcedony/chalcedony-info.php)).
+The stone underneath usually is, the color usually is not. One dealer describes dyeing clear chalcedony to create green onyx, and another notes that chalcedony can be bleached and then dyed.
 
-Natural green chalcedony does exist. The [International Gem Society](https://www.gemsociety.org/article/chalcedony-jewelry-and-gemstone-information/) explains that chalcedony takes its colors from metallic impurities such as iron, nickel and copper, and that untreated material is often grayish blue. Its best-known natural green, colored by nickel, is sold under its own name, [chrysoprase](/stones/chrysoprase/). Treat "natural green onyx" on a tag as a question for the seller.
+Natural green chalcedony does exist. Chalcedony takes its colors from metallic impurities such as iron, nickel and copper, and untreated material is often grayish blue. Its best-known natural green, colored by nickel, is sold under its own name, [chrysoprase](/stones/chrysoprase/). Treat "natural green onyx" on a tag as a question for the seller.
 
 ### Green Onyx Marble, Vases & Bowls
 
-If you searched for a green onyx vase or bowl, you are probably looking at a different stone. Minerals.net lists "limestone onyx," "Mexican onyx" and "onyx marble" as false names for banded travertine or tufa, layered stone deposited from water, which can be polished and dyed. The International Gem Society's [calcite page](https://www.gemsociety.org/article/calcite-jewelry-gemstone-information/) groups limestone onyx with travertine and flowstone, the stone of cave formations.
+If you searched for a green onyx vase or bowl, you are probably looking at a different stone. "Limestone onyx," "Mexican onyx" and "onyx marble" are false names for banded travertine or tufa, layered stone deposited from water, which can be polished and dyed. Limestone onyx is grouped with travertine and flowstone, the stone of cave formations.
 
-That material is calcite, the main mineral of limestone and marble, or sometimes aragonite, as Kunz noted for Mexican onyx. [Geology.com](https://geology.com/minerals/calcite.shtml) shows "calcite in the form of translucent onyx" from Tecali, Mexico. Amethyst Galleries calls Mexican onyx a variety of calcite "used extensively for ornamental purposes," carved into vases, bookends, plates and figurines, and adds that it is not the quartz onyx used in jewelry ([Amethyst Galleries](https://galleries.com/minerals/carbonat/calcite/calcite.htm)).
+That material is calcite, the main mineral of limestone and marble, or sometimes aragonite, as Kunz noted for Mexican onyx. Calcite in the form of translucent onyx comes from Tecali, Mexico. Mexican onyx is a variety of calcite used extensively for ornamental purposes, carved into vases, bookends, plates and figurines, and it is not the quartz onyx used in jewelry.
 
-One gem dealer's encyclopedia names Pakistan as the big supplier of onyx marble for vases, chess sets and wall cladding, and Argentina for apple-green material ([Skyjems](https://skyjems.ca/pages/encyclopedia-onyx-marble)). A rule of thumb, then. If it is a carving, a vase, a bowl or a tile, think onyx marble first.
+One gem dealer's encyclopedia names Pakistan as the big supplier of onyx marble for vases, chess sets and wall cladding, and Argentina for apple-green material. A rule of thumb, then. If it is a carving, a vase, a bowl or a tile, think onyx marble first.
 
-The difference matters most for hardness. Chalcedony onyx rates 6.5 to 7 on the Mohs scale (GemSelect), calcite only 3 (Geology.com), so a green onyx bowl scratches far more easily than a green onyx ring.
+The difference matters most for hardness. Chalcedony onyx rates 6.5 to 7 on the Mohs scale, calcite only 3, so a green onyx bowl scratches far more easily than a green onyx ring.
 
 ## Where the Meaning Comes From
 
@@ -111,19 +111,19 @@ The difference matters most for hardness. Chalcedony onyx rates 6.5 to 7 on the 
 
 ### Did Ancient Egyptians Use Green Onyx?
 
-Shop pages say Egyptians used green onyx to ward off evil spirits ([Sagacia Jewelry](https://www.sagaciajewelry.com/blogs/news/green-onyx-power-and-mysteries)), without naming an old text. The onyx lore Kunz recorded is mostly about bad dreams, sadness and quarrels, and none of it places green onyx in Egypt. Read the story as modern seller lore.
+Shop pages say Egyptians used green onyx to ward off evil spirits, without naming an old text. The onyx lore Kunz recorded is mostly about bad dreams, sadness and quarrels, and none of it places green onyx in Egypt. Read the story as modern seller lore.
 
 ## What People Use Green Onyx for Today
 
-**Modern Association.** In modern crystal guides, green onyx is Widely Linked with anxiety and protection, Often Linked with confidence, and only Sometimes Linked with sleep, love, money, grief, grounding and focus. Guides add balance, growth and honest communication, and one suggests wearing it for "difficult conversations, presentations" or any moment you need to speak from the heart ([The Night Sky](https://www.thenightsky.com/blog/green-onyx-meaning-properties)).
+**Modern Association.** In modern crystal guides, green onyx is Widely Linked with anxiety and protection, Often Linked with confidence, and only Sometimes Linked with sleep, love, money, grief, grounding and focus. Guides add balance, growth and honest communication, and one suggests wearing it for "difficult conversations, presentations" or any moment you need to speak from the heart.
 
-The "why" is mostly the color. Green reads as new beginnings and growth ([Green Matters](https://greenmatters.com/health-and-wellness/green-onyx)), and modern chakra lists pair green with the heart, as GemSelect's does. The throat chakra follows from the communication theme. Two shop guides tie green onyx to Mercury, which one links to intellect and communication in Vedic astrology. And one calls onyx a protective talisman in Middle Eastern traditions, close to the opposite of the "sadness" stone Kunz found in Arabic tradition.
+The "why" is mostly the color. Green reads as new beginnings and growth, and modern chakra lists pair green with the heart. The throat chakra follows from the communication theme. Two shop guides tie green onyx to Mercury, which one links to intellect and communication in Vedic astrology. And one calls onyx a protective talisman in Middle Eastern traditions, close to the opposite of the "sadness" stone Kunz found in Arabic tradition.
 
-Guides agree less on the details. Signs scatter, Gemini most often, then Virgo, Taurus and Leo. One shop calls green onyx a May birthstone, but the [American Gem Society](https://www.americangemsociety.org/birthstones/) list gives May to emerald, and green onyx appears nowhere on it.
+Guides agree less on the details. Signs scatter, Gemini most often, then Virgo, Taurus and Leo. One shop calls green onyx a May birthstone, but the American Gem Society list gives May to emerald, and green onyx appears nowhere on it.
 
 ### What Is Green Onyx Good For?
 
-As a material, green onyx is good for jewelry and for decor. Chalcedony onyx is cut into cabochons and beads for rings, bracelets, necklaces and earrings, and carved into cameos and small figures (Minerals.net). Onyx marble is carved into vases, bookends and plates (Amethyst Galleries). Everything else is belief about the person wearing it.
+As a material, green onyx is good for jewelry and for decor. Chalcedony onyx is cut into cabochons and beads for rings, bracelets, necklaces and earrings, and carved into cameos and small figures. Onyx marble is carved into vases, bookends and plates. Everything else is belief about the person wearing it.
 
 Some guides go much further and list green onyx benefits for blood flow, bones, immunity, hormones, arthritis and wounds. Gem science and medicine do not back those claims, and one of those same shop pages admits there is little scientific evidence behind them.
 
@@ -153,19 +153,19 @@ Some guides go much further and list green onyx benefits for blood flow, bones, 
 
 We use the same five labels on every stone. Green onyx is mostly a question of which label applies, not of real versus fake.
 
-- **Natural, untreated.** Natural green chalcedony exists, and two natural-color kinds carry names of their own, chrysoprase, colored by nickel (International Gem Society), and Aquaprase, the trade name of a bluish green chalcedony from Africa colored by chromium and nickel ([Gems & Gemology, Winter 2015](https://www.gia.edu/gems-gemology/winter-2015-gemnews-new-natural-color-bluish-green-chalcedony)). We found no reference source describing undyed green chalcedony sold as green onyx.
-- **Natural, treated.** The usual green onyx. Chalcedony or agate dyed green (Minerals.net). GemSelect adds that chalcedony may be bleached before dyeing, heated to even out color, or coated all over or only on the back of a cabochon.
+- **Natural, untreated.** Natural green chalcedony exists, and two natural-color kinds carry names of their own, chrysoprase, colored by nickel, and Aquaprase, the trade name of a bluish green chalcedony from Africa colored by chromium and nickel, a material reported in Winter 2015. We found no reference source describing undyed green chalcedony sold as green onyx.
+- **Natural, treated.** The usual green onyx. Chalcedony or agate dyed green. Chalcedony may also be bleached before dyeing, heated to even out color, or coated all over or only on the back of a cabochon.
 - **Lab-grown.** We found no reference source describing lab-grown chalcedony sold as green onyx.
-- **Imitation.** Onyx marble sold as plain "onyx" is the common one, a calcite standing in for quartz. GIA's journal has also reported dyed green marble, with calcite as the main mineral, presented as fine jadeite ([Gems & Gemology, Winter 2014](https://www.gia.edu/articles/winter-2014-gemnews-dyed-green-marble-imitating-jadeite)).
-- **Trade names.** Green onyx itself, plus Mexican onyx, limestone onyx and onyx marble, all names for banded travertine (Minerals.net).
+- **Imitation.** Onyx marble sold as plain "onyx" is the common one, a calcite standing in for quartz. In Winter 2014, GIA's journal also reported dyed green marble, with calcite as the main mineral, presented as fine jadeite.
+- **Trade names.** Green onyx itself, plus Mexican onyx, limestone onyx and onyx marble, all names for banded travertine.
 
 Three checks you can do at home, with their limits.
 
-1. **Ask what the object is.** Carvings, vases, bowls and tiles point to onyx marble, beads and cabochons to chalcedony (Amethyst Galleries, Minerals.net). This is a rule of thumb, not a test.
-2. **Judge the color.** GemSelect warns that "extravagant colors that look a little unnatural" are a sign of dye. The limit is that dye is normal in green onyx, so this tells you about color, not honesty.
-3. **Ask about coatings.** GemSelect says some chalcedony is coated and that a scratch test exposes it. A scratch damages the piece, so ask the seller instead.
+1. **Ask what the object is.** Carvings, vases, bowls and tiles point to onyx marble, beads and cabochons to chalcedony. This is a rule of thumb, not a test.
+2. **Judge the color.** One dealer warns that "extravagant colors that look a little unnatural" are a sign of dye. The limit is that dye is normal in green onyx, so this tells you about color, not honesty.
+3. **Ask about coatings.** Some chalcedony is coated, and a scratch test exposes it. A scratch damages the piece, so ask the seller instead.
 
-The telling test for onyx marble is chemical. Calcite "always will effervesce" when even weak cold acids touch it (Amethyst Galleries), and one dealer notes that true onyx does not react (Skyjems). Acid etches the stone, so leave that to a professional.
+The telling test for onyx marble is chemical. Calcite will always effervesce when even weak cold acids touch it, and one dealer notes that true onyx does not react. Acid etches the stone, so leave that to a professional.
 
 Three questions to ask the seller. Is the color dyed? Is this chalcedony or onyx marble? Where was it mined? The [Label Decoder](/tools/crystal-label-decoder/) turns the words on a tag into what they usually mean.
 
@@ -175,26 +175,26 @@ Two different stones share the name, so they get two care plans. Our care rating
 
 ### Green Onyx Jewelry
 
-**Mineral Fact.** Chalcedony is tough and does not crack or break easily (GemSelect), and the International Gem Society calls it good for all jewelry.
+**Mineral Fact.** Chalcedony is tough and does not crack or break easily, and it is good for all jewelry.
 
-- **Water.** OK. Warm soapy water and a soft brush (GemSelect).
+- **Water.** OK. Warm soapy water and a soft brush.
 - **Soaking.** Brief only. The guidance covers washing, not a long soak.
-- **Sun.** Brief only. Dyed chalcedony can fade, and GemSelect retells a customer's dyed pink chalcedony that "faded dramatically after a day in the sun."
-- **Heat.** Brief only. No prolonged heat and no steam cleaners (GemSelect).
-- **Chemicals.** Brief only. GemSelect advises against household chemicals.
+- **Sun.** Brief only. Dyed chalcedony can fade, and one dealer retells a customer's dyed pink chalcedony that "faded dramatically after a day in the sun."
+- **Heat.** Brief only. No prolonged heat and no steam cleaners.
+- **Chemicals.** Brief only. Avoid household chemicals.
 - **Salt.** Unknown. Skip salt until reliable guidance exists.
-- **Storage.** OK. A fabric-lined box or a soft cloth, away from other gems (GemSelect).
+- **Storage.** OK. A fabric-lined box or a soft cloth, away from other gems.
 - **Toxicity.** Unknown for green onyx. Keep beads and small stones away from children and pets regardless.
 
 ### Green Onyx Vases, Bowls & Tiles
 
-**Mineral Fact.** Calcite is soft at 3 on the Mohs scale (Geology.com) and fizzes when even weak cold acids touch it (Amethyst Galleries).
+**Mineral Fact.** Calcite is soft at 3 on the Mohs scale and fizzes when even weak cold acids touch it.
 
-- **Chemicals.** Avoid. Acidic cleaners are a risk, and that includes vinegar and citrus (Skyjems).
-- **Water and soaking.** Brief only. Water can dissolve calcite slowly over long exposure (Skyjems).
-- **Cleaning.** Brief only. A dry or barely damp soft cloth, and no ultrasonic cleaners (Skyjems).
+- **Chemicals.** Avoid. Acidic cleaners are a risk, and that includes vinegar and citrus.
+- **Water and soaking.** Brief only. Water can dissolve calcite slowly over long exposure.
+- **Cleaning.** Brief only. A dry or barely damp soft cloth, and no ultrasonic cleaners.
 - **Sun, heat and salt.** Unknown. Skip long sun, heat and salt until reliable guidance exists.
-- **Scratches and storage.** Brief only. Soft stone, best where abrasion and impact are unlikely, so pendants and earrings rather than ring stones (Skyjems). Keep grit, keys and harder stones from sliding across it.
+- **Scratches and storage.** Brief only. Soft stone, best where abrasion and impact are unlikely, so pendants and earrings rather than ring stones. Keep grit, keys and harder stones from sliding across it.
 
 ### Can Green Onyx Go in Water?
 
@@ -202,18 +202,18 @@ Green onyx jewelry can be washed in warm, soapy water, as long as you keep it br
 
 ## Green Onyx vs Look-Alikes
 
-- **Chrysoprase.** Natural apple-green chalcedony colored by nickel, and it "commands a higher price" than other chalcedony ([Minerals.net](https://www.minerals.net/gemstone/chalcedony)). Dyed green chalcedony is often sold as "chrysoprase," a misnomer according to [Geology.com](https://geology.com/gemstones/chrysoprase/). See our [chrysoprase page](/stones/chrysoprase/) for the clues.
-- **Jade.** Kunz noted that some rich green stones of ancient Mexico, Tecalco onyx among them, could be mistaken for jadeite, and dyed green marble has been presented as jadeite (*Gems & Gemology*). See [jade](/stones/jade/).
+- **Chrysoprase.** Natural apple-green chalcedony colored by nickel, and it commands a higher price than other chalcedony. Dyed green chalcedony is often sold as "chrysoprase," a misnomer. See our [chrysoprase page](/stones/chrysoprase/) for the clues.
+- **Jade.** Kunz noted that some rich green stones of ancient Mexico, Tecalco onyx among them, could be mistaken for jadeite, and dyed green marble has been presented as jadeite. See [jade](/stones/jade/).
 - **Green calcite.** The same mineral as onyx marble, sold under its own name.
-- **Black onyx.** The best-known onyx, also chalcedony. What you find in stores is almost always dyed (International Gem Society). More on our [onyx page](/stones/onyx/).
+- **Black onyx.** The best-known onyx, also chalcedony. What you find in stores is almost always dyed. More on our [onyx page](/stones/onyx/).
 
 ## Price Guide
 
-Green onyx is an inexpensive material. GemSelect calls chalcedony "not a very expensive gemstone" and says intricately carved pieces can cost more for the skilled work, and Amethyst Galleries calls Mexican onyx carvings "attractive and affordable." We found no current US listing for green onyx with a clear price and size, so this guide gives no figures. These are the things to compare.
+Green onyx is an inexpensive material. Chalcedony is not a very expensive gemstone, though intricately carved pieces can cost more for the skilled work, and Mexican onyx carvings are attractive and affordable. We found no current US listing for green onyx with a clear price and size, so this guide gives no figures. These are the things to compare.
 
-- **Color and translucency.** Strong color saturation and high translucence are the general high value points for all chalcedonies (International Gem Society).
-- **Cutting.** Chalcedony is usually cut as cabochons or carved, and for agate and carnelian the value depends more on the beauty of the cutting than on the material itself (International Gem Society).
-- **Dye.** Dyeing chalcedony is an ancient and common practice, usually stable, and it should be disclosed to buyers (International Gem Society). Since green onyx often means dyed chalcedony (Minerals.net), ask for the disclosure rather than paying extra for the shade.
+- **Color and translucency.** Strong color saturation and high translucence are the general high value points for all chalcedonies.
+- **Cutting.** Chalcedony is usually cut as cabochons or carved, and for agate and carnelian the value depends more on the beauty of the cutting than on the material itself.
+- **Dye.** Dyeing chalcedony is an ancient and common practice, usually stable, and it should be disclosed to buyers. Since green onyx often means dyed chalcedony, ask for the disclosure rather than paying extra for the shade.
 - **Which stone.** A chalcedony bead and an onyx marble bowl are different materials, so compare like with like.
 
 **Next Step.** Choosing a calming stone? See how green onyx compares with the usual picks in [crystals for anxiety](/crystals-for/anxiety/).
@@ -226,7 +226,7 @@ Green onyx is an inexpensive material. GemSelect calls chalcedony "not a very ex
 - Amethyst Galleries, [Calcite](https://galleries.com/minerals/carbonat/calcite/calcite.htm)
 - Gemological Institute of America, [Dyed Green Marble Imitating Jadeite](https://www.gia.edu/articles/winter-2014-gemnews-dyed-green-marble-imitating-jadeite), *Gems & Gemology*, Winter 2014
 - Nathan Renfro, [A New Natural-Color Bluish Green Chalcedony](https://www.gia.edu/gems-gemology/winter-2015-gemnews-new-natural-color-bluish-green-chalcedony), *Gems & Gemology*, Winter 2015
-- Gem dealer guides on chalcedony, onyx and onyx marble, named and linked where the text cites them
+- Gem dealer guides on chalcedony, onyx and onyx marble
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/), and the IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 98 to 99, 159 to 160, 251 to 252 and 276, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978), and *The Magic of Jewels and Charms* (1915), pages 151 to 152, 282 and 386, [Project Gutenberg 66583](https://www.gutenberg.org/ebooks/66583)
 - Nicholas M. Hobson, Juliana Schroeder, Jane L. Risen, Dimitris Xygalatas and Michael Inzlicht, "The Psychology of Rituals, An Integrative Review and Process-Based Framework," *Personality and Social Psychology Review* 22(3) (2018), pages 260 to 284, [doi.org/10.1177/1088868317734944](https://doi.org/10.1177/1088868317734944)
@@ -235,4 +235,4 @@ Green onyx is an inexpensive material. GemSelect calls chalcedony "not a very ex
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

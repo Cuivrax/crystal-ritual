@@ -71,46 +71,46 @@ Ruby zoisite is a rock, not a single gem. It is green zoisite with crystals of r
 
 ## What Ruby Zoisite Actually Is
 
-**The Stone.** Ruby zoisite is a rock made of several minerals grown together. [Geology.com](https://geology.com/minerals/zoisite.shtml) describes it as zoisite with red corundum crystals (ruby), often accented by black crystals of hornblende. The online petrography atlas [Alex Strekeisen](https://alexstrekeisen.it/english/meta/anyolite.php) describes a granular mass of bright green chrome-zoisite with a little very dark green pargasite, holding purplish red ruby crystals up to several centimeters across.
+**The Stone.** Ruby zoisite is a rock made of several minerals grown together. It is zoisite with red corundum crystals (ruby), often accented by black crystals of hornblende. Seen closer, it is a granular mass of bright green chrome-zoisite with a little very dark green pargasite, holding purplish red ruby crystals up to several centimeters across.
 
-As a rock, it has no single formula, hardness or crystal system. The atlas notes that a strict petrographic name would be something like corundum-pargasite zoisitite, and that anyolite is the "more euphonious" name it has been given.
+As a rock, it has no single formula, hardness or crystal system. A strict petrographic name would be something like corundum-pargasite zoisitite, and anyolite is the more euphonious name it has been given.
 
 ### Is the Ruby in Ruby Zoisite Real Ruby?
 
-Yes. The red crystals are corundum, the same mineral as any ruby, colored red by chromium ([GIA](https://www.gia.edu/ruby/gem-overview)). What sets them apart is clarity. The atlas says the find "later turned out to be a green zoisite matrix with large inclusions of mostly opaque ruby."
+Yes. The red crystals are corundum, the same mineral as any ruby, colored red by chromium. What sets them apart is clarity. The original find later turned out to be a green zoisite matrix with large inclusions of mostly opaque ruby.
 
-The crystals themselves can be big. Kievlenko's *Geology of Gems* (2003, page 60) describes flattened six-sided ruby crystals in pink and violet-red, up to about 12 inches (30 cm) across, with rare translucent areas that raise the stone's decorative value ([Gemdat locality record](https://www.gemdat.org/loc-8256.html)). Most of it is mined for carving and decoration, rarely for cabochons (Kievlenko).
+The crystals themselves can be big. Kievlenko's *Geology of Gems* (2003, page 60) describes flattened six-sided ruby crystals in pink and violet-red, up to about 12 inches (30 cm) across, with rare translucent areas that raise the stone's decorative value. Most of it is mined for carving and decoration, rarely for cabochons.
 
 ### What Are the Black Spots in Ruby Zoisite?
 
-They are an amphibole, a dark rock-forming mineral. Geology.com calls it hornblende (tschermakite), while the Alex Strekeisen atlas names pargasite and also says the rock is "heavily included with black hornblende minerals." Either way, the black is part of the rock, not dirt or dye.
+They are an amphibole, a dark rock-forming mineral. Geology.com calls it hornblende (tschermakite), while the Alex Strekeisen petrography atlas names pargasite and also describes the rock as heavily included with black hornblende minerals. Either way, the black is part of the rock, not dirt or dye.
 
-How much black you get varies. The atlas describes a range at the mine, from very dark amphibolite with little zoisite to a pale apple-green, zoisite-rich rock that usually carries the large ruby crystals. Two pieces can look like different stones.
+How much black you get varies. The mine shows a range, from very dark amphibolite with little zoisite to a pale apple-green, zoisite-rich rock that usually carries the large ruby crystals. Two pieces can look like different stones.
 
 <!-- PHOTO 2, beside "What Are the Black Spots". PHOTO TO FIND, a close view showing black amphibole grains between green zoisite and ruby. Candidate to review, the James St. John anyolite series listed above (CC BY 2.0), whose Commons descriptions label green as Cr-zoisite, black as amphibole and reddish as ruby. Log visual_check before use. -->
 
 ### Did the Ruby Really Grow in the Zoisite?
 
-Yes, nobody glued it together. The atlas describes the rubies as coarse crystals that grew within the rock. How the rock formed is hard to pin down. The atlas weighs a highly altered intrusive rock against metasomatism (chemical change brought by hot fluids) and says "probably each of these processes has played a part."
+Yes, nobody glued it together. The rubies are coarse crystals that grew within the rock. How the rock formed is hard to pin down. One explanation is a highly altered intrusive rock, another is metasomatism (chemical change brought by hot fluids), and probably each of these processes has played a part.
 
 ### Why Does Ruby Zoisite Glow Under UV Light?
 
-Most likely it is the ruby. Rubies fluoresce under both long and shortwave ultraviolet light, says the [International Gem Society](https://www.gemsociety.org/article/ruby-jewelry-and-gemstone-information/), though Thai rubies generally lack the effect. A UV flashlight shows where the ruby is, not which green rock holds it.
+Most likely it is the ruby. Rubies fluoresce under both long and shortwave ultraviolet light, though Thai rubies generally lack the effect. A UV flashlight shows where the ruby is, not which green rock holds it.
 
 ### Where Ruby Zoisite Is Found
 
-Ruby zoisite comes from the Longido district of northeast Tanzania, at the Mundarara Mine in the Arusha Region. Kievlenko places the ruby-bearing veins near the town of Mdarara, about 60 miles (100 km) northwest of Mount Kilimanjaro. The outcrops are small, the largest "just over 100 yards long" (Alex Strekeisen atlas).
+Ruby zoisite comes from the Longido district of northeast Tanzania, at the Mundarara Mine in the Arusha Region. The ruby-bearing veins lie near the town of Mdarara, about 60 miles (100 km) northwest of Mount Kilimanjaro. The outcrops are small, the largest just over 100 yards long.
 
-Nearby amphibolite with large brown-red garnets usually signals that the zoisite-ruby rock is close (atlas). The atlas calls Tanzania the only source, while one dealer also lists Kenya.
+Nearby amphibolite with large brown-red garnets usually signals that the zoisite-ruby rock is close. Tanzania is usually given as the only source, though one dealer also lists Kenya.
 
 ## Where the Meaning Comes From
 
 **The Story.** Ruby zoisite was identified in the 1950s, so its lore is borrowed from ruby or written by modern shops.
 
 - **Old ruby lore.** **Tradition.** In Sanskrit, ruby was called ratnaraj, "king of precious stones" (George Frederick Kunz, *The Curious Lore of Precious Stones*, 1913, page 101). Its glow suggested a flame burning inside the stone, and rubies were believed to remove evil thoughts and reconcile disputes (pages 101 to 102). In Burma, Kunz writes, a ruby inserted in the flesh was believed to keep its owner from being wounded "by spear, sword, or gun" (page 103). Kunz also warns that old names like carbunculus covered ruby and "those resembling it in color" (page 162).
-- **1949 to 1954, Tanzania.** The English prospector Tom Blevins thought he had found vast ruby deposits near Longido in 1949. The find turned out to be green zoisite with mostly opaque ruby, and ruby zoisite was discovered there in 1954 (Alex Strekeisen atlas).
-- **The name.** Anyolite comes from anyoli, the word for green in the Maasai language (Alex Strekeisen atlas). Dealers also sell it as Tanganyika artstone, a name [one dealer](https://gem.agency/gemstones/ruby-in-zoisite/) ties to its origin and "natural artistry."
-- **2009, Britain.** A construction firm that went into administration in 2009 had carried a 10,725-carat "ruby," about 4.5 pounds (2.1 kg), on its books at £11 million ($14.8 million), backed by a forged lab certificate. Many observers thought it was anyolite, some UK newspapers put its worth at £100, and the Financial Times reported it later sold for £8,010 ([International Gem Society](https://www.gemsociety.org/news/2025/11/03/wrekin-ruby/)).
+- **1949 to 1954, Tanzania.** The English prospector Tom Blevins thought he had found vast ruby deposits near Longido in 1949. The find turned out to be green zoisite with mostly opaque ruby, and ruby zoisite was discovered there in 1954.
+- **The name.** Anyolite comes from anyoli, the word for green in the Maasai language. Dealers also sell it as Tanganyika artstone, a name one dealer ties to its origin and "natural artistry."
+- **2009, Britain.** A construction firm that went into administration in 2009 had carried a 10,725-carat "ruby," about 4.5 pounds (2.1 kg), on its books at £11 million ($14.8 million), backed by a forged lab certificate. Many observers thought it was anyolite, some UK newspapers put its worth at £100, and the Financial Times reported it later sold for £8,010.
 - **Shop stories.** One shop guide says East African hunters believed the stone made them invisible, and that Saint Louis and Charles V wore it. Saint Louis lived in the 13th century and the stone was first described in 1954, so the royal claim cannot be right.
 - **Today.** **Modern Association.** Creativity, love and courage lead in today's crystal guides, built on the two colors and on the reputations of ruby and zoisite.
 
@@ -122,7 +122,7 @@ The "why" is mostly color. Red reads as passion and courage, the old reputation 
 
 ### What Does Ruby Zoisite Do?
 
-As a rock, ruby zoisite is a colorful carving and cabochon material ([Minerals.net](https://www.minerals.net/gemstone/zoisite)). Everything else is belief.
+As a rock, ruby zoisite is a colorful carving and cabochon material. Everything else is belief.
 
 A few guides list fertility, circulation, blood sugar or even terminal illness. Nothing in the mineral sources behind this page supports those claims, and one shop guide states plainly that the effects of gemstones have not been scientifically proven.
 
@@ -152,31 +152,31 @@ A few guides list fertility, circulation, blood sugar or even terminal illness. 
 
 We use the same five labels on every stone. The main risk is a different rock sold under this name.
 
-- **Natural, untreated.** Most of what you will see. Minerals.net says green zoisite and the other zoisites apart from tanzanite are naturally colored and usually not enhanced.
-- **Natural, treated.** GIA lists fracture filling, cavity filling, dyeing and heating for ruby in general ([GIA ruby care](https://www.gia.edu/ruby-care-cleaning)). We found no reference source describing dyed, filled or stabilized ruby zoisite itself.
+- **Natural, untreated.** Most of what you will see. Green zoisite and the other zoisites apart from tanzanite are naturally colored and usually not enhanced.
+- **Natural, treated.** Fracture filling, cavity filling, dyeing and heating are known for ruby in general. We found no reference source describing dyed, filled or stabilized ruby zoisite itself.
 - **Lab-grown.** We found no reference source on a lab-made or assembled version of ruby zoisite.
-- **Imitation.** Ruby in fuchsite is the classic one. Geology.com says shows and online auctions present it as "ruby in zoisite" more often than under its own name. GIA has also seen a dyed rock. A 2017 lab note describes a bracelet of translucent beads that "closely resembled ruby-in-zoisite" but turned out to be quartzite dyed green and purple, the first such case it had seen ([Gems & Gemology](https://www.gia.edu/gems-gemology/winter-2017-labnotes-dyed-quartzite-imitation-ruby-in-zoisite)). We found no reference source on glass, resin or painted stones sold under the name.
+- **Imitation.** Ruby in fuchsite is the classic one. Shows and online auctions present it as "ruby in zoisite" more often than under its own name. GIA has also seen a dyed rock. A 2017 lab note describes a bracelet of translucent beads that "closely resembled ruby-in-zoisite" but turned out to be quartzite dyed green and purple, the first such case it had seen. We found no reference source on glass, resin or painted stones sold under the name.
 - **Trade names.** Anyolite, ruby in zoisite and Tanganyika artstone all mean the same rock, and none is a fake. A tag that only says "ruby" on a green-and-red piece is incomplete.
 
 Three checks you can do at home, with their limits.
 
-1. **Look for black specks.** Ruby in zoisite is usually marked with a scattering of black hornblende crystals ([Geology.com](https://geology.com/minerals/fuchsite.shtml)). The limit is that some pieces are mostly green with very little black.
-2. **Look around each ruby.** In ruby in fuchsite, the rubies usually have blue kyanite rims, which do not occur around rubies in zoisite (Geology.com). A loupe helps. No rim is a good sign, not a proof.
-3. **Shine a UV flashlight.** Ruby often fluoresces (International Gem Society). This confirms there is likely ruby in the piece. It does not tell zoisite from fuchsite. The dyed quartzite beads GIA examined glowed very weak red under long-wave UV and not at all under short-wave.
+1. **Look for black specks.** Ruby in zoisite is usually marked with a scattering of black hornblende crystals. The limit is that some pieces are mostly green with very little black.
+2. **Look around each ruby.** In ruby in fuchsite, the rubies usually have blue kyanite rims, which do not occur around rubies in zoisite. A loupe helps. No rim is a good sign, not a proof.
+3. **Shine a UV flashlight.** Ruby often fluoresces. This confirms there is likely ruby in the piece. It does not tell zoisite from fuchsite. The dyed quartzite beads GIA examined glowed very weak red under long-wave UV and not at all under short-wave.
 
 Ask the seller which green mineral holds the ruby, whether anything was dyed, filled or coated, and where it was mined. The [Label Decoder](/tools/crystal-label-decoder/) explains the words on a tag.
 
 ## How to Care for Ruby Zoisite
 
-**Mineral Fact.** The ruby is tough, Mohs 9 with no cleavage ([GIA](https://www.gia.edu/ruby-care-cleaning)). The zoisite is the weak link, 6 to 7 with fair to poor toughness and cleavage, so it needs protection from hard blows ([GIA tanzanite care](https://www.gia.edu/tanzanite-care-cleaning)). Our ratings combine what GIA says about each mineral, since no source has tested the whole rock.
+**Mineral Fact.** The ruby is tough, Mohs 9 with no cleavage. The zoisite is the weak link, 6 to 7 with fair to poor toughness and cleavage, so it needs protection from hard blows. Our ratings combine what GIA says about each mineral, since no source has tested the whole rock.
 
-- **Water.** OK. Mild soapy water and a soft brush, then a thorough rinse, as one seller advises. GIA calls warm soapy water always safe for ruby and tanzanite. Keep soaks brief, since the advice covers washing only.
-- **Sun.** OK. GIA says both corundum and zoisite are stable under normal wearing conditions, resistant to heat, light and common chemicals.
-- **Heat.** Avoid. GIA says zoisite should not face very high temperatures or sudden temperature changes.
-- **Chemicals.** Avoid. One seller says to avoid harsh chemicals and steam, and GIA adds that hydrochloric and hydrofluoric acids attack zoisite.
+- **Water.** OK. Mild soapy water and a soft brush, then a thorough rinse, as one seller advises. Warm soapy water is always safe for ruby and tanzanite. Keep soaks brief, since the advice covers washing only.
+- **Sun.** OK. Both corundum and zoisite are stable under normal wearing conditions, resistant to heat, light and common chemicals.
+- **Heat.** Avoid. Zoisite should not face very high temperatures or sudden temperature changes.
+- **Chemicals.** Avoid. One seller says to avoid harsh chemicals and steam, and hydrochloric and hydrofluoric acids attack zoisite.
 - **Salt.** Unknown. No source covers it yet.
-- **Cleaning machines.** Skip them. GIA never recommends ultrasonic or steam cleaners for tanzanite.
-- **Knocks and storage.** Avoid knocks. GIA says tanzanite, the same mineral, can be worn in any jewelry with precautions against hard blows, so a ring needs more care than a pendant.
+- **Cleaning machines.** Skip them. Ultrasonic and steam cleaners are never recommended for tanzanite.
+- **Knocks and storage.** Avoid knocks. Tanzanite, the same mineral, can be worn in any jewelry with precautions against hard blows, so a ring needs more care than a pendant.
 - **Toxicity.** Unknown. No source covers it yet.
 
 ### Can Ruby Zoisite Go in Water?
@@ -189,16 +189,16 @@ Keep every stone out of drinking water, and read our guide to [moon water withou
 
 ### Ruby Zoisite vs Ruby Fuchsite
 
-Both are green rocks holding real ruby, and they get mixed up constantly. Geology.com gives three facts that sort them. Fuchsite has a hardness of only 2 to 3, while zoisite has a hardness of at least 6. Rubies in fuchsite have blue kyanite rims, and rubies in zoisite do not. Ruby in zoisite is usually marked with black hornblende specks. Never scratch a finished piece to test it. Use the rims and the specks, and see [ruby fuchsite](/stones/ruby-fuchsite/).
+Both are green rocks holding real ruby, and they get mixed up constantly. Three facts sort them. Fuchsite has a hardness of only 2 to 3, while zoisite has a hardness of at least 6. Rubies in fuchsite have blue kyanite rims, and rubies in zoisite do not. Ruby in zoisite is usually marked with black hornblende specks. Never scratch a finished piece to test it. Use the rims and the specks, and see [ruby fuchsite](/stones/ruby-fuchsite/).
 
 ### Other Stones Sold Near Ruby Zoisite
 
 - **Ruby.** The same mineral as the red crystals, priced as a gem. See [ruby](/stones/ruby/).
-- **Tanzanite.** Blue zoisite, the same mineral as the green part, and mostly heat-treated brown zoisite (Geology.com).
+- **Tanzanite.** Blue zoisite, the same mineral as the green part, and mostly heat-treated brown zoisite.
 
 ## Price Guide
 
-Ruby zoisite is sold as a minor gemstone, in cabochons, beads and animal carvings (Minerals.net). The ruby inside does not make it a ruby-priced stone, as the £11 million "ruby" story shows. Kievlenko notes that rare translucent areas in the ruby increase its decorative value. For zoisite in general, the International Gem Society says size and clarity have a strong effect on prices and custom cuts add value ([IGS](https://www.gemsociety.org/article/tanzanite-jewelry-and-gemstone-information/)). Before paying more, ask whether the color is natural, since GIA has seen dyed quartzite beads made to look like ruby zoisite.
+Ruby zoisite is sold as a minor gemstone, in cabochons, beads and animal carvings. The ruby inside does not make it a ruby-priced stone, as the £11 million "ruby" story shows. Rare translucent areas in the ruby increase its decorative value. For zoisite in general, size and clarity have a strong effect on prices, and custom cuts add value. Before paying more, ask whether the color is natural, since a gem lab has seen dyed quartzite beads made to look like ruby zoisite.
 
 **Next Step.** Choosing a stone for a couple or a new relationship? Compare the usual picks in [crystals for love](/crystals-for/love/).
 
@@ -220,4 +220,4 @@ Ruby zoisite is sold as a minor gemstone, in cabochons, beads and animal carving
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

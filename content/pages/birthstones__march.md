@@ -62,14 +62,14 @@ The March birthstones are aquamarine and bloodstone, the two stones the American
 | Colors | Very light to rich blue, often a little green | Deep green with red to orange spots |
 | Mohs hardness | 7.5 to 8 | 6.5 to 7 |
 | Look | Transparent, usually faceted | Opaque, usually a cabochon |
-| Usual treatment | Heated, assume it for any pure blue stone | None documented for bloodstone itself, though chalcedony is often dyed (IGS) |
+| Usual treatment | Heated, assume it for any pure blue stone | None documented for bloodstone itself, though chalcedony is often dyed |
 | Lab-grown | Exists, hydrothermal | None known |
 | Main source | Brazil | India |
 | Anniversary | 19th | None |
 
 ## What Is the March Birthstone?
 
-March has two, aquamarine and bloodstone. The [American Gem Society](https://www.americangemsociety.org/birthstones/) lists both, and GIA calls them "very different when it comes to appearance" ([GIA](https://www.gia.edu/birthstones/march-birthstones)). Older lists add a third name, jasper.
+March has two, aquamarine and bloodstone. The American Gem Society lists both, and they are very different in appearance. Older lists add a third name, jasper.
 
 | List | March stone | Source |
 |---|---|---|
@@ -84,15 +84,15 @@ March has two, aquamarine and bloodstone. The [American Gem Society](https://www
 
 ### Modern vs Traditional March Birthstones
 
-The 1912 story gets told three ways. The International Gem Society's [birthstone chart](https://www.gemsociety.org/article/birthstone-chart/) calls aquamarine the modern March stone and bloodstone the traditional one, and its [history page](https://www.gemsociety.org/article/history-of-birthstones/) says the modern list is the one set by the National Association of Jewelers. Geology.com says bloodstone "has served as the modern birthstone for the month of March since 1912" ([Geology.com](https://geology.com/gemstones/bloodstone/)). Kunz, who printed the list adopted at Kansas City in August 1912, shows bloodstone as the birthstone with aquamarine as the alternate (1913, page 319).
+The 1912 story gets told three ways. The International Gem Society's birthstone chart calls aquamarine the modern March stone and bloodstone the traditional one, and its history page says the modern list is the one set by the National Association of Jewelers. Geology.com says bloodstone "has served as the modern birthstone for the month of March since 1912." Kunz, who printed the list adopted at Kansas City in August 1912, shows bloodstone as the birthstone with aquamarine as the alternate (1913, page 319).
 
 So "traditional" usually means bloodstone, but which stone counts as the modern one depends on who you ask. Our table above keeps each version with its source.
 
-Aquamarine is the newcomer. On the old lists Kunz gathered, it was the October stone (page 315). The 1952 revision of the US list, by the Jewelry Industry Council of America, added stones to June, October, November and December, according to the IGS [history of birthstones](https://www.gemsociety.org/article/history-of-birthstones/). Today the AGS chart names aquamarine first. We found no reference source that dates when US lists began putting aquamarine ahead of bloodstone.
+Aquamarine is the newcomer. On the old lists Kunz gathered, it was the October stone (page 315). The 1952 revision of the US list, by the Jewelry Industry Council of America, added stones to June, October, November and December. Today the AGS chart names aquamarine first. We found no reference source that dates when US lists began putting aquamarine ahead of bloodstone.
 
 ### Why Does March Have Two Birthstones?
 
-GIA's birthstone exhibit says tradition is part of it, but "the more significant reason is that some gemstones are too rare and expensive, and others just aren't as popular" ([GIA](https://my.gia.edu/gia-museum-exhibit-birthstones)). March's pair covers both ends. As Geology.com puts it, people born in March "can select a faceted aquamarine or they can select a cabochon-cut bloodstone." Kunz would not have approved. In 1913 he wrote that "there should be no duplication or triplication of birth-stones for any given month" (pages 320 to 321).
+GIA's birthstone exhibit says tradition is part of it, but "the more significant reason is that some gemstones are too rare and expensive, and others just aren't as popular." March's pair covers both ends. People born in March can choose a faceted aquamarine or a cabochon-cut bloodstone. Kunz would not have approved. In 1913 he wrote that "there should be no duplication or triplication of birth-stones for any given month" (pages 320 to 321).
 
 ## Where the March Birthstone Comes From
 
@@ -104,35 +104,35 @@ In 1913 Kunz printed a rhyme for March babies, "Who on this world of ours her ey
 
 ## Aquamarine, the Blue March Birthstone
 
-**The Stone.** [Aquamarine](/stones/aquamarine/) is the greenish blue to blue variety of the mineral beryl, the same species as emerald ([GIA](https://www.gia.edu/aquamarine/gem-overview)). Pure beryl is colorless. Trace iron makes the color, with ferrous iron giving blue and ferric iron adding the yellow that turns it greenish ([Geology.com](https://geology.com/gemstones/aquamarine/)). The name combines the Latin *aqua*, water, and *marina*, the sea.
+**The Stone.** [Aquamarine](/stones/aquamarine/) is the greenish blue to blue variety of the mineral beryl, the same species as emerald. Pure beryl is colorless. Trace iron makes the color, with ferrous iron giving blue and ferric iron adding the yellow that turns it greenish. The name combines the Latin *aqua*, water, and *marina*, the sea.
 
-Most gem aquamarine grows in cavities in granite pegmatites as a body of magma finishes crystallizing (Geology.com). Brazil has led for over 100 years, and Madagascar has more than 50 producing localities ([International Gem Society](https://www.gemsociety.org/article/aquamarine-jewelry-and-gemstone-information/)). Crystals can be huge, and the Dom Pedro, a 10,363-carat carved obelisk at the Smithsonian, is the largest cut aquamarine (IGS).
+Most gem aquamarine grows in cavities in granite pegmatites as a body of magma finishes crystallizing. Brazil has led for over 100 years, and Madagascar has more than 50 producing localities. Crystals can be huge, and the Dom Pedro, a 10,363-carat carved obelisk at the Smithsonian, is the largest cut aquamarine.
 
 **The Story.** Most aquamarine lore is about the sea.
 
-- **Antiquity.** **Tradition.** The stone "was said to calm waves and keep sailors safe at sea" (GIA). Kunz describes a set of seven ancient sailors' amulets in which the third held a sea-green beryl, "evidently the aquamarine," that banished fear (1913, page 39).
-- **Pliny the Elder.** In his *Natural History*, Pliny ranked pure sea-green beryls as the best, ahead of the golden and sky-colored kinds (book 37, chapter 20, Bostock and Riley translation, [Perseus, Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D20)). His beryls cover the whole family, and aquamarine is read from the sea-green kind.
+- **Antiquity.** **Tradition.** The stone was said to calm waves and keep sailors safe at sea. Kunz describes a set of seven ancient sailors' amulets in which the third held a sea-green beryl, "evidently the aquamarine," that banished fear (1913, page 39).
+- **Pliny the Elder.** In his *Natural History*, Pliny ranked pure sea-green beryls as the best, ahead of the golden and sky-colored kinds (book 37, chapter 20). His beryls cover the whole family, and aquamarine is read from the sea-green kind.
 - **About 1220.** **Tradition.** Arnoldus Saxo wrote that beryl gave help against foes in battle or in litigation, made the wearer unconquerable yet amiable, quickened the intellect and cured laziness (Kunz, pages 59 to 60).
-- **Marriage.** **Tradition.** An old German translation of Thomas de Cantimpré says beryl "reawakens the love of married people" (pages 59 to 60). GIA says March's birthstone was thought to enhance the happiness of marriages, and it is the gem of the 19th anniversary.
+- **Marriage.** **Tradition.** An old German translation of Thomas de Cantimpré says beryl "reawakens the love of married people" (pages 59 to 60). March's birthstone was also thought to enhance the happiness of marriages, and it is the gem of the 19th anniversary.
 
 ## Bloodstone, the Traditional March Birthstone
 
-**The Stone.** [Bloodstone](/stones/bloodstone/) is a dark green variety of chalcedony, a cryptocrystalline quartz, "adorned with a spatter of bright red" (Geology.com). Tiny inclusions of chlorite, amphibole and pyroxene are thought to give the green, and the red spots are iron oxide, most likely hematite. It forms at shallow depths and low temperatures, from silica-rich groundwater in fractures and cavities. European authors, and works of the 18th century and earlier, sometimes call it heliotrope.
+**The Stone.** [Bloodstone](/stones/bloodstone/) is a dark green variety of chalcedony, a cryptocrystalline quartz, adorned with a spatter of bright red. Tiny inclusions of chlorite, amphibole and pyroxene are thought to give the green, and the red spots are iron oxide, most likely hematite. It forms at shallow depths and low temperatures, from silica-rich groundwater in fractures and cavities. European authors, and works of the 18th century and earlier, sometimes call it heliotrope.
 
-India is the largest producer today ([International Gem Society](https://www.gemsociety.org/article/bloodstone-value-price-jewelry-information/)). It has long been a man's stone, cut for signet rings and used to seal letters (Geology.com).
+India is the largest producer today. It has long been a man's stone, cut for signet rings and used to seal letters.
 
 **The Story.** Bloodstone's lore follows its red spots.
 
-- **Antiquity.** **Tradition.** The treatise of Damigeron said bloodstone could turn the sun blood-red and raise thunder and storms, and that it preserved the wearer's health and guarded him from deception (Kunz 1913, pages 60 to 61). GIA says it was believed to turn the sun red when placed in water.
+- **Antiquity.** **Tradition.** The treatise of Damigeron said bloodstone could turn the sun blood-red and raise thunder and storms, and that it preserved the wearer's health and guarded him from deception (Kunz 1913, pages 60 to 61). It was also believed to turn the sun red when placed in water.
 - **Middle Ages.** **Tradition.** Christian legend read the red spots as the blood of Christ (Kunz, page 267), and Kunz later called it the stone for Good Friday (1915, pages 285 to 286).
 - **16th century, Italy.** **Tradition.** When Giorgio Vasari was seized by a violent hemorrhage in a church at Arezzo, the painter Luca Signorelli slipped a bloodstone amulet between his shoulder blades (1913, page 390). The Franciscan friar Bernardino de Sahagún claimed that in 1576 he saved plague victims in Mexico by having them hold one (pages 390 to 391).
-- **Mars.** The International Gem Society says bloodstone came to symbolize bravery, perhaps through blood and the Roman god Mars, for whom March is named.
+- **Mars.** Bloodstone came to symbolize bravery, perhaps through blood and the Roman god Mars, for whom March is named.
 
 ## What March Birthstones Mean Today
 
-**Modern Association.** GIA's exhibit sums up aquamarine in a line, "It is believed to represent unity." The [International Gem Society](https://www.gemsociety.org/article/march-birthstone/) adds that it is credited with soothing tempers and calming conflict, and that many believe it strengthens marriages. In modern crystal guides, aquamarine sits on the throat chakra and stands for calm, courage and clear speech. In our rankings it is Widely Linked for anxiety, love, protection and confidence.
+**Modern Association.** Aquamarine is believed to represent unity. It is also credited with soothing tempers and calming conflict, and many believe it strengthens marriages. In modern crystal guides, aquamarine sits on the throat chakra and stands for calm, courage and clear speech. In our rankings it is Widely Linked for anxiety, love, protection and confidence.
 
-Bloodstone's guides lean on courage and grounding, with the root chakra named most often, and GIA notes that many treat it as a lucky charm. Our rankings rate it Widely Linked for protection and grounding. Both lines are easy to trace, a sea stone that calms and a war god's stone that steadies.
+Bloodstone's guides lean on courage and grounding, with the root chakra named most often, and many treat it as a lucky charm. Our rankings rate it Widely Linked for protection and grounding. Both lines are easy to trace, a sea stone that calms and a war god's stone that steadies.
 
 ### What Is the March Birthstone Color?
 
@@ -144,10 +144,10 @@ Some sites say aquamarine regulates hormones or the thyroid and bloodstone purif
 
 ## How to Choose a March Birthstone
 
-- **For a ring worn every day.** Bloodstone has no cleavage and a tough tenacity, and the IGS calls it suitable for any type of wear. Aquamarine resists scratching well, but it is brittle and can chip on impact, so pick a setting that guards it (Geology.com).
-- **For sparkle.** Aquamarine. Color drives the price. Faint blue is abundant and inexpensive, while rich blue is rare and costs far more (Geology.com).
-- **For a classic men's look.** Bloodstone in a signet ring or cufflinks (Geology.com).
-- **For a budget.** The IGS calls aquamarine relatively affordable, with paler, greener stones the cheapest. GIA judges its value by color, clarity, cut and size, and because the color is light, the cut matters, since well-cut gems show brilliance ([GIA](https://www.gia.edu/aquamarine/gem-overview)).
+- **For a ring worn every day.** Bloodstone has no cleavage and a tough tenacity, and it suits any type of wear. Aquamarine resists scratching well, but it is brittle and can chip on impact, so pick a setting that guards it.
+- **For sparkle.** Aquamarine. Color drives the price. Faint blue is abundant and inexpensive, while rich blue is rare and costs far more.
+- **For a classic men's look.** Bloodstone in a signet ring or cufflinks.
+- **For a budget.** Aquamarine is relatively affordable, with paler, greener stones the cheapest. Its value rests on color, clarity, cut and size, and because the color is light, the cut matters, since well-cut gems show brilliance.
 
 **Try This.** Sailors trusted aquamarine to calm the waves. Before a hard conversation, hold one for a slow breath out, then say your first sentence.
 
@@ -165,21 +165,21 @@ We use the same five labels on every stone.
 
 ### Real or Fake Aquamarine
 
-- **Natural, untreated.** Usually slightly greenish. The IGS says more buyers now appreciate slightly green, untreated stones.
-- **Natural, treated.** Heating to about 707 °F (375 °C) removes the green and leaves pure blue. It is very common and cannot be detected, so the IGS says graders should call any pure blue aquamarine "probably heat treated." Geology.com adds that the result is thought to be permanent.
-- **Lab-grown.** Hydrothermal synthetic aquamarine has been made in Russia since at least the 1980s and in the Czech Republic since the early 2000s, some colored with cobalt, copper or nickel, never found in natural stones (Geology.com). It is rarely sold under its own name, so it may be uncommon or simply undisclosed (Geology.com). Gem labs can tell (IGS).
-- **Imitation.** "White aquamarine" is most likely colorless beryl, called goshenite (IGS). GIA says glass is used to imitate aquamarine, though it is less brilliant, and that synthetic spinel can mimic it too and is a common choice for imitation birthstone jewelry ([GIA](https://www.gia.edu/gem-imitation)).
-- **Trade name.** "Brazilian" and "Madagascar" may describe a color, not an origin, and "Brazilian aquamarine" is also a misnomer for bluish green topaz. "Santa Maria" names a saturated blue first found at the Santa Maria de Itabira mine. Maxixe is irradiated dark blue beryl that fades (IGS).
+- **Natural, untreated.** Usually slightly greenish. More buyers now appreciate slightly green, untreated stones.
+- **Natural, treated.** Heating to about 707 °F (375 °C) removes the green and leaves pure blue. It is very common and cannot be detected, so graders should call any pure blue aquamarine "probably heat treated." The result is thought to be permanent.
+- **Lab-grown.** Hydrothermal synthetic aquamarine has been made in Russia since at least the 1980s and in the Czech Republic since the early 2000s, some colored with cobalt, copper or nickel, never found in natural stones. It is rarely sold under its own name, so it may be uncommon or simply undisclosed. Gem labs can tell.
+- **Imitation.** "White aquamarine" is most likely colorless beryl, called goshenite. Glass is used to imitate aquamarine, though it is less brilliant, and synthetic spinel can mimic it too and is a common choice for imitation birthstone jewelry.
+- **Trade name.** "Brazilian" and "Madagascar" may describe a color, not an origin, and "Brazilian aquamarine" is also a misnomer for bluish green topaz. "Santa Maria" names a saturated blue first found at the Santa Maria de Itabira mine. Maxixe is irradiated dark blue beryl that fades.
 
-Under a loupe, long hollow tubes point to beryl, though not to natural origin (IGS). Through a dichroscope, natural aquamarine looks near colorless in one direction and stronger blue in another, while maxixe stays blue in both windows (GIA, IGS).
+Under a loupe, long hollow tubes point to beryl, though not to natural origin. Through a dichroscope, natural aquamarine looks near colorless in one direction and stronger blue in another, while maxixe stays blue in both windows.
 
 ### Real or Fake Bloodstone
 
-- **Natural, untreated.** Dark green chalcedony, usually but not always with red or orange spots (IGS).
-- **Natural, treated.** We found no reference source on dyed or treated bloodstone in particular. The IGS says dyeing is an ancient and common practice for chalcedony in general and should be disclosed, so ask ([IGS](https://www.gemsociety.org/article/Chalcedony/)).
-- **Lab-grown.** "No synthetic bloodstones are known" (IGS).
-- **Imitation.** Glass, such as the green "maple stone" with red "flowers" made by the Japanese firm Iimori. Under a microscope its flowers look nothing like bloodstone spots (IGS).
-- **Trade name.** Hematite is sometimes called "bloodstone," and opaque red or red-spotted stones sold as bloodstone are not true bloodstone (IGS). Chicken-blood stone is a different material, rated Avoid for toxicity in our Care Checker because it contains mercury. When colors other than red dominate, the stone is usually called fancy jasper (Geology.com).
+- **Natural, untreated.** Dark green chalcedony, usually but not always with red or orange spots.
+- **Natural, treated.** We found no reference source on dyed or treated bloodstone in particular. Dyeing is an ancient and common practice for chalcedony in general and should be disclosed, so ask.
+- **Lab-grown.** No synthetic bloodstones are known.
+- **Imitation.** Glass, such as the green "maple stone" with red "flowers" made by the Japanese firm Iimori. Under a microscope its flowers look nothing like bloodstone spots.
+- **Trade name.** Hematite is sometimes called "bloodstone," and opaque red or red-spotted stones sold as bloodstone are not true bloodstone. Chicken-blood stone is a different material, rated Avoid for toxicity in our Care Checker because it contains mercury. When colors other than red dominate, the stone is usually called fancy jasper.
 
 Three questions for any seller. What is the mineral name? Has it been heated or treated? Is there a lab report, and from which lab?
 
@@ -199,7 +199,7 @@ These ratings come from the same data as our [Care Checker](/tools/crystal-care-
 | Knocks and scratches | OK. Resists scratching, but brittle | OK. No cleavage, tough |
 | Toxicity | Unknown | Unknown |
 
-GIA's March page says ultrasonic and steam cleaning are usually safe for aquamarine without fractures or liquid inclusions, but the IGS warns that inclusions can react badly, so our data keeps machines at Brief only. GIA also advises keeping bloodstone away from harsh chemicals and very hot temperatures, drying it with a soft cloth and storing it in soft fabric, cautions our care data does not cover yet.
+GIA's March page says ultrasonic and steam cleaning are usually safe for aquamarine without fractures or liquid inclusions, but the IGS warns that inclusions can react badly, so our data keeps machines at Brief only. Bloodstone is best kept away from harsh chemicals and very hot temperatures, dried with a soft cloth and stored in soft fabric, cautions our care data does not cover yet.
 
 **Where the beliefs and the care data disagree.** Some crystal guides leave aquamarine in water for hours, in the rain, in salt water or in the sun, and some cleanse bloodstone in running water or morning sun. Our data allows a wash for aquamarine but keeps soaks brief, and it has no rating yet for salt, sun or any water for bloodstone. So skip the long soak, the salt bowl and the sunny sill. Moonlight or sound keeps both stones dry, as long as you bring them in before the morning sun.
 
@@ -215,4 +215,4 @@ GIA's March page says ultrasonic and steam cleaning are usually safe for aquamar
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

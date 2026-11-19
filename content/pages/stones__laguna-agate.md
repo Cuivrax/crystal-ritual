@@ -48,7 +48,7 @@ Laguna agate is a banded agate from the Ojo Laguna area of northern Chihuahua, M
 | Formula | SiO₂ |
 | Mohs hardness | About 7 |
 | Colors | Reds, oranges, yellows, pinks and purples with white and gray bands, according to a dealer's guide |
-| Color cause | Traces of metal oxides such as iron and manganese (IGS) |
+| Color cause | Traces of metal oxides such as iron and manganese |
 | Where it comes from | East of Estación Ojo Laguna, Sierra El Oso, Chihuahua, Mexico |
 | Host rock | Volcanic rock, in nodules |
 | Water | Unknown (a damp cloth is fine) |
@@ -65,23 +65,23 @@ Laguna agate is a banded agate from the Ojo Laguna area of northern Chihuahua, M
 
 ## What Laguna Agate Actually Is
 
-**The Stone.** Laguna agate is agate, a variety of chalcedony, the cryptocrystalline form of quartz ([International Gem Society](https://www.gemsociety.org/article/agate-gem-information/)). [Minerals.net](https://www.minerals.net/mineral/agate/laguna-agate) calls it a "well known form of colorful Agate with very dense banding from Ojo Laguna, Chihuahua, Mexico." Like other agate it rates 7 on the Mohs scale and takes an exceptional polish ([Geology.com](https://geology.com/gemstones/agate/), IGS). For the full background on the stone family, see the [agate page](/stones/agate/).
+**The Stone.** Laguna agate is agate, a variety of chalcedony, the cryptocrystalline form of quartz. Minerals.net calls it a "well known form of colorful Agate with very dense banding from Ojo Laguna, Chihuahua, Mexico." Like other agate it rates 7 on the Mohs scale and takes an exceptional polish. For the full background on the stone family, see the [agate page](/stones/agate/).
 
 ### Where Laguna Agate Comes From
 
-The deposit sits in the Sierra El Oso, "immediately east of Estación Ojo Laguna," about 170 miles south of El Paso, Texas, according to a survey of northern Chihuahua agates by Brad L. Cross for the 2019 New Mexico Mineral Symposium ([New Mexico Bureau of Geology](https://geoinfo.nmt.edu/museum/nmms/abstracts/view.cfm?aid=556)). Cross lists Laguna with Coyamito, Agua Nueva and "coconut" geodes among the region's more popular agates, and places the Coyamito deposits about 30 miles north of Laguna.
+The deposit sits in the Sierra El Oso, "immediately east of Estación Ojo Laguna," about 170 miles south of El Paso, Texas, according to a survey of northern Chihuahua agates by Brad L. Cross for the 2019 New Mexico Mineral Symposium. Laguna ranks with Coyamito, Agua Nueva and "coconut" geodes among the region's more popular agates, and the Coyamito deposits lie about 30 miles north of Laguna.
 
-Mining has changed with time. Cross writes that quality material "could be easily collected from the land surface in the 1940's and 1950's," and that hard rock mining was initiated afterward. A collectors' guide from the agate dealer Earth Wonders describes the classic finds of the 1970s to 1990s and a few new pockets in recent years, with miners moving tons of rhyolite to free a single intact nodule. Treat that guide as a seller's view.
+Mining has changed with time. Cross writes that quality material "could be easily collected from the land surface in the 1940's and 1950's," and that hard rock mining was initiated afterward. A collectors' guide from one agate dealer describes the classic finds of the 1970s to 1990s and a few new pockets in recent years, with miners moving tons of rhyolite to free a single intact nodule. Treat that guide as a seller's view.
 
 ### How Laguna Agate Forms
 
-Agate generally forms when groundwater carrying silica seeps into cavities in igneous rock and leaves it behind in layers, either along the cavity walls or in flat layers from the bottom up (Geology.com). Cross says most northern Chihuahua agates sit in Tertiary-age andesites, rhyolites and ash flow tuffs. The dealer's guide is more specific, putting Laguna in rhyolite flows about 38 million years old, in cavities left by escaping gas.
+Agate generally forms when groundwater carrying silica seeps into cavities in igneous rock and leaves it behind in layers, either along the cavity walls or in flat layers from the bottom up. Most northern Chihuahua agates sit in Tertiary-age andesites, rhyolites and ash flow tuffs. The dealer's guide is more specific, putting Laguna in rhyolite flows about 38 million years old, in cavities left by escaping gas.
 
 Collectors call layers that follow the cavity walls fortification banding, since the nested bands look like the walls of a fort. Cross recognizes Laguna by its "colorful, distinct, ornate, fluted, and holly leaf-like fortifications."
 
 ### What Gives Laguna Agate Its Colors
 
-Agate's colors come from traces of iron, manganese, titanium, chromium and nickel oxides (IGS), and the bands record changes in the water's chemistry as each layer formed (Geology.com). For Laguna, the dealer's guide credits iron oxides with the reds, yellows and oranges and manganese with the pinks and purples, and says each pocket has its own palette.
+Agate's colors come from traces of iron, manganese, titanium, chromium and nickel oxides, and the bands record changes in the water's chemistry as each layer formed. For Laguna, the dealer's guide credits iron oxides with the reds, yellows and oranges and manganese with the pinks and purples, and says each pocket has its own palette.
 
 <!-- PHOTO 2, beside "What Gives Laguna Agate Its Colors". Smithsonian NMNH, "Quartz (var. agate)", Laguna Ranch, Chihuahua, Mexico. Image https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3babdebd1d0ad4082bb1f17bc3d308d39 . Record http://n2t.net/ark:/65665/313c5d6ce-bc8f-4014-9aea-105585ec3caf . License CC0 (Smithsonian Open Access), https://www.si.edu/openaccess . Credit line "Smithsonian National Museum of Natural History, CC0". visual_check ok, visual_use hero in images_candidates.csv ("museum agate slice with red, orange and yellow bands, dark backdrop"). It is also the hero of the agate page, so use it here only as a secondary photo, or swap in "File Laguna Agate (Chihuahua, Mexico) 6 (32405066430).jpg" (James St. John, CC BY 2.0, visual_check ok, grey and lilac slab). Alt text "Polished agate slice from Laguna Ranch, Chihuahua, Mexico, with red, orange and yellow bands, Smithsonian collection". -->
 
@@ -89,12 +89,12 @@ Agate's colors come from traces of iron, manganese, titanium, chromium and nicke
 
 **The Story.** Laguna agate has no lore of its own. Collecting it is a 20th-century story, and even a crystal shop's guide says it "does not have a distinct ancient tradition." What it inherits is agate's long paper trail.
 
-- **Roman times.** **Tradition.** Pliny the Elder sums up achates, the ancient name for banded chalcedony and so for agate, with a shrug. "Achates was a stone formerly in high esteem, but now held in none." He says it was first found in Sicily near a river of that name, lists many named varieties, and repeats remedies for scorpion and spider bites and the claims of the magicians without vouching for them (*Natural History*, Book 37, [chapter 54](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D54), Bostock and Riley translation, Perseus Digital Library, Tufts University). Some of his sub-varieties mix in jasper and coral, so not every ancient "achates" is a modern agate.
+- **Roman times.** **Tradition.** Pliny the Elder sums up achates, the ancient name for banded chalcedony and so for agate, with a shrug. "Achates was a stone formerly in high esteem, but now held in none." He says it was first found in Sicily near a river of that name, lists many named varieties, and repeats remedies for scorpion and spider bites and the claims of the magicians without vouching for them (*Natural History*, Book 37, chapter 54). Some of his sub-varieties mix in jasper and coral, so not every ancient "achates" is a modern agate.
 - **Ancient seafaring.** **Tradition.** One of seven sailors' amulets that George Frederick Kunz describes held a stone "girdled with stripes like the body of a snake," most probably banded agate, and its wearer "had no need to fear the surging ocean" (*The Curious Lore of Precious Stones*, 1913, page 39).
 - **11th century.** **Tradition.** Marbodus, Bishop of Rennes, wrote that agates make their wearers "agreeable and persuasive," and Camillo Leonardo added that they give victory and strength and avert tempests and lightning (Kunz 1913, page 51).
 - **16th century.** **Tradition.** Agate was believed to cure insomnia and bring pleasant dreams. Girolamo Cardano wore one, met many misfortunes and gave it up (Kunz 1913, page 52).
-- **Mid-1800s, Germany.** **Tradition.** Cutters at Idar and Oberstein were kept busy making eye-agate amulets against the Evil Eye for the Sudan trade (Kunz 1913, page 54). The same towns developed the celebrated 19th-century method of dyeing agate, using gray stones shipped from South America (IGS).
-- **1940s to today, Chihuahua.** Laguna is picked up from the surface, then mined from hard rock (Cross).
+- **Mid-1800s, Germany.** **Tradition.** Cutters at Idar and Oberstein were kept busy making eye-agate amulets against the Evil Eye for the Sudan trade (Kunz 1913, page 54). The same towns developed the celebrated 19th-century method of dyeing agate, using gray stones shipped from South America.
+- **1940s to today, Chihuahua.** Laguna is picked up from the surface, then mined from hard rock.
 - **Today.** **Modern Association.** One large crystal encyclopedia builds its Laguna entry from general agate lore and modern crystal books, including Judy Hall's *The Crystal Bible* (2003) and Robert Simmons and Naisha Ahsian's *The Book of Stones* (2005). It also pairs the stone with goddesses from several cultures, a modern pairing with no traditional source behind it.
 
 ## What People Use Laguna Agate for Today
@@ -107,7 +107,7 @@ The protection theme has the deepest roots, since it is agate's oldest thread, f
 
 ### What Does Laguna Agate Do?
 
-As a mineral, it is a hard agate that takes a high polish, known for colorful, very dense banding (Minerals.net). Everything else is belief about the person holding it.
+As a mineral, it is a hard agate that takes a high polish, known for colorful, very dense banding. Everything else is belief about the person holding it.
 
 Some guides go much further and list digestion, vitamin absorption, circulation, fever, epilepsy and depression. Those are health claims with no mineral basis, and the encyclopedia that lists most of them notes that its information is no substitute for consulting a health care professional.
 
@@ -142,14 +142,14 @@ Some guides go much further and list digestion, vitamin absorption, circulation,
 We use the same five labels on every stone.
 
 - **Natural, untreated.** Laguna's reputation rests on its natural color, so a stone sold as Laguna should be untreated. It is fair to ask the seller to say so.
-- **Natural, treated.** Dyeing agate is ancient, common and usually stable, and should be disclosed (IGS). Agate is porous and readily accepts dye, and most of the spectacularly colored agates sold in the trade have been dyed (Geology.com).
+- **Natural, treated.** Dyeing agate is ancient, common and usually stable, and should be disclosed. Agate is porous and readily accepts dye, and most of the spectacularly colored agates sold in the trade have been dyed.
 - **Lab-grown.** We found no reference source on lab-grown agate sold as Laguna.
 - **Imitation.** We found no reference source listing imitations of Laguna agate. The realistic risk is another agate, dyed or from another deposit, sold under the famous name.
 - **Trade names.** "Laguna lace agate" appears on bead and cabochon listings, sometimes described in pink, purple and blue. Cross describes Laguna by its fortifications, not by lace, so a blue "Laguna lace" bead deserves a question.
 
 Three checks you can do at home, with their limits.
 
-1. **Read the pattern.** True Laguna shows very dense banding (Minerals.net) in ornate, fluted fortifications (Cross). The limit is that Coyamito and other Chihuahua nodules are fortification agates too, so the pattern points to the region more than to the deposit.
+1. **Read the pattern.** True Laguna shows very dense banding in ornate, fluted fortifications. The limit is that Coyamito and other Chihuahua nodules are fortification agates too, so the pattern points to the region more than to the deposit.
 2. **Judge the color honestly.** Neon blue, hot pink and electric purple point to dye. Laguna's natural pinks and purples are vivid too, though, so color alone cannot settle it.
 3. **Look at the outside.** A whole or half nodule with its natural rind, which the dealer's guide calls the husk, at least shows a real nodule. Slabs, cabochons and beads have no husk, and a husk says nothing about where the stone was dug.
 
@@ -157,7 +157,7 @@ Ask the seller where the stone was mined, whether the color was dyed, and how th
 
 ## How to Care for Laguna Agate
 
-**Mineral Fact.** Agate has remarkable durability and is tough enough for most jewelry (IGS). A dealer's guide calls Lagunas hard and stable, Mohs 7, needing little care.
+**Mineral Fact.** Agate has remarkable durability and is tough enough for most jewelry. A dealer's guide calls Lagunas hard and stable, Mohs 7, needing little care.
 
 - **Water.** Unknown. No reference source covers rinsing or soaking Laguna yet.
 - **Cleaning.** OK. Occasionally, with a soft dry or slightly damp cloth.
@@ -166,7 +166,7 @@ Ask the seller where the stone was mined, whether the color was dyed, and how th
 - **Chemicals.** Unknown.
 - **Salt.** Unknown.
 - **Storage.** OK. Hard and durable.
-- **Toxicity.** OK to wear and handle. The IGS [toxicity table](https://www.gemsociety.org/article/gemstone-care-guide/) rates agate as low risk, and its hazard, silicosis, comes from cutting dust, not from a finished stone.
+- **Toxicity.** OK to wear and handle. Agate is rated low risk, and its hazard, silicosis, comes from cutting dust, not from a finished stone.
 
 ### Can Laguna Agate Go in Water or Sun?
 
@@ -176,15 +176,15 @@ For sun, our care data says Brief only. One seller also advises keeping it out o
 
 ## Laguna Agate vs Look-Alikes
 
-- **Coyamito agate.** Another prized Chihuahua fortification agate, from deposits about 30 miles north of Laguna (Cross). Close cousins, and easy to mix up.
-- **Crazy lace agate.** Also from Chihuahua, but a vein agate with twisting lacy bands, mined from limestone rather than volcanic rock (Cross). See [crazy lace agate](/stones/crazy-lace-agate/).
-- **Agua Nueva agate.** A colorful agate and popular gem material found near Chihuahua (Geology.com).
-- **Fire agate.** Mexican too, but iridescent, from plates of limonite (IGS). See [fire agate](/stones/fire-agate/).
+- **Coyamito agate.** Another prized Chihuahua fortification agate, from deposits about 30 miles north of Laguna. Close cousins, and easy to mix up.
+- **Crazy lace agate.** Also from Chihuahua, but a vein agate with twisting lacy bands, mined from limestone rather than volcanic rock. See [crazy lace agate](/stones/crazy-lace-agate/).
+- **Agua Nueva agate.** A colorful agate and popular gem material found near Chihuahua.
+- **Fire agate.** Mexican too, but iridescent, from plates of limonite. See [fire agate](/stones/fire-agate/).
 - **Jasper.** Opaque, while agate lets some light through a thin edge. See [agate vs jasper](/compare/agate-vs-jasper/).
 
 ## Price Guide
 
-The IGS calls agate's value generally quite modest, with labor and artistry counting for more than the raw stone. Larger agates with distinctive, fine patterns command premium prices, and custom-cut stones or stones from prized locations are substantially more expensive (IGS). Laguna is a famous locality, which is exactly why its name gets borrowed. The dealer's guide says collectors judge specimens by color concentration, completeness and structure, and that a full natural husk is part of top grade. In plain terms, a small tumbled stone or bead costs far less than a large, vivid, intact nodule with a documented locality. Ask the seller where the stone was dug and whether it was dyed before you compare two prices.
+Agate's value is generally quite modest, with labor and artistry counting for more than the raw stone. Larger agates with distinctive, fine patterns command premium prices, and custom-cut stones or stones from prized locations are substantially more expensive. Laguna is a famous locality, which is exactly why its name gets borrowed. The dealer's guide says collectors judge specimens by color concentration, completeness and structure, and that a full natural husk is part of top grade. In plain terms, a small tumbled stone or bead costs far less than a large, vivid, intact nodule with a documented locality. Ask the seller where the stone was dug and whether it was dyed before you compare two prices.
 
 **Next Step.** Choosing a protective stone? Compare Laguna with the usual picks in [crystals for protection](/crystals-for/protection/).
 
@@ -205,4 +205,4 @@ The IGS calls agate's value generally quite modest, with labor and artistry coun
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

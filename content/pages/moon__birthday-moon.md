@@ -45,15 +45,15 @@ The math runs in your browser, with no account and nothing to install. It follow
 
 Three details explain most surprises.
 
-- **Your time zone sets the date.** The US Naval Observatory defines the main phases as instants that happen at the same moment for everyone on Earth ([USNO](https://aa.usno.navy.mil/faq/moon_phases)). The calendar date of that instant depends on where you are, and the tool uses the time zone of your device. The Cold Moon of 2026 comes on the evening of December 23 in New York and on December 24 in Tokyo, so a December 23 birthday reads Full Moon in New York and Waxing Gibbous in Tokyo. Born far from where you live now? Check the day before and the day after too.
-- **A phase name covers the whole day.** Like a printed calendar, the tool gives the day of a main phase that phase's name, and every other day the in-between name. The moon can look full for several nights in a row, the Naval Observatory notes, so a birthday next to the full moon still had a nearly round moon.
+- **Your time zone sets the date.** The main phases are instants that happen at the same moment for everyone on Earth. The calendar date of that instant depends on where you are, and the tool uses the time zone of your device. The Cold Moon of 2026 comes on the evening of December 23 in New York and on December 24 in Tokyo, so a December 23 birthday reads Full Moon in New York and Waxing Gibbous in Tokyo. Born far from where you live now? Check the day before and the day after too.
+- **A phase name covers the whole day.** Like a printed calendar, the tool gives the day of a main phase that phase's name, and every other day the in-between name. The moon can look full for several nights in a row, so a birthday next to the full moon still had a nearly round moon.
 - **The drawing follows your hemisphere.** The lit side is drawn as it looks from the Northern Hemisphere, a waxing moon lit on the right, and turned around when your time zone is in the Southern Hemisphere. The tool reads this from the time zone, not from your location.
 
 **Try This.** The Save as image button makes a 1000 by 1500 pixel picture of your birth moon with its phase, the date and the share lit. It fits a Pinterest board or the inside of a birthday card.
 
 ## The Eight Moon Phases, Explained
 
-One full cycle of phases, called a lunation, takes 29.5 days on average ([USNO](https://aa.usno.navy.mil/faq/moon_phases)). The four main phases are moments. The four others are the stretches between them, waxing when the lit part grows and waning when it shrinks.
+One full cycle of phases, called a lunation, takes 29.5 days on average. The four main phases are moments. The four others are the stretches between them, waxing when the lit part grows and waning when it shrinks.
 
 | Phase | What you see | Share lit |
 |---|---|---|
@@ -87,7 +87,7 @@ A second full moon in the same month is a Blue Moon, as on May 31, 2026. Reading
 
 <!-- PHOTO, beside this section. Smithsonian NMNH, "Albite (var. moonstone)", Amelia Co., Virginia, United States. Record http://n2t.net/ark:/65665/3b20c30b9-5238-4533-bf1b-16308b71c630 . Image https://ids.si.edu/ids/deliveryService/id/ark:/65665/m368b86f170f4f43729f69c8a5d0505fc7 . License CC0 (Smithsonian Open Access), https://www.si.edu/openaccess . Credit line "Smithsonian National Museum of Natural History, CC0". visual_check ok, visual_use hero. Alt text "Oval moonstone cabochon with a blue sheen on a black background". -->
 
-**Mineral Fact.** Moonstone earned its name honestly. It is a feldspar, and its soft glow that seems to float under the surface, called adularescence, comes from light scattering between thin layers inside the stone ([GIA](https://www.gia.edu/moonstone/gem-overview)).
+**Mineral Fact.** Moonstone earned its name honestly. It is a feldspar, and its soft glow that seems to float under the surface, called adularescence, comes from light scattering between thin layers inside the stone.
 
 **Tradition.** Long before phone apps, European writers tied a handful of stones to the moon. George Frederick Kunz collected the stories in 1913 and 1915.
 
@@ -98,7 +98,7 @@ A second full moon in the same month is a Blue Moon, as on May 31, 2026. Reading
 
 **Modern Association.** Today's crystal guides pair stones with phases rather than days. Moonstone is the stone modern guides pair most often with both the new moon and the full moon, along with its trade cousins peach, black and [rainbow moonstone](/stones/rainbow-moonstone/) (the last one is really a labradorite). For the full moon, obsidian, strawberry quartz and citrine come up too. For the waxing and waning moon, the guides agree on no stone, so the tool shows none rather than invent a list.
 
-**Safety.** Our care data has no moonlight warning for these stones, but the morning sun is another matter. GIA says some citrine can fade with prolonged exposure to intense light ([GIA](https://www.gia.edu/citrine/gem-overview)), so bring a full-moon citrine in before the sun reaches the sill. Selenite is a form of gypsum, which is water soluble ([International Gem Society](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/)), so keep it off damp porches. Not sure about your stone? Run it through the [Care Checker](/tools/crystal-care-checker/).
+**Safety.** Our care data has no moonlight warning for these stones, but the morning sun is another matter. Some citrine can fade with prolonged exposure to intense light, so bring a full-moon citrine in before the sun reaches the sill. Selenite is a form of gypsum, which is water soluble, so keep it off damp porches. Not sure about your stone? Run it through the [Care Checker](/tools/crystal-care-checker/).
 
 ## A Five-Minute Birthday Moon Ritual
 
@@ -125,4 +125,4 @@ It is a personal practice, not a proven effect. What it gives you for sure is a 
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

@@ -63,7 +63,7 @@ Adamite is a zinc arsenate mineral, Zn₂(AsO₄)(OH), prized by collectors for 
 | Heat | Unknown |
 | Salt | Unknown |
 | Chemicals | Avoid. Soluble in acids |
-| Toxic to handle | Avoid. Rated High risk (arsenic, copper) by the International Gem Society |
+| Toxic to handle | Avoid. Rated High risk (arsenic, copper) |
 | Treatments | None known |
 | Common fakes | None documented. Look-alikes include olivenite and smithsonite |
 | Price range | Compare form, clarity, color and mine, see the Price Guide |
@@ -74,62 +74,62 @@ Adamite is a zinc arsenate mineral, Zn₂(AsO₄)(OH), prized by collectors for 
 
 ## What Adamite Actually Is
 
-**The Stone.** Adamite is a zinc arsenate hydroxide. The *Handbook of Mineralogy* ([adamite entry](https://www.handbookofmineralogy.org/pdfs/adamite.pdf)) describes it as a secondary mineral in the oxidized zone of zinc- and arsenic-bearing hydrothermal deposits, found with smithsonite, hemimorphite, scorodite, olivenite, calcite and quartz.
+**The Stone.** Adamite is a zinc arsenate hydroxide, a secondary mineral in the oxidized zone of zinc- and arsenic-bearing hydrothermal deposits, found with smithsonite, hemimorphite, scorodite, olivenite, calcite and quartz.
 
-In plain terms, adamite forms after the original ore weathers. It is a secondary mineral, not one that crystallized with the ore itself. Minerals.net calls it a minor ore of zinc and a fine specimen mineral in demand by collectors.
+In plain terms, adamite forms after the original ore weathers. It is a secondary mineral, not one that crystallized with the ore itself. It is a minor ore of zinc and a fine specimen mineral in demand by collectors.
 
-It is also one end of a mineral series. Adamite is the zinc member and olivenite the copper member, according to the [International Gem Society](https://www.gemsociety.org/article/adamite-jewelry-gem-listings/). In cuproadamite, copper replaces some of the zinc, and a mineral halfway between the two, zincolivenite, was approved by the IMA in 2006 ([Minerals.net](https://www.minerals.net/mineral/adamite)).
+It is also one end of a mineral series. Adamite is the zinc member and olivenite the copper member. In cuproadamite, copper replaces some of the zinc, and a mineral halfway between the two, zincolivenite, was approved by the IMA in 2006.
 
 ### Adamite Definition & Pronunciation
 
-[Merriam-Webster](https://www.merriam-webster.com/dictionary/adamite) defines adamite as "a mineral ... consisting of a basic zinc arsenate," pronounced ADD-uh-mite, with a first known use in 1866. The name honors Gilbert-Joseph Adam (1795 to 1881), the French mineralogist who supplied the first specimens (*Handbook of Mineralogy*).
+Merriam-Webster defines adamite as "a mineral ... consisting of a basic zinc arsenate," pronounced ADD-uh-mite, with a first known use in 1866. The name honors Gilbert-Joseph Adam (1795 to 1881), the French mineralogist who supplied the first specimens.
 
-The same spelling with a capital A is a different word. An Adamite is a descendant of Adam, a human being, or a member of ascetic sects known for ritual nakedness, a use Merriam-Webster dates to 1542. If you searched for the word itself, both senses count.
+The same spelling with a capital A is a different word. An Adamite is a descendant of Adam, a human being, or a member of ascetic sects known for ritual nakedness, a use that dates to 1542. If you searched for the word itself, both senses count.
 
 ### What Color Is Adamite?
 
-Adamite's colors come from impurities. The International Gem Society lists iron for yellow, copper for green, cobalt for rose to violet, and manganese for purple, pink and lavender.
+Adamite's colors come from impurities. Iron gives yellow, copper green, cobalt rose to violet, and manganese purple, pink and lavender.
 
-- **Yellow and honey.** From iron, and the first colors the *Handbook of Mineralogy* lists.
-- **Lime to bright green.** Copper-bearing stones, called cuprian adamite or cuproadamite. Copper-rich pieces from Laurium, Greece, show "lovely blue and green shades" (International Gem Society).
-- **Purple and pink.** Purple adamite usually means cobalt or manganese. Tsumeb in Namibia produces crystals sometimes colored purple by cobalt (International Gem Society), and Minerals.net lists the cobalt variety as cobaltoadamite. Manganese-bearing adamite from the Ojuela Mine can be purple, pink or lavender.
+- **Yellow and honey.** From iron, and the colors mineral references list first.
+- **Lime to bright green.** Copper-bearing stones, called cuprian adamite or cuproadamite. Copper-rich pieces from Laurium, Greece, show lovely blue and green shades.
+- **Purple and pink.** Purple adamite usually means cobalt or manganese. Tsumeb in Namibia produces crystals sometimes colored purple by cobalt, and the cobalt variety is known as cobaltoadamite. Manganese-bearing adamite from the Ojuela Mine can be purple, pink or lavender.
 
 ### Adamite Crystals & Where They Grow
 
-Adamite crystals are usually elongated, up to about 3 inches (8 cm), and they gather in radiating clusters, fan-like rosettes or crystal crusts (*Handbook of Mineralogy*). Minerals.net adds short stubby clusters, needles and globular masses. The International Gem Society shows a plate of "pinwheel" crystals.
+Adamite crystals are usually elongated, up to about 3 inches (8 cm), and they gather in radiating clusters, fan-like rosettes or crystal crusts. Adamite also forms short stubby clusters, needles and globular masses, and some plates show "pinwheel" crystals.
 
-The most famous locality is the Ojuela Mine in Mapimí, Durango, Mexico, which Minerals.net calls "without doubt" the most magnificent, with large, highly fluorescent crystals in many colors. Those crystals sit on limonite, a rusty, crumbly brown iron oxide that stains the hands (Minerals.net). Other notable sources include Tsumeb, Laurium, Cap Garonne in France, and Gold Hill in Utah, the best US locality (Minerals.net).
+The most famous locality, and the most magnificent, is the Ojuela Mine in Mapimí, Durango, Mexico, with large, highly fluorescent crystals in many colors. Those crystals sit on limonite, a rusty, crumbly brown iron oxide that stains the hands. Other notable sources include Tsumeb, Laurium, Cap Garonne in France, and Gold Hill in Utah, the best US locality.
 
 <!-- PHOTO 2, beside "Adamite Crystals & Where They Grow". Wikimedia Commons, "File Austinite, adamite and limonite (GeoDIL number - 1845).jpg", by Nessa Eull. Page https://commons.wikimedia.org/wiki/File:Austinite,_adamite_and_limonite_(GeoDIL_number_-_1845).jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Austinite%2C_adamite_and_limonite_%28GeoDIL_number_-_1845%29.jpg/1280px-Austinite%2C_adamite_and_limonite_%28GeoDIL_number_-_1845%29.jpg (tracking parameters removed). License CC0. Credit line "Photo Nessa Eull, CC0, via Wikimedia Commons". Visual verdict ok in image_picks_new_stones.json (pass 1, "pale yellow-green crystal sprays on dark brown matrix"). The file shows austinite with the adamite, so the alt text names both. Alt text "Pale yellow-green sprays of austinite and adamite crystals on dark brown limonite". -->
 
 ### Why Collectors Want It
 
-Color and glow. Minerals.net calls adamite a fine specimen mineral in demand for its pretty crystals, and names its fluorescence among its striking features. Under shortwave or longwave ultraviolet light it can glow an intense green, and sometimes lemon yellow under shortwave (International Gem Society). The *Handbook of Mineralogy* adds that it may phosphoresce, a glow that lingers for a moment after the lamp goes off.
+Color and glow. Adamite is a fine specimen mineral in demand for its pretty crystals, and its fluorescence is among its striking features. Under shortwave or longwave ultraviolet light it can glow an intense green, and sometimes lemon yellow under shortwave. It may also phosphoresce, a glow that lingers for a moment after the lamp goes off.
 
 ### Is Adamite a Gemstone?
 
-Rarely, and only for collectors. At 3.5 on the Mohs scale with good cleavage, adamite makes "less than optimal" jewelry and turns up far more often as a crystal specimen, says the International Gem Society, which advises protective settings for any jewelry use. Faceted stones are small, about 1 to 3 carats from green material, and it lists a 4.38 ct pink stone from Mexico in a private collection. When a parcel of rare gems reached GIA's Carlsbad laboratory in 2016, a 0.87 ct green adamite was among six gem types the lab had never examined there before ([Gems & Gemology, Spring 2016](https://www.gia.edu/gems-gemology/spring-2016-labnotes-unusual-colored-stones)).
+Rarely, and only for collectors. At 3.5 on the Mohs scale with good cleavage, adamite makes less than optimal jewelry and turns up far more often as a crystal specimen, and any jewelry use calls for protective settings. Faceted stones are small, about 1 to 3 carats from green material, and a 4.38 ct pink stone from Mexico is known in a private collection. When a parcel of rare gems reached GIA's Carlsbad laboratory in 2016, a 0.87 ct green adamite was among six gem types the lab had never examined there before, as its Spring 2016 lab notes record.
 
 ## Where the Meaning Comes From
 
 **The Story.** Adamite has no ancient lore, and the reason is simple. It was not described until 1866, too late for the old lapidaries. Its story is a collector's story, and its meanings are recent.
 
-- **1866.** **Mineral Fact.** Adamite is described and named for Gilbert-Joseph Adam, who supplied the first specimens (IMA List of Minerals, *Handbook of Mineralogy*). Chañarcillo, in Chile's Atacama region, is usually given as its type locality.
-- **1948, Mexico.** **Mineral Fact.** *American Mineralogist* publishes a study of adamite from the Ojuela Mine by Mrose, Mayers and Wise (cited in the *Handbook of Mineralogy*).
-- **2016, California.** **Mineral Fact.** GIA identifies a faceted adamite with standard tests, Raman spectroscopy and X-ray fluorescence, noting that its weak glow was atypical (*Gems & Gemology*).
+- **1866.** **Mineral Fact.** Adamite is described and named for Gilbert-Joseph Adam, who supplied the first specimens. Chañarcillo, in Chile's Atacama region, is usually given as its type locality.
+- **1948, Mexico.** **Mineral Fact.** *American Mineralogist* publishes a study of adamite from the Ojuela Mine by Mrose, Mayers and Wise.
+- **2016, California.** **Mineral Fact.** GIA identifies a faceted adamite with standard tests, Raman spectroscopy and X-ray fluorescence, noting that its weak glow was atypical.
 - **Today.** **Modern Association.** Crystal guides call it a stone of joy, creativity and emotional calm. These meanings come from modern crystal books and seller guides, not from any old text.
 
 ### Is There Ancient Adamite Lore?
 
-No. Even one crystal guide notes that, unlike jade or turquoise, adamite has no ancient folklore ([crystalgemstones.net](https://crystalgemstones.net/adamite-meaning-and-spiritual-properties.html)). One crystal encyclopedia links it to Itzpapalotl, the Aztec butterfly goddess, and to Annapurna, the Hindu goddess of food ([Crystal Vaults](https://www.crystalvaults.com/crystal-encyclopedia/adamite/)). Read those as modern pairings. No old text ties adamite to either goddess, and the mineral had no name until 1866.
+No. Even one crystal guide notes that, unlike jade or turquoise, adamite has no ancient folklore. One crystal encyclopedia links it to Itzpapalotl, the Aztec butterfly goddess, and to Annapurna, the Hindu goddess of food. Read those as modern pairings. No old text ties adamite to either goddess, and the mineral had no name until 1866.
 
 ## What People Use Adamite for Today
 
 **Modern Association.** In modern crystal guides, adamite is Widely Linked with calm and anxiety, love and self-love, focus and confidence, and Often Linked with protection and grounding. Guides also give it joy, creativity and clear communication, especially saying what you need.
 
-The "why" is mostly the look. A crystal that lights up neon green in the dark reads as joy and surprise, and Crystal Vaults credits adamite with restoring "an almost childlike sense of wonderment." Lime green leads to the heart chakra and yellow to the solar plexus, and crystalgemstones.net describes yellow-green adamite as a bridge between the heart and personal will. The throat chakra follows from the communication theme.
+The "why" is mostly the look. A crystal that lights up neon green in the dark reads as joy and surprise, and one crystal encyclopedia credits adamite with restoring "an almost childlike sense of wonderment." Lime green leads to the heart chakra and yellow to the solar plexus, and one guide describes yellow-green adamite as a bridge between the heart and personal will. The throat chakra follows from the communication theme.
 
-Guides agree less on the details. Signs scatter, Pisces in one guide and Aries, Taurus and Libra in a French one. Crystal Vaults also calls yellow adamite a birthstone for late June to late July, but the [American Gem Society](https://www.americangemsociety.org/birthstones/) list does not include it.
+Guides agree less on the details. Signs scatter, Pisces in one guide and Aries, Taurus and Libra in a French one. One crystal encyclopedia also calls yellow adamite a birthstone for late June to late July, but the American Gem Society list does not include it.
 
 ### What Does Adamite Do?
 
@@ -167,35 +167,35 @@ Some guides go much further and promise help for the heart and lungs, hormones, 
 
 We use the same five labels on every stone. Adamite is one of the rare stones where most labels stay empty.
 
-- **Natural, untreated.** The normal state of adamite. The International Gem Society knows of no gem enhancements for it.
-- **Natural, treated.** None known (International Gem Society).
-- **Lab-grown.** Scientists have made synthetic adamite-olivenite for spectroscopy research, with no known jewelry use (International Gem Society).
+- **Natural, untreated.** The normal state of adamite. No gem enhancements are known for it.
+- **Natural, treated.** None known.
+- **Lab-grown.** Scientists have made synthetic adamite-olivenite for spectroscopy research, with no known jewelry use.
 - **Imitation.** We found no reference source describing imitations or relabeled minerals sold as adamite. What reference sources do describe are look-alikes, covered in Adamite vs Look-Alikes below.
 - **Trade names.** Cuprian adamite or cuproadamite (copper, green to blue), cobaltoadamite (cobalt, purple) and manganoan adamite (manganese, purple to pink). These are real varieties, not fakes.
 
 Three checks you can do at home, with their limits.
 
-1. **Try a UV flashlight.** An intense green glow under shortwave or longwave UV is typical (International Gem Society). The limit is that copper can stop the glow (Minerals.net), and GIA's 2016 stone glowed only weakly under longwave and not at all under shortwave.
-2. **Look at the matrix.** The classic Mexican material grows as sprays of crystals on rusty limonite (International Gem Society). A matching matrix fits the story but proves nothing, since Greek material is often blue and green and look-alikes grow in the same rocks.
-3. **Compare the crystal shape.** Olivenite is usually greener with tall, thin crystals, smithsonite usually forms globular masses that do not glow, and paradamite has a different crystal form (Minerals.net). Confirming the mineral takes lab tools such as Raman spectroscopy.
+1. **Try a UV flashlight.** An intense green glow under shortwave or longwave UV is typical. The limit is that copper can stop the glow, and GIA's 2016 stone glowed only weakly under longwave and not at all under shortwave.
+2. **Look at the matrix.** The classic Mexican material grows as sprays of crystals on rusty limonite. A matching matrix fits the story but proves nothing, since Greek material is often blue and green and look-alikes grow in the same rocks.
+3. **Compare the crystal shape.** Olivenite is usually greener with tall, thin crystals, smithsonite usually forms globular masses that do not glow, and paradamite has a different crystal form. Confirming the mineral takes lab tools such as Raman spectroscopy.
 
 Three questions to ask the seller. Which mine is it from? Has anything been glued, repaired or coated? Is it adamite, or a related mineral such as olivenite? The [Label Decoder](/tools/crystal-label-decoder/) turns the words on a tag into what they usually mean.
 
 ## How to Care for Adamite
 
-**Mineral Fact.** Adamite is soft (3.5), brittle and has good cleavage, so it scratches and splits easily (International Gem Society, *Handbook of Mineralogy*).
+**Mineral Fact.** Adamite is soft (3.5), brittle and has good cleavage, so it scratches and splits easily.
 
-- **Water.** Brief only. Specimens sit in crumbly limonite matrix, so care is needed when washing them (Minerals.net).
+- **Water.** Brief only. Specimens sit in crumbly limonite matrix, so care is needed when washing them.
 - **Soaking.** Brief only. With a crumbly, arsenic-bearing specimen, skip soaks.
 - **Sun, heat and salt.** Unknown. Until reliable guidance exists, skip long sun, heat and salt.
-- **Chemicals.** Avoid. The International Gem Society lists adamite as soluble in acids.
-- **Cleaning.** Brief only. The matrix stains the hands and crumbles when scrubbed, so wash with care (Minerals.net).
+- **Chemicals.** Avoid. Adamite is soluble in acids.
+- **Cleaning.** Brief only. The matrix stains the hands and crumbles when scrubbed, so wash with care.
 - **Scratches and storage.** Brief only. Store it alone in a padded box, since harder stones will scratch it.
 - **Toxicity.** Avoid. The International Gem Society toxicity table rates adamite as high risk (arsenic and copper, soluble in acids). It does not say whether handling or wearing an intact stone is safe, so treat it as a caution, and avoid cutting dust.
 
 ### Is Adamite Safe to Touch?
 
-Treat it with caution. The [IGS toxicity table](https://www.gemsociety.org/article/gemstone-toxicity-table/) rates adamite High risk for arsenic and copper, and its authors warn crystal healers against making potions with toxic gems or putting them in anyone's mouth. Since adamite dissolves in acids, a swallowed fragment is the scenario to prevent.
+Treat it with caution. The same toxicity table rates adamite High risk for arsenic and copper, and its authors warn crystal healers against making potions with toxic gems or putting them in anyone's mouth. Since adamite dissolves in acids, a swallowed fragment is the scenario to prevent.
 
 Our handling rule for any High-risk stone is short. Look more than you touch. If you pick it up, wash your hands afterward, since the limonite matrix rubs off on skin anyway. Keep it in a closed box, out of reach of children and pets, away from food and drink, and never cut, sand or tumble it. Our guide to [toxic crystals](/care/toxic-crystals/) covers the other stones that need the same respect.
 
@@ -207,20 +207,20 @@ Cleansing ideas that need no contact, like a sound bowl or moonlight on the clos
 
 ## Adamite vs Look-Alikes
 
-- **Olivenite.** The copper member of the same series, a different mineral. Usually greener, with tall, thin crystals (Minerals.net).
-- **Smithsonite.** Found in the same deposits (*Handbook of Mineralogy*). Usually globular, and it does not glow under UV light the way adamite does (Minerals.net).
-- **Paradamite.** Same chemistry, different crystal structure, so the crystal shape differs (Minerals.net, *Handbook of Mineralogy*).
-- **Olivine.** Only the names are close. The International Gem Society warns not to confuse olivenite with olivine.
+- **Olivenite.** The copper member of the same series, a different mineral. Usually greener, with tall, thin crystals.
+- **Smithsonite.** Found in the same deposits. Usually globular, and it does not glow under UV light the way adamite does.
+- **Paradamite.** Same chemistry, different crystal structure, so the crystal shape differs.
+- **Olivine.** Only the names are close. Do not confuse olivenite with olivine.
 
 ## Price Guide
 
-Adamite sells mostly as mineral specimens, and faceted stones are small collector pieces (International Gem Society). We found no current US listing for adamite with a clear price and size, so this guide gives no figures. These are the things to compare.
+Adamite sells mostly as mineral specimens, and faceted stones are small collector pieces. We found no current US listing for adamite with a clear price and size, so this guide gives no figures. These are the things to compare.
 
-- **Form.** A crystal specimen on matrix and a faceted stone are different purchases, and adamite turns up far more often as a specimen than in jewelry (International Gem Society).
-- **Clarity and size.** Green material is usually not clean and yields only small faceted gems of about 1 to 3 carats, and violet crystals noted up to 1 cm long would give stones of about 1 to 2 carats (International Gem Society).
-- **Color and glow.** Iron gives yellow, copper green, and cobalt and manganese pink to purple (International Gem Society). Collectors want adamite for its pretty crystals and its fluorescence (Minerals.net), and copper can stop the glow.
-- **Mine.** The International Gem Society singles out the Ojuela Mine in Mexico, Tsumeb in Namibia and Laurium in Greece, so ask for the mine on the label.
-- **Treatment.** No gem enhancements are known for adamite (International Gem Society), so the question to ask is about glue or repairs on a specimen.
+- **Form.** A crystal specimen on matrix and a faceted stone are different purchases, and adamite turns up far more often as a specimen than in jewelry.
+- **Clarity and size.** Green material is usually not clean and yields only small faceted gems of about 1 to 3 carats, and violet crystals noted up to 1 cm long would give stones of about 1 to 2 carats.
+- **Color and glow.** Iron gives yellow, copper green, and cobalt and manganese pink to purple. Collectors want adamite for its pretty crystals and its fluorescence, and copper can stop the glow.
+- **Mine.** Three mines stand out, the Ojuela Mine in Mexico, Tsumeb in Namibia and Laurium in Greece, so ask for the mine on the label.
+- **Treatment.** No gem enhancements are known for adamite, so the question to ask is about glue or repairs on a specimen.
 
 **Next Step.** Want a calming stone you can actually hold? Compare the usual picks in [crystals for anxiety](/crystals-for/anxiety/).
 
@@ -238,4 +238,4 @@ Adamite sells mostly as mineral specimens, and faceted stones are small collecto
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

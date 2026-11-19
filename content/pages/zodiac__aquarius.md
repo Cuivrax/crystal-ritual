@@ -68,7 +68,7 @@ Aquarius has no single official birthstone, because birthstones belong to months
 
 The honest answer has two parts, the month stone and the sign stone, and for Aquarius they line up unusually well.
 
-**The month stone.** On the modern list of the [American Gem Society](https://www.americangemsociety.org/birthstones/), January's birthstone is garnet and February's is amethyst. An Aquarius born on January 25 has garnet, and one born on February 10 has amethyst. Both months have kept a single stone through every update to the modern list that the [International Gem Society](https://www.gemsociety.org/article/history-of-birthstones/) records, and both were already on the 1912 jewelers' list (Kunz 1913, page 319).
+**The month stone.** On the modern list of the American Gem Society, January's birthstone is garnet and February's is amethyst. An Aquarius born on January 25 has garnet, and one born on February 10 has amethyst. Both months have kept a single stone through every update to the modern list, and both were already on the 1912 jewelers' list (Kunz 1913, page 319).
 
 **The sign stone.** **Tradition.** In the verse list of zodiac gems that George Frederick Kunz printed in 1913, Aquarius gets the garnet. "If you would cherish friendship true, / In Aquarius well you'll do" to wear "this gem of warmest hue," the verse runs (*The Curious Lore of Precious Stones*, page 345). An old Spanish list that Kunz thought probably reflected Arab tradition gives Aquarius the amethyst (page 347).
 
@@ -80,27 +80,27 @@ So both of the sign's old zodiac stones are also its two month birthstones today
 
 ### Angelite
 
-**Classic.** Angelite is a trade name. The stone is anhydrite, a calcium sulfate mineral, in a bluish gray, translucent form from Lima, Peru. It was discovered in 1987 and introduced to the gem market at the 1989 Tucson shows, according to the [dealer guide at Gemstones.com](https://www.gemstones.com/gemopedia/angelite). It is also sold as angel stone or angeline.
+**Classic.** Angelite is a trade name. The stone is anhydrite, a calcium sulfate mineral, in a bluish gray, translucent form from Lima, Peru. It was discovered in 1987 and introduced to the gem market at the 1989 Tucson shows, according to one dealer guide. It is also sold as angel stone or angeline.
 
 If those dates are right, the Aquarius link for angelite cannot be older than 1989, younger than many of the people who wear it. It is also soft, 3 to 3.5 on the Mohs scale with perfect cleavage in three directions, and the same guide advises avoiding water, solvents, abrasives and ultrasonic cleaners. A shelf or nightstand suits it better than a ring.
 
 ### Aquamarine
 
-**Often Linked.** Aquamarine is the greenish blue to blue variety of the mineral beryl, and it rates 7.5 to 8 on the Mohs scale ([GIA](https://www.gia.edu/aquamarine/gem-overview)). Trace iron gives it the color ([Geology.com](https://geology.com/gemstones/aquamarine/)). Its name comes from the Latin for seawater, and **Tradition** says it calmed waves and kept sailors safe (GIA). The name probably does a lot of the work here, since "aqua" sits in both words.
+**Often Linked.** Aquamarine is the greenish blue to blue variety of the mineral beryl, and it rates 7.5 to 8 on the Mohs scale. Trace iron gives it the color. Its name comes from the Latin for seawater, and **Tradition** says it calmed waves and kept sailors safe. The name probably does a lot of the work here, since "aqua" sits in both words.
 
-Most aquamarine on sale is gently heated to remove a green tint, and the treatment cannot be detected ([Geology.com](https://geology.com/gemstones/aquamarine/)). Stones sold as "white aquamarine" are most likely colorless beryl, called goshenite ([International Gem Society](https://www.gemsociety.org/article/aquamarine-jewelry-and-gemstone-information/)). Aquamarine is March's birthstone, which makes it a better fit for Pisces birthdays than for Aquarius ones.
+Most aquamarine on sale is gently heated to remove a green tint, and the treatment cannot be detected. Stones sold as "white aquamarine" are most likely colorless beryl, called goshenite. Aquamarine is March's birthstone, which makes it a better fit for Pisces birthdays than for Aquarius ones.
 
 ### Blue Tiger's Eye
 
-**Often Linked.** Natural blue tiger's eye is hawk's eye, unaltered crocidolite in quartz. Bright blue stones on the market are often dyed tiger's eye ([International Gem Society](https://www.gemsociety.org/article/tigers-eye-gem-information/)). Dyed is a treatment, not a fake, so ask the seller which one you are buying.
+**Often Linked.** Natural blue tiger's eye is hawk's eye, unaltered crocidolite in quartz. Bright blue stones on the market are often dyed tiger's eye. Dyed is a treatment, not a fake, so ask the seller which one you are buying.
 
 ### Garnet & Amethyst
 
-**Rarely Linked.** Modern crystal guides hardly tie either stone to Aquarius, though the old lists and the month calendar do. Garnet is a group of closely related minerals, with gems in almost every color ([GIA](https://www.gia.edu/garnet/gem-overview)). Amethyst is purple quartz that rates 7 on the Mohs scale, and even fine amethyst has a modest price tag ([GIA](https://www.gia.edu/amethyst/gem-overview)). It is hard enough for any jewelry, rings included ([International Gem Society](https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/)).
+**Rarely Linked.** Modern crystal guides hardly tie either stone to Aquarius, though the old lists and the month calendar do. Garnet is a group of closely related minerals, with gems in almost every color. Amethyst is purple quartz that rates 7 on the Mohs scale, and even fine amethyst has a modest price tag. It is hard enough for any jewelry, rings included.
 
 ### The Sometimes Linked Group
 
-Celestite, turquoise, fluorite, azurite and fuchsite each turn up in a few Aquarius lists. Most are soft or touchy. Celestite rates 3 to 3.5 and its blue may fade with heat or light ([International Gem Society](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/)), and fluorite is slightly soluble in water, so it should never be submerged ([International Gem Society](https://www.gemsociety.org/article/fluorite-jewelry-gemstone-information/)).
+Celestite, turquoise, fluorite, azurite and fuchsite each turn up in a few Aquarius lists. Most are soft or touchy. Celestite rates 3 to 3.5 and its blue may fade with heat or light, and fluorite is slightly soluble in water, so it should never be submerged.
 
 Some associations sit at the edge and you can skip them, like amber, which appears in very few modern Aquarius lists.
 
@@ -153,9 +153,9 @@ These ratings come from our care data, the same data as the [Care Checker](/tool
 | Celestite | Brief only | Avoid | Avoid | Slightly soluble in water, per a dealer guide |
 | Turquoise | Brief only | Brief only | Avoid | Porous, absorbs liquids |
 | Fluorite | Avoid | Brief only | Avoid | Slightly soluble, never submerge |
-| Azurite | Brief only | Avoid | Avoid | Loses blue in air, heat and light, per IGS |
+| Azurite | Brief only | Avoid | Avoid | Loses blue in air, heat and light |
 
-Amethyst's Brief only rating for sun comes from [GIA](https://www.gia.edu/amethyst-care-cleaning), which says some amethyst can fade with prolonged exposure to intense light. Turquoise is porous, so liquids and cleaning products can damage or recolor it ([Geology.com](https://geology.com/minerals/turquoise.shtml)). Azurite gradually loses its blue in air, heat and light, according to the [International Gem Society](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/). None of these stones belongs in water you drink.
+Amethyst rates Brief only for sun because some amethyst can fade with prolonged exposure to intense light. Turquoise is porous, so liquids and cleaning products can damage or recolor it. Azurite gradually loses its blue in air, heat and light. None of these stones belongs in water you drink.
 
 **Next Step.** Born on February 19 or later? Your sign is [Pisces](/zodiac/pisces/). Compare every sign on the [zodiac stones chart](/zodiac/).
 
@@ -170,4 +170,4 @@ Amethyst's Brief only rating for sun comes from [GIA](https://www.gia.edu/amethy
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

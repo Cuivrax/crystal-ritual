@@ -58,11 +58,11 @@ To charge a crystal, practitioners set it somewhere for a while, most often in m
 
 **Modern Association.** In modern crystal guides, cleansing and charging are two halves of one routine. Cleansing is said to clear what a stone has absorbed. Charging is said to refill it, or to "program" it with an intention you choose. That is why so many people search for how to cleanse and charge crystals in the same breath. Practitioners on crystal forums keep the two apart as well. Washing a stone cleans it, they point out, it does not charge it.
 
-German-language guides split the job most neatly. They "discharge" a stone under lukewarm running water, or overnight among hematite tumbled stones, then charge it overnight on rock crystal or in an amethyst druse ([Edelsteine.net topaz](https://www.edelsteine.net/topas/), [dolomite](https://www.edelsteine.net/dolomit-beige/), [citrine](https://www.edelsteine.net/citrin/)).
+German-language guides split the job most neatly. They "discharge" a stone under lukewarm running water, or overnight among hematite tumbled stones, then charge it overnight on rock crystal or in an amethyst druse.
 
 **Tradition.** The idea that a stone answers to the moon is old. Kunz tells of a "musical stone" from the river Hydaspes that was said to sound different when the moon was waxing, "a fanciful idea based on some supposed sympathy between the stone and the moon" (*The Magic of Jewels and Charms*, 1915, pages 2 to 3). In the 1500s Antoine Mizauld described a selenite whose white mark grew and shrank with the moon (*The Curious Lore of Precious Stones*, 1913, page 98). The moon itself had two reputations. It was sometimes thought baleful and linked to "lunacy", and at other times believed to drive off the powers of darkness (1913, pages 27 to 29). None of these stories has anyone setting a stone out to recharge it. That habit is a modern practice, and we found no dated source for when it began.
 
-**The Stone.** Here is the honest twist. Some minerals really do have electrical talents. Quartz crystals vibrate at such precise frequencies that billions of them keep time in watches and clocks ([Geology.com](https://geology.com/minerals/quartz.shtml)). Tourmaline produces electricity under pressure and when heated ([International Gem Society](https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/)). Those are real properties, and a night on the windowsill does not change either one.
+**The Stone.** Here is the honest twist. Some minerals really do have electrical talents. Quartz crystals vibrate at such precise frequencies that billions of them keep time in watches and clocks. Tourmaline produces electricity under pressure and when heated. Those are real properties, and a night on the windowsill does not change either one.
 
 **What Research Says.** In a 2025 randomized study of 138 adults, some who believed in crystal healing and some who did not, people used either a real rose quartz or a visually matched glass imitation for 14 days, and anxiety scores fell only among the believers, with the real stone doing no better than the glass ([Escolà-Gascón and colleagues, 2025](https://doi.org/10.1017/S1092852925100515)). It was one trial in adults whose anxiety was low to begin with, and it did not test charging in moonlight or sunlight at all.
 
@@ -82,7 +82,7 @@ Cleanse first, then charge. That is the order most guides give, and it matches c
 
 ### Does It Have to Be a Full Moon?
 
-No rule says so. Most guides pick the full moon, some use the new moon for fresh intentions, and others say any clear night works. The moon can look full for several nights in a row ([US Naval Observatory](https://aa.usno.navy.mil/faq/moon_phases)), so the night before or after is close enough for most people.
+No rule says so. Most guides pick the full moon, some use the new moon for fresh intentions, and others say any clear night works. The moon can look full for several nights in a row, so the night before or after is close enough for most people.
 
 | Full moon | When (US Eastern time) |
 |---|---|
@@ -111,13 +111,13 @@ Our [Care Checker](/tools/crystal-care-checker/) gives the verdict for your exac
 
 You can charge some crystals in the sun, but the sun is the one charging method that can physically change a stone. Our care data sorts stones like this.
 
-- **Keep out of strong sun.** Smoky quartz and kunzite, both often said to fade in UV light or sunlight, celestite (dealers), some chrysoprase ([Geology.com](https://geology.com/gemstones/chrysoprase/)), azurite, which loses its blue in light ([IGS](https://www.gemsociety.org/article/azurite-jewelry-gemstone-information/)), blue zircon, which UV turns brown ([GIA](https://www.gia.edu/gems-gemology/fall-2016-reversible-color-modification-blue-zircon-long-wave-ultraviolet-radiation)), and dyed stones.
-- **Short spells only.** Amethyst and citrine, which GIA says can fade with prolonged exposure to intense light ([GIA amethyst](https://www.gia.edu/amethyst-care-cleaning), [GIA citrine](https://www.gia.edu/citrine-care-cleaning)), plus fluorite ([IGS](https://www.gemsociety.org/article/fluorite-jewelry-gemstone-information/)), turquoise and some topaz.
-- **Fine in the sun.** Rose quartz ([IGS](https://www.gemsociety.org/article/rose-quartz/)), malachite ([Geology.com](https://geology.com/minerals/malachite.shtml)), treated blue topaz ([Geology.com](https://geology.com/gemstones/blue-topaz/)) and peach moonstone.
+- **Keep out of strong sun.** Smoky quartz and kunzite, both often said to fade in UV light or sunlight, celestite (dealers), some chrysoprase, azurite, which loses its blue in light, blue zircon, which UV turns brown, and dyed stones.
+- **Short spells only.** Amethyst and citrine, which can fade with prolonged exposure to intense light, plus fluorite, turquoise and some topaz.
+- **Fine in the sun.** Rose quartz, malachite, treated blue topaz and peach moonstone.
 
 ### The Citrine Question
 
-Crystal guides often treat [citrine](/stones/citrine/) as a sun stone and suggest charging it in morning sun or at sunset ([Journée Mondiale](https://www.journee-mondiale.com/bienfaits-energetiques-pierre-citrine-761.htm), [Aglaia](https://www.aglaiaco.com/en/blogs/guides-et-conseils/citrine-vertus-proprietes-et-signification-de-la-pierre)). Other guides warn that long sun fades it ([crystals.com](https://www.crystals.com/blogs/news/citrine-meaning-properties)), and one caps it at 15 to 20 minutes of early sun ([Bindi](https://bindi-online.com/cuarzo-citrino-propiedades/)). Our data sides with GIA and rates citrine for short spells of sun only. If you love the idea of a sun-charged citrine, give it ten minutes of early light and bring it in.
+Crystal guides often treat [citrine](/stones/citrine/) as a sun stone and suggest charging it in morning sun or at sunset. Other guides warn that long sun fades it, and one caps it at 15 to 20 minutes of early sun. Our data sides with GIA and rates citrine for short spells of sun only. If you love the idea of a sun-charged citrine, give it ten minutes of early light and bring it in.
 
 ### How Long Should You Charge Crystals in the Sun?
 
@@ -125,15 +125,15 @@ Guides range from 15 minutes of gentle morning light to a full day. No gem refer
 
 ## Clusters, Selenite, Sound & Earth
 
-- **Quartz cluster or amethyst geode.** The idea is that a big piece of quartz recharges a small stone. Quartz rates 7 on the Mohs scale ([Geology.com](https://geology.com/minerals/quartz.shtml)), so set softer stones on a cloth on top. Our data flags moonstone, opal, fluorite, malachite, obsidian and labradorite as easy to scratch or chip.
-- **Selenite plate.** Selenite is gypsum, easy to scratch and water soluble ([IGS](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/)). Lower stones onto it gently and keep it away from damp windowsills.
+- **Quartz cluster or amethyst geode.** The idea is that a big piece of quartz recharges a small stone. Quartz rates 7 on the Mohs scale, so set softer stones on a cloth on top. Our data flags moonstone, opal, fluorite, malachite, obsidian and labradorite as easy to scratch or chip.
+- **Selenite plate.** Selenite is gypsum, easy to scratch and water soluble. Lower stones onto it gently and keep it away from damp windowsills.
 - **Sound.** A singing bowl, a bell or a tuning fork, rung once or twice near the stone. No contact, no risk.
 - **Earth.** Burying a stone in a plant pot or the garden is popular for "grounding" stones. Damp soil for days is a long soak, so it suits only stones rated OK for water.
 - **Intention alone.** Plenty of practitioners skip the props. Hold the stone, breathe out slowly and say what it is for. This is the one method that works the same in a studio apartment in January.
 
 ### How Often Should You Charge Crystals?
 
-Guides vary, from every two weeks to once a month, often at the full moon. Pick a rhythm you will keep. The full moon is the easiest to remember, since a full cycle of phases takes 29.5 days on average ([US Naval Observatory](https://aa.usno.navy.mil/faq/moon_phases)).
+Guides vary, from every two weeks to once a month, often at the full moon. Pick a rhythm you will keep. The full moon is the easiest to remember, since a full cycle of phases takes 29.5 days on average.
 
 ## Five Minutes on Full Moon Night
 
@@ -152,8 +152,8 @@ Guides vary, from every two weeks to once a month, often at the full moon. Pick 
 
 - **No charged water to drink.** If a guide tells you to charge water with a stone in it, keep the stone outside the jar, as in our [moon water guide](/rituals/moon-water/). Malachite, azurite, chrysocolla, pyrite, galena, cinnabar, stibnite, realgar, orpiment and any dyed or stabilized stone never go in water you drink.
 - **Watch round, clear stones in the sun.** A clear sphere can act like a lens and focus sunlight into a hot spot, the same way a magnifying glass does. Keep clear spheres, and anything else that can focus light, out of direct sun, and never leave one on a windowsill with curtains or paper nearby.
-- **Candles stay away from the stones.** Our data marks heat as a risk for many stones, opal and amethyst among them ([IGS opal](https://www.gemsociety.org/article/opal-jewelry-and-gemstone-information/)). Never leave a flame unattended.
-- **Smoke needs care.** If smoke from sage, palo santo or incense is part of your routine, ventilate the room. The EPA notes that burning almost anything produces tiny particles, and that particle pollution can aggravate asthma and decrease lung function. It asks for proper ventilation when you burn candles or incense indoors ([EPA](https://www.epa.gov/indoor-air-quality-iaq/sources-indoor-particulate-matter-pm)). Keep small children and anyone with asthma or a lung condition away from the smoke, and keep pet birds out of the room, since a bird's respiratory system is very sensitive and aerosols such as smoking or vaping may be toxic to birds ([Illinois Vet Med](https://vetmed.illinois.edu/pet-health-columns/bad-for-birds-prevent-poisoning-in-avian-pets/)). Other pets are best kept out of the smoke too. Never leave it burning unattended.
+- **Candles stay away from the stones.** Our data marks heat as a risk for many stones, opal and amethyst among them. Never leave a flame unattended.
+- **Smoke needs care.** If smoke from sage, palo santo or incense is part of your routine, ventilate the room. The EPA notes that burning almost anything produces tiny particles, and that particle pollution can aggravate asthma and decrease lung function. It asks for proper ventilation when you burn candles or incense indoors. Keep small children and anyone with asthma or a lung condition away from the smoke, and keep pet birds out of the room, since a bird's respiratory system is very sensitive and aerosols such as smoking or vaping may be toxic to birds. Other pets are best kept out of the smoke too. Never leave it burning unattended.
 - **Small stones are not toys.** Keep windowsill displays out of reach of small children and pets.
 
 **Next Step.** Want to know which moon was in the sky the night you were born? Try the [Birthday Moon](/moon/birthday-moon/) tool.
@@ -173,4 +173,4 @@ Guides vary, from every two weeks to once a month, often at the full moon. Pick 
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

@@ -77,45 +77,45 @@ Magnetite is a black iron oxide mineral, Fe₃O₄, and the most strongly magnet
 
 ## What Magnetite Actually Is
 
-**The Stone.** Magnetite is a very common iron oxide found in igneous, metamorphic and sedimentary rocks. It is the most commonly mined ore of iron and the mineral with the highest iron content, 72.4% ([Geology.com](https://geology.com/minerals/magnetite.shtml)). It belongs to the spinel group ([Handbook of Mineralogy](https://www.handbookofmineralogy.org/pdfs/magnetite.pdf)) and is on the IMA List of Minerals (July 2026 edition), which dates its name to 1845.
+**The Stone.** Magnetite is a very common iron oxide found in igneous, metamorphic and sedimentary rocks. It is the most commonly mined ore of iron and the mineral with the highest iron content, 72.4%. It belongs to the spinel group and is on the IMA List of Minerals (July 2026 edition), which dates its name to 1845.
 
 ### Magnetite Chemical Formula & Composition
 
-**Mineral Fact.** The chemical formula is Fe₃O₄, three iron atoms to four oxygen (Geology.com). The IMA list writes it Fe²⁺Fe³⁺₂O₄ to show that magnetite holds two kinds of iron, one ferrous (Fe²⁺) and two ferric (Fe³⁺). It is often called iron(II,III) oxide, or ferrous-ferric oxide. Natural samples in the Handbook of Mineralogy come close to that ideal, with less than 1% of anything else. Titanium-rich titanomagnetite and chromium-rich chrome-magnetite are variety names ([Minerals.net](https://www.minerals.net/mineral/magnetite)).
+**Mineral Fact.** The chemical formula is Fe₃O₄, three iron atoms to four oxygen. The IMA list writes it Fe²⁺Fe³⁺₂O₄ to show that magnetite holds two kinds of iron, one ferrous (Fe²⁺) and two ferric (Fe³⁺). It is often called iron(II,III) oxide, or ferrous-ferric oxide. Analyses of natural samples come close to that ideal, with less than 1% of anything else. Titanium-rich titanomagnetite and chromium-rich chrome-magnetite are variety names.
 
 ### Magnetite Hardness, Luster & Streak
 
-**Mineral Fact.** Magnetite rates 5 to 6.5 on the Mohs scale (Geology.com), and the Handbook of Mineralogy gives 5.5 to 6.5. It is brittle, breaks with an uneven fracture and has no true cleavage, though it can part along flat planes (Handbook of Mineralogy). It is heavy for its size, with a specific gravity of about 5.2, roughly twice that of quartz at 2.6 to 2.7 ([Geology.com](https://geology.com/minerals/quartz.shtml)).
+**Mineral Fact.** Magnetite rates 5 to 6.5 on the Mohs scale, and the Handbook of Mineralogy gives 5.5 to 6.5. It is brittle, breaks with an uneven fracture and has no true cleavage, though it can part along flat planes. It is heavy for its size, with a specific gravity of about 5.2, roughly twice that of quartz at 2.6 to 2.7.
 
-The luster of magnetite is metallic to submetallic (Geology.com), and the Handbook adds that it "may be dull." The color is black to silvery gray, sometimes with a brownish tint in reflected light. The streak, the color of its powder, is black. Magnetite is opaque, translucent only at very thin edges.
+The luster of magnetite is metallic to submetallic, and it can also be dull. The color is black to silvery gray, sometimes with a brownish tint in reflected light. The streak, the color of its powder, is black. Magnetite is opaque, translucent only at very thin edges.
 
 ### Magnetite Crystals
 
-Magnetite crystals are usually octahedral, like two four-sided pyramids joined at the base. Dodecahedral crystals are less common, twins show up now and then, and some crystals are striated (Minerals.net). Cubes are rare, and the lustrous cubes of Balmat, New York, are "a unique habit of Magnetite unlike any other," says Minerals.net.
+Magnetite crystals are usually octahedral, like two four-sided pyramids joined at the base. Dodecahedral crystals are less common, twins show up now and then, and some crystals are striated. Cubes are rare, and the lustrous cubes of Balmat, New York, are a unique habit for magnetite.
 
-Classic octahedra come from the Binn valley in Switzerland, Chester in Vermont and Cerro Huanaquino in Bolivia (Minerals.net).
+Classic octahedra come from the Binn valley in Switzerland, Chester in Vermont and Cerro Huanaquino in Bolivia.
 
 <!-- PHOTO 2, beside "Magnetite Crystals" or "Is Magnetite Magnetic?". Smithsonian NMNH, "Magnetite". Record http://n2t.net/ark:/65665/38a97a4d5-cffb-4da6-8735-0522b74fd747 . Image https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3edec6dcd16c04d528dea37f622abc7fb . License CC0. Credit line "Smithsonian National Museum of Natural History, CC0". Verdict ok, note "Single black metallic-looking chunk on white, small but correct". Alt text "A single black metallic chunk of magnetite on a white background". -->
 
 ### Is Magnetite Magnetic?
 
-Yes, strongly. It is the most strongly magnetic mineral found in nature (Geology.com). The reason is ferrimagnetism, and it comes down to where the iron sits in the crystal. Some iron atoms sit among four oxygen atoms and others among six. The tiny magnetic pulls of the two groups point in opposite directions, but they are not equal, so they do not cancel, and the leftover, carried by the Fe²⁺ iron, gives the whole crystal its magnetism. Magnetite was thought to be an ordinary ferromagnet, like iron, until Néel's work in the 1940s explained ferrimagnetism ([Institute for Rock Magnetism, University of Minnesota](https://cse.umn.edu/irm/2-classes-magnetic-materials)).
+Yes, strongly. It is the most strongly magnetic mineral found in nature. The reason is ferrimagnetism, and it comes down to where the iron sits in the crystal. Some iron atoms sit among four oxygen atoms and others among six. The tiny magnetic pulls of the two groups point in opposite directions, but they are not equal, so they do not cancel, and the leftover, carried by the Fe²⁺ iron, gives the whole crystal its magnetism. Magnetite was thought to be an ordinary ferromagnet, like iron, until Néel's work in the 1940s explained ferrimagnetism.
 
-Magnetite is attracted to a magnet, and only some specimens are naturally magnetized themselves, enough to pick up small bits of iron and other magnetic grains. That naturally magnetized form is lodestone, and it was people's first encounter with magnetism (Geology.com). Minerals.net calls lodestone the only mineral that is a natural magnet. More on [lodestone](/stones/lodestone/).
+Magnetite is attracted to a magnet, and only some specimens are naturally magnetized themselves, enough to pick up small bits of iron and other magnetic grains. That naturally magnetized form is lodestone, and it was people's first encounter with magnetism. Minerals.net calls lodestone the only mineral that is a natural magnet. More on [lodestone](/stones/lodestone/).
 
-**Mineral Fact.** Pieces of lodestone hung on a string served as the first magnetic compasses and were used in China as early as 300 BC. A small, freely hanging piece will line itself up with Earth's magnetic field (Geology.com).
+**Mineral Fact.** Pieces of lodestone hung on a string served as the first magnetic compasses and were used in China as early as 300 BC. A small, freely hanging piece will line itself up with Earth's magnetic field.
 
 ### Where Magnetite Forms & What It Does for Us
 
-Small grains of magnetite are common in igneous and metamorphic rocks, and big deposits sit in sedimentary banded iron formations (Handbook of Mineralogy). As molten rock cools, tiny magnetite crystals line up with Earth's magnetic field and lock its direction into the rock. That record lets geologists rebuild the history of the field and the movement of the continents (Geology.com).
+Small grains of magnetite are common in igneous and metamorphic rocks, and big deposits sit in sedimentary banded iron formations. As molten rock cools, tiny magnetite crystals line up with Earth's magnetic field and lock its direction into the rock. That record lets geologists rebuild the history of the field and the movement of the continents.
 
-It also works for a living. Most iron ore mined today is taconite, a banded rock of magnetite, hematite and chert. Emery, the abrasive, is a natural mix of magnetite and corundum, and small amounts end up in toner, paint and heavy concrete (Geology.com). Gold panners know it as the black sand in the pan.
+It also works for a living. Most iron ore mined today is taconite, a banded rock of magnetite, hematite and chert. Emery, the abrasive, is a natural mix of magnetite and corundum, and small amounts end up in toner, paint and heavy concrete. Gold panners know it as the black sand in the pan.
 
 ## Where the Meaning Comes From
 
 **The Story.** The lodestone collected strange beliefs for a simple reason. It really does something. Here is how people explained that pull.
 
-- **Ancient Greece.** **Tradition.** Plato credits the tragic poet Euripides with first calling the stone magnetis, after Magnesia, one of the places it was found (Kunz, *The Curious Lore of Precious Stones*, 1913, page 93). Pliny writes that "it received its name magnes, Nicander informs us, from the person who was the first to discover it, upon Ida" ([*Natural History* 36.25, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D36%3Achapter%3D25)). Kunz's retelling adds that Magnes was a shepherd whose shoe nails stuck to the stone (1913, page 93).
+- **Ancient Greece.** **Tradition.** Plato credits the tragic poet Euripides with first calling the stone magnetis, after Magnesia, one of the places it was found (Kunz, *The Curious Lore of Precious Stones*, 1913, page 93). Pliny writes that "it received its name magnes, Nicander informs us, from the person who was the first to discover it, upon Ida" (*Natural History* 36.25). Kunz's retelling adds that Magnes was a shepherd whose shoe nails stuck to the stone (1913, page 93).
 - **Ancient writers.** **Tradition.** None of them noticed that iron also pulls on the lodestone, and a strange fancy held that a diamond robbed a lodestone of its power, notes Kunz (*The Magic of Jewels and Charms*, 1915, pages 64 to 65).
 - **The stone of love.** **Tradition.** In Sanskrit the lodestone was chumbaka, "the kisser," and in Chinese the "loving-stone." An 8th-century Chinese author wrote that it "attracts iron just as does a tender mother when she calls her children to her" (Kunz 1913, page 95).
 - **Late antiquity.** **Tradition.** Palladius wrote of lodestone islands on the route to Ceylon that pulled in ships built with iron nails. Kunz suspects the legend came from ships in that trade being pegged with wood because iron was scarce (1915, page 64).
@@ -146,7 +146,7 @@ Some sites go much further, promising relief from pain, cramps, fractures, anemi
 
 ### The String Compass
 
-**Try This.** Tie a small lodestone to a thread and let it hang still, away from metal. A freely hanging lodestone lines up with Earth's magnetic field (Geology.com). It makes a quiet five minutes with a curious kid, and a fine story of how the compass began.
+**Try This.** Tie a small lodestone to a thread and let it hang still, away from metal. A freely hanging lodestone lines up with Earth's magnetic field. It makes a quiet five minutes with a curious kid, and a fine story of how the compass began.
 
 **Safety.** Small stones, iron filings and magnetic sand are not toys and could be swallowed. Supervise children, and keep pets away.
 
@@ -164,47 +164,47 @@ Some sites go much further, promising relief from pain, cramps, fractures, anemi
 
 We use the same five labels on every stone.
 
-- **Natural, untreated.** Crystals, massive pieces and lodestone. Some dealers sprinkle metal filings on a lodestone to show off its pull (Minerals.net). That is staging, not a fake.
+- **Natural, untreated.** Crystals, massive pieces and lodestone. Some dealers sprinkle metal filings on a lodestone to show off its pull. That is staging, not a fake.
 - **Natural, treated.** We found no reference source describing treatments on magnetite sold as specimens, beads or tumbled stones. Removing rust with a rust remover is cleaning, not treatment.
 - **Lab-grown.** Magnetite can be made in the lab, and the Handbook of Mineralogy takes its reference X-ray data from synthetic material. We found no reference source on lab-made magnetite sold as crystals or beads.
-- **Imitation.** Shiny magnetic beads may be hematine, sold as "magnetic hematite." It contains no hematite at all and leaves a red streak, says the [International Gem Society](https://www.gemsociety.org/article/hematite-jewelry-and-gemstone-information/).
+- **Imitation.** Shiny magnetic beads may be hematine, sold as "magnetic hematite." It contains no hematite at all and leaves a red streak.
 - **Trade names.** Lodestone is a real variety. Taconite is a banded iron ore rock that contains magnetite.
 
 Three checks, with their limits.
 
-1. **Magnet.** A strong pull fits magnetite. Pyrrhotite and hematine are magnetic too, and many real hematites contain enough magnetite to stick ([Geology.com](https://geology.com/minerals/hematite.shtml)).
-2. **Streak.** Rub a corner on the back of an unglazed tile. Black fits magnetite. A reddish streak means hematite or hematine, and chromite gives a brownish one (Minerals.net). The test leaves a mark, so use a hidden corner.
+1. **Magnet.** A strong pull fits magnetite. Pyrrhotite and hematine are magnetic too, and many real hematites contain enough magnetite to stick.
+2. **Streak.** Rub a corner on the back of an unglazed tile. Black fits magnetite. A reddish streak means hematite or hematine, and chromite gives a brownish one. The test leaves a mark, so use a hidden corner.
 3. **Shape.** Sharp octahedra are typical of magnetite, but it is also granular or massive, so a shapeless piece proves nothing.
 
 ### What Is Magnetite Jade?
 
-"Magnetite jade" is a seller's name, not a mineral name on the IMA List of Minerals. At least one crystal seller uses it as another name for [black jade](/stones/black-jade/), which it describes as jadeite containing iron oxide and magnetite. We found no reference source that defines the term. Jade is nephrite or jadeite ([GIA](https://www.gia.edu/jade/buyers-guide)), and magnetite is an iron oxide, a different mineral. A magnet tells you whether magnetite is present, not whether a piece is jade. If a listing uses the name, ask the seller which mineral you are paying for, and see our [jade page](/stones/jade/).
+"Magnetite jade" is a seller's name, not a mineral name on the IMA List of Minerals. At least one crystal seller uses it as another name for [black jade](/stones/black-jade/), which it describes as jadeite containing iron oxide and magnetite. We found no reference source that defines the term. Jade is nephrite or jadeite, and magnetite is an iron oxide, a different mineral. A magnet tells you whether magnetite is present, not whether a piece is jade. If a listing uses the name, ask the seller which mineral you are paying for, and see our [jade page](/stones/jade/).
 
 ## How to Care for Magnetite
 
-**Mineral Fact.** Magnetite is brittle and parts easily along flat planes (Handbook of Mineralogy), so treat crystals gently.
+**Mineral Fact.** Magnetite is brittle and parts easily along flat planes, so treat crystals gently.
 
-- **Water.** Brief only. Magnetite may grow a yellow-brown rust coating if washed or kept somewhere damp, so dry a washed piece right away (Minerals.net).
+- **Water.** Brief only. Magnetite may grow a yellow-brown rust coating if washed or kept somewhere damp, so dry a washed piece right away.
 - **Soaking.** Brief only, for the same reason. No overnight baths and no water elixirs.
-- **Rust.** Rust can be removed by soaking in a rust remover such as Iron Out, says Minerals.net, a mineral reference site rather than a care guide. Chemicals rate Brief only.
+- **Rust.** Rust can be removed by soaking in a rust remover such as Iron Out, a tip from a mineral reference rather than a care guide. Chemicals rate Brief only.
 - **Sun.** Unknown. We found no reference source on light and magnetite.
 - **Heat.** Unknown. Mineral references give the temperature at which magnetite loses its magnetism, not a safe limit for a stone.
 - **Salt.** Unknown. One guide warns that salt damages it. Our data cannot confirm that, so simply skip salt.
 - **Toxicity.** Unknown in our care data. Keep it out of anything you drink.
-- **Storage.** Brief only. A lodestone collects iron particles on its surface (Minerals.net). Our habit is a box of its own, away from steel tools and loose filings.
+- **Storage.** Brief only. A lodestone collects iron particles on its surface. Our habit is a box of its own, away from steel tools and loose filings.
 
 Some guides suggest charging magnetite in bright sun. With no sun rating in our data, we would not. Check your piece in the [Care Checker](/tools/crystal-care-checker/), with the reason and source behind each rating.
 
 ## Magnetite vs Look-Alikes
 
-- **Hematite.** Also an iron oxide, but its streak is always reddish, and natural hematite is not magnetic unless it holds some magnetite (Geology.com, IGS). See [hematite vs magnetite](/compare/hematite-vs-magnetite/) and our [hematite page](/stones/hematite/).
-- **Martite.** Hematite that has replaced magnetite while keeping its crystal shape. It can look just like magnetite, but it is only weakly magnetic and has a reddish-brown streak (Minerals.net).
-- **Pyrrhotite.** The second most common magnetic mineral, softer and bronze in color (Geology.com).
-- **Spinel and franklinite.** Spinel is not attracted to magnets and has a white streak, and franklinite is only weakly attracted (Minerals.net).
+- **Hematite.** Also an iron oxide, but its streak is always reddish, and natural hematite is not magnetic unless it holds some magnetite. See [hematite vs magnetite](/compare/hematite-vs-magnetite/) and our [hematite page](/stones/hematite/).
+- **Martite.** Hematite that has replaced magnetite while keeping its crystal shape. It can look just like magnetite, but it is only weakly magnetic and has a reddish-brown streak.
+- **Pyrrhotite.** The second most common magnetic mineral, softer and bronze in color.
+- **Spinel and franklinite.** Spinel is not attracted to magnets and has a white streak, and franklinite is only weakly attracted.
 
 ## Price Guide
 
-Most magnetite is mined as iron ore (Geology.com). Much commercially mined magnetite is massive and holds no interest for collectors, while well-formed crystals are popular with them, and the lodestone variety is often sold in hobby shops to amateur collectors (Minerals.net). So crystal form is what sets a collector's piece apart, and single octahedra from the Binn valley in Switzerland are well known (Minerals.net). In 1887 lodestone was worth 75 cents a pound, according to Kunz.
+Most magnetite is mined as iron ore. Much commercially mined magnetite is massive and holds no interest for collectors, while well-formed crystals are popular with them, and the lodestone variety is often sold in hobby shops to amateur collectors. So crystal form is what sets a collector's piece apart, and single octahedra from the Binn valley in Switzerland are well known. In 1887 lodestone was worth 75 cents a pound, according to Kunz.
 
 We give no current price figures here, since the only retail listing we found was out of stock and not clearly labeled as magnetite.
 
@@ -225,4 +225,4 @@ We give no current price figures here, since the only retail listing we found wa
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

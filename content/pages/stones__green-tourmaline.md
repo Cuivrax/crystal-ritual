@@ -89,51 +89,51 @@ Green tourmaline is the green color variety of tourmaline, a boron silicate gem 
 
 ## What Green Tourmaline Actually Is
 
-**The Stone.** Tourmaline is not one mineral but a supergroup of more than 30 species that share a trigonal crystal structure and differ in chemistry ([International Gem Society](https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/)). Green is a color across that group, not a species. According to the gem database Gemdat, "most, but not all, verdelite is elbaite," the species behind most cut tourmaline of every color ([Gemdat](https://gemdat.org/gem-4169.html)).
+**The Stone.** Tourmaline is not one mineral but a supergroup of more than 30 species that share a trigonal crystal structure and differ in chemistry. Green is a color across that group, not a species. Most, but not all, verdelite is elbaite, the species behind most cut tourmaline of every color.
 
-The trade uses two names for green stones. Verdelite means green tourmaline colored without chromium or vanadium. Chrome tourmaline is the intense green that comes from chromium or vanadium (International Gem Society). [GIA](https://www.gia.edu/tourmaline-description) adds a catch. Some green dravite and uvite are sold as chrome tourmaline "even though they're not always colored by chromium," and GIA says the color is mostly from vanadium.
+The trade uses two names for green stones. Verdelite means green tourmaline colored without chromium or vanadium. Chrome tourmaline is the intense green that comes from chromium or vanadium. GIA adds a catch. Some green dravite and uvite are sold as chrome tourmaline even though they are not always colored by chromium, and their color is mostly from vanadium.
 
 ### What Gives Green Tourmaline Its Color?
 
-"Traces of iron, and possibly titanium, induce green and blue colors," says GIA, while manganese makes the reds and pinks. That is why a single crystal can switch from pink to green as it grows, the trick behind [watermelon tourmaline](/stones/watermelon-tourmaline/), which has a pink core inside a green rind. Its sister stone, [pink tourmaline](/stones/pink-tourmaline/), is the same mineral with manganese doing the work.
+Traces of iron, and possibly titanium, bring out the green and blue colors, while manganese makes the reds and pinks. That is why a single crystal can switch from pink to green as it grows, the trick behind [watermelon tourmaline](/stones/watermelon-tourmaline/), which has a pink core inside a green rind. Its sister stone, [pink tourmaline](/stones/pink-tourmaline/), is the same mineral with manganese doing the work.
 
 ### What Is Blue-Green Tourmaline?
 
-Green tourmaline runs "from yellow-green to green to blue-green," writes gemologist Jeff R. Graham for the [International Gem Society](https://www.gemsociety.org/article/what-do-i-look-for-when-buying-verdelite-green-tourmaline). "As long as green predominates, you have a verdelite." Once blue wins, the stone is called indicolite or blue tourmaline, and Graham admits that is "a judgment call." So "blue and green tourmaline" on a tag can mean either side of that line. The vivid blue to green stones colored by copper are a separate, pricier category named Paraíba ([GIA](https://www.gia.edu/tourmaline/gem-overview)).
+Green tourmaline runs from yellow-green to green to blue-green. "As long as green predominates, you have a verdelite," writes gemologist Jeff R. Graham. Once blue wins, the stone is called indicolite or blue tourmaline, and Graham admits that is "a judgment call." So "blue and green tourmaline" on a tag can mean either side of that line. The vivid blue to green stones colored by copper are a separate, pricier category named Paraíba.
 
 ### Why Is Some Green Tourmaline So Dark?
 
-Dark green is typical. Gemdat describes verdelite as "dark green in color, though it is sometimes seen in a light green or light brown shade." Part of the darkness is built in. Tourmaline is pleochroic, meaning its color changes with viewing direction, and it is usually darkest looking down the long axis of the crystal ([Geology.com](https://geology.com/minerals/tourmaline.shtml)). Gemdat lists the pleochroism of verdelite as strong, from dark green to yellow-green, citing Walter Schumann's *Gemstones of the World*.
+Dark green is typical. Verdelite is usually dark green, though it is sometimes seen in a light green or light brown shade. Part of the darkness is built in. Tourmaline is pleochroic, meaning its color changes with viewing direction, and it is usually darkest looking down the long axis of the crystal. The pleochroism of verdelite is strong, from dark green to yellow-green.
 
-Cutters use this. Geology.com notes that light rough can be cut to show its deepest color and dark rough cut to look lighter. Heat is the other tool. Green tourmaline is "routinely heat-treated to lighten the color," according to Herve Nicolas Lazzarelli's *Blue Chart Gem Identification* (2010), as listed by Gemdat.
+Cutters use this. Light rough can be cut to show its deepest color and dark rough cut to look lighter. Heat is the other tool. Herve Nicolas Lazzarelli's *Blue Chart Gem Identification* (2010) records that green tourmaline is routinely heat-treated to lighten the color.
 
 <!-- PHOTO 2, beside "Why Is Some Green Tourmaline So Dark?". Wikimedia Commons, "File Green tourmaline from Afghanistan. Erbil Stones and Gems Museum, Erbil Citadel, Hawler, Iraq.jpg", by Osama Shukir Muhammed Amin FRCP(Glasg). Page https://commons.wikimedia.org/wiki/File:Green_tourmaline_from_Afghanistan._Erbil_Stones_and_Gems_Museum,_Erbil_Citadel,_Hawler,_Iraq.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Green_tourmaline_from_Afghanistan._Erbil_Stones_and_Gems_Museum%2C_Erbil_Citadel%2C_Hawler%2C_Iraq.jpg/1280px-Green_tourmaline_from_Afghanistan._Erbil_Stones_and_Gems_Museum%2C_Erbil_Citadel%2C_Hawler%2C_Iraq.jpg (tracking parameters removed). License CC BY-SA 4.0. Credit line "Photo Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons". visual_check ok in image_picks_new_stones.json ("dark green crystal in matrix, label text in frame"), crop the museum label. Alt text "Dark green tourmaline crystal in rock from Afghanistan, on display at a museum in Erbil". -->
 
 ### Where Green Tourmaline Grows
 
-The spectacular crystals form when hot water and vapor carry the right elements into open pockets and fractures, and they range from millimeter crystals to prisms of more than 220 pounds (100 kg) (Geology.com). Elbaite grows in lithium-rich pegmatites beside lepidolite, according to the French dealer [Le Comptoir Géologique](https://www.le-comptoir-geologique.com/verdelite-encyclopedia.html).
+The spectacular crystals form when hot water and vapor carry the right elements into open pockets and fractures, and they range from millimeter crystals to prisms of more than 220 pounds (100 kg). Elbaite grows in lithium-rich pegmatites beside lepidolite.
 
 ### Where It Comes From
 
-Brazil has been the world's leading tourmaline source for nearly 500 years, and its Minas Gerais pegmatites have produced millions of carats since the late 1800s (Geology.com). Maine has turned out pink and green tourmaline from dozens of localities since an 1821 find near Paris, Maine, led to the first commercial gem mine in the United States (Geology.com).
+Brazil has been the world's leading tourmaline source for nearly 500 years, and its Minas Gerais pegmatites have produced millions of carats since the late 1800s. Maine has turned out pink and green tourmaline from dozens of localities since an 1821 find near Paris, Maine, led to the first commercial gem mine in the United States.
 
-The International Gem Society names more green sources. Nuristan in Afghanistan gives elbaite in shades that reach "even emerald green." Usakos in Namibia gives "fine elbaite of rich green color (chrome tourmaline)," and Tanzania gives elbaite with chromium and vanadium in rich greens. Mozambique supplies verdelite too, per Le Comptoir Géologique.
+There are more green sources. Nuristan in Afghanistan gives elbaite in shades that reach even emerald green. Usakos in Namibia gives fine elbaite of rich green color, chrome tourmaline, and Tanzania gives elbaite with chromium and vanadium in rich greens. Mozambique supplies verdelite too.
 
 ### What Is Green Tourmaline Quartz?
 
-It is quartz with tourmaline inside, not a green tourmaline gem. The usual "tourmalinated quartz" is clear quartz holding long, slender tourmaline needles that are usually black, according to a dealer guide at [Gemstones.com](https://www.gemstones.com/gemopedia/tourmalinated-quartz). We found no gem lab or reference source describing quartz with green tourmaline inside, so treat the name as the seller's description and ask how the green inclusions were identified. See [tourmalinated quartz](/stones/tourmalinated-quartz/) for the black version.
+It is quartz with tourmaline inside, not a green tourmaline gem. The usual "tourmalinated quartz" is clear quartz holding long, slender tourmaline needles that are usually black. We found no gem lab or reference source describing quartz with green tourmaline inside, so treat the name as the seller's description and ask how the green inclusions were identified. See [tourmalinated quartz](/stones/tourmalinated-quartz/) for the black version.
 
 ## Where the Meaning Comes From
 
 **The Story.** For most of its history, green tourmaline was not green tourmaline at all. It was "emerald." Here is what each era left in writing.
 
 - **3rd century BCE, Greece.** **Tradition.** Theophrastus described a Cyprian "emerald" that was half jasper and half emerald. George Frederick Kunz wondered whether that could have been a green and red tourmaline crystal, though he admitted it was hard to square with the rest of the text (*The Magic of Jewels and Charms*, 1915, page 53).
-- **1st century, Rome.** **Tradition.** Pliny the Elder never names tourmaline. He writes that lychnis stones attract chaff when heated or rubbed (*Natural History*, Book 37, chapter 29, in the Bostock and Riley translation, via [Perseus at Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D29)). Kunz saw "some little likelihood" that some lychnis were tourmalines (1915, pages 52 to 53), and the translators' notes record the same guess by earlier scholars. It remains an old, contested guess, not proof that Pliny knew the stone.
-- **1500s, Brazil.** Portuguese explorers sent green and blue tourmaline home believing it was emerald and sapphire, and it was cut into jewelry for royalty (Geology.com). GIA tells the same mix-up with a Spanish conquistador, and lists Francisco Spinoza's expedition as the find of the first recorded green tourmaline crystal, a "Brazilian emerald."
+- **1st century, Rome.** **Tradition.** Pliny the Elder never names tourmaline. He writes that lychnis stones attract chaff when heated or rubbed (*Natural History*, Book 37, chapter 29, in the Bostock and Riley translation). Kunz saw "some little likelihood" that some lychnis were tourmalines (1915, pages 52 to 53), and the translators' notes record the same guess by earlier scholars. It remains an old, contested guess, not proof that Pliny knew the stone.
+- **1500s, Brazil.** Portuguese explorers sent green and blue tourmaline home believing it was emerald and sapphire, and it was cut into jewelry for royalty. GIA tells the same mix-up with a Spanish conquistador, and lists Francisco Spinoza's expedition as the find of the first recorded green tourmaline crystal, a "Brazilian emerald."
 - **Before 1647, Brazil.** **Tradition.** The Dutch mineralogist Johann de Laet reported "Brazilian emeralds" found shortly before 1647, described as cylindrical, striated and glassy. Kunz thought they were probably green tourmalines, since "green sapphires have never been found in Brazil, while green tourmalines have been" (1915, pages 53 to 54).
-- **1700s, Holland.** **Tradition.** Tourmaline from Ceylon reached Dutch jewelers, who saw it attract and repel the ashes of a fire and called it Aschentrekker, the "Ash-Attractor." Linnaeus later named it the "Electrical Stone" (Kunz 1915, pages 52, 54 and 56). The word tourmaline comes from the Sinhalese toramalli, "mixed gems" ([GIA](https://www.gia.edu/tourmaline-history-lore)).
-- **1793.** Tourmaline is recognized as a mineral of its own (Geology.com).
-- **Late 1800s, America.** Tourmaline became "an American gem through the efforts of Tiffany gemologist George F. Kunz" (GIA).
+- **1700s, Holland.** **Tradition.** Tourmaline from Ceylon reached Dutch jewelers, who saw it attract and repel the ashes of a fire and called it Aschentrekker, the "Ash-Attractor." Linnaeus later named it the "Electrical Stone" (Kunz 1915, pages 52, 54 and 56). The word tourmaline comes from the Sinhalese toramalli, "mixed gems."
+- **1793.** Tourmaline is recognized as a mineral of its own.
+- **Late 1800s, America.** Tourmaline became an American gem through the efforts of Tiffany gemologist George F. Kunz.
 - **1913 and 1915.** **Tradition.** Kunz grumbled that tourmaline, "a gem only known in modern times," seemed out of place on the October birthstone list (*The Curious Lore of Precious Stones*, 1913, pages 320 to 321). Two years later he suggested "one of the many beautiful shades of the tourmaline" to match a grass-green gown (1915, page 407).
 - **1922 and 1988.** **Modern Association.** A French shop guide credits Isidore Kozminsky's *The Magic and Science of Jewels and Stones* (1922) with putting the tourmaline family under Gemini, and Scott Cunningham, in *Cunningham's Encyclopedia of Crystal, Gem & Metal Magic* (1988), with giving green tourmaline to Venus and the element earth.
 - **Today.** **Modern Association.** Shop guides add prosperity, protection, compassion and the heart chakra, and one lists Robert Simmons and Naisha Ahsian's *The Book of Stones* (first published 2005) among its references.
@@ -148,7 +148,7 @@ Some associations are marginal. Signs scatter across Capricorn, Libra, Virgo and
 
 ### What Does Green Tourmaline Do?
 
-As a mineral, it does something real and odd. Tourmaline is piezoelectric and pyroelectric, so it produces electricity under pressure and when heated, and it picks up a static charge when rubbed (International Gem Society). That is the Dutch ash trick. Everything else people say it does is belief about the person holding it.
+As a mineral, it does something real and odd. Tourmaline is piezoelectric and pyroelectric, so it produces electricity under pressure and when heated, and it picks up a static charge when rubbed. That is the Dutch ash trick. Everything else people say it does is belief about the person holding it.
 
 Some sellers go much further, listing chronic fatigue, weight loss, immunity and even cancer. Those are health claims with no mineral basis, and one guide says plainly that the stone is not a replacement for medical, mental health or professional care.
 
@@ -166,7 +166,7 @@ Some sellers go much further, listing chronic fatigue, weight loss, immunity and
 
 ### An October Gift
 
-**Try This.** For an [October birthday](/birthstones/october/) or an 8th anniversary, give a green tourmaline with a card. "Green tourmaline. Sold as Brazilian emerald in the 1500s, its own gem since 1793." Tourmaline shares October with opal, and GIA names it the gem of the eighth anniversary.
+**Try This.** For an [October birthday](/birthstones/october/) or an 8th anniversary, give a green tourmaline with a card. "Green tourmaline. Sold as Brazilian emerald in the 1500s, its own gem since 1793." Tourmaline shares October with opal, and it is the gem of the eighth anniversary.
 
 **Safety.** Small tumbled stones and bead bracelets are not toys. Keep them away from small children and pets who might swallow them. Tourmaline is brittle, so a drop onto tile can chip it.
 
@@ -179,58 +179,58 @@ Some sellers go much further, listing chronic fatigue, weight loss, immunity and
 We use the same five labels on every stone.
 
 - **Natural, untreated.** A green stone as it came from the ground, only cut and polished. We found no reference figure for how much green tourmaline sold in the US is untreated. Heating is common and usually undetectable (see the next line), so treat an "unheated" label as the seller's claim and ask for it in writing.
-- **Natural, treated.** Heating "lightens blue and green stones" and is "common, stable, undetectable," says the International Gem Society. GIA adds that stones with many liquid inclusions cannot take the heat. Heat-treated is not fake.
-- **Lab-grown.** "No commercially available lab-created tourmaline exists for gem or jewelry use," says the International Gem Society, which also warns that "simulated" tourmaline online often means fake.
-- **Imitation.** Glass. GIA's lab has examined two bluish green glass pieces cut as six-sided prisms to imitate rough Paraíba-type tourmaline crystals, unmasked by "trapped gas bubbles, flow structure" and a refractive index far too low for tourmaline ([Gems & Gemology](https://gia.edu/gems-gemology/winter-2020-labnotes-glass-imitating-tourmaline), Winter 2020).
-- **Trade name.** "Brazilian emerald" and "Ceylonese peridot" are, in the International Gem Society's words, "unacceptable trade names for tourmalines." Verdelite and chrome tourmaline are honest variety names, with GIA's caveat above.
+- **Natural, treated.** Heating lightens blue and green stones, and it is common, stable and undetectable. Stones with many liquid inclusions cannot take the heat. Heat-treated is not fake.
+- **Lab-grown.** No commercially available lab-created tourmaline exists for gem or jewelry use, and "simulated" tourmaline online often means fake.
+- **Imitation.** Glass. In a Winter 2020 lab note, GIA described two bluish green glass pieces cut as six-sided prisms to imitate rough Paraíba-type tourmaline crystals, unmasked by trapped gas bubbles, flow structure and a refractive index far too low for tourmaline.
+- **Trade name.** "Brazilian emerald" and "Ceylonese peridot" are unacceptable trade names for tourmalines. Verdelite and chrome tourmaline are honest variety names, with GIA's caveat above.
 
 Three checks you can do at home, with their limits.
 
-1. **Turn it.** A transparent stone that shifts between two greens as you rotate it is behaving like pleochroic tourmaline (Geology.com). It is a hint, not proof.
+1. **Turn it.** A transparent stone that shifts between two greens as you rotate it is behaving like pleochroic tourmaline. It is a hint, not proof.
 2. **Use a loupe.** Round gas bubbles and flow structure are signs of glass, as in the GIA case. A clean stone with no bubbles proves nothing either way.
-3. **On a crystal, check the shape.** Tourmaline crystals often show striations along their length and triangular or six-sided cross-sections with rounded edges, and any specimen with obvious cleavage is probably not tourmaline (Geology.com). The glass prisms in the GIA case copied that shape, so shape alone is not enough.
+3. **On a crystal, check the shape.** Tourmaline crystals often show striations along their length and triangular or six-sided cross-sections with rounded edges, and any specimen with obvious cleavage is probably not tourmaline. The glass prisms in the GIA case copied that shape, so shape alone is not enough.
 
 Three questions to ask the seller. Is this tourmaline, and is it verdelite or chrome tourmaline? Has it been heated? Where was it mined? The [Label Decoder](/tools/crystal-label-decoder/) turns the names on a tag into what they usually mean.
 
 ### Green Tourmaline or Emerald?
 
-They are different minerals. Emerald is the bluish green to green variety of beryl ([GIA](https://www.gia.edu/emerald/gem-overview)), with a Mohs hardness of 7.5 to 8 ([Geology.com](https://geology.com/gemstones/emerald/)). Chrome tourmaline can look the part, and GIA says its green "resembles the color of emerald." The price usually does not. "Emeralds and sapphires typically cost considerably more than most tourmalines," says the International Gem Society, so a green tourmaline sold as emerald is a bad deal even when the stone is lovely. Only gem testing separates the two with confidence. See our [emerald page](/stones/emerald/) for the real thing.
+They are different minerals. Emerald is the bluish green to green variety of beryl, with a Mohs hardness of 7.5 to 8. Chrome tourmaline can look the part, with a green that resembles the color of emerald. The price usually does not. Emeralds and sapphires usually cost far more than most tourmalines, so a green tourmaline sold as emerald is a bad deal even when the stone is lovely. Only gem testing separates the two with confidence. See our [emerald page](/stones/emerald/) for the real thing.
 
 ## How to Care for Green Tourmaline
 
-**Mineral Fact.** With a hardness of 7 to 7.5, no cleavage and only slight brittleness, tourmaline makes a good jewelry stone for everyday wear (International Gem Society). GIA rates its toughness as fair.
+**Mineral Fact.** With a hardness of 7 to 7.5, no cleavage and only slight brittleness, tourmaline makes a good jewelry stone for everyday wear. Its toughness is rated fair.
 
-- **Water.** OK for washing. Warm water, mild detergent and a soft brush, per the International Gem Society's [care guide](https://www.gemsociety.org/article/gemstone-care-guide/).
+- **Water.** OK for washing. Warm water, mild detergent and a soft brush.
 - **Soaking.** Brief only in our Care Checker. Keep it to a quick wash.
 - **Sun.** Unknown for green tourmaline in our Care Checker.
-- **Heat.** Brief only. The IGS calls tourmaline moderately sensitive to heat, and [GIA](https://www.gia.edu/tourmaline-care-cleaning) warns that high heat can alter the color and sudden temperature change can cause fracturing. Skip hot cars and radiator shelves.
+- **Heat.** Brief only. Tourmaline is moderately sensitive to heat. High heat can alter the color, and sudden temperature change can cause fracturing. Skip hot cars and radiator shelves.
 - **Chemicals.** Unknown.
 - **Salt.** Unknown.
-- **Cleaning machines.** GIA does not recommend ultrasonic or steam cleaners for tourmaline.
-- **Knocks and storage.** Brief only. "Tourmalines tend to be brittle," says the IGS, and bi-colored crystals sometimes split where the colors meet. Store it in its own pouch and take rings off for hard work.
-- **Toxicity.** OK to wear and handle. The IGS toxicity table lists none known for tourmaline.
+- **Cleaning machines.** Ultrasonic and steam cleaners are not recommended for tourmaline.
+- **Knocks and storage.** Brief only. Tourmalines tend to be brittle, and bi-colored crystals sometimes split where the colors meet. Store it in its own pouch and take rings off for hard work.
+- **Toxicity.** OK to wear and handle. No toxicity is known for tourmaline.
 
 ### Can Green Tourmaline Go in Water?
 
-A wash, yes. A quick wash in warm soapy water is the cleaning method the International Gem Society gives for tourmaline. A long soak is a different question, so our Care Checker keeps soaking at Brief only. Salt and long sun stay at Unknown in our Care Checker, so skip salt baths and sunny-windowsill charging for now. Keep every stone out of drinking water, and check your exact piece in the [Care Checker](/tools/crystal-care-checker/).
+A wash, yes. A quick wash in warm soapy water is the standard cleaning method for tourmaline. A long soak is a different question, so our Care Checker keeps soaking at Brief only. Salt and long sun stay at Unknown in our Care Checker, so skip salt baths and sunny-windowsill charging for now. Keep every stone out of drinking water, and check your exact piece in the [Care Checker](/tools/crystal-care-checker/).
 
 ## Green Tourmaline vs Look-Alikes
 
 - **Emerald.** Beryl, harder and usually far pricier (see above).
-- **Peridot.** The green gem variety of olivine, Mohs 6.5 to 7 ([GIA](https://www.gia.edu/peridot/gem-overview)). Calling a tourmaline a "Ceylonese peridot" is a misleading name.
-- **Tsavorite garnet.** GIA notes that the greens of some dravite and uvite "rival those of tsavorite garnet and, occasionally, even emerald." A gem lab tells them apart.
-- **Chrome diopside.** Another chromium green, but softer, Mohs 5.5 to 6.5 ([Geology.com](https://geology.com/minerals/diopside.shtml)).
+- **Peridot.** The green gem variety of olivine, Mohs 6.5 to 7. Calling a tourmaline a "Ceylonese peridot" is a misleading name.
+- **Tsavorite garnet.** The greens of some dravite and uvite rival those of tsavorite garnet and, occasionally, even emerald. A gem lab tells them apart.
+- **Chrome diopside.** Another chromium green, but softer, Mohs 5.5 to 6.5.
 - **Other tourmalines.** Indicolite is the blue side of the line, watermelon tourmaline is pink inside a green rind, and pink tourmaline is the manganese color. See the [tourmaline family page](/stones/tourmaline/).
 
 ## Price Guide
 
 This guide gives no dollar figures yet. These are the things that move the price.
 
-- **Color.** Green is one of tourmaline's more affordable colors. The International Gem Society says pure blue, red, orange, yellow and purple stones "command higher prices due to their rarity," and green is not on that list. GIA describes the best green tourmalines as "transparent, brilliant, and clean, with attractive bluish green hues," while the dark-toned stones more common in the market, which dealers call "oily" or "olive" green, sell for much less ([GIA](https://www.gia.edu/articles/tourmaline-quality-factor)).
-- **Verdelite or chrome.** Graham's buying guide is blunt. "If you like green and you're on a budget, verdelite is the tourmaline for you." Chrome tourmaline's price per carat "is significantly higher and can jump considerably after one carat," he adds, though GIA still calls it "a lower-priced alternative to tsavorite or emerald."
-- **Clarity.** "Green tourmalines are expected to be free of eye-visible inclusions," says GIA, and distracting inclusions lower their value.
-- **Size.** Verdelite's price per carat "doesn't jump much before reaching five carats," according to Graham, and GIA says tourmaline's price per carat generally rises once a gem passes five carats.
-- **Crystals.** Specimens are their own market, where attractive color and crystal form set the price (Geology.com).
+- **Color.** Green is one of tourmaline's more affordable colors. Pure blue, red, orange, yellow and purple stones command higher prices because they are rarer, and green is not on that list. The best green tourmalines are transparent, brilliant and clean, with attractive bluish green hues, while the dark-toned stones more common in the market, which dealers call "oily" or "olive" green, sell for much less.
+- **Verdelite or chrome.** Graham's buying guide is blunt. "If you like green and you're on a budget, verdelite is the tourmaline for you." Chrome tourmaline's price per carat is significantly higher and can jump considerably after one carat, though it is still a lower-priced alternative to tsavorite or emerald.
+- **Clarity.** Green tourmalines are expected to be free of eye-visible inclusions, and distracting inclusions lower their value.
+- **Size.** Verdelite's price per carat does not jump much before reaching five carats, and tourmaline's price per carat generally rises once a gem passes five carats.
+- **Crystals.** Specimens are their own market, where attractive color and crystal form set the price.
 
 **Next Step.** Want the full color story? Start with [watermelon tourmaline](/stones/watermelon-tourmaline/), where pink and green share one crystal.
 
@@ -251,4 +251,4 @@ This guide gives no dollar figures yet. These are the things that move the price
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

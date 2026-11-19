@@ -53,7 +53,7 @@ Dumortierite is a blue to violet aluminum borosilicate mineral, hard and tough, 
 | What it is | An aluminum borosilicate mineral. Most gem material is dumortierite quartz |
 | Mineral status | A recognized species on the IMA List of Minerals |
 | Formula | Al₇BO₃(SiO₄)₃O₃, which the IMA list writes AlAl₆BSi₃O₁₈ |
-| Mohs hardness | 7. Single crystals can reach 8.5 (GemSelect). The Handbook of Mineralogy gives 7 to 8.5 |
+| Mohs hardness | 7. Single crystals can reach 8.5, for a full range of 7 to 8.5 |
 | Specific gravity | 3.3 to 3.4 (3.21 to 3.41 in the Handbook of Mineralogy). Dumortierite quartz is lighter |
 | Crystal system | Orthorhombic, as fibers, needles and columns |
 | Luster | Vitreous to dull |
@@ -75,9 +75,9 @@ Dumortierite is a blue to violet aluminum borosilicate mineral, hard and tough, 
 
 ## What Dumortierite Actually Is
 
-**The Stone.** Dumortierite is a borosilicate, a mineral built from aluminum, boron, silicon and oxygen. The [Handbook of Mineralogy](https://www.handbookofmineralogy.org/pdfs/dumortierite.pdf) describes it as fibrous or columnar crystals with generally poor faces, up to about 2.4 inches long (6 cm), or as masses of parallel needles. [Minerals.net](https://www.minerals.net/mineral/dumortierite) adds that it never forms individual crystals, only radiating sprays and fibrous, compact or grainy masses, and that those dense fibers give it "a tough durability."
+**The Stone.** Dumortierite is a borosilicate, a mineral built from aluminum, boron, silicon and oxygen. It forms fibrous or columnar crystals with generally poor faces, up to about 2.4 inches long (6 cm), or masses of parallel needles. Minerals.net goes further and says it never forms individual crystals, only radiating sprays and fibrous, compact or grainy masses, and that those dense fibers give it "a tough durability."
 
-It is hard, 7 to 8.5 on the Mohs scale (Handbook of Mineralogy). A gem dealer explains the range. Aggregates, like most cut stones, sit around 7, while single crystals can reach 8.5 ([GemSelect](https://www.gemselect.com/gem-info/dumortierite-quartz/dumortierite-quartz-info.php)). The [International Gem Society](https://www.gemsociety.org/article/dumortierite-jewelry-and-gemstone-information/) calls it "a beautiful and very hard material, eminently suitable for jewelry," though faceted stones are so rare that cabochons are the only generally known form.
+It is hard, 7 to 8.5 on the Mohs scale. Aggregates, like most cut stones, sit around 7, while single crystals can reach 8.5. The International Gem Society calls it "a beautiful and very hard material, eminently suitable for jewelry," though faceted stones are so rare that cabochons are the only generally known form.
 
 ### Is Dumortierite a Crystal?
 
@@ -85,37 +85,37 @@ Yes, in the mineral sense. It has an orderly orthorhombic structure, but it grow
 
 ### Where Dumortierite Forms
 
-It grows in aluminum-rich rocks changed by heat and pressure, such as schists, and in pegmatite veins (Handbook of Mineralogy), as well as in hydrothermal replacement deposits (Minerals.net). Minerals.net calls it "not a common mineral," with only a handful of localities producing quality specimens.
+It grows in aluminum-rich rocks changed by heat and pressure, such as schists, and in pegmatite veins, as well as in hydrothermal replacement deposits. It is not a common mineral, with only a handful of localities producing quality specimens.
 
-Those include deep blue crystals from Madagascar, fine needles from Peru, and deep blue dumortierite in quartz from Macaúbas, Bahia, Brazil, where it is known locally as "Bahia Blue Quartz." In the United States, blue and lavender fibrous dumortierite comes from the Dehesa deposit near Alpine, San Diego County, California, with more from Nevada and Arizona (Minerals.net). The IGS notes violet gem material from Pershing County, Nevada, and transparent reddish brown stones from Sri Lanka.
+Those include deep blue crystals from Madagascar, fine needles from Peru, and deep blue dumortierite in quartz from Macaúbas, Bahia, Brazil, where it is known locally as "Bahia Blue Quartz." In the United States, blue and lavender fibrous dumortierite comes from the Dehesa deposit near Alpine, San Diego County, California, with more from Nevada and Arizona. Violet gem material comes from Pershing County, Nevada, and transparent reddish brown stones from Sri Lanka.
 
 ### What Color Is Dumortierite?
 
-Mostly blue, from bright smalt blue to greenish blue, plus violet, red-violet, purple and brown (Handbook of Mineralogy). The blue comes mainly from iron and titanium working together, a process called charge transfer, according to a 2015 note in GIA's journal *Gems & Gemology*. In Brazilian rock crystal with colorless dumortierite needles, the GIA authors found almost 10 times more magnesium than in the blue ones, and they suggest that magnesium can keep titanium from pairing with iron ([Gems & Gemology, 2015](https://www.gia.edu/gems-gemology/spring-2015-gemnews-dumortierite-rock-crystal-quartz)). Titanium was already the suspect in the 1920s, when the mineralogist Ernest E. Fairbanks wrote in *American Mineralogist* that it could explain dumortierite's various colors.
+Mostly blue, from bright smalt blue to greenish blue, plus violet, red-violet, purple and brown. The blue comes mainly from iron and titanium working together, a process called charge transfer. In Brazilian rock crystal with colorless dumortierite needles, the authors of a 2015 GIA note found almost 10 times more magnesium than in the blue ones, and they suggest that magnesium can keep titanium from pairing with iron. Titanium was already the suspect in the 1920s, when the mineralogist Ernest E. Fairbanks wrote in *American Mineralogist* that it could explain dumortierite's various colors.
 
-The color also shifts with the angle of view. The Handbook of Mineralogy lists strong pleochroism, from deep blue or violet to yellow, red-violet or nearly colorless, depending on the direction.
+The color also shifts with the angle of view. It shows strong pleochroism, from deep blue or violet to yellow, red-violet or nearly colorless, depending on the direction.
 
 ## Dumortierite vs Dumortierite Quartz
 
-Most "dumortierite" in a crystal shop is not the pure mineral. "Pure Dumortierite gemstones are rarely encountered," [Minerals.net](https://www.minerals.net/gemstone/dumortierite) says. Most lapidary material is quartz with dense blue dumortierite inside, sold under "the confusing term" dumortierite quartz, or simply as blue quartz. Since that stone is mostly quartz, Minerals.net considers quartz's properties the more accurate reference for it.
+Most "dumortierite" in a crystal shop is not the pure mineral. "Pure Dumortierite gemstones are rarely encountered," Minerals.net says. Most lapidary material is quartz with dense blue dumortierite inside, sold under "the confusing term" dumortierite quartz, or simply as blue quartz. Since that stone is mostly quartz, quartz's properties are the more accurate reference for it.
 
-The [International Gem Society](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/) describes dumortierite quartz as "a dense, deep blue to violet material made up of crystalline quartz colored by dumortierite, a complex borosilicate." The blue can fill the stone or sit in splotches and zones, which is why many pieces show light and dark patches (Minerals.net). It is one of several kinds of [blue quartz](/stones/blue-quartz/), and the dense rock form is related to [blue quartzite](/stones/blue-quartzite/).
+The International Gem Society describes dumortierite quartz as "a dense, deep blue to violet material made up of crystalline quartz colored by dumortierite, a complex borosilicate." The blue can fill the stone or sit in splotches and zones, which is why many pieces show light and dark patches. It is one of several kinds of [blue quartz](/stones/blue-quartz/), and the dense rock form is related to [blue quartzite](/stones/blue-quartzite/).
 
-GIA has documented both ends of the range. In 2015 its lab examined clear rock crystal reported to come from Bahia, Brazil, with vibrant blue needles inside, which Raman analysis confirmed as dumortierite, the first such prismatic blue and colorless inclusions the authors had encountered. In 2013 a gem lab in Jaipur, India, received an opaque blue cabochon submitted as sapphire. It was first taken for dyed quartzite and turned out to be natural dumortierite quartz rock, roughly 55 percent quartz and 45 percent dumortierite, with a specific gravity of 2.99 against 2.65 for pure quartz ([Gems & Gemology, 2013](https://www.gia.edu/articles/spring-2013-gemnews-dumortierite-quartz-rock-sapphire)).
+GIA has documented both ends of the range. In 2015 its lab examined clear rock crystal reported to come from Bahia, Brazil, with vibrant blue needles inside, which Raman analysis confirmed as dumortierite, the first such prismatic blue and colorless inclusions the authors had encountered. In 2013 a gem lab in Jaipur, India, received an opaque blue cabochon submitted as sapphire. It was first taken for dyed quartzite and turned out to be natural dumortierite quartz rock, roughly 55 percent quartz and 45 percent dumortierite, with a specific gravity of 2.99 against 2.65 for pure quartz.
 
 <!-- PHOTO 2, beside "Dumortierite vs Dumortierite Quartz". Wikimedia Commons, "File Azul Macauba dumortierite quartzite Caillois Donation MNHN.jpg", by Marie-Lan Taÿ Pamart, Caillois donation, Muséum national d'Histoire naturelle. Page https://commons.wikimedia.org/wiki/File:Azul_Macauba_dumortierite_quartzite_Caillois_Donation_MNHN.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Azul_Macauba_dumortierite_quartzite_Caillois_Donation_MNHN.jpg/1280px-Azul_Macauba_dumortierite_quartzite_Caillois_Donation_MNHN.jpg (tracking parameters removed). License CC BY 4.0. Credit line "Photo Marie-Lan Taÿ Pamart, CC BY 4.0, via Wikimedia Commons". visual_check ok in image_picks_new_stones.json, with the note "could be dumortierite-in-quartz; uncertain", so the photo pass should confirm the museum label before use. Alt text "Polished pale blue slab of Azul Macaúba dumortierite quartzite with a wavy pattern". -->
 
 ### From Gem Shop to Spark Plug
 
-Dumortierite has an industrial past. It "is also mined for spark plug ceramics as an electric insulator," notes Minerals.net. In the 1920s, Fairbanks reported in *American Mineralogist* that a dumortierite deposit near Oreana, Nevada, had been bought by interests representing the Champion company and that a dumortierite schist was being used to make refractories, and a companion article by Albert B. Peck said the deposit was owned and developed by the Champion Porcelain Company ([American Mineralogist](https://msaweb.org/AmMin/AM11/AM11_93.pdf)). The Handbook of Mineralogy lists the Champion mine near Oreana as "once mined commercially."
+Dumortierite has an industrial past. It is also mined for spark plug ceramics as an electric insulator. In the 1920s, Fairbanks reported in *American Mineralogist* that a dumortierite deposit near Oreana, Nevada, had been bought by interests representing the Champion company and that a dumortierite schist was being used to make refractories, and a companion article by Albert B. Peck said the deposit was owned and developed by the Champion Porcelain Company. The Champion mine near Oreana was once mined commercially.
 
 ## Where the Meaning Comes From
 
 **The Story.** Dumortierite is too young for ancient lore. The mineral was only named in the 1800s, so it appears in no ancient or medieval lapidary, as one crystal seller's guide itself points out.
 
-- **1800s, France.** The mineral is first found at a quarry in Beaunant, in the Rhône department of France ([Minerals.net](https://www.minerals.net/mineral/dumortierite)), and takes its name from Eugène Dumortier, a French paleontologist of Lyon ([Handbook of Mineralogy](https://www.handbookofmineralogy.org/pdfs/dumortierite.pdf)).
-- **1920s, Nevada.** Dumortierite earns its keep as a raw material for porcelain and refractories (Fairbanks, Peck).
-- **Today, crystal shops.** **Modern Association.** Crystal sellers make it a stone of self-discipline, patience, order and mental clarity. One guide calls it the "take-it-easy stone," and another lists a nickname, the "blue denim stone," which a gem dealer notes is not an official name (GemSelect).
+- **1800s, France.** The mineral is first found at a quarry in Beaunant, in the Rhône department of France, and takes its name from Eugène Dumortier, a French paleontologist of Lyon.
+- **1920s, Nevada.** Dumortierite earns its keep as a raw material for porcelain and refractories.
+- **Today, crystal shops.** **Modern Association.** Crystal sellers make it a stone of self-discipline, patience, order and mental clarity. One guide calls it the "take-it-easy stone," and another lists a nickname, the "blue denim stone," which a gem dealer notes is not an official name.
 - **Today, a borrowed tradition.** **Modern Association.** One blog pairs dumortierite with Hindu mantras and the goddess Saraswati, patron of learning. That is modern practice, not an old tradition, since the mineral had no name before the 1800s.
 
 Where do the meanings come from, then? One crystal guide answers honestly that they come from contemporary crystal practice, which "reads a lot into the stone's calm blue colour and its tightly knit, fibrous structure." A calm color and a tightly woven texture suggest a calm, orderly mind. That is the whole chain.
@@ -128,7 +128,7 @@ Students and language learners are the classic audience. Guides suggest a raw ch
 
 ### What Is Dumortierite Good For?
 
-As a mineral, it is a hard, tough blue stone that holds up well in jewelry, and the IGS calls it eminently suitable for it. Everything else people say it does is belief about the person holding it, a steadier study session or a calmer reply.
+As a mineral, it is a hard, tough blue stone that holds up well in jewelry, and gem references call it eminently suitable for it. Everything else people say it does is belief about the person holding it, a steadier study session or a calmer reply.
 
 Some sellers go much further and list headaches, nausea, cramps, skin irritation, obsessive-compulsive disorder, ADHD and addiction. Those are health claims with no mineral basis. One crystal guide says it plainly, dumortierite "does not treat, cure or prevent any condition, including anxiety or attention difficulties."
 
@@ -162,32 +162,32 @@ Some sellers go much further and list headaches, nausea, cramps, skin irritation
 
 We use the same five labels on every stone.
 
-- **Natural, untreated.** The usual case. Minerals.net says dumortierite gemstones "are natural and not treated or enhanced," and GemSelect says dumortierite quartz is not known for any treatments.
+- **Natural, untreated.** The usual case. Dumortierite gemstones are natural and not treated or enhanced, and dumortierite quartz is not known for any treatments.
 - **Natural, treated.** We found no reference source describing dyed dumortierite. The treated stone you may meet instead is dyed blue quartzite, which is what the Jaipur lab first suspected in the 2013 case before the stone proved to be natural dumortierite quartz rock.
 - **Lab-grown.** We found no reference source describing lab-grown dumortierite.
-- **Imitation.** Dumortierite is more often the stand-in than the stone being copied. GemSelect calls dumortierite quartz a hardy substitute for softer stones like lapis lazuli and sodalite, and the 2013 case in GIA's journal shows it presented as sapphire.
-- **Trade names.** Minerals.net lists "Bahia Blue Quartz" and "Blue Moon Quartz" as synonyms for dumortierite quartz. GemSelect adds that "blue moon quartz" and "blue denim stone" are not official names.
+- **Imitation.** Dumortierite is more often the stand-in than the stone being copied. Dumortierite quartz is a hardy substitute for softer stones like lapis lazuli and sodalite, and the 2013 case shows it presented as sapphire.
+- **Trade names.** "Bahia Blue Quartz" and "Blue Moon Quartz" are listed as synonyms for dumortierite quartz, though one gem dealer points out that "blue moon quartz" and "blue denim stone" are not official names.
 
 Three checks you can do at home, with their limits.
 
-1. **Look for white veins.** Lapis lazuli and sodalite often carry white veins, and dumortierite usually does not (Minerals.net). The limit is that some dumortierite quartz shows white streaks or spots too (GemSelect).
-2. **Look for fibers with a loupe.** Dumortierite grows as fibers and needles, while lazurite, lazulite and sodalite lack that fibrous structure (Minerals.net). Dense dumortierite quartz can look grainy instead, like the 2013 Jaipur stone, so seeing no fibers proves nothing.
+1. **Look for white veins.** Lapis lazuli and sodalite often carry white veins, and dumortierite usually does not. The limit is that some dumortierite quartz shows white streaks or spots too.
+2. **Look for fibers with a loupe.** Dumortierite grows as fibers and needles, while lazurite, lazulite and sodalite lack that fibrous structure. Dense dumortierite quartz can look grainy instead, like the 2013 Jaipur stone, so seeing no fibers proves nothing.
 3. **Look at where the blue sits.** Dye gathers along grain boundaries. In the 2013 case, natural dumortierite quartz did the same under strong light, and only reflected light and lab tests sorted it out. Read this one as a reason to ask questions, not as a verdict.
 
-Raman analysis settled both cases in GIA's journal. Ask the seller whether the stone is pure dumortierite or dumortierite quartz, whether anything was dyed, and where it was mined. GemSelect advises verifying any transparent blue material thoroughly. The [Label Decoder](/tools/crystal-label-decoder/) turns the words on a tag into what they usually mean.
+Raman analysis settled both cases, in 2013 and in 2015. Ask the seller whether the stone is pure dumortierite or dumortierite quartz, whether anything was dyed, and where it was mined. Verify any transparent blue material thoroughly. The [Label Decoder](/tools/crystal-label-decoder/) turns the words on a tag into what they usually mean.
 
 ## How to Care for Dumortierite
 
-**Mineral Fact.** Dumortierite is hard and tough, but not the hardest stone in a jewelry box. The care advice comes from a gem dealer's page on dumortierite quartz, the usual gem form (GemSelect), so it fits most pieces you can buy.
+**Mineral Fact.** Dumortierite is hard and tough, but not the hardest stone in a jewelry box. The care advice comes from a gem dealer's page on dumortierite quartz, the usual gem form, so it fits most pieces you can buy.
 
 - **Water and cleaning.** OK. Warm soapy water and a soft cloth, rinsed thoroughly.
 - **Soaking.** Brief only. The advice covers washing, not long soaks.
 - **Sun.** Unknown. No reference source covers it yet.
-- **Heat.** Avoid. GemSelect says to avoid extreme heat.
-- **Chemicals.** Avoid. Harsh chemicals "might harm the color," says GemSelect.
+- **Heat.** Avoid. Keep it away from extreme heat.
+- **Chemicals.** Avoid. Harsh chemicals might harm the color.
 - **Salt.** Unknown.
 - **Storage.** Brief only. Harder gems like topaz, sapphire or diamond can scratch it, so store it separately, wrapped in a soft cloth or in a lined box.
-- **Toxicity.** OK to wear and handle. The IGS [toxicity table](https://www.gemsociety.org/article/gemstone-care-guide/) lists no known risk for dumortierite.
+- **Toxicity.** OK to wear and handle. No known toxicity risk is listed for dumortierite.
 
 ### Can Dumortierite Go in Water or Sun?
 
@@ -195,16 +195,16 @@ A wash, yes. A long soak, keep it brief. Crystal guides split on this, with one 
 
 ## Dumortierite vs Look-Alikes
 
-- **Sodalite.** Lacks the fibrous structure, is usually a more intense blue and is softer (Minerals.net), often with white veins. See [sodalite](/stones/sodalite/).
-- **Lapis lazuli.** Softer than dumortierite and often veined with white (Minerals.net). See [sodalite vs lapis lazuli](/compare/sodalite-vs-lapis-lazuli/) for the other common mix-up.
-- **Lazurite and lazulite.** Same differences as sodalite (Minerals.net).
-- **Kyanite.** Lower in hardness, at least in one direction (Minerals.net).
-- **Sillimanite.** Rarely as blue or violet as dumortierite (Minerals.net).
-- **Azurite.** A similar blue, but dumortierite quartz is harder and tougher (GemSelect).
+- **Sodalite.** Lacks the fibrous structure, is usually a more intense blue and is softer, often with white veins. See [sodalite](/stones/sodalite/).
+- **Lapis lazuli.** Softer than dumortierite and often veined with white. See [sodalite vs lapis lazuli](/compare/sodalite-vs-lapis-lazuli/) for the other common mix-up.
+- **Lazurite and lazulite.** Same differences as sodalite.
+- **Kyanite.** Lower in hardness, at least in one direction.
+- **Sillimanite.** Rarely as blue or violet as dumortierite.
+- **Azurite.** A similar blue, but dumortierite quartz is harder and tougher.
 
 ## Price Guide
 
-Dumortierite quartz is sold mostly as beads and cabochons, and GemSelect notes it comes in large sizes at affordable prices. Dark blue is the color seen most often. Rare, slightly translucent pieces stand out, and faceted dumortierite is so rare that the IGS calls cabochons the only generally known form. GemSelect also advises buying colored stones by size rather than by carat weight. What moves the price is the form (a bead strand, a cabochon or a rare faceted stone), the size, the depth and evenness of the blue, and whether the stone is pure dumortierite or dumortierite quartz. Ask the seller which one it is before you compare two prices.
+Dumortierite quartz is sold mostly as beads and cabochons, and it comes in large sizes at affordable prices. Dark blue is the color seen most often. Rare, slightly translucent pieces stand out, and faceted dumortierite is so rare that cabochons are the only generally known form. One dealer also advises buying colored stones by size rather than by carat weight. What moves the price is the form (a bead strand, a cabochon or a rare faceted stone), the size, the depth and evenness of the blue, and whether the stone is pure dumortierite or dumortierite quartz. Ask the seller which one it is before you compare two prices.
 
 **Next Step.** Building a study corner? See how dumortierite compares with the usual picks in [crystals for focus](/crystals-for/focus/).
 
@@ -224,4 +224,4 @@ Dumortierite quartz is sold mostly as beads and cabochons, and GemSelect notes i
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

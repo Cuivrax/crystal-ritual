@@ -69,31 +69,31 @@ Mahogany obsidian is natural volcanic glass, black swirled with reddish-brown st
 
 ## What Mahogany Obsidian Actually Is
 
-**The Stone.** Obsidian is an igneous rock that forms when molten rock cools so fast that its atoms cannot arrange themselves into crystals ([Geology.com](https://geology.com/rocks/obsidian.shtml)). The result is a natural glass, which Geology.com calls a mineraloid, with a smooth, even texture. Most obsidian has a chemistry close to rhyolite and granite, rocks that can form from the same magma.
+**The Stone.** Obsidian is an igneous rock that forms when molten rock cools so fast that its atoms cannot arrange themselves into crystals. The result is a natural glass, a mineraloid, with a smooth, even texture. Most obsidian has a chemistry close to rhyolite and granite, rocks that can form from the same magma.
 
-Black is the most common color, but obsidian can also be brown, tan or green. When two colors swirl together in one piece, the most common pair is black and brown, and that is what the trade calls mahogany obsidian (Geology.com). So when a shop calls it rare, take that with a grain of salt.
+Black is the most common color, but obsidian can also be brown, tan or green. When two colors swirl together in one piece, the most common pair is black and brown, and that is what the trade calls mahogany obsidian. So when a shop calls it rare, take that with a grain of salt.
 
 ### What Makes the Red-Brown Streaks?
 
-Iron. The [International Gem Society](https://www.gemsociety.org/article/obsidian-jewelry-and-gemstone-information/) describes mahogany obsidian as a variety with reddish-brown color due to iron impurities, and shows a cabochon labeled mahogany "blood" obsidian.
+Iron. Mahogany obsidian is a variety with reddish-brown color due to iron impurities, and some cabochons are labeled mahogany "blood" obsidian.
 
-The exact form the iron takes is less settled. The geology blog [Geologyin](https://geologyin.com/2023/12/mahogany-obsidian.html) points to hematite, a red iron oxide. [FossilEra](https://www.fossilera.com/pages/obsidian-nature-s-volcanic-glass), a fossil and mineral dealer, describes iron-bearing particles that oxidized in patches while the lava was still stretching and folding, which it says is why the color comes in swirls.
+The exact form the iron takes is less settled. One geology blog points to hematite, a red iron oxide. A fossil and mineral dealer describes iron-bearing particles that oxidized in patches while the lava was still stretching and folding, which it says is why the color comes in swirls.
 
 ### Is Mahogany Obsidian a Crystal?
 
-No, even though it sells in crystal shops. Obsidian is amorphous glass with no crystal structure, and the International Gem Society lists it as a rock rather than a mineral. Its broken edges are, in that source's words, sharper than any steel knife, so keep chipped bits and raw shards away from children and pets.
+No, even though it sells in crystal shops. Obsidian is amorphous glass with no crystal structure, and it counts as a rock rather than a mineral. Its broken edges are sharper than any steel knife, so keep chipped bits and raw shards away from children and pets.
 
 ### Where Mahogany Obsidian Comes From
 
-Obsidian only survives where volcanoes were active in geologically recent times, so in the US it is not found east of the Mississippi River, yet most obsidian used in the jewelry trade is produced in the United States (Geology.com). The International Gem Society lists Oregon for mahogany, and Geology.com shows it from the Glass Butte rockhounding site in central Oregon. FossilEra adds Arizona, California, Nevada, Colorado and Utah, and Geologyin names Mexico.
+Obsidian only survives where volcanoes were active in geologically recent times, so in the US it is not found east of the Mississippi River, yet most obsidian used in the jewelry trade is produced in the United States. Mahogany obsidian comes from Oregon, including the Glass Butte rockhounding site in central Oregon, and dealers add Arizona, California, Nevada, Colorado and Utah. It is also found in Mexico.
 
-It is cut into tumbled stones, beads and cabochons, and Geology.com even shows a mahogany obsidian knife blade knapped with a serrated edge.
+It is cut into tumbled stones, beads and cabochons, and it has even been knapped into a mahogany obsidian knife blade with a serrated edge.
 
 ## Where the Meaning Comes From
 
 **The Story.** No old text names mahogany obsidian. Kunz's two books on gem lore (1913 and 1915) mention obsidian as black glass, mirrors and tools, never the mahogany kind. What it inherits is the long human story of obsidian itself.
 
-- **Stone Age.** Sharp flakes of obsidian were probably its first use. It became one of the first targets of organized mining, and ancient people traded it over distances of up to a thousand miles (Geology.com).
+- **Stone Age.** Sharp flakes of obsidian were probably its first use. It became one of the first targets of organized mining, and ancient people traded it over distances of up to a thousand miles.
 - **Ancient Rome, 1st century CE.** **Tradition.** Pliny the Elder wrote that the "obsian stone" took its name from Obsius, who found it in Ethiopia, and called it "of a very dark colour, and sometimes transparent." It served as a wall mirror that showed shadows more than images (*Natural History*, Book 36, chapter 67, Bostock and Riley translation, [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D36%3Achapter%3D67)).
 - **Ancient Mexico.** **Tradition.** The Mexicans made images of the god Tezcatlipoca of obsidian, and his name is read as "shining mirror." Obsidian mirrors are said to have been used for divination (Kunz, *The Curious Lore of Precious Stones*, 1913, pages 204 to 205).
 - **16th century, England.** **Tradition.** A polished slab of Mexican obsidian later owned by Horace Walpole was described in an old catalogue as "the black stone into which Dr. Dee used to call his spirits," after John Dee and his crystal gazing (Kunz 1913, pages 195 to 196).
@@ -101,23 +101,23 @@ It is cut into tumbled stones, beads and cabochons, and Geology.com even shows a
 
 ### What Are Apache Tears?
 
-The best-known obsidian legend of the Southwest is about black obsidian, not the mahogany kind. Apache tears, small nodules from the region, take their name from a legend. After an 1870 battle between Apaches and the US Cavalry, the tears of grieving families are said to have turned to stone (Geology.com).
+The best-known obsidian legend of the Southwest is about black obsidian, not the mahogany kind. Apache tears, small nodules from the region, take their name from a legend. After an 1870 battle between Apaches and the US Cavalry, the tears of grieving families are said to have turned to stone.
 
 ## What People Use Mahogany Obsidian for Today
 
 **Modern Association.** Modern crystal guides make mahogany obsidian a Classic stone for [grounding](/crystals-for/grounding/) and for [protection](/crystals-for/protection/). It is Widely Linked with love and Often Linked with confidence and courage. Calm and focus are Sometimes Linked, and sleep is Rarely Linked.
 
-The "why" has three parts. Obsidian already carries a protection reputation, a stone "commonly thought to give wearers the strength needed to stand on their own convictions," in the words of Fire Mountain Gems. The brown softens it, and guides pitch mahogany to people who want grounding "without emotional overwhelm" (The Crystal Studio). The earthy color does the rest, and earth is the element guides name most.
+The "why" has three parts. Obsidian already carries a protection reputation, a stone "commonly thought to give wearers the strength needed to stand on their own convictions," in the words of one bead seller. The brown softens it, and guides pitch mahogany to people who want grounding "without emotional overwhelm." The earthy color does the rest, and earth is the element guides name most.
 
 Most guides place it on the sacral chakra, the center of emotion and creativity in chakra charts, and some on the root chakra. Signs scatter from Aries to Aquarius, so treat any single sign as one guide's pick.
 
-Gem Avenue adds cutting "energetic cords," and Stonebridge Imports calls it "a stone of reflection, a reminder to notice what deserves your attention," maybe the most useful line of the lot.
+One shop adds cutting "energetic cords," and another calls it "a stone of reflection, a reminder to notice what deserves your attention," maybe the most useful line of the lot.
 
 ### What Does Mahogany Obsidian Do?
 
 As a material, it takes a high polish, knaps to a razor edge and makes handsome low-impact jewelry. Everything else is belief about the person holding it.
 
-Some guides promise pain relief, better circulation, organ detox, or help with depression and addiction. Mineralogy and medicine do not support those claims. One Brazilian shop even suggests rinsing your mouth with water that held the stone (Cristais de Curvelo). Do not. No stone belongs in water you drink.
+Some guides promise pain relief, better circulation, organ detox, or help with depression and addiction. Mineralogy and medicine do not support those claims. One Brazilian shop even suggests rinsing your mouth with water that held the stone. Do not. No stone belongs in water you drink.
 
 ## How to Use Mahogany Obsidian in Everyday Life
 
@@ -137,7 +137,7 @@ Some guides promise pain relief, better circulation, organ detox, or help with d
 
 **Safety.** Handle raw pieces with care and throw away chips. Small tumbled stones and bead bracelets are not toys, so keep them away from small children and pets.
 
-**What Research Says.** Breathing, unlike stones, has been tested. In a small remote randomized study, 108 adults spent 5 minutes a day for a month on breathing exercises or mindfulness meditation, and the breathing groups, especially cyclic sighing with its long exhale, gained more in mood ([Balban and colleagues, 2023](https://doi.org/10.1016/j.xcrm.2022.100895)). The authors call it exploratory, mood was self-reported, and no stones were involved, so the stone here is only the reminder.
+**What Research Says.** Breathing, unlike stones, has been tested. In a small remote randomized study by [Balban and colleagues (2023)](https://doi.org/10.1016/j.xcrm.2022.100895), 108 adults spent 5 minutes a day for a month on breathing exercises or mindfulness meditation, and the breathing groups, especially cyclic sighing with its long exhale, gained more in mood. The authors call it exploratory, mood was self-reported, and no stones were involved, so the stone here is only the reminder.
 
 > **When a Stone Is Not Enough.** Some guides recommend mahogany obsidian for trauma, depression, addiction or a child's mood swings. A stone can be a comfort to hold, but it is not care. If low mood, cravings or a child's distress lasts or feels heavy, talk to a doctor, a therapist or your pediatrician. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
@@ -145,36 +145,36 @@ Some guides promise pain relief, better circulation, organ detox, or help with d
 
 We use the same five labels on every stone.
 
-- **Natural, untreated.** The normal case. Dealers say obsidian is normally sold untreated ([Gemsprings](https://gemsprings.com/mineralpedia/obsidian)).
+- **Natural, untreated.** The normal case. Dealers say obsidian is normally sold untreated.
 - **Natural, treated.** None, according to dealers.
 - **Lab-grown.** Not applicable. Man-made glass is not lab-grown obsidian, it is simply glass.
-- **Imitation.** Red jasper, carnelian and red chalcedony are sometimes sold as "red obsidian" (Geologyin). Glass copies are an old trick, since Pliny already knew an artificial obsian stone made of colored glass. Today manufactured red glass is passed off as natural obsidian in that rare color (International Gem Society), and some "cherry obsidian" is manufactured glass, often sold without clear disclosure ([Skyjems](https://skyjems.ca/pages/encyclopedia-obsidian), a dealer encyclopedia).
-- **Trade names.** Red obsidian and mountain mahogany both mean mahogany obsidian (Geologyin), and "blood" obsidian appears on some labels. "Red obsidian" is the loose one, since it can also cover the red stones above.
+- **Imitation.** Red jasper, carnelian and red chalcedony are sometimes sold as "red obsidian." Glass copies are an old trick, since Pliny already knew an artificial obsian stone made of colored glass. Today manufactured red glass is passed off as natural obsidian in that rare color, and a dealer encyclopedia notes that some "cherry obsidian" is manufactured glass, often sold without clear disclosure.
+- **Trade names.** Red obsidian and mountain mahogany both mean mahogany obsidian, and "blood" obsidian appears on some labels. "Red obsidian" is the loose one, since it can also cover the red stones above.
 
 ### Mahogany Obsidian or Red Jasper?
 
-For red-and-black garden rocks, the answer is in the surface. Mahogany obsidian is glass, with a glassy shine and smooth, curved breaks. Red jasper is microcrystalline quartz, harder and more durable, with a more opaque, earthy look and a rougher texture (Geologyin). See [red jasper](/stones/red-jasper/) for the other side. And since Geology.com calls truly red obsidian rare, a bright red, glassy stone sold cheaply as "red obsidian" deserves a question.
+For red-and-black garden rocks, the answer is in the surface. Mahogany obsidian is glass, with a glassy shine and smooth, curved breaks. Red jasper is microcrystalline quartz, harder and more durable, with a more opaque, earthy look and a rougher texture. See [red jasper](/stones/red-jasper/) for the other side. And since truly red obsidian is rare, a bright red, glassy stone sold cheaply as "red obsidian" deserves a question.
 
 Three checks you can do at home, with their limits.
 
-1. **Look at the luster and any break.** Glossy glass with shell-like, curved breaks fits obsidian (Geology.com). Polished jasper can look glossy too, and you should never chip a stone to test it.
-2. **Use a loupe.** Crystallites, straight banding and needles are telltale signs of natural obsidian rather than man-made glass (International Gem Society). Spotting them takes practice.
-3. **Try a magnet.** Natural obsidian can react moderately to very strongly, and some mahogany pieces are weakly magnetic (Geologyin). The International Gem Society says this is not a definitive test.
+1. **Look at the luster and any break.** Glossy glass with shell-like, curved breaks fits obsidian. Polished jasper can look glossy too, and you should never chip a stone to test it.
+2. **Use a loupe.** Crystallites, straight banding and needles are telltale signs of natural obsidian rather than man-made glass. Spotting them takes practice.
+3. **Try a magnet.** Natural obsidian can react moderately to very strongly, and some mahogany pieces are weakly magnetic. It is not a definitive test, though.
 
-A gemologist can separate obsidian from chalcedony and black tourmaline with a refractive index test (International Gem Society). Ask the seller whether it is obsidian, jasper or glass, and where it was found. The [Label Decoder](/tools/crystal-label-decoder/) turns the words on a tag into what they usually mean.
+A gemologist can separate obsidian from chalcedony and black tourmaline with a refractive index test. Ask the seller whether it is obsidian, jasper or glass, and where it was found. The [Label Decoder](/tools/crystal-label-decoder/) turns the words on a tag into what they usually mean.
 
 ## How to Care for Mahogany Obsidian
 
-**Mineral Fact.** Obsidian is easy to scratch and chips on impact, so Geology.com calls it best suited to earrings, brooches and pendants, not rings and bracelets. Even household dust is harder than obsidian (International Gem Society).
+**Mineral Fact.** Obsidian is easy to scratch and chips on impact, so it is best suited to earrings, brooches and pendants, not rings and bracelets. Even household dust is harder than obsidian.
 
-- **Water.** OK for washing. Use mild soap, a soft brush and warm water (International Gem Society).
+- **Water.** OK for washing. Use mild soap, a soft brush and warm water.
 - **Soaking.** Brief only. Care guidance covers washing, not a long soak.
 - **Sun.** Unknown. There is no reliable guidance yet, so skip long spells in strong sun.
-- **Heat.** Avoid. The International Gem Society warns that obsidian may contain inclusions that could expand when heated, and Skyjems adds that it is sensitive to thermal shock.
+- **Heat.** Avoid. Obsidian may contain inclusions that could expand when heated, and it is sensitive to thermal shock.
 - **Chemicals and salt.** Unknown. There is no reliable guidance yet, so keep household cleaners and salt away from it.
-- **Cleaning.** OK by hand. Wipe dust off with a lint-free cloth rather than scrubbing, and skip mechanical cleaning systems (International Gem Society).
-- **Knocks and storage.** Avoid knocks. Store it in a soft pouch, away from harder stones (Skyjems).
-- **Toxicity.** OK to wear and handle. The International Gem Society [toxicity table](https://www.gemsociety.org/article/gemstone-care-guide/) rates obsidian Low risk, with silicosis as the hazard, which concerns cutting and polishing dust, not an intact stone.
+- **Cleaning.** OK by hand. Wipe dust off with a lint-free cloth rather than scrubbing, and skip mechanical cleaning systems.
+- **Knocks and storage.** Avoid knocks. Store it in a soft pouch, away from harder stones.
+- **Toxicity.** OK to wear and handle. A standard gem toxicity table rates obsidian Low risk, with silicosis as the hazard, which concerns cutting and polishing dust, not an intact stone.
 
 ### Can Mahogany Obsidian Go in Water?
 
@@ -182,18 +182,18 @@ A wash, yes. A long soak, no. One French shop suggests two to three hours in spr
 
 ## Mahogany Obsidian vs Look-Alikes
 
-- **Black obsidian.** The same glass without the brown, and the most common color of all (Geology.com). See [obsidian](/stones/obsidian/).
-- **Rainbow obsidian.** Dark glass with iridescent bands, which the International Gem Society credits to inclusions of magnetite nano-crystals. Mahogany's color sits in the glass itself rather than in a sheen. See [rainbow obsidian](/stones/rainbow-obsidian/).
-- **Snowflake obsidian.** Black glass with white "snowflakes," clusters of cristobalite crystals that grew as the glass began to crystallize (Geology.com).
+- **Black obsidian.** The same glass without the brown, and the most common color of all. See [obsidian](/stones/obsidian/).
+- **Rainbow obsidian.** Dark glass with iridescent bands, from inclusions of magnetite nano-crystals. Mahogany's color sits in the glass itself rather than in a sheen. See [rainbow obsidian](/stones/rainbow-obsidian/).
+- **Snowflake obsidian.** Black glass with white "snowflakes," clusters of cristobalite crystals that grew as the glass began to crystallize.
 
 ## Price Guide
 
-Obsidian commonly occurs in large pieces (International Gem Society), and black with brown is its most common color pair (Geology.com), so mahogany pieces are not hard to find. When two prices differ, look at these.
+Obsidian commonly occurs in large pieces, and black with brown is its most common color pair, so mahogany pieces are not hard to find. When two prices differ, look at these.
 
-- **Size.** The glass comes in fragments from microscopic to many inches across, and carvings up to 8 to 10 inches could be made (IGS). Compare pieces of the same size.
-- **Pattern and color.** Brown swirls are the usual look, while red obsidian is rare (Geology.com), and manufactured red glass is passed off as natural obsidian in that rare color (IGS), so a bright red, glassy piece priced as a rarity deserves a question.
-- **Cut and work.** Lapidaries cut obsidian into cabochons, beads and carvings (IGS), and it is also tumbled and sometimes faceted (Geology.com). The serrated mahogany blade Geology.com shows took a craftsman with "a very high skill level," so a knapped or carved piece pays for skill as well as glass.
-- **Origin.** The IGS lists Oregon among the sources of mahogany obsidian, and Geology.com says most obsidian used in the jewelry trade is produced in the United States, so a US locality on the tag is expected rather than special.
+- **Size.** The glass comes in fragments from microscopic to many inches across, and carvings up to 8 to 10 inches could be made. Compare pieces of the same size.
+- **Pattern and color.** Brown swirls are the usual look, while red obsidian is rare, and manufactured red glass is passed off as natural obsidian in that rare color, so a bright red, glassy piece priced as a rarity deserves a question.
+- **Cut and work.** Lapidaries cut obsidian into cabochons, beads and carvings, and it is also tumbled and sometimes faceted. The serrated mahogany blade mentioned above took a craftsman with a very high skill level, so a knapped or carved piece pays for skill as well as glass.
+- **Origin.** Oregon is among the sources of mahogany obsidian, and most obsidian used in the jewelry trade is produced in the United States, so a US locality on the tag is expected rather than special.
 
 **Next Step.** Still not sure whether your red-and-black stone is glass or quartz? Compare it with our [red jasper](/stones/red-jasper/) page.
 
@@ -211,4 +211,4 @@ Obsidian commonly occurs in large pieces (International Gem Society), and black 
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

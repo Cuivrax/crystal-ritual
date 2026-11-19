@@ -76,19 +76,19 @@ Dalmatian jasper, also called Dalmatian stone, is a white to cream rock with bla
 
 ## What Dalmatian Jasper Actually Is
 
-**The Stone.** Jasper is an opaque, solid or patterned form of microcrystalline quartz colored by mineral impurities ([International Gem Society](https://www.gemsociety.org/article/jasper-gem-information/)). Dalmatian jasper does not fit that definition, and two independent investigations reached the same answer.
+**The Stone.** Jasper is an opaque, solid or patterned form of microcrystalline quartz colored by mineral impurities. Dalmatian jasper does not fit that definition, and two independent investigations reached the same answer.
 
-**Mineral Fact.** In *Gems & Gemology*, GIA's research journal, Tomasz Powolny and Magdalena Dumańska-Słowik describe it as a peralkaline igneous rock made mostly of feldspar (mesoperthite), quartz and alkali amphiboles, with lesser hematite and epidote. The black spots are arfvedsonite. Since the material does not meet the gemological definition of jasper, they recommend the name "dalmatian stone" ([GIA, Fall 2017](https://www.gia.edu/articles/fall-2017-dalmatian-jasper)).
+**Mineral Fact.** In the Fall 2017 issue of [*Gems & Gemology*](https://www.gia.edu/articles/fall-2017-dalmatian-jasper), GIA's research journal, Tomasz Powolny and Magdalena Dumańska-Słowik describe it as a peralkaline igneous rock made mostly of feldspar (mesoperthite), quartz and alkali amphiboles, with lesser hematite and epidote. The black spots are arfvedsonite. Since the material does not meet the gemological definition of jasper, they recommend the name "dalmatian stone."
 
-The authors of [Rocktumbler.com](https://rocktumbler.com/blog/what-is-dalmatian-stone-it-is-not-a-jasper/) got there by another route. Their pieces tumbled smooth in a week, faster than jasper usually does, scored about 6 with hardness picks and did not break with jasper's curved, shell-like fracture. X-ray diffraction then showed black arfvedsonite in a white mix of albite feldspar and a little quartz, minerals that crystallize from a melt. So, in Rocktumbler's words, "instead of being a jasper, Dalmatian Stone is an igneous rock."
+The authors of Rocktumbler.com got there by another route. Their pieces tumbled smooth in a week, faster than jasper usually does, scored about 6 with hardness picks and did not break with jasper's curved, shell-like fracture. X-ray diffraction then showed black arfvedsonite in a white mix of albite feldspar and a little quartz, minerals that crystallize from a melt. So, in Rocktumbler's words, "instead of being a jasper, Dalmatian Stone is an igneous rock."
 
 ### Are the Black Spots Tourmaline?
 
-No. Fire Mountain Gems lists black tourmaline, biotite or pyroxene, and the GIA authors point out that some gem websites name tourmaline. Both lab investigations found arfvedsonite instead, an amphibole similar to hornblende. A fun detail from the X-ray work, the black material turned out to be very slightly magnetic once crushed (Rocktumbler.com).
+No. One dealer lists black tourmaline, biotite or pyroxene, and the GIA authors point out that some gem websites name tourmaline. Both lab investigations found arfvedsonite instead, an amphibole similar to hornblende. A fun detail from the X-ray work, the black material turned out to be very slightly magnetic once crushed.
 
 ### Where It Comes From
 
-Rocktumbler.com and the dealer [Fire Mountain Gems](https://www.firemountaingems.com/learn/categories/essential-resources/gemstone-meanings/dalmatian-jasper-gemstone-meanings.html) both say it comes from Chihuahua, Mexico. The GIA paper is more cautious. Its three samples, from an unknown locality, were bought at a mineral fair in Kraków, Poland, and the authors call the rock "of uncertain provenance," noting that earlier literature had not specified where it comes from. It is cut into beads, spheres, cabochons, carvings and tumbled stones, and it polishes easily to a bright luster (Rocktumbler.com).
+Rocktumbler.com and one dealer both say it comes from Chihuahua, Mexico. The GIA paper is more cautious. Its three samples, from an unknown locality, were bought at a mineral fair in Kraków, Poland, and the authors call the rock "of uncertain provenance," noting that earlier literature had not specified where it comes from. It is cut into beads, spheres, cabochons, carvings and tumbled stones, and it polishes easily to a bright luster.
 
 <!-- PHOTO TO FIND, PHOTO 2, natural Dalmatian stone next to dyed red, green and purple pieces. No licensed candidate checked yet. -->
 
@@ -96,10 +96,10 @@ Rocktumbler.com and the dealer [Fire Mountain Gems](https://www.firemountaingems
 
 **The Story.** Dalmatian jasper's story is short and mostly about its name. There is no old lore behind it, and the guides that say otherwise cite no text.
 
-- **The name.** It is named after the Dalmatian dog for its black-on-white spots (Rocktumbler.com). The word jasper itself comes from the ancient Greek for "spotted stone," as the GIA paper notes, which may explain why the label stuck to a rock that is not jasper.
+- **The name.** It is named after the Dalmatian dog for its black-on-white spots. The word jasper itself comes from the ancient Greek for "spotted stone," which may explain why the label stuck to a rock that is not jasper.
 - **2006 to 2012.** Researchers called it an aplite with quartz, feldspar and iron-rich riebeckite (Bruder, 2006), or a devitrified rhyolite (Campos-Venuti, 2012), as summarized in the 2017 paper.
-- **2017.** *Gems & Gemology* publishes "True Colors of 'Dalmatian Jasper'," identifies the spots as arfvedsonite and recommends the name dalmatian stone (GIA).
-- **Today.** **Modern Association.** One shop guide says its spiritual meanings come from contemporary esotericism and calls it a recent discovery ([kurma.ch](https://kurma.ch/en/buy-minerals/dalmatian-jasper)). Fire Mountain Gems credits its meanings only to "metaphysical beliefs" and states that the properties it lists are collected from various sources and not guaranteed.
+- **2017.** *Gems & Gemology* publishes "True Colors of 'Dalmatian Jasper'," identifies the spots as arfvedsonite and recommends the name dalmatian stone.
+- **Today.** **Modern Association.** One shop guide says its spiritual meanings come from contemporary esotericism and calls it a recent discovery. Fire Mountain Gems credits its meanings only to "metaphysical beliefs" and states that the properties it lists are collected from various sources and not guaranteed.
 
 One guide claims many ancient cultures saw spotted stones as protective talismans. It names none, and Kunz's two books on gem lore have no entry for this stone.
 
@@ -109,7 +109,7 @@ One guide claims many ancient cultures saw spotted stones as protective talisman
 
 **Modern Association.** Dalmatian jasper is commonly associated today with playfulness and a light heart. Fire Mountain Gems says it is "said to create a sense of playfulness in those who see and wear it" and reminds us to enjoy simple things. Loyalty and devotion come next, borrowed from the dog. In modern crystal guides, it is a Classic stone for [protection](/crystals-for/protection/). Most place it on the root chakra, and many call it grounding.
 
-The "why" is right on the surface. The dog brings play and loyalty. The black spots are said to soak up negative or chaotic energy, which is why some people keep it close for nightmares (Fire Mountain Gems). Part of the protection idea leans on the belief that the spots are black tourmaline, a popular protection stone. The lab work says arfvedsonite, so that link rests on a mistaken mineral. One guide credits its grounding to volcanic origins, and that part at least points the right way, since the rock crystallized from a melt.
+The "why" is right on the surface. The dog brings play and loyalty. The black spots are said to soak up negative or chaotic energy, which is why some people keep it close for nightmares. Part of the protection idea leans on the belief that the spots are black tourmaline, a popular protection stone. The lab work says arfvedsonite, so that link rests on a mistaken mineral. One guide credits its grounding to volcanic origins, and that part at least points the right way, since the rock crystallized from a melt.
 
 Guides also put it in everyday places, by the front door as a "gatekeeper," on a work desk for a lighter mood, in a living room or a play area. Gemini is its most common zodiac link, and earth its usual element, though one guide says fire. A few sites list immunity, circulation, acne or even gallstones. No reliable evidence backs those claims.
 
@@ -143,32 +143,32 @@ Guides also put it in everyday places, by the front door as a "gatekeeper," on a
 
 Usually, yes. It is a real natural rock with a misleading name. Here is where it stands on our five labels.
 
-- **Natural, untreated.** White to cream or grayish rock with black spots, sometimes with red-brown iron staining on the surface (GIA).
-- **Natural, treated.** Dyed. Dalmatian stone readily accepts dye, and dyed red, green and purple beads and tumbled stones are common at rock shops, gem shows and in bead catalogs (Rocktumbler.com). A dyed piece is still Dalmatian stone. One guide says dyed stones lose their virtues, a belief worth knowing if that matters to you.
+- **Natural, untreated.** White to cream or grayish rock with black spots, sometimes with red-brown iron staining on the surface.
+- **Natural, treated.** Dyed. Dalmatian stone readily accepts dye, and dyed red, green and purple beads and tumbled stones are common at rock shops, gem shows and in bead catalogs. A dyed piece is still Dalmatian stone. One guide says dyed stones lose their virtues, a belief worth knowing if that matters to you.
 - **Lab-grown.** We have not found any lab-grown version.
 - **Imitation.** We found no reference source that documents a glass, ceramic or other imitation sold as Dalmatian jasper.
-- **Trade name.** "Dalmatian jasper" is the trade name, and "dalmatian stone" is the name the GIA authors recommend. Fire Mountain Gems calls it a form of chalcedony, which the lab results contradict.
+- **Trade name.** "Dalmatian jasper" is the trade name, and "dalmatian stone" is the name the GIA authors recommend. One dealer calls it a form of chalcedony, which the lab results contradict.
 
 ### How to Tell If Dalmatian Jasper Is Real
 
 Three checks you can do at home, with their limits.
 
-1. **Check the color.** The natural base is white to cream with black, sometimes brown spots. Vivid colors mean dye (Rocktumbler.com). Dye can be subtle, and there is no reliable home test for pale tints.
-2. **Look at the spots.** Dalmatian spots are sharply defined, while many jaspers have spots with rings or a fuzzy outline (Rocktumbler.com). Most are under 4 mm (GIA). This separates it from look-alikes, not from a clever fake.
+1. **Check the color.** The natural base is white to cream with black, sometimes brown spots. Vivid colors mean dye. Dye can be subtle, and there is no reliable home test for pale tints.
+2. **Look at the spots.** Dalmatian spots are sharply defined, while many jaspers have spots with rings or a fuzzy outline. Most are under 4 mm. This separates it from look-alikes, not from a clever fake.
 3. **Read the stone, not the tag.** A white piece with crisp black dots sold as "genuine jasper" is Dalmatian stone, whatever the tag says. Only lab work such as X-ray diffraction or Raman analysis can name its minerals for certain.
 
 So what is "fake Dalmatian jasper"? The fake part is usually the name and the dye, not the rock. Three questions to ask the seller. Is it dyed? Where was it mined? Do you sell it as jasper, and why? The [Label Decoder](/tools/crystal-label-decoder/) turns tags like this into what they usually mean.
 
 ## How to Care for Dalmatian Jasper
 
-**Mineral Fact.** At about 6 on the Mohs scale, it is softer than true jasper (Rocktumbler.com), so give it its own pouch. Fire Mountain Gems advises storing it away from harder stones to avoid scratches.
+**Mineral Fact.** At about 6 on the Mohs scale, it is softer than true jasper, so give it its own pouch. Store it away from harder stones to avoid scratches.
 
-- **Water.** Brief only. Clean it with warm, soapy water and a soft cloth, then make sure the stone and any setting are thoroughly dry before storing or wearing it (Fire Mountain Gems). Soaking is not advised.
+- **Water.** Brief only. Clean it with warm, soapy water and a soft cloth, then make sure the stone and any setting are thoroughly dry before storing or wearing it. Soaking is not advised.
 - **Sun.** Unknown. Nothing reliable covers it yet.
 - **Heat.** Unknown.
-- **Chemicals.** Unknown. For dyed pieces, the dealer GemSelect warns that dyed gems should avoid acids and chemicals, since even lemon juice can damage the color ([GemSelect](https://gemselect.com/gem-info/cleaning.php)).
+- **Chemicals.** Unknown. Keep dyed pieces away from acids and chemicals, since even lemon juice can damage the color.
 - **Salt.** Unknown. Skip it until a source covers it.
-- **Toxicity.** OK to wear and handle. The International Gem Society's [toxicity table](https://www.gemsociety.org/article/gemstone-care-guide/) rates jasper in general Low, with silicosis from cutting dust as the hazard. It has no row for Dalmatian stone itself.
+- **Toxicity.** OK to wear and handle. The standard gem toxicity table rates jasper in general Low, with silicosis from cutting dust as the hazard. It has no row for Dalmatian stone itself.
 - **Storage.** OK. Away from harder stones.
 
 ### Can Dalmatian Jasper Go in the Sun?
@@ -185,14 +185,14 @@ Cleansing is a belief practice, so pick a method that cannot hurt the stone. The
 
 ## Dalmatian Jasper vs Look-Alikes
 
-- **Kambaba jasper.** Green with blackish, irregular orbs, a volcanic rock from Madagascar, according to the dealer [FossilEra](https://fossilera.com/pages/is-kambaba-jasper-a-stromatolite). Green, not white. See our [Kambaba jasper page](/stones/kambaba-jasper/).
-- **Tourmalinated quartz.** Usually clear quartz with long, slender black tourmaline needles ([Gemstones.com](https://www.gemstones.com/gemopedia/tourmalinated-quartz)). This is the stone with real tourmaline in it.
-- **Zebra jasper.** Brown and white stripes rather than spots ([Rocktumbler.com](https://rocktumbler.com/blog/brown-and-white-zebra-jasper/)).
+- **Kambaba jasper.** Green with blackish, irregular orbs, a volcanic rock from Madagascar, according to one dealer. Green, not white. See our [Kambaba jasper page](/stones/kambaba-jasper/).
+- **Tourmalinated quartz.** Usually clear quartz with long, slender black tourmaline needles. This is the stone with real tourmaline in it.
+- **Zebra jasper.** Brown and white stripes rather than spots.
 - **True jasper.** Harder, with a shell-like fracture, like [red jasper](/stones/red-jasper/).
 
 ## Price Guide
 
-Dalmatian stone is common and inexpensive, which is part of why manufacturers like to dye it, according to Rocktumbler.com. Two bead bracelets we found were $22 with 6 mm beads and $30 with 8 mm beads. The current tumbled listings we found were bulk bags, about $47 for 25 stones mostly 3/4 to 1 1/2 inches across and about $57 for a one-pound bag of mostly 5/8 to 1 inch stones. Prices from listings at US crystal shops in November 2026.
+Dalmatian stone is common and inexpensive, which is part of why manufacturers like to dye it. Two bead bracelets we found were $22 with 6 mm beads and $30 with 8 mm beads. The current tumbled listings we found were bulk bags, about $47 for 25 stones mostly 3/4 to 1 1/2 inches across and about $57 for a one-pound bag of mostly 5/8 to 1 inch stones. Prices from listings at US crystal shops in November 2026.
 
 **Next Step.** Want the stones most often chosen for a home's front door? See [crystals for protection](/crystals-for/protection/).
 
@@ -209,4 +209,4 @@ Dalmatian stone is common and inexpensive, which is part of why manufacturers li
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

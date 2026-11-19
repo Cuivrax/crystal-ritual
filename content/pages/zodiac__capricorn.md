@@ -73,11 +73,11 @@ Capricorn has no single official birthstone, because birthstones belong to month
 
 The honest answer has two parts, the month stone and the sign stone.
 
-**The month stone.** On the modern list of the [American Gem Society](https://www.americangemsociety.org/birthstones/), December has three birthstones, tanzanite, turquoise and zircon, and January has one, garnet. So a Capricorn born on December 28 and one born on January 8 have different birthstones. Turquoise was December's stone on the 1912 jewelers' list (Kunz 1913, page 319), zircon joined it in 1952 and tanzanite in 2002, according to the [International Gem Society](https://www.gemsociety.org/article/history-of-birthstones/). Our [December](/birthstones/december/) and [January](/birthstones/january/) pages go stone by stone.
+**The month stone.** On the modern list of the [American Gem Society](https://www.americangemsociety.org/birthstones/), December has three birthstones, tanzanite, turquoise and zircon, and January has one, garnet. So a Capricorn born on December 28 and one born on January 8 have different birthstones. Turquoise was December's stone on the 1912 jewelers' list (Kunz 1913, page 319), zircon joined it in 1952 and tanzanite in 2002. Our [December](/birthstones/december/) and [January](/birthstones/january/) pages go stone by stone.
 
 **The sign stone.** **Tradition.** In the verse list of zodiac gems that George Frederick Kunz printed in 1913, Capricorn's stone is the ruby. "Those who live in Capricorn / No trouble shall their brows adorn / If they this glowing gem have worn, / The ruby" (*The Curious Lore of Precious Stones*, page 347). On the same page, an old Spanish list that Kunz thought probably reflected Arab tradition gives Capricorn chalcedony instead.
 
-Ruby is July's birthstone today ([GIA](https://www.gia.edu/ruby/gem-overview)). Kunz himself complained that the 1912 list moved the ruby from December to July and turquoise the other way (1913, page 320). In his own calendar of the months, December still carries the ruby and the sign of Capricornus, with holly as its flower (page 331).
+Ruby is July's birthstone today. Kunz himself complained that the 1912 list moved the ruby from December to July and turquoise the other way (1913, page 320). In his own calendar of the months, December still carries the ruby and the sign of Capricornus, with holly as its flower (page 331).
 
 ## Capricorn Crystals in Today's Guides
 
@@ -85,33 +85,33 @@ Ruby is July's birthstone today ([GIA](https://www.gia.edu/ruby/gem-overview)). 
 
 ### Jet
 
-**Classic.** Jet is a black organic gem, a variety of lignite coal that forms from fossilized wood, and the finest comes from Whitby, England ([International Gem Society](https://www.gemsociety.org/article/jet-jewelry-gemstone-information/)). It became a mourning stone in Victorian Britain, in the style of Queen Victoria herself. The International Gem Society warns that jet is brittle and fairly soft, so rings need protective settings, and it burns like coal. One modern guide calls the Capricorn link a newer association, though jet had a planet long before it had a sign. In the old planetary lists Saturn took "all dark, black, and brittle stones" (Kunz 1913, page 348), a description jet fits.
+**Classic.** Jet is a black organic gem, a variety of lignite coal that forms from fossilized wood, and the finest comes from Whitby, England. It became a mourning stone in Victorian Britain, in the style of Queen Victoria herself. Jet is brittle and fairly soft, so rings need protective settings, and it burns like coal. One modern guide calls the Capricorn link a newer association, though jet had a planet long before it had a sign. In the old planetary lists Saturn took "all dark, black, and brittle stones" (Kunz 1913, page 348), a description jet fits.
 
 ### Tourmalinated Quartz
 
-**Classic.** This is usually colorless rock crystal holding long, slender, usually black tourmaline needles, according to the [dealer guide at Gemstones.com](https://www.gemstones.com/gemopedia/tourmalinated-quartz). The host is quartz, which rates 7 on the Mohs scale and is chemically inert with most substances ([Geology.com](https://geology.com/minerals/quartz.shtml)). It is two minerals in one stone, and both turn up in Capricorn lists.
+**Classic.** This is usually colorless rock crystal holding long, slender, usually black tourmaline needles. The host is quartz, which rates 7 on the Mohs scale and is chemically inert with most substances. It is two minerals in one stone, and both turn up in Capricorn lists.
 
 ### Smoky Quartz
 
-**Widely Linked.** Smoky quartz is brown to nearly black quartz. Its color forms when natural radiation from the surrounding rock activates color centers around aluminum in the crystal ([Geology.com](https://geology.com/gemstones/smoky-quartz/)). It is the national gem of Scotland, where it is called cairngorm, and on May 31, 1985, it became the official state gem of New Hampshire. Guides also tie it to Sagittarius and Scorpio, and one groups Sagittarius and Capricorn together as the winter signs. Labs can give rock crystal the same smoky color by irradiation, so ask the seller whether a stone is natural.
+**Widely Linked.** Smoky quartz is brown to nearly black quartz. Its color forms when natural radiation from the surrounding rock activates color centers around aluminum in the crystal. It is the national gem of Scotland, where it is called cairngorm, and on May 31, 1985, it became the official state gem of New Hampshire. Guides also tie it to Sagittarius and Scorpio, and one groups Sagittarius and Capricorn together as the winter signs. Labs can give rock crystal the same smoky color by irradiation, so ask the seller whether a stone is natural.
 
 <!-- PHOTO 2, beside "Smoky Quartz". PHOTO TO FIND. Several Commons candidates exist in images_commons_candidates.csv (for example "File Smoky quartz Rio Doce MNHN Minéralogie.jpg", CC BY 4.0, and "File Microcline with smoky quartz.jpg", CC0), but none has visual_check ok yet. Check one, log page, license and credit, then use it. -->
 
 ### Black Tourmaline
 
-**Widely Linked.** The black tourmaline of the trade is schorl, the most common tourmaline species, according to dealer guides such as [Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/black-tourmaline). It rates 7 to 7.5 on the Mohs scale, and the [International Gem Society](https://www.gemsociety.org/article/tourmaline-jewelry-and-gemstone-information/) says tourmaline in general suits everyday jewelry. That makes it one of the hardest pocket stones on this list.
+**Widely Linked.** The black tourmaline of the trade is schorl, the most common tourmaline species. It rates 7 to 7.5 on the Mohs scale, and tourmaline in general suits everyday jewelry. That makes it one of the hardest pocket stones on this list.
 
 ### Onyx
 
-**Often Linked.** Onyx is chalcedony with black and white layers. It occurs in nature in thin bands, and what you find in stores is almost always dyed, says the [International Gem Society](https://www.gemsociety.org/article/chalcedony-jewelry-and-gemstone-information/). Dyed is not fake, it is a treatment, so ask the seller whether the color was enhanced. White onyx gets its own Widely Linked spot in Capricorn lists.
+**Often Linked.** Onyx is chalcedony with black and white layers. It occurs in nature in thin bands, and what you find in stores is almost always dyed. Dyed is not fake, it is a treatment, so ask the seller whether the color was enhanced. White onyx gets its own Widely Linked spot in Capricorn lists.
 
 ### Malachite
 
-**Widely Linked.** Malachite is a green copper mineral, soft at 3.5 to 4.5 on the Mohs scale ([Geology.com](https://geology.com/minerals/malachite.shtml)). It is the odd one out by color, and one guide notes that its pairing with Scorpio and Capricorn is recent. Dust from grinding it is toxic to breathe, though finished jewelry and carvings should be safe ([International Gem Society](https://www.gemsociety.org/article/malachite-jewelry-and-gemstone-information/)).
+**Widely Linked.** Malachite is a green copper mineral, soft at 3.5 to 4.5 on the Mohs scale. It is the odd one out by color, and one guide notes that its pairing with Scorpio and Capricorn is recent. Dust from grinding it is toxic to breathe, though finished jewelry and carvings should be safe.
 
 ### Garnet for January Capricorns
 
-**Rarely Linked.** Garnet is not a single mineral but a group of closely related minerals, with gems in almost every color, and it is January's birthstone and the gem for a second anniversary ([GIA](https://www.gia.edu/garnet/gem-overview)). Few crystal guides tie it to Capricorn as a sign. For anyone born between January 1 and January 19, though, it is the one official birthstone, and that is reason enough.
+**Rarely Linked.** Garnet is not a single mineral but a group of closely related minerals, with gems in almost every color, and it is January's birthstone and the gem for a second anniversary. Few crystal guides tie it to Capricorn as a sign. For anyone born between January 1 and January 19, though, it is the one official birthstone, and that is reason enough.
 
 Some links stay rare and you can skip them, like ruby in modern guides. It survives mostly as the 1913 verse.
 
@@ -158,17 +158,17 @@ These ratings come from our care data, the same data as the [Care Checker](/tool
 | Stone | Water | Sun | Heat | Worth Knowing |
 |---|---|---|---|---|
 | Smoky quartz | Unknown | Avoid | Avoid | UV light and heat can fade it |
-| Jet | Unknown | Unknown | Avoid | Burns like coal. Toxicity Avoid in the IGS table, hazard listed as organic material |
-| Black tourmaline | Unknown | Unknown | Unknown | Suits everyday jewelry, per IGS |
+| Jet | Unknown | Unknown | Avoid | Burns like coal. Toxicity Avoid, hazard listed as organic material |
+| Black tourmaline | Unknown | Unknown | Unknown | Suits everyday jewelry |
 | Tourmalinated quartz | Unknown | Unknown | Unknown | Quartz is inert with most chemicals |
 | Onyx | OK | Unknown | Avoid | Heat can erase its bands, per dealers |
 | Malachite | Unknown | OK | Avoid | Avoid acids. Never in water you drink |
 | Garnet | Unknown | Unknown | Unknown | No care data yet |
 | Turquoise | Brief only | Brief only | Avoid | Porous, absorbs liquids |
-| Tanzanite | OK | Unknown | Unknown | Cleavage makes daily wear risky, per IGS |
+| Tanzanite | OK | Unknown | Unknown | Cleavage makes daily wear risky |
 | Zircon | OK | Avoid | Unknown | Blue zircon can turn brown under tanning beds or nail lamps |
 
-A few notes behind the table. Our care data rates smoky quartz Avoid for sun because UV light can fade it, and Avoid for heat because heating lightens the color. Very dark stones are sometimes heated on purpose ([Geology.com](https://geology.com/gemstones/smoky-quartz/)). Jet rates Avoid for toxicity because the [International Gem Society's toxicity table](https://www.gemsociety.org/article/gemstone-care-guide/) rates it high risk with the hazard listed as organic material. Turquoise is porous, so liquids and cleaning products can damage or recolor it ([Geology.com](https://geology.com/minerals/turquoise.shtml)).
+A few notes behind the table. Our care data rates smoky quartz Avoid for sun because UV light can fade it, and Avoid for heat because heating lightens the color. Very dark stones are sometimes heated on purpose. Jet rates Avoid for toxicity because the International Gem Society's toxicity table rates it high risk with the hazard listed as organic material. Turquoise is porous, so liquids and cleaning products can damage or recolor it.
 
 **Next Step.** Born on January 20 or later? Your sign has moved on to [Aquarius](/zodiac/aquarius/). Compare every sign on the [zodiac stones chart](/zodiac/).
 
@@ -183,4 +183,4 @@ A few notes behind the table. Our care data rates smoky quartz Avoid for sun bec
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

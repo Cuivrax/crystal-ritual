@@ -68,7 +68,7 @@ Born on a cusp? Guides disagree by a day at the edges, and Kunz's 1913 text star
 
 A birthstone belongs to a month. A zodiac stone belongs to a sign. Every sign straddles two months, so each sign inherits two sets of month birthstones.
 
-Kunz saw the overlap as a feature, since zodiac stones widen the choice while the month list keeps its old order (1913, pages 321 to 322). The month list was standardized in August 1912 by the National Association of Jewelers, meeting in Kansas City, and Kunz disliked several of its changes (pages 317 to 320). The [International Gem Society](https://www.gemsociety.org/article/history-of-birthstones/) traces the later updates, and our [birthstones by month](/birthstones/) page covers that side.
+Kunz saw the overlap as a feature, since zodiac stones widen the choice while the month list keeps its old order (1913, pages 321 to 322). The month list was standardized in August 1912 by the National Association of Jewelers, meeting in Kansas City, and Kunz disliked several of its changes (pages 317 to 320). The list has been updated since, and our [birthstones by month](/birthstones/) page covers that side.
 
 So "the Capricorn birthstone" has a two-part answer. The month stone depends on the birthday, and the sign stone depends on the tradition you follow.
 
@@ -76,7 +76,7 @@ So "the Capricorn birthstone" has a two-part answer. The month stone depends on 
 
 **The Story.** The idea is old, but the lists keep changing.
 
-- **Ancient Mesopotamia.** **Tradition.** The zodiac constellations appeared in ancient Mesopotamia, and the ancient Greeks adopted many aspects of Mesopotamian astrology, constellations included, explains Paul Cornish of the [We The Curious planetarium](https://wethecurious.org/planetariumblog/star-signs-and-precession). In astrology, the sign of Aries begins with the Sun's position at the March equinox.
+- **Ancient Mesopotamia.** **Tradition.** The zodiac constellations appeared in ancient Mesopotamia, and the ancient Greeks adopted many aspects of Mesopotamian astrology, constellations included. In astrology, the sign of Aries begins with the Sun's position at the March equinox.
 - **Roman Empire.** **Tradition.** Some engraved gems carried the zodiac sign of the wearer's birth constellation, usually cut on onyx, carnelian and similar stones, according to Kunz (1913, pages 124 to 125).
 - **1st century CE.** **Tradition.** The historian Josephus tied the twelve stones of the Hebrew high priest's breastplate to the months or to "the twelve signs of what the Greeks call the zodiac." St. Jerome adapted the passage about three centuries later, and Kunz calls it the foundation of both birthstones and zodiac stones (1913, pages 309 to 310).
 - **Medieval Jewish tradition.** **Tradition.** Medieval Jewish tradition paired the twelve tribes of Israel with the twelve signs, Judah with Aries through Asher with Pisces (Kunz 1913, pages 313 to 314).
@@ -84,19 +84,19 @@ So "the Capricorn birthstone" has a two-part answer. The month stone depends on 
 - **1913.** **Tradition.** Kunz printed the verse list in our chart, plus an old Spanish list that he thought probably reflected Arab tradition, with chalcedony for Capricorn and amethyst for Aquarius (1913, page 347).
 - **Today.** **Modern Association.** Crystal guides add their own picks, often by color or by a stone's modern meaning, and one openly calls jet's Capricorn link a newer association.
 
-Astronomers also count a thirteenth zodiac constellation, Ophiuchus, between Scorpius and Sagittarius (We The Curious). Astrology's twelve signs leave it out, and so do all these lists.
+Astronomers also count a thirteenth zodiac constellation, Ophiuchus, between Scorpius and Sagittarius. Astrology's twelve signs leave it out, and so do all these lists.
 
 ## Why the Lists Disagree
 
-The lists come from different systems. In old astrology, each planet had its stones, and the signs had ruling planets. An old print of the Roman day gods, reproduced by Kunz, pairs Saturn with Capricorn and Aquarius and gives Saturday the turquoise (1913, page 332), and Saturn got "all dark, black, and brittle stones" (page 348). Modern guides lean on color and on names, so aquamarine, named from the Latin for seawater ([GIA](https://www.gia.edu/aquamarine/gem-overview)), drifts toward Aquarius.
+The lists come from different systems. In old astrology, each planet had its stones, and the signs had ruling planets. An old print of the Roman day gods, reproduced by Kunz, pairs Saturn with Capricorn and Aquarius and gives Saturday the turquoise (1913, page 332), and Saturn got "all dark, black, and brittle stones" (page 348). Modern guides lean on color and on names, so aquamarine, named from the Latin for seawater, drifts toward Aquarius.
 
 Guides also copy each other and then drift. They tie smoky quartz to Capricorn, Sagittarius or Scorpio, and one lumps Sagittarius and Capricorn together as "winter signs." No list is the correct one. Pick the tradition you like, or wear the month stone and keep the sign stone on a shelf.
 
 ### Which Zodiac Stone Should I Choose?
 
-**Try This.** Choose by where the stone will live. A ring or bracelet takes knocks, so pick a hard stone for it. Many zodiac picks are soft. Angelite rates 3 to 3.5 on the Mohs scale, according to the [dealer guide at Gemstones.com](https://www.gemstones.com/gemopedia/angelite), and celestite is just as soft ([International Gem Society](https://www.gemsociety.org/article/celestite-jewelry-and-gemstone-information/)). Both suit a nightstand better than a hand.
+**Try This.** Choose by where the stone will live. A ring or bracelet takes knocks, so pick a hard stone for it. Many zodiac picks are soft. Angelite rates 3 to 3.5 on the Mohs scale, according to one dealer guide, and celestite is just as soft. Both suit a nightstand better than a hand.
 
-For a gift, write both stones on the card, the month birthstone and the sign's 1913 stone. Before any stone goes on a sunny sill or near water, run it through the [Care Checker](/tools/crystal-care-checker/). Malachite, a favorite for Scorpio and Capricorn, is a copper mineral ([International Gem Society](https://www.gemsociety.org/article/malachite-jewelry-and-gemstone-information/)), so it never goes in water you drink.
+For a gift, write both stones on the card, the month birthstone and the sign's 1913 stone. Before any stone goes on a sunny sill or near water, run it through the [Care Checker](/tools/crystal-care-checker/). Malachite, a favorite for Scorpio and Capricorn, is a copper mineral, so it never goes in water you drink.
 
 **Safety.** Small tumbled stones and bead bracelets are not toys. Keep them away from small children and pets who might swallow them.
 
@@ -114,4 +114,4 @@ For a gift, write both stones on the card, the month birthstone and the sign's 1
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

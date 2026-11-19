@@ -52,54 +52,54 @@ Chalcocite is a copper sulfide, Cu₂S, a heavy, metallic, blackish gray mineral
 | Birthstone | None |
 | Chakra (Modern Association) | Root, in a few guides |
 
-> **Is It Real? Quick Checks.** With chalcocite, the questions collectors ask most are about repairs and coatings. Under a loupe, look for straight glue lines, striations that do not line up across a seam, or an even, plastic-like sheen, says the collector guide at Earth Wonders, a mineral dealer. A good piece also feels surprisingly heavy for its size.
+> **Is It Real? Quick Checks.** With chalcocite, the questions collectors ask most are about repairs and coatings. Under a loupe, look for straight glue lines, striations that do not line up across a seam, or an even, plastic-like sheen. A good piece also feels surprisingly heavy for its size.
 
 ## What Chalcocite Actually Is
 
-**The Stone.** Chalcocite is copper sulfide, Cu₂S. The *Handbook of Mineralogy* lists it as opaque and metallic, blackish lead gray in color and streak, 2.5 to 3 on the Mohs scale, brittle and somewhat sectile, and dense at 5.5 to 5.8 ([Handbook of Mineralogy](https://www.handbookofmineralogy.org/pdfs/chalcocite.pdf)). Its chemical analyses show close to 80 percent copper. The name comes from the Greek for copper, *chalkos*, after its composition. It is a recognized species on the IMA List of Minerals.
+**The Stone.** Chalcocite is copper sulfide, Cu₂S. It is opaque and metallic, blackish lead gray in color and streak, 2.5 to 3 on the Mohs scale, brittle and somewhat sectile, and dense at 5.5 to 5.8. Its chemical analyses show close to 80 percent copper. The name comes from the Greek for copper, *chalkos*, after its composition. It is a recognized species on the IMA List of Minerals.
 
 Sectile means it can be cut into shavings with a knife. Together with its softness, that is why plate edges nick so easily.
 
 ### An Important Ore of Copper
 
-**Mineral Fact.** [Minerals.net](https://www.minerals.net/mineral/chalcocite) calls chalcocite an important copper ore, with a high copper content and copper that is relatively easy to separate from the sulfur. The *Handbook of Mineralogy* calls it "an important and widely distributed ore mineral of copper." Fine crystals are the exception, and the *Handbook* says only a few localities produce them.
+**Mineral Fact.** Chalcocite is an important and widely distributed ore of copper, with a high copper content and copper that is relatively easy to separate from the sulfur. Fine crystals are the exception, and only a few localities produce them.
 
 ### How Chalcocite Forms
 
-Chalcocite is an uncommon primary mineral of hot-water veins, but it matters most as a secondary one, found in or below the oxidized zone of copper deposits, including the large low-grade porphyry copper orebodies (Handbook of Mineralogy). In plain terms, acidic rainwater moving down through a sulfide deposit picks up copper near the surface and drops it again deeper down. A U.S. Geological Survey report describes the result as a "supergene enrichment zone with abundant chalcocite," a blanket that can make an economically significant copper enrichment ([Koski, USGS, 2010](https://pubs.usgs.gov/sir/2010/5070/c/Chapter12SIR10-5070-C-3.pdf)).
+Chalcocite is an uncommon primary mineral of hot-water veins, but it matters most as a secondary one, found in or below the oxidized zone of copper deposits, including the large low-grade porphyry copper orebodies. In plain terms, acidic rainwater moving down through a sulfide deposit picks up copper near the surface and drops it again deeper down. A 2010 U.S. Geological Survey report describes the result as a "supergene enrichment zone with abundant chalcocite," a blanket that can make an economically significant copper enrichment.
 
-Chalcocite also forms from the alteration of other copper sulfides, especially [bornite](/stones/bornite/), [covellite](/stones/covellite/) and chalcopyrite, and it can take over their crystal shapes as pseudomorphs (Minerals.net). Chrysocolla often forms as an alteration rim around it. A similar story of copper-rich water, closer to the surface in dry country, gives turquoise, which is why [Kingman turquoise](/stones/kingman-turquoise/) came out of a copper district.
+Chalcocite also forms from the alteration of other copper sulfides, especially [bornite](/stones/bornite/), [covellite](/stones/covellite/) and chalcopyrite, and it can take over their crystal shapes as pseudomorphs. Chrysocolla often forms as an alteration rim around it. A similar story of copper-rich water, closer to the surface in dry country, gives turquoise, which is why [Kingman turquoise](/stones/kingman-turquoise/) came out of a copper district.
 
 ### What Does Chalcocite Look Like?
 
-Most chalcocite is massive, compact or powdery ore (Handbook of Mineralogy). Crystals are tabular and often look six-sided, an effect of twinning, and they can form sixlings, bent twins and almost snowflake-like groups, with faces that are commonly striated (Minerals.net). The *Handbook* records crystals up to 12 cm (about 4.7 inches) across and prismatic ones to 25 cm (about 10 inches) long.
+Most chalcocite is massive, compact or powdery ore. Crystals are tabular and often look six-sided, an effect of twinning, and they can form sixlings, bent twins and almost snowflake-like groups, with faces that are commonly striated. Recorded crystals reach 12 cm (about 4.7 inches) across, and prismatic ones 25 cm (about 10 inches) long.
 
-Fresh surfaces are steel gray to black with a bright metallic sheen, according to Earth Wonders, which says older surfaces can develop a blue or purple tint as they alter toward covellite or digenite. Minerals.net notes a thin film can form on crystal faces.
+Fresh surfaces are steel gray to black with a bright metallic sheen, and older surfaces can develop a blue or purple tint as they alter toward covellite or digenite. A thin film can form on crystal faces.
 
 <!-- PHOTO 2, beside "What Does Chalcocite Look Like?". Smithsonian NMNH, "Chalcocite". Image https://ids.si.edu/ids/deliveryService/id/ark:/65665/m370d579162c984cc092b6ea8c2a15926d . Record http://n2t.net/ark:/65665/359ce7f94-3e14-4e53-8b98-f09561f1ff5a . License CC0 (Smithsonian Open Access), https://www.si.edu/openaccess . Credit line "Smithsonian National Museum of Natural History, CC0". Verdict ok in image_picks_new_stones.json ("dark sooty aggregate with blue tarnish, typical chalcocite look"). Alt text "Dark gray chalcocite aggregate with a blue tarnish, Smithsonian collection". -->
 
 ### Where It Comes From
 
-Cornwall in England is the classic European locality, from the Carn Brea area, Geevor, Levant and St Ives (Minerals.net), and the *Handbook* adds St. Just, Camborne and Redruth. In the United States, the best crystals once came from the old mines at Bristol, Connecticut. Butte, Montana is another classic, the Flambeau Mine in Wisconsin gave excellent crystals in the 1990s, and Bisbee, Arizona is on both lists. Abroad, Minerals.net names Tsumeb in Namibia, Shaba in Congo, Mount Isa in Australia and Dzhezkazgan in Kazakhstan.
+Cornwall in England is the classic European locality, from the Carn Brea area, Geevor, Levant, St Ives, St. Just, Camborne and Redruth. In the United States, the best crystals once came from the old mines at Bristol, Connecticut. Butte, Montana is another classic, the Flambeau Mine in Wisconsin gave excellent crystals in the 1990s, and Bisbee, Arizona is a standard locality too. Abroad, the classic localities include Tsumeb in Namibia, Shaba in Congo, Mount Isa in Australia and Dzhezkazgan in Kazakhstan.
 
 ## Why Collectors Want Chalcocite
 
-Minerals.net calls chalcocite "a coveted and iconic mineral among collectors," and says pieces from classic, long-closed localities like Cornwall and Bristol command extremely high prices, especially as good crystals.
+Chalcocite is a coveted and iconic mineral among collectors, and pieces from classic, long-closed localities like Cornwall and Bristol command extremely high prices, especially as good crystals.
 
-The [Earth Wonders collector guide](https://earthwonders.com/wiki/chalcocite) explains the appeal. Fine crystals are rare, because most chalcocite is vein ore. The prized forms are sharp plates and twinned rosettes, called "wheels," ideally on pale calcite or dolomite for contrast. Bristol set the early standard in the mid to late 1800s, and Dzhezkazgan produced superb twins in the 1970s to 1990s that many collectors now treat as the reference. Butte is known for curved, lamellar crystals. The guide says luster, sharp edges, little alteration and a good old label all add value.
+One mineral dealer's collector guide explains the appeal. Fine crystals are rare, because most chalcocite is vein ore. The prized forms are sharp plates and twinned rosettes, called "wheels," ideally on pale calcite or dolomite for contrast. Bristol set the early standard in the mid to late 1800s, and Dzhezkazgan produced superb twins in the 1970s to 1990s that many collectors now treat as the reference. Butte is known for curved, lamellar crystals. The guide says luster, sharp edges, little alteration and a good old label all add value.
 
 ## Where the Meaning Comes From
 
 **The Story.** Chalcocite has a mining history and almost no folklore. One French crystal site states plainly that there are no legends or myths about the stone.
 
-- **The miners' names.** Minerals.net lists redruthite for chalcocite from the Redruth area of Cornwall, and a UK crystal shop lists copper glance as another old miners' name. Ducktownite is chalcocite coating or replacing pyrite (Minerals.net).
-- **The name chalcocite.** Beyond its root in *chalkos*, Greek for copper (*Handbook of Mineralogy*), we found no reference source that says who coined the name or when.
+- **The miners' names.** Redruthite is the name for chalcocite from the Redruth area of Cornwall, and a UK crystal shop lists copper glance as another old miners' name. Ducktownite is chalcocite coating or replacing pyrite.
+- **The name chalcocite.** Beyond its root in *chalkos*, Greek for copper, we found no reference source that says who coined the name or when.
 - **Alchemy.** **Modern Association.** One French shop guide reads chalcocite through alchemy, where copper was the metal of Venus, and makes it a symbol of transformation.
 - **Unsourced stories.** Some shop pages add Native American councils or the bronze of ancient Cyprus. They come without names, dates or sources, so read them as modern storytelling.
 
 ## What People Use Chalcocite for Today
 
-**Modern Association.** Few crystal guides cover chalcocite, and they do not agree. Crystals.com files it under the root chakra, Scorpio, Mars and the element earth, and uses it for grounding, strength and endurance, with the affirmation "I remain steady and resilient." French guides add transformation, protection against negativity and help through change. In our rankings, chalcocite is Sometimes Linked for grounding and protection, and no higher for anything else.
+**Modern Association.** Few crystal guides cover chalcocite, and they do not agree. One crystal shop files it under the root chakra, Scorpio, Mars and the element earth, and uses it for grounding, strength and endurance, with the affirmation "I remain steady and resilient." French guides add transformation, protection against negativity and help through change. In our rankings, chalcocite is Sometimes Linked for grounding and protection, and no higher for anything else.
 
 The "why" is easy to guess. A dark, heavy stone reads as steady, and the alchemy reading turns copper ore into a picture of change.
 
@@ -111,11 +111,11 @@ Some pages promise better circulation, relief from migraines or help in pregnanc
 
 ### A Steady Shelf Cue
 
-**Try This.** Set a specimen on a shelf you can see from your desk, away from the window. Before a hard task, look at it and say the one next step out loud. Crystals.com's line, "I remain steady and resilient," works if you like an affirmation. The heavy little stone is the cue, the step is the point.
+**Try This.** Set a specimen on a shelf you can see from your desk, away from the window. Before a hard task, look at it and say the one next step out loud. That shop's line, "I remain steady and resilient," works if you like an affirmation. The heavy little stone is the cue, the step is the point.
 
 ### The Monthly Cabinet Check
 
-**Try This.** One crystal guide cleanses chalcocite about once a month. Make that the day you check its home instead. Swap or dry the silica gel, look over the faces with a flashlight for new tarnish, and dust with an air bulb. Earth Wonders recommends exactly this kind of dry, gentle care.
+**Try This.** One crystal guide cleanses chalcocite about once a month. Make that the day you check its home instead. Swap or dry the silica gel, look over the faces with a flashlight for new tarnish, and dust with an air bulb. One mineral dealer recommends exactly this kind of dry, gentle care.
 
 ### A Gift With a Mining Story
 
@@ -125,54 +125,54 @@ Some pages promise better circulation, relief from migraines or help in pregnanc
 
 **What Research Says.** The shelf cue is an if-then plan. A 2006 meta-analysis that pooled earlier lab and field studies found that people who made an if-then plan ("if situation X happens, then I will do Y") were more likely to act on a goal than people who only intended to ([Gollwitzer and Sheeran, 2006](https://doi.org/10.1016/S0065-2601%2806%2938002-1)). None of those studies tested stones, so the plan is the researched part and the chalcocite is only the cue.
 
-> **When a Stone Is Not Enough.** Chalcocite is sometimes chosen for stress, sleep or pregnancy. A stone can be a comfort to look at, but it is not care. If stress, poor sleep or a health worry lasts, talk to a doctor, a therapist or your midwife.
+> **When a Stone Is Not Enough.** Chalcocite is sometimes chosen for stress, sleep or pregnancy. A stone can be a comfort to look at, but it is not care. If stress, poor sleep or a health worry lasts, talk to a doctor, a therapist or your midwife. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Chalcocite Real?
 
 We use the same five labels on every stone.
 
-- **Natural, untreated.** Chalcocite as it came from the mine. A stable, even patina on an old piece is natural aging, and Earth Wonders advises leaving one you like.
-- **Natural, treated.** Earth Wonders says collectors and preparators have sometimes used microcrystalline wax, lacquer or "reblackening" patinas such as liver of sulfur to improve color or slow tarnish, and that coatings should be disclosed. Glued repairs and crystals mounted on unrelated matrix also turn up.
+- **Natural, untreated.** Chalcocite as it came from the mine. A stable, even patina on an old piece is natural aging, worth leaving if you like it.
+- **Natural, treated.** Collectors and preparators have sometimes used microcrystalline wax, lacquer or "reblackening" patinas such as liver of sulfur to improve color or slow tarnish, and coatings should be disclosed. Glued repairs and crystals mounted on unrelated matrix also turn up.
 - **Lab-grown.** We found no reference source on lab-grown chalcocite sold to collectors.
-- **Imitation.** We found no reference source on imitations sold as chalcocite. The problems the Earth Wonders collector guide describes are repairs and coatings, so the checks below look for those.
-- **Trade name.** Redruthite and ducktownite are old names for real chalcocite (Minerals.net), and copper glance is an old miners' name.
+- **Imitation.** We found no reference source on imitations sold as chalcocite. The problems the dealer's collector guide describes are repairs and coatings, so the checks below look for those.
+- **Trade name.** Redruthite and ducktownite are old names for real chalcocite, and copper glance is an old miners' name.
 
 Three checks at home, with their limits.
 
-1. **Feel the weight.** Heaviness is one of its striking features (Minerals.net). Other metal sulfides are heavy too, so this only rules light fakes out.
-2. **Look at the joins.** Straight glue lines, misaligned striations across a seam or a glossy rim at a join point to a repair, and UV light sometimes makes epoxy glow (Earth Wonders). This finds repairs, not identity.
-3. **Check the sheen.** An unusually uniform, plastic-like shine, a faint artificial smell or residue pooled in recesses suggests a coating. Angled light and a loupe help (Earth Wonders).
+1. **Feel the weight.** Heaviness is one of its striking features. Other metal sulfides are heavy too, so this only rules light fakes out.
+2. **Look at the joins.** Straight glue lines, misaligned striations across a seam or a glossy rim at a join point to a repair, and UV light sometimes makes epoxy glow. This finds repairs, not identity.
+3. **Check the sheen.** An unusually uniform, plastic-like shine, a faint artificial smell or residue pooled in recesses suggests a coating. Angled light and a loupe help.
 
-Chalcocite dissolves in nitric acid (Minerals.net), a lab test, not a home one. Ask the seller for the locality, any old labels, and whether the piece was repaired or coated.
+Chalcocite dissolves in nitric acid, a lab test, not a home one. Ask the seller for the locality, any old labels, and whether the piece was repaired or coated.
 
 ## How to Care for Chalcocite
 
-**Mineral Fact.** Earth Wonders calls chalcocite a reactive copper sulfide that needs gentle, preventive care. At Mohs 2.5 to 3 it scratches and nicks easily, so hold the matrix, not the plate edges.
+**Mineral Fact.** Chalcocite is a reactive copper sulfide that needs gentle, preventive care. At Mohs 2.5 to 3 it scratches and nicks easily, so hold the matrix, not the plate edges.
 
-- **Water.** Brief only. Earth Wonders prefers dry cleaning. If you must, a quick rinse in distilled water with a drop of mild dish soap, then dry at once.
+- **Water.** Brief only. Dry cleaning is best. If you must, a quick rinse in distilled water with a drop of mild dish soap, then dry at once.
 - **Soaking.** Brief only, which in practice means do not soak.
-- **Sun.** OK. Earth Wonders says light itself is not a primary issue.
+- **Sun.** OK. Light itself is not a primary issue.
 - **Heat.** Avoid. Heat speeds up reactions like tarnish and can soften coatings, so skip sun-warmed windowsills and hot display lights.
-- **Chemicals.** Avoid acids, strong bases, steam, abrasives and ultrasonic cleaners (Earth Wonders).
+- **Chemicals.** Avoid acids, strong bases, steam, abrasives and ultrasonic cleaners.
 - **Salt.** Unknown. Our care data has no rating yet, so skip salt.
-- **Storage.** Brief only. Keep it dry in a closed cabinet with fresh silica gel and activated carbon, away from newly oiled wood, some foams and rubber, which give off sulfur gases (Earth Wonders).
-- **Toxicity.** Brief only. Chalcocite is copper sulfide. Like other copper minerals such as [malachite](/stones/malachite/), handle it briefly, wash your hands after, keep it out of drinking water, elixirs and baths, and away from children and pets (*Handbook of Mineralogy*). More in [toxic crystals](/care/toxic-crystals/).
+- **Storage.** Brief only. Keep it dry in a closed cabinet with fresh silica gel and activated carbon, away from newly oiled wood, some foams and rubber, which give off sulfur gases.
+- **Toxicity.** Brief only. Chalcocite is copper sulfide. Like other copper minerals such as [malachite](/stones/malachite/), handle it briefly, wash your hands after, keep it out of drinking water, elixirs and baths, and away from children and pets. More in [toxic crystals](/care/toxic-crystals/).
 
 ### Does Chalcocite Tarnish?
 
-Yes. Faces can grow a thin film (Minerals.net), and Earth Wonders says many older pieces have partly altered to covellite or digenite, which dulls the luster. Dry air, clean air and no heat slow it down. Check your specimen in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+Yes. Faces can grow a thin film, and many older pieces have partly altered to covellite or digenite, which dulls the luster. Dry air, clean air and no heat slow it down. Check your specimen in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
 
 **Where the beliefs and the care data disagree.** Crystal guides agree on one thing, no water, and our data says the same, a quick rinse at most. One guide suggests burying chalcocite in earth, which damp soil makes a bad idea for a stone that tarnishes. Another rests it on an amethyst or quartz cluster for 24 hours, but quartz is far harder, so a soft plate can get scratched. Sound or moonlight keeps it dry and still.
 
 ## Chalcocite vs Look-Alikes
 
-- **Galena.** Different crystals and cleavage (Minerals.net). Galena is a lead mineral, rated Avoid for toxicity in our Care Checker.
-- **Acanthite.** Even more sectile than chalcocite (Minerals.net).
-- **Bornite and covellite.** They share the same deposits, and chalcocite often forms from them. A blue or purple tarnish on chalcocite comes from alteration toward covellite or digenite (Earth Wonders).
+- **Galena.** Different crystals and cleavage. Galena is a lead mineral, rated Avoid for toxicity in our Care Checker.
+- **Acanthite.** Even more sectile than chalcocite.
+- **Bornite and covellite.** They share the same deposits, and chalcocite often forms from them. A blue or purple tarnish on chalcocite comes from alteration toward covellite or digenite.
 
 ## Price Guide
 
-Massive chalcocite is a widespread ore, but crystals are another story. Minerals.net says good crystals "command very high prices," and pieces from classic localities like Cornwall and Bristol command extremely high ones. Earth Wonders lists size, sharpness, contrast with the matrix, minimal alteration and a documented history as what drives value.
+Massive chalcocite is a widespread ore, but crystals are another story. Good crystals command very high prices, and pieces from classic localities like Cornwall and Bristol command extremely high ones. Size, sharpness, contrast with the matrix, minimal alteration and a documented history drive value.
 
 ## Sources
 
@@ -185,4 +185,4 @@ Massive chalcocite is a widespread ore, but crystals are another story. Minerals
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

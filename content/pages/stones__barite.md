@@ -80,39 +80,39 @@ Barite is a mineral made of barium sulfate, so heavy for its size that its name 
 
 ## What Barite Actually Is
 
-**The Stone.** Barite is barium sulfate, BaSO₄. Its name comes from the Greek "barys," meaning heavy, because its specific gravity of 4.5 is exceptional for a nonmetallic mineral ([Geology.com](https://geology.com/minerals/barite.shtml)). A piece of barite weighs noticeably more than a piece of quartz the same size. It forms a series with [celestite](/stones/celestite/), its strontium cousin ([International Gem Society](https://www.gemsociety.org/article/barite-jewelry-gemstone-information/)).
+**The Stone.** Barite is barium sulfate, BaSO₄. Its name comes from the Greek "barys," meaning heavy, because its specific gravity of 4.5 is exceptional for a nonmetallic mineral. A piece of barite weighs noticeably more than a piece of quartz the same size. It forms a series with [celestite](/stones/celestite/), its strontium cousin.
 
-It is also soft (2.5 to 3.5 on the Mohs scale) and brittle, with perfect cleavage (IGS) and three cleavage directions at right angles (Geology.com), which is why it breaks into neat flat chips. Americans spell it barite. The IMA List of Minerals uses baryte, a change that [minerals.net](https://www.minerals.net/mineral/barite) calls "very controversial" and that most American collectors and mineralogists still decline to follow.
+It is also soft (2.5 to 3.5 on the Mohs scale) and brittle, with perfect cleavage and three cleavage directions at right angles, which is why it breaks into neat flat chips. Americans spell it barite. The IMA List of Minerals uses baryte, a very controversial change that most American collectors and mineralogists still decline to follow.
 
 ### Where It Forms
 
-Barite grows in several settings, according to Geology.com. It forms as concretions and void-filling crystals in sedimentary rocks, especially limestone and dolostone. It fills hydrothermal veins next to ores of lead, copper, silver, antimony, cobalt and manganese. In sand it grows between the grains, and in a few places it is deposited as a sinter, a mineral crust, at hot springs. Its crystals can be tabular, bladed, platy or grouped into rosettes, and they are often twinned and can be quite large (minerals.net).
+Barite grows in several settings. It forms as concretions and void-filling crystals in sedimentary rocks, especially limestone and dolostone. It fills hydrothermal veins next to ores of lead, copper, silver, antimony, cobalt and manganese. In sand it grows between the grains, and in a few places it is deposited as a sinter, a mineral crust, at hot springs. Its crystals can be tabular, bladed, platy or grouped into rosettes, and they are often twinned and can be quite large.
 
 ### What Is Barite Used For?
 
-Mostly drilling. About 99% of the barite used in the United States goes into heavy drilling mud that cools the bit and carries rock cuttings up from oil and gas wells (Geology.com). The rest of the list is pleasantly ordinary. Barite is a paint pigment and a weighted filler in paper, cloth and rubber. It is packed into the paper of some playing cards so they deal smoothly, and into the rubber of "anti-sail" truck mudflaps. Because barium blocks x-rays, barite goes into shielding concrete for hospitals and labs, and barium compounds coat the esophagus in the "barium swallow" x-ray test.
+Mostly drilling. About 99% of the barite used in the United States goes into heavy drilling mud that cools the bit and carries rock cuttings up from oil and gas wells. The rest of the list is pleasantly ordinary. Barite is a paint pigment and a weighted filler in paper, cloth and rubber. It is packed into the paper of some playing cards so they deal smoothly, and into the rubber of "anti-sail" truck mudflaps. Because barium blocks x-rays, barite goes into shielding concrete for hospitals and labs, and barium compounds coat the esophagus in the "barium swallow" x-ray test.
 
 That last use is not a reason to drink barite water. A mineral specimen is not a medical product, and barite grows right alongside lead and copper ores, so you never know what else is on it.
 
 ### Barite Rose Rocks & Desert Roses
 
-A desert rose is a rose-shaped cluster of flat crystals with sand trapped inside. Both gypsum and barite make them (International Gem Society). Oklahoma's rose rocks are the famous barite kind. The [Oklahoma Geological Survey](https://ou.edu/ogs/generalinterest/rose_rocks) describes radiating sprays of disc-shaped barite crystals full of quartz sand from the Garber Sandstone, a red Permian sandstone, colored reddish by a little hematite. Each "petal" is a single barite crystal. Most are 0.4 to 4 inches (1 to 10 cm) across, and the largest known single rose weighs about 300 pounds (135 kg).
+A desert rose is a rose-shaped cluster of flat crystals with sand trapped inside. Both gypsum and barite make them. Oklahoma's rose rocks are the famous barite kind, radiating sprays of disc-shaped barite crystals full of quartz sand from the Garber Sandstone, a red Permian sandstone, colored reddish by a little hematite. Each "petal" is a single barite crystal. Most are 0.4 to 4 inches (1 to 10 cm) across, and the largest known single rose weighs about 300 pounds (135 kg).
 
-The survey says rose rocks are essentially unique to Oklahoma, with minor occurrences in Kansas, Morocco and Australia. Their exact age is unknown, and they may still be growing. Historic collecting sites are now closed or on private property.
+Rose rocks are essentially unique to Oklahoma, with minor occurrences in Kansas, Morocco and Australia. Their exact age is unknown, and they may still be growing. Historic collecting sites are now closed or on private property.
 
 <!-- PHOTO TO FIND. Barite rose rock from Oklahoma. No rose rock photo with a visual check in our image files. The International Gem Society barite page credits a CC BY 2.0 photo of an Oklahoma barite rose to James St. John. Find that file on Wikimedia Commons, confirm license and credit, and log it with a visual check before use. -->
 
 ### Barite With Vanadinite
 
-Some barite specimens carry bright red vanadinite crystals on pale barite blades. The *Handbook of Mineralogy* lists barite among the minerals found with [vanadinite](/stones/vanadinite/) in the oxidized zone of lead deposits ([HoM](https://www.handbookofmineralogy.org/pdfs/vanadinite.pdf)), and Mibladen in Morocco is a noted locality for both (minerals.net, HoM, [International Gem Society](https://www.gemsociety.org/article/vanadinite-jewelry-and-gemstone-information/)). Treat these pieces as two minerals. Vanadinite contains lead and vanadium and may hold traces of arsenic. The International Gem Society says normal display is no problem, but it scratches very easily, and like any lead mineral it stays out of water you drink.
+Some barite specimens carry bright red vanadinite crystals on pale barite blades. Barite is among the minerals found with [vanadinite](/stones/vanadinite/) in the oxidized zone of lead deposits, and Mibladen in Morocco is a noted locality for both. Treat these pieces as two minerals. Vanadinite contains lead and vanadium and may hold traces of arsenic. Normal display is no problem, but it scratches very easily, and like any lead mineral it stays out of water you drink.
 
 <!-- PHOTO 3, candidate, beside "Barite With Vanadinite". Wikimedia Commons, "File Vanadinite crystals.jpg", by Masha Milshina, description "Crystals of vanadinite on barite. Morocco. Field of view 14mm". Page https://commons.wikimedia.org/wiki/File:Vanadinite_crystals.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Vanadinite_crystals.jpg/1280px-Vanadinite_crystals.jpg (tracking parameters removed). License CC BY 4.0. Credit line "Photo Masha Milshina, CC BY 4.0, via Wikimedia Commons". visual_check empty in images_commons_candidates.csv, check before use. Alt text "Red vanadinite crystals on pale barite from Morocco". -->
 
 ### Why Collectors Want It
 
-Crystal barite is not rare, and collectors can find large transparent crystals in almost any color, says the International Gem Society. Colorado gives blue crystals, Elk Creek in South Dakota gives honey-brown ones, the Rock Candy Mine in British Columbia gave bright yellow tabular crystals, and Cumberland in England gives fine crystals, some very large (IGS, minerals.net). Many barites glow under ultraviolet light, and some phosphoresce or glow when heated.
+Crystal barite is not rare, and collectors can find large transparent crystals in almost any color. Colorado gives blue crystals, Elk Creek in South Dakota gives honey-brown ones, the Rock Candy Mine in British Columbia gave bright yellow tabular crystals, and Cumberland in England gives fine crystals, some very large. Many barites glow under ultraviolet light, and some phosphoresce or glow when heated.
 
-Faceters have cut gems over 100 carats from Madagascar rough, but IGS advises against jewelry use because barite is so fragile.
+Faceters have cut gems over 100 carats from Madagascar rough, but jewelry use is best avoided because barite is so fragile.
 
 ## Where the Meaning Comes From
 
@@ -120,16 +120,16 @@ Faceters have cut gems over 100 carats from Madagascar rough, but IGS advises ag
 
 - **1604, Bologna.** **Tradition.** Kunz retells how Vincenzio Casscioroli, "an adept in alchemy," found a stone in the fissures of Monte Paterno near Bologna after torrential rains. Because of its "solar quality," he hoped it would help turn base metals into gold (*The Curious Lore of Precious Stones*, 1913, pages 168 to 169).
 - **1675, the "lunar stone."** **Tradition.** The physician Mentzel wrote a treatise on this Bologna stone, "partly a radiated or crystalline sulphate of barytes," which glowed after being calcined, roasted in a fire. It was called the lunar stone (*lapis lunaris*) because, "like the moon, it gave out in the darkness the light it received from the sun" (Kunz 1913, pages 168 to 169).
-- **1772 to 1808.** The Swedish chemist Carl Scheele found in 1772 that baryte held a new element but could isolate only its oxide, and Humphry Davy first isolated barium in 1808 by electrolysis, according to [Los Alamos National Laboratory](https://www.lanl.gov/science-engineering/periodic-table/element/barium).
-- **1968, Oklahoma.** The barite rose became Oklahoma's official state rock when House Bill 1277 was signed into law. In 1983 the town of Noble was named the official rose rock capital (Oklahoma Geological Survey).
-- **The Cherokee legend.** **Tradition.** A story says rose rocks formed from the tears of women and the blood of men forced from Georgia to Oklahoma in 1838 and 1839. The Oklahoma Geological Survey notes that Cherokee Nation representatives disavow it, since rose rocks do not occur on lands granted to the Cherokees. [Moonrise Crystals](https://moonrisecrystals.com/barite-meaning/), a crystal shop, also calls it a modern myth.
-- **Today.** **Modern Association.** One crystal guide says plainly that barite "does not have the long folklore of stones such as jade or amber," and that practitioners built its meaning from the stone's weight, its pale color and the way it grows in layered blades ([Crystal Gemstones](https://crystalgemstones.net/barite-meaning-and-spiritual-properties.html)).
+- **1772 to 1808.** The Swedish chemist Carl Scheele found in 1772 that baryte held a new element but could isolate only its oxide, and Humphry Davy first isolated barium in 1808 by electrolysis.
+- **1968, Oklahoma.** The barite rose became Oklahoma's official state rock when House Bill 1277 was signed into law. In 1983 the town of Noble was named the official rose rock capital.
+- **The Cherokee legend.** **Tradition.** A story says rose rocks formed from the tears of women and the blood of men forced from Georgia to Oklahoma in 1838 and 1839. The Oklahoma Geological Survey notes that Cherokee Nation representatives disavow it, since rose rocks do not occur on lands granted to the Cherokees. One crystal shop also calls it a modern myth.
+- **Today.** **Modern Association.** One crystal guide says plainly that barite "does not have the long folklore of stones such as jade or amber," and that practitioners built its meaning from the stone's weight, its pale color and the way it grows in layered blades.
 
 ## What People Use Barite for Today
 
 **Modern Association.** In modern crystal guides, grounding, clarity and love are the steadiest themes, with courage, calm, communication and intuition close behind. The "why" is the weight. A stone that sits heavy in the hand became a stone for staying put and thinking straight. Barite is also Widely Linked with [sleep](/crystals-for/sleep/), mostly through dreams, and some people keep it by a dream journal.
 
-The rest is scattered. Guides cannot agree on a chakra (crown, third eye, throat or all of them) or a sign (Aquarius more often than Taurus), and one lists Saturn as its planet. Astrology.com calls it an alternative November birthstone, but the [American Gem Society](https://www.americangemsociety.org/birthstones/) list gives November to topaz and citrine.
+The rest is scattered. Guides cannot agree on a chakra (crown, third eye, throat or all of them) or a sign (Aquarius more often than Taurus), and one lists Saturn as its planet. One astrology site calls it an alternative November birthstone, but the American Gem Society list gives November to topaz and citrine.
 
 Some guides go much further, with claims about migraines, insomnia, radiation damage, digestion, memory, children's bones and recovery from substance abuse or self-harm. Mineralogy and medicine do not support any of them, and none of them should stand in for care.
 
@@ -167,36 +167,36 @@ One shop lists barite as suitable for gemstone water, and another guide suggests
 
 We use the same five labels on every stone. Barite is simpler than most.
 
-- **Natural, untreated.** Nearly everything sold. The International Gem Society knows of no gem treatments for barite.
-- **Natural, treated.** None known (IGS). Dyed barite does exist in one documented form, beads of barite, calcite and blue dye that reached a lab in Taiwan as "Wulanhua" turquoise, a material from Hubei, China ([Gems & Gemology, Spring 2022](https://www.gia.edu/gems-gemology/spring-2022-gemnews-barite-calcite-composite-imitation-wulanhua-turquoise-hubei-china)). We found no reference report of dyed or coated barite specimens sold as barite in the US.
-- **Lab-grown.** Scientists have grown barite for research, but the material has no known jewelry use (IGS).
+- **Natural, untreated.** Nearly everything sold. There are no known gem treatments for barite.
+- **Natural, treated.** None known. Dyed barite does exist in one documented form. A Spring 2022 *Gems & Gemology* report describes beads of barite, calcite and blue dye that reached a lab in Taiwan as "Wulanhua" turquoise, a material from Hubei, China. We found no reference report of dyed or coated barite specimens sold as barite in the US.
+- **Lab-grown.** Scientists have grown barite for research, but the material has no known jewelry use.
 - **Imitation.** We found no reference report of another material sold as barite. The documented mix-up runs the other way, barite dressed up as turquoise. The usual confusions are with celestine, calcite and gypsum, covered below.
-- **Trade name.** "Desert rose" can be barite or gypsum, "rose rock" is Oklahoma barite, and "Bologna stone" is an old name for its radiating form (minerals.net).
+- **Trade name.** "Desert rose" can be barite or gypsum, "rose rock" is Oklahoma barite, and "Bologna stone" is an old name for its radiating form.
 
 Three checks you can do at home, with their limits.
 
-1. **The heft test.** Hold your stone in one hand and a similar-size piece of quartz, calcite or gypsum in the other. Barite is one of just a few nonmetallic minerals with a specific gravity of 4 or higher, and Geology.com says third or fourth graders can spot it this way. It is a comparison, not a measurement.
-2. **Look at the breaks.** High weight, low hardness and three cleavage directions at right angles usually identify barite with just three observations (Geology.com). Massive, fine-grained barite looks sugary, and students often struggle to identify it, so this check is much harder on those pieces.
-3. **Do not trust a fizz.** Pure barite does not react to dilute hydrochloric acid, but a specimen can fizz if it naturally contains calcite or picked some up when scratched with calcite in a hardness test. Students who test only for fizz call barite calcite, and the specific gravity proves them wrong (Geology.com).
+1. **The heft test.** Hold your stone in one hand and a similar-size piece of quartz, calcite or gypsum in the other. Barite is one of just a few nonmetallic minerals with a specific gravity of 4 or higher, and third or fourth graders can spot it this way. It is a comparison, not a measurement.
+2. **Look at the breaks.** High weight, low hardness and three cleavage directions at right angles usually identify barite with just three observations. Massive, fine-grained barite looks sugary, and students often struggle to identify it, so this check is much harder on those pieces.
+3. **Do not trust a fizz.** Pure barite does not react to dilute hydrochloric acid, but a specimen can fizz if it naturally contains calcite or picked some up when scratched with calcite in a hardness test. Students who test only for fizz call barite calcite, and the specific gravity proves them wrong.
 
-Barite is also diamagnetic, so a magnetic field repels it (IGS), but that is not a home test. Questions to ask the seller. Is it barite or gypsum? Where was it found? Is anything else on the specimen, like vanadinite?
+Barite is also diamagnetic, so a magnetic field repels it, but that is not a home test. Questions to ask the seller. Is it barite or gypsum? Where was it found? Is anything else on the specimen, like vanadinite?
 
 ### Barite or Gypsum Desert Rose?
 
-Weigh it in your hand. Gypsum roses are much lighter, more brittle and thinner than barite roses (minerals.net). Gypsum is also water soluble ([International Gem Society](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/)), so the difference matters for care too. See our [selenite page](/stones/selenite/) for gypsum.
+Weigh it in your hand. Gypsum roses are much lighter, more brittle and thinner than barite roses. Gypsum is also water soluble, so the difference matters for care too. See our [selenite page](/stones/selenite/) for gypsum.
 
 ## How to Care for Barite
 
-**Mineral Fact.** Low hardness, brittle tenacity, perfect cleavage and heat sensitivity make barite hard to cut and too fragile for jewelry (International Gem Society).
+**Mineral Fact.** Low hardness, brittle tenacity, perfect cleavage and heat sensitivity make barite hard to cut and too fragile for jewelry.
 
-- **Water.** Brief only. IGS cleans barite only with a warm damp cloth, detergent and a soft brush. Soaking is not covered.
+- **Water.** Brief only. Clean barite only with a warm damp cloth, detergent and a soft brush. The care guidance does not cover soaking.
 - **Sun.** Unknown. There is no reliable guidance yet, so keep it out of long, strong sun.
-- **Heat.** Brief only. IGS calls barite heat sensitive, without giving a limit. The old Bologna stone glowed only after it was roasted in a fire, which is exactly what you should not do to yours.
-- **Chemicals.** Brief only. Pure barite does not fizz in dilute acid (Geology.com), but no rule exists for household cleaners, so keep them away.
+- **Heat.** Brief only. Barite is heat sensitive, though the care guidance gives no limit. The old Bologna stone glowed only after it was roasted in a fire, which is exactly what you should not do to yours.
+- **Chemicals.** Brief only. Pure barite does not fizz in dilute acid, but no rule exists for household cleaners, so keep them away.
 - **Salt.** Unknown. There is no reliable guidance yet, so keep it away from salt.
 - **Scratches and storage.** Brief only. Soft, brittle and quick to split. Store it apart from harder stones, ideally on a shelf or in a padded box.
-- **Cleaning.** OK with a warm damp cloth, a little detergent and a soft brush (IGS).
-- **Toxicity.** OK to handle. The IGS [toxicity table](https://www.gemsociety.org/article/gemstone-care-guide/) rates barite as low risk, with barium as the hazard, and the dust risk applies to cutting.
+- **Cleaning.** OK with a warm damp cloth, a little detergent and a soft brush.
+- **Toxicity.** OK to handle. Barite is rated low risk, with barium as the hazard, and the dust risk applies to cutting.
 
 ### Can Barite Go in Water?
 
@@ -204,16 +204,16 @@ A quick wipe with a damp cloth, yes. A soak or a bath, no, because soaking is no
 
 ## Barite vs Look-Alikes
 
-- **Celestine (celestite).** Very difficult to tell apart by appearance alone, but lighter in weight (minerals.net).
-- **Calcite.** Has perfect rhombohedral cleavage, weighs less and fizzes in hydrochloric acid (minerals.net).
-- **Gypsum.** Much lighter, and gypsum desert roses are thinner and more brittle (minerals.net).
-- **Fluorite.** Forms isometric crystals and is lighter (minerals.net).
-- **Feldspar.** Much harder and lighter (minerals.net).
-- **Anglesite.** Has a diamond-like (adamantine) luster (minerals.net).
+- **Celestine (celestite).** Very difficult to tell apart by appearance alone, but lighter in weight.
+- **Calcite.** Has perfect rhombohedral cleavage, weighs less and fizzes in hydrochloric acid.
+- **Gypsum.** Much lighter, and gypsum desert roses are thinner and more brittle.
+- **Fluorite.** Forms isometric crystals and is lighter.
+- **Feldspar.** Much harder and lighter.
+- **Anglesite.** Has a diamond-like (adamantine) luster.
 
 ## Price Guide
 
-Industrial barite is cheap. Geology.com gives an undated figure of about $150 per metric ton at the mine for drilling-mud barite. Collector specimens are a different market. Crystal barite is not rare (International Gem Society), so an ordinary white cluster is no treasure, and color, sharp crystals and a known locality are what collectors talk about.
+Industrial barite is cheap. An undated reference figure puts drilling-mud barite at about $150 per metric ton at the mine. Collector specimens are a different market. Crystal barite is not rare, so an ordinary white cluster is no treasure, and color, sharp crystals and a known locality are what collectors talk about.
 
 Two current listings show how low the entry point can be. One listing we found, a barite cluster from Durango, Mexico, about 2.3 by 1.6 inches, was on sale for about $31. Another, a barite specimen from the Androvo mine in Bulgaria, about 1.5 by 1.2 inches, was about $5. We found no current listing for a rose rock, a blue Colorado crystal or vanadinite on barite to compare. Prices from online listings in US dollars, November 2026.
 
@@ -238,4 +238,4 @@ Two current listings show how low the entry point can be. One listing we found, 
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

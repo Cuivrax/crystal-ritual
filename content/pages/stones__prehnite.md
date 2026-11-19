@@ -79,40 +79,40 @@ Prehnite is a pale green calcium aluminum silicate mineral that usually grows as
 
 ## What Prehnite Actually Is
 
-**The Stone.** Prehnite is a calcium aluminum silicate hydroxide ([Galleries.com](https://galleries.com/minerals/silicate/prehnite/prehnite.htm)), an approved mineral species on the IMA list. It forms at low temperatures from groundwater moving through basaltic rock, usually alongside zeolites ([International Gem Society](https://www.gemsociety.org/article/prehnite-jewelry-and-gemstone-information/)). It is often found with zeolites and sometimes mistaken for one, but Galleries.com classes it with the sheet silicates instead.
+**The Stone.** Prehnite is a calcium aluminum silicate hydroxide, an approved mineral species on the IMA list. It forms at low temperatures from groundwater moving through basaltic rock, usually alongside zeolites. It is often found with zeolites and sometimes mistaken for one, but Galleries.com classes it with the sheet silicates instead.
 
-It rarely grows as neat crystals. Galleries.com lists nodular, crusty and stalactitic forms and says single crystals are rare. Some crusts formed over crystals of another mineral, laumontite, that later dissolved and left hollow prehnite casts behind (Galleries.com).
+It rarely grows as neat crystals. Its forms are nodular, crusty and stalactitic, and single crystals are rare. Some crusts formed over crystals of another mineral, laumontite, that later dissolved and left hollow prehnite casts behind.
 
 ### What Color Is Prehnite?
 
-Prehnite is usually pale green to a yellowish grass green, sometimes gray, white or colorless (Galleries.com). The International Gem Society adds blue-green and yellow. It glows softly rather than sparkles, with a luster from glassy to waxy or pearly, and is mostly translucent. Completely transparent prehnite is extremely rare (IGS).
+Prehnite is usually pale green to a yellowish grass green, sometimes gray, white or colorless, and it also comes in blue-green and yellow. It glows softly rather than sparkles, with a luster from glassy to waxy or pearly, and is mostly translucent. Completely transparent prehnite is extremely rare.
 
-Rarer colors exist. [Minerals.net](https://www.minerals.net/mineral/prehnite) lists orange and pink among prehnite's rare colors and shows bright orange crystals from the N'Chwaning mines in South Africa's Kalahari Manganese Fields, and the [Handbook of Mineralogy](https://www.handbookofmineralogy.org/pdfs/prehnite.pdf) includes pink in its color list.
+Rarer colors exist. Orange and pink are among prehnite's rare colors, with bright orange crystals from the N'Chwaning mines in South Africa's Kalahari Manganese Fields.
 
 ### Prehnite with Epidote
 
-Many tumbled stones show dark needles inside the pale green. A dealer guide says these are often epidote or black tourmaline, both separate minerals (Gem Rock Auctions). The [Wisconsin Geological and Natural History Survey](https://home.wgnhs.wisc.edu/minerals/prehnite/) notes that prehnite can enclose small clusters of epidote crystals, and epidote often grows as long, slender crystals (James Madison University). The pair turns up together in basalts from Virginia to Wisconsin. More on the dark one on our [epidote page](/stones/epidote/).
+Many tumbled stones show dark needles inside the pale green. A dealer guide says these are often epidote or black tourmaline, both separate minerals. Prehnite can enclose small clusters of epidote crystals, and epidote often grows as long, slender crystals. The pair turns up together in basalts from Virginia to Wisconsin. More on the dark one on our [epidote page](/stones/epidote/).
 
 ### Where Prehnite Comes From
 
-The type locality is the Cape of Good Hope in South Africa (Galleries.com). The International Gem Society lists facetable material from Australia and Scotland, fine green prehnite from the Fairfax Quarry in Centreville, Virginia, prehnite in the basalts of New Jersey, and colorless crystals up to 3 inches from Asbestos, Quebec.
+The type locality is the Cape of Good Hope in South Africa. Facetable material comes from Australia and Scotland. Other notable finds are fine green prehnite from the Fairfax Quarry in Centreville, Virginia, prehnite in the basalts of New Jersey, and colorless crystals up to 3 inches from Asbestos, Quebec.
 
-Prehnite is popular with hobbyists as a cabochon. Australian material can be faceted into a striking gem "with a soft, velvety look," and a few cat's-eye stones have been reported (IGS).
+Prehnite is popular with hobbyists as a cabochon. Australian material can be faceted into a striking gem that looks soft and velvety, and a few cat's-eye stones have been reported.
 
 ## Where the Meaning Comes From
 
-**The Story.** Prehnite has a short paper trail. It does not appear in either of Kunz's books on gem lore (1913 and 1915), and one crystal guide says itself that the stone "was not included in any of the older lapidaries" ([Moonrise Crystals](https://moonrisecrystals.com/prehnite-meaning/)).
+**The Story.** Prehnite has a short paper trail. It does not appear in either of Kunz's books on gem lore (1913 and 1915), and one crystal guide says itself that the stone "was not included in any of the older lapidaries."
 
-- **1770s to 1780s, the Cape.** Colonel Hendrik von Prehn (1733 to 1785), a Dutch military commander in South Africa (Minerals.net), first found the material on the Cape of Good Hope (IGS) and brought specimens back to Europe (Minerals.net). Crystal guides disagree on when, giving 1774 or 1783.
-- **1788.** The University of Hamburg's [catalog of type minerals](https://www.typmineral.uni-hamburg.de/tables/en/prehnite.html) dates prehnite to 1788, gives its type locality as the Karoo dolerites of South Africa's Eastern Cape, and cites a chemical analysis of prehnite published that year by M. H. Klaproth. The name honors von Prehn, who had died three years earlier (Handbook of Mineralogy).
-- **Dealer lore, not history.** One dealer guide tells of South African shamans and Aboriginal people in Australia using prehnite ([Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/prehnite)). It gives no source for either, so we treat these as a seller's stories, not as documented history or ethnography.
-- **Today.** **Modern Association.** Calm, dreams and unconditional love lead, with nicknames like "stone of prophecy" and "healer's stone." Moonrise Crystals calls it a relatively new healing stone whose properties "have only recently been explored."
+- **1770s to 1780s, the Cape.** Colonel Hendrik von Prehn (1733 to 1785), a Dutch military commander in South Africa, first found the material on the Cape of Good Hope and brought specimens back to Europe. Crystal guides disagree on when, giving 1774 or 1783.
+- **1788.** The University of Hamburg's catalog of type minerals dates prehnite to 1788, gives its type locality as the Karoo dolerites of South Africa's Eastern Cape, and cites a chemical analysis of prehnite published that year by M. H. Klaproth. The name honors von Prehn, who had died three years earlier.
+- **Dealer lore, not history.** One dealer guide tells of South African shamans and Aboriginal people in Australia using prehnite. It gives no source for either, so we treat these as a seller's stories, not as documented history or ethnography.
+- **Today.** **Modern Association.** Calm, dreams and unconditional love lead, with nicknames like "stone of prophecy" and "healer's stone." The same crystal guide calls it a relatively new healing stone whose properties "have only recently been explored."
 
 ## What People Use Prehnite for Today
 
 **Modern Association.** In modern crystal guides, prehnite is a Classic stone for [sleep](/crystals-for/sleep/), mostly for its dream associations, from fewer nightmares to remembering dreams in the morning. Calm and peace come up in almost every guide, followed by intuition, change and protection, and several call it a stone of unconditional love.
 
-The "why" is mostly color. One guide notes that its green and its themes of care link it to the heart chakra, and the misty, translucent look suits calm and dreaming. Green also ties it to growth, which is why some keep it among houseplants (Crystalgemstones.net). Guides name the heart chakra most often, often with the solar plexus, and Libra is the sign most give it.
+The "why" is mostly color. One guide notes that its green and its themes of care link it to the heart chakra, and the misty, translucent look suits calm and dreaming. Green also ties it to growth, which is why some keep it among houseplants. Guides name the heart chakra most often, often with the solar plexus, and Libra is the sign most give it.
 
 Guides also attach it to real situations. People in helping roles come up in several guides, from nurses and parents to teachers and counselors. One shop guide calls decluttering its best-known use, others suggest it for weighing a job change, moving or closing a chapter, and some keep it close during a loss.
 
@@ -150,29 +150,29 @@ As a mineral, prehnite is a moderately hard green stone that cuts into soft-look
 
 We use the same five labels on every stone. We found no reference source describing common prehnite fakes, so the bigger risk is a misleading name.
 
-- **Natural, untreated.** Most prehnite, according to a dealer guide that says it is not often treated (Gem Rock Auctions).
-- **Natural, treated.** Minerals.net notes that some dealers oil specimens with lubricants to make them shinier. We found no reference source on dyed or stabilized prehnite sold in the US.
+- **Natural, untreated.** Most prehnite. A dealer guide says it is not often treated.
+- **Natural, treated.** Some dealers oil specimens with lubricants to make them shinier. We found no reference source on dyed or stabilized prehnite sold in the US.
 - **Lab-grown.** We found no reference source describing lab-grown prehnite.
-- **Imitation.** The same goes for glass or other materials sold as prehnite. Prehnite itself is sometimes sold as an imitation of jade under the name "new jade," according to Gem Rock Auctions.
-- **Trade names.** "New jade" and "grape jade" are prehnite, the second named for its grape-like nodules (Gem Rock Auctions), and two guides report "Cape emerald." Prehnite is not jade, emerald or peridot.
+- **Imitation.** The same goes for glass or other materials sold as prehnite. Prehnite itself is sometimes sold as an imitation of jade under the name "new jade."
+- **Trade names.** "New jade" and "grape jade" are prehnite, the second named for its grape-like nodules, and two guides report "Cape emerald." Prehnite is not jade, emerald or peridot.
 
 Three checks you can do at home, with their limits.
 
-1. **Look at the shape.** Raw prehnite forms rounded, bubbly crusts, and sharp crystals are rare (Galleries.com). A tumbled stone loses this clue.
-2. **Look at the glow.** Prehnite is pale green with a glassy to pearly luster and is mostly translucent (Galleries.com). Hemimorphite is usually blue, gyrolite is less glassy, and smithsonite has an unusual luster prehnite lacks (Galleries.com). Color alone proves nothing.
+1. **Look at the shape.** Raw prehnite forms rounded, bubbly crusts, and sharp crystals are rare. A tumbled stone loses this clue.
+2. **Look at the glow.** Prehnite is pale green with a glassy to pearly luster and is mostly translucent. Hemimorphite is usually blue, gyrolite is less glassy, and smithsonite has an unusual luster prehnite lacks. Color alone proves nothing.
 3. **Read the label.** If it says "new jade," you are probably holding prehnite. If it says jade and looks like prehnite, ask. Separating prehnite from [jade](/stones/jade/) with certainty takes a gem lab.
 
 Ask the seller what mineral it is, whether anything was applied to the surface, and where it was mined.
 
 ## How to Care for Prehnite
 
-**Mineral Fact.** Prehnite rates 6 to 6.5 on the Mohs scale with one good cleavage (Galleries.com). A dealer guide calls it fairly sturdy and long wearing in jewelry (Gemstones.com).
+**Mineral Fact.** Prehnite rates 6 to 6.5 on the Mohs scale with one good cleavage. A dealer guide calls it fairly sturdy and long wearing in jewelry.
 
 - **Water, sun and salt.** Unknown. We found no reference source that covers them for prehnite yet.
-- **Heat.** Avoid sudden temperature changes (Gemstones.com). Prehnite can give off water when heated and cannot take it back (Galleries.com).
-- **Chemicals.** Avoid acids. The International Gem Society lists prehnite as soluble in acids ([IGS care guide](https://www.gemsociety.org/article/gemstone-care-guide/)).
-- **Storage.** OK. Sturdy enough for jewelry (Gemstones.com).
-- **Toxicity.** OK to wear and handle. The International Gem Society toxicity table lists none known.
+- **Heat.** Avoid sudden temperature changes. Prehnite can give off water when heated and cannot take it back.
+- **Chemicals.** Avoid acids. Prehnite is soluble in acids.
+- **Storage.** OK. Sturdy enough for jewelry.
+- **Toxicity.** OK to wear and handle, with no known toxicity.
 
 ### Is Prehnite Water Safe?
 
@@ -182,7 +182,7 @@ So for now, no soaks, no salt water and nothing hot, since sudden temperature ch
 
 ### Does Prehnite Fade?
 
-Possibly. A [James Madison University mineral page](https://csmgeo.csm.jmu.edu/geollab/Kearns/Minerals/PrehniteEpidote.html) notes that prehnite's color is "frequently fading upon exposure," and one shop guide blames light and air. Neither source tests sunlight directly, so our Care Checker still rates sun Unknown. Keep it off a sunny windowsill until one does.
+Possibly. A James Madison University mineral page notes that prehnite's color is "frequently fading upon exposure," and one shop guide blames light and air. Neither source tests sunlight directly, so our Care Checker still rates sun Unknown. Keep it off a sunny windowsill until one does.
 
 ### How to Cleanse & Charge Prehnite
 
@@ -190,14 +190,14 @@ Cleansing and charging are beliefs, not measurable processes, and no reference s
 
 ## Prehnite vs Look-Alikes
 
-- **Jade.** Prehnite is sold as "new jade," but it is a different mineral (Gem Rock Auctions). A gem lab can separate them.
+- **Jade.** Prehnite is sold as "new jade," but it is a different mineral. A gem lab can separate them.
 - **Peridot and emerald.** Trade names like "Cape emerald" and "chrysolite of sage" borrow their prestige. Neither is prehnite.
-- **Hemimorphite, gyrolite and smithsonite.** Mineral look-alikes, all softer than prehnite (Galleries.com).
-- **Serpentine and apatite.** Also confused with prehnite, according to Gem Rock Auctions.
+- **Hemimorphite, gyrolite and smithsonite.** Mineral look-alikes, all softer than prehnite.
+- **Serpentine and apatite.** Also confused with prehnite.
 
 ## Price Guide
 
-Prehnite is mostly a collector's mineral and a cabochon stone (Galleries.com, IGS), and specimens show the widest prices. Four raw specimens and clusters, about 2 to 6.5 inches across, ran about $15 to $150. Size was not the whole story. The dearest was a 3.5 inch piece from India, while a 6.5 inch piece from Morocco cost $65. Faceting rough is rare and small, and the International Gem Society notes that faceted Scottish stones stay under 5 carats. Prices from US-dollar listings at online mineral shops in November 2026.
+Prehnite is mostly a collector's mineral and a cabochon stone, and specimens show the widest prices. Four raw specimens and clusters, about 2 to 6.5 inches across, ran about $15 to $150. Size was not the whole story. The dearest was a 3.5 inch piece from India, while a 6.5 inch piece from Morocco cost $65. Faceting rough is rare and small, and faceted Scottish stones stay under 5 carats. Prices from US-dollar listings at online mineral shops in November 2026.
 
 **Next Step.** Building a calmer bedtime? See how prehnite compares with the other usual picks in [crystals for sleep](/crystals-for/sleep/).
 
@@ -220,4 +220,4 @@ Prehnite is mostly a collector's mineral and a cabochon stone (Galleries.com, IG
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

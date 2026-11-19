@@ -67,25 +67,25 @@ Prasiolite is a yellow-green to green variety of quartz, and most of it is ameth
 
 ## What Prasiolite Actually Is
 
-**The Stone.** Prasiolite is quartz, the same mineral as amethyst and citrine, in green. As a quartz variety it rates 7 on the Mohs scale, has no cleavage and wears like amethyst, citrine, smoky quartz or rose quartz, so it suits almost any jewelry, rings included ([Geology.com](https://geology.com/gemstones/prasiolite/)).
+**The Stone.** Prasiolite is quartz, the same mineral as amethyst and citrine, in green. As a quartz variety it rates 7 on the Mohs scale, has no cleavage and wears like amethyst, citrine, smoky quartz or rose quartz, so it suits almost any jewelry, rings included.
 
 ### How Amethyst Becomes Prasiolite
 
-**Mineral Fact.** Geology.com describes three routes to prasiolite.
+**Mineral Fact.** There are three routes to prasiolite.
 
 1. **Heated amethyst.** Most prasiolite is natural amethyst heated in a laboratory oven to about 932 °F (500 °C), which turns it from purple to green or yellowish green.
 2. **Irradiated amethyst.** A small amount is made by irradiating amethyst. Its light green is often unstable and can fade to colorless above about 302 °F (150 °C).
 3. **Naturally heated amethyst.** A little amethyst was baked green in the ground by younger lava flows or nearby intrusions.
 
-Only a few deposits work. Most amethyst turns yellow when heated to about 878 °F (470 °C), which is how heat-treated [citrine](/stones/citrine/) is made, and dark yellow or reddish brown near 1,022 °F (550 °C). Most prasiolite on the market comes from amethyst and yellow quartz of the Montezuma deposit in Minas Gerais, Brazil, and an Arizona deposit can be treated too (Geology.com). The International Gem Society calls this heat treatment undetectable ([IGS](https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/)).
+Only a few deposits work. Most amethyst turns yellow when heated to about 878 °F (470 °C), which is how heat-treated [citrine](/stones/citrine/) is made, and dark yellow or reddish brown near 1,022 °F (550 °C). Most prasiolite on the market comes from amethyst and yellow quartz of the Montezuma deposit in Minas Gerais, Brazil, and an Arizona deposit can be treated too. This heat treatment is undetectable.
 
 ### Natural Prasiolite Is Rare
 
-Natural prasiolite exists but is not an important source for the gem market. Near Susanville, California, amethyst formed in cavities of a lava flow, and a later lava flow covered it and heated it into prasiolite, a case described by Thomas Paradise in *Gems & Gemology* in 1982 (cited by Geology.com). Naturally green quartz called prasiolite also comes from Lower Silesia in Poland, where its color is thought to come from iron ions (Geology.com).
+Natural prasiolite exists but is not an important source for the gem market. Near Susanville, California, amethyst formed in cavities of a lava flow, and a later lava flow covered it and heated it into prasiolite, a case described by Thomas Paradise in *Gems & Gemology* in 1982. Naturally green quartz called prasiolite also comes from Lower Silesia in Poland, where its color is thought to come from iron ions.
 
 ### What Color Is Prasiolite?
 
-Light, most of the time. Much of the prasiolite sold today is pale, small stones barely show their color, and stones of a few carats usually show the rich green (Geology.com).
+Light, most of the time. Much of the prasiolite sold today is pale, small stones barely show their color, and stones of a few carats usually show the rich green.
 
 <!-- PHOTO TO FIND, PHOTO 2, a prasiolite next to an amethyst cut from the same kind of Brazilian rough, to show the heat change. No licensed candidate checked yet. -->
 
@@ -93,19 +93,19 @@ Light, most of the time. Much of the prasiolite sold today is pale, small stones
 
 **The Story.** Prasiolite has an old name and a young history. The crystal guides themselves agree it has no ancient legends of its own.
 
-- **The name.** **Mineral Fact.** "Prasiolite" joins the Greek prason, "leek," and lithos, "stone," for its leek-green color. It is pronounced PRAYS-ee-oh-light, and praseolite and praziolite are other spellings (Geology.com).
+- **The name.** **Mineral Fact.** "Prasiolite" joins the Greek prason, "leek," and lithos, "stone," for its leek-green color. It is pronounced PRAYS-ee-oh-light, and praseolite and praziolite are other spellings.
 - **1200s, a different stone.** **Tradition.** Kunz retells Albertus Magnus's story of Alexander the Great wearing a "prase" in his girdle as a victory stone, until a serpent bit it off. Kunz adds that early writers used "prase" so loosely it may have meant emerald or jade (*The Curious Lore of Precious Stones*, 1913, page 68). It is not prasiolite.
-- **1982.** Paradise's *Gems & Gemology* paper documents naturally heated prasiolite at Susanville (Geology.com).
-- **2018.** The FTC's revised *Guides for the Jewelry, Precious Metals, and Pewter Industries* call "green amethyst" incorrect and its use potentially misleading or deceptive (Geology.com).
-- **Today.** **Modern Association.** One shop guide writes that green prasiolite was barely mentioned before the last few decades, and that its meanings come from crystal intuitives writing modern lapidaries ([Moonrise Crystals](https://moonrisecrystals.com/prasiolite-meaning/)).
+- **1982.** Paradise's *Gems & Gemology* paper documents naturally heated prasiolite at Susanville.
+- **2018.** The FTC's revised *Guides for the Jewelry, Precious Metals, and Pewter Industries* call "green amethyst" incorrect and its use potentially misleading or deceptive.
+- **Today.** **Modern Association.** One shop guide writes that green prasiolite was barely mentioned before the last few decades, and that its meanings come from crystal intuitives writing modern lapidaries.
 
 ### Is Green Amethyst Real?
 
-The stone is real, the name is not. Amethyst is purple by definition, so "green amethyst" is a misnomer like "yellow emerald" for heliodor (Geology.com). The International Gem Society puts it plainly. "The gem is real, but the name is incorrect." One dealer guide adds that the name exists to borrow amethyst's prestige ([GemSelect](https://gemselect.com/other-info/green-amethyst.php)). When a tag says green amethyst, read it as prasiolite, probably heated and possibly lab-grown. Our [amethyst page](/stones/amethyst/) covers the purple original.
+The stone is real, the name is not. Amethyst is purple by definition, so "green amethyst" is a misnomer like "yellow emerald" for heliodor. The International Gem Society puts it plainly. "The gem is real, but the name is incorrect." One dealer guide adds that the name exists to borrow amethyst's prestige. When a tag says green amethyst, read it as prasiolite, probably heated and possibly lab-grown. Our [amethyst page](/stones/amethyst/) covers the purple original.
 
 ## What People Use Prasiolite for Today
 
-**Modern Association.** Prasiolite is commonly associated today with the heart chakra, and one guide says it is almost always linked there ([crystalgemstones.net](https://crystalgemstones.net/prasiolite-meaning-and-spiritual-properties.html)). The usual themes are calm, love, self-love and compassion, with a lean toward self-acceptance rather than romance. Fresh starts and steady growth come next, and some people choose it for a new home, a new job or the stretch after an ending.
+**Modern Association.** Prasiolite is commonly associated today with the heart chakra, and one guide says it is almost always linked there. The usual themes are calm, love, self-love and compassion, with a lean toward self-acceptance rather than romance. Fresh starts and steady growth come next, and some people choose it for a new home, a new job or the stretch after an ending.
 
 The "why" is easy to trace. Modern chakra charts color the heart green, and the same guide credits two older streams, the symbolism of green and the family tie to amethyst. Prasiolite, it says, is believed to carry amethyst's calm "down into the heart and into everyday life." Whether heating changes the meaning is an open argument, and the guide admits crystal practitioners disagree.
 
@@ -141,30 +141,30 @@ Zodiac links scatter. Virgo and Capricorn come up most, and one French shop page
 
 We use the same five labels on every stone.
 
-- **Natural, untreated.** Rare natural prasiolite from places like Susanville or Lower Silesia. It is not an important part of the market (Geology.com).
-- **Natural, treated.** Heated or irradiated amethyst. This is most prasiolite, and it is real quartz, not a fake. Treatments are common and accepted in fine gems, and what matters is that the seller tells you (Geology.com).
-- **Lab-grown.** Hydrothermal synthetic quartz comes in many greens, some leek-green like prasiolite, and it is sold as rough, cabochons, beads and faceted stones. Geology.com thinks some is probably sold as prasiolite without disclosure.
-- **Imitation.** Dyed quartz. Quartz is one of the most frequently dyed gem materials, and some of it is dyed green (Geology.com). We found no reference report of glass sold as prasiolite in the US.
+- **Natural, untreated.** Rare natural prasiolite from places like Susanville or Lower Silesia. It is not an important part of the market.
+- **Natural, treated.** Heated or irradiated amethyst. This is most prasiolite, and it is real quartz, not a fake. Treatments are common and accepted in fine gems, and what matters is that the seller tells you.
+- **Lab-grown.** Hydrothermal synthetic quartz comes in many greens, some leek-green like prasiolite, and it is sold as rough, cabochons, beads and faceted stones. Some of it is probably sold as prasiolite without disclosure.
+- **Imitation.** Dyed quartz. Quartz is one of the most frequently dyed gem materials, and some of it is dyed green. We found no reference report of glass sold as prasiolite in the US.
 - **Trade names.** "Green amethyst" is incorrect under the FTC guides. Some sellers also use vermarine or lime citrine for green quartz.
 
 Three checks you can do at home, with their limits.
 
-1. **Look for sparkle or cloudiness.** Green aventurine sparkles with flecks of mica, and chrysoprase is translucent and bright yellowish green (Geology.com). This rules them out. It does not separate prasiolite from lab-grown or dyed quartz.
-2. **Judge the shade.** Lab-grown green quartz is usually a vivid mint-green or blue-green rather than prasiolite's paler golden-green, according to GemSelect. Geology.com adds that some synthetic sells at prices low enough to give it away. Both are hints, not proof.
-3. **Look into the cracks.** Dye tends to concentrate in fractures, cavities and porous zones (Geology.com).
+1. **Look for sparkle or cloudiness.** Green aventurine sparkles with flecks of mica, and chrysoprase is translucent and bright yellowish green. This rules them out. It does not separate prasiolite from lab-grown or dyed quartz.
+2. **Judge the shade.** Lab-grown green quartz is usually a vivid mint-green or blue-green rather than prasiolite's paler golden-green, according to one dealer. Some synthetic also sells at prices low enough to give it away. Both are hints, not proof.
+3. **Look into the cracks.** Dye tends to concentrate in fractures, cavities and porous zones.
 
-No home test tells natural from heated prasiolite, or prasiolite from good lab-grown quartz. That takes a gem lab. Three questions to ask the seller. Was it heated or irradiated? Could it be lab-grown? How should I store it? Geology.com says sellers should explain storage to every buyer, so a good seller will have an answer. The [Label Decoder](/tools/crystal-label-decoder/) translates tags like "green amethyst" into what they usually mean.
+No home test tells natural from heated prasiolite, or prasiolite from good lab-grown quartz. That takes a gem lab. Three questions to ask the seller. Was it heated or irradiated? Could it be lab-grown? How should I store it? Sellers should explain storage to every buyer, so a good seller will have an answer. The [Label Decoder](/tools/crystal-label-decoder/) translates tags like "green amethyst" into what they usually mean.
 
 ### Is Green Quartz the Same as Prasiolite?
 
-Not always. Prasiolite is transparent green quartz. Chrysoprase is green chalcedony and green aventurine is quartzite with mica, as covered above. Other green quartz gets its color from inclusions, such as opaque plasma, which is colored by densely packed actinolite crystals ([International Gem Society](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/)). Our [green quartz page](/stones/green-quartz/) sorts out the rest.
+Not always. Prasiolite is transparent green quartz. Chrysoprase is green chalcedony and green aventurine is quartzite with mica, as covered above. Other green quartz gets its color from inclusions, such as opaque plasma, which is colored by densely packed actinolite crystals. Our [green quartz page](/stones/green-quartz/) sorts out the rest.
 
 ## How to Care for Prasiolite
 
-**Mineral Fact.** Prasiolite is hard and durable, but its color is the fragile part. Geology.com warns that some sellers and buyers do not know it.
+**Mineral Fact.** Prasiolite is hard and durable, but its color is the fragile part, and some sellers and buyers do not know it.
 
-- **Sun.** Avoid. Heat-made prasiolite can fade in strong sunlight and some artificial light over long periods. Store it in darkness, like a jewelry box, cabinet or bag (Geology.com).
-- **Heat.** Avoid. Keep it away from heat sources at home and out of cars heated by the sun. For a jewelry repair, have the stone removed before soldering (Geology.com).
+- **Sun.** Avoid. Heat-made prasiolite can fade in strong sunlight and some artificial light over long periods. Store it in darkness, like a jewelry box, cabinet or bag.
+- **Heat.** Avoid. Keep it away from heat sources at home and out of cars heated by the sun. For a jewelry repair, have the stone removed before soldering.
 - **Water.** Unknown. The Care Checker has no reliable data for prasiolite itself, so we do not guess and we do not borrow advice from amethyst.
 - **Chemicals.** Unknown.
 - **Salt.** Unknown. One shop guide warns that salt can damage the surface, but no reference source covers it, so skip salt.
@@ -181,16 +181,16 @@ We do not know yet. Several guides rinse it under running water, and one calls a
 
 ## Prasiolite vs Look-Alikes
 
-- **Peridot.** A different mineral, olivine, usually yellowish green ([GIA](https://www.gia.edu/peridot/gem-overview)). Peridot's specific gravity is 3.34 against 2.6 to 2.7 for quartz ([Geology.com](https://geology.com/minerals/quartz.shtml)), so a jeweler can separate them.
+- **Peridot.** A different mineral, olivine, usually yellowish green. Peridot's specific gravity is 3.34 against 2.6 to 2.7 for quartz, so a jeweler can separate them.
 - **Green aventurine.** Quartzite with sparkling green mica.
 - **Chrysoprase.** Translucent green chalcedony colored by nickel.
-- **Citrine.** Amethyst's yellow to orange relative, often made by the same kind of heating ([International Gem Society](https://www.gemsociety.org/article/quartz-jewelry-and-gemstone-information/)).
+- **Citrine.** Amethyst's yellow to orange relative, often made by the same kind of heating.
 
 ## Price Guide
 
 Bags of six tumbled stones ran about $7 for stones half an inch to three quarters of an inch across and about $10 for stones three quarters of an inch to an inch, and a one-pound bag of mostly 3/4 to 1 1/4 inch stones was about $29. None of these listings said whether the stones were heated. Prices from listings at US crystal shops in November 2026.
 
-Two things drive value. Color depth rises with size, since stones of a few carats show the rich green, and synthetic material sometimes sells cheap enough to give itself away (Geology.com).
+Two things drive value. Color depth rises with size, since stones of a few carats show the rich green, and synthetic material sometimes sells cheap enough to give itself away.
 
 **Next Step.** Curious where the purple starts? Read the [amethyst page](/stones/amethyst/), including how heat turns it into citrine and prasiolite.
 
@@ -209,4 +209,4 @@ Two things drive value. Color depth rises with size, since stones of a few carat
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

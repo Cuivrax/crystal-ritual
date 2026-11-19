@@ -67,30 +67,30 @@ Blue chalcedony is the pale to medium blue variety of chalcedony, a quartz made 
 
 ## What Blue Chalcedony Actually Is
 
-**The Stone.** Chalcedony is, in general terms, a fibrous cryptocrystalline variety of quartz, and much of it is a mixture of cryptocrystalline quartz and moganite, a related silica mineral ([Gemdat](https://www.gemdat.org/gem-960.html)). It forms at low temperatures and is very common as crusts and as vein and cavity fillings (Gemdat).
+**The Stone.** Chalcedony is, in general terms, a fibrous cryptocrystalline variety of quartz, and much of it is a mixture of cryptocrystalline quartz and moganite, a related silica mineral. It forms at low temperatures and is very common as crusts and as vein and cavity fillings.
 
-Agate, jasper, carnelian, chrysoprase and onyx are chalcedonies too ([International Gem Society](https://www.gemsociety.org/article/chalcedony-jewelry-and-gemstone-information/)). In the gem trade, though, plain "chalcedony" usually means evenly colored, translucent light blue, lilac or white stones, according to the dealer [GemSelect](https://www.gemselect.com/gem-info/chalcedony/chalcedony-info.php). Some blue pieces show a slight adularescence, a shimmering, floating interior light caused by layers of microscopic inclusions (IGS).
+Agate, jasper, carnelian, chrysoprase and onyx are chalcedonies too. In the gem trade, though, dealers usually use plain "chalcedony" for evenly colored, translucent light blue, lilac or white stones. Some blue pieces show a slight adularescence, a shimmering, floating interior light caused by layers of microscopic inclusions.
 
 ### What Gives Blue Chalcedony Its Color?
 
-Chalcedony colors come from metallic impurities, such as iron, nickel, copper and titanium, present as the stone crystallizes, and unstained material is often grayish blue (International Gem Society). In the related chrysocolla-in-chalcedony, GIA researchers trace the greenish blue to micro-inclusions of chrysocolla, a color rooted in copper ([GIA, Spring 2020](https://gia.edu/gems-gemology/spring-2020-gemnews-dyed-chalcedony-imitation-of-chrysocolla-in-chalcedony)). We found no reference source that pins the soft blue of ordinary blue chalcedony on one element.
+Chalcedony colors come from metallic impurities, such as iron, nickel, copper and titanium, present as the stone crystallizes, and unstained material is often grayish blue. In the related chrysocolla-in-chalcedony, a 2020 lab report traces the greenish blue to micro-inclusions of chrysocolla, a color rooted in copper. We found no reference source that pins the soft blue of ordinary blue chalcedony on one element.
 
 ### Where It Comes From
 
-The color types are usually named for their source (International Gem Society).
+The color types are usually named for their source.
 
 - **Mohave and Mt. Airy.** California and Nevada, slightly to moderately grayish blue.
 - **African Blue.** Namibia, grayish to nearly pure blue.
 - **Holly Blue.** Oregon, a noticeably lavender blue and arguably the most valuable type. See [Holly Blue agate](/stones/holly-blue-agate/).
-- **Taiwan.** DuLan Mountain in Taitung gives a fine texture and saturated blue, and there high-quality material is sometimes prized as much as jadeite ([GIA](https://www.gia.edu/gems-gemology/summer-2015-gemnews-blue-chalcedony-partially-filled-epoxy-resin)). GIA also names the United States, Indonesia, Peru, Mexico and Chile.
+- **Taiwan.** DuLan Mountain in Taitung gives a fine texture and saturated blue, and there high-quality material is sometimes prized as much as jadeite. Other sources include the United States, Indonesia, Peru, Mexico and Chile.
 
 ### Is Blue Chalcedony the Same as Blue Agate?
 
-The names overlap. "Blue Chalcedony, commonly called Blue Agate," became Nebraska's state gemstone by legislative action in 1967 ([University of Nebraska](https://snr.unl.edu/data/geologysoils/agates/)). Strictly, agate is a variety of chalcedony known for its patterns, and lace agates show bands ([IGS](https://www.gemsociety.org/article/agate-gem-information/)), though tags do not always keep that line.
+The names overlap. Blue chalcedony, commonly called blue agate, became Nebraska's state gemstone by legislative action in 1967. Strictly, agate is a variety of chalcedony known for its patterns, and lace agates show bands, though tags do not always keep that line.
 
 ## Blue Chalcedony vs Blue Lace Agate
 
-Blue lace agate is a banded kind of blue chalcedony, so the real difference is the pattern. Lace agates show bands with intricate swirls and loops (IGS). Blue chalcedony in the trade sense is the even version, with no markings or color zoning (GemSelect).
+Blue lace agate is a banded kind of blue chalcedony, so the real difference is the pattern. Lace agates show bands with intricate swirls and loops. Blue chalcedony in the trade sense is the even version, with no markings or color zoning.
 
 | | Blue chalcedony | Blue lace agate |
 |---|---|---|
@@ -99,7 +99,7 @@ Blue lace agate is a banded kind of blue chalcedony, so the real difference is t
 | Mineral | Chalcedony (quartz) | Chalcedony (quartz), banded |
 | Care Checker heat rating | Avoid | Unknown |
 
-Their care ratings differ, so check each in the [Care Checker](/tools/crystal-care-checker/). One guide calls the two a "classic pairing for communication" ([CrystalGemstones.net](https://crystalgemstones.net/blue-chalcedony-meaning-and-spiritual-properties.html)). See [blue lace agate](/stones/blue-lace-agate/), [agate](/stones/agate/) and [chalcedony vs agate](/compare/chalcedony-vs-agate/).
+Their care ratings differ, so check each in the [Care Checker](/tools/crystal-care-checker/). One guide calls the two a "classic pairing for communication." See [blue lace agate](/stones/blue-lace-agate/), [agate](/stones/agate/) and [chalcedony vs agate](/compare/chalcedony-vs-agate/).
 
 ## Where the Meaning Comes From
 
@@ -109,7 +109,7 @@ Their care ratings differ, so check each in the [Care Checker](/tools/crystal-ca
 - **First century CE, Rome.** **Tradition.** Pliny the Elder describes iaspis, which his translators read as jasper, including a "sky-blue" kind from Persia, and his blue and translucent kinds may include other chalcedony. He ends by "exposing the falsehoods of the magicians," whose claims for the stone included help with public speaking (*Natural History*, Book 37, chapter 37, Bostock and Riley translation, via [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D37)). A speaker's stone is an old idea, if not for this exact stone, and so is the eye roll.
 - **Antiquity.** **Tradition.** Kunz describes a set of seven amulets for sailors, and the first, set with a carbuncle and a chalcedony, protected them from drowning (Kunz 1913, page 39).
 - **Revelation and the Middle Ages.** **Tradition.** Chalcedony is the third foundation stone of the New Jerusalem (Kunz 1913, page 303), and a medieval commentary Kunz quotes reads it as "the flame of inner charity" (page 305). Kunz thought the word there should probably be read as a name of the ruby (page 319).
-- **Today.** **Modern Association.** One crystal encyclopedia calls chalcedony "the Speaker's Stone, the stone of one who must measure his words," crediting Florence Megemont's *The Metaphysical Book of Gems and Crystals* (Healing Arts Press, 2008 edition, as Crystal Vaults lists it) ([Crystal Vaults](https://www.crystalvaults.com/crystal-encyclopedia/blue-chalcedony/)).
+- **Today.** **Modern Association.** One crystal encyclopedia calls chalcedony "the Speaker's Stone, the stone of one who must measure his words," crediting Florence Megemont's *The Metaphysical Book of Gems and Crystals* (Healing Arts Press, 2008 edition, as that encyclopedia lists it).
 
 ## What People Use Blue Chalcedony for Today
 
@@ -119,7 +119,7 @@ Their care ratings differ, so check each in the [Care Checker](/tools/crystal-ca
 
 The [throat chakra](/chakras/throat/) is its classic placement, with the third eye close behind. Cancer and Sagittarius lead the zodiac links, and one guide reminds readers that such pairings are "recent customs, not ancient rules."
 
-The "why" is easy to trace. Blue is the throat chakra's color in modern chakra charts (GemSelect), and the throat is about speaking. The "Speaker's Stone" idea follows, with situations like public speaking, performing and emotionally charged conversations ([Moonrise Crystals](https://moonrisecrystals.com/blue-chalcedony-meaning/), Crystal Vaults).
+The "why" is easy to trace. Blue is the throat chakra's color in modern chakra charts, and the throat is about speaking. The "Speaker's Stone" idea follows, with situations like public speaking, performing and emotionally charged conversations.
 
 A few sites list hoarseness, thyroid trouble or dementia. A stone treats none of these.
 
@@ -141,7 +141,7 @@ A few sites list hoarseness, thyroid trouble or dementia. A stone treats none of
 
 **Safety.** One guide suggests touching chalcedony to your tongue, rubbing it on your lips or drinking water it soaked in. Skip all three, and keep every stone out of drinking water. Small stones and bead bracelets are not toys, so keep them away from small children and pets.
 
-**What Research Says.** In a small pre-registered experiment, 48 mostly undergraduate volunteers repeated a made-up ritual at home for a week, and an EEG then showed a smaller brain response to their own mistakes on a task, though their performance did not change ([Hobson, Bonk and Inzlicht, 2017](https://doi.org/10.7717/peerj.3363)). They did not report feeling calmer, and nobody held a chalcedony, so the link to a pocket stone is an extrapolation.
+**What Research Says.** In a small pre-registered experiment by [Hobson, Bonk and Inzlicht (2017)](https://doi.org/10.7717/peerj.3363), 48 mostly undergraduate volunteers repeated a made-up ritual at home for a week, and an EEG then showed a smaller brain response to their own mistakes on a task, though their performance did not change. They did not report feeling calmer, and nobody held a chalcedony, so the link to a pocket stone is an extrapolation.
 
 > **When a Stone Is Not Enough.** Blue chalcedony is often chosen for anxiety, stage fright, grief and low mood, and some sites offer it for throat problems or nursing. A stone can be a comfort to hold, but it is not care. If anxiety, sadness or a sore throat lasts or feels heavy, talk to a doctor or a therapist, and for nursing, a doctor or midwife. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
@@ -149,48 +149,48 @@ A few sites list hoarseness, thyroid trouble or dementia. A stone treats none of
 
 We use the same five labels on every stone. Blue chalcedony is often untreated, but dye is the trap.
 
-- **Natural, untreated.** A Taipei gem lab operator writing in *Gems & Gemology* in 2015 says blue chalcedony is seldom treated ([GIA](https://www.gia.edu/gems-gemology/summer-2015-gemnews-blue-chalcedony-partially-filled-epoxy-resin)).
-- **Natural, treated.** Dyeing is an ancient and common way to enhance chalcedony, because the stone is relatively porous. It is usually stable and should be disclosed (International Gem Society). Fillings happen too, usually to repair or hide cavities or fractures, as in a carving partly filled with epoxy resin (GIA). Some chalcedony is coated, all over or only under a cabochon (GemSelect).
-- **Lab-grown.** Labs grow synthetic quartz, colorless crystal by the ton for electronics, though it is seldom cut as a gem ([International Gem Society](https://www.gemsociety.org/article/understanding-gem-synthetics-treatments-imitations-part-4-synthetic-gemstone-guide/)). We found no reference source on lab-grown blue chalcedony sold in the US.
-- **Imitation.** Blue opal is the imitation most likely to fool buyers at first glance, and dyed quartzite and dyed chalcedony are also common (GIA).
-- **Trade names.** Holly Blue, African Blue, Mohave and Mt. Airy are place names (IGS). "Taiwanese blue sapphire" is blue chalcedony, not sapphire (GIA).
+- **Natural, untreated.** A Taipei gem lab operator writing in *Gems & Gemology* in 2015 says blue chalcedony is seldom treated.
+- **Natural, treated.** Dyeing is an ancient and common way to enhance chalcedony, because the stone is relatively porous. It is usually stable and should be disclosed. Fillings happen too, usually to repair or hide cavities or fractures, as in a carving partly filled with epoxy resin. Some chalcedony is coated, all over or only under a cabochon.
+- **Lab-grown.** Labs grow synthetic quartz, colorless crystal by the ton for electronics, though it is seldom cut as a gem. We found no reference source on lab-grown blue chalcedony sold in the US.
+- **Imitation.** Blue opal is the imitation most likely to fool buyers at first glance, and dyed quartzite and dyed chalcedony are also common.
+- **Trade names.** Holly Blue, African Blue, Mohave and Mt. Airy are place names. "Taiwanese blue sapphire" is blue chalcedony, not sapphire.
 
 ### How to Tell If Blue Chalcedony Is Dyed
 
-Two 2020 reports in GIA's journal show what dye looks like. In one, stones submitted as natural blue chalcedony had copper concentrated on the surface and decreasing toward the interior, strong evidence of dyeing with copper salts ([GIA, Spring 2020](https://gia.edu/gems-gemology/spring-2020-gemnews-dyed-chalcedony-imitation-of-chrysocolla-in-chalcedony)). In the other, beads sold as "sea-blue chalcedony" were quench-crackled dyed chalcedony with whitish zones following fractures, made to resemble Larimar ([GIA, Summer 2020](https://www.gia.edu/gems-gemology/summer-2020-labnotes-crackled-dyed-chalcedony)).
+Two 2020 lab reports show what dye looks like. In one, from spring 2020, stones submitted as natural blue chalcedony had copper concentrated on the surface and decreasing toward the interior, strong evidence of dyeing with copper salts. In the other, from summer 2020, beads sold as "sea-blue chalcedony" were quench-crackled dyed chalcedony with whitish zones following fractures, made to resemble Larimar.
 
 Three checks you can do at home, with their limits.
 
-1. **Judge the color honestly.** Unstained chalcedony is often grayish blue (IGS), and GemSelect warns that very bright colors may be dyed. Fine natural material, like Taiwan's, can be saturated too.
-2. **Look into the cracks.** With a loupe and a light behind the stone, look for color concentrated between grains and in fractures, or a mosaic-like pattern, both listed as dye clues in *Blue Chart Gem Identification* (Lazzarelli, 2010, via Gemdat). The same source says tests for dye are limited, so a clean look proves nothing.
-3. **Ask about coatings.** GemSelect says a simple scratch test exposes a coating on the surface or under a cabochon. Leave that to the seller on a hidden spot, and remember it does not reveal dye.
+1. **Judge the color honestly.** Unstained chalcedony is often grayish blue, and one dealer warns that very bright colors may be dyed. Fine natural material, like Taiwan's, can be saturated too.
+2. **Look into the cracks.** With a loupe and a light behind the stone, look for color concentrated between grains and in fractures, or a mosaic-like pattern, both dye clues listed in a 2010 gem identification chart. Tests for dye are limited, though, so a clean look proves nothing.
+3. **Ask about coatings.** One dealer says a simple scratch test exposes a coating on the surface or under a cabochon. Leave that to the seller on a hidden spot, and remember it does not reveal dye.
 
 Three questions to ask the seller. Is the color natural or dyed? Is anything filled or coated? Where was it mined? The [Label Decoder](/tools/crystal-label-decoder/) turns names like "sea-blue chalcedony" into what they usually mean.
 
 ## How to Care for Blue Chalcedony
 
-**Mineral Fact.** Chalcedony is a tough gemstone, good for all jewelry (International Gem Society), at 6.5 to 7 on the Mohs scale (Gemdat).
+**Mineral Fact.** Chalcedony is a tough gemstone, good for all jewelry, at 6.5 to 7 on the Mohs scale.
 
-- **Water.** OK. Mild detergent, warm water and a soft brush (International Gem Society). Keep soaks brief.
+- **Water.** OK. Mild detergent, warm water and a soft brush. Keep soaks brief.
 - **Sun.** Unknown (see below).
-- **Heat.** Avoid. GemSelect warns that prolonged heat may cause permanent damage, so no steam cleaners.
-- **Chemicals.** Avoid household chemicals (GemSelect).
+- **Heat.** Avoid. Prolonged heat may cause permanent damage, so no steam cleaners.
+- **Chemicals.** Avoid household chemicals.
 - **Salt.** Unknown. Skip salt baths.
-- **Toxicity.** OK to wear and handle. The IGS [toxicity table](https://www.gemsociety.org/article/gemstone-care-guide/) rates chalcedony Low, with silicosis from cutting dust as the hazard.
-- **Storage.** In a fabric-lined box or a soft cloth, apart from other gems (GemSelect).
+- **Toxicity.** OK to wear and handle. A standard gem toxicity table rates chalcedony Low, with silicosis from cutting dust as the hazard.
+- **Storage.** In a fabric-lined box or a soft cloth, apart from other gems.
 
 ### Can Blue Chalcedony Go in Water or the Sun?
 
-A wash, yes. Keep soaks brief, and skip them for a stone you suspect is dyed. Sun is Unknown in our Care Checker. GemSelect tells of a customer's dyed fuchsia chalcedony that faded dramatically after a day in the sun, reason enough to keep any piece off a sunny sill. If you leave it out under the moon, as guides like to, bring it in before the morning sun reaches it.
+A wash, yes. Keep soaks brief, and skip them for a stone you suspect is dyed. Sun is Unknown in our Care Checker. One dealer tells of a customer's dyed fuchsia chalcedony that faded dramatically after a day in the sun, reason enough to keep any piece off a sunny sill. If you leave it out under the moon, as guides like to, bring it in before the morning sun reaches it.
 
 ## Blue Chalcedony vs Look-Alikes
 
-- **Blue opal.** The imitation most likely to fool buyers (GIA). See [blue opal](/stones/blue-opal/) for how to tell them apart.
-- **Chrysocolla in quartz.** A tough, rich blue material with fine particles of chrysocolla in silica that takes an excellent polish (IGS), and a target for copper-dyed fakes (GIA). See [chrysocolla](/stones/chrysocolla/).
+- **Blue opal.** The imitation most likely to fool buyers. See [blue opal](/stones/blue-opal/) for how to tell them apart.
+- **Chrysocolla in quartz.** A tough, rich blue material with fine particles of chrysocolla in silica that takes an excellent polish, and a target for copper-dyed fakes. See [chrysocolla](/stones/chrysocolla/).
 
 ## Price Guide
 
-Blue chalcedony varies from pale to medium tones and in translucency, with blues modified by gray or pink to different degrees, and a slight adularescence enhances value (International Gem Society). Oregon's lavender Holly Blue is arguably the most valuable type, and most pieces are cabbed or carved, with only an exceptional, near transparent piece faceted (IGS). In Taiwan, high-quality blue chalcedony is sometimes prized as much as jadeite, and GIA singles out DuLan Mountain material for its fine texture and saturated blue. Dyeing should be disclosed (IGS), so a price for natural color deserves a straight answer about dye.
+Blue chalcedony varies from pale to medium tones and in translucency, with blues modified by gray or pink to different degrees, and a slight adularescence enhances value. Oregon's lavender Holly Blue is arguably the most valuable type, and most pieces are cabbed or carved, with only an exceptional, near transparent piece faceted. In Taiwan, high-quality blue chalcedony is sometimes prized as much as jadeite, and DuLan Mountain material stands out for its fine texture and saturated blue. Dyeing should be disclosed, so a price for natural color deserves a straight answer about dye.
 
 **Next Step.** Working on how you speak up? See the other stones guides tie to the [throat chakra](/chakras/throat/).
 
@@ -212,4 +212,4 @@ Blue chalcedony varies from pale to medium tones and in translucency, with blues
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

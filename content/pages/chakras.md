@@ -52,7 +52,7 @@ This is the modern Western chart. Locations and Sanskrit names follow most cryst
 
 ## Where the Rainbow Chakra System Comes From
 
-**The Story.** Most of today's chart was assembled in the 20th century, according to Kurt Leland's article "The Rainbow Body" in *Quest*, the magazine of the Theosophical Society in America ([Quest](https://www.theosophical.org/publications/quest-magazine/the-rainbow-body-how-the-western-chakra-system-came-to-be), Spring 2017).
+**The Story.** Most of today's chart was assembled in the 20th century, according to Kurt Leland's Spring 2017 article "The Rainbow Body" in *Quest*, the magazine of the Theosophical Society in America.
 
 - **India.** **Tradition.** Indian sources vary widely, with as few as four chakras in some and as many as forty-nine in others. The chakras "have colors, but there is no rainbow," and they were meant to be pierced, dissolved and transcended.
 - **1880s.** **Tradition.** The base of seven chakras tied to nerve plexuses comes from Helena Blavatsky's writings.
@@ -71,7 +71,7 @@ Charts disagree because the matching is done by color, and stones do not come in
 
 Some guides add chakras the chart lacks, such as an earth star or a soul star. Few modern charts include them.
 
-The biggest clash is with the care data, and the care data wins. Malachite is a Classic heart stone, but it is a copper mineral whose dust is toxic to breathe when it is cut or ground ([International Gem Society](https://www.gemsociety.org/article/malachite-jewelry-and-gemstone-information/)), so it never goes in water you drink. Selenite, Often Linked to the crown, is a form of gypsum, which is water soluble ([International Gem Society](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/)). Celestite and angelite, two Classic throat stones, are both soft, and dealers advise keeping angelite away from water ([Gemstones.com](https://www.gemstones.com/gemopedia/angelite)). Check any set in the [Care Checker](/tools/crystal-care-checker/) before a cleansing bath.
+The biggest clash is with the care data, and the care data wins. Malachite is a Classic heart stone, but it is a copper mineral whose dust is toxic to breathe when it is cut or ground, so it never goes in water you drink. Selenite, Often Linked to the crown, is a form of gypsum, which is water soluble. Celestite and angelite, two Classic throat stones, are both soft, and dealers advise keeping angelite away from water. Check any set in the [Care Checker](/tools/crystal-care-checker/) before a cleansing bath.
 
 ## A Simple Seven-Stone Practice
 
@@ -95,4 +95,4 @@ The biggest clash is with the care data, and the care data wins. Malachite is a 
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

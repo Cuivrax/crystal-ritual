@@ -66,25 +66,25 @@ Green jade is jade in its best-known color, and it can be either of two differen
 
 ## What Green Jade Actually Is
 
-**The Stone.** "Jade" is a cultural term for a very durable material that people have shaped into tools, carvings and jewelry for over 5,000 years ([Geology.com](https://geology.com/gemstones/jade/)). Most people picture it green, though it also comes in white, lavender, yellow, black and more. In 1863 the Frenchman Alexis Damour showed that jade is really two materials, jadeite and nephrite (Geology.com). Our [jade page](/stones/jade/) covers the whole family. This page is about the green.
+**The Stone.** "Jade" is a cultural term for a very durable material that people have shaped into tools, carvings and jewelry for over 5,000 years. Most people picture it green, though it also comes in white, lavender, yellow, black and more. In 1863 the Frenchman Alexis Damour showed that jade is really two materials, jadeite and nephrite. Our [jade page](/stones/jade/) covers the whole family. This page is about the green.
 
-Jadeite is an aluminum-rich pyroxene. Nephrite is a magnesium-rich amphibole, a name used for material made of the minerals actinolite and tremolite. To the average eye they look almost the same, and only trained observers can reliably tell them apart without testing equipment (Geology.com). Both are rocks made of tiny interlocking crystals, which is what makes them exceptionally tough, says the [Gemological Institute of America](https://www.gia.edu/jade-description).
+Jadeite is an aluminum-rich pyroxene. Nephrite is a magnesium-rich amphibole, a name used for material made of the minerals actinolite and tremolite. To the average eye they look almost the same, and only trained observers can reliably tell them apart without testing equipment. Both are rocks made of tiny interlocking crystals, which is what makes them exceptionally tough.
 
 ### Is Green Jade the Same as Jade?
 
-Yes. Green jade is jade, just named by its color, and the name alone does not tell you which mineral you have. According to [Minerals.net](https://www.minerals.net/mineral/jadeite.aspx), pale green is the most common color for both kinds, and emerald-green jadeite is the most valuable form of all.
+Yes. Green jade is jade, just named by its color, and the name alone does not tell you which mineral you have. Pale green is the most common color for both kinds, and emerald-green jadeite is the most valuable form of all.
 
 ### What Makes Jade Green
 
-In jadeite, rich deep green material can show a chromium spectrum when gemologists examine it, and its formula can also carry iron ([International Gem Society](https://www.gemsociety.org/article/jadeite-jewelry-and-gemstone-information)). Nephrite's formula includes iron as well, and the International Gem Society puts nephrite's green colors down to that iron, with more iron giving darker greens ([International Gem Society](https://www.gemsociety.org/article/nephrite-jewelry-and-gemstone-information/)).
+In jadeite, rich deep green material can show a chromium spectrum when gemologists examine it, and its formula can also carry iron. Nephrite's formula includes iron as well, and that iron gives nephrite its green colors, with more iron giving darker greens.
 
-The finest green has its own names. The Chinese called rich emerald-green jadeite fei ts'ui, "kingfisher plumes," or Imperial jade (Kunz, *The Curious Lore of Precious Stones*, 1913, page 83). Geology.com describes it as fine-grained, brightly translucent jadeite of a rich, uniform green, once reserved for the Emperor.
+The finest green has its own names. The Chinese called rich emerald-green jadeite fei ts'ui, "kingfisher plumes," or Imperial jade (Kunz, *The Curious Lore of Precious Stones*, 1913, page 83). Imperial jade is fine-grained, brightly translucent jadeite of a rich, uniform green, once reserved for the Emperor.
 
 ### Where Green Jade Comes From
 
-The principal producers of gem-quality jadeite are Myanmar and Guatemala, and Guatemala produces green jadeite ([International Gem Society](https://www.gemsociety.org/article/jade-sources/)). Myanmar is the source of Imperial jade. Chinese carvers noticed centuries ago that some Burmese jade was harder and denser and took a higher polish, and paid a premium for it long before science named it jadeite (Geology.com).
+The principal producers of gem-quality jadeite are Myanmar and Guatemala, and Guatemala produces green jadeite. Myanmar is the source of Imperial jade. Chinese carvers noticed centuries ago that some Burmese jade was harder and denser and took a higher polish, and paid a premium for it long before science named it jadeite.
 
-Green nephrite is the Maori "green stone" of New Zealand (Geology.com), punamu to the Maori, and in 1913 Kunz named Khotan, in Turkistan, and New Zealand as its chief sources (page 382).
+Green nephrite is the Maori "green stone" of New Zealand, punamu to the Maori, and in 1913 Kunz named Khotan, in Turkistan, and New Zealand as its chief sources (page 382).
 
 ## Where the Meaning Comes From
 
@@ -103,11 +103,11 @@ Green nephrite is the Maori "green stone" of New Zealand (Geology.com), punamu t
 
 **Modern Association.** In modern crystal guides, green jade is a Classic stone for [money](/crystals-for/money/), alongside luck and prosperity. The same guides place it on the heart chakra, and harmony, calm and loyal relationships follow close behind. Zodiac charts vary, with Taurus and Libra among the signs listed.
 
-The "why" is mostly history. Chinese fortune emblems carved in green jade lead straight to the money link. One guide says businessmen have long carried jade in their pockets during negotiations, and that jade is traditionally given to newlyweds ([Moonrise Crystals](https://moonrisecrystals.com/green-jade-meaning/)). The same guide gives green jade the east in a feng shui scheme of five colored jades.
+The "why" is mostly history. Chinese fortune emblems carved in green jade lead straight to the money link. One guide says businessmen have long carried jade in their pockets during negotiations, and that jade is traditionally given to newlyweds. The same guide gives green jade the east in a feng shui scheme of five colored jades.
 
 ### What Does Green Jade Symbolize?
 
-Historically, rank, long life, riches and love in China, the heart in ancient Mexico, and the ancestors in New Zealand. Today, mostly luck, abundance and harmony. Japan has a jade story too, though it is about jadeite of any color. Jadeite carving began in the Itoigawa region about 5,500 years ago, and curved magatama beads of jadeite appear to have been sacred ornaments as well as symbols of wealth and prestige ([Gems & Gemology](https://www.gia.edu/gems-gemology/spring-2017-japanese-jadeite), Spring 2017).
+Historically, rank, long life, riches and love in China, the heart in ancient Mexico, and the ancestors in New Zealand. Today, mostly luck, abundance and harmony. Japan has a jade story too, though it is about jadeite of any color. Jadeite carving began in the Itoigawa region about 5,500 years ago, and curved magatama beads of jadeite appear to have been sacred ornaments as well as symbols of wealth and prestige, according to a Spring 2017 study in *Gems & Gemology*.
 
 Some sites go much further, listing kidneys, the adrenal glands, autoimmune disorders, fever, asthma, fertility and safe childbirth. The kidney idea is the flank stone story above, which Kunz already doubted in 1913. Nothing in the mineral or medical sources behind this page supports those claims.
 
@@ -137,19 +137,19 @@ Some sites go much further, listing kidneys, the adrenal glands, autoimmune diso
 
 We use the same five labels on every stone, plus the trade's own A, B, C system for jadeite.
 
-- **Natural, untreated.** The trade's Type A comes closest. Type A jadeite has only a traditional wax coating, expected and accepted by serious buyers (Geology.com).
-- **Natural, treated.** Type B jadeite is bleached in acid, then impregnated with wax or polymer resin. It can start to deteriorate in just a few years, sells for a fraction of Type A and is often sold without disclosure. Type C adds dye to all that, and its color can fade with time, heat and light (Geology.com).
-- **Lab-grown.** Made, but not sold. General Electric produced green and lavender synthetic jadeite on an experimental basis, and when GIA studied it in 1987 there were no plans for commercial production ([Gems & Gemology](https://www.gia.edu/gems-gemology/spring-1987-synthetic-jadeite-nassau), Spring 1987). The International Gem Society says it still is not produced commercially and that nephrite has not been synthesized at all, so "synthetic jade" on a tag most likely means a look-alike ([International Gem Society](https://www.gemsociety.org/article/does-synthetic-jade-exist/)).
-- **Imitation.** Glass and plastic (International Gem Society), plus triplets with a green-dyed cement filling made to look like Imperial jade.
-- **Trade names.** Many "jade" names cover other stones (Geology.com). Mexican jade is dyed calcite or travertine, Indian jade is aventurine, Korean jade can be glass, soapstone or serpentine, African jade is grossular garnet and Amazon jade is amazonite. US Federal Trade Commission guides of 2018 call incorrect varietal names potentially "deceptive."
+- **Natural, untreated.** The trade's Type A comes closest. Type A jadeite has only a traditional wax coating, expected and accepted by serious buyers.
+- **Natural, treated.** Type B jadeite is bleached in acid, then impregnated with wax or polymer resin. It can start to deteriorate in just a few years, sells for a fraction of Type A and is often sold without disclosure. Type C adds dye to all that, and its color can fade with time, heat and light.
+- **Lab-grown.** Made, but not sold. General Electric produced green and lavender synthetic jadeite on an experimental basis, and when GIA studied it in 1987 there were no plans for commercial production, as the Spring 1987 issue of *Gems & Gemology* reported. It still is not produced commercially, and nephrite has not been synthesized at all, so "synthetic jade" on a tag most likely means a look-alike.
+- **Imitation.** Glass and plastic, plus triplets with a green-dyed cement filling made to look like Imperial jade.
+- **Trade names.** Many "jade" names cover other stones. Mexican jade is dyed calcite or travertine, Indian jade is aventurine, Korean jade can be glass, soapstone or serpentine, African jade is grossular garnet and Amazon jade is amazonite. US Federal Trade Commission guides of 2018 call incorrect varietal names potentially "deceptive."
 
 Three checks you can do at home, with their limits.
 
-1. **Read the name.** A place name in front of "jade" is often a warning sign. The limit is that Maori jade is real nephrite (Geology.com), and many fakes carry no special name at all.
-2. **Feel the weight.** Jadeite has a specific gravity of 3.3 to 3.5 and nephrite 3.0 to 3.3, while aventurine is 2.6 to 2.7 ([Geology.com](https://geology.com/gemstones/aventurine/)), serpentine 2.5 to 2.6 ([Geology.com](https://geology.com/minerals/serpentine.shtml)) and calcite 2.7 ([Geology.com](https://geology.com/minerals/calcite.shtml)). Jade feels heavy for its size. Grossular garnet is even denser, about 3.6 ([Handbook of Mineralogy](https://www.handbookofmineralogy.org/pdfs/grossular.pdf)), so heft rules some stones out, never in.
+1. **Read the name.** A place name in front of "jade" is often a warning sign. The limit is that Maori jade is real nephrite, and many fakes carry no special name at all.
+2. **Feel the weight.** Jadeite has a specific gravity of 3.3 to 3.5 and nephrite 3.0 to 3.3, while aventurine is 2.6 to 2.7, serpentine 2.5 to 2.6 and calcite 2.7. Jade feels heavy for its size. Grossular garnet is even denser, about 3.6, so heft rules some stones out, never in.
 3. **Mind the softness.** Calcite rates 3 on the Mohs scale and serpentine 3 to 6, against 6 to 7 for jade, so a "jade" that scratches easily is not jade. Do not scratch your own piece to find out. A gemologist can test a hidden spot.
 
-What no home check can do is spot Type B. Testing at a gem lab is often required, and for an expensive piece Geology.com says a lab report usually costs a tiny fraction of the price. Fine green serpentine is easily mistaken for jade, though jadeite and nephrite both have a higher specific gravity and refractive index ([International Gem Society](https://www.gemsociety.org/article/serpentine-jewelry-and-gemstone-information/)).
+What no home check can do is spot Type B. Testing at a gem lab is often required, and for an expensive piece a lab report usually costs a tiny fraction of the price. Fine green serpentine is easily mistaken for jade, though jadeite and nephrite both have a higher specific gravity and refractive index.
 
 Three questions to ask the seller.
 
@@ -161,33 +161,33 @@ The [Label Decoder](/tools/crystal-label-decoder/) translates jade names like th
 
 ## How to Care for Green Jade
 
-**Mineral Fact.** Jadeite rates 6.5 to 7 and nephrite 6 to 6.5 on the Mohs scale, so take some care against scratches, but both have exceptional toughness and resist breaking or chipping ([GIA](https://gia.edu/jade-care-cleaning)).
+**Mineral Fact.** Jadeite rates 6.5 to 7 and nephrite 6 to 6.5 on the Mohs scale, so take some care against scratches, but both have exceptional toughness and resist breaking or chipping.
 
-- **Water.** OK. GIA calls warm, soapy water "always a safe choice." Keep soaks brief.
-- **Sun.** Brief only. GIA says jade itself is stable to light, but Type B resins can discolor and Type C dyes can fade with sunlight (Geology.com), and you may not know which you have.
-- **Heat.** Brief only. The same resins and dyes react to heat, and GIA warns that a jeweler's torch can harm jade.
-- **Chemicals.** Avoid. Warm acids can affect jade (GIA), and acid-treated pieces may be weakened, says the International Gem Society [care guide](https://www.gemsociety.org/article/gemstone-care-guide/).
+- **Water.** OK. Warm, soapy water is always a safe choice. Keep soaks brief.
+- **Sun.** Brief only. Jade itself is stable to light, but Type B resins can discolor and Type C dyes can fade with sunlight, and you may not know which you have.
+- **Heat.** Brief only. The same resins and dyes react to heat, and a jeweler's torch can harm jade.
+- **Chemicals.** Avoid. Warm acids can affect jade, and acid-treated pieces may be weakened.
 - **Salt.** Unknown. We found no reference source on salt and jade, so skip it.
-- **Cleaning.** OK with warm water, mild detergent and a soft brush. GIA says ultrasonic and steam cleaners are safe only for untreated jade.
+- **Cleaning.** OK with warm water, mild detergent and a soft brush. Ultrasonic and steam cleaners are safe only for untreated jade.
 - **Toxicity.** Unknown. Keep jade out of anything you drink.
 
 ### Can Green Jade Go in Water, Sun or Salt?
 
-A wash, yes. A long soak, a salt cleanse or a day in the sun, not by our data. One French shop suggests purifying green jade in distilled salt water in full sun ([France Minéraux](https://www.france-mineraux.fr/boutique/bijoux/bracelets/bracelet-jade-vert-pierres-boules-8mm/)), but salt is Unknown and sun Brief only, so our care data wins. Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown, with the reason and the source.
+A wash, yes. A long soak, a salt cleanse or a day in the sun, not by our data. One French shop suggests purifying green jade in distilled salt water in full sun, but salt is Unknown and sun Brief only, so our care data wins. Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown, with the reason and the source.
 
 ## Green Jade vs Look-Alikes
 
 - **Green aventurine.** A shimmering quartz sold as "Indian jade," lighter in the hand. See [green aventurine](/stones/green-aventurine/).
-- **Serpentine.** Sold as "Korean jade," "bowenite jade" or "serpentine jade" (Geology.com), softer and lighter. See [serpentine](/stones/serpentine/).
+- **Serpentine.** Sold as "Korean jade," "bowenite jade" or "serpentine jade," softer and lighter. See [serpentine](/stones/serpentine/).
 - **Dyed calcite.** "Mexican jade," much softer, at Mohs 3.
 - **Green grossular.** "African jade," a garnet, heavier than jade.
 - **White jade.** The same two minerals in another color. See [white jade](/stones/white-jade/).
 
 ## Price Guide
 
-Green jade prices span an enormous range. The best Imperial Jade can cost more per carat than high-quality diamonds (Geology.com), and GIA's gem encyclopedia notes that green is the most valuable jade color. At the other end, Type B jadeite sells for a small fraction of a similar Type A piece, and Type C for a fraction of Type B. Geology.com advises buying Type C at a price that assumes temporary use for a few years.
+Green jade prices span an enormous range. The best Imperial Jade can cost more per carat than high-quality diamonds, and green is the most valuable jade color. At the other end, Type B jadeite sells for a small fraction of a similar Type A piece, and Type C for a fraction of Type B. If you buy Type C, pay a price that assumes temporary use for a few years.
 
-For beads, bangles, pendants and carvings, the International Gem Society names color, origin and size as the main value factors for jade, and for carvings the artistry and provenance, since carved pieces are priced by the piece rather than by the carat ([International Gem Society](https://www.gemsociety.org/article/nephrite-jewelry-and-gemstone-information/)). Add the treatment type for jadeite, and ask for a lab report before paying a high price.
+For beads, bangles, pendants and carvings, the main value factors for jade are color, origin and size, and for carvings the artistry and provenance, since carved pieces are priced by the piece rather than by the carat. Add the treatment type for jadeite, and ask for a lab report before paying a high price.
 
 **Next Step.** Choosing a stone for a fresh start with money? See how green jade compares with the other usual picks in [crystals for money](/crystals-for/money/).
 
@@ -210,4 +210,4 @@ For beads, bangles, pendants and carvings, the International Gem Society names c
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

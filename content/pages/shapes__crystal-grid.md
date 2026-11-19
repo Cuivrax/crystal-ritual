@@ -68,9 +68,9 @@ A crystal grid is a modern crystal practice in which stones are laid out in a pa
 
 ## What Is a Crystal Grid?
 
-**Modern Association.** A crystal grid is a set of stones arranged in a deliberate shape around one goal. One crystal guide describes grids as "geometric layouts of stones arranged around a single goal" and says clear quartz "often sits at the centre" of them ([crystalgemstones.net](https://crystalgemstones.net/clear-quartz-meaning-and-spiritual-properties.html)).
+**Modern Association.** A crystal grid is a set of stones arranged in a deliberate shape around one goal. One crystal guide describes grids as "geometric layouts of stones arranged around a single goal" and says clear quartz "often sits at the centre" of them.
 
-The parts are few. There is a center stone, which that guide calls the "amplifier" ([crystalgemstones.net](https://crystalgemstones.net/herkimer-diamond-meaning-and-spiritual-properties.html)) and a seller the "focal point" ([Otter Spirit](https://otterspirit.com/blogs/otterspirit/lapis-lazuli-meaning-properties)). Around it goes a ring of stones picked for the same intention, sometimes with quartz points "around other stones" ([Crystals.com](https://www.crystals.com/blogs/news/clear-quartz-meaning-properties)). A shop that sells quartz wands adds "Crystal Grid Activation," a way to "amplify and connect all of the elements in your grid with your specific intention" ([Angelic Roots](https://www.angelicroots.com/blogs/soulcollective/how-to-use-your-crystal-wands-and-vogels)). Some guides scale it up to a bedroom, with "one piece on each nightstand and one under the bed" ([Crystals.com](https://www.crystals.com/blogs/news/blue-calcite-crystal-meanings-and-uses)).
+The parts are few. There is a center stone, which that guide calls the "amplifier" and a seller the "focal point". Around it goes a ring of stones picked for the same intention, sometimes with quartz points around other stones. A shop that sells quartz wands adds "Crystal Grid Activation," a way to "amplify and connect all of the elements in your grid with your specific intention." Some guides scale it up to a bedroom, with "one piece on each nightstand and one under the bed."
 
 The honest note. Amplifying, connecting and directing energy are beliefs, not properties a mineral reference lists. What a grid does for certain is plainer. It turns a goal into an object you see, touch and tidy every day, and that is the part this page builds on.
 
@@ -85,7 +85,7 @@ Both were jewels worn on the body. A tabletop grid laid out around a personal go
 This layout takes about five minutes. One stone goes in the center and six go around it, like hours on a clock face.
 
 1. **Pick one goal and write it on a small card.** Make it concrete. "Send the portfolio to three studios by Friday" gives the grid a job. "Success" does not.
-2. **Choose a spot you pass every day.** Keep it out of direct sun if you use amethyst or citrine. GIA says some of their color can fade with prolonged exposure to intense light ([GIA amethyst](https://www.gia.edu/amethyst-care-cleaning), [GIA citrine](https://www.gia.edu/citrine-care-cleaning)), and the [Care Checker](/tools/crystal-care-checker/) rates both Brief Only for sun. Keep candles away too, since it rates both Avoid for heat.
+2. **Choose a spot you pass every day.** Keep it out of direct sun if you use amethyst or citrine. Some of their color can fade with prolonged exposure to intense light, and the [Care Checker](/tools/crystal-care-checker/) rates both Brief Only for sun. Keep candles away too, since it rates both Avoid for heat.
 3. **Lay down a base.** A plate, a tray, a cloth or a sheet of paper. You do not need a special board.
 4. **Set the card and the center stone.** Fold the card, put it in the middle and set the center stone on top. A clear quartz point or a tumbled stone a little bigger than the others both work.
 5. **Place six stones around it.** Picture a clock and set them at 12, 2, 4, 6, 8 and 10, about 2 inches (5 cm) from the center. If you use points, face all six the same way, in toward the center or out, so the pattern reads cleanly.
@@ -110,7 +110,7 @@ Most crystal grid patterns come down to a handful of shapes.
 
 A flower of life crystal grid is a layout built on the flower of life pattern, a field of overlapping circles of the same size whose crossings form six-petaled flowers. Grid boards and cloths often come printed with it, and the stones go on the circle centers or on the points where the circles cross.
 
-**Modern Association.** Crystal sellers present the pattern as sacred geometry, the belief that certain shapes hold spiritual meaning or power. Some French shop guides also use a flower of life plate to recharge a stone, celestite in one ([lithotherapie.net](https://www.lithotherapie.net/articles/celestine/)) and red jasper "for a few hours" in another ([Gambin](https://gambin.co/blog/jaspe-rouge-proprietes-menstruations/)). That is a belief about a drawing. It does have one kind side. A printed plate fades nothing, and the Care Checker rates celestite Avoid for sun.
+**Modern Association.** Crystal sellers present the pattern as sacred geometry, the belief that certain shapes hold spiritual meaning or power. Some French shop guides also use a flower of life plate to recharge a stone, celestite in one and red jasper "for a few hours" in another. That is a belief about a drawing. It does have one kind side. A printed plate fades nothing, and the Care Checker rates celestite Avoid for sun.
 
 The geometry itself is easy to draw. With a compass, draw one circle, then step the same width around its edge six times. Those six marks and the center are the seven spots of the simple grid above, and a circle drawn around each mark gives the overlapping pattern printed on grid boards.
 
@@ -120,9 +120,9 @@ No. A crystal grid board is a base of wood, glass or cloth printed or engraved w
 
 ## Why Clear Quartz Sits in So Many Grids
 
-Clear quartz is the default grid stone in modern crystal guides, set in the center or as points around other stones, and one shop calls it "a useful addition to any grid" ([Moonrise Crystals](https://moonrisecrystals.com/clear-quartz-meaning/)). It is a Classic focus and protection stone in modern guides, and sellers say it can "amplify energy" ([Otter Spirit](https://otterspirit.com/blogs/otterspirit/lapis-lazuli-meaning-properties)). That part is belief.
+Clear quartz is the default grid stone in modern crystal guides, set in the center or as points around other stones, and one shop calls it "a useful addition to any grid." It is a Classic focus and protection stone in modern guides, and sellers say it can "amplify energy." That part is belief.
 
-**Mineral Fact.** The practical reasons are easier to check. Clear quartz is colorless quartz with a hardness of 7, which Geology.com says makes it very durable, and quartz is chemically inert with most substances ([Geology.com](https://geology.com/minerals/quartz.shtml)). If yours looks spotless and perfectly even, our [clear quartz page](/stones/clear-quartz/) explains how to tell it from glass.
+**Mineral Fact.** The practical reasons are easier to check. Clear quartz is colorless quartz with a hardness of 7, which makes it very durable, and quartz is chemically inert with most substances. If yours looks spotless and perfectly even, our [clear quartz page](/stones/clear-quartz/) explains how to tell it from glass.
 
 ## Three Grids for Everyday Life
 
@@ -138,11 +138,11 @@ Every stone in these layouts is rated OK for handling and OK for a rinse in our 
 
 ### The Kindness Grid on a Dresser
 
-**Try This.** Put a [rose quartz](/stones/rose-quartz/), a Classic love stone in modern guides, on a card with the names of three people you have meant to call or write to, and ring it with six small tumbled rose quartz. Each evening, take one name and send one message. Common rose quartz is rated OK for sun, though Geology.com notes that the rare transparent pink crystals fade in heat or light ([Geology.com](https://geology.com/gemstones/rose-quartz/)). For a big week at work, try red jasper, a Classic confidence stone, at the center with six citrine.
+**Try This.** Put a [rose quartz](/stones/rose-quartz/), a Classic love stone in modern guides, on a card with the names of three people you have meant to call or write to, and ring it with six small tumbled rose quartz. Each evening, take one name and send one message. Common rose quartz is rated OK for sun, though the rare transparent pink crystals fade in heat or light. For a big week at work, try red jasper, a Classic confidence stone, at the center with six citrine.
 
 ## Is There Such a Thing as a Healing Crystal Grid?
 
-A healing crystal grid is a grid built around a wish for someone's health or recovery. One crystal encyclopedia says large Herkimer quartz crystals "may be used to grid a home, healing space, or bed" ([Crystal Vaults](https://www.crystalvaults.com/crystal-encyclopedia/herkimer-diamond/)). It is a belief and, for many people, a comfort. No grid treats, cures or prevents any condition.
+A healing crystal grid is a grid built around a wish for someone's health or recovery. One crystal encyclopedia says large Herkimer quartz crystals "may be used to grid a home, healing space, or bed." It is a belief and, for many people, a comfort. No grid treats, cures or prevents any condition.
 
 **Try This.** If a friend is recovering, build a small grid around a card you plan to send them. Write a few lines each evening for three evenings, then mail it. The grid holds the thought, and the card reaches them.
 
@@ -154,8 +154,8 @@ A grid sits out for days or weeks, so light, heat and dust matter more than they
 
 - **Sun.** Amethyst and citrine are rated Brief Only for sun, and smoky quartz Avoid. Clear quartz has no sun rating yet. Common rose quartz and red jasper are rated OK. Bright, indirect light is the safe choice. Check any other stone in the [Care Checker](/tools/crystal-care-checker/).
 - **Heat.** Amethyst, citrine and selenite are rated Avoid for heat, so a grid is no place for a candle.
-- **Dust.** Quartz and red jasper can be rinsed under the tap with a drop of mild soap and patted dry, the wash the International Gem Society gives for amethyst ([IGS](https://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/)). That is a rinse, not a soak, which the Care Checker rates Brief Only. Selenite is different. The International Gem Society cleans gypsum by hand with warm water only and no detergent, and says to pat it dry without rubbing or scrubbing ([IGS](https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/)).
-- **Storage.** When you take a grid down, wrap the stones separately. The International Gem Society advises storing amethyst apart from harder gems to avoid scratches.
+- **Dust.** Quartz and red jasper can be rinsed under the tap with a drop of mild soap and patted dry, the standard wash for amethyst. That is a rinse, not a soak, which the Care Checker rates Brief Only. Selenite is different. Gypsum is cleaned by hand with warm water only and no detergent, then patted dry without rubbing or scrubbing.
+- **Storage.** When you take a grid down, wrap the stones separately. Store amethyst apart from harder gems to avoid scratches.
 
 **Safety.** Small tumbled stones are a choking hazard. Build grids where small children and pets cannot reach them.
 
@@ -163,11 +163,11 @@ A grid sits out for days or weeks, so light, heat and dust matter more than they
 
 Some stones that guides recommend for grids do not belong in one you touch daily.
 
-- **Galena.** One guide suggests "a boxed galena piece can sit at the base of a grid as its 'root'" ([crystalgemstones.net](https://crystalgemstones.net/galena-meaning-and-spiritual-properties.html)). Galena is a lead sulfide, and many schools have removed it from student mineral kits ([Geology.com](https://geology.com/minerals/galena.shtml)). The Care Checker rates it Avoid for toxicity. Leave it out.
-- **Bumblebee jasper.** Rated Avoid for toxicity. A retailer says it is safe to wear but contains arsenic and sulfur minerals, and that no one should ingest it or let children mouth it ([Rock Your World Gems](https://www.rockyourworldgems.com/pages/about-bumblebee-jasper)). Keep it on a high shelf, not in a grid you handle.
-- **Malachite.** Rated Brief Only for toxicity. Its grinding dust is toxic to breathe, though the International Gem Society says finished pieces should be safe to handle ([IGS](https://www.gemsociety.org/article/malachite-jewelry-and-gemstone-information/)). Fine on display, but keep handling brief.
-- **Selenite.** No toxicity rating yet in our data. It is gypsum, about 2 on the Mohs scale and very easy to scratch, says the International Gem Society, and it is rated Brief Only for water. Handle it gently and keep it dry.
-- **Black tourmaline.** One blog calls it "helpful in almost any crystal grid" ([Otherworldly Oracle](https://otherworldlyoracle.com/black-tourmaline-magical-properties/)), but our care data has no toxicity rating for it yet, which is why it is not in our layouts. Check the [Care Checker](/tools/crystal-care-checker/) first.
+- **Galena.** One guide suggests "a boxed galena piece can sit at the base of a grid as its 'root.'" Galena is a lead sulfide, and many schools have removed it from student mineral kits. The Care Checker rates it Avoid for toxicity. Leave it out.
+- **Bumblebee jasper.** Rated Avoid for toxicity. A retailer says it is safe to wear but contains arsenic and sulfur minerals, and that no one should ingest it or let children mouth it. Keep it on a high shelf, not in a grid you handle.
+- **Malachite.** Rated Brief Only for toxicity. Its grinding dust is toxic to breathe, though finished pieces should be safe to handle. Fine on display, but keep handling brief.
+- **Selenite.** No toxicity rating yet in our data. It is gypsum, about 2 on the Mohs scale and very easy to scratch, and it is rated Brief Only for water. Handle it gently and keep it dry.
+- **Black tourmaline.** One blog calls it "helpful in almost any crystal grid," but our care data has no toxicity rating for it yet, which is why it is not in our layouts. Check the [Care Checker](/tools/crystal-care-checker/) first.
 
 ## Sources
 
@@ -182,4 +182,4 @@ Some stones that guides recommend for grids do not belong in one you touch daily
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

@@ -67,7 +67,7 @@ Rainbow moonstone is a trade name for white labradorite, a plagioclase feldspar 
 | Heat | Avoid |
 | Salt | Unknown |
 | Toxic to handle | No known toxicity |
-| Common fakes | Glass "opalite," per one seller. GIA has seen coated quartz and gypsum assemblages |
+| Common fakes | Glass "opalite," per one seller. A gem lab has seen coated quartz and gypsum assemblages |
 | Price range | Gems by the carat, rising fast with size (see Price Guide) |
 | Birthstone | June lists name moonstone, which strictly means orthoclase |
 | Chakra (Modern Association) | Third eye, crown or sacral, with no agreement |
@@ -76,35 +76,35 @@ Rainbow moonstone is a trade name for white labradorite, a plagioclase feldspar 
 
 ## What Rainbow Moonstone Actually Is
 
-**The Stone.** Most stones sold as rainbow moonstone are labradorite, a feldspar of the plagioclase series ([Geology.com](https://geology.com/gemstones/labradorite/)). When the gem lab of the Gemological Institute of America identifies one, it reports labradorite "known in the trade as rainbow moonstone," according to the trade magazine [JCK](https://www.jckonline.com/magazine-article/labradorites-blue-rainbow-moonstone/). True moonstone is another feldspar, orthoclase ([GIA](https://www.gia.edu/moonstone/gem-overview)).
+**The Stone.** Most stones sold as rainbow moonstone are labradorite, a feldspar of the plagioclase series. When the gem lab of the Gemological Institute of America identifies one, it reports labradorite "known in the trade as rainbow moonstone." True moonstone is another feldspar, orthoclase.
 
 Why the resemblance? Ordinary labradorite gets its dark gray body from ilmenite inclusions. Rainbow moonstone has none, so it stays milky white. As JCK puts it, "It looks like moonstone but has the colors of labradorite."
 
 ### Where the Flash Comes From
 
-Light enters the stone, hits microscopic twinning surfaces inside it and bounces back. Different surfaces reflect different colors, so one stone can flash blue in one spot and gold in another ([Geology.com](https://geology.com/gemstones/labradorite/)). The effect is called labradorescence.
+Light enters the stone, hits microscopic twinning surfaces inside it and bounces back. Different surfaces reflect different colors, so one stone can flash blue in one spot and gold in another. The effect is called labradorescence.
 
-A dealer quoted by JCK adds a surprise. Clean stones tend to flash a single blue, and the rainbow appears when inclusions break up the light.
+A dealer adds a surprise. Clean stones tend to flash a single blue, and the rainbow appears when inclusions break up the light.
 
 ### Where It Comes From
 
-Material sold as rainbow moonstone comes mostly from India and Madagascar, according to the mineral dealer [Stonemania](https://www.stonemania.co.uk/blog/what-is-sunstone-moonstone). JCK traces its debut to a small mining area among rice fields in southern India. In 2024 GIA's journal *Gems & Gemology* described unusually transparent material from Andilamena, northeastern Madagascar, confirmed as labradorite by Raman spectroscopy and clear enough to facet ([GIA](https://www.gia.edu/gems-gemology/spring-2024-gemnews-high-quality-rainbow-moonstone)).
+Material sold as rainbow moonstone comes mostly from India and Madagascar. Its debut traces to a small mining area among rice fields in southern India. In 2024 gemologists described unusually transparent material from Andilamena, northeastern Madagascar, confirmed as labradorite by Raman spectroscopy and clear enough to facet.
 
 ## Why "Rainbow Moonstone" Is a Trade Name
 
-**Trade Name.** The name describes a look, not a mineral. Dr. Henry Hänni of the Swiss Gemmological Institute, the first to publish the chemistry of these new "moonstones," explains that the glow of true moonstone comes from layers of albite in orthoclase, while this stone flashes from twinning planes in labradorite. His verdict is short. "Labradorite is not a moonstone." He sees no reason "except commercial" to call it one (JCK).
+**Trade Name.** The name describes a look, not a mineral. Dr. Henry Hänni of the Swiss Gemmological Institute, the first to publish the chemistry of these new "moonstones," explains that the glow of true moonstone comes from layers of albite in orthoclase, while this stone flashes from twinning planes in labradorite. His verdict is short. "Labradorite is not a moonstone." He sees no reason "except commercial" to call it one.
 
-The trade kept the name anyway. JCK calls it a misnomer, "but a very popular one," and the [International Gem Society](https://www.gemsociety.org/article/moonstone-jewelry-gem-information/) notes that the trade has generally accepted it. On our five-step ladder that makes it a natural stone sold under a **Trade name**. The stone is real. Only the name is borrowed.
+The trade kept the name anyway. JCK calls it a misnomer, "but a very popular one," and the trade has generally accepted it. On our five-step ladder that makes it a natural stone sold under a **Trade name**. The stone is real. Only the name is borrowed.
 
 ### Is Rainbow Moonstone the Same as White Labradorite?
 
-Usually, yes. Stonemania calls it a trade name "most commonly used for white labradorite," and [Geology.com](https://geology.com/gemstones/moonstone/) says labradorite is usually the source of its colors. The exception is peristerite, a feldspar with a softer, more diffuse blue or silvery sheen, sometimes sold under the same name (Stonemania).
+Usually, yes. One mineral dealer calls it a trade name "most commonly used for white labradorite," and labradorite is usually the source of its colors. The exception is peristerite, a feldspar with a softer, more diffuse blue or silvery sheen, sometimes sold under the same name.
 
 Other names on tags.
 
-- **Blue rainbow moonstone, royal blue.** Trade terms for a strong blue flash (JCK).
-- **Water opal.** The wrong label it carried when first reported in the 1960s (JCK).
-- **Sunstone-moonstone.** Not a blend of two stones, a trade name usually given to peristerite (Stonemania).
+- **Blue rainbow moonstone, royal blue.** Trade terms for a strong blue flash.
+- **Water opal.** The wrong label it carried when first reported in the 1960s.
+- **Sunstone-moonstone.** Not a blend of two stones, a trade name usually given to peristerite.
 
 ## Where the Meaning Comes From
 
@@ -113,21 +113,21 @@ Other names on tags.
 - **India.** **Tradition.** George Frederick Kunz writes that moonstone was "regarded as a sacred stone in India," sold only on a yellow cloth, and prized as a lovers' gift said to reveal a couple's future if held in the mouth at the full moon (*The Curious Lore of Precious Stones*, 1913, pages 97 to 98). Please skip that step.
 - **The East.** **Tradition.** Stones with a moving light, moonstone among them, were believed to hold "a living spirit" and, gazed at long enough, to give insight into the future (1913, pages 7 to 8). One root of today's intuition link.
 - **Monday.** **Tradition.** An old print of the Roman week gives Diana, the sign of Cancer and the moonstone to Monday, and in Siam white fabrics and moonstones were worn on Mondays (1913, pages 332 and 335).
-- **1960s.** The labradorite version is first reported, wrongly labeled "water opal" (JCK).
-- **1987.** JCK points readers to a *Gems & Gemology* note from that year titled "'Rainbow Moonstones' are labradorite."
-- **Today.** **Modern Association.** Many guides simply reuse moonstone lore, and for the zodiac one says it "follows the same associations as classic moonstone" ([AJ Luxe](https://ajluxe.com/blogs/jewelry-guide/rainbow-moonstone-meaning)). A dealer told JCK, "It used to be a healy-feely stone. Now, it's set with platinum and diamonds."
+- **1960s.** The labradorite version is first reported, wrongly labeled "water opal."
+- **1987.** A *Gems & Gemology* note from that year carries the title "'Rainbow Moonstones' are labradorite."
+- **Today.** **Modern Association.** Many guides simply reuse moonstone lore, and for the zodiac one says it "follows the same associations as classic moonstone." A dealer summed up the change, "It used to be a healy-feely stone. Now, it's set with platinum and diamonds."
 
-Many crystal sites say the Romans believed moonstone was solidified moonlight, but they name no ancient author. The closest ancient text is Pliny the Elder's *Natural History*, which describes a stone called selenitis. "Selenitis is white and transparent, with a reflected colour like that of honey," Pliny writes, and a figure like the moon inside it was said to follow the moon's phases. He passes this on only as a report and thinks the stone came from Arabia (Book 37, chapter 67, Bostock and Riley translation, via [Perseus at Tufts University](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D67)). His translators read selenitis as selenite, a form of gypsum, not moonstone. The moon in the name is ancient, but Pliny's stone is not modern moonstone, and he says nothing about labradorite.
+Many crystal sites say the Romans believed moonstone was solidified moonlight, but they name no ancient author. The closest ancient text is Pliny the Elder's *Natural History*, which describes a stone called selenitis. "Selenitis is white and transparent, with a reflected colour like that of honey," Pliny writes, and a figure like the moon inside it was said to follow the moon's phases. He passes this on only as a report and thinks the stone came from Arabia (Book 37, chapter 67, Bostock and Riley translation). His translators read selenitis as selenite, a form of gypsum, not moonstone. The moon in the name is ancient, but Pliny's stone is not modern moonstone, and he says nothing about labradorite.
 
 ## What People Use Rainbow Moonstone for Today
 
-**Modern Association.** In modern crystal guides, intuition comes up most often, followed by new beginnings, calm, balance and creativity. Rainbow moonstone is Widely Linked with sleep and with love, and some guides add protection, which one says it "picks up" from labradorite (AJ Luxe).
+**Modern Association.** In modern crystal guides, intuition comes up most often, followed by new beginnings, calm, balance and creativity. Rainbow moonstone is Widely Linked with sleep and with love, and some guides add protection, which one says it "picks up" from labradorite.
 
-The "why" is easy to trace. The moon in the name brings cycles, dreams and the feminine. Kunz's lovers' gift becomes today's love stone. The flash does the rest. One guide calls it a stone for "visions of things that aren't immediately obvious" ([Fire Mountain Gems](https://www.firemountaingems.com/resources/encyclobeadia/gem-notes/gmstnprprtsrnbw1)).
+The "why" is easy to trace. The moon in the name brings cycles, dreams and the feminine. Kunz's lovers' gift becomes today's love stone. The flash does the rest. One guide calls it a stone for "visions of things that aren't immediately obvious."
 
 Zodiac charts follow moonstone, with Cancer first, a link already on the print in Kunz. Chakra placements are all over the map.
 
-A few sites list hormones, menstrual cycles, fertility, pregnancy, digestion or insomnia. Nothing in the sources behind this page supports those claims, and one shop guide states that rainbow moonstone "is not a medicine" ([KenKen Gems](https://store.kenkengems.com/blogs/rainbow-moonstone/rainbow-moonstone-its-meaning-and-properties)).
+A few sites list hormones, menstrual cycles, fertility, pregnancy, digestion or insomnia. Nothing in the sources behind this page supports those claims, and one shop guide states that rainbow moonstone "is not a medicine."
 
 ### What Are the Benefits of Rainbow Moonstone?
 
@@ -159,25 +159,25 @@ The benefits you can count on are the look and the story, a natural feldspar who
 
 We use the same five labels on every stone.
 
-- **Natural, untreated.** Most of what is sold. In 2001 JCK reported that no enhancements were in use to alter its clarity or color.
-- **Natural, treated.** We found no reference source describing coated, backed or dyed rainbow moonstone. The coated look-alike GIA reported in 2013 was not feldspar at all (see Imitation).
-- **Lab-grown.** We found no reference source on lab-grown labradorite sold as rainbow moonstone. For true moonstone, the International Gem Society says lab-created stones have not entered the market.
-- **Imitation.** One jewelry seller names glass "opalite" as the usual fake (AJ Luxe), a marketing name for man-made opal-like glass or plastic ([Geology.com](https://geology.com/gemstones/opal/opalite.shtml)). GIA's lab has also examined white cabochons that passed for rainbow moonstone face-up but were assemblages, a rock crystal quartz base with an iridescent coating, cemented to a gypsum top and coated in plastic (*Gems & Gemology*, [Fall 2013 Lab Notes](https://www.gia.edu/gems-gemology/fa13-ln-imitation-moonstone-assemblage)). The trick is old. In 1915 Kunz described quartz beach pebbles cut and "passed off for moonstones" (*The Magic of Jewels and Charms*, pages 19 to 20).
+- **Natural, untreated.** Most of what is sold. As of 2001, no enhancements were in use to alter its clarity or color.
+- **Natural, treated.** We found no reference source describing coated, backed or dyed rainbow moonstone. The coated look-alike reported in 2013 was not feldspar at all (see Imitation).
+- **Lab-grown.** We found no reference source on lab-grown labradorite sold as rainbow moonstone. For true moonstone, lab-created stones have not entered the market.
+- **Imitation.** One jewelry seller names glass "opalite" as the usual fake, a marketing name for man-made opal-like glass or plastic. In 2013 GIA's lab also examined white cabochons that passed for rainbow moonstone face-up but were assemblages, a rock crystal quartz base with an iridescent coating, cemented to a gypsum top and coated in plastic. The trick is old. In 1915 Kunz described quartz beach pebbles cut and "passed off for moonstones" (*The Magic of Jewels and Charms*, pages 19 to 20).
 - **Trade name.** The name itself, honest labradorite under a borrowed label.
 
 Three checks you can do at home, with their limits.
 
-1. **Read the colors.** Moonstone's sheen is only blue or white, never yellow, orange or purple (JCK). Warm flashes point to labradorite. Blue alone proves nothing.
-2. **Watch the flash move.** Labradorescence shows at one angle and fades at others (Geology.com). This shows a phenomenal stone, not which one.
-3. **Look at a raw edge.** Labradorite breaks along two perfect cleavage directions at about 86 degrees and looks pearly on those faces (Geology.com). That can rule out some imitations, never moonstone, which also has two cleavage directions ([GIA](https://www.gia.edu/moonstone-care-cleaning)).
+1. **Read the colors.** Moonstone's sheen is only blue or white, never yellow, orange or purple. Warm flashes point to labradorite. Blue alone proves nothing.
+2. **Watch the flash move.** Labradorescence shows at one angle and fades at others. This shows a phenomenal stone, not which one.
+3. **Look at a raw edge.** Labradorite breaks along two perfect cleavage directions at about 86 degrees and looks pearly on those faces. That can rule out some imitations, never moonstone, which also has two cleavage directions.
 
 ### Is a Weak Flash or a Dark Line Normal?
 
-Yes, usually. Many labradorites show little or no flash, and the color sits off-center unless the stone was cut parallel to its internal layers (Geology.com). A sphere faces every direction, so it flashes in patches. Dark specks and streaks are common, and the [International Gem Society](https://www.gemsociety.org/article/labradorite-jewelry-and-gemstone-information/) lists black needle-like inclusions among labradorite's identifying features. Some crystal sellers describe them as black tourmaline inclusions. Inclusions are part of what makes the rainbow.
+Yes, usually. Many labradorites show little or no flash, and the color sits off-center unless the stone was cut parallel to its internal layers. A sphere faces every direction, so it flashes in patches. Dark specks and streaks are common, and black needle-like inclusions are among labradorite's identifying features. Some crystal sellers describe them as black tourmaline inclusions. Inclusions are part of what makes the rainbow.
 
 ### How to Tell True Moonstone From Rainbow Moonstone
 
-At home by the colors, in a lab by the numbers. True moonstone has a lower refractive index and specific gravity than labradorite (JCK). GIA gives moonstone 2.58, and the [IGS](https://www.gemsociety.org/article/labradorite-jewelry-and-gemstone-information/) measured 2.70 on a Madagascar labradorite moonstone. Ask the seller.
+At home by the colors, in a lab by the numbers. True moonstone has a lower refractive index and specific gravity than labradorite. Moonstone is listed at 2.58, and one Madagascar labradorite moonstone measured 2.70. Ask the seller.
 
 1. Is this labradorite or orthoclase moonstone?
 2. Has it been coated, backed or treated?
@@ -187,20 +187,20 @@ The [Label Decoder](/tools/crystal-label-decoder/) explains names like these and
 
 ## How to Care for Rainbow Moonstone
 
-**Mineral Fact.** Rainbow moonstone rates 6 to 6.5 on the Mohs scale (JCK), and labradorite's perfect cleavage makes it prone to breaking with impact (Geology.com). GIA notes that moonstone, which has the same kind of cleavage, is usually set in pendants and earrings rather than rings.
+**Mineral Fact.** Rainbow moonstone rates 6 to 6.5 on the Mohs scale, and labradorite's perfect cleavage makes it prone to breaking with impact. Moonstone, which has the same kind of cleavage, is usually set in pendants and earrings rather than rings.
 
-- **Water.** OK for washing. A designer quoted by JCK calls water cleaning "no problem." Keep soaks brief, since that advice covers washing only.
-- **Sun.** Unknown. GIA's word on light covers orthoclase moonstone, not labradorite.
-- **Heat.** Avoid. GIA says high heat or sudden temperature change can break moonstone. That page covers orthoclase, but labradorite is also a feldspar with cleavage.
-- **Chemicals.** Avoid. GIA lists hydrofluoric acid for orthoclase moonstone and gives no other guidance.
+- **Water.** OK for washing. One jewelry designer calls water cleaning "no problem." Keep soaks brief, since that advice covers washing only.
+- **Sun.** Unknown. The light guidance we have covers orthoclase moonstone, not labradorite.
+- **Heat.** Avoid. High heat or sudden temperature change can break moonstone. That guidance covers orthoclase, but labradorite is also a feldspar with cleavage.
+- **Chemicals.** Avoid. The only chemical warning on record is hydrofluoric acid, for orthoclase moonstone.
 - **Salt.** Unknown. We found no reference source on salt and rainbow moonstone, so skip it.
-- **Cleaning.** Warm soapy water. The JCK designer accepts ultrasonic cleaners, but GIA never recommends them or steam for moonstone, so we stay gentle.
-- **Storage.** Keep it apart from other jewelry, since it "will abrade over time" (JCK).
-- **Toxicity.** None known, per the International Gem Society [toxicity table](https://www.gemsociety.org/article/gemstone-care-guide/).
+- **Cleaning.** Warm soapy water. The same designer accepts ultrasonic cleaners, but GIA never recommends them or steam for moonstone, so we stay gentle.
+- **Storage.** Keep it apart from other jewelry, since it will abrade over time.
+- **Toxicity.** None known.
 
 ### Can Rainbow Moonstone Go in Water?
 
-A quick wash, yes. A daily shower or a swim in the ocean, not by our data, since soaks are Brief only and salt is Unknown, so take a pendant off first. One French guide soaks moonstone in spring water for hours ([Histoire d'Or](https://www.histoiredor.com/fr_FR/le-magazine/ma/pierredelune-proprietes-signification-pierre.html)), and our care data wins over that.
+A quick wash, yes. A daily shower or a swim in the ocean, not by our data, since soaks are Brief only and salt is Unknown, so take a pendant off first. One French guide soaks moonstone in spring water for hours, and our care data wins over that.
 
 ### Can I Charge It Under the Moon or in the Sun?
 
@@ -209,21 +209,21 @@ Moonlight on a windowsill is the most common suggestion in modern crystal guides
 ## Rainbow Moonstone vs Look-Alikes
 
 - **Moonstone (orthoclase).** The namesake, with a billowy white or blue glow and lower lab readings. See our [moonstone page](/stones/moonstone/).
-- **Labradorite.** Same mineral, usually with a dark gray body from ilmenite (JCK). More on our [labradorite page](/stones/labradorite/).
-- **Sunstone.** Glitter from tiny metal platelets rather than a flash from internal layers, and much Oregon sunstone is labradorite too (Geology.com). See [sunstone](/stones/sunstone/).
+- **Labradorite.** Same mineral, usually with a dark gray body from ilmenite. More on our [labradorite page](/stones/labradorite/).
+- **Sunstone.** Glitter from tiny metal platelets rather than a flash from internal layers, and much Oregon sunstone is labradorite too. See [sunstone](/stones/sunstone/).
 - **Glass "opalite."** Man-made glass or plastic, not a stone, whatever the tag says.
 
 <!-- PHOTO 2, beside the look-alikes list, true moonstone for comparison. Smithsonian NMNH, "Orthoclase (var. moonstone)", Myanmar [Burma]. Image https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3eb18d67c99214166b78898950105aeeb . Record http://n2t.net/ark:/65665/3580f2e4d-96d0-4b7e-a94f-36991368a943 . License CC0 (Smithsonian Open Access), https://www.si.edu/openaccess . Credit line "Smithsonian National Museum of Natural History, CC0". visual_check ok, visual_use secondary. Alt text "True moonstone, an orthoclase cabochon from Myanmar held on a fingertip, with a blue-white sheen". Never label this photo as rainbow moonstone. -->
 
 ## Price Guide
 
-Rainbow moonstone gems are priced by the carat, and size matters most, since large clean pieces are rare. In 2001 the trade magazine JCK told buyers to expect at least $100 per carat for stones over 5 carats and $45 to $100 per carat below that, figures now more than two decades old. At the very top, the 2024 Andilamena material sold out at what GIA called extraordinarily high per-carat prices.
+Rainbow moonstone gems are priced by the carat, and size matters most, since large clean pieces are rare. In 2001 the trade magazine JCK told buyers to expect at least $100 per carat for stones over 5 carats and $45 to $100 per carat below that, figures now more than two decades old. At the very top, the 2024 Andilamena material sold out at extraordinarily high per-carat prices.
 
 Polished pieces are sold by the piece. A palm stone about 2.5 by 1.5 inches was about $13 in one listing we found, and a sphere 2 inches across was about $35 in another. These are single listings, not full ranges. Prices from US-dollar listings at online crystal shops in November 2026.
 
 ### Is Rainbow Moonstone a June Birthstone?
 
-On paper, June belongs to pearl, alexandrite and moonstone ([American Gem Society](https://www.americangemsociety.org/birthstones/)), and moonstone there means orthoclase. Some gem sellers still present rainbow moonstone as June's stone ([GemSelect](https://www.gemselect.com/gem-info/rainbow-moonstone/rainbow-moonstone-info.php)). If the label matters, give true moonstone. If the flash matters, give this one with an honest card.
+On the American Gem Society's list, June belongs to pearl, alexandrite and moonstone, and moonstone there means orthoclase. Some gem sellers still present rainbow moonstone as June's stone. If the label matters, give true moonstone. If the flash matters, give this one with an honest card.
 
 **Next Step.** Planning to leave it out under the full moon? Read [how to make moon water without ruining your stones](/rituals/moon-water/) first.
 
@@ -246,4 +246,4 @@ On paper, June belongs to pearl, alexandrite and moonstone ([American Gem Societ
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

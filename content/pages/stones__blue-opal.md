@@ -53,7 +53,7 @@ Blue opal is usually Peruvian common opal, a soft sky-blue to teal stone with no
 | What it is | Common opal (opal without play of color) with a blue body color, mostly from Peru |
 | Mineral status | A mineraloid with no crystal structure. Opal is a grandfathered name on the IMA List of Minerals (July 2026) |
 | Formula | Hydrated silica, SiO₂ with a variable amount of water (nH₂O), usually 6% to 10% in gem opal |
-| Mohs hardness | 5.5 to 6.5 for opal in general (GIA gives 5 to 6.5) |
+| Mohs hardness | 5.5 to 6.5 for opal in general, though GIA gives 5 to 6.5 |
 | Colors | Pale sky blue, seafoam, greenish blue to teal |
 | Color cause | Microscopic inclusions of chrysocolla or another copper silicate |
 | Main sources | Peru. Also Oregon |
@@ -71,23 +71,23 @@ Blue opal is usually Peruvian common opal, a soft sky-blue to teal stone with no
 
 ## What Blue Opal Actually Is
 
-**The Stone.** Opal is silica, the same ingredient as quartz, with water locked inside. It has no crystal structure and no fixed amount of water, so [Geology.com](https://geology.com/gemstones/opal/) calls it a mineraloid rather than a mineral. It forms when silica-rich water fills cracks in rock and leaves the silica behind as microscopic spheres ([GIA](https://www.gia.edu/opal/gem-overview)).
+**The Stone.** Opal is silica, the same ingredient as quartz, with water locked inside. It has no crystal structure and no fixed amount of water, so it is a mineraloid rather than a mineral. It forms when silica-rich water fills cracks in rock and leaves the silica behind as microscopic spheres.
 
 ### Precious Opal vs Common Opal
 
-When those spheres are uniform and neatly stacked, they diffract light and the stone flashes rainbow colors. That is precious opal. When they are random, you get common opal, with a waxy or glassy look and no flashes ([International Gem Society](https://www.gemsociety.org/article/opal-jewelry-and-gemstone-information/)). Most opal is common opal, sometimes called "potch," and most of it is plain enough to be overlooked (Geology.com). Peruvian blue opal is the happy exception, common opal whose color is anything but common.
+When those spheres are uniform and neatly stacked, they diffract light and the stone flashes rainbow colors. That is precious opal. When they are random, you get common opal, with a waxy or glassy look and no flashes. Most opal is common opal, sometimes called "potch," and most of it is plain enough to be overlooked. Peruvian blue opal is the happy exception, common opal whose color is anything but common.
 
 ### Why Blue Opal Is Blue
 
-**Mineral Fact.** Peruvian blue opal holds up to 1% copper, mostly as irregular microscopic inclusions of chrysocolla or another copper silicate, according to [Gemdat](https://www.gemdat.org/gem-43544.html), which cites J. Hyrsl's *Gemstones of Peru* (2012). Brown and black dendrites, little fern-like inclusions, are common too.
+**Mineral Fact.** Peruvian blue opal holds up to 1% copper, mostly as irregular microscopic inclusions of chrysocolla or another copper silicate, according to J. Hyrsl's *Gemstones of Peru* (2012) as cited by Gemdat. Brown and black dendrites, little fern-like inclusions, are common too.
 
-The International Gem Society also uses "blue opal" for precious opal with mostly blue flashes, so check the photo and the price to see which one a listing means.
+The name "blue opal" is also used for precious opal with mostly blue flashes, so check the photo and the price to see which one a listing means.
 
 ### Where It Comes From
 
-According to the dealer guide at [Skyjems](https://skyjems.ca/pages/encyclopedia-blue-opal), Peru supplies most blue opal on the market, mined from veins and nodules in old volcanic rock. Gemdat records the Acari Mine in Arequipa. Peru is known for common opal in pastel pink, blue and green, often cut into small beads and cabochons ([Geology.com](https://geology.com/gemstones/opal/common-opal.shtml)).
+Peru supplies most blue opal on the market, mined from veins and nodules in old volcanic rock. Known mines include the Acari Mine in Arequipa. Peru is known for common opal in pastel pink, blue and green, often cut into small beads and cabochons.
 
-Oregon has produced blue common opal too (Geology.com), and Skyjems calls Oregon blue rarer and often more saturated.
+Oregon has produced blue common opal too, and one dealer calls Oregon blue rarer and often more saturated.
 
 <!-- PHOTO TO FIND, PHOTO 2, Peruvian blue opal beads or a cabochon beside a blue chalcedony piece. No licensed candidate checked yet. -->
 
@@ -95,13 +95,13 @@ Oregon has produced blue common opal too (Geology.com), and Skyjems calls Oregon
 
 **The Story.** Most old opal lore praises the flashing kind. Blue opal inherits that story, plus a short Peruvian chapter.
 
-- **Ancient Rome.** **Tradition.** Because opal seems to hold the colors of other gems, the Romans ranked it above all of them ([GIA](https://www.gia.edu/opal/gem-overview)). Kunz doubted that Pliny's famous "opal of Nonius" was our opal at all, since the Romans do not seem to have reached the Hungarian mines (*The Curious Lore of Precious Stones*, 1913, pages 145 to 146).
-- **Undated, Arabia.** **Tradition.** The Bedouins believed opals held lightning and fell from the sky in thunderstorms (GIA).
+- **Ancient Rome.** **Tradition.** Because opal seems to hold the colors of other gems, the Romans ranked it above all of them. Kunz doubted that Pliny's famous "opal of Nonius" was our opal at all, since the Romans do not seem to have reached the Hungarian mines (*The Curious Lore of Precious Stones*, 1913, pages 145 to 146).
+- **Undated, Arabia.** **Tradition.** The Bedouins believed opals held lightning and fell from the sky in thunderstorms.
 - **Middle Ages.** **Tradition.** Opal was called ophthalmios, the eye stone, and was thought to help the eyes and make its wearer invisible, hence the nickname "patron of thieves" (Kunz 1913, pages 146 and 148).
 - **1500s and 1600s.** **Tradition.** Cardano bought an opal for 15 gold crowns and enjoyed it as much as a 500-crown diamond. Shakespeare made it a picture of a changeable mind, "thy mind is very opal" (Kunz 1913, pages 150 to 151).
-- **1829.** **Tradition.** Walter Scott's novel *Anne of Geierstein* gave opal its unlucky reputation (GIA). Kunz blamed a careless reading of the book, and also cutters who cracked fragile opals and came to call them bad luck (1913, pages 143 to 144 and 152).
-- **Victorian era.** **Tradition.** Queen Victoria opposed the bad-luck idea, and by 1915 opals were favorite bridal gifts (Kunz, *The Magic of Jewels and Charms*, page 375). Opal has been called both the luckiest and the unluckiest stone you can wear (International Gem Society).
-- **20th century, Peru.** Peruvian blue opal has been mined commercially mainly since the mid-20th century, with limited evidence of pre-Columbian use, according to Skyjems. Gemdat says Andean opal appeared in Lima together with chrysocolla in the early 1970s.
+- **1829.** **Tradition.** Walter Scott's novel *Anne of Geierstein* gave opal its unlucky reputation. Kunz blamed a careless reading of the book, and also cutters who cracked fragile opals and came to call them bad luck (1913, pages 143 to 144 and 152).
+- **Victorian era.** **Tradition.** Queen Victoria opposed the bad-luck idea, and by 1915 opals were favorite bridal gifts (Kunz, *The Magic of Jewels and Charms*, page 375). Opal has been called both the luckiest and the unluckiest stone you can wear.
+- **20th century, Peru.** Peruvian blue opal has been mined commercially mainly since the mid-20th century, with limited evidence of pre-Columbian use, by one dealer's account. Andean opal appeared in Lima together with chrysocolla in the early 1970s.
 
 ### What About the Inca Legend?
 
@@ -111,7 +111,7 @@ Shop blogs often call Peruvian blue opal a gift from Pachamama, the Andean earth
 
 ### What Does Blue Opal Mean?
 
-**Modern Association.** Blue opal is commonly associated today with calm, gentle communication, or saying what you mean without sharpness, as [one guide](https://crystalgemstones.net/blue-opal-meaning-and-spiritual-properties.html) puts it. Courage to speak up, creativity and restful dreams follow. In modern crystal guides, blue opal is a Classic stone for anxiety and Often Linked with grief. Most place it on the throat chakra.
+**Modern Association.** Blue opal is commonly associated today with calm, gentle communication, or saying what you mean without sharpness, as one guide puts it. Courage to speak up, creativity and restful dreams follow. In modern crystal guides, blue opal is a Classic stone for anxiety and Often Linked with grief. Most place it on the throat chakra.
 
 The "why" is mostly color, since modern chakra charts color the throat blue. Guides suggest it to people whose work runs on conversation, like teachers and counselors, and some keep it by the bed for a wind-down routine.
 
@@ -131,7 +131,7 @@ Zodiac links are a mess. Cancer, Pisces and Libra come up most, and one shop gui
 
 ### An October Gift With a Note
 
-**Try This.** Opal is an October birthstone ([American Gem Society](https://www.americangemsociety.org/birthstones/)), and blue opal is one of the easier opals to afford. Add a card that says what it is (common opal from the Andes, blue from traces of copper minerals) and one line of its story, like Shakespeare's "thy mind is very opal."
+**Try This.** Opal is an October birthstone on the American Gem Society list, and blue opal is one of the easier opals to afford. Add a card that says what it is (common opal from the Andes, blue from traces of copper minerals) and one line of its story, like Shakespeare's "thy mind is very opal."
 
 **Safety.** One guide suggests giving Andean opal to young children to calm them. Please do not. Small tumbled stones and bead bracelets are a choking hazard for small children and pets.
 
@@ -144,44 +144,44 @@ Zodiac links are a mess. Cancer, Pisces and Libra come up most, and one shop gui
 We use the same five labels on every stone.
 
 - **Natural, untreated.** Peruvian blue opal that is simply cut and polished. We found no reference figure for how much of the blue opal sold in the US is untreated, so ask the seller.
-- **Natural, treated.** Blue opal may be impregnated with resin or polymer, not always disclosed at the low end of the market, and porous pieces can be dyed or stabilized like turquoise, according to Skyjems. GIA lists oil, wax, plastic, sugar and smoke treatments for opal in general ([GIA](https://www.gia.edu/gems-gemology/opal-care-cleaning)).
-- **Lab-grown.** Synthetic opal is real opal grown in a lab (International Gem Society), but the reports we found describe lab-grown precious opal, not blue common opal. A ring stone with vivid blue flashes is not Peruvian blue opal, whatever else it is.
-- **Imitation.** Usually glass or plastic. "Opalite" usually means a glass or plastic opal simulant (International Gem Society). See [opal vs opalite](/compare/opal-vs-opalite/).
-- **Trade names.** Andean opal is a trade name for greenish blue Peruvian opal (Gemdat).
+- **Natural, treated.** Blue opal may be impregnated with resin or polymer, not always disclosed at the low end of the market, and porous pieces can be dyed or stabilized like turquoise, one dealer guide adds. Opal in general can be treated with oil, wax, plastic, sugar and smoke.
+- **Lab-grown.** Synthetic opal is real opal grown in a lab, but the reports we found describe lab-grown precious opal, not blue common opal. A ring stone with vivid blue flashes is not Peruvian blue opal, whatever else it is.
+- **Imitation.** Usually glass or plastic. "Opalite" usually means a glass or plastic opal simulant. See [opal vs opalite](/compare/opal-vs-opalite/).
+- **Trade names.** Andean opal is a trade name for greenish blue Peruvian opal.
 
 Three checks you can do at home, with their limits.
 
-1. **Look for flashes.** Peruvian blue opal has none. Under strong magnification, lab-grown opal can show a mosaic, scaly or chicken-wire pattern (International Gem Society).
-2. **Look for bubbles and swirls.** They are typical of glass imitations (International Gem Society). This does not catch plastic or treated opal.
-3. **Look into the cracks.** Dyed opal shows color concentrated along fractures, according to Skyjems. Resin needs a lab.
+1. **Look for flashes.** Peruvian blue opal has none. Under strong magnification, lab-grown opal can show a mosaic, scaly or chicken-wire pattern.
+2. **Look for bubbles and swirls.** They are typical of glass imitations. This does not catch plastic or treated opal.
+3. **Look into the cracks.** Dyed opal shows color concentrated along fractures. Resin needs a lab.
 
 Ask the seller three things. Where was it mined? Has it been dyed, stabilized or filled with resin? Can I see it in daylight, not only in a photo? The [Label Decoder](/tools/crystal-label-decoder/) turns the name on a tag into what it usually means. When you shop, search for "Peruvian blue opal" or "Andean opal," since the bare name also catches opalite.
 
 ### Blue Opal or Blue Chalcedony?
 
-The mix-up runs both ways. A lab report in GIA's *Gems & Gemology* names blue opal as the imitation most likely to fool buyers of blue chalcedony at first glance ([GIA](https://www.gia.edu/gems-gemology/summer-2015-gemnews-blue-chalcedony-partially-filled-epoxy-resin)). The numbers separate them. Chalcedony rates 6.5 to 7 on the Mohs scale with a specific gravity of 2.58 to 2.62, opal 5 to 6.5 with 2.1 to 2.2 ([Geology.com](https://geology.com/gemstones/opal/common-opal.shtml)). A jeweler can test both, and our [blue chalcedony page](/stones/blue-chalcedony/) covers the other side.
+The mix-up runs both ways. A lab report in GIA's *Gems & Gemology* names blue opal as the imitation most likely to fool buyers of blue chalcedony at first glance. The numbers separate them. Chalcedony rates 6.5 to 7 on the Mohs scale with a specific gravity of 2.58 to 2.62, opal 5 to 6.5 with 2.1 to 2.2. A jeweler can test both, and our [blue chalcedony page](/stones/blue-chalcedony/) covers the other side.
 
 ### Blue Opal or Chrysocolla?
 
-Sometimes both. Chrysocolla is the copper mineral that colors blue opal, and it is often intergrown with quartz or opal. Pure chrysocolla is soft and fragile, according to the dealer guide at [Gemstones.com](https://www.gemstones.com/gemopedia/chrysocolla). The International Gem Society even calls opal that gets its blue from finely spread chrysocolla "chrysocolla opal."
+Sometimes both. Chrysocolla is the copper mineral that colors blue opal, and it is often intergrown with quartz or opal. Pure chrysocolla is soft and fragile. Opal that gets its blue from finely spread chrysocolla is even called "chrysocolla opal."
 
-There is no safe home test to tell them apart. Pure chrysocolla rates only 2 to 4 on the Mohs scale but can reach 7 when it is mixed with quartz, and its specific gravity of 2.00 to 2.40 overlaps opal's ([International Gem Society](https://www.gemsociety.org/article/chrysocolla-gemstone-information)). So neither a scratch test nor a weight test settles it, and a scratch can ruin either stone. A gemologist can usually separate them with a refractometer, since opal reads about 1.37 to 1.47 (GIA) and chrysocolla 1.575 to 1.635, though chrysocolla mixed with quartz may give quartz readings (International Gem Society).
+There is no safe home test to tell them apart. Pure chrysocolla rates only 2 to 4 on the Mohs scale but can reach 7 when it is mixed with quartz, and its specific gravity of 2.00 to 2.40 overlaps opal's. So neither a scratch test nor a weight test settles it, and a scratch can ruin either stone. A gemologist can usually separate them with a refractometer, since opal reads about 1.37 to 1.47 and chrysocolla 1.575 to 1.635, though chrysocolla mixed with quartz may give quartz readings.
 
 ## How to Care for Blue Opal
 
-**Mineral Fact.** Opal's toughness is very poor to fair, so it suits jewelry but needs care not to scratch or break it ([GIA](https://www.gia.edu/gems-gemology/opal-care-cleaning)). Kunz noted in 1913 that most opals slowly lose their water over the years (*The Curious Lore of Precious Stones*, page 146).
+**Mineral Fact.** Opal's toughness is very poor to fair, so it suits jewelry but needs care not to scratch or break it. Kunz noted in 1913 that most opals slowly lose their water over the years (*The Curious Lore of Precious Stones*, page 146).
 
 - **Water.** Brief only. Clean it with a soft damp cloth and dry it right away. Never soak it.
-- **Sun.** Avoid. Heat from intense light can cause fine surface cracks called crazing (GIA).
-- **Heat.** Avoid. High heat or sudden temperature changes can fracture opal (GIA).
-- **Chemicals.** Avoid. Hydrofluoric acid and caustic alkaline solutions attack opal (GIA), and Skyjems adds no ultrasonic cleaners, steam or harsh solvents.
+- **Sun.** Avoid. Heat from intense light can cause fine surface cracks called crazing.
+- **Heat.** Avoid. High heat or sudden temperature changes can fracture opal.
+- **Chemicals.** Avoid. Hydrofluoric acid and caustic alkaline solutions attack opal, and ultrasonic cleaners, steam and harsh solvents are out too.
 - **Salt.** Unknown. Skip it until there is solid data.
-- **Storage.** Protect it from knocks. For long storage, Skyjems suggests a slightly humid spot or a sealed box with a damp cloth. For rings, Geology.com prefers a bezel that surrounds the stone.
-- **Toxicity.** OK to wear and handle. The International Gem Society's [care guide](https://www.gemsociety.org/article/gemstone-care-guide/) rates opal's risk Low, with silicosis from cutting dust as the hazard.
+- **Storage.** Protect it from knocks. For long storage, one dealer suggests a slightly humid spot or a sealed box with a damp cloth. For rings, choose a bezel that surrounds the stone.
+- **Toxicity.** OK to wear and handle. Opal's toxicity risk is rated Low, with silicosis from cutting dust as the hazard.
 
 ### Can Blue Opal Go in Water?
 
-A wipe with a damp cloth, yes. A soak, no. Gemdat notes that clear blue opal can turn milky with time and be restored by limited immersion. That is a gem repair, not a cleansing ritual, so skip the guide that suggests two to three hours in distilled water.
+A wipe with a damp cloth, yes. A soak, no. Clear blue opal can turn milky with time and be restored by limited immersion. That is a gem repair, not a cleansing ritual, so skip the guide that suggests two to three hours in distilled water.
 
 ### Can You Charge Blue Opal in Sunlight or Moonlight?
 
@@ -196,12 +196,12 @@ Not in sunlight, which our care data rates Avoid. If moonlight is part of your r
 
 ## Price Guide
 
-Peruvian blue opal is affordable, and [Geology.com](https://geology.com/gemstones/opal/peruvian-opal.shtml) is surprised it is not more expensive. We found no current US shop listing for blue opal with a clear price and size, so this guide gives no figures yet. These are the things that move the price.
+Peruvian blue opal is affordable, and Geology.com is surprised it is not more expensive. We found no current US shop listing for blue opal with a clear price and size, so this guide gives no figures yet. These are the things that move the price.
 
-- **Color and translucency.** GIA's quality factors for opal are color, clarity, cut and carat weight ([GIA](https://www.gia.edu/opal/gem-overview)). Among Peruvian opals, gemmy, semi-translucent cabochons and faceted stones with a spectacular greenish blue to blue color sell for much higher prices than ordinary beads (Geology.com).
-- **Treatment.** Vendors may treat low-quality opal to improve its looks and raise its price, and every enhancement should be disclosed before a sale (International Gem Society).
-- **Origin.** Oregon blue opal is scarcer than Peruvian and sells higher per carat in gem quality, according to Skyjems.
-- **Form.** Peruvian opal is seen in the market as beads, cabochons and tumbled stones (Geology.com), so compare like with like.
+- **Color and translucency.** The quality factors for opal are color, clarity, cut and carat weight. Among Peruvian opals, gemmy, semi-translucent cabochons and faceted stones with a spectacular greenish blue to blue color sell for much higher prices than ordinary beads.
+- **Treatment.** Vendors may treat low-quality opal to improve its looks and raise its price, and every enhancement should be disclosed before a sale.
+- **Origin.** Oregon blue opal is scarcer than Peruvian and sells higher per carat in gem quality, according to one dealer.
+- **Form.** Peruvian opal is seen in the market as beads, cabochons and tumbled stones, so compare like with like.
 
 **Next Step.** Choosing a stone for nerves? Compare the usual picks in [crystals for anxiety](/crystals-for/anxiety/).
 
@@ -220,4 +220,4 @@ Peruvian blue opal is affordable, and [Geology.com](https://geology.com/gemstone
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

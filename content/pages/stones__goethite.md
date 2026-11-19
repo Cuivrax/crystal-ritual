@@ -47,7 +47,7 @@ Goethite, pronounced GUR-tite, is a common brown iron mineral, an iron oxyhydrox
 | Fact | Goethite |
 |---|---|
 | What it is | An iron oxyhydroxide mineral. Goethite is an approved species on the IMA List of Minerals |
-| Say it | GUR-tite (Merriam-Webster gives ˈgər-ˌtīt) |
+| Say it | GUR-tite (dictionary respelling ˈgər-ˌtīt) |
 | Formula | α-FeO(OH) |
 | Mohs hardness | 5 to 5.5 |
 | Specific gravity | 4.28 measured, 4.18 calculated |
@@ -75,50 +75,50 @@ Goethite, pronounced GUR-tite, is a common brown iron mineral, an iron oxyhydrox
 
 ## What Goethite Actually Is
 
-**The Stone.** Goethite is "a widespread iron oxide mineral," with the formula α-FeO(OH), in the words of [Encyclopaedia Britannica](https://www.britannica.com/science/goethite). [Merriam-Webster](https://www.merriam-webster.com/dictionary/goethite) calls it a common brown mineral of iron, hydrogen and oxygen and the most common component of many forms of natural rust. It is used as an ore of iron ([minerals.net](https://www.minerals.net/mineral/goethite)).
+**The Stone.** Goethite is a widespread iron oxide mineral, with the formula α-FeO(OH). It is a common brown mineral of iron, hydrogen and oxygen and the most common component of many forms of natural rust. It is used as an ore of iron.
 
-The [Handbook of Mineralogy](https://www.handbookofmineralogy.org/pdfs/goethite.pdf) gives the details. Goethite is orthorhombic, 5 to 5.5 on the Mohs scale, with a measured density of 4.28. It has one perfect cleavage, an uneven fracture and a brittle tenacity. It shares its formula with two other minerals, feroxyhyte and [lepidocrocite](/stones/lepidocrocite/) (Handbook), and Britannica explains that lepidocrocite differs in how its atoms are packed.
+Goethite is orthorhombic, 5 to 5.5 on the Mohs scale, with a measured density of 4.28. It has one perfect cleavage, an uneven fracture and a brittle tenacity. It shares its formula with two other minerals, feroxyhyte and [lepidocrocite](/stones/lepidocrocite/), and lepidocrocite differs in how its atoms are packed.
 
 Most goethite is plain. Minerals.net calls it "usually a dark, uninteresting mineral," though pieces from a handful of places, especially Colorado, are remarkable for delicate crystals and velvety, grape-like growths.
 
 ### How Do You Pronounce Goethite?
 
-Say GUR-tite. Merriam-Webster gives ˈgər-ˌtīt and traces the word to the German Göthit, after J. W. von Goethe, with a first known use in English around 1823. The German spelling Göthit shows the ö that "oe" stands for in Goethe's name, so it is not said as two vowels.
+Say GUR-tite. The dictionary respelling is ˈgər-ˌtīt, and the word comes from the German Göthit, after J. W. von Goethe, with a first known use in English around 1823. The German spelling Göthit shows the ö that "oe" stands for in Goethe's name, so it is not said as two vowels.
 
 ### Where Goethite Forms
 
-Wherever iron meets air and water. The Handbook calls goethite a common weathering product of many iron-bearing minerals in oxygenated environments and an important part of the ore in weathered iron deposits. It also settles straight out of iron-rich water in hydrothermal, marine and bog settings. Britannica adds that deposits build up in springs and marshes, and names major ones in the southern Appalachians, Brazil, South Africa, Russia, Australia, Cuba and the Alsace-Lorraine basin in France.
+Wherever iron meets air and water. Goethite is a common weathering product of many iron-bearing minerals in oxygenated environments and an important part of the ore in weathered iron deposits. It also settles straight out of iron-rich water in hydrothermal, marine and bog settings. Deposits build up in springs and marshes, and major ones lie in the southern Appalachians, Brazil, South Africa, Russia, Australia, Cuba and the Alsace-Lorraine basin in France.
 
-That is also how goethite takes other minerals' shapes. It commonly forms pseudomorphs, keeping the outline of the crystal it replaced, especially marcasite, pyrite, siderite and gypsum (minerals.net). The brown cubes in the photo above are goethite in the shape of pyrite.
+That is also how goethite takes other minerals' shapes. It commonly forms pseudomorphs, keeping the outline of the crystal it replaced, especially marcasite, pyrite, siderite and gypsum. The brown cubes in the photo above are goethite in the shape of pyrite.
 
 ### Goethite Crystals & Iridescent Goethite
 
-True crystals are prismatic and striated and can reach about 18 inches (45 cm), but goethite more often grows as hair-thin to needle-like crystals in spreading sprays, or as kidney-shaped, grape-like or stalactite masses with a radiating fibrous inside (Handbook of Mineralogy). Minerals.net adds black sprays inside geodes on drusy quartz.
+True crystals are prismatic and striated and can reach about 18 inches (45 cm), but goethite more often grows as hair-thin to needle-like crystals in spreading sprays, or as kidney-shaped, grape-like or stalactite masses with a radiating fibrous inside. It also forms black sprays inside geodes on drusy quartz.
 
-Collectors chase a few places. Minerals.net singles out needle crystals with a sharp luster from Crystal Peak and Lake George in Colorado, pseudomorphs after pyrite from Pelican Point, Utah, grape-like forms from Bisbee, Arizona, and branching stalactites with bright vanadinite from Taouz, Morocco. The Handbook adds exceptional crystals from the Restormel and Botallack mines in Cornwall.
+Collectors chase a few places. The standouts are needle crystals with a sharp luster from Crystal Peak and Lake George in Colorado, pseudomorphs after pyrite from Pelican Point, Utah, grape-like forms from Bisbee, Arizona, and branching stalactites with bright vanadinite from Taouz, Morocco. Cornwall adds exceptional crystals from the Restormel and Botallack mines.
 
-Iridescent goethite is the showpiece. Minerals.net lists highly iridescent goethite from Graves Mountain, Georgia, and Tharsis, Spain, and a rainbow-like coating on sandstone from Leighton Buzzard, England. A less common name, turgite, covers iridescent goethite mixed with hematite.
+Iridescent goethite is the showpiece. Highly iridescent pieces come from Graves Mountain, Georgia, and Tharsis, Spain, and a rainbow-like coating on sandstone from Leighton Buzzard, England. A less common name, turgite, covers iridescent goethite mixed with hematite.
 
 ### Goethite & Limonite
 
-Limonite is not a neat crystal species. Minerals.net says it "lacks definitive crystal structure," and the Handbook describes goethite as nearly cryptocrystalline in "limonite." Britannica puts it simply, "upon hydration, goethite becomes limonite." The jeweler [Skyjems](https://skyjems.ca/pages/encyclopedia-goethite-included-quartz) calls limonite a field term for a mix of iron oxyhydroxides in which goethite usually dominates. So a rusty, earthy lump labeled limonite is very often goethite under a looser name. See [limonite](/stones/limonite/).
+Limonite is not a neat crystal species. It lacks a definitive crystal structure, and goethite is nearly cryptocrystalline in "limonite." Put simply, upon hydration, goethite becomes limonite. One jeweler calls limonite a field term for a mix of iron oxyhydroxides in which goethite usually dominates. So a rusty, earthy lump labeled limonite is very often goethite under a looser name. See [limonite](/stones/limonite/).
 
 ### Is Goethite Magnetic?
 
-Minerals.net's one magnetic note is that goethite "will become attracted to magnetic fields upon heating." Heat also changes what it is, because "when dehydrated, goethite forms hematite" (Britannica). For an iron mineral that grabs a fridge magnet as it is, see [magnetite](/stones/magnetite/).
+Goethite will become attracted to magnetic fields upon heating. Heat also changes what it is, because when dehydrated, goethite forms hematite. For an iron mineral that grabs a fridge magnet as it is, see [magnetite](/stones/magnetite/).
 
 ### Goethite Inside Other Stones
 
-Goethite hides in many better-known stones. Thin plates of goethite are among the inclusions that make some sunstone glitter ([Geology.com](https://geology.com/gemstones/sunstone/)). Skyjems describes golden to reddish brown goethite needles in quartz and warns that they are easily confused with rutile, so some stones sold as [rutilated quartz](/stones/rutilated-quartz/) hold goethite instead.
+Goethite hides in many better-known stones. Thin plates of goethite are among the inclusions that make some sunstone glitter. One jeweler describes golden to reddish brown goethite needles in quartz and warns that they are easily confused with rutile, so some stones sold as [rutilated quartz](/stones/rutilated-quartz/) hold goethite instead.
 
 ## Where the Meaning Comes From
 
 **The Story.** Goethite has no ancient lore under its own name, because the name is only about two centuries old. Kunz's books on gem lore never mention it. Its story is about pigment, a poet and a lot of rust.
 
-- **Pigment.** **Mineral Fact.** "Goethite is the source for the pigment known as yellow ochre," says Britannica, and when goethite is dehydrated it becomes hematite, the red iron oxide.
-- **Ancient Phrygia.** **Tradition.** One gem dealer, [Gem Rock Auctions](https://www.gemrockauctions.com/learn/a-z-of-gemstones/goethite), retells a theory that a royal tomb thought to be that of King Gordias, father of Midas, held a burial shroud dyed with goethite, and that gold-looking cloth like it lies behind the legend of the Midas touch. Treat it as a theory retold by a seller.
-- **1749 to 1832.** **Tradition.** Johann Wolfgang von Goethe, the German poet, dramatist and philosopher (Handbook of Mineralogy), was also a "mineral enthusiast" (minerals.net) and, as Britannica puts it, keenly interested in minerals. He wrote about stones too. Kunz reprints Goethe's verse that "Carnelian is a talisman, It brings good luck to child and man" (*The Curious Lore of Precious Stones*, 1913, pages 62 to 63).
-- **1806.** The mineral is named for Goethe (Britannica). Gem Rock Auctions credits the German mineralogist Johann Georg Lenz with naming it, from samples found in Herdorf, Germany. Britannica adds a twist, that the name was originally applied to lepidocrocite, the mineral with the same formula and a different structure. The word reached English around 1823 (Merriam-Webster).
+- **Pigment.** **Mineral Fact.** Goethite is the source for the pigment known as yellow ochre, and when goethite is dehydrated it becomes hematite, the red iron oxide.
+- **Ancient Phrygia.** **Tradition.** One gem dealer retells a theory that a royal tomb thought to be that of King Gordias, father of Midas, held a burial shroud dyed with goethite, and that gold-looking cloth like it lies behind the legend of the Midas touch. Treat it as a theory retold by a seller.
+- **1749 to 1832.** **Tradition.** Johann Wolfgang von Goethe, the German poet, dramatist and philosopher, was also a keen mineral enthusiast. He wrote about stones too. Kunz reprints Goethe's verse that "Carnelian is a talisman, It brings good luck to child and man" (*The Curious Lore of Precious Stones*, 1913, pages 62 to 63).
+- **1806.** The mineral is named for Goethe. The same dealer credits the German mineralogist Johann Georg Lenz with naming it, from samples found in Herdorf, Germany. There is a twist, since the name was originally applied to lepidocrocite, the mineral with the same formula and a different structure. The word reached English around 1823.
 - **Today.** **Modern Association.** Grounding, the root chakra, and creativity for writers and artists.
 
 ## What People Use Goethite for Today
@@ -160,30 +160,30 @@ Some pages go much further, promising stronger bones, relief from anemia, joint 
 We use the same five labels on every stone. Goethite is a common mineral, and mineral references describe no fakes.
 
 - **Natural, untreated.** Almost every specimen you will see.
-- **Natural, treated.** No reference describes treated goethite specimens. Heat is not a quiet treatment here, since dehydrated goethite becomes hematite (Britannica).
+- **Natural, treated.** No reference describes treated goethite specimens. Heat is not a quiet treatment here, since dehydrated goethite becomes hematite.
 - **Lab-grown.** No reference describes lab-grown goethite sold to collectors.
 - **Imitation.** None described in mineral references.
-- **Trade names.** "Limonite" is a looser name for earthy iron oxyhydroxides that are often mostly goethite. "Turgite" means iridescent goethite mixed with hematite (minerals.net). Goethite needles in quartz may be sold as rutilated quartz (Skyjems).
+- **Trade names.** "Limonite" is a looser name for earthy iron oxyhydroxides that are often mostly goethite. "Turgite" means iridescent goethite mixed with hematite. Goethite needles in quartz may be sold as rutilated quartz.
 
 ### Three Checks, With Their Limits
 
-1. **Do a streak test.** Goethite streaks brownish yellow, yellow-orange or ocher yellow (Handbook of Mineralogy). Hematite streaks reddish brown (minerals.net). The limit is that the test marks the specimen and cannot tell goethite from limonite, so use a hidden spot or skip it on a fine piece.
-2. **Feel the weight.** Hematite is heavier and usually more metallic looking (minerals.net). It is a hint that takes a known piece to compare.
-3. **Look at the habit.** Velvety needle sprays, grape-like crusts and brown cubes in the shape of pyrite are typical goethite (minerals.net). The limit is that other iron minerals grow in similar forms.
+1. **Do a streak test.** Goethite streaks brownish yellow, yellow-orange or ocher yellow. Hematite streaks reddish brown. The limit is that the test marks the specimen and cannot tell goethite from limonite, so use a hidden spot or skip it on a fine piece.
+2. **Feel the weight.** Hematite is heavier and usually more metallic looking. It is a hint that takes a known piece to compare.
+3. **Look at the habit.** Velvety needle sprays, grape-like crusts and brown cubes in the shape of pyrite are typical goethite. The limit is that other iron minerals grow in similar forms.
 
 Ask the seller two questions. Is this goethite, limonite or hematite, and how was that identified? Where was it collected?
 
 ## How to Care for Goethite
 
-**Mineral Fact.** Goethite is 5 to 5.5 on the Mohs scale, brittle, with one perfect cleavage (Handbook of Mineralogy), and its needle sprays and crusts are delicate. No care guide rates it yet, so every care field in the Care Checker reads Unknown.
+**Mineral Fact.** Goethite is 5 to 5.5 on the Mohs scale, brittle, with one perfect cleavage, and its needle sprays and crusts are delicate. No care guide rates it yet, so every care field in the Care Checker reads Unknown.
 
 - **Water, soaking and cleaning.** Unknown. Crystal guides disagree, with one seller calling it water safe for brief rituals and others saying never to soak or rinse earthy or needle-like pieces. No mineral reference covers it, so this page gives no rating and leaves the question open.
 - **Sun.** Unknown.
-- **Heat.** Unknown. As mineral facts, dehydrated goethite becomes hematite (Britannica) and heated goethite turns magnetic (minerals.net), so heat changes the mineral itself.
+- **Heat.** Unknown. As mineral facts, dehydrated goethite becomes hematite and heated goethite turns magnetic, so heat changes the mineral itself.
 - **Salt.** Unknown.
-- **Chemicals.** Unknown. One seller, Gem Rock Auctions, warns that hydrochloric acid dissolves goethite. That is one seller's warning, not a tested rating.
+- **Chemicals.** Unknown. One seller warns that hydrochloric acid dissolves goethite. That is one seller's warning, not a tested rating.
 - **Toxicity.** Unknown. No reference rates goethite for handling, so treat it like any unrated mineral specimen. Wash your hands afterward and keep it away from children and pets.
-- **Scratches and storage.** Unknown. No reference gives storage advice. As mineral facts, goethite is brittle with one perfect cleavage (Handbook of Mineralogy), and needle sprays and crusts are delicate, so handle a specimen by its base, not its needles.
+- **Scratches and storage.** Unknown. No reference gives storage advice. As mineral facts, goethite is brittle with one perfect cleavage, and needle sprays and crusts are delicate, so handle a specimen by its base, not its needles.
 
 ### Can Goethite Go in Water?
 
@@ -191,23 +191,23 @@ No reference answers it. Water, salt and soaking are all rated Unknown for goeth
 
 ## Goethite vs Look-Alikes
 
-- **Hematite.** Reddish brown streak, heavier and usually more metallic (minerals.net). Dried-out goethite becomes hematite. See [hematite](/stones/hematite/).
-- **Limonite.** Earthy iron oxyhydroxide with no definite crystal structure, often mostly goethite (minerals.net, Skyjems).
-- **Lepidocrocite.** Same formula, different structure (Britannica).
+- **Hematite.** Reddish brown streak, heavier and usually more metallic. Dried-out goethite becomes hematite. See [hematite](/stones/hematite/).
+- **Limonite.** Earthy iron oxyhydroxide with no definite crystal structure, often mostly goethite.
+- **Lepidocrocite.** Same formula, different structure.
 - **Magnetite.** The strongly magnetic iron oxide. See [magnetite](/stones/magnetite/).
-- **Pyrite.** Brown cubes that keep pyrite's shape are often goethite that replaced it (minerals.net).
+- **Pyrite.** Brown cubes that keep pyrite's shape are often goethite that replaced it.
 
 ## Price Guide
 
-Goethite is a common mineral and an iron ore, and minerals.net notes that collection-worthy specimens are less common. Plain brown masses are everyday material. Gem and mineral references do not price goethite, so the list below covers what collectors look for instead.
+Goethite is a common mineral and an iron ore, and collection-worthy specimens are less common. Plain brown masses are everyday material. Gem and mineral references do not price goethite, so the list below covers what collectors look for instead.
 
 What sets one specimen apart for collectors, and so what a price would follow.
 
-- **Crystal form.** Minerals.net calls most goethite "usually a dark, uninteresting mineral," so delicate acicular crystals, velvety sprays and grape-like growths are what collectors single out.
-- **Locality.** It names the lustrous needles of Crystal Peak and Lake George in Colorado, the grape-like forms of Bisbee, Arizona, and the stalactites of Taouz, Morocco.
-- **Iridescence.** It lists highly iridescent goethite from Graves Mountain, Georgia, and Tharsis, Spain.
-- **Pseudomorphs.** Clean brown cubes that keep the shape of pyrite, such as those from Pelican Point, Utah, are another collector favorite (minerals.net).
-- **Condition.** The Handbook of Mineralogy calls goethite brittle, with one perfect cleavage, so look closely at needle sprays and crusts for breaks before you buy.
+- **Crystal form.** Plain goethite is usually a dark, uninteresting mineral, so delicate acicular crystals, velvety sprays and grape-like growths are what collectors single out.
+- **Locality.** The lustrous needles of Crystal Peak and Lake George in Colorado, the grape-like forms of Bisbee, Arizona, and the stalactites of Taouz, Morocco, stand out.
+- **Iridescence.** Highly iridescent goethite comes from Graves Mountain, Georgia, and Tharsis, Spain.
+- **Pseudomorphs.** Clean brown cubes that keep the shape of pyrite, such as those from Pelican Point, Utah, are another collector favorite.
+- **Condition.** Goethite is brittle, with one perfect cleavage, so look closely at needle sprays and crusts for breaks before you buy.
 
 **Next Step.** Looking for a stone to keep by the door for a steadier start to the day? Compare the usual picks in [crystals for grounding](/crystals-for/grounding/).
 
@@ -221,10 +221,10 @@ What sets one specimen apart for collectors, and so what a price would follow.
 - IMA List of Minerals, July 2026 edition, from the official site of the [IMA Commission on New Minerals, Nomenclature and Classification](https://cnmnc.units.it/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 62 to 63, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
 - Álex Escolà-Gascón and colleagues, *CNS Spectrums* (2025), [doi.org/10.1017/S1092852925100515](https://doi.org/10.1017/S1092852925100515)
-- Dealer and jeweler guides on goethite, linked in the text above
+- Dealer and jeweler guides on goethite
 - [988 Suicide & Crisis Lifeline](https://988lifeline.org/)
 - Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*

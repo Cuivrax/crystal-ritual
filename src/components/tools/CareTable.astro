@@ -3,6 +3,7 @@
 // with the Care Checker's labels and reasons. No source column here (owner's request, 2026-11-19), the sources
 // for each rating are on the stone's card in the Care Checker and in the page's Sources list.
 import care from '../../data/care.json';
+import plain from '../../data/care_plain.json';
 import { getSite } from '../../lib/site.mjs';
 import { policy } from '../../lib/render.mjs';
 import { RATINGS, esc } from '../../lib/ui.mjs';
@@ -12,7 +13,8 @@ const rows = [...care.stones].sort((a, b) => a.name.localeCompare(b.name)).map((
   const cell = (f) => {
     const c = s.care?.[f] || { rating: 'unknown' };
     const r = RATINGS[c.rating] ? c.rating : 'unknown';
-    return { r, short: c.short || c.reason || '', sources: (c.sources || []).filter((u) => policy.isReferenceUrl(u)), guide: (c.sources || []).length > 0 && !(c.sources || []).some((u) => policy.isReferenceUrl(u)) };
+    const short = c.short || c.reason || '';
+    return { r, short: plain[short] || short, sources: (c.sources || []).filter((u) => policy.isReferenceUrl(u)), guide: (c.sources || []).length > 0 && !(c.sources || []).some((u) => policy.isReferenceUrl(u)) };
   };
   const rinse = cell('water');
   const soak = cell('soak');

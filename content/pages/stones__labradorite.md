@@ -63,7 +63,7 @@ Labradorite is a plagioclase feldspar known for labradorescence, a flash of blue
 | Knocks | Avoid. Perfect cleavage makes it prone to breaking |
 | Toxic to handle | None known |
 | Trade names | Spectrolite, rainbow moonstone, some Oregon Sunstone, blue granite |
-| Common fakes | None described in gem references. Stones with flash have no known treatments (IGS) |
+| Common fakes | None described in gem references. Stones with flash have no known treatments |
 | Price range | Set mostly by the flash (see Price Guide) |
 | Birthstone | Not on the modern list |
 | Chakra (Modern Association) | Throat and third eye most often, sometimes crown |
@@ -72,39 +72,39 @@ Labradorite is a plagioclase feldspar known for labradorescence, a flash of blue
 
 ## What Labradorite Actually Is
 
-**The Stone.** Labradorite is a feldspar of the plagioclase series. [Geology.com](https://geology.com/gemstones/labradorite/) describes it as most often found in mafic igneous rocks such as basalt, gabbro and norite, and as the main mineral of a rock called anorthosite. Its formula, (Na,Ca)(Al,Si)₄O₈, carries about 30 to 50 percent sodium and 70 to 50 percent calcium (Geology.com).
+**The Stone.** Labradorite is a feldspar of the plagioclase series. It is most often found in mafic igneous rocks such as basalt, gabbro and norite, and it is the main mineral of a rock called anorthosite. Its formula, (Na,Ca)(Al,Si)₄O₈, carries about 30 to 50 percent sodium and 70 to 50 percent calcium.
 
-That makes labradorite less a single mineral than a stretch of a series, and the IMA List of Minerals does not give it a species entry of its own. Without a visible flash, telling it from other plagioclase takes X-ray diffraction, chemical analysis, optical tests or specific gravity on pure specimens (Geology.com).
+That makes labradorite less a single mineral than a stretch of a series, and the IMA List of Minerals does not give it a species entry of its own. Without a visible flash, telling it from other plagioclase takes X-ray diffraction, chemical analysis, optical tests or specific gravity on pure specimens.
 
 ### What Causes the Flash?
 
-Labradorescence is not a surface shine. Light enters the stone, strikes a twinning surface inside it and reflects back, and different surfaces reflect different colors (Geology.com). A 2025 review in GIA's journal [Gems & Gemology](https://www.gia.edu/gems-gemology/summer-2025-phenomenal-gemstones) traces the color to alternating layers of calcium-rich and sodium-rich feldspar, far too thin to see, known as the Bøggild intergrowth. The color tracks how thick the layers are, and a pair of layers about 150 nanometers thick in total gives blue. The [International Gem Society](https://www.gemsociety.org/article/labradorite-jewelry-and-gemstone-information/) calls the color play "iridescent like the feathers of a peacock," in blue, green, gold, yellow and purple.
+Labradorescence is not a surface shine. Light enters the stone, strikes a twinning surface inside it and reflects back, and different surfaces reflect different colors. A 2025 gemological review traces the color to alternating layers of calcium-rich and sodium-rich feldspar, far too thin to see, known as the Bøggild intergrowth. The color tracks how thick the layers are, and a pair of layers about 150 nanometers thick in total gives blue. The International Gem Society calls the color play "iridescent like the feathers of a peacock," in blue, green, gold, yellow and purple.
 
-Not every labradorite flashes. Geology.com says labradorite is the only plagioclase with strong labradorescence, yet many specimens show none. The GIA review says iridescent labradorite forms in plutonic rocks, those that crystallized deep underground, that cooled extremely slowly or went through high-grade metamorphism, which may be why some stones never grew the layers.
+Not every labradorite flashes. Labradorite is the only plagioclase with strong labradorescence, yet many specimens show none. Iridescent labradorite forms in plutonic rocks, those that crystallized deep underground, that cooled extremely slowly or went through high-grade metamorphism, which may be why some stones never grew the layers.
 
 ### Why Is My Labradorite's Flash Weak or Off-Center?
 
-It is usually normal. The quality of the flash varies from stone to stone and even within one stone (Geology.com). Cutting matters too. The flash shows best when the flat back of a cabochon runs parallel to the layers inside, and a stone cut at another angle shows its flash off to one side (Geology.com). A dull, gray-looking piece is not a fake for that reason alone.
+It is usually normal. The quality of the flash varies from stone to stone and even within one stone. Cutting matters too. The flash shows best when the flat back of a cabochon runs parallel to the layers inside, and a stone cut at another angle shows its flash off to one side. A dull, gray-looking piece is not a fake for that reason alone.
 
 ### Where Labradorite Comes From
 
-Labradorite is named for where it was found, the Isle of Paul near Nain in Labrador, Canada, where a Moravian missionary came across it in 1770 (Geology.com). The International Gem Society notes that crystals there reach 2 feet long but are badly cracked.
+Labradorite is named for where it was found, the Isle of Paul near Nain in Labrador, Canada, where a Moravian missionary came across it in 1770. Crystals there reach 2 feet long but are badly cracked.
 
-- **Finland.** A few deposits give superb flash, and the best was named spectrolite (Geology.com).
-- **Madagascar and Russia.** Much of the gray to black labradorite with good flash (Geology.com).
-- **India.** Small amounts of transparent stones with an inner flash (Geology.com).
-- **Oregon.** Transparent orange, yellow, red, green and clear labradorite with no labradorescence. Some holds aligned copper platelets and sells as Oregon Sunstone (Geology.com).
+- **Finland.** A few deposits give superb flash, and the best was named spectrolite.
+- **Madagascar and Russia.** Much of the gray to black labradorite with good flash.
+- **India.** Small amounts of transparent stones with an inner flash.
+- **Oregon.** Transparent orange, yellow, red, green and clear labradorite with no labradorescence. Some holds aligned copper platelets and sells as Oregon Sunstone.
 
-Labradorite also sparkles on buildings. Anorthosite rich in labradorite is cut into countertops, tiles and facing stone sold as "blue granite," and a building faced with it glitters when the sun hits at the right angle (Geology.com).
+Labradorite also sparkles on buildings. Anorthosite rich in labradorite is cut into countertops, tiles and facing stone sold as "blue granite," and a building faced with it glitters when the sun hits at the right angle.
 
 ## Where the Meaning Comes From
 
 **The Story.** Labradorite has no ancient or medieval lore. It does not appear in either of Kunz's books on gem lore (1913 and 1915), which makes sense for a stone first found by a missionary in 1770. What it has is a modern story, a scientific puzzle and a trade name or two.
 
-- **1770, Labrador.** A Moravian missionary finds the stone on the Isle of Paul near Nain, and it takes its name from the region (Geology.com).
-- **1920s.** Scientists take up the flash. The 2025 *Gems & Gemology* review cites a 1923 paper by the physicist Robert Strutt, fourth Baron Rayleigh, in its discussion of iridescent feldspar, and it cites Bøggild's 1924 work on how the layers lie, layers now known as the Bøggild intergrowth.
-- **Finland.** The best labradorite from a few Finnish deposits was given the name spectrolite by the director of the Geological Survey of Finland (Geology.com).
-- **1960s, India.** Rainbow moonstone, a milky labradorite with a blue or multicolored sheen that JCK traces to southern India, was mislabeled "water opal" when first reported ([JCK](https://www.jckonline.com/magazine-article/labradorites-blue-rainbow-moonstone/)).
+- **1770, Labrador.** A Moravian missionary finds the stone on the Isle of Paul near Nain, and it takes its name from the region.
+- **1920s.** Scientists take up the flash. The 2025 review cites a 1923 paper by the physicist Robert Strutt, fourth Baron Rayleigh, in its discussion of iridescent feldspar, and it cites Bøggild's 1924 work on how the layers lie, layers now known as the Bøggild intergrowth.
+- **Finland.** The best labradorite from a few Finnish deposits was given the name spectrolite by the director of the Geological Survey of Finland.
+- **1960s, India.** Rainbow moonstone, a milky labradorite with a blue or multicolored sheen traced to southern India, was mislabeled "water opal" when first reported.
 - **Today.** **Modern Association.** Protection, intuition and transformation lead, with nicknames like "Stone of Magic" and "frozen northern lights." These associations come from modern crystal books and seller guides.
 
 ### Is the Inuit Northern Lights Legend Real?
@@ -123,7 +123,7 @@ Guides agree less on the details. The throat and third eye chakras come up most,
 
 ### What Does Labradorite Do?
 
-As a mineral, labradorite reflects light from layers inside it. Its uses are cabochons, custom jewelry and polished building stone (Geology.com). Everything else is belief about the person holding it.
+As a mineral, labradorite reflects light from layers inside it. Its uses are cabochons, custom jewelry and polished building stone. Everything else is belief about the person holding it.
 
 Some guides go further and list blood pressure, rheumatism, gout, period pain, breathing or immunity. Nothing in the mineral sources behind this page supports those claims, and one crystal seller says plainly that labradorite "doesn't replace medical or mental-health support."
 
@@ -157,27 +157,27 @@ Some guides go further and list blood pressure, rheumatism, gout, period pain, b
 
 We use the same five labels on every stone. Gem references say little about labradorite fakes.
 
-- **Natural, untreated.** Most labradorite you will see. The International Gem Society's [treatment guide](https://www.gemsociety.org/article/common-gemstone-treatments-cheat-sheet-2/) says labradorite that shows labradorescence has no known treatments, and JCK reports no enhancements to alter the color or clarity of the milky "rainbow moonstone" type.
-- **Natural, treated.** The same guide notes that transparent feldspars may be heated or diffusion treated, and the IGS labradorite entry lists lattice diffusion as a typical treatment. We found no reference source on coated or dyed labradorite sold in the US.
+- **Natural, untreated.** Most labradorite you will see. Labradorite that shows labradorescence has no known treatments, and no enhancements are reported to alter the color or clarity of the milky "rainbow moonstone" type.
+- **Natural, treated.** Transparent feldspars may be heated or diffusion treated, and lattice diffusion is listed as a typical treatment for labradorite. We found no reference source on coated or dyed labradorite sold in the US.
 - **Lab-grown.** We found no reference source describing lab-grown labradorite.
 - **Imitation.** The same goes for glass or other materials sold as labradorite.
-- **Trade names.** Spectrolite is fine labradorite, rainbow moonstone is milky labradorite, much Oregon Sunstone is labradorite, and "blue granite" is anorthosite rich in labradorite (Geology.com, JCK). None of these is a fake.
+- **Trade names.** Spectrolite is fine labradorite, rainbow moonstone is milky labradorite, much Oregon Sunstone is labradorite, and "blue granite" is anorthosite rich in labradorite. None of these is a fake.
 
 Three checks you can do at home, with their limits.
 
-1. **Tilt it under one light.** The flash should switch on and off with the angle and come from inside the stone (Geology.com). The limit is that real stones can show little or no flash.
-2. **Look for straight lines.** Plagioclase often shows twinning as fine parallel lines or striations (Geology.com). A loupe helps. This hints at feldspar, it does not prove labradorite.
-3. **Look at any chip.** Labradorite breaks along two flat cleavage directions (Geology.com). Never chip a stone to test it.
+1. **Tilt it under one light.** The flash should switch on and off with the angle and come from inside the stone. The limit is that real stones can show little or no flash.
+2. **Look for straight lines.** Plagioclase often shows twinning as fine parallel lines or striations. A loupe helps. This hints at feldspar, it does not prove labradorite.
+3. **Look at any chip.** Labradorite breaks along two flat cleavage directions. Never chip a stone to test it.
 
 Three questions to ask the seller. Is the color natural, with no coating? Where was it mined? Is this labradorite, or a rock like larvikite? The [Label Decoder](/tools/crystal-label-decoder/) turns the words on a tag into what they usually mean.
 
 ## How to Care for Labradorite
 
-**Mineral Fact.** At 6 to 6.5 on the Mohs scale, labradorite scratches more easily than agate and jasper, and its two directions of perfect cleavage make it prone to breaking on impact. Geology.com calls it a poor choice for jewelry that takes knocks, and the International Gem Society says the cleavage "is always worth minding."
+**Mineral Fact.** At 6 to 6.5 on the Mohs scale, labradorite scratches more easily than agate and jasper, and its two directions of perfect cleavage make it prone to breaking on impact. It is a poor choice for jewelry that takes knocks, and in the International Gem Society's words, the cleavage "is always worth minding."
 
 - **Water, sun, heat, chemicals and salt.** Unknown. We found no reference source that covers them for labradorite yet.
 - **Knocks and storage.** Avoid knocks. That makes pendants and earrings a safer choice than rings, and since it scratches more easily than agate, store it apart from quartz-family stones.
-- **Toxicity.** OK to wear and handle. The International Gem Society toxicity table lists none known ([IGS care guide](https://www.gemsociety.org/article/gemstone-care-guide/)).
+- **Toxicity.** OK to wear and handle, with no known toxicity.
 
 ### Can Labradorite Go in Water or Salt?
 
@@ -185,15 +185,15 @@ Our data cannot clear it yet. Guides split. One cleans it with lukewarm water an
 
 ## Labradorite vs Look-Alikes
 
-- **Rainbow moonstone.** It is labradorite. The International Gem Society calls rainbow moonstones "technically a variety of labradorite," and GIA's lab reports them as labradorite known in the trade as rainbow moonstone (JCK). It looks milky because it lacks the ilmenite that turns Labrador and Finnish material dark gray (JCK). See [rainbow moonstone](/stones/rainbow-moonstone/).
-- **Moonstone.** True moonstone is orthoclase feldspar with a soft blue or white glow called adularescence, while labradorite flashes in many colors (JCK, [IGS](https://www.gemsociety.org/article/moonstone-jewelry-gem-information/)). Compare them in [moonstone vs labradorite](/compare/moonstone-vs-labradorite/).
-- **Spectrolite.** The name for the finest Finnish labradorite, now used loosely for exceptional stones from elsewhere (Geology.com). See [spectrolite vs labradorite](/compare/spectrolite-vs-labradorite/).
-- **Larvikite.** A feldspar-rich Norwegian rock, a monzonite, with a blue sheen and silver tones when polished, sold as "Norwegian Pearl Granite" or "Royal Blue Pearl Granite," according to the dealer guide at [Gemstones.com](https://www.gemstones.com/gemopedia/larvikite). It is a rock, not labradorite.
-- **Sunstone.** Some sunstone is labradorite with copper platelets that glitter, which is a different effect from the color flash (Geology.com).
+- **Rainbow moonstone.** It is labradorite. The International Gem Society calls rainbow moonstones "technically a variety of labradorite," and GIA's lab reports them as labradorite known in the trade as rainbow moonstone. It looks milky because it lacks the ilmenite that turns Labrador and Finnish material dark gray. See [rainbow moonstone](/stones/rainbow-moonstone/).
+- **Moonstone.** True moonstone is orthoclase feldspar with a soft blue or white glow called adularescence, while labradorite flashes in many colors. Compare them in [moonstone vs labradorite](/compare/moonstone-vs-labradorite/).
+- **Spectrolite.** The name for the finest Finnish labradorite, now used loosely for exceptional stones from elsewhere. See [spectrolite vs labradorite](/compare/spectrolite-vs-labradorite/).
+- **Larvikite.** A feldspar-rich Norwegian rock, a monzonite, with a blue sheen and silver tones when polished, sold as "Norwegian Pearl Granite" or "Royal Blue Pearl Granite," according to one dealer guide. It is a rock, not labradorite.
+- **Sunstone.** Some sunstone is labradorite with copper platelets that glitter, which is a different effect from the color flash.
 
 ## Price Guide
 
-Labradorite is rarely seen in mass-merchant jewelry and is mostly used by designers doing custom work (Geology.com). Flash drives value, since its quality, hue and brilliance vary from stone to stone. The International Gem Society calls Finnish cabochon material uncommon and fairly expensive for a feldspar, faceted gems over 20 carats exceptional, and Oregon material abundant from 2 to 10 carats. In an [IGS column](https://www.gemsociety.org/article/labradorite-value-marketing-issues/), Jeff R. Graham adds that natural color and schiller make feldspar more valuable, while plain gold and champagne material, sold in the trade as labradorite, is the most common.
+Labradorite is rarely seen in mass-merchant jewelry and is mostly used by designers doing custom work. Flash drives value, since its quality, hue and brilliance vary from stone to stone. Finnish cabochon material is uncommon and fairly expensive for a feldspar, faceted gems over 20 carats are exceptional, and Oregon material is abundant from 2 to 10 carats. Natural color and schiller make feldspar more valuable, while plain gold and champagne material, sold in the trade as labradorite, is the most common.
 
 **Next Step.** Choosing a stone to keep by the door? See how labradorite compares with the other usual picks in [crystals for protection](/crystals-for/protection/).
 
@@ -214,4 +214,4 @@ Labradorite is rarely seen in mass-merchant jewelry and is mostly used by design
 
 Last reviewed November 2026.
 
-*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and links every fact to its source.*
+*Iris Holloway is the pen name of the editor of Crystal & Ritual. She starts with the stone itself, labels every belief as a belief and checks every fact against the sources listed at the end of each page.*
