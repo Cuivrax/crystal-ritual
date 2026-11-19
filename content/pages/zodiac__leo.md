@@ -14,7 +14,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-05"
 publishTime: "15:35"
-status: "draft"
+status: "verified"
 page_type: "sign"
 sources:
   - "https://www.gutenberg.org/ebooks/57978"
@@ -60,7 +60,7 @@ Leo has no single official birthstone, because birthstones belong to months and 
 
 <!-- PHOTO HERO. Wikimedia Commons, "File Pyrite Logroño MNHN Minéralogie.jpg", by Marie-Lan Taÿ Pamart. Page https://commons.wikimedia.org/wiki/File:Pyrite_Logro%C3%B1o_MNHN_Min%C3%A9ralogie.jpg . Image https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Pyrite_Logro%C3%B1o_MNHN_Min%C3%A9ralogie.jpg/1280px-Pyrite_Logro%C3%B1o_MNHN_Min%C3%A9ralogie.jpg (tracking parameters removed). License CC BY 4.0. Credit line "Photo Marie-Lan Taÿ Pamart, CC BY 4.0, via Wikimedia Commons". Source images_commons_candidates.csv, visual_check ok, visual_use hero ("raw large brassy cube on grey matrix"). Alt text "Large brassy pyrite cube on gray rock from Logroño, Spain". -->
 
-<!-- PHOTO 2, beside "Sardonyx" or "Ruby for July Leos". PHOTO TO FIND. No sardonyx, onyx or ruby candidate with visual_check ok was found in images_candidates.csv or images_commons_candidates.csv for this page. Check one, log page, license and credit, then use it. -->
+<!-- PHOTO 2, beside "Ruby for July Leos". Smithsonian NMNH, "Ruby", Tajikistan. Image https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3d98c930b07e841c4ba8c8ae4771eaf2a . Record http://n2t.net/ark:/65665/380634e25-8fb7-4ece-aafa-4a13c463f139 . License CC0 (Smithsonian Open Access), https://www.si.edu/openaccess . Credit line "Smithsonian National Museum of Natural History, CC0". Source images_candidates.csv, visual_check ok, visual_use hero ("faceted gem, red oval ruby on gray"). Alt text "Faceted red oval ruby from Tajikistan, Smithsonian collection". No sardonyx or onyx candidate has visual_check ok yet. -->
 
 ## Leo Stones at a Glance
 
@@ -85,7 +85,7 @@ The honest answer has two parts, the month stone and the sign stone.
 
 **The month stone.** On the modern list of the [American Gem Society](https://www.americangemsociety.org/birthstones/), July has one birthstone, ruby, and August has three, peridot, sardonyx and spinel. The 1912 jewelers' list moved the ruby to July from December and gave August the sardonyx, with peridot as its alternate (Kunz 1913, pages 319 to 320). Spinel joined August in July 2016. Our [July](/birthstones/july/) and [August](/birthstones/august/) pages go stone by stone.
 
-**The sign stone.** **Tradition.** In the verse list of zodiac gems that George Frederick Kunz printed in 1913, Leo's stone is the onyx. "When youth to manhood shall have grown, / Under Leo lorn and lone / 'Twill have lived but for this stone, / The onyx" (*The Curious Lore of Precious Stones*, page 346). On the next page, an old Spanish list that Kunz thought probably reflected Arab tradition gives Leo the topaz instead.
+**The sign stone.** **Tradition.** The traditional Leo zodiac stone is the onyx, from the verse list of zodiac gems that George Frederick Kunz printed in 1913. "When youth to manhood shall have grown, / Under Leo lorn and lone / 'Twill have lived but for this stone, / The onyx" (*The Curious Lore of Precious Stones*, page 346). On the next page, an old Spanish list that Kunz thought probably reflected Arab tradition gives Leo the topaz instead.
 
 It is a gloomy verse for a sign that modern guides call sunny, and older lore was hard on onyx. It was said to provoke discord and separate lovers (Kunz 1913, pages 98 to 99), while the red sard was supposed to neutralize "the malign influence of the dark onyx" (page 107). Sardonyx, sard and onyx in one stone, is a tidy answer for an August Leo.
 
@@ -97,11 +97,11 @@ If one color belongs to Leo, it is gold, and the habit is old. **Tradition.** In
 
 ## Leo Crystals in Today's Guides
 
-**Modern Association.** Modern crystal guides call Leo a fire sign ruled by the Sun, one calls it "a regal sign," and they reach for stones that look like sunlight. No stone reaches Classic for Leo, and the guides do not agree on a leader. One crystal shop's guide calls sunstone, sardonyx, amber and peridot each "the main stone for Leo," on four separate pages. Here are the usual picks, with what each stone really is.
+**Modern Association.** Most lists of crystals for Leo come from modern crystal guides. They call Leo a fire sign ruled by the Sun, one calls it "a regal sign," and they reach for stones that look like sunlight. No stone reaches Classic for Leo, and the guides do not agree on a leader. One crystal shop's guide calls sunstone, sardonyx, amber, peridot and tiger's eye each "the main stone for Leo," on separate pages.
 
 ### Pyrite
 
-**Widely Linked.** [Pyrite](/stones/pyrite/) is a brass-yellow iron sulfide with a bright metallic luster, the original fool's gold. Its name comes from the Greek word for fire, because it throws sparks when struck. It rates 6 to 6.5 on the Mohs scale, but it is brittle, heat sensitive and tarnishes easily, so it suits a desk better than a ring. One guide gives it "to Leo, the Sun's sign, above all."
+**Widely Linked.** [Pyrite](/stones/pyrite/) is a brass-yellow iron sulfide, the original fool's gold. Its name comes from the Greek word for fire, because it throws sparks when struck. It rates 6 to 6.5 on the Mohs scale, but it is brittle, heat sensitive and tarnishes easily, so it suits a desk better than a ring. One guide gives it "to Leo, the Sun's sign, above all."
 
 ### Sunstone
 
@@ -136,13 +136,13 @@ If one color belongs to Leo, it is gold, and the habit is old. **Tradition.** In
 - **Old star lists.** **Tradition.** A list of fixed stars gives the garnet to the "Heart of Lion" at 23° of Leo (page 351). A list of engraved constellation figures puts Navis, a ship, under Leo and promises that its wearer "runs no risk on sea or water" (page 354).
 - **Old planetary lists.** **Tradition.** One list gives the Sun the jacinth and the chrysolite (pages 347 to 348). Another gives it the garnet, amber and gold-colored pyrites (pages 350 to 351).
 - **1913.** **Tradition.** Kunz's verse list names the onyx (page 346). In his calendar of the months, July carries the sign of Leo, the water-lily and the turquoise, which Kunz still preferred for July (pages 320 and 329).
-- **Today.** **Modern Association.** Pyrite, sardonyx, sunstone and citrine lead the modern lists.
+- **Today.** **Modern Association.** Pyrite, sardonyx, sunstone and citrine lead the modern lists of zodiac stones for Leo.
 
-One possible thread, and it is our reading rather than a documented link, is that the golden modern picks echo the old lists that gave amber and gold-colored pyrites to the Sun, the planet modern guides name for Leo.
+The golden modern picks may echo two old habits, the color symbolism that tied golden yellow to the sun and to Leo, and the planetary lists that gave amber and gold-colored pyrites to the Sun, the planet modern guides name for Leo.
 
 ## How to Use Leo Stones in Everyday Life
 
-**The Ritual.** Leo season is high summer. Whatever you believe about the stones, these give a pause you chose and something in your hand to mark it.
+**The Ritual.** Whatever you believe about the stones, these give a pause you chose and something in your hand to mark it.
 
 ### A Pocket Stone for One Compliment a Day
 
@@ -150,11 +150,11 @@ One possible thread, and it is our reading rather than a documented link, is tha
 
 ### A Desk Cube for the One Big Task
 
-**Try This.** Write the one task that matters most today on a sticky note and set a pyrite cube on top of it. Lift the cube only when the task is done. The gold color makes it hard to ignore.
+**Try This.** Write the one task that matters most today on a sticky note and set a pyrite cube on top of it. Lift the cube only when the task is done.
 
 ### A Birthday Card with Two Stones
 
-**Try This.** For a July Leo, give a ruby or a red spinel and tell the story of the Black Prince's Ruby, the famous "ruby" that is really a spinel. For an August Leo, give a sardonyx and write the 1913 onyx verse inside the card. Each gift carries two stories.
+**Try This.** For a July Leo, give a ruby or a red spinel and tell the story of the Black Prince's Ruby, the famous "ruby" that is really a spinel. For an August Leo, give a sardonyx and write the 1913 onyx verse inside the card.
 
 **Safety.** Small tumbled stones and bead bracelets are not toys. Keep them away from small children and pets who might swallow them. These are personal practices, not treatments.
 
@@ -164,17 +164,17 @@ These ratings come from our care data, the same data as the [Care Checker](/tool
 
 | Stone | Water | Sun | Heat | Worth Knowing |
 |---|---|---|---|---|
-| Pyrite | Unknown | Unknown | Avoid | Very brittle and heat sensitive |
-| Sunstone | OK | Unknown | Unknown | Durable enough for daily wear. Keep any soak brief |
-| Citrine | OK | Brief only | Avoid | Some citrine fades in prolonged intense light |
-| Sardonyx | OK | Unknown | Unknown | Dealers advise no bleach or harsh detergents |
-| Amber | Brief only | Unknown | Avoid | Scratches easily. Solvents and alcohol can dissolve its surface |
-| Onyx | OK | Unknown | Avoid | Heat can erase its bands, per dealers |
-| Peridot | OK | Unknown | Avoid | Sensitive to acids, even those in sweat |
-| Ruby | Unknown | Unknown | Unknown | No care data yet. Mohs 9 |
-| Spinel | Unknown | Unknown | Unknown | Scratch resistant with no cleavage, fine for daily-wear rings |
+| Pyrite | Not Enough Data | Not Enough Data | Keep Away From Heat | Very brittle and heat sensitive |
+| Sunstone | OK | Not Enough Data | Not Enough Data | Durable enough for daily wear |
+| Citrine | OK | Brief Only | Keep Away From Heat | Some citrine fades in prolonged intense light |
+| Sardonyx | OK | Not Enough Data | Not Enough Data | Dealers advise no bleach or harsh detergents |
+| Amber | Brief Only | Not Enough Data | Keep Away From Heat | Scratches easily. Solvents and alcohol can partly dissolve its surface |
+| Onyx | OK | Not Enough Data | Keep Away From Heat | Heat can erase its bands, per dealers |
+| Peridot | OK | Not Enough Data | Keep Away From Heat | Somewhat sensitive to acids, even those in sweat |
+| Ruby | Not Enough Data | Not Enough Data | Not Enough Data | No care data yet. Mohs 9 |
+| Spinel | Not Enough Data | Not Enough Data | Not Enough Data | Scratch resistant, no cleavage |
 
-Pyrite, citrine, amber, onyx and peridot all rate Avoid for heat, so in Leo season keep them off a car dashboard and a sunny sill. Heat-treated citrine may fade, and abrupt temperature changes can fracture it. Amber is so soft that rings need protective settings, and a damp cloth is all the cleaning it needs.
+Pyrite, citrine, amber, onyx and peridot are all marked Keep Away From Heat, so in Leo season keep them off a car dashboard and a sunny sill. Heat-treated citrine may fade, and abrupt temperature changes can fracture it. Amber is so soft that rings need protective settings, and a damp cloth is all the cleaning it needs.
 
 **Next Step.** Born on August 23 or later? Your sign has moved on to [Virgo](/zodiac/virgo/). Compare every sign on the [zodiac stones chart](/zodiac/).
 

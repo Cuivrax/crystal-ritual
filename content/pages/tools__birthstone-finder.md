@@ -15,7 +15,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-11-26"
 publishTime: "10:40"
-status: "draft"
+status: "verified"
 page_type: "tool"
 sources:
   - "https://www.americangemsociety.org/birthstones/"

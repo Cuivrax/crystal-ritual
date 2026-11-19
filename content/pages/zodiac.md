@@ -49,16 +49,16 @@ Dates follow most modern guides. The 1913 column is the verse list George Freder
 
 | Sign | Dates | Month Birthstones | 1913 Zodiac Stone | Linked Most Today |
 |---|---|---|---|---|
-| [Aries](/zodiac/aries/) | March 21 to April 19 | Aquamarine, bloodstone, diamond | Bloodstone | Blue kyanite, red jasper, bloodstone, carnelian |
-| [Taurus](/zodiac/taurus/) | April 20 to May 20 | Diamond, emerald | Sapphire | Morganite, rhodonite, rose quartz, emerald |
-| [Gemini](/zodiac/gemini/) | May 21 to June 20 | Emerald, pearl, alexandrite, moonstone | Agate | Agate, celestite, citrine, alexandrite |
+| [Aries](/zodiac/aries/) | March 21 to April 19 | Aquamarine, bloodstone, diamond | Bloodstone | Blue kyanite, fire agate, red jasper, bloodstone, carnelian |
+| [Taurus](/zodiac/taurus/) | April 20 to May 20 | Diamond, emerald | Sapphire | Blue kyanite, rhodonite, morganite, kunzite |
+| [Gemini](/zodiac/gemini/) | May 21 to June 20 | Emerald, pearl, alexandrite, moonstone | Agate | Blue lace agate, goshenite, crazy lace agate, agate, celestite |
 | [Cancer](/zodiac/cancer/) | June 21 to July 22 | Pearl, alexandrite, moonstone, ruby | Emerald | Opal, moonstone, morganite |
-| [Leo](/zodiac/leo/) | July 23 to August 22 | Ruby, peridot, sardonyx, spinel | Onyx | Pyrite, sunstone, citrine, amber |
-| [Virgo](/zodiac/virgo/) | August 23 to September 22 | Peridot, sardonyx, spinel, sapphire | Carnelian | Purpurite, moss agate, diopside, carnelian |
+| [Leo](/zodiac/leo/) | July 23 to August 22 | Ruby, peridot, sardonyx, spinel | Onyx | Pyrite, sardonyx, sunstone, citrine, amber |
+| [Virgo](/zodiac/virgo/) | August 23 to September 22 | Peridot, sardonyx, spinel, sapphire | Carnelian | Purpurite, moss agate, diopside, andalusite, carnelian |
 | [Libra](/zodiac/libra/) | September 23 to October 22 | Sapphire, opal, tourmaline | Chrysolite | Lepidolite, prehnite, opal, rose quartz |
-| [Scorpio](/zodiac/scorpio/) | October 23 to November 21 | Opal, tourmaline, topaz, citrine | Beryl | Malachite, charoite, obsidian, unakite |
-| [Sagittarius](/zodiac/sagittarius/) | November 22 to December 21 | Topaz, citrine, tanzanite, turquoise, zircon | Topaz | Azurite, topaz, turquoise, sodalite |
-| [Capricorn](/zodiac/capricorn/) | December 22 to January 19 | Tanzanite, turquoise, zircon, garnet | Ruby | Tourmalinated quartz, jet, smoky quartz, black tourmaline |
+| [Scorpio](/zodiac/scorpio/) | October 23 to November 21 | Opal, tourmaline, topaz, citrine | Beryl | Malachite, charoite, boulder opal, obsidian, unakite |
+| [Sagittarius](/zodiac/sagittarius/) | November 22 to December 21 | Topaz, citrine, tanzanite, turquoise, zircon | Topaz | Azurite, topaz, turquoise, zircon, sodalite |
+| [Capricorn](/zodiac/capricorn/) | December 22 to January 19 | Tanzanite, turquoise, zircon, garnet | Ruby | Tourmalinated quartz, jet, blue tiger's eye, smoky quartz, malachite |
 | [Aquarius](/zodiac/aquarius/) | January 20 to February 18 | Garnet, amethyst | Garnet | Angelite, aquamarine, blue tiger's eye |
 | [Pisces](/zodiac/pisces/) | February 19 to March 20 | Amethyst, aquamarine, bloodstone | Amethyst | Aquamarine, fluorite, bloodstone, moonstone |
 

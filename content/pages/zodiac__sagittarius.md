@@ -87,7 +87,7 @@ We grade each link with the same words we use across the site, from Classic down
 | Sodalite | Often Linked | Said to help the sign speak its truth with tact | Scratches easily, 5.5 to 6 |
 | Blue topaz | Often Linked | Blue, and one guide even calls it "the birthstone of Sagittarius" | Birthstone lists go by month. The International Gem Society counts blue topaz as a modern December option |
 | Zircon, especially blue | Widely Linked | December birthstone | UV can turn heated blue zircon brown |
-| Smoky quartz | Often Linked | Grounding for a restless sign, though guides tie it more to Capricorn | Our care data rates sun Avoid, since UV can fade it |
+| Smoky quartz | Often Linked | Grounding for a restless sign, though guides tie it more to Capricorn | Our care data marks it Keep Out of Sun, since UV can fade it |
 | Tanzanite | Sometimes Linked | December birthstone since 2002 | Sagittarius is still the sign guides name most for tanzanite |
 | Lapis lazuli | Sometimes Linked | 1912 December alternate, and one guide calls it the main Sagittarius stone | Often dyed, soft, and porous |
 | Labradorite, obsidian | Sometimes Linked | Guides that pair the sign with truth seeking or grounding | Both chip or break on a hard knock |

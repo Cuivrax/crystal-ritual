@@ -14,7 +14,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-11-27"
 publishTime: "14:09"
-status: "draft"
+status: "verified"
 page_type: "sign"
 sources:
   - "https://www.gutenberg.org/ebooks/57978"
@@ -66,7 +66,7 @@ Aries has no single official birthstone, because birthstones belong to months an
 | Month birthstones | March, aquamarine and bloodstone. April, diamond |
 | 1913 zodiac stone | Bloodstone |
 | Old Spanish list | Crystal |
-| Old planet link | None in the old print of the day gods that Kunz reproduced, where Mars stands with Capricorn |
+| Old planet link | None in the old day-gods print Kunz reproduced, where Mars stands with Capricorn |
 | Planet and element, per modern guides | Mars, fire |
 | Widely Linked today | Blue kyanite, fire agate, red jasper |
 | Often Linked today | Bloodstone, carnelian, pyrite |
@@ -80,82 +80,76 @@ Aries has no single official birthstone, because birthstones belong to months an
 
 The honest answer has two parts, the month stone and the sign stone, and for Aries they meet in one stone.
 
-**The month stone.** On the modern list of the [American Gem Society](https://www.americangemsociety.org/birthstones/), March has two birthstones, aquamarine and bloodstone, and April has one, diamond. So an Aries born on March 30 and one born on April 10 have different birthstones. All three were already on the 1912 jewelers' list, with bloodstone as March's stone and aquamarine as its alternate (Kunz 1913, page 319). Our [March](/birthstones/march/) and [April](/birthstones/april/) pages go stone by stone.
+**The month stone.** On the modern list of the [American Gem Society](https://www.americangemsociety.org/birthstones/), March has two birthstones, aquamarine and bloodstone, and April has one, diamond. All three were on the 1912 jewelers' list, with aquamarine as March's alternate (Kunz 1913, page 319). Our [March](/birthstones/march/) and [April](/birthstones/april/) pages go stone by stone.
 
 **The sign stone.** **Tradition.** In the verse list of zodiac gems that George Frederick Kunz printed in 1913, Aries gets the bloodstone. "Who on this world of ours his eyes / In Aries opens shall be wise / If always on his hand there lies / A bloodstone" (*The Curious Lore of Precious Stones*, page 345). Two pages later, an old Spanish list that Kunz thought probably reflected Arab tradition gives Aries crystal instead, most likely rock crystal, the old name for [clear quartz](/stones/clear-quartz/) (page 347).
 
-Kunz's own calendar of the months makes the same match from the other side. March carries "jasper, bloodstone" as its natal stones and Aries as its sign, and its verse borrows the zodiac rhyme's first line, "Who on this world of ours her eyes / In March first opens may be wise" (page 327). For a March Aries, [bloodstone](/stones/bloodstone/) covers the birthday, the sign and both old rhymes.
+Kunz's calendar of the months makes the same match. March carries "jasper, bloodstone" as its natal stones and Aries as its sign, and its verse borrows the zodiac rhyme's first line, "Who on this world of ours her eyes / In March first opens may be wise" (page 327). For a March Aries, [bloodstone](/stones/bloodstone/) covers the birthday, the sign and both rhymes.
 
 ## What Color Is the Aries Birthstone?
 
-There is no single Aries birthstone color, because the three month stones look nothing alike. Bloodstone is dark green spattered with red, aquamarine is greenish blue to blue, and diamond is best known colorless, though most diamonds are actually brown or yellow. If you want one color for the sign, the modern lists lean red and orange, from red jasper and carnelian to the flashes of fire agate, with blue kyanite as the odd one out.
+There is no single Aries birthstone color. Bloodstone is dark green spattered with red, aquamarine is greenish blue to blue, and diamond is best known colorless, though most diamonds are actually brown or yellow. If you want one color for the sign, the modern lists lean red and orange, from red jasper and carnelian to the flashes of fire agate, with blue kyanite as the odd one out.
 
 ## Aries Crystals in Today's Guides
 
-**Modern Association.** Modern crystal guides describe Aries as a fire sign ruled by Mars, direct, brave and quick to act. "Aries is a fire sign ruled by Mars the planet of action, drive and competition," one guide puts it. Then the guides split into two camps. Some zodiac stones for Aries are said to feed that fire, like red jasper, which one French guide says strengthens the sign's natural courage and initiative. Others are said to cool it. One jewelry guide credits blue kyanite with a "calming effect on impulsive communication," and another says carnelian helps Aries be "less impulsive." No stone reaches Classic for Aries. Here are the usual picks, with what each stone really is.
+**Modern Association.** "Aries is a fire sign ruled by Mars the planet of action, drive and competition," one guide puts it. Then the guides split. Some zodiac stones for Aries are said to feed that fire, like red jasper, which a French guide says strengthens the sign's courage and initiative. Others are said to cool it. One jewelry guide credits blue kyanite with a "calming effect on impulsive communication," and another says carnelian helps Aries be "less impulsive." No stone reaches Classic for Aries. Here are the usual picks.
 
 ### Blue Kyanite
 
-**Widely Linked.** [Blue kyanite](/stones/blue-kyanite/) is an aluminum silicate mineral, and most gem kyanite is blue, colored by iron and titanium. It was once commonly called disthene, meaning two strengths, and the name fits. Its hardness changes with direction, from about 4.5 to 7 on the Mohs scale, so a steel needle scratches a crystal along its length but not across it. Blue kyanite has long been used to imitate sapphire, and heating can make a pale stone lose its color. Guides usually name it for Aries, Taurus and Libra together, and it rates even higher for [Taurus](/zodiac/taurus/).
+**Widely Linked.** [Blue kyanite](/stones/blue-kyanite/) is an aluminum silicate mineral, and most gem kyanite is blue, colored by iron and titanium. Its old name, disthene, means two strengths, because its hardness changes with direction, from about 4.5 to 7 on the Mohs scale. A steel needle scratches a crystal along its length but not across it. Guides usually name it for Aries, Taurus and Libra together, and it rates even higher for [Taurus](/zodiac/taurus/).
 
 ### Fire Agate
 
-**Widely Linked.** [Fire agate](/stones/fire-agate/) is a brown agate that flashes iridescent yellow, red, orange and green. The flashes come from thin layers coated with iron oxide minerals, which produce interference colors, a different effect from the play of color in opal. It rates 6.5 to 7 on the Mohs scale and comes from central and northern Mexico and the southwestern US, where Arizona has the most reported localities. One French guide calls Aries the sign "par excellence" of fire agate.
+**Widely Linked.** [Fire agate](/stones/fire-agate/) is a brown agate that flashes iridescent yellow, red, orange and green. Thin layers coated with iron oxide minerals make the flashes. It rates 6.5 to 7 on the Mohs scale and comes from Mexico and the southwestern US, where Arizona has the most reported localities. One French guide calls Aries the sign "par excellence" of fire agate.
 
 ### Red Jasper
 
-**Widely Linked.** [Red jasper](/stones/red-jasper/) is an opaque, brick-red form of jasper, a microcrystalline quartz colored by iron oxide, and it rates about 6.5 to 7 on the Mohs scale. It is tough enough for a pocket, and our care data rates undyed jasper OK for water, sun and heat. Many stones labeled jasper are not jasper at all, so ask the seller what you are buying. Guides that pair it with Aries nearly always give Mars as the reason.
+**Widely Linked.** [Red jasper](/stones/red-jasper/) is an opaque red form of jasper, a microcrystalline quartz colored by iron oxide, and it rates about 6.5 to 7 on the Mohs scale. It is tough enough for a pocket, and our care data rates undyed jasper OK for water, sun and heat. According to one dealer guide, many stones labeled jasper are not jasper at all, so ask the seller what you are buying.
 
 ### Bloodstone
 
-**Often Linked.** Bloodstone is a dark green chalcedony spattered with red, and the red spots are iron oxide, most likely hematite. It is the heliotrope of older European writers. It rates 6.5 to 7, has no cleavage and is tough enough for any kind of wear, and India is its largest source. **Tradition.** In Christian legend the red spots stood for the blood of Christ, and some carvers placed them to look like drops on a head of Christ (Kunz 1913, page 267). Modern guides rank it a step below their red favorites, even though it is the sign's 1913 stone and a March birthstone. One German guide still calls it the main Aries stone, said to grant "endurance and calm in conflict."
+**Often Linked.** Bloodstone is a dark green chalcedony spattered with red, and the red spots are iron oxide, most likely hematite. It rates 6.5 to 7, has no cleavage and suits any kind of wear. **Tradition.** In Christian legend the red spots stood for the blood of Christ (Kunz 1913, page 267). Modern guides rank it below their red favorites, though it is the 1913 Aries stone and a March birthstone. One German guide still calls it the main Aries stone, said to grant "endurance and calm in conflict."
 
 ### Carnelian & Pyrite
 
-**Often Linked.** [Carnelian](/stones/carnelian/) is a translucent orange to red chalcedony colored by iron. Heating darkens the red, so assume any piece was heated, and most commercial carnelian comes from India. Its courage lore is old. **Tradition.** The Lapidario of Alfonso X recommended carnelian to people who were "timid in speech," since the warm-colored stone would give them the courage to "speak both boldly and well" (Kunz 1913, page 63).
+**Often Linked.** [Carnelian](/stones/carnelian/) is a translucent orange to red chalcedony colored by iron. Heating darkens the red, so assume any piece was heated. Its courage lore is old. **Tradition.** The Lapidario of Alfonso X recommended carnelian to people who were "timid in speech," since the warm-colored stone would give them the courage to "speak both boldly and well" (Kunz 1913, page 63).
 
-[Pyrite](/stones/pyrite/) is iron sulfide, the brass-yellow mineral nicknamed fool's gold. Gold bends under a pin, while pyrite is brittle and leaves a greenish black streak. One guide gives it to Leo above all and "to Aries for its Mars and Fire nature."
+[Pyrite](/stones/pyrite/) is iron sulfide, the brass-yellow mineral nicknamed fool's gold, and it is brittle. One guide gives it to Leo above all and "to Aries for its Mars and Fire nature."
 
 ### Diamond for April Aries
 
-**Rarely Linked.** [Diamond](/stones/diamond/) is pure carbon, 10 on the Mohs scale, formed under very high temperature and pressure deep in the mantle, not from coal. It is April's birthstone, yet few crystal guides tie it to Aries. Kunz wanted it off the month list altogether, since the ancients did not seem to know it, and suggested using diamonds as a border around the month stone instead (1913, page 321). He also notes that in the old planetary lists, Mars laid claim to the diamond, the jacinth and the ruby (page 348).
+**Rarely Linked.** [Diamond](/stones/diamond/) is pure carbon, 10 on the Mohs scale, formed deep in the mantle, not from coal. It is April's birthstone, yet few crystal guides tie it to Aries. Kunz wanted it off the month list, since the ancients did not seem to know it, and suggested it as a border around the month stone instead (1913, page 321).
 
-[Aquamarine](/stones/aquamarine/), the other March stone, is the greenish blue to blue variety of beryl, rated 7.5 to 8. Heat treatment is very common and cannot be detected. Modern guides give it to [Pisces](/zodiac/pisces/) far more often than to Aries, and on the old lists Kunz gathered it was the October stone (page 315).
+[Aquamarine](/stones/aquamarine/), the other March stone, is greenish blue to blue beryl, and modern guides give it to [Pisces](/zodiac/pisces/) far more often.
 
 ## Where the Aries Links Come From
 
-**The Story.** Aries opens the zodiac, and its stones carry some of the oldest sign lore in Kunz.
+**The Story.** In astrology, Aries begins with the Sun's position at the March equinox, which makes it the first sign of the cycle. Its stones carry some of the oldest sign lore in Kunz.
 
-- **The starting point.** **Tradition.** In astrology, the sign of Aries begins with the Sun's position at the March equinox, which makes it the first sign of the cycle.
 - **Medieval Jewish tradition.** **Tradition.** The tribe of Judah was paired with Aries (Kunz 1913, page 314).
-- **Roman era.** **Tradition.** A sard in the Metropolitan Museum of Art, once in the collection of the gem writer C. W. King, shows the symbol of Aries carrying a long caduceus. The same design appears on coins of Antioch, Kunz explains, because the city was founded in the month over which Aries presides (page 342).
-- **Old talisman lists.** **Tradition.** A list of constellation figures for engraved gems, reprinted by Kunz, puts Pegasus under the sign of Aries and promises that it "gives victory in the field, and makes the wearer swift, cautious, and bold" (page 353).
+- **Engraved gems.** **Tradition.** A sard in the Metropolitan Museum of Art shows Aries carrying a long caduceus, a design also struck on coins of Antioch, a city founded in the month of Aries (page 342).
+- **Old talisman lists.** **Tradition.** A list of constellation figures for engraved gems, reprinted by Kunz, puts Pegasus under Aries and promises that it "makes the wearer swift, cautious, and bold" (page 353).
 - **Old planetary lists.** **Tradition.** Mars took the diamond, the jacinth and the ruby, the last "according with the ruddy hue of our neighbor planet" (page 348). In an old print of the Roman day gods, though, Mars stands with Capricorn and the jasper for Tuesday (page 332).
-- **1912.** **Tradition.** The US jewelers' list made bloodstone March's stone, with aquamarine as the alternate (page 319).
-- **1913.** **Tradition.** Kunz's verse list gives Aries the bloodstone (page 345). His calendar adds jasper to March, with a couplet promising that whoever wears one "will meet all dangers brave and wise and strong" (page 327). The old Spanish list names crystal (page 347).
+- **1913.** **Tradition.** Kunz's verse list gives Aries the bloodstone (page 345). His calendar adds jasper to March, promising that whoever wears one "will meet all dangers brave and wise and strong" (page 327).
 - **Today.** **Modern Association.** Blue kyanite, fire agate and red jasper lead the modern lists, most of them red and most of them explained by Mars.
 
-One possible thread, and it is our reading rather than a documented link, is that the red picks echo an old belief Kunz describes, "the stimulating and animating effects produced by red stones" (page 63). Mars is the modern reason, color may be the older one.
+One possible thread, and it is our reading rather than a documented link, is that the red picks echo an old belief Kunz describes, "the stimulating and animating effects produced by red stones" (page 63).
 
 ## How to Use Aries Stones in Everyday Life
 
-**The Ritual.** Aries season starts the astrological year, which makes it a natural time for fresh starts. Whatever you believe about the stones, these give a pause you chose and something in your hand to mark it.
+**The Ritual.** Aries season starts the astrological year. Whatever you believe about the stones, these give a pause you chose and something in your hand to mark it.
 
 ### A First Day of Spring List
 
-**Try This.** On the March equinox, write one thing you want to start before your next birthday and set a bloodstone or a red jasper on the page. Every Sunday evening, pick up the stone, read the line and name the next small step. Then put it back.
+**Try This.** On the March equinox, write one thing you want to start before your next birthday and set a bloodstone or a red jasper on the page. Every Sunday evening, read the line and name the next small step.
 
 ### A Pause Before You Hit Send
 
-**Try This.** Keep a blue kyanite next to your laptop. When a message makes you want to fire back, pick up the stone, take one slow breath and read your reply once more before you send it. Guides call kyanite calming for impulsive talk, and the breath is the part you control. Kyanite scratches easily along its length, so it lives on the desk, not in a pocket full of keys.
-
-### A Pocket Stone for a Big First
-
-**Try This.** Before a first day, a race or a hard conversation, slip a tumbled red jasper or carnelian into your pocket. When your hand finds it, drop your shoulders and say your opening sentence in your head. The old Lapidario gave carnelian to the "timid in speech," and you can borrow the habit without the promise.
+**Try This.** Keep a blue kyanite next to your laptop. When a message makes you want to fire back, pick up the stone, take one slow breath and read your reply once more before you send it. The breath is the part you control. Kyanite scratches easily along its length, so it lives on the desk, not in a pocket full of keys.
 
 ### A Birthday Card with Two Verses
 
-**Try This.** For a March Aries, give a bloodstone and copy both 1913 verses on the card, the zodiac rhyme and the March one, which share a first line. For an April Aries, the diamond is the month stone, and a small bloodstone with the Aries verse makes a second gift with a story.
+**Try This.** For a March Aries, give a bloodstone and copy both 1913 verses on the card, since they share a first line. For an April Aries, tuck the Aries verse in with the diamond.
 
 **Safety.** Pyrite never goes in water you drink, and neither does any other stone. Small tumbled stones and bead bracelets are not toys. Keep them away from small children and pets who might swallow them. These are personal practices, not treatments.
 
@@ -165,22 +159,22 @@ These ratings come from our care data, the same data as the [Care Checker](/tool
 
 | Stone | Water | Sun | Heat | Worth Knowing |
 |---|---|---|---|---|
-| Bloodstone | Unknown | Unknown | Unknown | No cleavage and tough. Needs no special care |
-| Aquamarine | OK | Unknown | Unknown | Resists everyday scratching very well, but it is brittle |
-| Diamond | Unknown | Unknown | Unknown | Chemically resistant. Hardest known natural substance, though it has perfect cleavage |
-| Blue kyanite | Brief only | Unknown | Brief only | Heat can pale it. Hardness varies by direction |
-| Fire agate | Unknown | Unknown | Unknown | Hard enough for most types of jewelry |
+| Bloodstone | Not Enough Data | Not Enough Data | Not Enough Data | No cleavage and tough. Needs no special care |
+| Aquamarine | OK | Not Enough Data | Not Enough Data | Resists everyday scratching very well, but it is brittle |
+| Diamond | Not Enough Data | Not Enough Data | Not Enough Data | Chemically resistant. Hardest known natural substance, though it has perfect cleavage |
+| Blue kyanite | Brief Only | Not Enough Data | Brief Only | Heat can pale it. Hardness varies by direction |
+| Fire agate | Not Enough Data | Not Enough Data | Not Enough Data | Hard enough for most types of jewelry |
 | Red jasper | OK | OK | OK | Normal care for undyed jasper. Avoid heat if dyed |
-| Carnelian | Unknown | Unknown | Unknown | Dyed stones should avoid harsh chemicals, acetone and ultrasonic cleaners |
-| Pyrite | Unknown | Unknown | Avoid | Very brittle and heat sensitive |
+| Carnelian | Not Enough Data | Not Enough Data | Not Enough Data | If dyed, avoid harsh chemicals, acetone and ultrasonic cleaners |
+| Pyrite | Not Enough Data | Not Enough Data | Keep Away From Heat | Very brittle and heat sensitive |
 
-A few notes behind the table. Bloodstone has no cleavage and a tough structure, so it handles everyday wear and even mechanical cleaning. Blue kyanite rates Brief only for heat because heating can make pale blue kyanite lose color, and Brief only for water because the advice covers a wash with warm water and mild detergent, not a soak. Red jasper's OK ratings apply to undyed jasper, and a dyed piece should stay away from heat. Pyrite is very brittle and heat sensitive, so keep it away from radiators and hot cars.
+Blue kyanite rates Brief Only for heat because heating can pale it, and red jasper's OK ratings apply to undyed jasper. Keep brittle, heat-sensitive pyrite away from radiators and hot cars.
 
 **Next Step.** Born on April 20 or later? Your sign has moved on to [Taurus](/zodiac/taurus/). Born before March 21, read [Pisces](/zodiac/pisces/). Compare every sign on the [zodiac stones chart](/zodiac/).
 
 ## Sources
 
-- George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 63, 267, 314 to 315, 319, 321, 327, 332, 342, 345, 347 to 348 and 353, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
+- George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 63, 267, 314, 319, 321, 327, 332, 342, 345, 347 to 348 and 353, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
 - Paul Cornish, We The Curious planetarium, [Where Can I Find My Star Sign?](https://wethecurious.org/planetariumblog/star-signs-and-precession)
 - International Gem Society, [Bloodstone](https://www.gemsociety.org/article/bloodstone-value-price-jewelry-information/), [Aquamarine](https://www.gemsociety.org/article/aquamarine-jewelry-and-gemstone-information/), [Diamond](https://www.gemsociety.org/article/diamond/), [Kyanite](https://www.gemsociety.org/article/kyanite-jewelry-and-gemstone-information/), [Agate](https://www.gemsociety.org/article/agate-gem-information/), [Jasper](https://www.gemsociety.org/article/jasper-gem-information/), [Carnelian](https://www.gemsociety.org/article/carnelian-gem-information/), [Pyrite](https://www.gemsociety.org/article/pyrite-jewelry-and-gemstone-information/) and the [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)

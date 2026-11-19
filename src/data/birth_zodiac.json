@@ -467,6 +467,10 @@
      "slug": "blue-kyanite"
     },
     {
+     "name": "Fire Agate",
+     "slug": "fire-agate"
+    },
+    {
      "name": "Red Jasper",
      "slug": "red-jasper"
     },
@@ -505,20 +509,20 @@
    ],
    "linked": [
     {
-     "name": "Morganite",
-     "slug": "morganite"
+     "name": "Blue Kyanite",
+     "slug": "blue-kyanite"
     },
     {
      "name": "Rhodonite",
      "slug": "rhodonite"
     },
     {
-     "name": "Rose Quartz",
-     "slug": "rose-quartz"
+     "name": "Morganite",
+     "slug": "morganite"
     },
     {
-     "name": "Emerald",
-     "slug": "emerald"
+     "name": "Kunzite",
+     "slug": "kunzite"
     }
    ]
   },
@@ -555,20 +559,24 @@
    ],
    "linked": [
     {
+     "name": "Blue Lace Agate",
+     "slug": "blue-lace-agate"
+    },
+    {
+     "name": "Goshenite",
+     "slug": "goshenite"
+    },
+    {
+     "name": "Crazy Lace Agate",
+     "slug": "crazy-lace-agate"
+    },
+    {
      "name": "Agate",
      "slug": "agate"
     },
     {
      "name": "Celestite",
      "slug": "celestite"
-    },
-    {
-     "name": "Citrine",
-     "slug": "citrine"
-    },
-    {
-     "name": "Alexandrite",
-     "slug": "alexandrite"
     }
    ]
   },
@@ -655,6 +663,10 @@
      "slug": "pyrite"
     },
     {
+     "name": "Sardonyx",
+     "slug": "sardonyx"
+    },
+    {
      "name": "Sunstone",
      "slug": "sunstone"
     },
@@ -711,6 +723,10 @@
     {
      "name": "Diopside",
      "slug": "diopside"
+    },
+    {
+     "name": "Andalusite",
+     "slug": "andalusite"
     },
     {
      "name": "Carnelian",
@@ -807,6 +823,10 @@
      "slug": "charoite"
     },
     {
+     "name": "Boulder Opal",
+     "slug": "boulder-opal"
+    },
+    {
      "name": "Obsidian",
      "slug": "obsidian"
     },
@@ -865,6 +885,10 @@
      "slug": "turquoise"
     },
     {
+     "name": "Zircon",
+     "slug": "zircon"
+    },
+    {
      "name": "Sodalite",
      "slug": "sodalite"
     }
@@ -911,12 +935,16 @@
      "slug": "jet"
     },
     {
+     "name": "Blue Tiger's Eye",
+     "slug": "blue-tigers-eye"
+    },
+    {
      "name": "Smoky Quartz",
      "slug": "smoky-quartz"
     },
     {
-     "name": "Black Tourmaline",
-     "slug": "black-tourmaline"
+     "name": "Malachite",
+     "slug": "malachite"
     }
    ]
   },

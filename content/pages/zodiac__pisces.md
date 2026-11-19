@@ -107,7 +107,7 @@ We grade each link with the same words we use across the site, from Classic down
 | Moonstone | Often Linked | Dreams and emotional sensitivity | Feldspar, 6 to 6.5, with two cleavages, so a sharp knock can break it |
 | Blue opal | Sometimes Linked | One jeweler says water signs "must keep a blue Opal nearby" | Soft. Our care data says wipe it with a damp cloth and keep any soak brief |
 | Morganite | Sometimes Linked | "Not an actual birthstone," but called excellent for Pisces | Pink beryl, 7.5 to 8 |
-| Celestite | Sometimes Linked | One guide gives it Neptune as its planet | Very soft, 3 to 3.5. Our care data rates sun and heat Avoid |
+| Celestite | Sometimes Linked | One guide gives it Neptune as its planet | Very soft, 3 to 3.5. Our care data marks it Keep Out of Sun and Keep Away From Heat |
 | [Amethyst](/stones/amethyst/) | Rarely Linked | February birthstone and Kunz's 1913 zodiac stone | Quartz, 7. Some amethyst fades in prolonged intense light |
 | Angelite, labradorite, turquoise | Rarely Linked | A few guides each | Angelite is soft. Keep it dry |
 

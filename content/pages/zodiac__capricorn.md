@@ -125,7 +125,7 @@ Some links stay rare and you can skip them, like ruby in modern guides. It survi
 - **Medieval Jewish tradition.** **Tradition.** The tribe of Dan was paired with Capricorn (Kunz 1913, pages 313 to 314).
 - **Old astrology.** **Tradition.** Saturn, the planet of that print, had to be content with "all dark, black, and brittle stones," and a Saturnian stone was little desired because the planet's influence was thought baleful (Kunz 1913, page 348).
 - **1913.** **Tradition.** Kunz's verse list names the ruby (page 347).
-- **Today.** **Modern Association.** Jet, tourmalinated quartz, smoky quartz and black tourmaline lead the modern lists.
+- **Today.** **Modern Association.** Jet, tourmalinated quartz, blue tiger's eye, smoky quartz and black tourmaline lead the modern lists.
 
 One possible thread, and it is our reading rather than a documented link, is that the dark modern picks echo Saturn's old dark stones.
 
