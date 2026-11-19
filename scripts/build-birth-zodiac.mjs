@@ -69,6 +69,10 @@ export function parseRange(text) {
   return { start: `${pad(a + 1)}-${pad(Number(m[2]))}`, end: `${pad(b + 1)}-${pad(Number(m[4]))}` };
 }
 
+// A stone sheet without a cut-out of its own can borrow one, pink for October's tourmaline.
+// The link and the swatch still follow the stone's own sheet.
+export const CUTOUT_STAND_INS = { tourmaline: 'pink-tourmaline' };
+
 const keyOf = (s) => String(s).toLowerCase().replace(/['’]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
 /** Matches a stone name to a sheet slug, by slug first, then by an alias that only one sheet has. */
@@ -91,7 +95,10 @@ export function makeMatcher(stones) {
 
 export function buildData({ birthstonesMd, zodiacMd, stones }) {
   const match = makeMatcher(stones);
-  const withSlug = (list) => list.map((s) => ({ ...s, slug: match(s.name) }));
+  const withSlug = (list) => list.map((s) => {
+    const slug = match(s.name);
+    return CUTOUT_STAND_INS[slug] ? { ...s, slug, cutout: CUTOUT_STAND_INS[slug] } : { ...s, slug };
+  });
   const months = parseTable(birthstonesMd, 'Month').map((r, i) => {
     const m = linkCell(r.Month);
     const idx = MONTHS.indexOf(m.text);

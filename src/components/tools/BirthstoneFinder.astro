@@ -17,7 +17,7 @@ const { months, signs } = data;
 
 // Small cut-outs, one per stone that has one.
 const cut = new Map();
-for (const slug of new Set([...months.flatMap((m) => [...m.modern, ...m.list1912, ...m.older]), ...signs.flatMap((s) => [...s.month, ...s.stone1913, ...s.linked])].map((s) => s.slug).filter(Boolean))) {
+for (const slug of new Set([...months.flatMap((m) => [...m.modern, ...m.list1912, ...m.older]), ...signs.flatMap((s) => [...s.month, ...s.stone1913, ...s.linked])].map((s) => s.cutout || s.slug).filter(Boolean))) {
   if (CUTOUTS.has(slug)) cut.set(slug, await cutoutHtml(slug, { box: 44, cls: 'cutout stone-cut' }));
 }
 
@@ -25,7 +25,7 @@ function chip(s, { big = false } = {}) {
   const sheet = s.slug ? stonesIndex.stones[s.slug] : null;
   const url = s.slug && site.isBuilt(`/stones/${s.slug}/`) ? `/stones/${s.slug}/` : null;
   const sw = sheet ? colorSwatches(sheet.colors || '')[0] : null;
-  const media = (s.slug && cut.get(s.slug)) || (sw ? `<span class="stone-dot" style="background:${sw.hex}" aria-hidden="true"></span>` : '<span class="stone-dot is-empty" aria-hidden="true"></span>');
+  const media = cut.get(s.cutout || s.slug) || (sw ? `<span class="stone-dot" style="background:${sw.hex}" aria-hidden="true"></span>` : '<span class="stone-dot is-empty" aria-hidden="true"></span>');
   const name = url ? `<a href="${esc(url)}">${esc(s.name)}</a>` : esc(s.name);
   const alt = s.alternate ? ' <span class="stone-alt">Alternate</span>' : '';
   return `<li class="stone-chip${big ? ' is-big' : ''}">${media}<span class="stone-name">${name}${alt}</span></li>`;

@@ -36,7 +36,7 @@ async function cutoutDataUri(slug) {
 export async function chartHtml(data, stones) {
   const fontUrl = (f) => pathToFileURL(join(ROOT, 'node_modules/@fontsource', f)).href;
   const stoneArt = async (s, size) => {
-    const uri = await cutoutDataUri(s.slug);
+    const uri = await cutoutDataUri(s.cutout || s.slug);
     if (uri) return `<img class="cut" src="${uri}" width="${size}" height="${size}" alt="">`;
     const sw = s.slug && stones[s.slug] ? colorSwatches(stones[s.slug].colors || '')[0] : null;
     return `<span class="dot" style="background:${sw ? sw.hex : '#DDD'};width:${Math.round(size * 0.55)}px;height:${Math.round(size * 0.55)}px"></span>`;
@@ -46,17 +46,18 @@ export async function chartHtml(data, stones) {
 
   let months = '';
   for (const m of data.months) {
-    const arts = (await Promise.all(m.modern.slice(0, 3).map((s) => stoneArt(s, 56)))).join('');
+    const arts = (await Promise.all(m.modern.slice(0, 3).map((s) => stoneArt(s, 50)))).join('');
     const old = same(m.modern, m.list1912) ? '' : `<p class="old">1912 ${names(m.list1912)}</p>`;
     months += `<div class="cell"><p class="name">${esc(m.name)}</p><p class="dates">${esc(m.name)} 1 to ${MONTH_DAYS[m.key]}</p><div class="arts">${arts}</div><p class="stones">${names(m.modern)}</p>${old}</div>`;
   }
   let signs = '';
   for (const s of data.signs) {
-    const art = (await Promise.all(s.stone1913.slice(0, 1).map((x) => stoneArt(x, 46)))).join('');
-    signs += `<div class="cell sign"><div class="sign-head"><span class="glyph">${glyphSvg(s.key, { size: 28, stroke: 1.7 })}</span><div><p class="name">${esc(s.name)}</p><p class="dates">${esc(s.dates)}</p></div></div><div class="stone1913">${art}<p class="stones"><span class="lbl">1913 Stone</span>${names(s.stone1913)}</p></div></div>`;
+    const art = (await Promise.all(s.stone1913.slice(0, 1).map((x) => stoneArt(x, 42)))).join('');
+    signs += `<div class="cell sign"><div class="sign-head"><span class="glyph">${glyphSvg(s.key, { size: 26, stroke: 1.7 })}</span><div><p class="name">${esc(s.name)}</p><p class="dates">${esc(s.dates)}</p></div></div><div class="stone1913">${art}<p class="stones"><span class="lbl">1913 Stone</span>${names(s.stone1913)}</p></div></div>`;
   }
   return `<!doctype html><html lang="en-US"><head><meta charset="utf-8"><style>
 @font-face { font-family: Gilda; src: url(${fontUrl('gilda-display/files/gilda-display-latin-400-normal.woff2')}) format('woff2'); }
+@font-face { font-family: Figtree; font-weight: 300; src: url(${fontUrl('figtree/files/figtree-latin-300-normal.woff2')}) format('woff2'); }
 @font-face { font-family: Figtree; font-weight: 400; src: url(${fontUrl('figtree/files/figtree-latin-400-normal.woff2')}) format('woff2'); }
 @font-face { font-family: Figtree; font-weight: 600; src: url(${fontUrl('figtree/files/figtree-latin-600-normal.woff2')}) format('woff2'); }
 @font-face { font-family: Figtree; font-weight: 700; src: url(${fontUrl('figtree/files/figtree-latin-700-normal.woff2')}) format('woff2'); }
@@ -64,27 +65,30 @@ export async function chartHtml(data, stones) {
 * { box-sizing: border-box; }
 html, body { margin: 0; padding: 0; }
 body { width: 816px; height: 1056px; background: #fff; color: #1f1a29; font-family: Figtree, sans-serif; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
-.page { width: 816px; height: 1056px; padding: 38px 38px 22px; display: flex; flex-direction: column; gap: 16px; }
-.grid { display: grid; grid-template-columns: repeat(4, 1fr); grid-auto-rows: 1fr; gap: 9px; }
+.page { width: 816px; height: 1056px; padding: 30px 38px 20px; display: flex; flex-direction: column; gap: 14px; }
+.head { text-align: center; }
+.title { margin: 0; font-family: Gilda, Georgia, serif; font-weight: 400; font-size: 32px; line-height: 1.1; letter-spacing: 0.01em; }
+.subtitle { margin: 5px 0 0; font-size: 12px; font-weight: 300; letter-spacing: 0.03em; color: #3b3446; }
+.grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); grid-auto-rows: minmax(0, 1fr); gap: 8px; }
 .grid.months { flex: 1.35 1 0; }
 .grid.signs { flex: 1 1 0; }
-.cell { border: 1.2px solid #8d8598; border-radius: 12px; padding: 10px 10px 9px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+.cell { border: 1.2px solid #8d8598; border-radius: 12px; padding: 8px 8px 7px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
 .name { margin: 0; font-family: Gilda, Georgia, serif; font-size: 21px; line-height: 1.1; }
 .dates { margin: 2px 0 0; font-size: 10.5px; color: #3b3446; }
-.arts { display: flex; justify-content: center; align-items: center; gap: 2px; min-height: 60px; margin: 6px 0 4px; }
+.arts { display: flex; justify-content: center; align-items: center; gap: 2px; min-height: 52px; margin: 5px 0 3px; }
 .cut { object-fit: contain; display: block; }
 .dot { display: inline-block; border-radius: 50%; border: 1px solid #555; margin: 0 8px; }
 .stones { margin: 0; font-size: 13px; font-weight: 700; line-height: 1.25; }
 .old { margin: 3px 0 0; font-size: 9.5px; color: #3b3446; }
 .sign { align-items: stretch; justify-content: center; text-align: left; }
 .sign-head { display: flex; align-items: center; gap: 8px; }
-.glyph { flex: none; width: 42px; height: 42px; border-radius: 50%; border: 1.4px solid #3b2f6b; color: #3b2f6b; display: flex; align-items: center; justify-content: center; }
+.glyph { flex: none; width: 38px; height: 38px; border-radius: 50%; border: 1.4px solid #3b2f6b; color: #3b2f6b; display: flex; align-items: center; justify-content: center; }
 .sign .name { font-size: 18px; }
-.sign .dates { font-size: 10px; }
-.stone1913 { display: flex; align-items: center; gap: 8px; margin-top: 8px; }
+.sign .dates { font-size: 10px; text-wrap: balance; }
+.stone1913 { display: flex; align-items: center; gap: 8px; margin-top: 6px; }
 .lbl { display: block; font-size: 8.5px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #3b3446; }
 .foot { margin: 0; text-align: center; font-size: 10px; color: #3b3446; letter-spacing: 0.04em; }
-</style></head><body><div class="page"><div class="grid months">${months}</div><div class="grid signs">${signs}</div><p class="foot">Crystal &amp; Ritual, www.crystalandritual.com</p></div></body></html>`;
+</style></head><body><div class="page"><div class="head"><h1 class="title">Birthstones &amp; Zodiac Stones by Date</h1><p class="subtitle">Modern US List, With the 1912 Stone Where It Differs, and the 1913 Zodiac Stones</p></div><div class="grid months">${months}</div><div class="grid signs">${signs}</div><p class="foot">Crystal &amp; Ritual, www.crystalandritual.com</p></div></body></html>`;
 }
 
 async function main() {
@@ -112,6 +116,8 @@ async function main() {
     const page = await browser.newPage({ viewport: { width: 816, height: 1056 }, deviceScaleFactor: 2550 / 816 });
     await page.goto(pathToFileURL(tmp).href, { waitUntil: 'load' });
     await page.evaluate(() => document.fonts.ready);
+    const height = await page.evaluate(() => document.documentElement.scrollHeight);
+    if (height > 1056) throw new Error(`chart, the page is ${height} px tall, more than one Letter page (1056 px)`);
     await page.pdf({ path: files[0], format: 'Letter', printBackground: true, margin: { top: 0, right: 0, bottom: 0, left: 0 } });
     const png = await page.screenshot({ type: 'png', clip: { x: 0, y: 0, width: 816, height: 1056 } });
     await sharp(png).png({ compressionLevel: 9, adaptiveFiltering: true }).toFile(files[1]);

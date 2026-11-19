@@ -327,7 +327,8 @@
     },
     {
      "name": "Tourmaline",
-     "slug": "tourmaline"
+     "slug": "tourmaline",
+     "cutout": "pink-tourmaline"
     }
    ],
    "list1912": [
@@ -338,7 +339,8 @@
     {
      "name": "Tourmaline",
      "alternate": true,
-     "slug": "tourmaline"
+     "slug": "tourmaline",
+     "cutout": "pink-tourmaline"
     }
    ],
    "older": [
@@ -734,7 +736,8 @@
     },
     {
      "name": "Tourmaline",
-     "slug": "tourmaline"
+     "slug": "tourmaline",
+     "cutout": "pink-tourmaline"
     }
    ],
    "stone1913": [
@@ -776,7 +779,8 @@
     },
     {
      "name": "Tourmaline",
-     "slug": "tourmaline"
+     "slug": "tourmaline",
+     "cutout": "pink-tourmaline"
     },
     {
      "name": "Topaz",

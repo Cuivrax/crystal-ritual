@@ -56,6 +56,20 @@ test('the real charts give 12 months and 12 signs', () => {
   assert.deepEqual({ months: committed.months, signs: committed.signs }, data, 'birth_zodiac.json is up to date, run npm run finder');
 });
 
+test('tourmaline borrows the pink tourmaline cut-out and keeps its own sheet', () => {
+  const oct = data.months.find((m) => m.key === 'october');
+  const t = oct.modern.find((s) => s.name === 'Tourmaline');
+  assert.equal(t.slug, 'tourmaline');
+  assert.equal(t.cutout, 'pink-tourmaline');
+  const other = data.signs.find((s) => s.key === 'capricorn').linked.find((s) => s.name === 'Black Tourmaline');
+  assert.equal(other.cutout, undefined);
+  for (const name of ['Chrysolite', 'Beryl']) {
+    const hit = data.months.flatMap((m) => m.older).find((s) => s.name === name);
+    assert.equal(hit.slug, null);
+    assert.equal(hit.cutout, undefined);
+  }
+});
+
 test('every date of a leap year has exactly one sign', () => {
   const days = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
   for (let m = 1; m <= 12; m++) {
