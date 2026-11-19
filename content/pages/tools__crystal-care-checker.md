@@ -42,7 +42,7 @@ If a stone comes back with a warning such as Keep Dry, or Not Enough Data, a Try
 |---|---|
 | OK | Our sources call this kind of contact fine |
 | Brief Only | Our sources allow short contact only, so keep it quick |
-| Avoid | Our sources warn against it |
+| Keep Dry | Our sources warn against it. The warning names the test, such as Keep Dry for water or Keep Out of Sun for sunlight |
 | Not Enough Data | No source we trust covers it yet. Until one does, a dry method like moonlight or sound is the gentle choice |
 
 The word always shows next to the color, so the rating reads the same on any screen and to anyone who cannot tell the colors apart.

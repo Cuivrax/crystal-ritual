@@ -59,9 +59,10 @@ export const RATINGS = {
 // The avoid rating says what to do for each test (owner's wording, 2026-11-19).
 // Keys and colors stay, OK, Brief Only and Not Enough Data keep their labels.
 const AVOID_LABELS = [
-  [/ultrasonic|steam|machine/, 'No Ultrasonic or Steam'],
+  [/ultrasonic|steam|machine|cleaning/, 'No Ultrasonic or Steam'],
+  [/repair|polish|re-?cut/, 'No Repolishing'],
   [/soak/, 'No Soaking'],
-  [/water|wash|rinse|\bwet\b/, 'Keep Dry'],
+  [/water|wash|rinse|\bwet\b|\bdry\b/, 'Keep Dry'],
   [/\bsun|light|\buv\b/, 'Keep Out of Sun'],
   [/salt/, 'No Salt'],
   [/heat|\bhot\b|fire/, 'Keep Away From Heat'],

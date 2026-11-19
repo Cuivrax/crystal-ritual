@@ -236,8 +236,10 @@ export function processLabels(tree) {
 }
 
 // ------------------------------------------------------------ tables
-const CELL_RATING_RX = /^(OK|Brief only|Brief Only|Avoid|Unknown|Not Enough Data)\b\.?\s*/;
-const RATING_WORD = { ok: 'ok', 'brief only': 'brief_only', avoid: 'avoid', unknown: 'unknown', 'not enough data': 'unknown' };
+// The avoid rating may also be written with the label that names its test (Keep Dry, Keep Out of Sun and so on).
+const AVOID_LABELS = 'Keep Dry|No Soaking|Keep Out of Sun|No Salt|Keep Away From Heat|No Chemicals|No Ultrasonic or Steam|Handle With Care|Handle Gently';
+const CELL_RATING_RX = new RegExp(`^(OK|Brief only|Brief Only|Avoid|Unknown|Not Enough Data|${AVOID_LABELS})\\b\\.?\\s*`);
+const RATING_WORD = { ok: 'ok', 'brief only': 'brief_only', avoid: 'avoid', unknown: 'unknown', 'not enough data': 'unknown', ...Object.fromEntries(AVOID_LABELS.split('|').map((l) => [l.toLowerCase(), 'avoid'])) };
 
 export function processTables(tree) {
   walk(tree, (node) => {
@@ -265,9 +267,14 @@ export function processTables(tree) {
         if (!m) return;
         const r = RATING_WORD[m[1].toLowerCase()];
         const head = heads[i] || '';
+        // A column that lists things to avoid or notes ("Avoid", "Worth Knowing") holds advice, not a rating.
+        if (/^(also )?avoid\b|^keep away from\b|^worth knowing\b|^notes?$/i.test(head)) return;
         const field = head && !/^(fact|facts|value|details?|answer|what|)$/i.test(head) ? head : rowLabel;
         first.value = first.value.trimStart().slice(m[0].length);
-        const pill = el('span', { className: ['pill', 'is-small', RATINGS[r].cls] }, [txt(ratingLabel(r, field))]);
+        // The label names the test from the column header, or from the row label when the header is a stone name.
+        let label = ratingLabel(r, field);
+        if (r === 'avoid' && label === RATINGS.avoid.label && rowLabel) label = ratingLabel(r, rowLabel);
+        const pill = el('span', { className: ['pill', 'is-small', RATINGS[r].cls] }, [txt(label)]);
         cell.children.splice(cell.children.indexOf(first), 0, pill, txt(first.value && !/^[,.;]/.test(first.value) ? ' ' : ''));
         addClass(cell, 'has-pill');
       });
@@ -319,8 +326,8 @@ function stripRatingWord(nodes) {
   const first = container.children.find((c) => !isBlank(c));
   if (first && first.type === 'text') {
     first.value = first.value.trimStart()
-      .replace(/^(OK|Brief only|Avoid|Unknown)\s*\(see below\)\.?\s*/i, 'See below. ')
-      .replace(/^(OK|Brief only|Avoid|Unknown)[.,]\s*/i, '');
+      .replace(new RegExp(`^(OK|Brief only|Avoid|Unknown|Not Enough Data|${AVOID_LABELS})\\s*\\(see below\\)\\.?\\s*`, 'i'), 'See below. ')
+      .replace(new RegExp(`^(OK|Brief only|Avoid|Unknown|Not Enough Data|${AVOID_LABELS})[.,]\\s*`, 'i'), '');
   }
   return nodes;
 }
