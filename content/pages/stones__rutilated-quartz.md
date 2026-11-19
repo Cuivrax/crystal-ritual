@@ -199,7 +199,7 @@ Three questions to ask the seller. Are the needles rutile or tourmaline? Where w
 
 ### Can Rutilated Quartz Go in Water or the Sun?
 
-A rinse, yes. A long soak, our data cannot vouch for. Guides disagree here. One rates it safe in water, another calls it suitable for gemstone water and suggests recharging it in the sun, and a third warns against prolonged sunlight. Our care data rates water Brief only and sun Unknown, because no reference tests either, so keep smoky stones out of long, strong sun. Rutilated quartz also stays out of water you drink, since no stone in our data is cleared for that. Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+A rinse, yes. A long soak, our data cannot vouch for. Guides disagree here. One rates it safe in water, another calls it suitable for gemstone water and suggests recharging it in the sun, and a third warns against prolonged sunlight. Our care data rates water Brief only and sun Unknown, because no reference tests either, so keep smoky stones out of long, strong sun. Rutilated quartz also stays out of water you drink, since no stone in our data is cleared for that. Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Rutilated Quartz vs Look-Alikes
 

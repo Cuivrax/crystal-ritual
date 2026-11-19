@@ -203,7 +203,7 @@ Our handling rule for any High-risk stone is short. Look more than you touch. If
 
 Only for a brief, gentle rinse, and never in any water you drink, bathe in or put out for a pet. Guides split between rinsing it under running water and avoiding water entirely. Our care data rates water as Brief only because the matrix crumbles, and the arsenic rules out crystal water, elixirs, baths and moon water jars completely.
 
-Cleansing ideas that need no contact, like a sound bowl or moonlight on the closed box, avoid the problem. See [crystals that can't go in water](/care/crystals-that-cant-go-in-water/) for the full list, and check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+Cleansing ideas that need no contact, like a sound bowl or moonlight on the closed box, avoid the problem. See [crystals that can't go in water](/care/crystals-that-cant-go-in-water/) for the full list, and check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Adamite vs Look-Alikes
 

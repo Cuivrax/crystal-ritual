@@ -197,7 +197,7 @@ A gem lab can settle it, from refractive index and density or, as GIA did for a 
 
 A quick wash, yes. A soak, only a brief one. The care advice for tektites covers washing only, so our Care Checker rates water and soaking as Brief only.
 
-Sun is a harder case for a stone linked to the sun. Sellers tie it to solar gods, yet no reference source covers how sunlight affects it, so our care data rates sun as Unknown. Skip the sunny windowsill, and keep it away from hot surfaces, since heat is a firm Avoid. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+Sun is a harder case for a stone linked to the sun. Sellers tie it to solar gods, yet no reference source covers how sunlight affects it, so our care data rates sun as Not Enough Data. Skip the sunny windowsill, and keep it away from hot surfaces, since our care data marks it Keep Away From Heat. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Libyan Desert Glass vs Look-Alikes
 

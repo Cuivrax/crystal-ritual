@@ -196,7 +196,7 @@ The care rules come from two facts. Topaz has perfect cleavage, so a hard knock 
 
 ### Can Mystic Topaz Get Wet?
 
-A quick wash, yes. A long soak or a dip in cleaner, no. Salt has no reference source, and grit can scratch the coating, so skip salt bowls. Warm water with a little mild soap and a soft brush is the method the care guides give. If you make moon water, set the stone beside the jar. Check your own piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+A quick wash, yes. A long soak or a dip in cleaner, no. Salt has no reference source, and grit can scratch the coating, so skip salt bowls. Warm water with a little mild soap and a soft brush is the method the care guides give. If you make moon water, set the stone beside the jar. Check your own piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Mystic Topaz vs Look-Alikes
 

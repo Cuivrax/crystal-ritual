@@ -191,7 +191,7 @@ Briefly, yes. Several crystal guides tell you to charge citrine in sunlight, one
 
 ### Can Citrine Go in Water?
 
-For a wash, yes. Some guides go further and suggest citrine elixirs or gemstone water. Our care data covers washing, not soaking, and it clears no stone for drinking water yet, so keep every stone out of your drink and read our [moon water guide](/rituals/moon-water/). Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+For a wash, yes. Some guides go further and suggest citrine elixirs or gemstone water. Our care data covers washing, not soaking, and it clears no stone for drinking water yet, so keep every stone out of your drink and read our [moon water guide](/rituals/moon-water/). Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Citrine vs Look-Alikes
 

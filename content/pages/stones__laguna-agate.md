@@ -172,7 +172,7 @@ Ask the seller where the stone was mined, whether the color was dyed, and how th
 
 A damp cloth, yes. A rinse or a soak, not by our data yet. Some crystal guides rinse agates under running water, but our Care Checker rates water as Unknown for Laguna because no reference source covers it, and our care data wins over the guides.
 
-For sun, our care data says Brief only. One seller also advises keeping it out of direct sunlight, so a display under a lamp suits it better than a windowsill. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+For sun, our care data says Brief only. One seller also advises keeping it out of direct sunlight, so a display under a lamp suits it better than a windowsill. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Laguna Agate vs Look-Alikes
 

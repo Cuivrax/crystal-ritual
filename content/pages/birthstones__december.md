@@ -164,7 +164,7 @@ Three questions for any seller. What is the mineral name? Has it been treated, a
 
 ## How to Care for December Birthstones
 
-These ratings come from the same data as our [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+These ratings come from the same data as our [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 | | Turquoise | Tanzanite | Zircon |
 |---|---|---|---|

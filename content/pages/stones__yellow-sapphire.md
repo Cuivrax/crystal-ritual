@@ -203,7 +203,7 @@ Four questions to ask the seller. Natural or lab-grown? Heated, beryllium-diffus
 
 Some can, which is why sun and heat are rated Brief only. In GIA's journal in 1987, Kurt Nassau and G. Kay Valente sorted yellow sapphire into seven types, two of which fade, one natural or irradiation-produced and one synthetic and irradiated. Their Winter 1987 paper adds that even a light-stable natural type can fade when heated below 392 °F (200 °C), though light restores it.
 
-Heat matters as much as light. In a 2022 *Gems & Gemology* report, the warmth of a 120-watt spotlight, about 212 °F (100 °C), faded an 18 ct yellow sapphire, and sunlight brought its color back. So skip long hours under hot lamps and in strong sun, and ask whether a stone was fade tested before you pay for its color. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+Heat matters as much as light. In a 2022 *Gems & Gemology* report, the warmth of a 120-watt spotlight, about 212 °F (100 °C), faded an 18 ct yellow sapphire, and sunlight brought its color back. So skip long hours under hot lamps and in strong sun, and ask whether a stone was fade tested before you pay for its color. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Yellow Sapphire vs Look-Alikes
 

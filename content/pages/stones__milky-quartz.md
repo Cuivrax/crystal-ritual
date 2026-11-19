@@ -170,7 +170,7 @@ Ask the seller two questions. Is this natural quartz or glass? Where was it foun
 
 ### Can Milky Quartz Go in Water?
 
-That is still an open question. Quartz itself is chemically inert, but no care source covers milky quartz as a variety, so water, soaking and cleaning are rated Unknown and this page gives no advice on them either way. A soft dry cloth is enough for dust. Keep every stone out of drinking water, and read our guide to [moon water without ruining your stones](/rituals/moon-water/). Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+That is still an open question. Quartz itself is chemically inert, but no care source covers milky quartz as a variety, so water, soaking and cleaning are rated Unknown and this page gives no advice on them either way. A soft dry cloth is enough for dust. Keep every stone out of drinking water, and read our guide to [moon water without ruining your stones](/rituals/moon-water/). Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Milky Quartz vs Look-Alikes
 

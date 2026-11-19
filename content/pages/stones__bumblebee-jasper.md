@@ -170,7 +170,7 @@ Three questions to ask the seller. Has it been filled, stabilized, sealed or dye
 
 ### Is Bumblebee Jasper Toxic?
 
-Treat it as toxic if swallowed or ground into dust. Our Care Checker rates its toxicity Avoid. A retailer says it is safe to wear but contains arsenic and sulfur minerals, and should not be ingested or handled by children who might put it in their mouth.
+Treat it as toxic if swallowed or ground into dust. Our Care Checker marks it Handle With Care for toxicity. A retailer says it is safe to wear but contains arsenic and sulfur minerals, and should not be ingested or handled by children who might put it in their mouth.
 
 The reason is in the colors, pararealgar and realgar, both arsenic sulfides. Realgar on its own carries a High toxicity risk, hazard arsenic, and is dangerous if swallowed. When handling realgar, clean yourself properly, avoid dust and wash your hands afterward. Bumblebee stone is mostly calcite, not pure realgar, but we apply the same habits.
 
@@ -183,9 +183,9 @@ Our guide to [toxic crystals](/care/toxic-crystals/) covers the other stones tha
 
 ### Can Bumblebee Jasper Get Wet?
 
-Keep it dry. Our Care Checker rates water Avoid, because a retailer advises against soaking or long water exposure for this soft, porous stone. Take a bumblebee ring or bracelet off before you wash your hands, shower or swim, and if a piece gets splashed, pat it dry at once.
+Keep it dry. Our Care Checker marks it Keep Dry, because a retailer advises against soaking or long water exposure for this soft, porous stone. Take a bumblebee ring or bracelet off before you wash your hands, shower or swim, and if a piece gets splashed, pat it dry at once.
 
-That rules out every water cleanse, from running water to a moon water jar. One guide calls it safe for indirect gem water, but our care data wins. Its water and toxicity ratings are both Avoid, so it has no place near anything you drink, and our list of [crystals that can't go in water](/care/crystals-that-cant-go-in-water/) includes it for both reasons.
+That rules out every water cleanse, from running water to a moon water jar. One guide calls it safe for indirect gem water, but our care data wins. Our care data marks it Keep Dry and Handle With Care, so it has no place near anything you drink, and our list of [crystals that can't go in water](/care/crystals-that-cant-go-in-water/) includes it for both reasons.
 
 ### Can Bumblebee Jasper Go in the Sun?
 
@@ -195,7 +195,7 @@ We do not know yet, so keep it out of strong sun. Our Care Checker rates sun Unk
 
 - **Orange calcite.** Also calcite, and our Care Checker rates its toxicity OK. A piece sold as bumblebee with no black pattern at all deserves a second look. See [orange calcite](/stones/orange-calcite/).
 - **Crazy lace agate.** A banded agate with streaks of yellow, red and brown. It is quartz, harder at 6.5 to 7, and rated OK for toxicity. See [crazy lace agate](/stones/crazy-lace-agate/).
-- **Realgar.** The orange pigment as a mineral on its own, rated Avoid for water, sun, heat and toxicity in our data. See [realgar](/stones/realgar/).
+- **Realgar.** The orange pigment as a mineral on its own, marked Keep Dry, Keep Out of Sun, Keep Away From Heat and Handle With Care in our data. See [realgar](/stones/realgar/).
 - **Real jasper.** Opaque quartz, hardy enough for all jewelry uses.
 
 ## Price Guide

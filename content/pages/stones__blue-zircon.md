@@ -198,7 +198,7 @@ No home test can tell you whether the blue is natural, since the heating is unde
 
 ### Can Blue Zircon Go in the Sun?
 
-Keep it out of strong sun and away from UV lamps, which is why the Care Checker rates sun and UV as Avoid. Zircon is generally stable in light, but some heat-treated stones may revert to their original colors, usually light brown, after prolonged exposure to bright light. Heat-produced blues also usually fade more easily than heat-produced green and yellow.
+Keep it out of strong sun and away from UV lamps, which is why the Care Checker marks it Keep Out of Sun. Zircon is generally stable in light, but some heat-treated stones may revert to their original colors, usually light brown, after prolonged exposure to bright light. Heat-produced blues also usually fade more easily than heat-produced green and yellow.
 
 Long-wave UV is the fast route. In GIA's 2016 study, Nathan Renfro exposed eleven faceted blue zircons to long-wave UV, and all of them turned brown within minutes. The study traces real cases to tanning beds and the UV lamps used for acrylic nails.
 
@@ -206,7 +206,7 @@ Long-wave UV is the fast route. In GIA's 2016 study, Nathan Renfro exposed eleve
 
 In that small study, yes. An incandescent bulb about 1 cm (less than half an inch) away brought the blue back completely in about 20 minutes for every sample. Darkness did nothing. A stone kept in the dark for a week stayed brown until it went back under the bulb. Because zircon can be affected by heat extremes, ask a jeweler to do this rather than holding your stone against a hot bulb.
 
-**Where the beliefs and the care data disagree.** Some crystal sellers suggest full-moon light or a salt-water rinse to cleanse blue zircon. Salt is rated Unknown for zircon, so skip it, and bring the stone in before the morning sun reaches the sill. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+**Where the beliefs and the care data disagree.** Some crystal sellers suggest full-moon light or a salt-water rinse to cleanse blue zircon. Salt is rated Unknown for zircon, so skip it, and bring the stone in before the morning sun reaches the sill. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Blue Zircon vs Look-Alikes
 

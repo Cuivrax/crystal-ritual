@@ -178,7 +178,7 @@ A gemologist can separate obsidian from chalcedony and black tourmaline with a r
 
 ### Can Mahogany Obsidian Go in Water?
 
-A wash, yes. A long soak, no. One French shop suggests two to three hours in spring water on a plate of sea salt, then an hour of morning sun. Our Care Checker rates soaking Brief only and salt and sun Unknown, and our care data wins over the guides, so skip the salt plate and the sunbath. Like every stone, it stays out of water you drink. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+A wash, yes. A long soak, no. One French shop suggests two to three hours in spring water on a plate of sea salt, then an hour of morning sun. Our Care Checker rates soaking Brief only and salt and sun Unknown, and our care data wins over the guides, so skip the salt plate and the sunbath. Like every stone, it stays out of water you drink. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Mahogany Obsidian vs Look-Alikes
 

@@ -116,7 +116,7 @@ The Federal Trade Commission gives guidance on how imitation and synthetic mater
 
 ## Caring for Opal & Opalite
 
-**Opal.** Our care data rates water, long soaks, heat and harsh chemicals Avoid. Opal is sensitive to moisture and temperature changes, hydrophane opal absorbs water and chemicals, and opal shatters more easily than other popular gems. Skip opal ring stones unless the setting protects the stone, the stone is a triplet or the ring is for occasional wear. Kunz noted that most opals slowly lose their water over the years (1913, page 146).
+**Opal.** Our care data marks opal Keep Dry, No Soaking, Keep Away From Heat and No Chemicals. Opal is sensitive to moisture and temperature changes, hydrophane opal absorbs water and chemicals, and opal shatters more easily than other popular gems. Skip opal ring stones unless the setting protects the stone, the stone is a triplet or the ring is for occasional wear. Kunz noted that most opals slowly lose their water over the years (1913, page 146).
 
 **Opalite.** For glass, mild soap and warm water should be safe for most non-treated and non-backed pieces. Household dust is harder than most glass gems, so wipe opalite with a lint-free cloth instead of rubbing grit across it. Opalite is not in our care data yet.
 

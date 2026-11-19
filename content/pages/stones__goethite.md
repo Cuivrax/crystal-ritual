@@ -187,7 +187,7 @@ Ask the seller two questions. Is this goethite, limonite or hematite, and how wa
 
 ### Can Goethite Go in Water?
 
-No reference answers it. Water, salt and soaking are all rated Unknown for goethite, and the crystal guides that do answer disagree with each other. Nothing here says it is safe or unsafe in water, so ask the seller or a mineral dealer before you test it. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+No reference answers it. Water, salt and soaking are all rated Unknown for goethite, and the crystal guides that do answer disagree with each other. Nothing here says it is safe or unsafe in water, so ask the seller or a mineral dealer before you test it. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Goethite vs Look-Alikes
 

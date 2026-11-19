@@ -200,7 +200,7 @@ Weigh it in your hand. Gypsum roses are much lighter, more brittle and thinner t
 
 ### Can Barite Go in Water?
 
-A quick wipe with a damp cloth, yes. A soak or a bath, no, because soaking is not covered by any care guidance. And never in water you drink, whatever any guide says about gemstone water. The [list of crystals that can't go in water](/care/crystals-that-cant-go-in-water/) has the rest. Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+A quick wipe with a damp cloth, yes. A soak or a bath, no, because soaking is not covered by any care guidance. And never in water you drink, whatever any guide says about gemstone water. The [list of crystals that can't go in water](/care/crystals-that-cant-go-in-water/) has the rest. Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Barite vs Look-Alikes
 

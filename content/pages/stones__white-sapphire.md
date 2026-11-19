@@ -184,7 +184,7 @@ Three questions for the seller. Natural or lab-grown? Heated, coated, diffused o
 
 ### Can You Soak White Sapphire?
 
-Briefly. One gem shop suggests soaking it in warm soapy water for 20 to 30 minutes. Long soaks are rated Brief only, because the care guidance covers washing, not soaking, and a filled or oiled stone is the one you least want sitting in water. Wash, rinse, dry. Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+Briefly. One gem shop suggests soaking it in warm soapy water for 20 to 30 minutes. Long soaks are rated Brief only, because the care guidance covers washing, not soaking, and a filled or oiled stone is the one you least want sitting in water. Wash, rinse, dry. Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## White Sapphire vs Look-Alikes
 

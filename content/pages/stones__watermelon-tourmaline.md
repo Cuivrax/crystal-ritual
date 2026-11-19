@@ -162,7 +162,7 @@ A price far below the market is one more warning sign. Ask the seller three ques
 
 ### Can Watermelon Tourmaline Go in Water or Sun?
 
-A wash in warm soapy water, yes. A long soak or a monthly session under running water, as one German site suggests, has no reference guidance behind it, so our Care Checker rates water Unknown. Sun is the easier one. Tourmaline is generally stable to light, so a few hours on the sill is fine unless the color came from irradiation. Skip salt, which is also Unknown, and skip drinking elixirs too. Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown, with the reason and the source.
+A wash in warm soapy water, yes. A long soak or a monthly session under running water, as one German site suggests, has no reference guidance behind it, so our Care Checker rates water Unknown. Sun is the easier one. Tourmaline is generally stable to light, so a few hours on the sill is fine unless the color came from irradiation. Skip salt, which is also Unknown, and skip drinking elixirs too. Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data, with the reason and the source.
 
 ## Watermelon Tourmaline vs Look-Alikes
 

@@ -168,7 +168,7 @@ These ratings come from our care data, the same data as the [Care Checker](/tool
 | Tanzanite | OK | Unknown | Unknown | Cleavage makes daily wear risky |
 | Zircon | OK | Avoid | Unknown | Blue zircon can turn brown under tanning beds or nail lamps |
 
-A few notes behind the table. Our care data rates smoky quartz Avoid for sun because UV light can fade it, and Avoid for heat because heating lightens the color. Very dark stones are sometimes heated on purpose. Jet rates Avoid for toxicity because the International Gem Society's toxicity table rates it high risk with the hazard listed as organic material. Turquoise is porous, so liquids and cleaning products can damage or recolor it.
+A few notes behind the table. Our care data marks smoky quartz Keep Out of Sun because UV light can fade it, and Keep Away From Heat because heating lightens the color. Very dark stones are sometimes heated on purpose. Jet is marked Handle With Care for toxicity because the International Gem Society's toxicity table rates it high risk with the hazard listed as organic material. Turquoise is porous, so liquids and cleaning products can damage or recolor it.
 
 **Next Step.** Born on January 20 or later? Your sign has moved on to [Aquarius](/zodiac/aquarius/). Compare every sign on the [zodiac stones chart](/zodiac/).
 

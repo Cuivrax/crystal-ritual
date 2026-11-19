@@ -160,13 +160,13 @@ Chalcocite dissolves in nitric acid, a lab test, not a home one. Ask the seller 
 
 ### Does Chalcocite Tarnish?
 
-Yes. Faces can grow a thin film, and many older pieces have partly altered to covellite or digenite, which dulls the luster. Dry air, clean air and no heat slow it down. Check your specimen in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+Yes. Faces can grow a thin film, and many older pieces have partly altered to covellite or digenite, which dulls the luster. Dry air, clean air and no heat slow it down. Check your specimen in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 **Where the beliefs and the care data disagree.** Crystal guides agree on one thing, no water, and our data says the same, a quick rinse at most. One guide suggests burying chalcocite in earth, which damp soil makes a bad idea for a stone that tarnishes. Another rests it on an amethyst or quartz cluster for 24 hours, but quartz is far harder, so a soft plate can get scratched. Sound or moonlight keeps it dry and still.
 
 ## Chalcocite vs Look-Alikes
 
-- **Galena.** Different crystals and cleavage. Galena is a lead mineral, rated Avoid for toxicity in our Care Checker.
+- **Galena.** Different crystals and cleavage. Galena is a lead mineral, marked Handle With Care for toxicity in our Care Checker.
 - **Acanthite.** Even more sectile than chalcocite.
 - **Bornite and covellite.** They share the same deposits, and chalcocite often forms from them. A blue or purple tarnish on chalcocite comes from alteration toward covellite or digenite.
 

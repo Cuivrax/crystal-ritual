@@ -182,7 +182,7 @@ Four questions to ask the seller. Natural or lab-grown? Heated, diffused or fill
 
 ### Can Purple Sapphire Go in Water?
 
-For a wash, yes. A long soak is rated Brief only because no care source covers soaking, and an oiled or filled stone is the last one you want sitting in water. Keep every stone out of drinking water. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+For a wash, yes. A long soak is rated Brief only because no care source covers soaking, and an oiled or filled stone is the last one you want sitting in water. Keep every stone out of drinking water. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Purple Sapphire vs Look-Alikes
 

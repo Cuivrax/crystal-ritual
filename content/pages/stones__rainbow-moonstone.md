@@ -204,7 +204,7 @@ A quick wash, yes. A daily shower or a swim in the ocean, not by our data, since
 
 ### Can I Charge It Under the Moon or in the Sun?
 
-Moonlight on a windowsill is the most common suggestion in modern crystal guides, so bring the stone in before the morning sun arrives. The 15 to 30 minutes of morning sun one guide recommends and the sea salt bed another suggests are both Unknown in our data. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+Moonlight on a windowsill is the most common suggestion in modern crystal guides, so bring the stone in before the morning sun arrives. The 15 to 30 minutes of morning sun one guide recommends and the sea salt bed another suggests are both Unknown in our data. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Rainbow Moonstone vs Look-Alikes
 

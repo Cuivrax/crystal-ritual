@@ -189,7 +189,7 @@ We found no reference source on whether natural pink opal fades. Intense light c
 
 ### Cleansing Pink Opal
 
-Shop guides suggest moonlight, sound and smoke for cleansing. None of those touches the stone. Skip the salt and the spring water soak. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+Shop guides suggest moonlight, sound and smoke for cleansing. None of those touches the stone. Skip the salt and the spring water soak. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Pink Opal vs Look-Alikes
 

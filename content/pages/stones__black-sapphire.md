@@ -185,7 +185,7 @@ Three questions to ask the seller. Is it natural, and treated in any way, includ
 
 ### Can Black Sapphire Go in Water?
 
-For a wash, yes. For a long soak, not by the Care Checker. Warm soapy water and a soft toothbrush are what both the care references and the dealer guide recommend. Salt has no source either way, so we would skip salt cleanses until a reference source covers them. Check your own piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+For a wash, yes. For a long soak, not by the Care Checker. Warm soapy water and a soft toothbrush are what both the care references and the dealer guide recommend. Salt has no source either way, so we would skip salt cleanses until a reference source covers them. Check your own piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Black Sapphire vs Look-Alikes
 

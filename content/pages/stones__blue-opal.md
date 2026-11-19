@@ -185,7 +185,7 @@ A wipe with a damp cloth, yes. A soak, no. Clear blue opal can turn milky with t
 
 ### Can You Charge Blue Opal in Sunlight or Moonlight?
 
-Not in sunlight, which our care data rates Avoid. If moonlight is part of your routine, one guide's version fits the data, a night indoors on a sill that will not get hot by morning. Bring the stone in before the sun reaches it, and keep it out of any water you drink, as in our guide to [moon water without ruining your stones](/rituals/moon-water/). Check your exact piece in the [Care Checker](/tools/crystal-care-checker/).
+Not in sunlight, which our care data marks Keep Out of Sun. If moonlight is part of your routine, one guide's version fits the data, a night indoors on a sill that will not get hot by morning. Bring the stone in before the sun reaches it, and keep it out of any water you drink, as in our guide to [moon water without ruining your stones](/rituals/moon-water/). Check your exact piece in the [Care Checker](/tools/crystal-care-checker/).
 
 ## Blue Opal vs Look-Alikes
 

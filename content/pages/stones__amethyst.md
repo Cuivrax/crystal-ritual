@@ -194,7 +194,7 @@ A faded stone is not proof of a fake, since real amethyst can fade, and our sour
 
 A wash, yes. A long soak or a salt bath, not by our data. One guide suggests a saltwater cleanse while another says to avoid salt water. Our care data rates salt as Unknown because no reference source covers it, so skip salt until one does.
 
-The same goes for the amethyst-infused drinking water some guides suggest. Keep every stone out of drinking water, and read our guide to [moon water without ruining your stones](/rituals/moon-water/). Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+The same goes for the amethyst-infused drinking water some guides suggest. Keep every stone out of drinking water, and read our guide to [moon water without ruining your stones](/rituals/moon-water/). Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Amethyst vs Look-Alikes
 

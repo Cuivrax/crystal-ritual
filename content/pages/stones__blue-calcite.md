@@ -211,7 +211,7 @@ Blue lace agate is a banded chalcedony with sky-blue layers, first found in 1962
 
 ### Angelite & Blue Aragonite
 
-Angelite is a bluish gray anhydrite, a calcium sulfate, from Lima, Peru, discovered in 1987. It is about as soft as calcite and should stay dry, so the Care Checker rates water as Avoid. Blue aragonite shares calcite's chemistry but has an orthorhombic structure and rates 3.5 to 4.
+Angelite is a bluish gray anhydrite, a calcium sulfate, from Lima, Peru, discovered in 1987. It is about as soft as calcite and should stay dry, so the Care Checker marks it Keep Dry. Blue aragonite shares calcite's chemistry but has an orthorhombic structure and rates 3.5 to 4.
 
 ## Price Guide
 

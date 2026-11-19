@@ -191,7 +191,7 @@ Raman analysis settled both cases, in 2013 and in 2015. Ask the seller whether t
 
 ### Can Dumortierite Go in Water or Sun?
 
-A wash, yes. A long soak, keep it brief. Crystal guides split on this, with one allowing a quick lukewarm rinse with mild soap and another warning against prolonged water, and our care data sits in between. Some guides also recharge it in morning sun or on a moonlit windowsill. Sun is Unknown in our care data, and a windowsill catches the morning sun too, so bring the stone in at dawn and skip long sun sessions. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+A wash, yes. A long soak, keep it brief. Crystal guides split on this, with one allowing a quick lukewarm rinse with mild soap and another warning against prolonged water, and our care data sits in between. Some guides also recharge it in morning sun or on a moonlit windowsill. Sun is Unknown in our care data, and a windowsill catches the morning sun too, so bring the stone in at dawn and skip long sun sessions. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Dumortierite vs Look-Alikes
 

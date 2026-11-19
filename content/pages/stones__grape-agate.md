@@ -168,11 +168,11 @@ Ask the seller what the material is and where it was mined. The [Label Decoder](
 
 ### Can Grape Agate Go in the Sun?
 
-No, not for long. Our Care Checker rates sun Avoid because purple grape agate can fade in prolonged direct sunlight. That fits what is known about amethyst, which purple grape agate is. "Some amethyst color can fade with prolonged exposure to intense light," says GIA. Even a shop that sells it notes that months or years of direct UV may lighten the purple. So keep it off the sunny windowsill and skip sun-charging routines. More on this in [crystals that fade in the sun](/care/crystals-that-fade-in-the-sun/).
+No, not for long. Our Care Checker marks it Keep Out of Sun because purple grape agate can fade in prolonged direct sunlight. That fits what is known about amethyst, which purple grape agate is. "Some amethyst color can fade with prolonged exposure to intense light," says GIA. Even a shop that sells it notes that months or years of direct UV may lighten the purple. So keep it off the sunny windowsill and skip sun-charging routines. More on this in [crystals that fade in the sun](/care/crystals-that-fade-in-the-sun/).
 
 ### Can Grape Agate Go in Water?
 
-Yes, for washing and soaking, by our agate data. Salt is another matter. One seller warns that salt solutions can damage the surface of the grapes over time, and our care data has no rating for salt, so skip it. Like every stone, grape agate stays out of water you drink. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+Yes, for washing and soaking, by our agate data. Salt is another matter. One seller warns that salt solutions can damage the surface of the grapes over time, and our care data has no rating for salt, so skip it. Like every stone, grape agate stays out of water you drink. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Grape Agate vs Look-Alikes
 

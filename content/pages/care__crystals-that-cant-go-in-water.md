@@ -91,7 +91,7 @@ sources:
 
 Hard crystals such as amethyst, citrine, rose quartz and clear quartz can go in water for a quick rinse, but should not be left to soak. Fluorite, opal, halite, angelite and marcasite should stay out of water, while selenite, celestite, turquoise and lapis lazuli can take only brief contact. No crystal belongs in water you drink.
 
-Every rating on this page comes from the same care data as our [Care Checker](/tools/crystal-care-checker/), and each one rests on a quote we checked against its source page. **OK** means the cited source says the contact is fine. **Brief Only** means keep it quick. **Avoid** means the cited source warns against it. **Not Enough Data** means we have no sourced answer yet, and we would rather tell you that than guess from a stone's hardness.
+Every rating on this page comes from the same care data as our [Care Checker](/tools/crystal-care-checker/), and each one rests on a quote we checked against its source page. **OK** means the cited source says the contact is fine. **Brief Only** means keep it quick. **Keep Dry** and **No Soaking** mean the cited source warns against it. **Not Enough Data** means we have no sourced answer yet, and we would rather tell you that than guess from a stone's hardness.
 
 <!-- TABLE. Build the full filterable table from care.json at compile time, fields "water" (shown as Rinse) and "soak" (shown as Soak), with the same labels, reasons and source links as the Care Checker (dealer links rel nofollow, "dealer guide" tag, Wikipedia-only note). Search box with aliases, filters by rating, print button. The grouped tables below are the static version and must stay in sync with care.json (built 2026-11-18). -->
 
@@ -114,7 +114,7 @@ Every rating on this page comes from the same care data as our [Care Checker](/t
 
 ## Crystals That Can't Go in Water
 
-These stones are rated Avoid for water. Some dissolve, some soak it up and crack, and two react with it in ways you do not want near you.
+These stones are marked Keep Dry. Some dissolve, some soak it up and crack, and two react with it in ways you do not want near you.
 
 | Stone | Why it stays out of water |
 |---|---|
@@ -216,7 +216,7 @@ Our house rule covers these stones whatever any other guide says. Wearing or dis
 | Bumblebee jasper | A retailer says it contains arsenic and sulfur minerals and must not be ingested |
 | Chicken blood stone | Rated a high toxicity risk for mercury. Finished pieces pose no health risk in normal handling, and cutting needs precautions |
 | Amazonite | Rated Avoid for toxicity in the Care Checker. Its green color is thought to be caused by trace amounts of lead |
-| Baltic amber, dark amber, red coral, jet, ammolite, pyromorphite, wulfenite, halite, Tiffany stone | Each is rated Avoid for toxicity in the Care Checker. The International Gem Society table lists amber, jet, coral and ammolite as high risk without saying why, pyromorphite and wulfenite contain lead, raw Tiffany stone is said to contain beryllium, and the sources for halite discourage tasting minerals |
+| Baltic amber, dark amber, red coral, jet, ammolite, pyromorphite, wulfenite, halite, Tiffany stone | Each is marked Handle With Care for toxicity in the Care Checker. The International Gem Society table lists amber, jet, coral and ammolite as high risk without saying why, pyromorphite and wulfenite contain lead, raw Tiffany stone is said to contain beryllium, and the sources for halite discourage tasting minerals |
 | Cinnabar | Contains mercury. Its toxicity risk is rated High, and it can react dangerously if accidentally swallowed |
 | Orpiment | An arsenic sulfide, like realgar. Both are toxic, and contact with them should be avoided |
 | Stibnite | Named in our house rule for drinking water, like every stone in this table |
@@ -228,7 +228,7 @@ Our house rule covers these stones whatever any other guide says. Wearing or dis
 
 As long as a rinse, and no longer. The cited sources describe washing a stone, not leaving it to soak, so the Care Checker shows Brief Only for a long soak on every stone except those three agates. Here is the rinse the cited sources support for stones rated OK.
 
-1. **Check the stone first.** Put it in the [Care Checker](/tools/crystal-care-checker/). If it says Avoid or Not Enough Data, skip water and pick a dry method.
+1. **Check the stone first.** Put it in the [Care Checker](/tools/crystal-care-checker/). If it says Keep Dry or Not Enough Data, skip water and pick a dry method.
 2. **Use lukewarm water, not hot.** Abrupt temperature changes can fracture citrine.
 3. **Add a drop of mild soap and use a soft brush.** That is the recommended method for amethyst, citrine and rose quartz.
 4. **Rinse, then pat it dry with a soft cloth.** Do it straight away, before you set the stone back on the shelf.

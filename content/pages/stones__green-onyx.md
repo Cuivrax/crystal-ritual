@@ -198,7 +198,7 @@ Two different stones share the name, so they get two care plans. Our care rating
 
 ### Can Green Onyx Go in Water?
 
-Green onyx jewelry can be washed in warm, soapy water, as long as you keep it brief. An onyx marble vase is calcite, and our care data rates water as Brief only because long exposure can slowly dissolve it, so a soft, barely damp cloth is the cautious choice. Neither kind belongs in drinking water, and no stone in our data is cleared for water you drink. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+Green onyx jewelry can be washed in warm, soapy water, as long as you keep it brief. An onyx marble vase is calcite, and our care data rates water as Brief only because long exposure can slowly dissolve it, so a soft, barely damp cloth is the cautious choice. Neither kind belongs in drinking water, and no stone in our data is cleared for water you drink. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Green Onyx vs Look-Alikes
 

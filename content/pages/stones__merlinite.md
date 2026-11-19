@@ -190,7 +190,7 @@ Treat it as opal. Our care data rates dendritic opal Brief only for water, soaks
 
 ### Can Merlinite Go in Water?
 
-A quick wash, yes. A long soak, not by our data, which covers washing only. Dendritic opal deserves even less water than chalcedony. Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+A quick wash, yes. A long soak, not by our data, which covers washing only. Dendritic opal deserves even less water than chalcedony. Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Merlinite vs Look-Alikes
 

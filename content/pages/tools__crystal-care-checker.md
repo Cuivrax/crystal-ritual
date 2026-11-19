@@ -24,7 +24,7 @@ sources:
 
 # Crystal Care Checker for Water, Sun & Salt
 
-The Crystal Care Checker answers the crystal care question people ask most, whether a stone can take a rinse, a soak, sunlight or salt before you cleanse it. Pick up to six stones and a method, and each stone gets OK, Brief Only, Avoid or Not Enough Data, with the reason and the source behind it. It looks at physical care only, never at what a method does for a stone's energy.
+The Crystal Care Checker answers the crystal care question people ask most, whether a stone can take a rinse, a soak, sunlight or salt before you cleanse it. Pick up to six stones and a method, and each stone gets OK, Brief Only, a warning that names the test such as Keep Dry or No Salt, or Not Enough Data, with the reason and the source behind it. It looks at physical care only, never at what a method does for a stone's energy.
 
 <!-- TOOL. Embed the checker here, from tools/care-checker/index.html (style block, main content and script, with the slim care.json copy built by build_care_data.py, fields water, soak, sun_light and salt). Set data-stone-url to "/stones/{slug}/" so stone names link to their pages. The intro above sits over the tool, everything below sits under the results. One indexed URL, result states with query parameters are canonical to /tools/crystal-care-checker/. -->
 
@@ -34,7 +34,7 @@ The Crystal Care Checker answers the crystal care question people ask most, whet
 2. **Choose a method.** The first group is the contact methods, Rinse Under the Tap, Soak in Water, Leave in Sunlight and Bury in Salt or Salt Water. The second group is the dry methods, Moonlight, Sound, Smoke, Selenite Plate and Brown Rice.
 3. **Read your results.** A short summary covers all your stones at once, then each stone gets its own card with the verdict, the reason in one or two sentences and links to the pages that reason comes from.
 
-If a stone comes back Avoid or Not Enough Data, a Try Moonlight Instead button switches you to a dry method in one tap. Save as Image draws a tall care card with your stones and verdicts, handy to keep on your phone next to your shelf. The page address updates as you choose, so you can bookmark a result or send it to a friend who just got her first selenite lamp.
+If a stone comes back with a warning such as Keep Dry, or Not Enough Data, a Try Moonlight Instead button switches you to a dry method in one tap. Save as Image draws a tall care card with your stones and verdicts, handy to keep on your phone next to your shelf. The page address updates as you choose, so you can bookmark a result or send it to a friend who just got her first selenite lamp.
 
 ## What the Ratings Mean
 
@@ -69,7 +69,7 @@ These rules decide what you see. They lean cautious on purpose, because a cautio
 
 - **Selenite and water.** Brief Only. Gypsum, the mineral behind selenite, is water soluble, and it should be cleaned by hand with warm water only. A quick wipe, then dry it.
 - **Amethyst and sunlight.** Brief Only. Some amethyst color can fade with prolonged exposure to intense light. A morning on the sill is not the same as a month on it.
-- **Fluorite and a soak.** Avoid. Fluorite is slightly soluble in water, so it should never be submerged.
+- **Fluorite and a soak.** No Soaking. Fluorite is slightly soluble in water, so it should never be submerged.
 
 ## What the Checker Does Not Cover
 

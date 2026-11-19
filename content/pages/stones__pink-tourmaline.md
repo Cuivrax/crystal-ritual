@@ -179,7 +179,7 @@ The [Label Decoder](/tools/crystal-label-decoder/) turns the name on a tag into 
 - **Cleaning.** No ultrasonic or steam. The pink variety is often flawed and vulnerable to vibration damage.
 - **Toxicity.** None known for tourmaline in general.
 
-Check your exact piece, tumbled stone, bracelet or ring, in the [Care Checker](/tools/crystal-care-checker/). It shows OK, Brief only, Avoid or Unknown for water, sun and salt, with the reason and the source.
+Check your exact piece, tumbled stone, bracelet or ring, in the [Care Checker](/tools/crystal-care-checker/). It shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data for water, sun and salt, with the reason and the source.
 
 ## Pink Tourmaline vs Look-Alikes
 

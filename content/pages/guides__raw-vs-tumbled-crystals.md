@@ -102,9 +102,9 @@ For hard stones, a tumbled piece takes daily handling better, because the points
 
 - **Raw points and clusters.** Crystal tips and edges are the parts that knock against each other in a bowl or a bag. Store them apart, and keep amethyst away from harder gems to avoid scratches.
 - **Stones with cleavage.** Labradorite has perfect cleavage in two directions, which makes it prone to breaking on impact. A tumbled labradorite dropped on tile can still break.
-- **Soft stones.** Selenite is about 2 on the Mohs scale, calcite 3 and fluorite 4, all below the 5 to 8 range of the most popular tumbling materials. The Care Checker rates selenite and fluorite Avoid for scratches and storage, and orange calcite Brief Only. Keep them out of pockets in either form.
+- **Soft stones.** Selenite is about 2 on the Mohs scale, calcite 3 and fluorite 4, all below the 5 to 8 range of the most popular tumbling materials. The Care Checker marks selenite and fluorite Handle Gently for scratches and storage, and orange calcite Brief Only. Keep them out of pockets in either form.
 - **Cleaning.** A smooth tumble rinses clean fast if its stone is rated OK for water. A cluster holds dust between its crystals, and a soft brush with warm water and mild detergent, the standard method for amethyst, reaches the gaps.
-- **Toxicity.** The toxicity rating follows the mineral, not the finish. Bumblebee jasper is rated Avoid, and a retailer says it contains arsenic and sulfur minerals, and that no one should ingest it or let children mouth it, so a raw piece or a chipped tumble belongs on a high shelf. Malachite is rated Brief Only. Its grinding dust is toxic, though finished pieces should be safe to handle.
+- **Toxicity.** The toxicity rating follows the mineral, not the finish. Bumblebee jasper is marked Handle With Care, and a retailer says it contains arsenic and sulfur minerals, and that no one should ingest it or let children mouth it, so a raw piece or a chipped tumble belongs on a high shelf. Malachite is rated Brief Only. Its grinding dust is toxic, though finished pieces should be safe to handle.
 
 **Safety.** Small tumbled stones are not toys. Keep them away from small children and pets who might swallow them.
 

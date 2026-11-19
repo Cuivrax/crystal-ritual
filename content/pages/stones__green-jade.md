@@ -173,7 +173,7 @@ The [Label Decoder](/tools/crystal-label-decoder/) translates jade names like th
 
 ### Can Green Jade Go in Water, Sun or Salt?
 
-A wash, yes. A long soak, a salt cleanse or a day in the sun, not by our data. One French shop suggests purifying green jade in distilled salt water in full sun, but salt is Unknown and sun Brief only, so our care data wins. Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown, with the reason and the source.
+A wash, yes. A long soak, a salt cleanse or a day in the sun, not by our data. One French shop suggests purifying green jade in distilled salt water in full sun, but salt is Unknown and sun Brief only, so our care data wins. Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data, with the reason and the source.
 
 ## Green Jade vs Look-Alikes
 

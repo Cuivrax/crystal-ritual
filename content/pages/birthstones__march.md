@@ -179,13 +179,13 @@ Under a loupe, long hollow tubes point to beryl, though not to natural origin. T
 - **Natural, treated.** We found no reference source on dyed or treated bloodstone in particular. Dyeing is an ancient and common practice for chalcedony in general and should be disclosed, so ask.
 - **Lab-grown.** No synthetic bloodstones are known.
 - **Imitation.** Glass, such as the green "maple stone" with red "flowers" made by the Japanese firm Iimori. Under a microscope its flowers look nothing like bloodstone spots.
-- **Trade name.** Hematite is sometimes called "bloodstone," and opaque red or red-spotted stones sold as bloodstone are not true bloodstone. Chicken-blood stone is a different material, rated Avoid for toxicity in our Care Checker because it contains mercury. When colors other than red dominate, the stone is usually called fancy jasper.
+- **Trade name.** Hematite is sometimes called "bloodstone," and opaque red or red-spotted stones sold as bloodstone are not true bloodstone. Chicken-blood stone is a different material, marked Handle With Care for toxicity in our Care Checker because it contains mercury. When colors other than red dominate, the stone is usually called fancy jasper.
 
 Three questions for any seller. What is the mineral name? Has it been heated or treated? Is there a lab report, and from which lab?
 
 ## How to Care for March Birthstones
 
-These ratings come from the same data as our [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+These ratings come from the same data as our [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 | | Aquamarine | Bloodstone |
 |---|---|---|

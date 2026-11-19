@@ -184,7 +184,7 @@ Ask the seller whether it is quartz, aventurine or glass, and whether it was hea
 
 Yes to both, within limits. Several guides warn that strong sun fades it or darkens its inclusions, but our Care Checker rates sun OK, because GIA finds rose quartz, its closest pink cousin, generally stable to light, and our care data wins over the guides. If a seller cannot say whether a piece is natural, keep it out of strong sun anyway, since glass, dye and aventurine are different materials.
 
-Wash it with soap and a soft brush, keep soaks short, skip salt, and keep every stone out of water you drink. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+Wash it with soap and a soft brush, keep soaks short, skip salt, and keep every stone out of water you drink. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Strawberry Quartz vs Look-Alikes
 

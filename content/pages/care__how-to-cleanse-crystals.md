@@ -86,7 +86,7 @@ To cleanse crystals without damaging them, split the job in two. Clean off dust 
 | Burying in soil | Damp earth, for hours or days | Treat it as a long soak |
 | Breath and intention | Nothing | No contact at all |
 
-Check any stone, and the exact form you own, in the [Care Checker](/tools/crystal-care-checker/). It answers OK, Brief Only, Avoid or Not Enough Data for each method, with the reason and the source.
+Check any stone, and the exact form you own, in the [Care Checker](/tools/crystal-care-checker/). It answers OK, Brief Only, a warning that names the test such as Keep Dry or Keep Out of Sun, or Not Enough Data for each method, with the reason and the source.
 
 ## Can Crystals Go in Water?
 

@@ -91,7 +91,7 @@ Opalite is the name you will meet most often in crystal shops, and it is usually
 
 Opal chips, scratches and shatters more easily than most popular gems, so skip opal ring stones unless the setting protects the stone, the stone is a triplet or the ring is for occasional wear.
 
-Our care data rates water Avoid for opal, white opal and Ethiopian opal, since hydrophane opal absorbs water and Ethiopian hydrophane opal can crack. Black, boulder, blue, dendritic, green, hyalite, fire, pink, purple and yellow opal are rated Brief Only, so a damp cloth is fine and a long soak is not. Keep every opal away from heat and sudden temperature changes, and store each one in its own soft pouch. Check each stone in the [Care Checker](/tools/crystal-care-checker/) or the full [water safety table](/care/crystals-that-cant-go-in-water/).
+Our care data marks opal, white opal and Ethiopian opal Keep Dry, since hydrophane opal absorbs water and Ethiopian hydrophane opal can crack. Black, boulder, blue, dendritic, green, hyalite, fire, pink, purple and yellow opal are rated Brief Only, so a damp cloth is fine and a long soak is not. Keep every opal away from heat and sudden temperature changes, and store each one in its own soft pouch. Check each stone in the [Care Checker](/tools/crystal-care-checker/) or the full [water safety table](/care/crystals-that-cant-go-in-water/).
 
 ## Sources
 

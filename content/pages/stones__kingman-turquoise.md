@@ -179,7 +179,7 @@ Three checks at home, with their limits.
 
 ### Can Kingman Turquoise Get Wet?
 
-A quick wipe, yes. A shower, a swim or the dishes, no. Soap, detergents and cleaning solutions soak into turquoise and can turn it green, so take it off first. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+A quick wipe, yes. A shower, a swim or the dishes, no. Soap, detergents and cleaning solutions soak into turquoise and can turn it green, so take it off first. Check your piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 **Where the beliefs and the care data disagree.** Some crystal guides cleanse turquoise in sunlight for hours or in salt water. Our care data rates sun and water Brief only and salt Unknown, so skip both. Moonlight keeps it dry, if you bring it in before the morning sun. Skip turquoise elixirs too, since it is porous, often filled with resin and contains copper.
 

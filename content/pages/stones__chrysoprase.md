@@ -184,7 +184,7 @@ Yes, for washing. Clean it with mild detergent, warm water and a soft brush. For
 
 ### Can Chrysoprase Go in the Sun?
 
-Better not. Color in some chrysoprase is unstable, and prolonged sunlight can fade it. Dyed and natural European stones fade, while natural untreated Australian ones do not. You usually cannot tell which you have by eye, so our care data rates sun as Avoid. A few guides suggest charging chrysoprase in strong midday sun. Here the care data wins, and the evening jewelry box is the safer habit.
+Better not. Color in some chrysoprase is unstable, and prolonged sunlight can fade it. Dyed and natural European stones fade, while natural untreated Australian ones do not. You usually cannot tell which you have by eye, so our care data marks it Keep Out of Sun. A few guides suggest charging chrysoprase in strong midday sun. Here the care data wins, and the evening jewelry box is the safer habit.
 
 ## Chrysoprase vs Look-Alikes
 

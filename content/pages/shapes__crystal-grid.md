@@ -153,7 +153,7 @@ A healing crystal grid is a grid built around a wish for someone's health or rec
 A grid sits out for days or weeks, so light, heat and dust matter more than they do for a stone in a drawer. Many people also cleanse their stones before they build one, and [how to cleanse crystals](/care/how-to-cleanse-crystals/) lists the methods that suit each stone.
 
 - **Sun.** Amethyst and citrine are rated Brief Only for sun, and smoky quartz Avoid. Clear quartz has no sun rating yet. Common rose quartz and red jasper are rated OK. Bright, indirect light is the safe choice. Check any other stone in the [Care Checker](/tools/crystal-care-checker/).
-- **Heat.** Amethyst, citrine and selenite are rated Avoid for heat, so a grid is no place for a candle.
+- **Heat.** Amethyst, citrine and selenite are marked Keep Away From Heat, so a grid is no place for a candle.
 - **Dust.** Quartz and red jasper can be rinsed under the tap with a drop of mild soap and patted dry, the standard wash for amethyst. That is a rinse, not a soak, which the Care Checker rates Brief Only. Selenite is different. Gypsum is cleaned by hand with warm water only and no detergent, then patted dry without rubbing or scrubbing.
 - **Storage.** When you take a grid down, wrap the stones separately. Store amethyst apart from harder gems to avoid scratches.
 
@@ -164,7 +164,7 @@ A grid sits out for days or weeks, so light, heat and dust matter more than they
 Some stones that guides recommend for grids do not belong in one you touch daily.
 
 - **Galena.** One guide suggests "a boxed galena piece can sit at the base of a grid as its 'root.'" Galena is a lead sulfide, and many schools have removed it from student mineral kits. The Care Checker rates it Avoid for toxicity. Leave it out.
-- **Bumblebee jasper.** Rated Avoid for toxicity. A retailer says it is safe to wear but contains arsenic and sulfur minerals, and that no one should ingest it or let children mouth it. Keep it on a high shelf, not in a grid you handle.
+- **Bumblebee jasper.** Marked Handle With Care for toxicity. A retailer says it is safe to wear but contains arsenic and sulfur minerals, and that no one should ingest it or let children mouth it. Keep it on a high shelf, not in a grid you handle.
 - **Malachite.** Rated Brief Only for toxicity. Its grinding dust is toxic to breathe, though finished pieces should be safe to handle. Fine on display, but keep handling brief.
 - **Selenite.** No toxicity rating yet in our data. It is gypsum, about 2 on the Mohs scale and very easy to scratch, and it is rated Brief Only for water. Handle it gently and keep it dry.
 - **Black tourmaline.** One blog calls it "helpful in almost any crystal grid," but our care data has no toxicity rating for it yet, which is why it is not in our layouts. Check the [Care Checker](/tools/crystal-care-checker/) first.

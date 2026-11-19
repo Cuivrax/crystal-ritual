@@ -70,7 +70,7 @@ Every stone page uses the same five labels for what a stone really is.
 
 ## Care & Safety Data
 
-Water, sun, salt, heat and toxicity advice comes from a single care database, the same one behind the [Crystal Care Checker](/tools/crystal-care-checker/). Each rating reads OK, Brief only, Avoid or Unknown, with the reason and the source. Unknown means no reliable source covers the point yet, and we leave it that way rather than guess.
+Water, sun, salt, heat and toxicity advice comes from a single care database, the same one behind the [Crystal Care Checker](/tools/crystal-care-checker/). Each rating reads OK, Brief Only, a warning that names the test such as Keep Dry or Keep Out of Sun, or Not Enough Data, with the reason and the source. Not Enough Data means no reliable source covers the point yet, and we leave it that way rather than guess.
 
 When a popular belief clashes with the care data, the care data wins and the page says why. A guide that tells you to soak selenite overnight is one example, since selenite is a form of gypsum, which is water soluble.
 

@@ -132,7 +132,7 @@ Our house rule covers these stones, whatever any other guide says. Where we have
 | Stibnite | Named in our house rule for drinking water, like every stone in this table |
 | Any dyed or stabilized stone | You cannot know what the dye or resin is. Porous stones such as lapis lazuli take and hold dye |
 
-Wearing or displaying finished malachite or azurite is considered safe, which is why the Care Checker rates both Brief Only for toxicity and not Avoid. The rule here is only about water you drink. The [full water safety table](/care/crystals-that-cant-go-in-water/) lists more stones to keep out of drinking water.
+Wearing or displaying finished malachite or azurite is considered safe, which is why the Care Checker rates both Brief Only for toxicity and not Handle With Care. The rule here is only about water you drink. The [full water safety table](/care/crystals-that-cant-go-in-water/) lists more stones to keep out of drinking water.
 
 ### Stones That Water Damages
 

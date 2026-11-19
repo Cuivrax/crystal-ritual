@@ -187,7 +187,7 @@ Three questions for the seller. Is this green beryl or emerald, and by whose sta
 
 ### Can Green Beryl Go in Water?
 
-A quick wash, yes. A soak, our care data cannot say, and a drink, never. Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief only, Avoid or Unknown with the reason and the source.
+A quick wash, yes. A soak, our care data cannot say, and a drink, never. Check your exact piece in the [Care Checker](/tools/crystal-care-checker/), which shows OK, Brief Only, a warning that names the test such as Keep Dry, or Not Enough Data with the reason and the source.
 
 ## Green Beryl vs Look-Alikes
 
