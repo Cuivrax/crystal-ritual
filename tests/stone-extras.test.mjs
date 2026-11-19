@@ -112,3 +112,15 @@ test('sheet colors leave out the parent sentences', () => {
   assert.equal(sheetColors(verified('Red from iron oxide. Jasper in general can come in any color.')), 'Red from iron oxide.');
   assert.equal(sheetColors({ value: 'Red.', verified: false }), null);
 });
+
+test('Atlas facts are short verified reference facts with no source names', async () => {
+  const { shortFact } = await import('../scripts/build-stone-extras.mjs');
+  const ref = (value) => ({ value, verified: true, best_tier: 'reference', refs: [] });
+  assert.equal(shortFact({ name: 'Kunzite', identity: { what_it_is: ref('The best-known variety of the mineral spodumene, named after George F. Kunz. More text.') } }), 'The best-known variety of the mineral spodumene, named after George F. Kunz.');
+  assert.equal(shortFact({ name: 'X', identity: { what_it_is: { ...ref('A pink variety of quartz with a long history.'), best_tier: 'dealer' } } }), null);
+  assert.equal(shortFact({ name: 'X', identity: { what_it_is: ref('A variety of quartz, per S2 and widely sold.') } }), 'A variety of quartz and widely sold.');
+  assert.equal(shortFact({ name: 'X', identity: { what_it_is: ref('GIA calls it a fine variety of quartz in jewelry.') } }), null);
+  assert.equal(shortFact({ name: 'Blue Jasper', identity: { what_it_is: ref('No source has a page on blue jasper as such.') } }), null);
+  assert.equal(shortFact({ name: 'Andalusite', identity: { formation: ref('Forms in regional and contact metamorphism of shale and sediments.') } }), null);
+  assert.equal(shortFact({ name: 'White Topaz', identity: { what_it_is: ref('White topaz is colourless topaz, a gem variety of topaz.') } }), 'White topaz is colorless topaz, a gem variety of topaz.');
+});

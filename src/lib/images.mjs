@@ -76,10 +76,11 @@ export async function figureHtml(photo, meta, { variant = 'inline', eager = fals
     rank: { widths: [150, 300], sizes: '150px', ratio: [1, 1], avif: false },
     circle: { widths: [80, 160], sizes: '76px', ratio: [1, 1], avif: false },
     aside: { widths: [400, 800], sizes: '(min-width: 900px) 400px, 92vw', ratio: [4, 3] },
+    mini: { widths: [96, 192], sizes: '96px', ratio: [1, 1], avif: false },
   }[variant];
   const pic = await pictureHtml(meta, { alt: photo.alt || '', eager, ...opts });
   const mark = creditMarker(photo);
-  if (variant === 'circle') return `<figure class="photo photo-${variant}"${mark}>${pic}</figure>`;
+  if (variant === 'circle' || variant === 'mini') return `<figure class="photo photo-${variant}"${mark}>${pic}</figure>`;
   let said = splitCaption(photo.caption || photo.credit || '').said;
   // The photo card beside "What It Is" says what the photo shows, from its description when it has no caption.
   if (variant === 'aside' && !said) {

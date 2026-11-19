@@ -140,6 +140,38 @@ export function autoChain(sheet, match, ima) {
   ];
 }
 
+// ------------------------------------------------------------ Stone Atlas facts
+// One short verified fact per stone sheet, for the Atlas cards of stones without a page yet.
+// Identity fields only (no lore), reference tier only (no dealer-only or Wikipedia-only fact),
+// first sentence, citation tags removed, and nothing that names a source.
+const FACT_FIELDS = ['what_it_is', 'species_or_rock', 'color_cause', 'formation'];
+const SOURCE_NAME_RX = /\bS\d+\b|wikipedia|\bGIA\b|\bIGS\b|gem society|geology\.com|mindat|gemdat|minerals\.net|smithsonian|handbook|dealer|seller|\bper\b|according to|\[TO CHECK|\bin general\b|parent (?:page|family)|[:;\u2014\u2013\u00b7]/i;
+
+export function shortFact(sheet) {
+  const idn = sheet?.identity || {};
+  for (const key of FACT_FIELDS) {
+    const f = idn[key];
+    if (!f || f.verified !== true || f.best_tier !== 'reference' || typeof f.value !== 'string') continue;
+    let t = f.value
+      .replace(/\s*\([^)]*\b(?:S\d+|parent|per|see)\b[^)]*\)/g, '')
+      .replace(/,?\s+(?:per|according to)\s+S\d+(?:\s*(?:,|and)\s*S\d+)*/g, '')
+      .trim();
+    // First sentence. "George F. Kunz" or "e.g. regional" do not end one.
+    t = (t.split(/(?<=[a-z0-9)\]]\.)\s+(?=[A-Z])/)[0] || '').trim();
+    if (!t || SOURCE_NAME_RX.test(t) || /\bno sources?\b|\bthe sources\b|never define|\bpages?\b|\bnot (?:covered|defined|named)\b|\bunknown\b|\bunclear\b/i.test(t)) continue;
+    // A color cause or formation note must name the stone, out of context it reads as a fragment.
+    if (['color_cause', 'formation'].includes(key)) {
+      const words = String(sheet.name || '').toLowerCase().split(/[\s-]+/).filter((w) => w.length >= 4);
+      if (!words.some((w) => t.toLowerCase().includes(w))) continue;
+    }
+    if (t.length < 35 || t.length > 150) continue;
+    t = t.replace(/colour/g, 'color').replace(/Colour/g, 'Color');
+    if (!/[.!?]$/.test(t)) t += '.';
+    return t.charAt(0).toUpperCase() + t.slice(1);
+  }
+  return null;
+}
+
 function imaMonth(file) {
   const m = /(\d{4})-(\d{2})/.exec(file);
   if (!m) return null;
@@ -239,10 +271,15 @@ function main() {
     out[id] = entry;
     report.push(`${slug.padEnd(24)} key ${String(keyNumbers.length).padEnd(2)} chain ${(chainSource || '-').padEnd(10)} map ${pins ? pins.map((p) => p.label).join(', ') : '-'}${notes.length ? `\n${''.padEnd(26)}${notes.join('\n'.padEnd(27))}` : ''}`);
   }
-  const data = { generated: new Date().toISOString().slice(0, 10), imaList: `IMA List of Minerals, ${imaMonth(IMA_FILE)}`, pages: out };
+  const facts = {};
+  for (const [slug, sheet] of [...sheets.entries()].sort()) {
+    const fact = shortFact(sheet);
+    if (fact) facts[slug] = fact;
+  }
+  const data = { generated: new Date().toISOString().slice(0, 10), imaList: `IMA List of Minerals, ${imaMonth(IMA_FILE)}`, pages: out, facts };
   writeFileSync(OUT, `${JSON.stringify(data, null, 1)}\n`);
   console.log(report.join('\n'));
-  console.log(`stone extras for ${Object.keys(out).length} stone pages written to src/data/stone_extras.json`);
+  console.log(`stone extras for ${Object.keys(out).length} stone pages and short facts for ${Object.keys(facts).length} of ${sheets.size} stone sheets written to src/data/stone_extras.json`);
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) main();

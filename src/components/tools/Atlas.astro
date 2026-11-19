@@ -1,30 +1,74 @@
 ---
-// The Stone Atlas, an A to Z grid of the published stone pages with client-side filters
-// by color and intention (from the stone sheets and intent_rankings.json) and hardness.
+// The Stone Atlas, an A to Z grid of every stone sheet, with client-side filters by name
+// or label, color, intention (intent_rankings.json), hardness and Full Guides Only.
+// A stone whose page is published gets the full card with its link. Any other stone gets
+// a light card with no link, its swatches, its Mohs range and one short verified fact from
+// its sheet (scripts/build-stone-extras.mjs), and a photo only when a checked one exists.
+// A page that passes the publish gate later switches to the full card on the next build.
 import { getSite } from '../../lib/site.mjs';
-import { stoneThumbs, stonesIndex, intents, knownFor } from '../../lib/render.mjs';
-import { COLOR_FAMILIES, COLOR_LABELS } from '../../lib/colors.mjs';
+import { stoneThumbs, stonesIndex, intents, knownFor, stoneExtras, photosOf } from '../../lib/render.mjs';
+import { figureHtml } from '../../lib/images.mjs';
+import { COLOR_FAMILIES, COLOR_LABELS, colorSwatches } from '../../lib/colors.mjs';
 import { INTENTIONS, FACET_LABELS, esc } from '../../lib/ui.mjs';
+import { listNames } from '../../lib/worldmap.mjs';
 const site = await getSite();
 const thumbs = await stoneThumbs(site);
 const firstSentence = (s) => (String(s).match(/^.*?[.!?](\s|$)/) || [s])[0].trim();
 const hardBucket = (m) => (!m ? '' : m.max < 5 ? 'soft' : m.min >= 7 ? 'hard' : 'medium');
 const fmtMohs = (m) => (m.min === m.max ? `${m.min}` : `${m.min} to ${m.max}`);
-const cards = site.pages.filter((p) => p.type === 'stone').map((p) => {
-  const sheet = stonesIndex.stones[p.slug] || null;
-  const name = sheet?.name || p.data.h1.split(/ Meaning| Properties|,/)[0];
-  const ints = Object.entries(intents).filter(([, list]) => (list.find((r) => r.slug === p.slug)?.facets || 0) >= 3).map(([k]) => k);
-  const top = knownFor(p.slug, 1).find((k) => k.facets >= 3) || null;
-  return {
-    url: p.url, slug: p.slug, name, line: firstSentence(p.data.description),
-    colors: sheet?.colorFamilies || [], ints, hard: hardBucket(sheet?.mohs), mohs: sheet?.mohs || null, top,
-    search: [name, ...(sheet?.aliases || [])].join(' | ').toLowerCase(),
-    photo: thumbs.get(p.slug)?.card || null,
+const intsOf = (slug) => Object.entries(intents).filter(([, list]) => (list.find((r) => r.slug === slug)?.facets || 0) >= 3).map(([k]) => k);
+const searchOf = (name, aliases) => [name, ...(aliases || []).map((a) => String(a).replace(/\s*\([^)]*\)/g, ''))].join(' | ').toLowerCase();
+
+// Checked photos of stones whose page is not published yet (the page's own hero).
+const miniPhotos = new Map();
+for (const row of site.held) {
+  const e = row.entry;
+  if (e.data.page_type !== 'stone') continue;
+  const slug = String(e.data.url || '').split('/').filter(Boolean).pop();
+  const hero = photosOf({ id: e.id, url: e.data.url, body: e.body || '', type: 'stone' }).find((x) => x.hero && x.meta);
+  if (slug && hero) miniPhotos.set(slug, await figureHtml(hero, hero.meta, { variant: 'mini' }));
+}
+
+const built = new Map(site.pages.filter((p) => p.type === 'stone').map((p) => [p.slug, p]));
+const slugs = new Set([...Object.keys(stonesIndex.stones), ...built.keys()]);
+const cards = [...slugs].map((slug) => {
+  const sheet = stonesIndex.stones[slug] || null;
+  const p = built.get(slug) || null;
+  const name = sheet?.name || (p ? p.data.h1.split(/ Meaning| Properties|,/)[0] : slug);
+  const base = {
+    slug, name, ints: intsOf(slug), colors: sheet?.colorFamilies || [], hard: hardBucket(sheet?.mohs), mohs: sheet?.mohs || null,
+    search: searchOf(name, sheet?.aliases),
   };
+  if (p) {
+    const top = knownFor(slug, 1).find((k) => k.facets >= 3) || null;
+    return { ...base, guide: true, url: p.url, line: firstSentence(p.data.description), top, photo: thumbs.get(slug)?.card || null };
+  }
+  return { ...base, guide: false, fact: stoneExtras.facts?.[slug] || null, swatches: colorSwatches(sheet?.colors || '').slice(0, 6), photo: miniPhotos.get(slug) || null };
 }).sort((a, b) => a.name.localeCompare(b.name));
+const guides = cards.filter((c) => c.guide).length;
 const colorOpts = COLOR_FAMILIES.filter((c) => cards.some((x) => x.colors.includes(c)));
 const intentOpts = Object.keys(INTENTIONS).filter((k) => cards.some((x) => x.ints.includes(k)));
 const hardOpts = [['soft', 'Soft, Under 5'], ['medium', 'Medium, 5 to 6.5'], ['hard', 'Hard, 7 and Up']].filter(([k]) => cards.some((x) => x.hard === k));
+const countText = (n, g) => `${n} ${n === 1 ? 'stone' : 'stones'}, ${g} with a full guide`;
+
+function fullCard(c) {
+  const chips = [
+    c.mohs ? `<span class="mini-chip tone-green">Hardness ${esc(fmtMohs(c.mohs))}</span>` : '',
+    c.top ? `<span class="mini-chip tone-lavender">${esc(c.top.label)}, ${esc(FACET_LABELS[c.top.facets])}</span>` : '',
+  ].join('');
+  return `${c.photo || ''}<div class="atlas-card-body"><h3><a class="stretched" href="${esc(c.url)}">${esc(c.name)}</a></h3><p>${esc(c.line)}</p><div class="mini-chips">${chips}</div></div>`;
+}
+
+function miniCard(c) {
+  const dots = c.swatches.length
+    ? `<span class="mini-dots" role="img" aria-label="${esc(`Colors ${listNames(c.swatches.map((s) => s.name.toLowerCase()))}`)}">${c.swatches.map((s) => `<i style="background:${s.hex}"></i>`).join('')}</span>`
+    : '';
+  const chips = [
+    c.mohs ? `<span class="mini-chip tone-green">Hardness ${esc(fmtMohs(c.mohs))}</span>` : '',
+    '<span class="mini-chip tone-gold">Full Guide Coming</span>',
+  ].join('');
+  return `${c.photo || ''}<div class="atlas-card-body"><h3>${esc(c.name)}</h3>${dots}${c.fact ? `<p>${esc(c.fact)}</p>` : ''}<div class="mini-chips">${chips}</div></div>`;
+}
 let lastLetter = '';
 ---
 <section class="atlas" id="atlas" aria-label="The Stone Atlas">
@@ -33,28 +77,26 @@ let lastLetter = '';
     <div class="field"><label for="atlas-color">Color</label><select id="atlas-color" name="color"><option value="">Any Color</option>{colorOpts.map((c) => <option value={c}>{COLOR_LABELS[c]}</option>)}</select></div>
     <div class="field"><label for="atlas-intention">Intention</label><select id="atlas-intention" name="intention"><option value="">Any Intention</option>{intentOpts.map((k) => <option value={k}>{INTENTIONS[k].label}</option>)}</select></div>
     <div class="field"><label for="atlas-hardness">Hardness</label><select id="atlas-hardness" name="hardness"><option value="">Any Hardness</option>{hardOpts.map(([k, l]) => <option value={k}>{l}</option>)}</select></div>
+    <label class="atlas-toggle"><input type="checkbox" name="guides" value="1"> Full Guides Only</label>
   </form>
-  <p class="atlas-count" id="atlas-count" aria-live="polite">{cards.length} {cards.length === 1 ? 'stone' : 'stones'}</p>
+  <p class="atlas-count" id="atlas-count" aria-live="polite">{countText(cards.length, guides)}</p>
   <div class="atlas-grid">
     {cards.map((c) => {
       const letter = c.name.charAt(0).toUpperCase();
       const head = letter !== lastLetter;
       lastLetter = letter;
-      const chips = [
-        c.mohs ? `<span class="mini-chip tone-green">Hardness ${esc(fmtMohs(c.mohs))}</span>` : '',
-        c.top ? `<span class="mini-chip tone-lavender">${esc(c.top.label)}, ${esc(FACET_LABELS[c.top.facets])}</span>` : '',
-      ].join('');
       return (
         <Fragment>
           {head && <p class="atlas-letter" data-letter={letter}>{letter}</p>}
-          <article class="atlas-card is-link" data-letter={letter} data-search={c.search} data-colors={c.colors.join(' ')} data-ints={c.ints.join(' ')} data-hard={c.hard}
-            set:html={`${c.photo || ''}<div class="atlas-card-body"><h3><a class="stretched" href="${esc(c.url)}">${esc(c.name)}</a></h3><p>${esc(c.line)}</p><div class="mini-chips">${chips}</div></div>`} />
+          {c.guide
+            ? <article class="atlas-card is-link" data-letter={letter} data-search={c.search} data-colors={c.colors.join(' ')} data-ints={c.ints.join(' ')} data-hard={c.hard} data-guide="1" set:html={fullCard(c)} />
+            : <article class={['atlas-card', 'is-mini', c.photo ? 'has-photo' : ''].filter(Boolean).join(' ')} data-letter={letter} data-search={c.search} data-colors={c.colors.join(' ')} data-ints={c.ints.join(' ')} data-hard={c.hard} set:html={miniCard(c)} />}
         </Fragment>
       );
     })}
   </div>
-  <p class="atlas-none" id="atlas-none" hidden>No published stone matches yet. New stone pages go live every week.</p>
-  <p class="atlas-note">Intentions are beliefs, rated on our five-facet scale. A stone is listed under an intention from Often Linked up.</p>
+  <p class="atlas-none" id="atlas-none" hidden>No stone matches. Try another name or fewer filters.</p>
+  <p class="atlas-note">Intentions are beliefs, rated on our five-facet scale. A stone is listed under an intention from Often Linked up. Stones marked Full Guide Coming get their own page soon.</p>
 </section>
 <script>
   const form = document.querySelector('.atlas-filters');
@@ -68,27 +110,32 @@ let lastLetter = '';
     const el = form.elements[k];
     if (el && params.get(k)) el.value = params.get(k);
   }
+  if (params.get('guides') === '1') form.elements.guides.checked = true;
   function apply() {
     const q = norm(form.elements.q.value || '');
     const color = form.elements.color.value;
     const intention = form.elements.intention.value;
     const hard = form.elements.hardness.value;
+    const guidesOnly = form.elements.guides.checked;
     let n = 0;
+    let g = 0;
     const seen = new Set();
     for (const c of cards) {
       const ok = (!q || norm(c.dataset.search).includes(q))
         && (!color || c.dataset.colors.split(' ').includes(color))
         && (!intention || c.dataset.ints.split(' ').includes(intention))
-        && (!hard || c.dataset.hard === hard);
+        && (!hard || c.dataset.hard === hard)
+        && (!guidesOnly || c.dataset.guide === '1');
       c.hidden = !ok;
-      if (ok) { n++; seen.add(c.dataset.letter); }
+      if (ok) { n++; if (c.dataset.guide === '1') g++; seen.add(c.dataset.letter); }
     }
     for (const l of letters) l.hidden = !seen.has(l.dataset.letter);
-    count.textContent = `${n} ${n === 1 ? 'stone' : 'stones'}`;
+    count.textContent = `${n} ${n === 1 ? 'stone' : 'stones'}, ${g} with a full guide`;
     none.hidden = n > 0;
     try {
       const p = new URLSearchParams();
       for (const k of ['q', 'color', 'intention', 'hardness']) if (form.elements[k].value) p.set(k, form.elements[k].value);
+      if (guidesOnly) p.set('guides', '1');
       const qs = p.toString();
       history.replaceState(null, '', location.pathname + (qs ? `?${qs}` : '') + location.hash);
     } catch (e) { /* ignore */ }
