@@ -8,9 +8,10 @@ import tiers from '../data/source_tiers.json';
 import picks from '../data/photo_picks.json';
 import intents from '../data/intent_rankings.json';
 import stonesIndex from '../data/stones.json';
+import stoneExtras from '../data/stone_extras.json';
 
 export const policy = makeSourcePolicy(tiers);
-export { intents, stonesIndex };
+export { intents, stonesIndex, stoneExtras };
 
 /** The checked hero of a page, src/assets/photos/<page id>/hero.* with its credit from picks.json. */
 export function pickedHero(page) {
@@ -81,6 +82,7 @@ export async function renderPage(page, site) {
   const photos = photosOf(page);
   const thumbs = await stoneThumbs(site);
   const photoHtml = new Map();
+  const photoCardHtml = new Map();
   let heroHtml = null;
   const pair = [];
   for (const p of photos) {
@@ -91,6 +93,8 @@ export async function renderPage(page, site) {
       photoHtml.set('hero', heroHtml);
     } else if (!photoHtml.has(p.role)) {
       photoHtml.set(p.role, await figureHtml(p, p.meta, { variant: 'inline' }));
+      // The page's second photo (its first after the hero) can become the photo card beside "What It Is".
+      if (page.type === 'stone' && !photoCardHtml.size) photoCardHtml.set(p.role, await figureHtml(p, p.meta, { variant: 'aside' }));
     }
   }
   const ctx = {
@@ -100,6 +104,9 @@ export async function renderPage(page, site) {
     policy,
     photos,
     photoHtml,
+    photoCardHtml,
+    extras: page.type === 'stone' ? (stoneExtras.pages[page.id] || null) : null,
+    imaList: stoneExtras.imaList,
     data: { intents, stones: stonesIndex.stones },
     helpers: {
       stoneThumb: (slug, variant = 'card') => thumbs.get(slug)?.[variant] || null,

@@ -859,3 +859,61 @@ body.theme-night { background: var(--night); color: var(--moon); }
 .how-row .dark-aside .facets-off { stroke: #9A91A8; }
 .how-row .dark-aside a { color: var(--accent); }
 @media (min-width: 900px) { .how-row .dark-aside { grid-template-columns: 2fr 1fr; } .how-row .dark-aside .facet-legend { grid-column: 2; grid-row: 1 / span 3; margin: 0; } }
+
+/* ---------------------------------------------------------- What It Is blocks (R3-Stone) */
+.prose h3.has-icon { display: flex; align-items: center; gap: 12px; }
+.h3-icon { flex: none; color: var(--accent); }
+@media (max-width: 719px) { .h3-icon { width: 22px; height: 22px; } }
+
+.what-top.split { align-items: flex-start; }
+.side.key-numbers { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; }
+@media (min-width: 900px) { .side.key-numbers { display: flex; flex: 2 1 300px; gap: 14px; } }
+.key-number { padding: 18px 20px; border-radius: 20px; background: var(--soft); }
+@media (min-width: 720px) { .key-number { padding: 22px 24px; } }
+.key-value { margin: 0; font-family: var(--serif); font-size: 34px; line-height: 1; color: var(--accent); }
+@media (min-width: 720px) { .key-value { font-size: 44px; } }
+.key-text { margin: 8px 0 0; font-size: 15px; line-height: 1.5; }
+@media (min-width: 720px) { .key-text { font-size: 16px; } }
+
+.chain { margin-top: 26px; display: flex; flex-wrap: wrap; align-items: stretch; gap: 10px; }
+@media (min-width: 720px) { .chain { margin-top: 30px; } }
+.chain-node { flex: 1 1 220px; min-width: 0; padding: 18px 20px; border-radius: 20px; background: var(--soft); color: var(--ink); }
+@media (min-width: 720px) { .chain-node { padding: 20px 22px; } }
+.chain-node.is-species { background: var(--lavender); }
+.chain-node.is-dark { background: var(--ink); color: #F3EFF6; }
+.chain-level { margin: 0; font-size: 12px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.chain-node.is-species .chain-level { color: var(--lavender-ink); }
+.chain-node.is-dark .chain-level { color: #F2B8CC; }
+.chain-name { margin: 4px 0 0; font-family: var(--serif); font-size: 24px; line-height: 1.15; }
+@media (min-width: 720px) { .chain-name { font-size: 26px; } }
+.chain-sub { margin: 6px 0 0; font-size: 15px; line-height: 1.5; color: var(--body-2); }
+.chain-node.is-dark .chain-sub { color: var(--night-text); }
+.chain-formula sub, .chain-formula sup { font-size: 0.72em; }
+.chain-chip { display: inline-block; margin: 10px 6px 0 0; padding: 3px 10px; border-radius: 12px; background: var(--white); font-size: 12px; font-weight: 700; line-height: 1.5; color: var(--lavender-ink); }
+.chain-node.is-dark .chain-chip { background: #F2B8CC; color: var(--ink); }
+.chain-arrow { flex: none; align-self: center; color: #9A91A8; }
+.chain-or { flex: none; align-self: center; font-family: var(--serif); font-size: 20px; color: var(--muted); padding: 0 2px; }
+@media (max-width: 719px) {
+  .chain { flex-direction: column; }
+  .chain-node { flex: none; }
+  .chain-arrow { transform: rotate(90deg); width: 24px; height: 24px; }
+}
+.chain-note { margin: 10px 0 0; font-size: 13px; color: var(--muted-2); }
+
+.what-body { margin-top: 32px; }
+@media (min-width: 720px) { .what-body { margin-top: 40px; } }
+.what-body.split > .side { flex: 2 1 340px; gap: 18px; }
+.photo-aside { margin: 0; padding: 14px; border-radius: var(--r-card); background: var(--white); border: 1px solid var(--line); }
+.photo-aside img { aspect-ratio: 4 / 3; object-fit: cover; border-radius: 12px; }
+.photo-aside figcaption { margin-top: 10px; }
+.photo-said { color: var(--body-2); }
+.map-card { margin: 0; padding: 18px 18px 14px; }
+.map-card .card-title { font-size: 22px; margin-bottom: 10px; }
+.world-map { display: block; width: 100%; height: auto; }
+.map-sea { fill: var(--soft); }
+.map-land { fill: #E2DCE8; }
+.map-pins { fill: #C9608A; stroke: #FFFFFF; stroke-width: 1; }
+.map-labels { fill: #3B2F4E; font-family: var(--sans); font-weight: 600; }
+.map-card figcaption { margin-top: 8px; font-size: 13px; line-height: 1.45; color: var(--muted-2); }
+.map-list { display: none; }
+@media (max-width: 719px) { .map-list { display: inline; } }

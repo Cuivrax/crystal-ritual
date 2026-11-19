@@ -1,0 +1,594 @@
+{
+  "_note": "Hand-picked key numbers and classification chains for stone pages. Every item carries proofs. A sheet proof must match a verified value or a verified quote in the stone sheet (checked by scripts/build-stone-extras.mjs). A page proof must appear in the page text (checked again at every build, so an item disappears when the page stops saying it). An item that fails a proof is dropped, a chain that fails one proof is dropped whole. Labels in Title Case, no colons, no middle dots.",
+  "stones__amethyst": {
+    "keyNumbers": [
+      {
+        "value": "2,000+",
+        "text": "Years people have worn amethyst as adornment.",
+        "proof": [
+          {
+            "sheet": "amethyst",
+            "field": "identity.what_it_is",
+            "contains": "adornment for over 2000 years"
+          }
+        ]
+      },
+      {
+        "value": "1",
+        "text": "Commercial amethyst mine in the United States, Four Peaks in Arizona.",
+        "proof": [
+          {
+            "sheet": "amethyst",
+            "field": "identity.localities",
+            "contains": "Four Peaks in Arizona is the only commercial US amethyst mine"
+          },
+          {
+            "page": "Four Peaks Mine in Arizona is the only commercially"
+          }
+        ]
+      }
+    ],
+    "chain": [
+      {
+        "level": "Species",
+        "name": "Quartz",
+        "ima": "Quartz",
+        "proof": [
+          {
+            "sheet": "amethyst",
+            "field": "identity.species_or_rock",
+            "contains": "variety of the mineral quartz"
+          }
+        ]
+      },
+      {
+        "level": "Color Variety",
+        "name": "Amethyst",
+        "sub": "Purple by definition, from pale lilac to deep reddish purple",
+        "tag": "Variety of an IMA Mineral, Quartz",
+        "dark": true,
+        "proof": [
+          {
+            "sheet": "amethyst",
+            "field": "identity.colors",
+            "contains": "Purple by definition"
+          }
+        ]
+      }
+    ]
+  },
+  "stones__citrine": {
+    "keyNumbers": [
+      {
+        "value": "2,258",
+        "text": "Carats in the larger of two Brazilian citrines held by the Smithsonian.",
+        "proof": [
+          {
+            "page": "2,258 and 1,180 carats"
+          },
+          {
+            "page": "Smithsonian holds Brazilian citrines"
+          }
+        ]
+      },
+      {
+        "value": "1952",
+        "text": "The year citrine joined the modern November birthstone list.",
+        "proof": [
+          {
+            "sheet": "citrine",
+            "field": "systems.birthstone",
+            "contains": "added to the modern list in 1952"
+          },
+          {
+            "page": "joined the November list in 1952"
+          }
+        ]
+      }
+    ],
+    "chain": [
+      {
+        "level": "Species",
+        "name": "Quartz",
+        "ima": "Quartz",
+        "proof": [
+          {
+            "sheet": "citrine",
+            "field": "identity.species_or_rock",
+            "contains": "variety of the mineral quartz"
+          }
+        ]
+      },
+      {
+        "level": "Color Variety",
+        "name": "Citrine",
+        "sub": "Pale yellow to brownish orange",
+        "tag": "Variety of an IMA Mineral, Quartz",
+        "dark": true,
+        "proof": [
+          {
+            "sheet": "citrine",
+            "field": "identity.what_it_is",
+            "contains": "pale yellow to brownish orange variety of quartz"
+          }
+        ]
+      }
+    ]
+  },
+  "stones__clear-quartz": {
+    "keyNumbers": [
+      {
+        "value": "107 lb",
+        "text": "The flawless Burmese crystal ball at the Smithsonian, 12.75 inches (32.4 cm) across.",
+        "proof": [
+          {
+            "page": "weighs 107 pounds"
+          },
+          {
+            "page": "12.75 inches (32.4 cm)"
+          },
+          {
+            "page": "Burmese sphere"
+          }
+        ]
+      }
+    ],
+    "chain": [
+      {
+        "level": "Species",
+        "name": "Quartz",
+        "ima": "Quartz",
+        "proof": [
+          {
+            "sheet": "clear-quartz",
+            "field": "identity.species_or_rock",
+            "contains": "clear quartz is its colorless variety"
+          }
+        ]
+      },
+      {
+        "level": "Colorless Variety",
+        "name": "Clear Quartz",
+        "sub": "Traditionally called rock crystal",
+        "tag": "Variety of an IMA Mineral, Quartz",
+        "dark": true,
+        "proof": [
+          {
+            "sheet": "clear-quartz",
+            "field": "identity.what_it_is",
+            "contains": "traditionally called rock crystal"
+          },
+          {
+            "page": "rock crystal"
+          }
+        ]
+      }
+    ]
+  },
+  "stones__rose-quartz": {
+    "keyNumbers": [
+      {
+        "value": "2016",
+        "text": "The year Pantone named Rose Quartz a Color of the Year.",
+        "proof": [
+          {
+            "page": "Pantone named Rose Quartz a Color of the Year"
+          }
+        ]
+      }
+    ],
+    "chain": [
+      {
+        "level": "Species",
+        "name": "Quartz",
+        "ima": "Quartz",
+        "proof": [
+          {
+            "sheet": "rose-quartz",
+            "field": "identity.species_or_rock",
+            "contains": "variety of the mineral quartz"
+          }
+        ]
+      },
+      {
+        "level": "Color Variety",
+        "name": "Rose Quartz",
+        "sub": "Usually translucent and massive, rarely in clear crystals",
+        "tag": "Variety of an IMA Mineral, Quartz",
+        "dark": true,
+        "proof": [
+          {
+            "sheet": "rose-quartz",
+            "field": "identity.what_it_is",
+            "contains": "usually translucent and massive rather than in clear crystals"
+          }
+        ]
+      }
+    ]
+  },
+  "stones__chrysoprase": {
+    "keyNumbers": [
+      {
+        "value": "3,240 lb",
+        "text": "The larger of two chrysoprase nodules found near Kalgoorlie, Western Australia (1,470 kg).",
+        "proof": [
+          {
+            "page": "3,240 pounds"
+          },
+          {
+            "page": "Kalgoorlie"
+          }
+        ]
+      },
+      {
+        "value": "Up to 5%",
+        "text": "Nickel oxide by weight in the deepest green stones. Pale ones hold 0.2 to 1 percent.",
+        "proof": [
+          {
+            "page": "up to 5 percent"
+          },
+          {
+            "page": "0.2 to 1 percent nickel oxide"
+          }
+        ]
+      }
+    ],
+    "chain": [
+      {
+        "level": "Species",
+        "name": "Quartz",
+        "ima": "Quartz",
+        "proof": [
+          {
+            "sheet": "chrysoprase",
+            "field": "identity.species_or_rock",
+            "contains": "Variety of chalcedony (quartz)"
+          }
+        ]
+      },
+      {
+        "level": "Microcrystalline Form",
+        "name": "Chalcedony",
+        "sub": "Quartz in crystals too small to see",
+        "proof": [
+          {
+            "sheet": "chrysoprase",
+            "field": "identity.what_it_is",
+            "contains": "chalcedony, a cryptocrystalline quartz"
+          }
+        ]
+      },
+      {
+        "level": "Color Variety",
+        "name": "Chrysoprase",
+        "sub": "Green from nickel",
+        "tag": "Variety of an IMA Mineral, Quartz",
+        "dark": true,
+        "proof": [
+          {
+            "sheet": "chrysoprase",
+            "field": "identity.color_cause",
+            "contains": "Nickel"
+          }
+        ]
+      }
+    ]
+  },
+  "stones__red-jasper": {
+    "keyNumbers": [
+      {
+        "value": "6.5 to 7",
+        "text": "On the Mohs scale, close to quartz itself at 7 and hardy enough for all jewelry uses.",
+        "proof": [
+          {
+            "page": "6.5 to 7 on the Mohs scale, close to quartz itself at 7"
+          },
+          {
+            "page": "hardy enough for all jewelry uses"
+          },
+          {
+            "sheet": "red-jasper",
+            "field": "identity.mohs",
+            "contains": "6.5"
+          }
+        ]
+      }
+    ],
+    "chain": [
+      {
+        "level": "Species",
+        "name": "Quartz",
+        "ima": "Quartz",
+        "proof": [
+          {
+            "page": "opaque microcrystalline quartz"
+          }
+        ]
+      },
+      {
+        "level": "Microcrystalline Form",
+        "name": "Chalcedony",
+        "sub": "Quartz in crystals too small to see",
+        "proof": [
+          {
+            "page": "chalcedony is opaque, it is jasper"
+          }
+        ]
+      },
+      {
+        "level": "Opaque Chalcedony",
+        "name": "Jasper",
+        "sub": "Often full of other minerals, so some call it a rock",
+        "proof": [
+          {
+            "page": "a rock rather than a mineral"
+          },
+          {
+            "sheet": "red-jasper",
+            "field": "identity.species_or_rock",
+            "contains": "Some call jasper a rock"
+          }
+        ]
+      },
+      {
+        "level": "Color Variety",
+        "name": "Red Jasper",
+        "sub": "Red from iron oxides, often hematite",
+        "tag": "A Classic True Jasper",
+        "dark": true,
+        "proof": [
+          {
+            "sheet": "red-jasper",
+            "field": "identity.color_cause",
+            "contains": "Iron oxides, often hematite"
+          },
+          {
+            "page": "classic example of a true jasper"
+          }
+        ]
+      }
+    ]
+  },
+  "stones__pink-tourmaline": {
+    "keyNumbers": [
+      {
+        "value": "30+",
+        "text": "Species in the tourmaline supergroup. Pink is a color across several of them.",
+        "proof": [
+          {
+            "sheet": "pink-tourmaline",
+            "field": "identity.species_or_rock",
+            "contains": "supergroup of over thirty species"
+          },
+          {
+            "page": "supergroup of more than 30 species"
+          }
+        ]
+      },
+      {
+        "value": "1793",
+        "text": "The year tourmaline was recognized as its own mineral.",
+        "proof": [
+          {
+            "page": "recognized as its own mineral until 1793"
+          }
+        ]
+      }
+    ],
+    "chain": [
+      {
+        "level": "Group",
+        "name": "Tourmaline Supergroup",
+        "sub": "More than 30 species, one shared structure",
+        "proof": [
+          {
+            "page": "share the same trigonal crystal structure"
+          }
+        ]
+      },
+      {
+        "level": "Species",
+        "name": "Elbaite",
+        "ima": "Elbaite",
+        "sub": "Behind most cut tourmaline. Some pink stones are liddicoatite, olenite or rossmanite",
+        "proof": [
+          {
+            "sheet": "pink-tourmaline",
+            "field": "identity.species_or_rock",
+            "contains": "most cut tourmaline is elbaite"
+          },
+          {
+            "page": "liddicoatite or olenite"
+          },
+          {
+            "page": "rossmanite"
+          }
+        ]
+      },
+      {
+        "level": "Color Variety",
+        "name": "Pink Tourmaline",
+        "sub": "A color, not a species",
+        "tag": "Variety of an IMA Mineral, Usually Elbaite",
+        "dark": true,
+        "proof": [
+          {
+            "page": "Pink is a color, not a species"
+          }
+        ]
+      }
+    ]
+  },
+  "stones__jade": {
+    "keyNumbers": [
+      {
+        "value": "2",
+        "text": "Different minerals sold as jade, jadeite and nephrite.",
+        "proof": [
+          {
+            "sheet": "jade",
+            "field": "identity.what_it_is",
+            "contains": "two different minerals, jadeite and nephrite"
+          }
+        ]
+      },
+      {
+        "value": "1863",
+        "text": "The year Alexis Damour showed that jade is two materials.",
+        "proof": [
+          {
+            "page": "In 1863 the Frenchman Alexis Damour showed"
+          }
+        ]
+      }
+    ],
+    "chain": [
+      {
+        "level": "Mineral",
+        "name": "Jadeite",
+        "ima": "Jadeite",
+        "sub": "A sodium aluminum pyroxene",
+        "proof": [
+          {
+            "sheet": "jade",
+            "field": "identity.species_or_rock",
+            "contains": "Jadeite is a sodium aluminum pyroxene"
+          }
+        ]
+      },
+      {
+        "join": "or"
+      },
+      {
+        "level": "Amphibole Rock",
+        "name": "Nephrite",
+        "sub": "Actinolite and tremolite, not one mineral",
+        "chip": "Not One Mineral",
+        "proof": [
+          {
+            "sheet": "jade",
+            "field": "identity.species_or_rock",
+            "contains": "nephrite (actinolite and tremolite) is a calcium magnesium amphibole"
+          }
+        ]
+      },
+      {
+        "level": "One Name for Both",
+        "name": "Jade",
+        "sub": "A cultural term, not a mineral name",
+        "dark": true,
+        "proof": [
+          {
+            "sheet": "jade",
+            "field": "identity.what_it_is",
+            "contains": "A cultural term"
+          }
+        ]
+      }
+    ]
+  },
+  "stones__moldavite": {
+    "keyNumbers": [
+      {
+        "value": "15 million",
+        "text": "Years since the asteroid impact that made it, roughly.",
+        "proof": [
+          {
+            "sheet": "moldavite",
+            "field": "identity.what_it_is",
+            "contains": "asteroid impact about 15 million years ago"
+          }
+        ]
+      },
+      {
+        "value": "1836",
+        "text": "The year scientists named it moldavite, after the Moldau River in Bohemia.",
+        "proof": [
+          {
+            "page": "named it moldavite, after a major source near the Moldau River"
+          }
+        ]
+      }
+    ],
+    "chain": [
+      {
+        "level": "Natural Glass",
+        "name": "Tektite",
+        "sub": "Impact glass that cooled too fast to crystallize",
+        "proof": [
+          {
+            "sheet": "moldavite",
+            "field": "identity.species_or_rock",
+            "contains": "A tektite"
+          },
+          {
+            "sheet": "moldavite",
+            "field": "identity.formation",
+            "contains": "cooled too fast to crystallize"
+          }
+        ]
+      },
+      {
+        "level": "One Impact Only",
+        "name": "Moldavite",
+        "sub": "Only glass from the Ries impact in Germany",
+        "tag": "A Mineraloid, Not an IMA Mineral",
+        "imaAbsent": "Moldavite",
+        "dark": true,
+        "proof": [
+          {
+            "sheet": "moldavite",
+            "field": "identity.species_or_rock",
+            "contains": "Only glass from the Nördlinger Ries impact in Germany can be called moldavite"
+          },
+          {
+            "sheet": "moldavite",
+            "field": "identity.species_or_rock",
+            "contains": "mineraloid"
+          }
+        ]
+      }
+    ]
+  },
+  "stones__sunstone": {
+    "keyNumbers": [
+      {
+        "value": "1987",
+        "text": "The year Oregon named Oregon sunstone its official state gemstone.",
+        "proof": [
+          {
+            "page": "named Oregon sunstone the official state gemstone"
+          }
+        ]
+      }
+    ],
+    "chain": [
+      {
+        "level": "Mineral Group",
+        "name": "Feldspar",
+        "sub": "Orthoclase and plagioclase species both make sunstone",
+        "proof": [
+          {
+            "sheet": "sunstone",
+            "field": "identity.species_or_rock",
+            "contains": "Orthoclase and plagioclase (oligoclase, labradorite) species each have a sunstone variety"
+          }
+        ]
+      },
+      {
+        "level": "Variety",
+        "name": "Sunstone",
+        "sub": "Glitter from tiny reflective inclusions",
+        "tag": "Feldspar With Aventurescence",
+        "dark": true,
+        "proof": [
+          {
+            "sheet": "sunstone",
+            "field": "identity.what_it_is",
+            "contains": "tiny reflective inclusions that give a glittery flash called aventurescence"
+          }
+        ]
+      }
+    ]
+  }
+}

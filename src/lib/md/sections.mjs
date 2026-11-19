@@ -3,9 +3,11 @@ import { el, txt, raw, isEl, isBlank, meaningful, walk, textOf, addClass, hasCla
 import { targetOf } from './transforms.mjs';
 import {
   icon, esc, facetSvg, facetRating, FACET_LABELS, facetsFromLabel, mohsScale, mohsCompare, parseMohs,
-  HOW_WE_RATE_TEXT, facetLegend, INTENTIONS, titleCase, EVIDENCE,
+  HOW_WE_RATE_TEXT, facetLegend, INTENTIONS, titleCase, EVIDENCE, h3IconName,
 } from '../ui.mjs';
 import { colorSwatches } from '../colors.mjs';
+import { allPageProofsHold } from '../proof.mjs';
+import { worldMapCard } from '../worldmap.mjs';
 
 // ------------------------------------------------------------ classification
 export function classifySection(title, page) {
@@ -196,17 +198,111 @@ function factsCard(section, ctx) {
       raw(mohsScale([{ name, min: mohs.min, max: mohs.max, tone: 0 }])),
     ]));
   }
-  const swatches = colorSwatches(colorsRow || '');
-  if (swatches.length >= 2) {
+  // The Colors row of the table, or the verified colors note of the stone sheet when the table has none.
+  const swatches = colorSwatches(colorsRow || ctx.extras?.colors || '');
+  if (swatches.length >= 1) {
     cards.push(el('div', { className: ['card', 'colors-card'] }, [
       el('p', { className: ['card-title'] }, [txt('Colors')]),
-      raw(`<ul class="swatches">${swatches.map((s) => `<li><span class="swatch${s.light ? ' is-light' : ''}" style="background:${s.hex}"></span><span>${esc(s.name)}</span></li>`).join('')}</ul>`),
+      raw(`<ul class="swatches">${swatches.map((s) => `<li><span class="swatch${s.light ? ' is-light' : ''}" style="background:${s.hex}"></span><span>${esc(titleCase(s.name))}</span></li>`).join('')}</ul>`),
       el('p', { className: ['card-note'] }, [txt('Swatches are approximate screen colors.')]),
     ]));
   }
   if (cards.length) parts.push(el('div', { className: ['facts-cards'] }, cards));
   section.nodes = [...parts, ...rest];
   section.layout = 'facts';
+}
+
+// ------------------------------------------------------------ "What X Actually Is" (stone, R3-Stone)
+/** Writes a chemical formula with subscripts and charges, SiO2 becomes SiO<sub>2</sub>. */
+export function formulaHtml(f) {
+  const src = String(f || '');
+  let out = '';
+  let afterCharge = false;
+  for (let i = 0; i < src.length;) {
+    const m = /^\d+(?:\.\d+)?/.exec(src.slice(i));
+    if (m) {
+      const num = m[0];
+      const next = src[i + num.length];
+      const prev = src[i - 1] || '';
+      if ((next === '+' || next === '-') && /[A-Za-z]/.test(prev)) { out += `<sup>${num}${next}</sup>`; i += num.length + 1; afterCharge = true; continue; }
+      out += afterCharge || /[A-Za-z)\]\u2610]/.test(prev) ? `<sub>${num}</sub>` : num;
+      afterCharge = false;
+      i += num.length;
+      continue;
+    }
+    afterCharge = false;
+    out += esc(src[i]);
+    i++;
+  }
+  return out;
+}
+
+const ARROW = '<svg class="chain-arrow" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg>';
+
+/** The classification chain, Group then Species then Variety, as cards with arrows. */
+export function chainHtml(chain, { stoneName = 'this stone', imaList = null } = {}) {
+  const nodes = chain?.nodes || [];
+  const cards = nodes.filter((n) => !n.join);
+  if (cards.length < 2) return '';
+  let html = '';
+  nodes.forEach((n, i) => {
+    if (n.join) { html += `<span class="chain-or" aria-hidden="true">${esc(n.join)}</span>`; return; }
+    if (i > 0 && !nodes[i - 1].join) html += ARROW;
+    const tone = n.dark ? 'is-dark' : n.ima ? 'is-species' : 'is-soft';
+    const sub = n.sub ? `<p class="chain-sub">${esc(n.sub)}</p>`
+      : n.formula && n.formula.length <= 22 ? `<p class="chain-sub chain-formula">${formulaHtml(n.formula)}</p>` : '';
+    const chips = [n.ima ? 'IMA Mineral' : null, n.chip || null].filter(Boolean).map((c) => `<span class="chain-chip">${esc(c)}</span>`).join('');
+    const tag = n.tag ? `<span class="chain-chip chain-tag">${esc(n.tag)}</span>` : '';
+    html += `<div class="chain-node ${tone}"><p class="chain-level">${esc(n.level)}</p><p class="chain-name">${esc(n.name)}</p>${sub}${chips}${tag}</div>`;
+  });
+  const note = chain.imaNote && imaList ? `<p class="chain-note">Mineral status from the ${esc(imaList)}</p>` : '';
+  return `<div class="chain" role="group" aria-label="${esc(`Where ${stoneName.toLowerCase()} sits in the mineral world`)}">${html}</div>${note}`;
+}
+
+export function keyNumbersHtml(keys) {
+  return keys.map((k) => `<div class="key-number"><p class="key-value">${esc(k.value)}</p><p class="key-text">${esc(k.text)}</p></div>`).join('');
+}
+
+/** Small icons beside the H3 titles of a section (R3-Stone). */
+function h3Icons(nodes) {
+  for (const n of nodes) {
+    if (!isEl(n, 'h3') || hasClass(n, 'has-icon')) continue;
+    addClass(n, 'has-icon');
+    n.children = [raw(icon(h3IconName(textOf(n)), { size: 26, cls: 'h3-icon' })), el('span', {}, n.children)];
+  }
+}
+
+/**
+ * Key numbers beside the opening paragraphs, the classification chain under them, then the
+ * H3 subsections with the photo card and the map beside them. Each block is left out when
+ * its data is missing or no longer matches the page text.
+ */
+function whatBlocks(section, ctx) {
+  const extras = ctx.extras || {};
+  const text = ctx.page.body || '';
+  const nodes = [...section.nodes];
+  let photoCard = '';
+  const at = nodes.findIndex((n) => n.type === 'raw' && n.photoRole && ctx.photoCardHtml?.has(n.photoRole));
+  if (at >= 0) { photoCard = ctx.photoCardHtml.get(nodes[at].photoRole); nodes.splice(at, 1); }
+  const keys = (extras.keyNumbers || []).filter((k) => allPageProofsHold(text, k.pageProof));
+  const chain = extras.chain && allPageProofsHold(text, extras.chain.pageProof) ? extras.chain : null;
+  const mapCard = worldMapCard(extras.map?.pins);
+
+  const { before, groups } = h3Groups(nodes);
+  const body = { nodes: groups.flatMap((g) => [g.h3, ...g.nodes]) };
+  foldSubsections(body);
+
+  let topAside = keyNumbersHtml(keys);
+  let bodyAside = `${photoCard}${mapCard}`;
+  if (!groups.length) { topAside += bodyAside; bodyAside = ''; }
+  const chainBlock = chainHtml(chain, { stoneName: ctx.page.stoneName || ctx.page.data?.h1 || 'this stone', imaList: ctx.imaList });
+
+  section.layout = 'what';
+  section.nodes = before;
+  section.bodyNodes = body.nodes.length ? body.nodes : null;
+  section.asideNodes = topAside ? [raw(topAside)] : null;
+  section.chainNodes = chainBlock ? [raw(chainBlock)] : null;
+  section.bodyAsideNodes = bodyAside ? [raw(bodyAside)] : null;
 }
 
 // ------------------------------------------------------------ ritual cards
@@ -405,7 +501,9 @@ export function transformSection(section, ctx) {
   if (type === 'stone') {
     section.navLabel = NAV_LABELS[section.kind] || null;
     if (section.kind === 'facts') factsCard(section, ctx);
-    if (['what', 'today', 'real'].includes(section.kind)) foldSubsections(section);
+    if (['what', 'today', 'real', 'care'].includes(section.kind)) h3Icons(section.nodes);
+    if (section.kind === 'what') whatBlocks(section, ctx);
+    if (['today', 'real'].includes(section.kind)) foldSubsections(section);
     if (section.kind === 'today') knownForAside(section, ctx);
     if (section.kind === 'ritual') ritualCards(section);
     if (section.kind === 'lookalikes') relatedCards(section, ctx);

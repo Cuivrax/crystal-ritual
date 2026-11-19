@@ -66,9 +66,16 @@ export async function figureHtml(photo, meta, { variant = 'inline', eager = fals
     card: { widths: [320, 640], sizes: '(min-width: 900px) 300px, 92vw', ratio: [4, 3], avif: false },
     rank: { widths: [150, 300], sizes: '150px', ratio: [1, 1], avif: false },
     circle: { widths: [80, 160], sizes: '76px', ratio: [1, 1], avif: false },
+    aside: { widths: [400, 800], sizes: '(min-width: 900px) 400px, 92vw', ratio: [4, 3] },
   }[variant];
   const pic = await pictureHtml(meta, { alt: photo.alt || '', eager, ...opts });
   // Circles sit inside link cards, their credit is printed under the group instead (no nested links).
   if (variant === 'circle') return `<figure class="photo photo-${variant}">${pic}</figure>`;
+  if (variant === 'aside') {
+    // The photo card beside "What It Is" says what the photo shows, then who took it.
+    const said = (photo.caption ? '' : String(photo.alt || '').trim().replace(/[.\s]+$/, ''));
+    const lead = said ? `<span class="photo-said">${esc(said.charAt(0).toUpperCase() + said.slice(1))}.</span> ` : '';
+    return `<figure class="photo photo-aside">${pic}<figcaption>${lead}${creditHtml(photo)}</figcaption></figure>`;
+  }
   return `<figure class="photo photo-${variant}">${pic}<figcaption>${creditHtml(photo)}</figcaption></figure>`;
 }

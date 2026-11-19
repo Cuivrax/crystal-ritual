@@ -63,7 +63,8 @@ export function colorSwatches(text) {
   const parts = String(text)
     .replace(/\[TO CHECK[^\]]*\]/g, '')
     .split(/,| and | to | or |\./)
-    .map((s) => s.trim())
+    // "Red from iron oxide" names the color, then its cause, the swatch keeps the color.
+    .map((s) => s.replace(/\s+(?:from|by|due to|because)\s.*$/i, '').trim())
     .filter(Boolean);
   const out = [];
   for (const part of parts) {

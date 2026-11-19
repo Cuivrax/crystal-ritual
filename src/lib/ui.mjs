@@ -187,6 +187,8 @@ const P = {
   star: '<path d="M6 0 L7.2 4.8 L12 6 L7.2 7.2 L6 12 L4.8 7.2 L0 6 L4.8 4.8 Z"/>',
   book: '<path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 19V5"/>',
   zodiac: '<circle cx="12" cy="12" r="8"/><path d="M12 4v16M4 12h16"/>',
+  palette: '<path d="M12 3a9 9 0 1 0 0 18c1.2 0 1.8-.8 1.8-1.7 0-.5-.2-.9-.5-1.2-.3-.3-.5-.7-.5-1.2 0-.9.8-1.6 1.7-1.6H16a5 5 0 0 0 5-5c0-4-4-7.3-9-7.3z"/><circle cx="7.5" cy="11" r="1"/><circle cx="10" cy="7.2" r="1"/><circle cx="14.5" cy="7.2" r="1"/>',
+  eye: '<path d="M2 12s3.5-6.5 10-6.5S22 12 22 12s-3.5 6.5-10 6.5S2 12 2 12z"/><circle cx="12" cy="12" r="3"/>',
 };
 
 export function icon(name, { size = 24, cls = '', stroke = 1.6 } = {}) {
@@ -195,6 +197,34 @@ export function icon(name, { size = 24, cls = '', stroke = 1.6 } = {}) {
     return `<svg class="icon ${cls}" width="${size}" height="${size}" viewBox="0 0 12 12" aria-hidden="true" focusable="false"><path fill="currentColor" d="M6 0 L7.2 4.8 L12 6 L7.2 7.2 L6 12 L4.8 7.2 L0 6 L4.8 4.8 Z"/></svg>`;
   }
   return `<svg class="icon ${cls}" width="${size}" height="${size}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="${stroke}" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">${p}</svg>`;
+}
+
+// Icons beside the H3 titles of stone sections (R3-Stone, "What It Is"). First match wins.
+const H3_ICONS = [
+  [/comes? from|is found|found\b|sources?\b|mined|where .* (?:from|found)/i, 'pin'],
+  [/\bcrystals?\b|structure/i, 'cube'],
+  [/\bforms?\b|grows?\b|how big|formation|deposit/i, 'mountain'],
+  [/charge|electric|\bmagnetic\b|piezo/i, 'bolt'],
+  [/\bheat|heated|treat|irradiat|dye/i, 'flame'],
+  [/\bsun\b|light\b|\buv\b|glow/i, 'sun'],
+  [/water|soak|wet|salt|soluble/i, 'drop'],
+  [/flash|rainbow|glitter|sparkle|shimmer|play of/i, 'sparkle'],
+  [/inside|\bin my\b|look like|looks like|spots|trees|shell|see\b|read the/i, 'eye'],
+  [/\breal\?$|\bfakes?\b|real or fake/i, 'magnifier'],
+  [/name|label|called|pronounce|means|trade|\bvs\b|\bor\b|same as|types?\b|kinds?\b|stone or/i, 'tag'],
+  [/colou?rs?\b|pink|orange|purple|violet|green\b|blue\b|white\b|yellow|black\b|\bred\b|cloudy|dark|streaks?/i, 'palette'],
+  [/scratch|hard(?:ness)?\b|soft(?:er)?\b|durab|brittle|break/i, 'shield'],
+  [/formula|composition|chemi/i, 'flask'],
+  [/used for|uses?\b|does\b|do\b/i, 'hand'],
+  [/rare|collector|value|price|cost/i, 'star'],
+  [/real\b|fake|natural|lab-grown|synthetic|imitation|checks?\b|tell\b/i, 'magnifier'],
+  [/guides?|history|story|old\b/i, 'book'],
+];
+
+/** The icon name for an H3 title, gem when nothing fits. */
+export function h3IconName(title) {
+  const hit = H3_ICONS.find(([rx]) => rx.test(String(title)));
+  return hit ? hit[1] : 'gem';
 }
 
 /** The brand mark, a faceted crystal outline in a ring. */

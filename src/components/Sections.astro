@@ -19,7 +19,21 @@ const list = sections.filter((s) => !skip.includes(s.kind));
         <Fragment>
           {s.badge && <p class="section-badge" set:html={badge(s.badge)} />}
           <h2 class="section-title" id={s.id} set:html={s.headingHtml} />
-          {s.layout === 'split' && s.asideHtml ? (
+          {s.layout === 'what' ? (
+            <Fragment>
+              <div class={['what-top', s.asideHtml ? 'split' : ''].filter(Boolean).join(' ')}>
+                <div class="prose"><Body html={s.html} page={page} /></div>
+                {s.asideHtml && <aside class="side key-numbers" set:html={s.asideHtml} />}
+              </div>
+              {s.chainHtml && <Fragment set:html={s.chainHtml} />}
+              {s.bodyHtml && (
+                <div class={['what-body', s.bodyAsideHtml ? 'split' : ''].filter(Boolean).join(' ')}>
+                  <div class="prose"><Body html={s.bodyHtml} page={page} /></div>
+                  {s.bodyAsideHtml && <aside class="side what-aside" set:html={s.bodyAsideHtml} />}
+                </div>
+              )}
+            </Fragment>
+          ) : s.layout === 'split' && s.asideHtml ? (
             <div class="split">
               <div class="prose"><Body html={s.html} page={page} /></div>
               <aside class="side" set:html={s.asideHtml} />

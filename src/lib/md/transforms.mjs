@@ -40,7 +40,8 @@ export function processComments(tree, ctx) {
       if (photo.pair) return []; // compare pages render the pair under the title
       if (photo.hero) { if (!ctx.hero && ctx.photoHtml?.has('hero')) ctx.hero = photo; return []; }
       const figure = ctx.photoHtml?.get(photo.role);
-      if (figure && !inline) return [raw(figure)];
+      // The role rides along, so a layout can move the photo into a card (stone "What It Is" aside).
+      if (figure && !inline) return [{ ...raw(figure), photoRole: photo.role }];
       return [];
     }
     const key = toolKeyFor(value);

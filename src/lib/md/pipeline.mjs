@@ -138,6 +138,9 @@ export async function renderDocument(page, ctx) {
     s.html = finish(s.nodes);
     if (s.asideNodes) s.asideHtml = finish(s.asideNodes);
     if (s.extraNodes) s.extraHtml = finish(s.extraNodes);
+    if (s.bodyNodes) s.bodyHtml = finish(s.bodyNodes);
+    if (s.chainNodes) s.chainHtml = finish(s.chainNodes);
+    if (s.bodyAsideNodes) s.bodyAsideHtml = finish(s.bodyAsideNodes);
   }
   if (sources) out.sources = html(sources.nodes);
   else {

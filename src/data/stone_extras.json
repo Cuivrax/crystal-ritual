@@ -1,0 +1,2028 @@
+{
+ "generated": "2026-11-19",
+ "imaList": "IMA List of Minerals, July 2026",
+ "pages": {
+  "stones__adamite": {
+   "map": {
+    "pins": [
+     {
+      "label": "Mexico",
+      "lon": -103.8,
+      "lat": 25.8
+     },
+     {
+      "label": "Namibia",
+      "lon": 17.7,
+      "lat": -19.2
+     },
+     {
+      "label": "Greece",
+      "lon": 24,
+      "lat": 37.7
+     },
+     {
+      "label": "California",
+      "lon": -119.5,
+      "lat": 37
+     },
+     {
+      "label": "Nevada",
+      "lon": -117,
+      "lat": 39.5
+     },
+     {
+      "label": "Utah",
+      "lon": -111.7,
+      "lat": 39.3
+     },
+     {
+      "label": "France",
+      "lon": 2.5,
+      "lat": 46.5
+     },
+     {
+      "label": "Algeria",
+      "lon": 3,
+      "lat": 28
+     },
+     {
+      "label": "Chile",
+      "lon": -70,
+      "lat": -26
+     },
+     {
+      "label": "Germany",
+      "lon": 10.4,
+      "lat": 51
+     }
+    ]
+   },
+   "colors": "Pale yellow, honey-yellow, brownish yellow, reddish; rarely white, colorless, blue or green (S2). Also green, violet, pink and rose per S1."
+  },
+  "stones__agate": {
+   "map": {
+    "pins": [
+     {
+      "label": "Brazil",
+      "lon": -51,
+      "lat": -10
+     },
+     {
+      "label": "Uruguay",
+      "lon": -56,
+      "lat": -33
+     },
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     },
+     {
+      "label": "Mexico",
+      "lon": -102,
+      "lat": 23.5
+     },
+     {
+      "label": "Arizona",
+      "lon": -111.7,
+      "lat": 34.3
+     },
+     {
+      "label": "Namibia",
+      "lon": 17,
+      "lat": -22
+     },
+     {
+      "label": "India",
+      "lon": 79,
+      "lat": 22
+     },
+     {
+      "label": "Scotland",
+      "lon": -4.2,
+      "lat": 57
+     }
+    ]
+   },
+   "colors": "Brown, white, red, gray, pink, black and yellow, often in alternating bands."
+  },
+  "stones__amethyst": {
+   "keyNumbers": [
+    {
+     "value": "2,000+",
+     "text": "Years people have worn amethyst as adornment.",
+     "pageProof": []
+    },
+    {
+     "value": "1",
+     "text": "Commercial amethyst mine in the United States, Four Peaks in Arizona.",
+     "pageProof": [
+      "Four Peaks Mine in Arizona is the only commercially"
+     ]
+    }
+   ],
+   "chain": {
+    "nodes": [
+     {
+      "level": "Species",
+      "name": "Quartz",
+      "ima": "Quartz",
+      "formula": "SiO2"
+     },
+     {
+      "level": "Color Variety",
+      "name": "Amethyst",
+      "sub": "Purple by definition, from pale lilac to deep reddish purple",
+      "tag": "Variety of an IMA Mineral, Quartz",
+      "dark": true
+     }
+    ],
+    "pageProof": [],
+    "imaNote": true
+   },
+   "map": {
+    "pins": [
+     {
+      "label": "Brazil",
+      "lon": -51,
+      "lat": -10
+     },
+     {
+      "label": "Bolivia",
+      "lon": -64.5,
+      "lat": -17
+     },
+     {
+      "label": "Uruguay",
+      "lon": -56,
+      "lat": -33
+     },
+     {
+      "label": "Zambia",
+      "lon": 27.8,
+      "lat": -13.5
+     },
+     {
+      "label": "Arizona",
+      "lon": -111.7,
+      "lat": 34.3
+     }
+    ]
+   },
+   "colors": "Purple by definition, from barely perceptible lilac to deep reddish purple. Reddish purple with rich saturation is the most popular."
+  },
+  "stones__barite": {
+   "map": {
+    "pins": [
+     {
+      "label": "Colorado",
+      "lon": -105.5,
+      "lat": 39
+     },
+     {
+      "label": "Illinois",
+      "lon": -89.2,
+      "lat": 40
+     },
+     {
+      "label": "South Dakota",
+      "lon": -100.2,
+      "lat": 44.4
+     },
+     {
+      "label": "Canada",
+      "lon": -125,
+      "lat": 54
+     },
+     {
+      "label": "England",
+      "lon": -3,
+      "lat": 54.6
+     },
+     {
+      "label": "Brazil",
+      "lon": -51,
+      "lat": -10
+     },
+     {
+      "label": "China",
+      "lon": 104,
+      "lat": 35
+     },
+     {
+      "label": "France",
+      "lon": 2.5,
+      "lat": 46.5
+     },
+     {
+      "label": "Germany",
+      "lon": 10.4,
+      "lat": 51
+     },
+     {
+      "label": "Morocco",
+      "lon": -6,
+      "lat": 32
+     }
+    ]
+   },
+   "colors": "Colorless, white, light blue, yellow, red, green per S2; also grey and brown per S3. Colored crystals can show weak pleochroism per S1."
+  },
+  "stones__black-sapphire": {
+   "colors": "Black is one of several non-blue colors sapphire can take, along with gray, brown and colorless (S3, S1)."
+  },
+  "stones__blue-calcite": {},
+  "stones__blue-chalcedony": {
+   "map": {
+    "pins": [
+     {
+      "label": "California",
+      "lon": -119.5,
+      "lat": 37
+     },
+     {
+      "label": "Nevada",
+      "lon": -117,
+      "lat": 39.5
+     },
+     {
+      "label": "Namibia",
+      "lon": 17,
+      "lat": -22
+     },
+     {
+      "label": "Oregon",
+      "lon": -120.5,
+      "lat": 44
+     },
+     {
+      "label": "Arizona",
+      "lon": -111.7,
+      "lat": 34.3
+     }
+    ]
+   },
+   "colors": "Blue chalcedony runs pale to medium blue, modified by gray or pink. Unstained chalcedony is often grayish blue. Pure deep blue is the most valuable color per S3."
+  },
+  "stones__blue-opal": {
+   "map": {
+    "pins": [
+     {
+      "label": "Peru",
+      "lon": -75,
+      "lat": -9.5
+     },
+     {
+      "label": "Oregon",
+      "lon": -120.5,
+      "lat": 44
+     },
+     {
+      "label": "Idaho",
+      "lon": -114.6,
+      "lat": 44.3
+     },
+     {
+      "label": "Nevada",
+      "lon": -117,
+      "lat": 39.5
+     }
+    ]
+   },
+   "colors": "Pale sky blue, seafoam to deeper teal. Peruvian opal comes in pastel blues, greens and pinks."
+  },
+  "stones__blue-quartz": {
+   "map": {
+    "pins": [
+     {
+      "label": "Brazil",
+      "lon": -41.7,
+      "lat": -12.5
+     },
+     {
+      "label": "California",
+      "lon": -119.5,
+      "lat": 37
+     },
+     {
+      "label": "India",
+      "lon": 79,
+      "lat": 22
+     }
+    ]
+   },
+   "colors": "Blue to violet for dumortierite quartz."
+  },
+  "stones__blue-zircon": {
+   "chain": {
+    "nodes": [
+     {
+      "level": "Species",
+      "name": "Zircon",
+      "ima": "Zircon",
+      "formula": "Zr(SiO4)"
+     },
+     {
+      "level": "Variety",
+      "name": "Blue Zircon",
+      "tag": "Variety of an IMA Mineral, Zircon",
+      "dark": true
+     }
+    ],
+    "pageProof": [],
+    "imaNote": true
+   },
+   "map": {
+    "pins": [
+     {
+      "label": "Cambodia",
+      "lon": 105,
+      "lat": 12.5
+     },
+     {
+      "label": "Malawi",
+      "lon": 34,
+      "lat": -13.5
+     }
+    ]
+   },
+   "colors": "Natural zircon is usually yellow, brown or red; blue is mostly produced by heat treatment."
+  },
+  "stones__bumblebee-jasper": {
+   "map": {
+    "pins": [
+     {
+      "label": "Indonesia",
+      "lon": 107.6,
+      "lat": -6.9
+     }
+    ]
+   },
+   "colors": "Bright yellow to orange bands with black, often as bull's-eye (orbicular) patterns."
+  },
+  "stones__chalcocite": {
+   "map": {
+    "pins": [
+     {
+      "label": "England",
+      "lon": -5,
+      "lat": 50.4
+     },
+     {
+      "label": "Connecticut",
+      "lon": -72.7,
+      "lat": 41.6
+     },
+     {
+      "label": "Montana",
+      "lon": -109.6,
+      "lat": 47
+     },
+     {
+      "label": "Kazakhstan",
+      "lon": 67.7,
+      "lat": 47.8
+     },
+     {
+      "label": "Namibia",
+      "lon": 17.7,
+      "lat": -19.2
+     }
+    ]
+   },
+   "colors": "Dark gray to black, per S1."
+  },
+  "stones__chiastolite": {
+   "map": {
+    "pins": [
+     {
+      "label": "Spain",
+      "lon": -6,
+      "lat": 43.3
+     },
+     {
+      "label": "California",
+      "lon": -119.5,
+      "lat": 37
+     }
+    ]
+   },
+   "colors": "Black cross or featherlike graphite pattern with four radiating arms."
+  },
+  "stones__chrysoprase": {
+   "keyNumbers": [
+    {
+     "value": "3,240 lb",
+     "text": "The larger of two chrysoprase nodules found near Kalgoorlie, Western Australia (1,470 kg).",
+     "pageProof": [
+      "3,240 pounds",
+      "Kalgoorlie"
+     ]
+    },
+    {
+     "value": "Up to 5%",
+     "text": "Nickel oxide by weight in the deepest green stones. Pale ones hold 0.2 to 1 percent.",
+     "pageProof": [
+      "up to 5 percent",
+      "0.2 to 1 percent nickel oxide"
+     ]
+    }
+   ],
+   "chain": {
+    "nodes": [
+     {
+      "level": "Species",
+      "name": "Quartz",
+      "ima": "Quartz",
+      "formula": "SiO2"
+     },
+     {
+      "level": "Microcrystalline Form",
+      "name": "Chalcedony",
+      "sub": "Quartz in crystals too small to see"
+     },
+     {
+      "level": "Color Variety",
+      "name": "Chrysoprase",
+      "sub": "Green from nickel",
+      "tag": "Variety of an IMA Mineral, Quartz",
+      "dark": true
+     }
+    ],
+    "pageProof": [],
+    "imaNote": true
+   },
+   "map": {
+    "pins": [
+     {
+      "label": "Australia",
+      "lon": 148,
+      "lat": -22
+     },
+     {
+      "label": "Poland",
+      "lon": 16.8,
+      "lat": 50.6
+     },
+     {
+      "label": "Brazil",
+      "lon": -51,
+      "lat": -10
+     },
+     {
+      "label": "Kazakhstan",
+      "lon": 67,
+      "lat": 48
+     },
+     {
+      "label": "Tanzania",
+      "lon": 35,
+      "lat": -6.3
+     },
+     {
+      "label": "India",
+      "lon": 79,
+      "lat": 22
+     },
+     {
+      "label": "Russia",
+      "lon": 60,
+      "lat": 57
+     },
+     {
+      "label": "California",
+      "lon": -119.5,
+      "lat": 37
+     }
+    ]
+   },
+   "colors": "Apple to olive green and nearly pure medium greens; pale yellowish green to deeply saturated green."
+  },
+  "stones__citrine": {
+   "keyNumbers": [
+    {
+     "value": "2,258",
+     "text": "Carats in the larger of two Brazilian citrines held by the Smithsonian.",
+     "pageProof": [
+      "2,258 and 1,180 carats",
+      "Smithsonian holds Brazilian citrines"
+     ]
+    },
+    {
+     "value": "1952",
+     "text": "The year citrine joined the modern November birthstone list.",
+     "pageProof": [
+      "joined the November list in 1952"
+     ]
+    }
+   ],
+   "chain": {
+    "nodes": [
+     {
+      "level": "Species",
+      "name": "Quartz",
+      "ima": "Quartz",
+      "formula": "SiO2"
+     },
+     {
+      "level": "Color Variety",
+      "name": "Citrine",
+      "sub": "Pale yellow to brownish orange",
+      "tag": "Variety of an IMA Mineral, Quartz",
+      "dark": true
+     }
+    ],
+    "pageProof": [],
+    "imaNote": true
+   },
+   "map": {
+    "pins": [
+     {
+      "label": "Brazil",
+      "lon": -51,
+      "lat": -10
+     },
+     {
+      "label": "Bolivia",
+      "lon": -64.5,
+      "lat": -17
+     },
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     },
+     {
+      "label": "Mexico",
+      "lon": -102,
+      "lat": 23.5
+     },
+     {
+      "label": "Russia",
+      "lon": 60,
+      "lat": 57
+     },
+     {
+      "label": "Spain",
+      "lon": -3.7,
+      "lat": 40.2
+     },
+     {
+      "label": "Uruguay",
+      "lon": -56,
+      "lat": -33
+     }
+    ]
+   },
+   "colors": "Yellow to orangey yellow, yellowish orange and brownish orange. Reddish orange and reddish brown are rare and often called Madeira."
+  },
+  "stones__clear-quartz": {
+   "keyNumbers": [
+    {
+     "value": "107 lb",
+     "text": "The flawless Burmese crystal ball at the Smithsonian, 12.75 inches (32.4 cm) across.",
+     "pageProof": [
+      "weighs 107 pounds",
+      "12.75 inches (32.4 cm)",
+      "Burmese sphere"
+     ]
+    }
+   ],
+   "chain": {
+    "nodes": [
+     {
+      "level": "Species",
+      "name": "Quartz",
+      "ima": "Quartz",
+      "formula": "SiO2"
+     },
+     {
+      "level": "Colorless Variety",
+      "name": "Clear Quartz",
+      "sub": "Traditionally called rock crystal",
+      "tag": "Variety of an IMA Mineral, Quartz",
+      "dark": true
+     }
+    ],
+    "pageProof": [
+     "rock crystal"
+    ],
+    "imaNote": true
+   },
+   "map": {
+    "pins": [
+     {
+      "label": "Arkansas",
+      "lon": -92.4,
+      "lat": 34.9
+     },
+     {
+      "label": "New York",
+      "lon": -75.5,
+      "lat": 43
+     },
+     {
+      "label": "Brazil",
+      "lon": -44,
+      "lat": -18.5
+     },
+     {
+      "label": "Japan",
+      "lon": 138,
+      "lat": 37
+     },
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     },
+     {
+      "label": "UK",
+      "lon": -2,
+      "lat": 54
+     },
+     {
+      "label": "Spain",
+      "lon": -3.7,
+      "lat": 40.2
+     },
+     {
+      "label": "Switzerland",
+      "lon": 8.2,
+      "lat": 46.8
+     }
+    ]
+   },
+   "colors": "Colorless."
+  },
+  "stones__crazy-lace-agate": {
+   "map": {
+    "pins": [
+     {
+      "label": "Mexico",
+      "lon": -106,
+      "lat": 28.6
+     }
+    ]
+   },
+   "colors": "Crazy Lace shows very fine banding with contrasting colors."
+  },
+  "stones__dalmatian-jasper": {
+   "map": {
+    "pins": [
+     {
+      "label": "Mexico",
+      "lon": -106,
+      "lat": 28.6
+     }
+    ]
+   },
+   "colors": "White to cream base with black spots; S4 adds brown spots. Spots rarely exceed 4 mm."
+  },
+  "stones__dumortierite": {
+   "map": {
+    "pins": [
+     {
+      "label": "Austria",
+      "lon": 14.5,
+      "lat": 47.5
+     },
+     {
+      "label": "Brazil",
+      "lon": -51,
+      "lat": -10
+     },
+     {
+      "label": "Canada",
+      "lon": -95,
+      "lat": 55
+     },
+     {
+      "label": "France",
+      "lon": 2.5,
+      "lat": 46.5
+     },
+     {
+      "label": "Italy",
+      "lon": 12.5,
+      "lat": 42.5
+     },
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     },
+     {
+      "label": "Namibia",
+      "lon": 17,
+      "lat": -22
+     },
+     {
+      "label": "Nevada",
+      "lon": -117,
+      "lat": 39.5
+     },
+     {
+      "label": "Norway",
+      "lon": 9,
+      "lat": 61
+     },
+     {
+      "label": "Peru",
+      "lon": -75,
+      "lat": -9.5
+     }
+    ]
+   },
+   "colors": "Brown, blue and green are most common; violet and pink are rarer."
+  },
+  "stones__goethite": {
+   "map": {
+    "pins": [
+     {
+      "label": "Minnesota",
+      "lon": -94.3,
+      "lat": 46.3
+     },
+     {
+      "label": "Missouri",
+      "lon": -92.5,
+      "lat": 38.4
+     },
+     {
+      "label": "Colorado",
+      "lon": -105.5,
+      "lat": 39
+     },
+     {
+      "label": "Alabama",
+      "lon": -86.8,
+      "lat": 32.8
+     },
+     {
+      "label": "Georgia",
+      "lon": -83.4,
+      "lat": 32.7
+     },
+     {
+      "label": "Virginia",
+      "lon": -78.8,
+      "lat": 37.5
+     },
+     {
+      "label": "Tennessee",
+      "lon": -86.3,
+      "lat": 35.8
+     },
+     {
+      "label": "England",
+      "lon": -1.5,
+      "lat": 52.5
+     },
+     {
+      "label": "Cuba",
+      "lon": -79,
+      "lat": 21.5
+     }
+    ]
+   },
+   "colors": "Yellowish to reddish to dark brown or black."
+  },
+  "stones__grape-agate": {
+   "map": {
+    "pins": [
+     {
+      "label": "Indonesia",
+      "lon": 119.4,
+      "lat": -2.7
+     }
+    ]
+   },
+   "colors": "Mostly dull gray, brown or colorless; only about 10% has attractive color, mainly purple, then green or blue-green."
+  },
+  "stones__green-beryl": {
+   "chain": {
+    "nodes": [
+     {
+      "level": "Species",
+      "name": "Beryl",
+      "ima": "Beryl",
+      "formula": "Be3Al2(Si6O18)"
+     },
+     {
+      "level": "Variety",
+      "name": "Green Beryl",
+      "tag": "Variety of an IMA Mineral, Beryl",
+      "dark": true
+     }
+    ],
+    "pageProof": [],
+    "imaNote": true
+   },
+   "colors": "Light green (S2)."
+  },
+  "stones__green-jade": {
+   "map": {
+    "pins": [
+     {
+      "label": "Myanmar",
+      "lon": 96,
+      "lat": 22
+     },
+     {
+      "label": "New Zealand",
+      "lon": 172,
+      "lat": -42
+     }
+    ]
+   }
+  },
+  "stones__green-onyx": {
+   "map": {
+    "pins": [
+     {
+      "label": "India",
+      "lon": 79,
+      "lat": 22
+     },
+     {
+      "label": "Brazil",
+      "lon": -51,
+      "lat": -10
+     },
+     {
+      "label": "Uruguay",
+      "lon": -56,
+      "lat": -33
+     },
+     {
+      "label": "Mexico",
+      "lon": -102,
+      "lat": 23.5
+     },
+     {
+      "label": "Greece",
+      "lon": 22,
+      "lat": 39
+     },
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     }
+    ]
+   },
+   "colors": "Onyx is black and white banded, and sardonyx is red to brown with black or white. Green onyx is usually dyed green chalcedony, and chrysoprase is apple green chalcedony."
+  },
+  "stones__green-tourmaline": {
+   "map": {
+    "pins": [
+     {
+      "label": "Brazil",
+      "lon": -44,
+      "lat": -18.5
+     },
+     {
+      "label": "Mozambique",
+      "lon": 35.5,
+      "lat": -18.7
+     }
+    ]
+   },
+   "colors": "Green tourmaline is dark green, sometimes light green or light brown."
+  },
+  "stones__iris-agate": {
+   "map": {
+    "pins": [
+     {
+      "label": "Oregon",
+      "lon": -120.5,
+      "lat": 44
+     },
+     {
+      "label": "Montana",
+      "lon": -109.6,
+      "lat": 47
+     },
+     {
+      "label": "California",
+      "lon": -119.5,
+      "lat": 37
+     },
+     {
+      "label": "Brazil",
+      "lon": -53.5,
+      "lat": -29.5
+     },
+     {
+      "label": "Indonesia",
+      "lon": 113,
+      "lat": -2
+     },
+     {
+      "label": "India",
+      "lon": 79,
+      "lat": 22
+     },
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     }
+    ]
+   },
+   "colors": "Base color light grey to brown; iridescent colors include blue, green, purple and yellow (per S5)."
+  },
+  "stones__jade": {
+   "keyNumbers": [
+    {
+     "value": "2",
+     "text": "Different minerals sold as jade, jadeite and nephrite.",
+     "pageProof": []
+    },
+    {
+     "value": "1863",
+     "text": "The year Alexis Damour showed that jade is two materials.",
+     "pageProof": [
+      "In 1863 the Frenchman Alexis Damour showed"
+     ]
+    }
+   ],
+   "chain": {
+    "nodes": [
+     {
+      "level": "Mineral",
+      "name": "Jadeite",
+      "ima": "Jadeite",
+      "formula": "NaAlSi2O6",
+      "sub": "A sodium aluminum pyroxene"
+     },
+     {
+      "join": "or"
+     },
+     {
+      "level": "Amphibole Rock",
+      "name": "Nephrite",
+      "sub": "Actinolite and tremolite, not one mineral",
+      "chip": "Not One Mineral"
+     },
+     {
+      "level": "One Name for Both",
+      "name": "Jade",
+      "sub": "A cultural term, not a mineral name",
+      "dark": true
+     }
+    ],
+    "pageProof": [],
+    "imaNote": true
+   },
+   "map": {
+    "pins": [
+     {
+      "label": "China",
+      "lon": 80,
+      "lat": 37
+     },
+     {
+      "label": "Myanmar",
+      "lon": 96,
+      "lat": 22
+     },
+     {
+      "label": "New Zealand",
+      "lon": 172,
+      "lat": -42
+     },
+     {
+      "label": "Japan",
+      "lon": 137.9,
+      "lat": 37
+     }
+    ]
+   },
+   "colors": "Most known as green, but also white, lavender, yellow, blue, black, red, orange and gray. Nephrite is usually white, cream to dark green."
+  },
+  "stones__kambaba-jasper": {
+   "map": {
+    "pins": [
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     }
+    ]
+   },
+   "colors": "Green, with blackish, irregularly shaped orbs."
+  },
+  "stones__kingman-turquoise": {
+   "chain": {
+    "nodes": [
+     {
+      "level": "Species",
+      "name": "Turquoise",
+      "ima": "Turquoise",
+      "formula": "CuAl6(PO4)4(OH)8(H2O)4"
+     },
+     {
+      "level": "Variety",
+      "name": "Kingman Turquoise",
+      "tag": "Variety of an IMA Mineral, Turquoise",
+      "dark": true
+     }
+    ],
+    "pageProof": [],
+    "imaNote": true
+   },
+   "map": {
+    "pins": [
+     {
+      "label": "Arizona",
+      "lon": -111.7,
+      "lat": 34.3
+     }
+    ]
+   },
+   "colors": "Medium to dark blue with pyrite flecks; bright blue with black spider-web matrix per S3. Turquoise overall runs blue to green."
+  },
+  "stones__labradorite": {
+   "map": {
+    "pins": [
+     {
+      "label": "Canada",
+      "lon": -61.5,
+      "lat": 56.5
+     },
+     {
+      "label": "Finland",
+      "lon": 26,
+      "lat": 64
+     },
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     },
+     {
+      "label": "Russia",
+      "lon": 60,
+      "lat": 57
+     },
+     {
+      "label": "Oregon",
+      "lon": -120.5,
+      "lat": 44
+     }
+    ]
+   },
+   "colors": "Body color usually clear, white or gray; labradorescent flashes of blue, green, yellow, orange and red."
+  },
+  "stones__laguna-agate": {
+   "map": {
+    "pins": [
+     {
+      "label": "Mexico",
+      "lon": -106,
+      "lat": 28.6
+     }
+    ]
+   },
+   "colors": "Laguna hues run from reds and oranges to yellows, pinks and purples, framed by whites and grays, per S4."
+  },
+  "stones__larvikite": {
+   "map": {
+    "pins": [
+     {
+      "label": "Norway",
+      "lon": 10,
+      "lat": 59
+     },
+     {
+      "label": "Canada",
+      "lon": -88,
+      "lat": 49
+     }
+    ]
+   },
+   "colors": "Black, blue, brown, gray and white per S2, with a silver-blue sheen on polished surfaces."
+  },
+  "stones__libyan-desert-glass": {
+   "map": {
+    "pins": [
+     {
+      "label": "Libya",
+      "lon": 24.5,
+      "lat": 25
+     },
+     {
+      "label": "Egypt",
+      "lon": 27.5,
+      "lat": 24.5
+     }
+    ]
+   },
+   "colors": "Canary yellow to yellow-green, per S4 and S1."
+  },
+  "stones__london-blue-topaz": {
+   "map": {
+    "pins": [
+     {
+      "label": "Brazil",
+      "lon": -51,
+      "lat": -10
+     }
+    ]
+   },
+   "colors": "London blue is a deep blue (S4)."
+  },
+  "stones__magnetite": {
+   "map": {
+    "pins": [
+     {
+      "label": "Chile",
+      "lon": -70,
+      "lat": -26
+     },
+     {
+      "label": "Sweden",
+      "lon": 16,
+      "lat": 62
+     },
+     {
+      "label": "Uruguay",
+      "lon": -56,
+      "lat": -33
+     },
+     {
+      "label": "Spain",
+      "lon": -3.7,
+      "lat": 40.2
+     },
+     {
+      "label": "Norway",
+      "lon": 9,
+      "lat": 61
+     },
+     {
+      "label": "Romania",
+      "lon": 25,
+      "lat": 46
+     },
+     {
+      "label": "Ukraine",
+      "lon": 31,
+      "lat": 49
+     },
+     {
+      "label": "New York",
+      "lon": -75.5,
+      "lat": 43
+     },
+     {
+      "label": "California",
+      "lon": -119.5,
+      "lat": 37
+     },
+     {
+      "label": "New Zealand",
+      "lon": 172,
+      "lat": -42
+     }
+    ]
+   },
+   "colors": "Black to silvery gray per S1; black or gray with a brownish tint in reflected sun per S2."
+  },
+  "stones__mahogany-obsidian": {
+   "map": {
+    "pins": [
+     {
+      "label": "Oregon",
+      "lon": -120.5,
+      "lat": 44
+     },
+     {
+      "label": "Arizona",
+      "lon": -111.7,
+      "lat": 34.3
+     },
+     {
+      "label": "California",
+      "lon": -119.5,
+      "lat": 37
+     },
+     {
+      "label": "Nevada",
+      "lon": -117,
+      "lat": 39.5
+     },
+     {
+      "label": "Colorado",
+      "lon": -105.5,
+      "lat": 39
+     },
+     {
+      "label": "Utah",
+      "lon": -111.7,
+      "lat": 39.3
+     },
+     {
+      "label": "Mexico",
+      "lon": -102,
+      "lat": 23.5
+     }
+    ]
+   },
+   "colors": "Deep brown to black with reddish-brown patches, streaks or swirls. The common mix is black and brown swirled together."
+  },
+  "stones__merlinite": {
+   "map": {
+    "pins": [
+     {
+      "label": "New Mexico",
+      "lon": -106,
+      "lat": 34.4
+     },
+     {
+      "label": "Mexico",
+      "lon": -102,
+      "lat": 23.5
+     }
+    ]
+   },
+   "colors": "Black dendrites on a translucent or white background (S3). The host chalcedony is most often white to gray, grayish-blue or brown (S2)."
+  },
+  "stones__milky-quartz": {
+   "chain": {
+    "nodes": [
+     {
+      "level": "Species",
+      "name": "Quartz",
+      "ima": "Quartz",
+      "formula": "SiO2"
+     },
+     {
+      "level": "Variety",
+      "name": "Milky Quartz",
+      "tag": "Variety of an IMA Mineral, Quartz",
+      "dark": true
+     }
+    ],
+    "pageProof": [],
+    "imaNote": true
+   },
+   "map": {
+    "pins": [
+     {
+      "label": "California",
+      "lon": -119.5,
+      "lat": 37
+     },
+     {
+      "label": "Colorado",
+      "lon": -105.5,
+      "lat": 39
+     }
+    ]
+   },
+   "colors": "White, various shades usually milky (S4); the cloudy look is what gives the variety its name."
+  },
+  "stones__moldavite": {
+   "keyNumbers": [
+    {
+     "value": "15 million",
+     "text": "Years since the asteroid impact that made it, roughly.",
+     "pageProof": []
+    },
+    {
+     "value": "1836",
+     "text": "The year scientists named it moldavite, after the Moldau River in Bohemia.",
+     "pageProof": [
+      "named it moldavite, after a major source near the Moldau River"
+     ]
+    }
+   ],
+   "chain": {
+    "nodes": [
+     {
+      "level": "Natural Glass",
+      "name": "Tektite",
+      "sub": "Impact glass that cooled too fast to crystallize"
+     },
+     {
+      "level": "One Impact Only",
+      "name": "Moldavite",
+      "imaAbsent": true,
+      "sub": "Only glass from the Ries impact in Germany",
+      "tag": "A Mineraloid, Not an IMA Mineral",
+      "dark": true
+     }
+    ],
+    "pageProof": [],
+    "imaNote": true
+   },
+   "map": {
+    "pins": [
+     {
+      "label": "Czech Republic",
+      "lon": 15.5,
+      "lat": 49.8
+     },
+     {
+      "label": "Austria",
+      "lon": 14.5,
+      "lat": 47.5
+     },
+     {
+      "label": "Germany",
+      "lon": 10.4,
+      "lat": 51
+     },
+     {
+      "label": "Poland",
+      "lon": 19,
+      "lat": 52
+     }
+    ]
+   },
+   "colors": "Green, from olive and yellowish green to bottle green; S2 adds greenish brown."
+  },
+  "stones__mystic-topaz": {
+   "colors": "The rainbow colors come from the coating; the base is colorless topaz, and the coating shifts from green through blue, violet, magenta and orange (S5)."
+  },
+  "stones__orange-calcite": {
+   "map": {
+    "pins": [
+     {
+      "label": "Mexico",
+      "lon": -102,
+      "lat": 23.5
+     },
+     {
+      "label": "Ohio",
+      "lon": -82.8,
+      "lat": 40.3
+     },
+     {
+      "label": "England",
+      "lon": -1.5,
+      "lat": 52.5
+     },
+     {
+      "label": "Tennessee",
+      "lon": -86.3,
+      "lat": 35.8
+     }
+    ]
+   }
+  },
+  "stones__orthoceras": {
+   "map": {
+    "pins": [
+     {
+      "label": "Baltic States",
+      "lon": 24,
+      "lat": 57
+     },
+     {
+      "label": "Sweden",
+      "lon": 16,
+      "lat": 62
+     },
+     {
+      "label": "England",
+      "lon": -3.5,
+      "lat": 50.5
+     }
+    ]
+   },
+   "colors": "Fossil shows as chambers in white calcite inside a red, pink or grey limestone matrix in the museum specimen (S2)."
+  },
+  "stones__pink-opal": {
+   "map": {
+    "pins": [
+     {
+      "label": "Peru",
+      "lon": -75,
+      "lat": -9.5
+     },
+     {
+      "label": "Oregon",
+      "lon": -120.5,
+      "lat": 44
+     },
+     {
+      "label": "Mexico",
+      "lon": -102,
+      "lat": 23.5
+     }
+    ]
+   },
+   "colors": "Pale pink, pink and dark red-pink per S7. Peruvian material is pastel pink, often with blue and green stones."
+  },
+  "stones__pink-tourmaline": {
+   "keyNumbers": [
+    {
+     "value": "30+",
+     "text": "Species in the tourmaline supergroup. Pink is a color across several of them.",
+     "pageProof": [
+      "supergroup of more than 30 species"
+     ]
+    },
+    {
+     "value": "1793",
+     "text": "The year tourmaline was recognized as its own mineral.",
+     "pageProof": [
+      "recognized as its own mineral until 1793"
+     ]
+    }
+   ],
+   "chain": {
+    "nodes": [
+     {
+      "level": "Group",
+      "name": "Tourmaline Supergroup",
+      "sub": "More than 30 species, one shared structure"
+     },
+     {
+      "level": "Species",
+      "name": "Elbaite",
+      "ima": "Elbaite",
+      "formula": "Na(Al1.5Li1.5)Al6(Si6O18)(BO3)3(OH)3(OH)",
+      "sub": "Behind most cut tourmaline. Some pink stones are liddicoatite, olenite or rossmanite"
+     },
+     {
+      "level": "Color Variety",
+      "name": "Pink Tourmaline",
+      "sub": "A color, not a species",
+      "tag": "Variety of an IMA Mineral, Usually Elbaite",
+      "dark": true
+     }
+    ],
+    "pageProof": [
+     "share the same trigonal crystal structure",
+     "liddicoatite or olenite",
+     "rossmanite",
+     "Pink is a color, not a species"
+    ],
+    "imaNote": true
+   },
+   "map": {
+    "pins": [
+     {
+      "label": "Brazil",
+      "lon": -44,
+      "lat": -18.5
+     },
+     {
+      "label": "Afghanistan",
+      "lon": 66,
+      "lat": 34
+     },
+     {
+      "label": "Pakistan",
+      "lon": 70,
+      "lat": 30
+     },
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     },
+     {
+      "label": "Mozambique",
+      "lon": 35.5,
+      "lat": -18.7
+     },
+     {
+      "label": "California",
+      "lon": -119.5,
+      "lat": 37
+     },
+     {
+      "label": "Maine",
+      "lon": -69,
+      "lat": 45.3
+     }
+    ]
+   },
+   "colors": "Pale pink, rose, salmon, raspberry, magenta and reddish-pink."
+  },
+  "stones__prasiolite": {
+   "chain": {
+    "nodes": [
+     {
+      "level": "Species",
+      "name": "Quartz",
+      "ima": "Quartz",
+      "formula": "SiO2"
+     },
+     {
+      "level": "Variety",
+      "name": "Prasiolite",
+      "tag": "Variety of an IMA Mineral, Quartz",
+      "dark": true
+     }
+    ],
+    "pageProof": [],
+    "imaNote": true
+   },
+   "map": {
+    "pins": [
+     {
+      "label": "Brazil",
+      "lon": -44,
+      "lat": -18.5
+     },
+     {
+      "label": "Poland",
+      "lon": 19,
+      "lat": 52
+     },
+     {
+      "label": "Canada",
+      "lon": -88,
+      "lat": 49
+     },
+     {
+      "label": "Namibia",
+      "lon": 17,
+      "lat": -22
+     }
+    ]
+   },
+   "colors": "Yellow-green to green; much of the material sold is light in color, with rich green mostly in stones of a few carats."
+  },
+  "stones__prehnite": {
+   "map": {
+    "pins": [
+     {
+      "label": "South Africa",
+      "lon": 18.5,
+      "lat": -34
+     },
+     {
+      "label": "Australia",
+      "lon": 133,
+      "lat": -19
+     }
+    ]
+   },
+   "colors": "Light green to yellow, also colorless, blue, pink or white; rare orange found in 2000."
+  },
+  "stones__purple-sapphire": {
+   "map": {
+    "pins": [
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     },
+     {
+      "label": "India",
+      "lon": 79,
+      "lat": 22
+     },
+     {
+      "label": "Myanmar",
+      "lon": 96,
+      "lat": 22
+     },
+     {
+      "label": "Sri Lanka",
+      "lon": 80.7,
+      "lat": 7.8
+     },
+     {
+      "label": "Thailand",
+      "lon": 101,
+      "lat": 15
+     }
+    ]
+   },
+   "colors": "Pinkish-lilac to deep violet, from soft lilac tones to plums and violets, per S5."
+  },
+  "stones__rainbow-moonstone": {
+   "map": {
+    "pins": [
+     {
+      "label": "India",
+      "lon": 79,
+      "lat": 22
+     },
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     }
+    ]
+   },
+   "colors": "Blue sheen (royal blue in the trade) or multicolored sheen (rainbow)."
+  },
+  "stones__rainbow-obsidian": {
+   "map": {
+    "pins": [
+     {
+      "label": "Oregon",
+      "lon": -120.5,
+      "lat": 44
+     },
+     {
+      "label": "Mexico",
+      "lon": -102,
+      "lat": 23.5
+     },
+     {
+      "label": "China",
+      "lon": 104,
+      "lat": 35
+     }
+    ]
+   },
+   "colors": "Multicolored iridescent bands in various colors (S4). Blue, green, purple and bronze are named (S5)."
+  },
+  "stones__red-jasper": {
+   "keyNumbers": [
+    {
+     "value": "6.5 to 7",
+     "text": "On the Mohs scale, close to quartz itself at 7 and hardy enough for all jewelry uses.",
+     "pageProof": [
+      "6.5 to 7 on the Mohs scale, close to quartz itself at 7",
+      "hardy enough for all jewelry uses"
+     ]
+    }
+   ],
+   "chain": {
+    "nodes": [
+     {
+      "level": "Species",
+      "name": "Quartz",
+      "ima": "Quartz",
+      "formula": "SiO2"
+     },
+     {
+      "level": "Microcrystalline Form",
+      "name": "Chalcedony",
+      "sub": "Quartz in crystals too small to see"
+     },
+     {
+      "level": "Opaque Chalcedony",
+      "name": "Jasper",
+      "sub": "Often full of other minerals, so some call it a rock"
+     },
+     {
+      "level": "Color Variety",
+      "name": "Red Jasper",
+      "sub": "Red from iron oxides, often hematite",
+      "tag": "A Classic True Jasper",
+      "dark": true
+     }
+    ],
+    "pageProof": [
+     "opaque microcrystalline quartz",
+     "chalcedony is opaque, it is jasper",
+     "a rock rather than a mineral",
+     "classic example of a true jasper"
+    ],
+    "imaNote": true
+   },
+   "colors": "Red from iron oxide."
+  },
+  "stones__rose-quartz": {
+   "keyNumbers": [
+    {
+     "value": "2016",
+     "text": "The year Pantone named Rose Quartz a Color of the Year.",
+     "pageProof": [
+      "Pantone named Rose Quartz a Color of the Year"
+     ]
+    }
+   ],
+   "chain": {
+    "nodes": [
+     {
+      "level": "Species",
+      "name": "Quartz",
+      "ima": "Quartz",
+      "formula": "SiO2"
+     },
+     {
+      "level": "Color Variety",
+      "name": "Rose Quartz",
+      "sub": "Usually translucent and massive, rarely in clear crystals",
+      "tag": "Variety of an IMA Mineral, Quartz",
+      "dark": true
+     }
+    ],
+    "pageProof": [],
+    "imaNote": true
+   },
+   "map": {
+    "pins": [
+     {
+      "label": "Brazil",
+      "lon": -51,
+      "lat": -10
+     },
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     },
+     {
+      "label": "South Africa",
+      "lon": 24,
+      "lat": -29
+     },
+     {
+      "label": "India",
+      "lon": 79,
+      "lat": 22
+     },
+     {
+      "label": "Namibia",
+      "lon": 17,
+      "lat": -22
+     },
+     {
+      "label": "Mozambique",
+      "lon": 35.5,
+      "lat": -18.7
+     },
+     {
+      "label": "Sri Lanka",
+      "lon": 80.7,
+      "lat": 7.8
+     },
+     {
+      "label": "South Dakota",
+      "lon": -100.2,
+      "lat": 44.4
+     }
+    ]
+   },
+   "colors": "Very light pink, almost white, to medium-dark pink. Larger pieces show the deepest color."
+  },
+  "stones__ruby-zoisite": {
+   "map": {
+    "pins": [
+     {
+      "label": "Tanzania",
+      "lon": 36.7,
+      "lat": -3.4
+     },
+     {
+      "label": "Austria",
+      "lon": 14.5,
+      "lat": 47.5
+     }
+    ]
+   },
+   "colors": "Green chrome-zoisite, black amphibole and reddish ruby."
+  },
+  "stones__rutilated-quartz": {
+   "chain": {
+    "nodes": [
+     {
+      "level": "Species",
+      "name": "Quartz",
+      "ima": "Quartz",
+      "formula": "SiO2"
+     },
+     {
+      "level": "Variety",
+      "name": "Rutilated Quartz",
+      "tag": "Variety of an IMA Mineral, Quartz",
+      "dark": true
+     }
+    ],
+    "pageProof": [],
+    "imaNote": true
+   },
+   "map": {
+    "pins": [
+     {
+      "label": "Brazil",
+      "lon": -51,
+      "lat": -10
+     },
+     {
+      "label": "India",
+      "lon": 79,
+      "lat": 22
+     },
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     }
+    ]
+   },
+   "colors": "Mainly colorless, transparent quartz with golden, red, or near-black rutile needles; a smoky brown form is less common (S5, S6)."
+  },
+  "stones__spessartine": {
+   "map": {
+    "pins": [
+     {
+      "label": "Germany",
+      "lon": 9.4,
+      "lat": 50
+     },
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     },
+     {
+      "label": "Namibia",
+      "lon": 17,
+      "lat": -22
+     },
+     {
+      "label": "Nigeria",
+      "lon": 8,
+      "lat": 9.5
+     },
+     {
+      "label": "Tanzania",
+      "lon": 35,
+      "lat": -6.3
+     },
+     {
+      "label": "United States",
+      "lon": -98,
+      "lat": 39
+     }
+    ]
+   },
+   "colors": "Yellow through red, per S1; violet-red forms are found in rhyolites in Colorado and Maine."
+  },
+  "stones__strawberry-quartz": {
+   "map": {
+    "pins": [
+     {
+      "label": "Russia",
+      "lon": 60,
+      "lat": 57
+     },
+     {
+      "label": "Kazakhstan",
+      "lon": 67,
+      "lat": 48
+     },
+     {
+      "label": "Brazil",
+      "lon": -51,
+      "lat": -10
+     }
+    ]
+   },
+   "colors": "Pinkish-red. Fine inclusions give a uniform strawberry shade; bolder ones show reddish needles, flakes or glints in clearer quartz."
+  },
+  "stones__sunstone": {
+   "keyNumbers": [
+    {
+     "value": "1987",
+     "text": "The year Oregon named Oregon sunstone its official state gemstone.",
+     "pageProof": [
+      "named Oregon sunstone the official state gemstone"
+     ]
+    }
+   ],
+   "chain": {
+    "nodes": [
+     {
+      "level": "Mineral Group",
+      "name": "Feldspar",
+      "sub": "Orthoclase and plagioclase species both make sunstone"
+     },
+     {
+      "level": "Variety",
+      "name": "Sunstone",
+      "sub": "Glitter from tiny reflective inclusions",
+      "tag": "Feldspar With Aventurescence",
+      "dark": true
+     }
+    ],
+    "pageProof": [],
+    "imaNote": false
+   },
+   "map": {
+    "pins": [
+     {
+      "label": "Oregon",
+      "lon": -120.5,
+      "lat": 44
+     },
+     {
+      "label": "Norway",
+      "lon": 8.9,
+      "lat": 58.6
+     },
+     {
+      "label": "India",
+      "lon": 79,
+      "lat": 22
+     },
+     {
+      "label": "Tanzania",
+      "lon": 35,
+      "lat": -6.3
+     }
+    ]
+   },
+   "colors": "Colorless, yellow, orange and red, with some pink, green or blue stones. S1 lists yellow, green, red, red-brown, colorless."
+  },
+  "stones__watermelon-tourmaline": {
+   "map": {
+    "pins": [
+     {
+      "label": "Maine",
+      "lon": -69,
+      "lat": 45.3
+     },
+     {
+      "label": "Brazil",
+      "lon": -51,
+      "lat": -10
+     },
+     {
+      "label": "Afghanistan",
+      "lon": 66,
+      "lat": 34
+     },
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     },
+     {
+      "label": "Namibia",
+      "lon": 17,
+      "lat": -22
+     },
+     {
+      "label": "Nigeria",
+      "lon": 8,
+      "lat": 9.5
+     }
+    ]
+   },
+   "colors": "Usually a green outer layer fading into a pink core; \"reverse watermelon\" has pink outside and a green core; rare blue tones occur."
+  },
+  "stones__white-jade": {
+   "map": {
+    "pins": [
+     {
+      "label": "China",
+      "lon": 80,
+      "lat": 37
+     },
+     {
+      "label": "Myanmar",
+      "lon": 96.3,
+      "lat": 25.6
+     }
+    ]
+   },
+   "colors": "Nephrite usually ranges from white through cream to dark green. Hetian stone runs creamy white to greenish, with pure white the most valuable."
+  },
+  "stones__white-sapphire": {
+   "map": {
+    "pins": [
+     {
+      "label": "Montana",
+      "lon": -109.6,
+      "lat": 47
+     }
+    ]
+   },
+   "colors": "Colorless to white, often slightly cloudy; natural colorless stones are rare (S4)."
+  },
+  "stones__yellow-sapphire": {
+   "map": {
+    "pins": [
+     {
+      "label": "Sri Lanka",
+      "lon": 80.7,
+      "lat": 7.8
+     },
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     },
+     {
+      "label": "Australia",
+      "lon": 134,
+      "lat": -25
+     },
+     {
+      "label": "Thailand",
+      "lon": 101,
+      "lat": 15
+     }
+    ]
+   },
+   "colors": "Fancy sapphires come in yellow, orange, green, brown, purple and other hues. Strong, vivid saturation is preferred."
+  }
+ }
+}
