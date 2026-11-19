@@ -8,8 +8,8 @@ secondary_keywords:
   - "ruby vs garnet"
   - "garnet versus ruby"
 author: "Iris Holloway"
-publishDate: "2027-01-08"
-publishTime: "07:28"
+publishDate: "2026-12-21"
+publishTime: "11:51"
 status: "verified"
 page_type: "compare"
 sources:

@@ -8,8 +8,8 @@ secondary_keywords:
   - "labradorite properties"
   - "labradorite"
 author: "Iris Holloway"
-publishDate: "2026-12-13"
-publishTime: "10:00"
+publishDate: "2026-11-23"
+publishTime: "06:10"
 status: "verified"
 page_type: "stone"
 sources:

@@ -7,8 +7,8 @@ primary_keyword: "milky quartz"
 secondary_keywords:
   - "white quartz"
 author: "Iris Holloway"
-publishDate: "2027-02-01"
-publishTime: "05:37"
+publishDate: "2027-01-15"
+publishTime: "11:29"
 status: "verified"
 page_type: "stone"
 sources:

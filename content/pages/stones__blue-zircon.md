@@ -14,8 +14,8 @@ secondary_keywords:
   - "blue zircon crystal"
   - "blue zircon gemstones"
 author: "Iris Holloway"
-publishDate: "2027-02-04"
-publishTime: "10:14"
+publishDate: "2027-01-16"
+publishTime: "20:38"
 status: "verified"
 page_type: "stone"
 sources:

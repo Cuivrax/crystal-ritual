@@ -14,8 +14,8 @@ secondary_keywords:
   - "green tourmaline crystals"
   - "green tourmaline quartz"
 author: "Iris Holloway"
-publishDate: "2027-01-10"
-publishTime: "09:59"
+publishDate: "2026-12-23"
+publishTime: "18:29"
 status: "verified"
 page_type: "stone"
 sources:

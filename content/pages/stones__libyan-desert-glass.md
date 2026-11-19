@@ -14,8 +14,8 @@ secondary_keywords:
   - "libyan desert glass tektite"
   - "libyan desert glass crystal"
 author: "Iris Holloway"
-publishDate: "2027-01-27"
-publishTime: "10:10"
+publishDate: "2027-01-10"
+publishTime: "06:57"
 status: "verified"
 page_type: "stone"
 sources:

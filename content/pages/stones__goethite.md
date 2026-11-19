@@ -14,8 +14,8 @@ secondary_keywords:
   - "iridescent goethite"
   - "what is goethite"
 author: "Iris Holloway"
-publishDate: "2027-02-03"
-publishTime: "06:49"
+publishDate: "2027-01-16"
+publishTime: "09:31"
 status: "verified"
 page_type: "stone"
 sources:

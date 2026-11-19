@@ -14,8 +14,8 @@ secondary_keywords:
   - "rainbow obsidian cabochons"
   - "rainbow obsidian crystal"
 author: "Iris Holloway"
-publishDate: "2027-01-07"
-publishTime: "05:22"
+publishDate: "2026-12-19"
+publishTime: "15:47"
 status: "verified"
 page_type: "stone"
 sources:

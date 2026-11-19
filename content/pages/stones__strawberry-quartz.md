@@ -12,8 +12,8 @@ secondary_keywords:
   - "strawberry quartz benefits"
   - "strawberry quartz metaphysical properties"
 author: "Iris Holloway"
-publishDate: "2027-01-24"
-publishTime: "08:58"
+publishDate: "2027-01-08"
+publishTime: "08:24"
 status: "verified"
 page_type: "stone"
 sources:

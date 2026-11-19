@@ -15,8 +15,8 @@ secondary_keywords:
   - "merlinite stone meaning"
   - "merlinite opal"
 author: "Iris Holloway"
-publishDate: "2027-01-23"
-publishTime: "06:28"
+publishDate: "2027-01-06"
+publishTime: "07:31"
 status: "verified"
 page_type: "stone"
 sources:

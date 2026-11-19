@@ -7,8 +7,8 @@ primary_keyword: "ruby zoisite"
 secondary_keywords:
   - "ruby zoisite meaning"
 author: "Iris Holloway"
-publishDate: "2027-01-17"
-publishTime: "08:07"
+publishDate: "2026-12-30"
+publishTime: "20:43"
 status: "verified"
 page_type: "stone"
 sources:

@@ -14,8 +14,8 @@ secondary_keywords:
   - "meaning of black sapphire"
   - "what is a black sapphire"
 author: "Iris Holloway"
-publishDate: "2027-01-03"
-publishTime: "06:20"
+publishDate: "2026-12-15"
+publishTime: "16:29"
 status: "verified"
 page_type: "stone"
 sources:

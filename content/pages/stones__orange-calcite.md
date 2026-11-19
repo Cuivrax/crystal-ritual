@@ -7,8 +7,8 @@ primary_keyword: "orange calcite"
 secondary_keywords:
   - "orange calcite meaning"
 author: "Iris Holloway"
-publishDate: "2026-12-23"
-publishTime: "07:21"
+publishDate: "2026-12-07"
+publishTime: "15:11"
 status: "verified"
 page_type: "stone"
 sources:

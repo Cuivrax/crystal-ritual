@@ -8,8 +8,8 @@ secondary_keywords:
   - "blue chalcedony meaning"
   - "blue chalcedony vs blue lace agate"
 author: "Iris Holloway"
-publishDate: "2027-01-21"
-publishTime: "05:43"
+publishDate: "2027-01-04"
+publishTime: "16:34"
 status: "verified"
 page_type: "stone"
 sources:

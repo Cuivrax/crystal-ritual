@@ -14,8 +14,8 @@ secondary_keywords:
   - "barite desert rose"
   - "barite rock"
 author: "Iris Holloway"
-publishDate: "2026-12-30"
-publishTime: "09:27"
+publishDate: "2026-12-12"
+publishTime: "12:16"
 status: "verified"
 page_type: "stone"
 sources:

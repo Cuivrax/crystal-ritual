@@ -6,8 +6,8 @@ url: "/stones/chalcocite/"
 primary_keyword: "chalcocite"
 secondary_keywords: []
 author: "Iris Holloway"
-publishDate: "2027-01-16"
-publishTime: "09:09"
+publishDate: "2026-12-29"
+publishTime: "17:30"
 status: "verified"
 page_type: "stone"
 sources:

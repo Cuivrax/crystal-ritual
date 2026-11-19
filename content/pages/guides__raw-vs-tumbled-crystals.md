@@ -8,8 +8,8 @@ secondary_keywords:
   - "tumbled stones"
   - "raw vs tumbled crystals"
 author: "Iris Holloway"
-publishDate: "2027-02-05"
-publishTime: "06:05"
+publishDate: "2027-01-17"
+publishTime: "20:45"
 status: "verified"
 page_type: "guide"
 sources:

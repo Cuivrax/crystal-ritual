@@ -14,8 +14,8 @@ secondary_keywords:
   - "how to charge crystals on a full moon"
   - "charge crystals in moonlight"
 author: "Iris Holloway"
-publishDate: "2027-01-05"
-publishTime: "07:14"
+publishDate: "2026-12-18"
+publishTime: "09:30"
 status: "verified"
 page_type: "guide"
 sources:

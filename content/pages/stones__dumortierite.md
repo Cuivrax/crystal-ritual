@@ -14,8 +14,8 @@ secondary_keywords:
   - "blue dumortierite"
   - "dumortierite gemstone"
 author: "Iris Holloway"
-publishDate: "2027-01-29"
-publishTime: "06:18"
+publishDate: "2027-01-13"
+publishTime: "09:10"
 status: "verified"
 page_type: "stone"
 sources:

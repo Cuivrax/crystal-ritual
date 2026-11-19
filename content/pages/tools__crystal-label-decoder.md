@@ -6,8 +6,8 @@ url: "/tools/crystal-label-decoder/"
 primary_keyword: "crystal label"
 secondary_keywords: []
 author: "Iris Holloway"
-publishDate: "2026-12-29"
-publishTime: "08:22"
+publishDate: "2026-12-11"
+publishTime: "12:27"
 status: "verified"
 page_type: "tool"
 sources:

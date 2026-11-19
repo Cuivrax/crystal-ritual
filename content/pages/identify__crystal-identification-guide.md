@@ -14,8 +14,8 @@ secondary_keywords:
   - "crystal identification chart"
   - "brown crystal identification"
 author: "Iris Holloway"
-publishDate: "2027-01-11"
-publishTime: "06:39"
+publishDate: "2026-12-24"
+publishTime: "11:19"
 status: "verified"
 page_type: "guide"
 sources:

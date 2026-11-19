@@ -9,8 +9,8 @@ secondary_keywords:
   - "zodiac crystals"
   - "birthstones by zodiac sign"
 author: "Iris Holloway"
-publishDate: "2026-12-14"
-publishTime: "10:17"
+publishDate: "2026-11-21"
+publishTime: "11:50"
 status: "verified"
 page_type: "hub"
 sources:

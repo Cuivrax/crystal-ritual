@@ -9,8 +9,8 @@ secondary_keywords:
   - "crystals for capricorn"
   - "capricorn crystals"
 author: "Iris Holloway"
-publishDate: "2026-12-19"
-publishTime: "05:38"
+publishDate: "2026-11-22"
+publishTime: "15:04"
 status: "verified"
 page_type: "sign"
 sources:

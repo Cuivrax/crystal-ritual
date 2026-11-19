@@ -7,8 +7,8 @@ primary_keyword: "white jade"
 secondary_keywords:
   - "white jade meaning"
 author: "Iris Holloway"
-publishDate: "2026-12-25"
-publishTime: "08:49"
+publishDate: "2026-12-09"
+publishTime: "07:39"
 status: "verified"
 page_type: "stone"
 sources:

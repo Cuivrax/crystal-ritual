@@ -13,8 +13,8 @@ secondary_keywords:
   - "blue calcite vs celestite"
   - "blue calcite vs blue lace agate"
 author: "Iris Holloway"
-publishDate: "2026-12-20"
-publishTime: "07:33"
+publishDate: "2026-12-03"
+publishTime: "20:23"
 status: "verified"
 page_type: "stone"
 sources:

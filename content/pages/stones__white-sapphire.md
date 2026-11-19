@@ -14,8 +14,8 @@ secondary_keywords:
   - "white sapphire gemstones"
   - "white sapphire gems"
 author: "Iris Holloway"
-publishDate: "2026-12-28"
-publishTime: "09:34"
+publishDate: "2026-12-10"
+publishTime: "17:23"
 status: "verified"
 page_type: "stone"
 sources:

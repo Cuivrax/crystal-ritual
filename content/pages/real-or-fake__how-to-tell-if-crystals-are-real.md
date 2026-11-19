@@ -8,8 +8,8 @@ secondary_keywords:
   - "fake crystals"
   - "real vs fake crystals"
 author: "Iris Holloway"
-publishDate: "2027-01-28"
-publishTime: "09:11"
+publishDate: "2027-01-12"
+publishTime: "06:38"
 status: "verified"
 page_type: "guide"
 sources:

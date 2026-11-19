@@ -7,8 +7,8 @@ primary_keyword: "pink opal"
 secondary_keywords:
   - "pink opal meaning"
 author: "Iris Holloway"
-publishDate: "2026-12-22"
-publishTime: "07:56"
+publishDate: "2026-12-05"
+publishTime: "06:13"
 status: "verified"
 page_type: "stone"
 sources:

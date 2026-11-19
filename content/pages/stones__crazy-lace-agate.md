@@ -7,8 +7,8 @@ primary_keyword: "crazy lace agate"
 secondary_keywords:
   - "crazy lace agate meaning"
 author: "Iris Holloway"
-publishDate: "2027-01-17"
-publishTime: "10:33"
+publishDate: "2026-12-31"
+publishTime: "20:34"
 status: "verified"
 page_type: "stone"
 sources:

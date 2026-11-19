@@ -8,8 +8,8 @@ secondary_keywords:
   - "chakra crystals"
   - "chakra crystal"
 author: "Iris Holloway"
-publishDate: "2027-01-01"
-publishTime: "09:11"
+publishDate: "2026-12-14"
+publishTime: "09:38"
 status: "verified"
 page_type: "hub"
 sources:

@@ -7,8 +7,8 @@ primary_keyword: "mahogany obsidian"
 secondary_keywords:
   - "mahogany obsidian meaning"
 author: "Iris Holloway"
-publishDate: "2027-01-24"
-publishTime: "05:48"
+publishDate: "2027-01-06"
+publishTime: "21:06"
 status: "verified"
 page_type: "stone"
 sources:

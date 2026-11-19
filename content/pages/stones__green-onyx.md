@@ -14,8 +14,8 @@ secondary_keywords:
   - "what is green onyx"
   - "green onyx properties"
 author: "Iris Holloway"
-publishDate: "2027-01-13"
-publishTime: "10:30"
+publishDate: "2026-12-26"
+publishTime: "10:23"
 status: "verified"
 page_type: "stone"
 sources:

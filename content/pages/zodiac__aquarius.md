@@ -9,8 +9,8 @@ secondary_keywords:
   - "crystals for aquarius"
   - "aquarius crystals"
 author: "Iris Holloway"
-publishDate: "2026-12-24"
-publishTime: "06:34"
+publishDate: "2026-11-29"
+publishTime: "09:26"
 status: "verified"
 page_type: "sign"
 sources:

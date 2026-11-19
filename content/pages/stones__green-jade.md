@@ -7,8 +7,8 @@ primary_keyword: "green jade"
 secondary_keywords:
   - "green jade meaning"
 author: "Iris Holloway"
-publishDate: "2026-12-17"
-publishTime: "08:06"
+publishDate: "2026-11-30"
+publishTime: "06:05"
 status: "verified"
 page_type: "stone"
 sources:

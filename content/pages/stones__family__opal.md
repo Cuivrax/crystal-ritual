@@ -6,8 +6,8 @@ url: "/stones/family/opal/"
 primary_keyword: "types of opal"
 secondary_keywords: []
 author: "Iris Holloway"
-publishDate: "2027-01-25"
-publishTime: "10:38"
+publishDate: "2027-01-08"
+publishTime: "15:19"
 status: "verified"
 page_type: "hub"
 sources:

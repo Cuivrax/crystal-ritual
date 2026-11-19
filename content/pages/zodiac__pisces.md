@@ -9,8 +9,8 @@ secondary_keywords:
   - "crystals for pisces"
   - "pisces crystals"
 author: "Iris Holloway"
-publishDate: "2027-01-20"
-publishTime: "08:51"
+publishDate: "2026-12-06"
+publishTime: "09:55"
 status: "verified"
 page_type: "sign"
 sources:

@@ -8,8 +8,8 @@ secondary_keywords:
   - "what moon was i born under"
   - "birthday moon"
 author: "Iris Holloway"
-publishDate: "2026-12-15"
-publishTime: "05:28"
+publishDate: "2026-11-24"
+publishTime: "11:10"
 status: "verified"
 page_type: "tool"
 sources:

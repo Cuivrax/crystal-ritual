@@ -7,8 +7,8 @@ primary_keyword: "grape agate"
 secondary_keywords:
   - "grape agate meaning"
 author: "Iris Holloway"
-publishDate: "2027-01-26"
-publishTime: "07:51"
+publishDate: "2027-01-09"
+publishTime: "10:41"
 status: "verified"
 page_type: "stone"
 sources:

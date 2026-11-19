@@ -7,8 +7,8 @@ primary_keyword: "kingman turquoise"
 secondary_keywords:
   - "what is kingman turquoise"
 author: "Iris Holloway"
-publishDate: "2027-01-15"
-publishTime: "06:52"
+publishDate: "2026-12-27"
+publishTime: "18:46"
 status: "verified"
 page_type: "stone"
 sources:

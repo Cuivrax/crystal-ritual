@@ -7,8 +7,8 @@ primary_keyword: "blue opal"
 secondary_keywords:
   - "blue opal meaning"
 author: "Iris Holloway"
-publishDate: "2026-12-18"
-publishTime: "08:48"
+publishDate: "2026-11-30"
+publishTime: "18:20"
 status: "verified"
 page_type: "stone"
 sources:

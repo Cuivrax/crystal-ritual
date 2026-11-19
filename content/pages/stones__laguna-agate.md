@@ -9,8 +9,8 @@ secondary_keywords:
   - "mexican laguna agate"
   - "laguna agate cabochon"
 author: "Iris Holloway"
-publishDate: "2027-01-30"
-publishTime: "10:24"
+publishDate: "2027-01-14"
+publishTime: "11:59"
 status: "verified"
 page_type: "stone"
 sources:

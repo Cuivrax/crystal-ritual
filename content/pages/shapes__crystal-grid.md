@@ -14,8 +14,8 @@ secondary_keywords:
   - "clear quartz crystal grid"
   - "crystal grid flower of life"
 author: "Iris Holloway"
-publishDate: "2027-02-02"
-publishTime: "07:17"
+publishDate: "2027-01-15"
+publishTime: "21:56"
 status: "verified"
 page_type: "guide"
 sources:

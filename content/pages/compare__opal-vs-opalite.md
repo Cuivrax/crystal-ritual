@@ -7,8 +7,8 @@ primary_keyword: "opal vs opalite"
 secondary_keywords:
   - "opalite vs opal"
 author: "Iris Holloway"
-publishDate: "2027-01-18"
-publishTime: "10:36"
+publishDate: "2027-01-01"
+publishTime: "08:26"
 status: "verified"
 page_type: "compare"
 sources:

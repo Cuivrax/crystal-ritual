@@ -13,8 +13,8 @@ secondary_keywords:
   - "bloodstone march birthstone"
   - "aquamarine march birthstone meaning"
 author: "Iris Holloway"
-publishDate: "2027-01-15"
-publishTime: "10:04"
+publishDate: "2026-12-29"
+publishTime: "08:01"
 status: "verified"
 page_type: "month"
 sources:

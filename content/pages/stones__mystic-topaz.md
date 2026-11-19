@@ -14,8 +14,8 @@ secondary_keywords:
   - "mystic topaz stones"
   - "mystic topaz stone"
 author: "Iris Holloway"
-publishDate: "2027-01-04"
-publishTime: "05:54"
+publishDate: "2026-12-16"
+publishTime: "17:33"
 status: "verified"
 page_type: "stone"
 sources:

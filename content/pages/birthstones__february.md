@@ -12,8 +12,8 @@ secondary_keywords:
   - "february birthstones"
   - "what is the birthstone for february"
 author: "Iris Holloway"
-publishDate: "2026-12-17"
-publishTime: "07:40"
+publishDate: "2026-11-28"
+publishTime: "20:07"
 status: "verified"
 page_type: "month"
 sources:

@@ -8,8 +8,8 @@ secondary_keywords:
   - "cleansing crystals"
   - "crystal care"
 author: "Iris Holloway"
-publishDate: "2026-12-21"
-publishTime: "07:27"
+publishDate: "2026-12-04"
+publishTime: "06:58"
 status: "verified"
 page_type: "guide"
 sources:

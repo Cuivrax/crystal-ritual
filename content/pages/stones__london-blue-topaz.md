@@ -6,8 +6,8 @@ url: "/stones/london-blue-topaz/"
 primary_keyword: "london blue topaz"
 secondary_keywords: []
 author: "Iris Holloway"
-publishDate: "2027-01-06"
-publishTime: "10:43"
+publishDate: "2026-12-18"
+publishTime: "18:29"
 status: "verified"
 page_type: "stone"
 sources:
