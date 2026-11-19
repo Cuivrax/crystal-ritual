@@ -2,6 +2,7 @@
 // width and height set, lazy below the fold and eager for the hero.
 import { getImage } from 'astro:assets';
 import { esc } from './ui.mjs';
+import { splitCaption, needsAttribution } from './credits.mjs';
 import { makeSourcePolicy } from './sources.mjs';
 import tiers from '../data/source_tiers.json';
 
@@ -45,20 +46,28 @@ export async function pictureHtml(meta, { alt = '', eager = false, widths = [480
 // Every photo gets a light brightness and color retouch (hc/site/photos/tools/retouch.py).
 // CC BY licenses ask that changes be indicated, so those credits say so.
 const ADJUSTED = ', color adjusted';
-const needsChangeNote = (photo) => /\bCC[ -]?BY\b/i.test(`${photo.license || ''} ${photo.credit || ''}`);
+const needsChangeNote = (photo) => needsAttribution(photo);
 
-/** The credit line, linked to the photo's source page when that page is a credit site. */
-export function creditHtml(photo) {
-  const text = photo.caption || photo.credit || '';
-  if (!text) return '';
+// Captions show what a photo shows, never who took it. Credits that a license requires
+// (CC BY, CC BY-SA and the like) go to one "Photo Credits" list at the end of the page,
+// collected from the data-credit marker each such figure carries (see lib/credits.mjs).
+/** The credit for the Photo Credits list, { text, href, note }, or null when the license needs none. */
+export function creditEntry(photo) {
+  if (!needsAttribution(photo)) return null;
+  const { credit } = splitCaption(photo.credit || photo.caption || '');
+  const text = credit || photo.credit || '';
+  if (!text) return null;
   const note = needsChangeNote(photo) && !/adjusted|retouched|modified/i.test(text) ? ADJUSTED : '';
-  if (photo.page && policy.isCreditLinkAllowed(photo.page)) {
-    return `<a href="${esc(photo.page)}" rel="noopener">${esc(text)}</a>${note}`;
-  }
-  return esc(text) + note;
+  const href = photo.page && policy.isCreditLinkAllowed(photo.page) ? photo.page : null;
+  return { text, href, note };
 }
 
-/** A full figure with its credit caption. */
+const creditMarker = (photo) => {
+  const entry = creditEntry(photo);
+  return entry ? ` data-credit="${esc(JSON.stringify(entry))}"` : '';
+};
+
+/** A full figure. The caption keeps only the words that say what the photo shows. */
 export async function figureHtml(photo, meta, { variant = 'inline', eager = false } = {}) {
   const opts = {
     hero: { widths: [420, 840], sizes: '(min-width: 900px) 420px, 92vw', ratio: [4, 5] },
@@ -69,13 +78,14 @@ export async function figureHtml(photo, meta, { variant = 'inline', eager = fals
     aside: { widths: [400, 800], sizes: '(min-width: 900px) 400px, 92vw', ratio: [4, 3] },
   }[variant];
   const pic = await pictureHtml(meta, { alt: photo.alt || '', eager, ...opts });
-  // Circles sit inside link cards, their credit is printed under the group instead (no nested links).
-  if (variant === 'circle') return `<figure class="photo photo-${variant}">${pic}</figure>`;
-  if (variant === 'aside') {
-    // The photo card beside "What It Is" says what the photo shows, then who took it.
-    const said = (photo.caption ? '' : String(photo.alt || '').trim().replace(/[.\s]+$/, ''));
-    const lead = said ? `<span class="photo-said">${esc(said.charAt(0).toUpperCase() + said.slice(1))}.</span> ` : '';
-    return `<figure class="photo photo-aside">${pic}<figcaption>${lead}${creditHtml(photo)}</figcaption></figure>`;
+  const mark = creditMarker(photo);
+  if (variant === 'circle') return `<figure class="photo photo-${variant}"${mark}>${pic}</figure>`;
+  let said = splitCaption(photo.caption || photo.credit || '').said;
+  // The photo card beside "What It Is" says what the photo shows, from its description when it has no caption.
+  if (variant === 'aside' && !said) {
+    const alt = String(photo.alt || '').trim().replace(/[.\s]+$/, '');
+    said = alt ? `${alt.charAt(0).toUpperCase()}${alt.slice(1)}.` : '';
   }
-  return `<figure class="photo photo-${variant}">${pic}<figcaption>${creditHtml(photo)}</figcaption></figure>`;
+  const cap = said ? `<figcaption>${variant === 'aside' ? `<span class="photo-said">${esc(said)}</span>` : esc(said)}</figcaption>` : '';
+  return `<figure class="photo photo-${variant}"${mark}>${pic}${cap}</figure>`;
 }

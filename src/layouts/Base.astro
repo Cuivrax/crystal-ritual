@@ -5,10 +5,14 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { getSite } from '../lib/site.mjs';
 import { ornament } from '../lib/ui.mjs';
+import { extractPhotoCredits, photoCreditsHtml } from '../lib/credits.mjs';
 const { page = null, title, description, url, image = null, breadcrumbs = [], citations = [], night = false, bodyClass = '', showOrnament = false, noindexPage = false, errorPage = false } = Astro.props;
 const site = await getSite();
 const noindex = site.preview || noindexPage || errorPage;
 const authorUrl = site.isBuilt('/about/') ? '/about/' : null;
+// Photo credits that licenses require are listed once, after Sources, instead of under each photo.
+const rendered = extractPhotoCredits(await Astro.slots.render('default'));
+const creditsHtml = photoCreditsHtml(rendered.credits);
 ---
 <!doctype html>
 <html lang="en-US">
@@ -30,7 +34,8 @@ const authorUrl = site.isBuilt('/about/') ? '/about/' : null;
 <Header current={url} />
 {showOrnament && <Fragment set:html={ornament()} />}
 <main id="main">
-<slot />
+<Fragment set:html={rendered.html} />
+{creditsHtml && <Fragment set:html={creditsHtml} />}
 </main>
 <Footer />
 <script is:inline>

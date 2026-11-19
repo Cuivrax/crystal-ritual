@@ -83,7 +83,7 @@ test('map labels stay inside the map and the projection is degrees', () => {
   }
   const card = worldMapCard([{ label: 'Brazil', lon: -44, lat: -18.5 }]);
   assert.match(card, /Main Sources on the Map/);
-  assert.match(card, /Approximate positions/);
+  assert.doesNotMatch(card, /Approximate positions/);
 });
 
 test('every H3 gets an icon, gem when nothing fits', () => {

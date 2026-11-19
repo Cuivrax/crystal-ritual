@@ -77,5 +77,5 @@ export function worldMapCard(pins, { title = 'Main Sources on the Map' } = {}) {
     + `<g class="map-pins">${pts.map((p) => `<circle cx="${p.x}" cy="${p.y}" r="${PIN_R}"/>`).join('')}</g>`
     + `<g class="map-labels" font-size="${FONT}">${pts.map((p, i) => `<text x="${Math.round(labels[i].x * 10) / 10}" y="${Math.round(labels[i].y * 10) / 10}"${labels[i].anchor === 'end' ? ' text-anchor="end"' : ''}>${esc(p.label)}</text>`).join('')}</g>`
     + '</svg>';
-  return `<figure class="card map-card"><p class="card-title">${esc(title)}</p>${svg}<figcaption><span class="map-list">${esc(names)}. </span>Approximate positions</figcaption></figure>`;
+  return `<figure class="card map-card"><p class="card-title">${esc(title)}</p>${svg}<figcaption class="map-list">${esc(names)}</figcaption></figure>`;
 }

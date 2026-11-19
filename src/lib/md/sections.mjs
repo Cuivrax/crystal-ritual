@@ -3,7 +3,7 @@ import { el, txt, raw, isEl, isBlank, meaningful, walk, textOf, addClass, hasCla
 import { targetOf } from './transforms.mjs';
 import {
   icon, esc, facetSvg, facetRating, FACET_LABELS, facetsFromLabel, mohsScale, mohsCompare, parseMohs,
-  HOW_WE_RATE_TEXT, facetLegend, INTENTIONS, titleCase, EVIDENCE, h3IconName,
+  HOW_WE_RATE_TEXT, facetLegend, INTENTIONS, titleCase, EVIDENCE, h3IconName, RATINGS,
 } from '../ui.mjs';
 import { colorSwatches } from '../colors.mjs';
 import { allPageProofsHold } from '../proof.mjs';
@@ -130,6 +130,116 @@ function tableRows(table) {
   return rows;
 }
 
+// The rows of All Quick Facts, grouped and given an icon each (R3 design language).
+const FACT_GROUPS = [
+  ['lore', 'Lore', /\((?:modern association|tradition)\)|chakra|zodiac|planet|weekday|birthstone|anniversary|state (?:gem|rock)|heritage/],
+  ['care', 'Care', /water|\bsun\b|\buv\b|salt|heat|chemical|acid|ultrasonic|steam|toxic|radioactive|storage|knock|scratch|durab|tough/],
+  ['buying', 'Buying', /price|fake|look-alike|mix-up|confused|trade name|also sold|sold under|label|treatment|lab-grown|coating|on the market|ladder|accurate name|other names|starting material|man-made/],
+];
+const FACT_ICONS = [
+  [/fake|look-alike|mix-up|confused|lab-grown|man-made/, 'magnifier'],
+  [/what it is|what it is made|made of|^minerals?$|mineral group|mineral status|species|base mineral|main mineral|composition|jadeite|nephrite/, 'cube'],
+  [/formula/, 'flask'],
+  [/colou?r|rainbow|black pattern|flash/, 'palette'],
+  [/source|where it|localit|host rock|forms\b|^age$/, 'pin'],
+  [/gravity|density|weight|size/, 'weight'],
+  [/crystal (?:system|structure)|habit|usual form/, 'cube'],
+
+  [/cleavage|hardness|tough|durab|knock|scratch/, 'shield'],
+  [/water/, 'drop'],
+  [/\bsun\b|\buv\b/, 'sun'],
+  [/salt/, 'salt'],
+  [/heat|treatment|coating/, 'flame'],
+  [/chemical|acid/, 'flask'],
+  [/toxic|radioactive/, 'warn'],
+  [/storage/, 'box'],
+  [/ultrasonic|steam|magnet/, 'bolt'],
+  [/price|cost/, 'coin'],
+  [/luster|glow|transparen|refractive|look|how to see/, 'eye'],
+  [/name|label|also sold|sold under|say it|ladder/, 'tag'],
+  [/birthstone|weekday|anniversary|on the market/, 'calendar'],
+  [/chakra|zodiac|planet|state|heritage/, 'star'],
+];
+const factIcon = (low) => (FACT_ICONS.find(([rx]) => rx.test(low)) || [null, 'gem'])[1];
+
+/** Splits "Brazil, Bolivia, and Arizona in the US" into place names, or null when the text is not a plain list. */
+export function sourceChips(text) {
+  const t = String(text || '').trim().replace(/\.$/, '');
+  if (!t || /\.\s|\[TO CHECK/i.test(t)) return null;
+  const parts = [];
+  let depth = 0;
+  let cur = '';
+  for (const ch of t) {
+    if (ch === '(') depth++;
+    if (ch === ')') depth = Math.max(0, depth - 1);
+    if (ch === ',' && depth === 0) { parts.push(cur); cur = ''; continue; }
+    cur += ch;
+  }
+  parts.push(cur);
+  const out = parts.flatMap((p) => p.split(/\s+and\s+(?![^(]*\))/)).map((p) => p.replace(/^\s*and\s+/, '').trim()).filter(Boolean);
+  if (out.length < 2) return null;
+  if (!out.every((p) => /^[A-Z]/.test(p) && p.split(/\s+/).length <= 5)) return null;
+  return out;
+}
+
+function factRow(f) {
+  const kids = f.cell.children;
+  let dd = kids;
+  if (/^colou?rs?$|^body colou?r$|^colou?r$/.test(f.low)) {
+    const sw = colorSwatches(f.text);
+    if (sw.length) dd = [raw(`<span class="fact-swatches" aria-hidden="true">${sw.map((s) => `<span class="swatch-dot${s.light ? ' is-light' : ''}" style="background:${s.hex}"></span>`).join('')}</span>`), el('span', {}, kids)];
+  } else if (/source|localit|where it (?:comes from|is found)/.test(f.low)) {
+    const chips = sourceChips(f.text);
+    if (chips) dd = [raw(`<span class="fact-chips">${chips.map((c) => `<span class="fact-chip">${esc(c)}</span>`).join('')}</span>`)];
+  }
+  return el('div', { className: ['fact-row'] }, [
+    el('dt', {}, [raw(icon(factIcon(f.low), { size: 18, cls: 'fact-icon' })), txt(f.label)]),
+    el('dd', {}, dd),
+  ]);
+}
+
+/** A care row that opens with a rating becomes a small tile with the rating pill as its main element. */
+function careTile(f) {
+  const kids = meaningful(f.cell.children);
+  const first = kids[0];
+  if (!isEl(first, 'span') || !hasClass(first, 'pill')) return null;
+  const cls = (first.properties.className || []).find((c) => /^r-/.test(c));
+  const key = { 'r-ok': 'ok', 'r-brief': 'brief_only', 'r-avoid': 'avoid', 'r-unknown': 'unknown' }[cls];
+  const label = key ? RATINGS[key].label : textOf(first);
+  const rest = f.cell.children.slice(f.cell.children.indexOf(first) + 1).map((n) => ({ ...n }));
+  // The words after the rating sit on their own line in the tile, so they start clean (", no source yet" reads "No source yet").
+  const lead = rest.find((n) => !isBlank(n));
+  if (lead && lead.type === 'text') {
+    const v = lead.value.replace(/^[\s,;.]+/, '');
+    lead.value = v.charAt(0).toUpperCase() + v.slice(1);
+  }
+  const restText = rest.map((n) => textOf(n)).join('').trim();
+  return el('div', { className: ['care-tile'] }, [
+    el('p', { className: ['care-tile-label'] }, [raw(icon(factIcon(f.low), { size: 18, cls: 'fact-icon' })), txt(f.label)]),
+    el('p', { className: ['care-tile-pill'] }, [raw(`<span class="pill ${esc(cls || '')}">${esc(label)}</span>`)]),
+    ...(restText ? [el('p', { className: ['care-tile-text'] }, rest)] : []),
+  ]);
+}
+
+function factGroups(rows) {
+  const groups = [['identity', 'Identity', null], ...FACT_GROUPS].map(([key, title]) => ({ key, title, rows: [] }));
+  for (const f of rows) {
+    const g = FACT_GROUPS.find(([, , rx]) => rx.test(f.low));
+    groups.find((x) => x.key === (g ? g[0] : 'identity')).rows.push(f);
+  }
+  const order = ['identity', 'care', 'buying', 'lore'];
+  return order.map((k) => groups.find((g) => g.key === k)).filter((g) => g.rows.length).map((g) => {
+    const tiles = g.key === 'care' ? g.rows.map((f) => ({ f, tile: careTile(f) })) : [];
+    const tileNodes = tiles.filter((t) => t.tile).map((t) => t.tile);
+    const plain = g.rows.filter((f) => !tiles.some((t) => t.f === f && t.tile));
+    return el('div', { className: ['facts-group', `is-${g.key}`] }, [
+      el('p', { className: ['facts-group-title'] }, [txt(g.title)]),
+      ...(tileNodes.length ? [el('div', { className: ['care-tiles'] }, tileNodes)] : []),
+      ...(plain.length ? [el('dl', {}, plain.map(factRow))] : []),
+    ]);
+  });
+}
+
 function factsCard(section, ctx) {
   const nodes = section.nodes;
   const wrapIdx = nodes.findIndex((n) => isEl(n, 'div') && hasClass(n, 'table-wrap'));
@@ -167,7 +277,7 @@ function factsCard(section, ctx) {
       ]) });
       continue;
     }
-    dl.push(el('div', { className: ['fact-row'] }, [el('dt', {}, [txt(r.label.replace(/\s*\(Modern Association\)/i, ''))]), el('dd', {}, r.cell.children)]));
+    dl.push({ label: r.label.replace(/\s*\(Modern Association\)/i, ''), low, cell: r.cell, text });
   }
   const realIdx = nodes.findIndex((n) => isEl(n, 'aside') && hasClass(n, 'callout-real'));
   const real = realIdx >= 0 ? nodes[realIdx] : null;
@@ -179,7 +289,7 @@ function factsCard(section, ctx) {
   parts.push(el('div', { className: ['facts-row'] }, [
     el('details', { className: ['fold', 'facts-fold'], open: true }, [
       el('summary', {}, [txt('All Quick Facts'), raw(icon('chevron', { size: 18 }))]),
-      el('div', { className: ['facts-list'] }, [el('dl', {}, dl)]),
+      el('div', { className: ['facts-list'] }, factGroups(dl)),
     ]),
     ...(real ? [real] : []),
   ]));

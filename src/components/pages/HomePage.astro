@@ -76,7 +76,6 @@ const pad = (n) => String(n).padStart(2, '0');
                 return f.built ? <a class="featured-item" href={f.path} set:html={inner} /> : <div class="featured-item" set:html={inner} />;
               })}
             </div>
-            {(() => { const credits = [...new Set(m.find.featured.map((f) => f.path && thumbs.get(f.path.split('/').filter(Boolean).pop())?.credit).filter(Boolean))]; return credits.length > 0 && <p class="photo-credits">{credits.join('. ')}</p>; })()}
             {m.find.fine && <p class="featured-fine" set:html={m.find.fine} />}
           </div>
         )}
