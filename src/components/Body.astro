@@ -8,6 +8,7 @@ import CareChecker from './tools/CareChecker.astro';
 import CareTable from './tools/CareTable.astro';
 import Atlas from './tools/Atlas.astro';
 import ContactSoon from './tools/ContactSoon.astro';
+import BirthstoneFinder from './tools/BirthstoneFinder.astro';
 const { html = '', page } = Astro.props;
 const parts = [];
 const rx = /<div data-slot="([a-z-]+)"><\/div>/g;
@@ -28,4 +29,5 @@ if (last < html.length) parts.push({ html: html.slice(last) });
   : p.tool === 'care-table' ? <CareTable page={page} />
   : p.tool === 'atlas' ? <Atlas page={page} />
   : p.tool === 'contact-form' ? <ContactSoon page={page} />
+  : p.tool === 'birthstone-finder' ? <BirthstoneFinder page={page} />
   : null)}

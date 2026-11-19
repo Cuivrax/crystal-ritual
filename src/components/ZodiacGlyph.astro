@@ -1,0 +1,9 @@
+---
+// One of the twelve zodiac glyphs (src/lib/zodiac.mjs), plain or in its soft round badge.
+//   <ZodiacGlyph sign="aries" />            24 px line glyph
+//   <ZodiacGlyph sign="aries" badge size={56} />
+import { glyphSvg, glyphBadge } from '../lib/zodiac.mjs';
+const { sign, size = 24, badge = false, cls = '' } = Astro.props;
+const html = badge ? glyphBadge(sign, { size, cls }) : glyphSvg(sign, { size, cls });
+---
+{html && <Fragment set:html={html} />}

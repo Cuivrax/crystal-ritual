@@ -1,0 +1,1004 @@
+{
+ "generated": "from content/pages/birthstones.md and content/pages/zodiac.md",
+ "months": [
+  {
+   "key": "january",
+   "name": "January",
+   "number": 1,
+   "days": 31,
+   "url": "/birthstones/january/",
+   "modern": [
+    {
+     "name": "Garnet",
+     "slug": "garnet"
+    }
+   ],
+   "list1912": [
+    {
+     "name": "Garnet",
+     "slug": "garnet"
+    }
+   ],
+   "older": [
+    {
+     "name": "Garnet",
+     "slug": "garnet"
+    }
+   ],
+   "order": 0
+  },
+  {
+   "key": "february",
+   "name": "February",
+   "number": 2,
+   "days": 29,
+   "url": "/birthstones/february/",
+   "modern": [
+    {
+     "name": "Amethyst",
+     "slug": "amethyst"
+    }
+   ],
+   "list1912": [
+    {
+     "name": "Amethyst",
+     "slug": "amethyst"
+    }
+   ],
+   "older": [
+    {
+     "name": "Amethyst",
+     "slug": "amethyst"
+    },
+    {
+     "name": "Hyacinth",
+     "slug": "zircon"
+    },
+    {
+     "name": "Pearl",
+     "slug": "pearl"
+    }
+   ],
+   "order": 1
+  },
+  {
+   "key": "march",
+   "name": "March",
+   "number": 3,
+   "days": 31,
+   "url": "/birthstones/march/",
+   "modern": [
+    {
+     "name": "Aquamarine",
+     "slug": "aquamarine"
+    },
+    {
+     "name": "Bloodstone",
+     "slug": "bloodstone"
+    }
+   ],
+   "list1912": [
+    {
+     "name": "Bloodstone",
+     "slug": "bloodstone"
+    },
+    {
+     "name": "Aquamarine",
+     "alternate": true,
+     "slug": "aquamarine"
+    }
+   ],
+   "older": [
+    {
+     "name": "Jasper",
+     "slug": "jasper"
+    },
+    {
+     "name": "Bloodstone",
+     "slug": "bloodstone"
+    }
+   ],
+   "order": 2
+  },
+  {
+   "key": "april",
+   "name": "April",
+   "number": 4,
+   "days": 30,
+   "url": "/birthstones/april/",
+   "modern": [
+    {
+     "name": "Diamond",
+     "slug": "diamond"
+    }
+   ],
+   "list1912": [
+    {
+     "name": "Diamond",
+     "slug": "diamond"
+    }
+   ],
+   "older": [
+    {
+     "name": "Diamond",
+     "slug": "diamond"
+    },
+    {
+     "name": "Sapphire",
+     "slug": "sapphire"
+    }
+   ],
+   "order": 3
+  },
+  {
+   "key": "may",
+   "name": "May",
+   "number": 5,
+   "days": 31,
+   "url": "/birthstones/may/",
+   "modern": [
+    {
+     "name": "Emerald",
+     "slug": "emerald"
+    }
+   ],
+   "list1912": [
+    {
+     "name": "Emerald",
+     "slug": "emerald"
+    }
+   ],
+   "older": [
+    {
+     "name": "Emerald",
+     "slug": "emerald"
+    },
+    {
+     "name": "Agate",
+     "slug": "agate"
+    }
+   ],
+   "order": 4
+  },
+  {
+   "key": "june",
+   "name": "June",
+   "number": 6,
+   "days": 30,
+   "url": "/birthstones/june/",
+   "modern": [
+    {
+     "name": "Pearl",
+     "slug": "pearl"
+    },
+    {
+     "name": "Alexandrite",
+     "slug": "alexandrite"
+    },
+    {
+     "name": "Moonstone",
+     "slug": "moonstone"
+    }
+   ],
+   "list1912": [
+    {
+     "name": "Pearl",
+     "slug": "pearl"
+    },
+    {
+     "name": "Moonstone",
+     "alternate": true,
+     "slug": "moonstone"
+    }
+   ],
+   "older": [
+    {
+     "name": "Cat's-Eye",
+     "slug": "cats-eye"
+    },
+    {
+     "name": "Turquoise",
+     "slug": "turquoise"
+    },
+    {
+     "name": "Agate",
+     "slug": "agate"
+    }
+   ],
+   "order": 5
+  },
+  {
+   "key": "july",
+   "name": "July",
+   "number": 7,
+   "days": 31,
+   "url": "/birthstones/july/",
+   "modern": [
+    {
+     "name": "Ruby",
+     "slug": "ruby"
+    }
+   ],
+   "list1912": [
+    {
+     "name": "Ruby",
+     "slug": "ruby"
+    }
+   ],
+   "older": [
+    {
+     "name": "Turquoise",
+     "slug": "turquoise"
+    },
+    {
+     "name": "Onyx",
+     "slug": "onyx"
+    }
+   ],
+   "order": 6
+  },
+  {
+   "key": "august",
+   "name": "August",
+   "number": 8,
+   "days": 31,
+   "url": "/birthstones/august/",
+   "modern": [
+    {
+     "name": "Peridot",
+     "slug": "peridot"
+    },
+    {
+     "name": "Sardonyx",
+     "slug": "sardonyx"
+    },
+    {
+     "name": "Spinel",
+     "slug": "spinel"
+    }
+   ],
+   "list1912": [
+    {
+     "name": "Sardonyx",
+     "slug": "sardonyx"
+    },
+    {
+     "name": "Peridot",
+     "alternate": true,
+     "slug": "peridot"
+    }
+   ],
+   "older": [
+    {
+     "name": "Sardonyx",
+     "slug": "sardonyx"
+    },
+    {
+     "name": "Carnelian",
+     "slug": "carnelian"
+    },
+    {
+     "name": "Moonstone",
+     "slug": "moonstone"
+    },
+    {
+     "name": "Topaz",
+     "slug": "topaz"
+    }
+   ],
+   "order": 7
+  },
+  {
+   "key": "september",
+   "name": "September",
+   "number": 9,
+   "days": 30,
+   "url": "/birthstones/september/",
+   "modern": [
+    {
+     "name": "Sapphire",
+     "slug": "sapphire"
+    }
+   ],
+   "list1912": [
+    {
+     "name": "Sapphire",
+     "slug": "sapphire"
+    }
+   ],
+   "older": [
+    {
+     "name": "Chrysolite",
+     "slug": null
+    }
+   ],
+   "order": 8
+  },
+  {
+   "key": "october",
+   "name": "October",
+   "number": 10,
+   "days": 31,
+   "url": "/birthstones/october/",
+   "modern": [
+    {
+     "name": "Opal",
+     "slug": "opal"
+    },
+    {
+     "name": "Tourmaline",
+     "slug": "tourmaline"
+    }
+   ],
+   "list1912": [
+    {
+     "name": "Opal",
+     "slug": "opal"
+    },
+    {
+     "name": "Tourmaline",
+     "alternate": true,
+     "slug": "tourmaline"
+    }
+   ],
+   "older": [
+    {
+     "name": "Beryl",
+     "slug": null
+    },
+    {
+     "name": "Opal",
+     "slug": "opal"
+    }
+   ],
+   "order": 9
+  },
+  {
+   "key": "november",
+   "name": "November",
+   "number": 11,
+   "days": 30,
+   "url": "/birthstones/november/",
+   "modern": [
+    {
+     "name": "Topaz",
+     "slug": "topaz"
+    },
+    {
+     "name": "Citrine",
+     "slug": "citrine"
+    }
+   ],
+   "list1912": [
+    {
+     "name": "Topaz",
+     "slug": "topaz"
+    }
+   ],
+   "older": [
+    {
+     "name": "Topaz",
+     "slug": "topaz"
+    },
+    {
+     "name": "Pearl",
+     "slug": "pearl"
+    }
+   ],
+   "order": 10
+  },
+  {
+   "key": "december",
+   "name": "December",
+   "number": 12,
+   "days": 31,
+   "url": "/birthstones/december/",
+   "modern": [
+    {
+     "name": "Tanzanite",
+     "slug": "tanzanite"
+    },
+    {
+     "name": "Turquoise",
+     "slug": "turquoise"
+    },
+    {
+     "name": "Zircon",
+     "slug": "zircon"
+    }
+   ],
+   "list1912": [
+    {
+     "name": "Turquoise",
+     "slug": "turquoise"
+    },
+    {
+     "name": "Lapis Lazuli",
+     "alternate": true,
+     "slug": "lapis-lazuli"
+    }
+   ],
+   "older": [
+    {
+     "name": "Ruby",
+     "slug": "ruby"
+    },
+    {
+     "name": "Bloodstone",
+     "slug": "bloodstone"
+    }
+   ],
+   "order": 11
+  }
+ ],
+ "signs": [
+  {
+   "key": "aries",
+   "name": "Aries",
+   "url": "/zodiac/aries/",
+   "dates": "March 21 to April 19",
+   "start": "03-21",
+   "end": "04-19",
+   "month": [
+    {
+     "name": "Aquamarine",
+     "slug": "aquamarine"
+    },
+    {
+     "name": "Bloodstone",
+     "slug": "bloodstone"
+    },
+    {
+     "name": "Diamond",
+     "slug": "diamond"
+    }
+   ],
+   "stone1913": [
+    {
+     "name": "Bloodstone",
+     "slug": "bloodstone"
+    }
+   ],
+   "linked": [
+    {
+     "name": "Blue Kyanite",
+     "slug": "blue-kyanite"
+    },
+    {
+     "name": "Red Jasper",
+     "slug": "red-jasper"
+    },
+    {
+     "name": "Bloodstone",
+     "slug": "bloodstone"
+    },
+    {
+     "name": "Carnelian",
+     "slug": "carnelian"
+    }
+   ]
+  },
+  {
+   "key": "taurus",
+   "name": "Taurus",
+   "url": "/zodiac/taurus/",
+   "dates": "April 20 to May 20",
+   "start": "04-20",
+   "end": "05-20",
+   "month": [
+    {
+     "name": "Diamond",
+     "slug": "diamond"
+    },
+    {
+     "name": "Emerald",
+     "slug": "emerald"
+    }
+   ],
+   "stone1913": [
+    {
+     "name": "Sapphire",
+     "slug": "sapphire"
+    }
+   ],
+   "linked": [
+    {
+     "name": "Morganite",
+     "slug": "morganite"
+    },
+    {
+     "name": "Rhodonite",
+     "slug": "rhodonite"
+    },
+    {
+     "name": "Rose Quartz",
+     "slug": "rose-quartz"
+    },
+    {
+     "name": "Emerald",
+     "slug": "emerald"
+    }
+   ]
+  },
+  {
+   "key": "gemini",
+   "name": "Gemini",
+   "url": "/zodiac/gemini/",
+   "dates": "May 21 to June 20",
+   "start": "05-21",
+   "end": "06-20",
+   "month": [
+    {
+     "name": "Emerald",
+     "slug": "emerald"
+    },
+    {
+     "name": "Pearl",
+     "slug": "pearl"
+    },
+    {
+     "name": "Alexandrite",
+     "slug": "alexandrite"
+    },
+    {
+     "name": "Moonstone",
+     "slug": "moonstone"
+    }
+   ],
+   "stone1913": [
+    {
+     "name": "Agate",
+     "slug": "agate"
+    }
+   ],
+   "linked": [
+    {
+     "name": "Agate",
+     "slug": "agate"
+    },
+    {
+     "name": "Celestite",
+     "slug": "celestite"
+    },
+    {
+     "name": "Citrine",
+     "slug": "citrine"
+    },
+    {
+     "name": "Alexandrite",
+     "slug": "alexandrite"
+    }
+   ]
+  },
+  {
+   "key": "cancer",
+   "name": "Cancer",
+   "url": "/zodiac/cancer/",
+   "dates": "June 21 to July 22",
+   "start": "06-21",
+   "end": "07-22",
+   "month": [
+    {
+     "name": "Pearl",
+     "slug": "pearl"
+    },
+    {
+     "name": "Alexandrite",
+     "slug": "alexandrite"
+    },
+    {
+     "name": "Moonstone",
+     "slug": "moonstone"
+    },
+    {
+     "name": "Ruby",
+     "slug": "ruby"
+    }
+   ],
+   "stone1913": [
+    {
+     "name": "Emerald",
+     "slug": "emerald"
+    }
+   ],
+   "linked": [
+    {
+     "name": "Opal",
+     "slug": "opal"
+    },
+    {
+     "name": "Moonstone",
+     "slug": "moonstone"
+    },
+    {
+     "name": "Morganite",
+     "slug": "morganite"
+    }
+   ]
+  },
+  {
+   "key": "leo",
+   "name": "Leo",
+   "url": "/zodiac/leo/",
+   "dates": "July 23 to August 22",
+   "start": "07-23",
+   "end": "08-22",
+   "month": [
+    {
+     "name": "Ruby",
+     "slug": "ruby"
+    },
+    {
+     "name": "Peridot",
+     "slug": "peridot"
+    },
+    {
+     "name": "Sardonyx",
+     "slug": "sardonyx"
+    },
+    {
+     "name": "Spinel",
+     "slug": "spinel"
+    }
+   ],
+   "stone1913": [
+    {
+     "name": "Onyx",
+     "slug": "onyx"
+    }
+   ],
+   "linked": [
+    {
+     "name": "Pyrite",
+     "slug": "pyrite"
+    },
+    {
+     "name": "Sunstone",
+     "slug": "sunstone"
+    },
+    {
+     "name": "Citrine",
+     "slug": "citrine"
+    },
+    {
+     "name": "Amber",
+     "slug": "amber"
+    }
+   ]
+  },
+  {
+   "key": "virgo",
+   "name": "Virgo",
+   "url": "/zodiac/virgo/",
+   "dates": "August 23 to September 22",
+   "start": "08-23",
+   "end": "09-22",
+   "month": [
+    {
+     "name": "Peridot",
+     "slug": "peridot"
+    },
+    {
+     "name": "Sardonyx",
+     "slug": "sardonyx"
+    },
+    {
+     "name": "Spinel",
+     "slug": "spinel"
+    },
+    {
+     "name": "Sapphire",
+     "slug": "sapphire"
+    }
+   ],
+   "stone1913": [
+    {
+     "name": "Carnelian",
+     "slug": "carnelian"
+    }
+   ],
+   "linked": [
+    {
+     "name": "Purpurite",
+     "slug": "purpurite"
+    },
+    {
+     "name": "Moss Agate",
+     "slug": "moss-agate"
+    },
+    {
+     "name": "Diopside",
+     "slug": "diopside"
+    },
+    {
+     "name": "Carnelian",
+     "slug": "carnelian"
+    }
+   ]
+  },
+  {
+   "key": "libra",
+   "name": "Libra",
+   "url": "/zodiac/libra/",
+   "dates": "September 23 to October 22",
+   "start": "09-23",
+   "end": "10-22",
+   "month": [
+    {
+     "name": "Sapphire",
+     "slug": "sapphire"
+    },
+    {
+     "name": "Opal",
+     "slug": "opal"
+    },
+    {
+     "name": "Tourmaline",
+     "slug": "tourmaline"
+    }
+   ],
+   "stone1913": [
+    {
+     "name": "Chrysolite",
+     "slug": null
+    }
+   ],
+   "linked": [
+    {
+     "name": "Lepidolite",
+     "slug": "lepidolite"
+    },
+    {
+     "name": "Prehnite",
+     "slug": "prehnite"
+    },
+    {
+     "name": "Opal",
+     "slug": "opal"
+    },
+    {
+     "name": "Rose Quartz",
+     "slug": "rose-quartz"
+    }
+   ]
+  },
+  {
+   "key": "scorpio",
+   "name": "Scorpio",
+   "url": "/zodiac/scorpio/",
+   "dates": "October 23 to November 21",
+   "start": "10-23",
+   "end": "11-21",
+   "month": [
+    {
+     "name": "Opal",
+     "slug": "opal"
+    },
+    {
+     "name": "Tourmaline",
+     "slug": "tourmaline"
+    },
+    {
+     "name": "Topaz",
+     "slug": "topaz"
+    },
+    {
+     "name": "Citrine",
+     "slug": "citrine"
+    }
+   ],
+   "stone1913": [
+    {
+     "name": "Beryl",
+     "slug": null
+    }
+   ],
+   "linked": [
+    {
+     "name": "Malachite",
+     "slug": "malachite"
+    },
+    {
+     "name": "Charoite",
+     "slug": "charoite"
+    },
+    {
+     "name": "Obsidian",
+     "slug": "obsidian"
+    },
+    {
+     "name": "Unakite",
+     "slug": "unakite"
+    }
+   ]
+  },
+  {
+   "key": "sagittarius",
+   "name": "Sagittarius",
+   "url": "/zodiac/sagittarius/",
+   "dates": "November 22 to December 21",
+   "start": "11-22",
+   "end": "12-21",
+   "month": [
+    {
+     "name": "Topaz",
+     "slug": "topaz"
+    },
+    {
+     "name": "Citrine",
+     "slug": "citrine"
+    },
+    {
+     "name": "Tanzanite",
+     "slug": "tanzanite"
+    },
+    {
+     "name": "Turquoise",
+     "slug": "turquoise"
+    },
+    {
+     "name": "Zircon",
+     "slug": "zircon"
+    }
+   ],
+   "stone1913": [
+    {
+     "name": "Topaz",
+     "slug": "topaz"
+    }
+   ],
+   "linked": [
+    {
+     "name": "Azurite",
+     "slug": "azurite"
+    },
+    {
+     "name": "Topaz",
+     "slug": "topaz"
+    },
+    {
+     "name": "Turquoise",
+     "slug": "turquoise"
+    },
+    {
+     "name": "Sodalite",
+     "slug": "sodalite"
+    }
+   ]
+  },
+  {
+   "key": "capricorn",
+   "name": "Capricorn",
+   "url": "/zodiac/capricorn/",
+   "dates": "December 22 to January 19",
+   "start": "12-22",
+   "end": "01-19",
+   "month": [
+    {
+     "name": "Tanzanite",
+     "slug": "tanzanite"
+    },
+    {
+     "name": "Turquoise",
+     "slug": "turquoise"
+    },
+    {
+     "name": "Zircon",
+     "slug": "zircon"
+    },
+    {
+     "name": "Garnet",
+     "slug": "garnet"
+    }
+   ],
+   "stone1913": [
+    {
+     "name": "Ruby",
+     "slug": "ruby"
+    }
+   ],
+   "linked": [
+    {
+     "name": "Tourmalinated Quartz",
+     "slug": "tourmalinated-quartz"
+    },
+    {
+     "name": "Jet",
+     "slug": "jet"
+    },
+    {
+     "name": "Smoky Quartz",
+     "slug": "smoky-quartz"
+    },
+    {
+     "name": "Black Tourmaline",
+     "slug": "black-tourmaline"
+    }
+   ]
+  },
+  {
+   "key": "aquarius",
+   "name": "Aquarius",
+   "url": "/zodiac/aquarius/",
+   "dates": "January 20 to February 18",
+   "start": "01-20",
+   "end": "02-18",
+   "month": [
+    {
+     "name": "Garnet",
+     "slug": "garnet"
+    },
+    {
+     "name": "Amethyst",
+     "slug": "amethyst"
+    }
+   ],
+   "stone1913": [
+    {
+     "name": "Garnet",
+     "slug": "garnet"
+    }
+   ],
+   "linked": [
+    {
+     "name": "Angelite",
+     "slug": "angelite"
+    },
+    {
+     "name": "Aquamarine",
+     "slug": "aquamarine"
+    },
+    {
+     "name": "Blue Tiger's Eye",
+     "slug": "blue-tigers-eye"
+    }
+   ]
+  },
+  {
+   "key": "pisces",
+   "name": "Pisces",
+   "url": "/zodiac/pisces/",
+   "dates": "February 19 to March 20",
+   "start": "02-19",
+   "end": "03-20",
+   "month": [
+    {
+     "name": "Amethyst",
+     "slug": "amethyst"
+    },
+    {
+     "name": "Aquamarine",
+     "slug": "aquamarine"
+    },
+    {
+     "name": "Bloodstone",
+     "slug": "bloodstone"
+    }
+   ],
+   "stone1913": [
+    {
+     "name": "Amethyst",
+     "slug": "amethyst"
+    }
+   ],
+   "linked": [
+    {
+     "name": "Aquamarine",
+     "slug": "aquamarine"
+    },
+    {
+     "name": "Fluorite",
+     "slug": "fluorite"
+    },
+    {
+     "name": "Bloodstone",
+     "slug": "bloodstone"
+    },
+    {
+     "name": "Moonstone",
+     "slug": "moonstone"
+    }
+   ]
+  }
+ ]
+}
