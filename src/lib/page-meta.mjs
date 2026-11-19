@@ -27,8 +27,10 @@ export function shortName(page) {
   if (['month', 'sign'].includes(page.type)) return titleCase(page.slug.replace(/-/g, ' '));
   let h = page.data.h1;
   if (page.type === 'tool') h = h.split(/ for | with /)[0];
-  const cut = h.split(/, | & /)[0].trim();
-  if (cut.length >= 12) h = cut;
+  // A question in front ("What's My Birthstone? ...") stays whole, the cut only looks after it.
+  const q = h.indexOf('? ');
+  const cut = h.slice(q + (q >= 0 ? 2 : 1)).split(/, | & /)[0].trim();
+  if (cut.length >= 12) h = q >= 0 ? `${h.slice(0, q + 2)}${cut}` : cut;
   return h.length > 56 ? `${h.slice(0, 56).replace(/\s+\S*$/, '')}` : h;
 }
 

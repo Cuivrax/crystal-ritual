@@ -1,0 +1,228 @@
+---
+// Birthstone & Zodiac Finder (/tools/birthstone-finder/).
+// Data, src/data/birth_zodiac.json (scripts/build-birth-zodiac.mjs), the two verified charts of
+// /birthstones/ and /zodiac/ and nothing else. The result is put together in the browser from the
+// month and sign panels below (templates), the full charts work without JavaScript.
+// The address keeps the state, ?date=03-21 (and &year=1990), ?month=march or ?sign=aries.
+// The printable chart sits further down the page, at its own DOWNLOAD note (ChartDownload.astro).
+import data from '../../data/birth_zodiac.json';
+import { getSite } from '../../lib/site.mjs';
+import { stonesIndex } from '../../lib/render.mjs';
+import { cutoutHtml, CUTOUTS } from '../../lib/images.mjs';
+import { colorSwatches } from '../../lib/colors.mjs';
+import { glyphBadge } from '../../lib/zodiac.mjs';
+import { esc } from '../../lib/ui.mjs';
+const site = await getSite();
+const { months, signs } = data;
+
+// Small cut-outs, one per stone that has one.
+const cut = new Map();
+for (const slug of new Set([...months.flatMap((m) => [...m.modern, ...m.list1912, ...m.older]), ...signs.flatMap((s) => [...s.month, ...s.stone1913, ...s.linked])].map((s) => s.slug).filter(Boolean))) {
+  if (CUTOUTS.has(slug)) cut.set(slug, await cutoutHtml(slug, { box: 44, cls: 'cutout stone-cut' }));
+}
+
+function chip(s, { big = false } = {}) {
+  const sheet = s.slug ? stonesIndex.stones[s.slug] : null;
+  const url = s.slug && site.isBuilt(`/stones/${s.slug}/`) ? `/stones/${s.slug}/` : null;
+  const sw = sheet ? colorSwatches(sheet.colors || '')[0] : null;
+  const media = (s.slug && cut.get(s.slug)) || (sw ? `<span class="stone-dot" style="background:${sw.hex}" aria-hidden="true"></span>` : '<span class="stone-dot is-empty" aria-hidden="true"></span>');
+  const name = url ? `<a href="${esc(url)}">${esc(s.name)}</a>` : esc(s.name);
+  const alt = s.alternate ? ' <span class="stone-alt">Alternate</span>' : '';
+  return `<li class="stone-chip${big ? ' is-big' : ''}">${media}<span class="stone-name">${name}${alt}</span></li>`;
+}
+const chips = (list, opts) => `<ul class="stone-chips">${list.map((s) => chip(s, opts)).join('')}</ul>`;
+const pageLink = (url, text) => (url && site.isBuilt(url) ? `<a class="small-link" href="${esc(url)}">${esc(text)}</a>` : '');
+
+function monthPanel(m) {
+  return `<div class="finder-panel is-month"><p class="finder-kicker">Birth Month</p><h3 class="finder-title">${esc(m.name)} Birthstones</h3>`
+    + '<div class="finder-cols">'
+    + `<div><p class="finder-col-title">Modern US List</p>${chips(m.modern, { big: true })}</div>`
+    + `<div><p class="finder-col-title">1912 List</p>${chips(m.list1912)}</div>`
+    + `<div><p class="finder-col-title">Older Usage</p>${chips(m.older)}</div>`
+    + `</div>${pageLink(m.url, `More on ${m.name} Birthstones`)}</div>`;
+}
+
+function signPanel(s) {
+  return `<div class="finder-panel is-sign"><div class="finder-sign-head">${glyphBadge(s.key, { size: 64 })}<div><p class="finder-kicker">Zodiac Sign</p><h3 class="finder-title">${esc(s.name)}</h3><p class="finder-dates">${esc(s.dates)}</p></div></div>`
+    + '<div class="finder-cols">'
+    + `<div><p class="finder-col-title">1913 Zodiac Stone</p>${chips(s.stone1913, { big: true })}</div>`
+    + `<div><p class="finder-col-title">Linked Most Today</p>${chips(s.linked)}</div>`
+    + `<div><p class="finder-col-title">Month Birthstones</p>${chips(s.month)}</div>`
+    + `</div>${pageLink(s.url, `More on ${s.name} Stones`)}</div>`;
+}
+
+const moonUrl = site.isBuilt('/moon/birthday-moon/') ? '/moon/birthday-moon/' : null;
+const signDates = signs.map((s) => ({ key: s.key, name: s.name, start: s.start, end: s.end }));
+---
+<section class="finder" id="finder" aria-label="Birthstone & Zodiac Finder">
+  <form class="finder-form" id="finder-form" action="/tools/birthstone-finder/" method="get">
+    <fieldset class="finder-date">
+      <legend>Birth Date</legend>
+      <div class="field"><label for="f-month">Month</label>
+        <select id="f-month" name="month"><option value="">Month</option>{months.map((m) => <option value={m.key}>{m.name}</option>)}</select></div>
+      <div class="field"><label for="f-day">Day</label>
+        <select id="f-day" name="day"><option value="">Day</option>{Array.from({ length: 31 }, (_, i) => <option value={String(i + 1)}>{i + 1}</option>)}</select></div>
+      <div class="field"><label for="f-year">Year, Optional</label>
+        <input id="f-year" name="year" type="text" inputmode="numeric" pattern="[0-9]{4}" maxlength="4" placeholder="1990" autocomplete="off"></div>
+    </fieldset>
+    <p class="finder-or" aria-hidden="true">or</p>
+    <div class="field finder-sign-field"><label for="f-sign">Zodiac Sign</label>
+      <select id="f-sign" name="sign"><option value="">Any Sign</option>{signs.map((s) => <option value={s.key}>{s.name}</option>)}</select></div>
+    <button type="submit" class="btn btn-primary">Find My Stones</button>
+  </form>
+  <noscript><p class="finder-note">The finder works in your browser and needs JavaScript. The full charts below work without it.</p></noscript>
+  <div class="finder-result" id="finder-result" aria-live="polite" tabindex="-1"></div>
+
+  {months.map((m) => <template id={`tpl-month-${m.key}`} set:html={monthPanel(m)} />)}
+  {signs.map((s) => <template id={`tpl-sign-${s.key}`} set:html={signPanel(s)} />)}
+  <script type="application/json" id="finder-data" set:html={JSON.stringify({ signs: signDates, months: months.map((m) => ({ key: m.key, name: m.name, number: m.number, days: m.days })), moon: moonUrl })} />
+
+  <div class="finder-charts">
+    <h2 class="section-title" id="birthstones-by-month">Birthstones by Month</h2>
+    <div class="finder-table-wrap">
+      <table class="finder-table" role="table">
+        <thead role="rowgroup"><tr role="row"><th scope="col" role="columnheader">Month</th><th scope="col" role="columnheader">Modern US List</th><th scope="col" role="columnheader">1912 List</th><th scope="col" role="columnheader">Older Usage</th></tr></thead>
+        <tbody role="rowgroup">
+          {months.map((m) => (
+            <tr id={`month-${m.key}`} role="row">
+              <th scope="row" role="rowheader">{site.isBuilt(m.url) ? <a href={m.url}>{m.name}</a> : m.name}</th>
+              <td role="cell" data-label="Modern US List" set:html={chips(m.modern)} />
+              <td role="cell" data-label="1912 List" set:html={chips(m.list1912)} />
+              <td role="cell" data-label="Older Usage" set:html={chips(m.older)} />
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+
+    <h2 class="section-title" id="zodiac-stones-by-sign">Zodiac Stones by Sign</h2>
+    <div class="sign-grid">
+      {signs.map((s) => (
+        <article class="sign-card" id={`sign-${s.key}`}>
+          <div class="sign-card-head">
+            <Fragment set:html={glyphBadge(s.key, { size: 48 })} />
+            <div><h3>{site.isBuilt(s.url) ? <a href={s.url}>{s.name}</a> : s.name}</h3><p class="finder-dates">{s.dates}</p></div>
+          </div>
+          <p class="finder-col-title">1913 Zodiac Stone</p>
+          <Fragment set:html={chips(s.stone1913)} />
+          <p class="finder-col-title">Linked Most Today</p>
+          <Fragment set:html={chips(s.linked)} />
+        </article>
+      ))}
+    </div>
+  </div>
+</section>
+<script>
+  import { parseMonthDay, signFor, cuspFor } from '../../lib/zodiac.mjs';
+  const DATA = JSON.parse(document.getElementById('finder-data').textContent || '{}');
+  const form = document.getElementById('finder-form');
+  const out = document.getElementById('finder-result');
+  const MONTHS = DATA.months || [];
+  const SIGNS = DATA.signs || [];
+  const byKey = (list, k) => list.find((x) => x.key === k) || null;
+  const tpl = (id) => { const t = document.getElementById(id); return t ? t.content.cloneNode(true) : null; };
+  const pad = (n) => String(n).padStart(2, '0');
+
+  function note(text, extra) {
+    const p = document.createElement('p');
+    p.className = 'finder-note';
+    p.textContent = text;
+    if (extra) p.append(' ', extra);
+    return p;
+  }
+
+  function render(state) {
+    out.replaceChildren();
+    if (!state) { out.hidden = true; return; }
+    out.hidden = false;
+    const card = document.createElement('div');
+    card.className = 'finder-card';
+    const notes = [];
+    if (state.month) {
+      const m = byKey(MONTHS, state.month);
+      const panel = m && tpl(`tpl-month-${m.key}`);
+      if (panel) card.append(panel);
+    }
+    let sign = state.sign ? byKey(SIGNS, state.sign) : null;
+    if (state.date) {
+      const s = signFor(state.date.month, state.date.day, SIGNS);
+      if (s) sign = s;
+      const cusp = cuspFor(state.date.month, state.date.day, SIGNS);
+      if (cusp) {
+        const b = document.createElement('button');
+        b.type = 'button';
+        b.className = 'small-link finder-other';
+        b.textContent = `See ${cusp.other.name}`;
+        b.addEventListener('click', () => { form.elements.sign.value = cusp.other.key; go({ sign: cusp.other.key }); });
+        notes.push(note(`Close to the line between ${cusp.sign.name} and ${cusp.other.name}. Guides disagree by a day at the edges, so both signs are worth a look.`, b));
+      }
+      if (DATA.moon) {
+        const a = document.createElement('a');
+        a.className = 'small-link';
+        a.href = state.year ? `${DATA.moon}?date=${state.year}-${pad(state.date.month)}-${pad(state.date.day)}` : DATA.moon;
+        a.textContent = 'See the Moon on Your Birthday';
+        notes.push(note(state.year ? 'The moon phase of that night is one tap away.' : 'Add the year to see the moon phase of that night.', a));
+      }
+    }
+    if (sign) {
+      const panel = tpl(`tpl-sign-${sign.key}`);
+      if (panel) card.append(panel);
+    }
+    out.append(card, ...notes);
+  }
+
+  function readForm() {
+    const month = form.elements.month.value;
+    const day = Number(form.elements.day.value);
+    const year = (form.elements.year.value || '').trim();
+    const sign = form.elements.sign.value;
+    const m = byKey(MONTHS, month);
+    if (m && day) {
+      if (day > m.days) return { error: `${m.name} has ${m.days} days.` };
+      return { date: { month: m.number, day }, month: m.key, year: /^\d{4}$/.test(year) ? year : null };
+    }
+    if (m) return { month: m.key };
+    if (sign) return { sign };
+    return null;
+  }
+
+  function toQuery(state) {
+    const p = new URLSearchParams();
+    if (!state) return '';
+    if (state.date) { p.set('date', `${pad(state.date.month)}-${pad(state.date.day)}`); if (state.year) p.set('year', state.year); }
+    else if (state.month) p.set('month', state.month);
+    else if (state.sign) p.set('sign', state.sign);
+    const q = p.toString();
+    return q ? `?${q}` : '';
+  }
+
+  function go(state) {
+    if (state && state.error) { out.hidden = false; out.replaceChildren(note(state.error)); return; }
+    if (state && state.sign && !state.date) { form.elements.month.value = ''; form.elements.day.value = ''; }
+    render(state);
+    try { history.replaceState(null, '', location.pathname + toQuery(state) + location.hash); } catch (e) { /* ignore */ }
+  }
+
+  // State from the address.
+  const params = new URLSearchParams(location.search);
+  let start = null;
+  const md = parseMonthDay(params.get('date'));
+  if (md) {
+    const m = MONTHS.find((x) => x.number === md.month);
+    const year = /^\d{4}$/.test(params.get('year') || '') ? params.get('year') : null;
+    start = { date: md, month: m.key, year };
+    form.elements.month.value = m.key; form.elements.day.value = String(md.day); if (year) form.elements.year.value = year;
+  } else if (byKey(MONTHS, params.get('month') || '')) {
+    start = { month: params.get('month') };
+    form.elements.month.value = start.month;
+  } else if (byKey(SIGNS, params.get('sign') || '')) {
+    start = { sign: params.get('sign') };
+    form.elements.sign.value = start.sign;
+  }
+  render(start);
+
+  form.addEventListener('submit', (e) => { e.preventDefault(); go(readForm()); out.focus({ preventScroll: true }); });
+  form.elements.sign.addEventListener('change', () => { if (form.elements.sign.value) { form.elements.month.value = ''; form.elements.day.value = ''; } go(readForm()); });
+  for (const k of ['month', 'day']) form.elements[k].addEventListener('change', () => { if (form.elements.month.value) form.elements.sign.value = ''; go(readForm()); });
+  form.elements.year.addEventListener('change', () => go(readForm()));
+</script>

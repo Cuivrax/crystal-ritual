@@ -330,6 +330,11 @@ setInterval(renderLive, 10 * 60 * 1000);
 if ($('bday-form')) {
   $('bday-form').addEventListener('submit', (e) => { e.preventDefault(); renderBirthday(); });
   $('bday').addEventListener('change', () => { if (readDate($('bday').value)) renderBirthday(); });
+  // A full date in the address (?date=1990-03-21) fills the form, so the Birthstone & Zodiac Finder can link to a birthday.
+  try {
+    const d = new URLSearchParams(location.search).get('date');
+    if (d && /^\d{4}-\d{2}-\d{2}$/.test(d) && readDate(d)) { $('bday').value = d; renderBirthday(); }
+  } catch (e) { /* ignore */ }
   $('bday-out').addEventListener('click', (e) => {
     const button = e.target.closest('#save-card');
     if (button) saveCard(button);

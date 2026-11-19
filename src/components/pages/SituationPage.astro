@@ -8,6 +8,8 @@ import AuthorBox from '../AuthorBox.astro';
 import Sources from '../Sources.astro';
 import { icon, INTENTIONS, HOW_WE_RATE_TEXT, facetLegend, titleCase } from '../../lib/ui.mjs';
 import { breadcrumbsFor, ogImageFrom, citationsFor } from '../../lib/page-meta.mjs';
+import ZodiacGlyph from '../ZodiacGlyph.astro';
+import { SIGN_KEYS } from '../../lib/zodiac.mjs';
 const { page, doc, site } = Astro.props;
 const crumbs = breadcrumbsFor(page, site);
 if (page.type === 'situation') {
@@ -19,6 +21,7 @@ const tone = page.type === 'month' ? 'gold' : page.type === 'sign' ? 'blue' : (i
 const eyebrowIcon = page.type === 'month' ? 'calendar' : page.type === 'sign' ? 'zodiac' : (intent?.icon || 'gem');
 const eyebrow = page.type === 'month' ? `${titleCase(page.slug)} Birthstones` : page.type === 'sign' ? `${titleCase(page.slug)} Stones` : `Crystals for ${titleCase(page.slug.replace(/-/g, ' '))}`;
 const usesFacets = page.type !== 'month';
+const signKey = page.type === 'sign' && SIGN_KEYS.includes(page.slug) ? page.slug : null;
 const howHref = site.isBuilt('/sources/') ? '/sources/#how-we-rate' : null;
 const howBox = `<p class="card-title">How We Rate</p><p>${HOW_WE_RATE_TEXT}</p>${facetLegend()}${howHref ? `<p><a href="${howHref}">How We Rate</a></p>` : ''}`;
 const others = site.pages.filter((p) => p.type === 'situation' && p.url !== page.url);
@@ -30,7 +33,9 @@ const others = site.pages.filter((p) => p.type === 'situation' && p.url !== page
       <div class="hero-grid">
         <div class="hero-text" style="flex: 2 1 560px">
           <p class="intent-eyebrow"><Fragment set:html={icon(eyebrowIcon, { size: 22 })} />{eyebrow}</p>
-          <h1 class="page-title">{page.data.h1}</h1>
+          {signKey
+            ? <div class="sign-title"><ZodiacGlyph sign={signKey} badge size={72} cls="h1-glyph" /><h1 class="page-title">{page.data.h1}</h1></div>
+            : <h1 class="page-title">{page.data.h1}</h1>}
           {doc.lead && <p class="lead" set:html={doc.lead} />}
           <p class="byline">By <a href="#author">Iris Holloway</a></p>
         </div>

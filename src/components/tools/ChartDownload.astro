@@ -1,0 +1,27 @@
+---
+// The printable birthstone chart by date, at the page's DOWNLOAD note, under the page's own heading
+// and text. The files come from scripts/build-chart.mjs (public/downloads/), no form, no email.
+import { statSync, existsSync } from 'node:fs';
+import { join } from 'node:path';
+const dl = (file) => {
+  const p = join(process.cwd(), 'public/downloads', file);
+  return existsSync(p) ? statSync(p).size : 0;
+};
+const fmtSize = (n) => (n >= 1024 * 1024 ? `${(n / (1024 * 1024)).toFixed(1)} MB` : `${Math.max(1, Math.round(n / 1024))} KB`);
+const pdf = dl('birthstone-chart-by-date.pdf');
+const png = dl('birthstone-chart-by-date.png');
+const preview = dl('birthstone-chart-by-date-preview.webp');
+---
+{pdf > 0 && (
+  <div class="chart-download" id="printable-chart">
+    {preview > 0 && <a class="chart-preview" href="/downloads/birthstone-chart-by-date.png"><img src="/downloads/birthstone-chart-by-date-preview.webp" width="300" height="388" alt="Preview of the printable birthstone chart by date, with the twelve months and the twelve signs" loading="lazy" decoding="async"></a>}
+    <div>
+      <p class="chart-download-title">Birthstone Chart by Date</p>
+      <p class="chart-download-meta">One US Letter page, color or black and white</p>
+      <div class="btn-row">
+        <a class="btn btn-primary" href="/downloads/birthstone-chart-by-date.pdf" download>Download PDF, {fmtSize(pdf)}</a>
+        {png > 0 && <a class="btn btn-secondary" href="/downloads/birthstone-chart-by-date.png" download>Download PNG, {fmtSize(png)}</a>}
+      </div>
+    </div>
+  </div>
+)}

@@ -3,6 +3,7 @@
 //   tables, lists, heading ids.
 import { el, txt, raw, isEl, isBlank, meaningful, walk, textOf, addClass, leadStrong, dropLeadStrong, makeSlugger } from './hast.mjs';
 import { internalPath, normalizePath } from '../urls.mjs';
+import { SIGN_KEYS, glyphBadge } from '../zodiac.mjs';
 import { EVIDENCE, FACET_LABELS, facetsFromLabel, facetRating, ratingFromText, RATINGS, ratingLabel, icon, esc, titleCase } from '../ui.mjs';
 
 // ------------------------------------------------------------ comments
@@ -11,7 +12,9 @@ export function toolKeyFor(comment) {
   if (/^<!--\s*(TOOL TO BUILD|TOOL EMBED)/.test(t)) return null;
   if (/^<!--\s*FORM\b/.test(t) || /^<!--\s*BUILD contact form\b/i.test(t)) return 'contact-form';
   if (/^<!--\s*TABLE\b/.test(t)) return /care\.json/.test(t) ? 'care-table' : null;
+  if (/^<!--\s*DOWNLOAD\b/.test(t)) return /birthstone chart/i.test(t) ? 'chart-download' : null;
   if (!/^<!--\s*TOOL\b/.test(t)) return null;
+  if (/Birthstone (?:&|and) Zodiac Finder/i.test(t)) return 'birthstone-finder';
   if (/Stone Atlas/i.test(t)) return 'atlas';
   if (/checker/i.test(t) && /care/i.test(t)) return 'care-checker';
   if (/Full Moon Calendar/i.test(t)) return 'moon-calendar';
@@ -246,6 +249,11 @@ export function processTables(tree) {
       if (!isEl(row, 'tr')) return undefined;
       const cells = meaningful(row.children).filter((c) => isEl(c, ['td', 'th']));
       const rowLabel = cells[0] ? textOf(cells[0]).trim() : '';
+      // A sign table (the /zodiac/ chart) gets each sign's drawn glyph beside its name.
+      if (/^sign$/i.test(heads[0] || '') && isEl(cells[0], 'td') && SIGN_KEYS.includes(rowLabel.toLowerCase())) {
+        cells[0].children.unshift(raw(glyphBadge(rowLabel.toLowerCase(), { size: 30, cls: 'table-glyph' })));
+        addClass(cells[0], 'has-glyph');
+      }
       cells.forEach((cell, i) => {
         if (!isEl(cell, 'td')) return;
         const t = textOf(cell).trim();
