@@ -1,0 +1,67 @@
+{
+ "stones__amethyst": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/-Of-1FQHiA4",
+  "image_url": "https://images.unsplash.com/photo-1609216970378-ce61cd74a187",
+  "license": "Unsplash License",
+  "creator": "Calvin Chai",
+  "credit": "Photo by Calvin Chai on Unsplash",
+  "visual": "Close-up of purple amethyst crystal points with visible growth steps",
+  "brightness": "Bright violet crystals, stone fills frame; correct amethyst.",
+  "confidence": "high",
+  "file": "stones__amethyst/what.jpg",
+  "caption": "Close-up of deep purple amethyst crystal points"
+ },
+ "stones__citrine": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/ppmiXmhHHyc",
+  "image_url": "https://images.unsplash.com/photo-1614092872241-c9a193f2b4aa",
+  "license": "Unsplash License",
+  "creator": "benjamin lehman",
+  "credit": "Photo by benjamin lehman on Unsplash",
+  "visual": "Rows of pale golden-yellow citrine quartz points on white (photographer describes them as citrine); matches pale yellow to honey range.",
+  "brightness": "Bright, clean, white background.",
+  "confidence": "medium",
+  "file": "stones__citrine/what.jpg",
+  "caption": "Rows of pale golden yellow citrine points on a white background"
+ },
+ "stones__rose-quartz": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/-a4_RBgFSQ4",
+  "image_url": "https://images.unsplash.com/photo-1642889819509-f026a1e936cb",
+  "license": "Unsplash License",
+  "creator": "Tracey Bureau",
+  "credit": "Photo by Tracey Bureau on Unsplash",
+  "visual": "Raw translucent pink rose quartz chunk on a rustic wood table.",
+  "brightness": "Warm, soft pink, bright enough.",
+  "confidence": "high",
+  "file": "stones__rose-quartz/what.jpg",
+  "caption": "Raw translucent rose quartz chunk on a wooden table"
+ },
+ "stones__agate": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/37A3FA7tAj0",
+  "image_url": "https://images.unsplash.com/photo-1781699808868-7d5b4fad1c0b",
+  "license": "Unsplash License",
+  "creator": "Yoko Saito",
+  "credit": "Photo by Yoko Saito on Unsplash",
+  "visual": "Macro of a polished banded agate slice with white, orange, teal and black bands.",
+  "brightness": "Bright, vivid banding.",
+  "confidence": "medium",
+  "file": "stones__agate/what.jpg",
+  "caption": "Close-up of a polished banded agate slice with white and orange bands"
+ },
+ "stones__clear-quartz": {
+  "source": "Unsplash",
+  "page_url": "https://unsplash.com/photos/-XvhrIC1Mhc",
+  "image_url": "https://images.unsplash.com/photo-1562162135-9f64f33e623b",
+  "license": "Unsplash License",
+  "creator": "Jason D",
+  "credit": "Photo by Jason D on Unsplash",
+  "visual": "Spray of glassy clear quartz points on black.",
+  "brightness": "Glassy, sparkling on black.",
+  "confidence": "medium",
+  "file": "stones__clear-quartz/what.jpg",
+  "caption": "Cluster of clear quartz points on a black background"
+ }
+}

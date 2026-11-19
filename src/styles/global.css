@@ -960,3 +960,10 @@ body.theme-night { background: var(--night); color: var(--moon); }
 .mini-dots i { display: block; width: 14px; height: 14px; border-radius: 50%; box-shadow: inset 0 0 0 1px rgba(43, 37, 55, 0.14); }
 .atlas-card.is-mini .mini-chips { margin-top: 10px; }
 @media (max-width: 719px) { .atlas-grid { gap: 12px; } .atlas-letter { margin-top: 6px; } }
+/* cut-out stones on the Atlas cards */
+.atlas-card.is-mini.has-cutout { display: flex; align-items: flex-start; gap: 10px; padding: 12px 0 0 12px; }
+.atlas-card.is-mini.has-cutout .atlas-card-body { padding: 2px 16px 16px 0; flex: 1 1 auto; min-width: 0; }
+.cutout { flex: none; display: flex; align-items: center; justify-content: center; width: 80px; height: 80px; }
+.cutout img { display: block; max-width: 80px; max-height: 80px; width: auto; height: auto; object-fit: contain; filter: drop-shadow(0 6px 8px rgba(43, 37, 55, 0.18)); }
+.atlas-cutout-box { display: flex; align-items: center; justify-content: center; aspect-ratio: 4 / 3; background: var(--soft); }
+.atlas-cutout-box .cutout, .atlas-cutout-box .cutout img { width: auto; height: auto; max-width: 140px; max-height: 140px; }

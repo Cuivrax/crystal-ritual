@@ -7,7 +7,7 @@
 // A page that passes the publish gate later switches to the full card on the next build.
 import { getSite } from '../../lib/site.mjs';
 import { stoneThumbs, stonesIndex, intents, knownFor, stoneExtras, photosOf } from '../../lib/render.mjs';
-import { figureHtml } from '../../lib/images.mjs';
+import { figureHtml, cutoutHtml, CUTOUTS } from '../../lib/images.mjs';
 import { COLOR_FAMILIES, COLOR_LABELS, colorSwatches } from '../../lib/colors.mjs';
 import { INTENTIONS, FACET_LABELS, esc } from '../../lib/ui.mjs';
 import { listNames } from '../../lib/worldmap.mjs';
@@ -29,6 +29,10 @@ for (const row of site.held) {
   if (slug && hero) miniPhotos.set(slug, await figureHtml(hero, hero.meta, { variant: 'mini' }));
 }
 
+// Cut-out stones made in Canva, the small image of a light card (and of a full card without a photo).
+const cutouts = new Map();
+for (const slug of CUTOUTS.keys()) cutouts.set(slug, await cutoutHtml(slug));
+
 const built = new Map(site.pages.filter((p) => p.type === 'stone').map((p) => [p.slug, p]));
 const slugs = new Set([...Object.keys(stonesIndex.stones), ...built.keys()]);
 const cards = [...slugs].map((slug) => {
@@ -41,9 +45,11 @@ const cards = [...slugs].map((slug) => {
   };
   if (p) {
     const top = knownFor(slug, 1).find((k) => k.facets >= 3) || null;
-    return { ...base, guide: true, url: p.url, line: firstSentence(p.data.description), top, photo: thumbs.get(slug)?.card || null };
+    const photo = thumbs.get(slug)?.card || null;
+    return { ...base, guide: true, url: p.url, line: firstSentence(p.data.description), top, photo, cutout: photo ? null : cutouts.get(slug) || null };
   }
-  return { ...base, guide: false, fact: stoneExtras.facts?.[slug] || null, swatches: colorSwatches(sheet?.colors || '').slice(0, 6), photo: miniPhotos.get(slug) || null };
+  const cutout = cutouts.get(slug) || null;
+  return { ...base, guide: false, fact: stoneExtras.facts?.[slug] || null, swatches: colorSwatches(sheet?.colors || '').slice(0, 6), cutout, photo: cutout ? null : miniPhotos.get(slug) || null };
 }).sort((a, b) => a.name.localeCompare(b.name));
 const guides = cards.filter((c) => c.guide).length;
 const colorOpts = COLOR_FAMILIES.filter((c) => cards.some((x) => x.colors.includes(c)));
@@ -56,7 +62,8 @@ function fullCard(c) {
     c.mohs ? `<span class="mini-chip tone-green">Hardness ${esc(fmtMohs(c.mohs))}</span>` : '',
     c.top ? `<span class="mini-chip tone-lavender">${esc(c.top.label)}, ${esc(FACET_LABELS[c.top.facets])}</span>` : '',
   ].join('');
-  return `${c.photo || ''}<div class="atlas-card-body"><h3><a class="stretched" href="${esc(c.url)}">${esc(c.name)}</a></h3><p>${esc(c.line)}</p><div class="mini-chips">${chips}</div></div>`;
+  const media = c.photo || (c.cutout ? `<div class="atlas-cutout-box">${c.cutout}</div>` : '');
+  return `${media}<div class="atlas-card-body"><h3><a class="stretched" href="${esc(c.url)}">${esc(c.name)}</a></h3><p>${esc(c.line)}</p><div class="mini-chips">${chips}</div></div>`;
 }
 
 function miniCard(c) {
@@ -67,7 +74,7 @@ function miniCard(c) {
     c.mohs ? `<span class="mini-chip tone-green">Hardness ${esc(fmtMohs(c.mohs))}</span>` : '',
     '<span class="mini-chip tone-gold">Full Guide Coming</span>',
   ].join('');
-  return `${c.photo || ''}<div class="atlas-card-body"><h3>${esc(c.name)}</h3>${dots}${c.fact ? `<p>${esc(c.fact)}</p>` : ''}<div class="mini-chips">${chips}</div></div>`;
+  return `${c.cutout || c.photo || ''}<div class="atlas-card-body"><h3>${esc(c.name)}</h3>${dots}${c.fact ? `<p>${esc(c.fact)}</p>` : ''}<div class="mini-chips">${chips}</div></div>`;
 }
 let lastLetter = '';
 ---
@@ -90,7 +97,7 @@ let lastLetter = '';
           {head && <p class="atlas-letter" data-letter={letter}>{letter}</p>}
           {c.guide
             ? <article class="atlas-card is-link" data-letter={letter} data-search={c.search} data-colors={c.colors.join(' ')} data-ints={c.ints.join(' ')} data-hard={c.hard} data-guide="1" set:html={fullCard(c)} />
-            : <article class={['atlas-card', 'is-mini', c.photo ? 'has-photo' : ''].filter(Boolean).join(' ')} data-letter={letter} data-search={c.search} data-colors={c.colors.join(' ')} data-ints={c.ints.join(' ')} data-hard={c.hard} set:html={miniCard(c)} />}
+            : <article class={['atlas-card', 'is-mini', c.cutout ? 'has-cutout' : c.photo ? 'has-photo' : ''].filter(Boolean).join(' ')} data-letter={letter} data-search={c.search} data-colors={c.colors.join(' ')} data-ints={c.ints.join(' ')} data-hard={c.hard} set:html={miniCard(c)} />}
         </Fragment>
       );
     })}

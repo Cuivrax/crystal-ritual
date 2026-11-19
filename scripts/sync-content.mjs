@@ -3,6 +3,7 @@
 //
 //   node scripts/sync-content.mjs            (source defaults to /home/claude/hc)
 //   HC_ROOT=/path/to/hc node scripts/sync-content.mjs
+//   node scripts/sync-content.mjs --photos   (photos, What It Is picks and cut-outs only)
 //
 // The source folder is only read, never written. Pages land in content/pages/,
 // data files in src/data/, and the moon code in src/lib/moon.js. Once the repo copy
@@ -14,6 +15,8 @@ import { colorFamilies } from '../src/lib/colors.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const HC = process.env.HC_ROOT || '/home/claude/hc';
+// --photos copies only the photos, the What It Is picks and the cut-outs (no pages, no data files).
+const ONLY_PHOTOS = process.argv.includes('--photos');
 
 const PAGES_SRC = join(HC, 'content/pages');
 const PAGES_DST = join(ROOT, 'content/pages');
@@ -28,6 +31,23 @@ const DATA_FILES = [
 ];
 const STONE_SHEET_DIRS = ['data_build/stones', 'data_build2/stones'];
 
+function parseCsv(text) {
+  const rows = [];
+  let row = [];
+  let cell = '';
+  let q = false;
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+    if (q) {
+      if (c === '"' && text[i + 1] === '"') { cell += '"'; i++; } else if (c === '"') q = false; else cell += c;
+    } else if (c === '"') q = true;
+    else if (c === ',') { row.push(cell); cell = ''; } else if (c === '\n') { row.push(cell); rows.push(row); row = []; cell = ''; } else if (c !== '\r') cell += c;
+  }
+  if (cell || row.length) { row.push(cell); rows.push(row); }
+  const [head, ...body] = rows;
+  return body.filter((r) => r.length > 1).map((r) => Object.fromEntries(head.map((h, i) => [h, r[i] ?? ''])));
+}
+
 function fail(msg) {
   console.error(`sync-content: ${msg}`);
   process.exit(1);
@@ -37,90 +57,122 @@ if (!existsSync(PAGES_SRC)) fail(`no pages folder at ${PAGES_SRC}`);
 mkdirSync(PAGES_DST, { recursive: true });
 mkdirSync(DATA_DST, { recursive: true });
 
-// 1. Pages, mirrored (a page removed upstream is removed here too).
-const srcPages = readdirSync(PAGES_SRC).filter((f) => f.endsWith('.md'));
-let copied = 0;
-let unchanged = 0;
-for (const f of srcPages) {
-  const from = join(PAGES_SRC, f);
-  const to = join(PAGES_DST, f);
-  const text = readFileSync(from, 'utf8');
-  if (existsSync(to) && readFileSync(to, 'utf8') === text) { unchanged++; continue; }
-  writeFileSync(to, text);
-  copied++;
-}
-const removed = [];
-for (const f of readdirSync(PAGES_DST).filter((x) => x.endsWith('.md'))) {
-  if (!srcPages.includes(f)) { unlinkSync(join(PAGES_DST, f)); removed.push(f); }
-}
-console.log(`pages, ${srcPages.length} in source, ${copied} copied, ${unchanged} unchanged, ${removed.length} removed${removed.length ? ` (${removed.join(', ')})` : ''}`);
+if (!ONLY_PHOTOS) {
+  // 1. Pages, mirrored (a page removed upstream is removed here too).
+  const srcPages = readdirSync(PAGES_SRC).filter((f) => f.endsWith('.md'));
+  let copied = 0;
+  let unchanged = 0;
+  for (const f of srcPages) {
+    const from = join(PAGES_SRC, f);
+    const to = join(PAGES_DST, f);
+    const text = readFileSync(from, 'utf8');
+    if (existsSync(to) && readFileSync(to, 'utf8') === text) { unchanged++; continue; }
+    writeFileSync(to, text);
+    copied++;
+  }
+  const removed = [];
+  for (const f of readdirSync(PAGES_DST).filter((x) => x.endsWith('.md'))) {
+    if (!srcPages.includes(f)) { unlinkSync(join(PAGES_DST, f)); removed.push(f); }
+  }
+  console.log(`pages, ${srcPages.length} in source, ${copied} copied, ${unchanged} unchanged, ${removed.length} removed${removed.length ? ` (${removed.join(', ')})` : ''}`);
 
-// 2. Data files copied as they are.
-for (const [rel, name] of DATA_FILES) {
-  const from = join(HC, rel);
-  if (!existsSync(from)) fail(`missing data file ${from}`);
-  JSON.parse(readFileSync(from, 'utf8')); // fail early on broken JSON
-  copyFileSync(from, join(DATA_DST, name));
-  console.log(`data, ${name} (${Math.round(statSync(from).size / 1024)} KB)`);
+  // 2. Data files copied as they are.
+  for (const [rel, name] of DATA_FILES) {
+    const from = join(HC, rel);
+    if (!existsSync(from)) fail(`missing data file ${from}`);
+    JSON.parse(readFileSync(from, 'utf8')); // fail early on broken JSON
+    copyFileSync(from, join(DATA_DST, name));
+    console.log(`data, ${name} (${Math.round(statSync(from).size / 1024)} KB)`);
+  }
+
+  // 3. The moon code, copied verbatim so its logic stays the tool's logic.
+  const moonFrom = join(HC, 'tools/moon/moon.js');
+  if (!existsSync(moonFrom)) fail(`missing ${moonFrom}`);
+  copyFileSync(moonFrom, join(ROOT, 'src/lib/moon.js'));
+  console.log('code, src/lib/moon.js');
+
 }
 
-// 3. The moon code, copied verbatim so its logic stays the tool's logic.
-const moonFrom = join(HC, 'tools/moon/moon.js');
-if (!existsSync(moonFrom)) fail(`missing ${moonFrom}`);
-copyFileSync(moonFrom, join(ROOT, 'src/lib/moon.js'));
-console.log('code, src/lib/moon.js');
-
-// 4. Checked photos, site/photos/<page-file-name>/hero.jpg with their credits in picks.json.
-//    They land in src/assets/photos/<page-file-name>/ for the image pipeline. _rejected/ and cutouts/ are skipped.
+// 4. Checked photos, site/photos/<page-file-name>/hero.jpg with their credits in picks.json, and the
+//    "What It Is" photos, site/photos/<page-file-name>/what.jpg with their captions in picks_what.json.
+//    They land in src/assets/photos/<page-file-name>/ for the image pipeline. _rejected/, cutouts/,
+//    alt.jpg and *_original files are skipped.
 const PHOTOS_SRC = join(HC, 'site/photos');
 if (existsSync(PHOTOS_SRC)) {
-  const picksFile = join(PHOTOS_SRC, 'picks.json');
-  const picks = existsSync(picksFile) ? JSON.parse(readFileSync(picksFile, 'utf8')) : {};
-  writeFileSync(join(DATA_DST, 'photo_picks.json'), `${JSON.stringify(picks, null, 1)}\n`);
+  for (const [file, out] of [['picks.json', 'photo_picks.json'], ['picks_what.json', 'photo_picks_what.json']]) {
+    const from = join(PHOTOS_SRC, file);
+    const data = existsSync(from) ? JSON.parse(readFileSync(from, 'utf8')) : {};
+    writeFileSync(join(DATA_DST, out), `${JSON.stringify(data, null, 1)}\n`);
+    console.log(`photos, ${file} for ${Object.keys(data).length} pages`);
+  }
   let n = 0;
   for (const dir of readdirSync(PHOTOS_SRC, { withFileTypes: true })) {
     if (!dir.isDirectory() || dir.name.startsWith('_') || dir.name === 'cutouts') continue;
     for (const f of readdirSync(join(PHOTOS_SRC, dir.name))) {
-      if (!/^hero\.(jpe?g|png|webp)$/i.test(f)) continue; // alt.jpg files are not used by the build
+      if (!/^(hero|what)\.(jpe?g|png|webp)$/i.test(f)) continue;
       const to = join(ROOT, 'src/assets/photos', dir.name);
       mkdirSync(to, { recursive: true });
       copyFileSync(join(PHOTOS_SRC, dir.name, f), join(to, f.toLowerCase()));
       n++;
     }
   }
-  console.log(`photos, ${n} checked photo files copied, picks.json for ${Object.keys(picks).length} pages`);
+  console.log(`photos, ${n} checked photo files copied`);
 }
 
-// 5. A slim index of the stone sheets. Only verified values are kept.
-const val = (field) => (field && field.verified && field.value ? field.value : null);
-const stones = {};
-for (const dir of STONE_SHEET_DIRS) {
-  const abs = join(HC, dir);
-  if (!existsSync(abs)) continue;
-  for (const f of readdirSync(abs).filter((x) => x.endsWith('.json')).sort()) {
-    let sheet;
-    try { sheet = JSON.parse(readFileSync(join(abs, f), 'utf8')); } catch { console.warn(`skip broken sheet ${dir}/${f}`); continue; }
-    const slug = sheet.slug || basename(f, '.json');
-    if (stones[slug]) continue; // first folder wins
-    const id = sheet.identity || {};
-    const sys = sheet.systems || {};
-    const mohs = id.mohs && id.mohs.verified && typeof id.mohs.min === 'number'
-      ? { min: id.mohs.min, max: typeof id.mohs.max === 'number' ? id.mohs.max : id.mohs.min }
-      : null;
-    const colors = val(id.colors);
-    stones[slug] = {
-      slug,
-      name: sheet.name || slug,
-      aliases: Array.isArray(sheet.aliases) ? sheet.aliases : [],
-      kind: sheet.kind || null,
-      parent: sheet.parent || null,
-      mohs,
-      colors,
-      colorFamilies: colorFamilies(colors || ''),
-      chakra: val(sys.chakra),
-      birthstone: val(sys.birthstone),
-    };
+// 4b. Cut-out stones (transparent PNGs made in Canva), listed in cutouts.csv. They are shrunk to
+//     480 px WebP with transparency in src/assets/cutouts/<slug>.webp, with their license and
+//     credit in src/data/cutouts.json, for the small images of the Stone Atlas cards.
+const CUTOUTS_SRC = process.env.CUTOUTS_DIR || join(HC, 'pins/launch/cutouts');
+if (existsSync(join(CUTOUTS_SRC, 'cutouts.csv'))) {
+  const sharp = (await import('sharp')).default;
+  const rows = parseCsv(readFileSync(join(CUTOUTS_SRC, 'cutouts.csv'), 'utf8'));
+  const out = {};
+  const dst = join(ROOT, 'src/assets/cutouts');
+  mkdirSync(dst, { recursive: true });
+  for (const r of rows) {
+    const from = join(CUTOUTS_SRC, r.file || `${r.slug}.png`);
+    if (!r.slug || !existsSync(from)) continue;
+    await sharp(from).resize({ width: 480, height: 480, fit: 'inside', withoutEnlargement: true }).webp({ quality: 82, alphaQuality: 90 }).toFile(join(dst, `${r.slug}.webp`));
+    out[r.slug] = { license: r.license || '', credit: r.credit || '', source: r.source || '' };
   }
+  writeFileSync(join(DATA_DST, 'cutouts.json'), `${JSON.stringify(out, null, 1)}\n`);
+  console.log(`cutouts, ${Object.keys(out).length} stones`);
 }
-writeFileSync(join(DATA_DST, 'stones.json'), `${JSON.stringify({ generated: new Date().toISOString().slice(0, 10), count: Object.keys(stones).length, stones }, null, 1)}\n`);
-console.log(`data, stones.json (${Object.keys(stones).length} stone sheets)`);
+
+
+if (!ONLY_PHOTOS) {
+  // 5. A slim index of the stone sheets. Only verified values are kept.
+  const val = (field) => (field && field.verified && field.value ? field.value : null);
+  const stones = {};
+  for (const dir of STONE_SHEET_DIRS) {
+    const abs = join(HC, dir);
+    if (!existsSync(abs)) continue;
+    for (const f of readdirSync(abs).filter((x) => x.endsWith('.json')).sort()) {
+      let sheet;
+      try { sheet = JSON.parse(readFileSync(join(abs, f), 'utf8')); } catch { console.warn(`skip broken sheet ${dir}/${f}`); continue; }
+      const slug = sheet.slug || basename(f, '.json');
+      if (stones[slug]) continue; // first folder wins
+      const id = sheet.identity || {};
+      const sys = sheet.systems || {};
+      const mohs = id.mohs && id.mohs.verified && typeof id.mohs.min === 'number'
+        ? { min: id.mohs.min, max: typeof id.mohs.max === 'number' ? id.mohs.max : id.mohs.min }
+        : null;
+      const colors = val(id.colors);
+      stones[slug] = {
+        slug,
+        name: sheet.name || slug,
+        aliases: Array.isArray(sheet.aliases) ? sheet.aliases : [],
+        kind: sheet.kind || null,
+        parent: sheet.parent || null,
+        mohs,
+        colors,
+        colorFamilies: colorFamilies(colors || ''),
+        chakra: val(sys.chakra),
+        birthstone: val(sys.birthstone),
+      };
+    }
+  }
+  writeFileSync(join(DATA_DST, 'stones.json'), `${JSON.stringify({ generated: new Date().toISOString().slice(0, 10), count: Object.keys(stones).length, stones }, null, 1)}\n`);
+  console.log(`data, stones.json (${Object.keys(stones).length} stone sheets)`);
+
+}

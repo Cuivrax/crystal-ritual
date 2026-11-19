@@ -24,6 +24,9 @@
     unknown: { label: 'Not Enough Data', cls: 'v-unknown', meaning: 'Our sources say nothing yet. Until they do, a dry method like moonlight or sound is the gentle choice.' },
   };
   const ORDER = ['ok', 'brief_only', 'avoid', 'unknown'];
+  // The avoid rating says what to do for each test (owner's wording, 2026-11-19). Keys and colors stay.
+  const AVOID_LABEL = { water: 'Keep Dry', soak: 'No Soaking', sun_light: 'Keep Out of Sun', salt: 'No Salt' };
+  const verdictLabel = (r, field) => (r === 'avoid' && AVOID_LABEL[field]) || VERDICT[r].label;
   const ICON = {
     ok: '<path d="M5 12.5l4.3 4.3L19 7"/>',
     brief_only: '<circle cx="12" cy="12" r="8"/><path d="M12 7.6V12l3 2"/>',
@@ -78,7 +81,7 @@
   };
   const verdictFor = (stone, m) => (m.group === 'dry' ? 'ok' : rating(stone, m.field));
   const icon = (r) => `<svg viewBox="0 0 24 24" aria-hidden="true">${ICON[r]}</svg>`;
-  const pill = (r, small) => `<span class="pill ${VERDICT[r].cls}${small ? ' small' : ''}">${icon(r)}${VERDICT[r].label}</span>`;
+  const pill = (r, small, field) => `<span class="pill ${VERDICT[r].cls}${small ? ' small' : ''}">${icon(r)}${verdictLabel(r, field)}</span>`;
   const countOf = (list) => ORDER.reduce((o, r) => { o[r] = list.filter((x) => x === r).length; return o; }, {});
   const allOf = (n) => (n === 2 ? 'Both of your stones' : `All ${n} of your stones`);
   const joinList = (parts) => (parts.length < 2 ? parts.join('') : parts.length === 2
@@ -139,7 +142,7 @@
         out += n === 1 ? ' A dry method like moonlight or sound is the gentle choice.'
           : ' A dry method like moonlight or sound is the gentle choice for all of them.';
       } else {
-        const marks = [c.avoid ? 'Avoid' : '', c.unknown ? 'Not Enough Data' : ''].filter(Boolean).join(' or ');
+        const marks = [c.avoid ? verdictLabel('avoid', m.field) : '', c.unknown ? 'Not Enough Data' : ''].filter(Boolean).join(' or ');
         out += ` For the ${soft === 1 ? 'one' : 'ones'} marked ${marks}, moonlight or sound is the gentle choice.`;
       }
     }
@@ -363,7 +366,7 @@
     let body = `<p class="line">${esc(cardLine(s, m))}</p>`;
     if (m.group === 'dry') {
       const w = rating(s, 'water');
-      body += `<p class="aside"><span>Water, for comparison</span>${pill(w, true)}</p>`;
+      body += `<p class="aside"><span>Water, for comparison</span>${pill(w, true, 'water')}</p>`;
     } else {
       const c = s.care[m.field] || {};
       if (c.reason && !(r === 'unknown' && c.reason === UNKNOWN_REASON)) body += `<p class="reason">${esc(c.reason)}</p>`;
@@ -373,7 +376,7 @@
       if (r === 'avoid' || r === 'unknown') body += '<p class="gentle">A dry method like moonlight or sound is the gentle choice.</p>';
     }
     return `<article class="card ${VERDICT[r].cls}" data-slug="${esc(s.slug)}" data-verdict="${r}">`
-      + `<div class="card-top"><h3>${stoneTitle(s)}</h3>${pill(r)}</div>${body}</article>`;
+      + `<div class="card-top"><h3>${stoneTitle(s)}</h3>${pill(r, false, m.field)}</div>${body}</article>`;
   }
 
   function renderResults() {
@@ -493,11 +496,11 @@
     if (r === 'unknown') { x.font = `700 24px ${SANS}`; x.textAlign = 'center'; x.textBaseline = 'middle'; x.fillText('?', cx, cy + 1); }
     x.restore();
   }
-  function drawPill(x, r, right, cy) {
+  function drawPill(x, r, right, cy, field) {
     const v = VC[r];
     x.save();
     x.font = `700 25px ${SANS}`;
-    const label = VERDICT[r].label;
+    const label = verdictLabel(r, field);
     const h = 48;
     const w = x.measureText(label).width + 72;
     const X = right - w;
@@ -530,7 +533,7 @@
     x.restore();
     const block = nameSize + 14 + lineSize * 1.15 + lineSize * 1.3 * (lines.length - 1);
     const nameY = Y + (H - block) / 2 + nameSize * 0.8;
-    const pillW = drawPill(x, r, X + W - 26, nameY - nameSize * 0.32);
+    const pillW = drawPill(x, r, X + W - 26, nameY - nameSize * 0.32, m.field);
     x.save();
     let size = nameSize;
     const nameMax = W - 40 - pillW - 50;
@@ -650,7 +653,9 @@
   function boot() {
     if (embed) document.body.classList.add('embed');
     if (!$('#legend')) return;
-    $('#legend').innerHTML = ORDER.map((r) => `<div><dt>${pill(r)}</dt><dd>${esc(VERDICT[r].meaning)}</dd></div>`).join('');
+    $('#legend').innerHTML = ORDER.map((r) => (r === 'avoid'
+      ? `<div><dt class="avoid-pills">${[...new Set(Object.values(AVOID_LABEL))].map((l) => `<span class="pill ${VERDICT.avoid.cls}">${icon('avoid')}${esc(l)}</span>`).join('')}</dt><dd>${esc(VERDICT.avoid.meaning)} The label names the test.</dd></div>`
+      : `<div><dt>${pill(r)}</dt><dd>${esc(VERDICT[r].meaning)}</dd></div>`)).join('');
     if (DATA.generated) {
       const d = new Date(`${DATA.generated}T12:00:00`);
       if (!Number.isNaN(d.getTime())) {

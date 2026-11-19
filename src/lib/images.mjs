@@ -16,6 +16,22 @@ const modules = {
 export const PHOTO_FILES = new Map(Object.entries(modules).map(([k, mod]) => [k, mod.default]));
 export const PHOTO_PATHS = new Set(PHOTO_FILES.keys());
 
+// Cut-out stones (transparent WebP from Canva, synced by scripts/sync-content.mjs), keyed by stone slug.
+const cutoutModules = import.meta.glob('/src/assets/cutouts/*.webp', { eager: true });
+export const CUTOUTS = new Map(Object.entries(cutoutModules).map(([k, mod]) => [k.split('/').pop().replace(/\.webp$/, ''), mod.default]));
+
+/** A small cut-out stone on the card's own background, WebP with transparency, lazy. */
+export async function cutoutHtml(slug, { box = 96, cls = 'cutout' } = {}) {
+  const meta = CUTOUTS.get(slug);
+  if (!meta) return '';
+  const scale = Math.min(1, box / meta.width, box / meta.height);
+  const w1 = Math.max(1, Math.round(meta.width * scale));
+  const widths = [w1, Math.min(meta.width, w1 * 2)].filter((w, i, a) => a.indexOf(w) === i);
+  const img = await getImage({ src: meta, widths, width: Math.max(...widths), format: 'webp', quality: 80 });
+  const h1 = Math.round((meta.height * w1) / meta.width);
+  return `<span class="${esc(cls)}"><img src="${esc(img.src)}" srcset="${esc(img.srcSet.attribute)}" sizes="${w1}px" width="${w1}" height="${h1}" alt="" loading="lazy" decoding="async"></span>`;
+}
+
 /**
  * <picture> for a local image.
  *   ratio, optional [w, h] crop (cover), widths, target widths, sizes, the sizes attribute.

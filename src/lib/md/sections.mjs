@@ -3,7 +3,7 @@ import { el, txt, raw, isEl, isBlank, meaningful, walk, textOf, addClass, hasCla
 import { targetOf } from './transforms.mjs';
 import {
   icon, esc, facetSvg, facetRating, FACET_LABELS, facetsFromLabel, mohsScale, mohsCompare, parseMohs,
-  HOW_WE_RATE_TEXT, facetLegend, INTENTIONS, titleCase, EVIDENCE, h3IconName, RATINGS,
+  HOW_WE_RATE_TEXT, facetLegend, INTENTIONS, titleCase, EVIDENCE, h3IconName, RATINGS, ratingLabel,
 } from '../ui.mjs';
 import { colorSwatches } from '../colors.mjs';
 import { allPageProofsHold } from '../proof.mjs';
@@ -205,7 +205,7 @@ function careTile(f) {
   if (!isEl(first, 'span') || !hasClass(first, 'pill')) return null;
   const cls = (first.properties.className || []).find((c) => /^r-/.test(c));
   const key = { 'r-ok': 'ok', 'r-brief': 'brief_only', 'r-avoid': 'avoid', 'r-unknown': 'unknown' }[cls];
-  const label = key ? RATINGS[key].label : textOf(first);
+  const label = key ? ratingLabel(key, f.low) : textOf(first);
   const rest = f.cell.children.slice(f.cell.children.indexOf(first) + 1).map((n) => ({ ...n }));
   // The words after the rating sit on their own line in the tile, so they start clean (", no source yet" reads "No source yet").
   const lead = rest.find((n) => !isBlank(n));
@@ -391,8 +391,8 @@ function whatBlocks(section, ctx) {
   const extras = ctx.extras || {};
   const text = ctx.page.body || '';
   const nodes = [...section.nodes];
-  let photoCard = '';
-  const at = nodes.findIndex((n) => n.type === 'raw' && n.photoRole && ctx.photoCardHtml?.has(n.photoRole));
+  let photoCard = ctx.whatCardHtml || '';
+  const at = photoCard ? -1 : nodes.findIndex((n) => n.type === 'raw' && n.photoRole && ctx.photoCardHtml?.has(n.photoRole));
   if (at >= 0) { photoCard = ctx.photoCardHtml.get(nodes[at].photoRole); nodes.splice(at, 1); }
   const keys = (extras.keyNumbers || []).filter((k) => allPageProofsHold(text, k.pageProof));
   const chain = extras.chain && allPageProofsHold(text, extras.chain.pageProof) ? extras.chain : null;

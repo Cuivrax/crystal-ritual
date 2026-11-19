@@ -3,7 +3,7 @@
 //   tables, lists, heading ids.
 import { el, txt, raw, isEl, isBlank, meaningful, walk, textOf, addClass, leadStrong, dropLeadStrong, makeSlugger } from './hast.mjs';
 import { internalPath, normalizePath } from '../urls.mjs';
-import { EVIDENCE, FACET_LABELS, facetsFromLabel, facetRating, ratingFromText, RATINGS, icon, esc, titleCase } from '../ui.mjs';
+import { EVIDENCE, FACET_LABELS, facetsFromLabel, facetRating, ratingFromText, RATINGS, ratingLabel, icon, esc, titleCase } from '../ui.mjs';
 
 // ------------------------------------------------------------ comments
 export function toolKeyFor(comment) {
@@ -239,23 +239,30 @@ const RATING_WORD = { ok: 'ok', 'brief only': 'brief_only', avoid: 'avoid', unkn
 export function processTables(tree) {
   walk(tree, (node) => {
     if (!isEl(node, 'table')) return undefined;
-    walk(node, (cell) => {
-      if (!isEl(cell, 'td')) return undefined;
-      const t = textOf(cell).trim();
-      const facets = facetsFromLabel(t);
-      if (facets) { cell.children = [raw(facetRating(facets, { compact: true }))]; return 'skip'; }
-      const first = cell.children.find((c) => !isBlank(c));
-      if (first && first.type === 'text') {
+    // The rating pill names its test, from the column header or, in a Fact table, from the row label.
+    const heads = [];
+    walk(node, (n) => { if (isEl(n, 'thead')) { walk(n, (th) => { if (isEl(th, 'th')) heads.push(textOf(th).trim()); return undefined; }); return 'skip'; } return undefined; });
+    walk(node, (row) => {
+      if (!isEl(row, 'tr')) return undefined;
+      const cells = meaningful(row.children).filter((c) => isEl(c, ['td', 'th']));
+      const rowLabel = cells[0] ? textOf(cells[0]).trim() : '';
+      cells.forEach((cell, i) => {
+        if (!isEl(cell, 'td')) return;
+        const t = textOf(cell).trim();
+        const facets = facetsFromLabel(t);
+        if (facets) { cell.children = [raw(facetRating(facets, { compact: true }))]; return; }
+        const first = cell.children.find((c) => !isBlank(c));
+        if (!first || first.type !== 'text') return;
         const m = CELL_RATING_RX.exec(first.value.trimStart());
-        if (m) {
-          const word = m[1];
-          const r = RATING_WORD[word.toLowerCase()];
-          first.value = first.value.trimStart().slice(m[0].length);
-          const pill = el('span', { className: ['pill', 'is-small', RATINGS[r].cls] }, [txt(titleCase(word.toLowerCase() === 'ok' ? 'OK' : word))]);
-          cell.children.splice(cell.children.indexOf(first), 0, pill, txt(first.value && !/^[,.;]/.test(first.value) ? ' ' : ''));
-          addClass(cell, 'has-pill');
-        }
-      }
+        if (!m) return;
+        const r = RATING_WORD[m[1].toLowerCase()];
+        const head = heads[i] || '';
+        const field = head && !/^(fact|facts|value|details?|answer|what|)$/i.test(head) ? head : rowLabel;
+        first.value = first.value.trimStart().slice(m[0].length);
+        const pill = el('span', { className: ['pill', 'is-small', RATINGS[r].cls] }, [txt(ratingLabel(r, field))]);
+        cell.children.splice(cell.children.indexOf(first), 0, pill, txt(first.value && !/^[,.;]/.test(first.value) ? ' ' : ''));
+        addClass(cell, 'has-pill');
+      });
       return 'skip';
     });
     const wrap = el('div', { className: ['table-wrap'], role: 'region', tabIndex: 0, ariaLabel: 'Table, scrolls sideways on small screens' }, [node]);
@@ -333,7 +340,7 @@ export function processLists(tree) {
         const rating = ratingFromText(textOf({ type: 'root', children: rest }));
         stripRatingWord(rest);
         const head = el('p', { className: ['care-head'] }, [raw(icon(ic)), el('span', {}, [txt(label)])]);
-        const pill = rating ? [el('p', { className: ['care-pill'] }, [raw(`<span class="pill ${RATINGS[rating].cls}">${esc(RATINGS[rating].label)}</span>`)])] : [];
+        const pill = rating ? [el('p', { className: ['care-pill'] }, [raw(`<span class="pill ${RATINGS[rating].cls}">${esc(ratingLabel(rating, `${lead.key} ${label}`))}</span>`)])] : [];
         return el('div', { className: ['care-card'] }, [head, ...pill, el('div', { className: ['care-text'] }, rest)]);
       }))];
     }

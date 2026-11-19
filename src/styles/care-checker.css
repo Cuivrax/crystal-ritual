@@ -193,6 +193,7 @@
 }
 .care-tool .legend div { background: #FFFFFF; border-radius: 18px; padding: 14px 16px; border: 1px solid var(--line); }
 .care-tool .legend dt { margin: 0 0 6px; }
+.care-tool .legend dt.avoid-pills { display: flex; flex-wrap: wrap; gap: 6px; }
 .care-tool .legend dd { margin: 0; color: var(--muted); }
 .care-tool .about p { max-width: 40em; }
 .care-tool .about h2 + p, .care-tool .about .legend + h2 { margin-top: 0; }

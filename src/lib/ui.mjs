@@ -56,6 +56,30 @@ export const RATINGS = {
   unknown: { label: 'Not Enough Data', cls: 'r-unknown' },
 };
 
+// The avoid rating says what to do for each test (owner's wording, 2026-11-19).
+// Keys and colors stay, OK, Brief Only and Not Enough Data keep their labels.
+const AVOID_LABELS = [
+  [/ultrasonic|steam|machine/, 'No Ultrasonic or Steam'],
+  [/soak/, 'No Soaking'],
+  [/water|wash|rinse|\bwet\b/, 'Keep Dry'],
+  [/\bsun|light|\buv\b/, 'Keep Out of Sun'],
+  [/salt/, 'No Salt'],
+  [/heat|\bhot\b|fire/, 'Keep Away From Heat'],
+  [/chemical|acid|cleaner|detergent|perfume|lotion/, 'No Chemicals'],
+  [/toxic/, 'Handle With Care'],
+  [/knock|scratch|wear|fragil|storage|drop/, 'Handle Gently'],
+];
+
+/** The visible label of a rating for a field ("water", "Sun safe", "Long Soak"). */
+export function ratingLabel(key, field = '') {
+  if (key === 'avoid') {
+    const f = String(field || '').toLowerCase();
+    const hit = AVOID_LABELS.find(([rx]) => rx.test(f));
+    if (hit) return hit[1];
+  }
+  return (RATINGS[key] || RATINGS.unknown).label;
+}
+
 /** Reads a rating word at the start of a care sentence. */
 export function ratingFromText(text) {
   const t = String(text || '').trim().toLowerCase();

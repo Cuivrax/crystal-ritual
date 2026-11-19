@@ -6,7 +6,7 @@ import care from '../../data/care.json';
 import plain from '../../data/care_plain.json';
 import { getSite } from '../../lib/site.mjs';
 import { policy } from '../../lib/render.mjs';
-import { RATINGS, esc } from '../../lib/ui.mjs';
+import { RATINGS, ratingLabel, esc } from '../../lib/ui.mjs';
 const site = await getSite();
 const label = (u) => { const h = new URL(u).hostname.replace(/^www\./, ''); return care.hosts?.[h]?.label || h; };
 const rows = [...care.stones].sort((a, b) => a.name.localeCompare(b.name)).map((s) => {
@@ -36,7 +36,7 @@ const counts = Object.fromEntries(Object.keys(RATINGS).map((k) => [k, rows.filte
       <label for="ct-rating">Rinse Rating</label>
       <select id="ct-rating">
         <option value="">All Ratings</option>
-        {Object.entries(RATINGS).map(([k, v]) => <option value={k}>{v.label} ({counts[k]})</option>)}
+        {Object.keys(RATINGS).map((k) => <option value={k}>{ratingLabel(k, 'water')} ({counts[k]})</option>)}
       </select>
     </div>
     <div class="field field-btn"><button type="button" class="btn btn-secondary" id="ct-print">Print the Table</button></div>
@@ -49,8 +49,8 @@ const counts = Object.fromEntries(Object.keys(RATINGS).map((k) => [k, rows.filte
         {rows.map((r) => (
           <tr data-search={r.search} data-rinse={r.rinse.r}>
             <th scope="row">{r.url ? <a href={r.url}>{r.name}</a> : r.name}</th>
-            <td><span class={`pill is-small ${RATINGS[r.rinse.r].cls}`}>{RATINGS[r.rinse.r].label}</span>{r.rinse.r !== 'unknown' && <span class="ct-why">{r.rinse.short}</span>}</td>
-            <td><span class={`pill is-small ${RATINGS[r.soak.r].cls}`}>{RATINGS[r.soak.r].label}</span>{r.soak.r !== 'unknown' && r.soak.short !== r.rinse.short && <span class="ct-why">{r.soak.short}</span>}</td>
+            <td><span class={`pill is-small ${RATINGS[r.rinse.r].cls}`}>{ratingLabel(r.rinse.r, 'water')}</span>{r.rinse.r !== 'unknown' && <span class="ct-why">{r.rinse.short}</span>}</td>
+            <td><span class={`pill is-small ${RATINGS[r.soak.r].cls}`}>{ratingLabel(r.soak.r, 'soak')}</span>{r.soak.r !== 'unknown' && r.soak.short !== r.rinse.short && <span class="ct-why">{r.soak.short}</span>}</td>
           </tr>
         ))}
       </tbody>

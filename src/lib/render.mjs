@@ -6,6 +6,7 @@ import { PHOTO_FILES, PHOTO_PATHS, figureHtml } from './images.mjs';
 import { INTENTIONS } from './ui.mjs';
 import tiers from '../data/source_tiers.json';
 import picks from '../data/photo_picks.json';
+import picksWhat from '../data/photo_picks_what.json';
 import intents from '../data/intent_rankings.json';
 import stonesIndex from '../data/stones.json';
 import stoneExtras from '../data/stone_extras.json';
@@ -20,6 +21,17 @@ export function pickedHero(page) {
   const path = ['jpg', 'jpeg', 'png', 'webp'].map((e) => `/src/assets/photos/${page.id}/hero.${e}`).find((p) => PHOTO_PATHS.has(p));
   if (!path) return null;
   return { path, meta: PHOTO_FILES.get(path), credit: pick.credit, page: pick.page_url || null, license: pick.license || null, alt: pick.alt_text || (pick.visual ? pick.visual.split(/[;.]/)[0].trim() : '') };
+}
+
+/** The checked "What It Is" photo of a stone page, src/assets/photos/<page id>/what.* with its caption from picks_what.json. */
+export function pickedWhat(page) {
+  const pick = picksWhat[page.id];
+  if (!pick) return null;
+  const path = ['jpg', 'jpeg', 'png', 'webp'].map((e) => `/src/assets/photos/${page.id}/what.${e}`).find((p) => PHOTO_PATHS.has(p));
+  if (!path) return null;
+  const caption = String(pick.caption || '').trim();
+  const alt = caption || (pick.visual ? pick.visual.split(/[;.]/)[0].trim() : '');
+  return { role: 'what', path, meta: PHOTO_FILES.get(path), caption: caption ? `${caption.replace(/[.\s]+$/, '')}.` : null, credit: pick.credit || null, page: pick.page_url || null, license: pick.license || null, alt };
 }
 
 /** Photo notes of a page with their files, when the files exist. */
@@ -97,7 +109,11 @@ export async function renderPage(page, site) {
       if (page.type === 'stone' && !photoCardHtml.size) photoCardHtml.set(p.role, await figureHtml(p, p.meta, { variant: 'aside' }));
     }
   }
+  // The What It Is photo card uses the page's checked "what" photo first, then the page's second photo.
+  const what = page.type === 'stone' ? pickedWhat(page) : null;
+  const whatCardHtml = what && what.meta ? await figureHtml(what, what.meta, { variant: 'aside' }) : null;
   const ctx = {
+    whatCardHtml,
     keepHidden: page.type === 'home',
     preview: site.preview,
     isBuilt: site.isBuilt,
