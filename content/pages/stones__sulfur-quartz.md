@@ -1,6 +1,6 @@
 ---
 title: "Sulfur Quartz Meaning & What It Really Is"
-description: "Sulfur quartz is a trade name for Brazilian quartz sold as holding sulfur. What it really is, sulfur vs sulphur, its meaning, dye checks and how to care for it."
+description: "Sulfur quartz is a trade name for quartz sold as Brazilian and as holding sulfur. What it really is, sulfur vs sulphur, its meaning, dye checks and care."
 h1: "Sulfur Quartz Meaning, Properties & What It Really Is"
 url: "/stones/sulfur-quartz/"
 primary_keyword: "sulfur quartz"
@@ -8,7 +8,7 @@ secondary_keywords: []
 author: "Iris Holloway"
 publishDate: "2026-12-16"
 publishTime: "10:20"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://geology.com/minerals/sulfur.shtml"
@@ -33,7 +33,7 @@ sources:
 
 # Sulfur Quartz Meaning, Properties & What It Really Is
 
-Sulfur quartz is a trade name for pale yellow quartz from Brazil that crystal sellers say holds inclusions of native sulfur. Crystal guides tie it to energy, joy and spiritual awareness. The honest note is that its exact makeup is not documented by a gem lab we could find, and stained or dyed quartz can look much the same.
+Sulfur quartz is a trade name for pale yellow quartz that crystal sellers say comes from Brazil and holds inclusions of native sulfur. Crystal guides tie it to energy, joy and spiritual awareness. The honest note is that its exact makeup is not documented by a gem lab we could find, and stained or dyed quartz can look much the same.
 
 <!-- PHOTO TO FIND. HERO, a tumbled or polished sulfur quartz with pale yellow areas visibly inside clear to milky quartz. Nothing in images_candidates.csv, images_commons_candidates.csv or image_picks_new_stones.json. Wikimedia Commons candidate for a second photo only, "File Sulphur-Quartz-201358.jpg" by Robert M. Lavinsky, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Sulphur-Quartz-201358.jpg , described by the dealer as sulphur-included quartz from Rehoboth, Hardap Region, Namibia. It is not the Brazilian trade material, so caption it as a collector specimen if used. Credit line "Photo Robert M. Lavinsky, CC BY-SA 3.0, via Wikimedia Commons". Log visual_check before use. -->
 

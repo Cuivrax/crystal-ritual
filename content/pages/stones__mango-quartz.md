@@ -1,6 +1,6 @@
 ---
 title: "Mango Quartz Meaning & What It Really Is"
-description: "Mango quartz is Colombian quartz with yellow to orange tips, believed to be colored by halloysite clay. What it really is, its meaning, home checks and care."
+description: "Mango quartz is Colombian quartz with yellow to orange tips, believed to be colored by the mineral halloysite. What it really is, its meaning, checks and care."
 h1: "Mango Quartz Meaning, Properties & What It Really Is"
 url: "/stones/mango-quartz/"
 primary_keyword: "mango quartz"
@@ -8,11 +8,10 @@ secondary_keywords: []
 author: "Iris Holloway"
 publishDate: "2026-12-17"
 publishTime: "06:50"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gia.edu/dam/migrated-assets/docs/doc1/spring-2023-gems-gemology-gem-news-international.pdf"
-  - "https://www.handbookofmineralogy.org/pdfs/halloysite.pdf"
   - "https://geology.com/minerals/quartz.shtml"
   - "https://rocktumbler.com/blog/dyed-gemstones/"
   - "https://www.gemsociety.org/article/gemstone-care-guide/"
@@ -30,7 +29,7 @@ sources:
 
 # Mango Quartz Meaning, Properties & What It Really Is
 
-Mango quartz is a trade name for clear to white quartz from Boyacá, Colombia, whose tips glow yellow to orange. GIA's journal says the color is believed to be due to halloysite, a clay mineral. Crystal sellers link it to courage, positivity and new beginnings. The honest note is that even the cause of the color is not yet confirmed.
+Mango quartz is a trade name for clear to white quartz from Boyacá, Colombia, whose tips glow yellow to orange. GIA's journal says the color is believed to be due to the mineral halloysite. Crystal sellers link it to courage, positivity and new beginnings. The honest note is that even the cause of the color is not yet confirmed.
 
 <!-- PHOTO TO FIND, two Wikimedia Commons candidates, writer's look at the thumbnails on 2026-11-21 only, not a logged visual_check. HERO (1) "File Quartz with halloysite inclusions (mango quartz), Boyaca, Colombia.jpg" by Adam Kelliher / Rubble Rock and Gem, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Quartz_with_halloysite_inclusions_(mango_quartz),_Boyaca,_Colombia.jpg , a cluster of quartz points with yellow to orange tips on a white background, described by the uploader as natural and untreated. Credit line "Photo Adam Kelliher / Rubble Rock and Gem, CC BY-SA 4.0, via Wikimedia Commons". PHOTO 2 (2) "File Quartz with halloysite 1.jpg" by Géry Parent, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Quartz_with_halloysite_1.jpg , clear points with yellow tips on an orange-brown earthy matrix, black background, locality Cabiche, Quípama Municipality, Boyacá, Colombia. Credit line "Photo Géry Parent, CC BY-SA 4.0, via Wikimedia Commons". Three more photos by the same author from the same locality (Quartz with halloysite 2, 3 and 4). Log visual_check before use. -->
 
@@ -39,18 +38,18 @@ Mango quartz is a trade name for clear to white quartz from Boyacá, Colombia, w
 | Fact | Mango quartz |
 |---|---|
 | What it is | A trade name for quartz with yellow to orange color toward its tips |
-| Color cause | Believed to be inclusions of halloysite, a clay mineral |
+| Color cause | Believed to be due to the mineral halloysite |
 | Mineral status | Not a species. Quartz is an approved species on the IMA List of Minerals |
 | Host mineral | Quartz, SiO₂, Mohs 7 |
-| Inclusion | Halloysite, Al₂Si₂O₅(OH)₄, Mohs 2 to 2.5 |
+| Inclusion | Halloysite, described by sellers as a clay mineral |
 | Source | Boyacá, Colombia. Sellers name Cabiche, in Quípama |
 | On the market since | 2020, according to sellers |
 | Other names | Halloysite quartz, corona quartz |
 | Treatments | None reported |
 | Water | OK for a quick wash, soaks Brief only |
 | Sun | Unknown |
-| Heat | Unknown for the clay, keep it away from heat |
-| Chemicals | Unknown for the clay, skip them |
+| Heat | Unknown for the inclusions, keep it away from heat |
+| Chemicals | Unknown for the inclusions, skip them |
 | Salt | Unknown |
 | Toxic to handle | No, as quartz. Cutting dust is a silica hazard |
 | Price range | Set by color, clarity and form (see Price Guide) |
@@ -61,14 +60,14 @@ Mango quartz is a trade name for clear to white quartz from Boyacá, Colombia, w
 
 ## What Mango Quartz Actually Is
 
-**The Stone.** Mango quartz is quartz with a fruit name. At the 2023 Tucson shows, *Gems & Gemology*, the journal of the Gemological Institute of America, pictured a spray of "mango" quartz about 3.6 by 4.1 inches (92 by 103 mm) from Boyacá, Colombia, and wrote that "the yellow coloration is believed to be due to the mineral halloysite." Sellers describe clear to white quartz points and clusters with yellow to orange tips, and one calls the clay inclusions the cause of the color.
+**The Stone.** Mango quartz is quartz with a fruit name. At the 2023 Tucson shows, *Gems & Gemology*, the journal of the Gemological Institute of America, pictured a spray of "mango" quartz about 3.6 by 4.1 inches (92 by 103 mm) from Boyacá, Colombia, and wrote that "the yellow coloration is believed to be due to the mineral halloysite." Sellers describe clear to white quartz points and clusters with yellow to orange tips, and one calls halloysite inclusions the cause of the color.
 
-The two minerals could hardly be more different.
+Here is what each mineral is.
 
 - **Quartz** is silicon dioxide, rated 7 on the Mohs scale, which ranks scratch resistance from 1 to 10. It is chemically inert in contact with most substances.
-- **Halloysite** is a clay mineral, Al₂Si₂O₅(OH)₄, the same formula as kaolinite in a different structure. Under a microscope it forms tiny tubes. It rates only 2 to 2.5, and it forms when minerals such as feldspar are altered by hot fluids or by weathering.
+- **Halloysite** is the mineral GIA names. Crystal sellers describe it as a clay mineral made mainly of aluminum and silicon, forming very fine tubes inside the quartz.
 
-Pure halloysite is white, and its yellow, red and other colors come from impurities inside it, so the exact cause of the mango color is not settled.
+Sellers themselves say research on the inclusions is still going on, so the exact cause of the mango color is not settled.
 
 ### Where Mango Quartz Comes From
 
@@ -80,7 +79,7 @@ From Boyacá, Colombia. Sellers name the locality as Cabiche, in the municipalit
 
 ## What People Use Mango Quartz for Today
 
-**Modern Association.** Crystal sellers describe it as a stone for courage, positivity and resilience, for transformation and determination, and for letting go to make room for new opportunities. One shop says it purifies your thoughts so you can stay true to yourself, and another links it to all chakras. These are beliefs, and none of them has been tested.
+**Modern Association.** Crystal sellers describe it as a stone for courage, positivity and resilience, for transformation and determination, and for letting go to make room for new opportunities. One shop says it purifies your thoughts so you can stay true to yourself, and another links it to all chakras. These are beliefs, not tested findings.
 
 ## How to Use Mango Quartz in Everyday Life
 
@@ -98,7 +97,7 @@ From Boyacá, Colombia. Sellers name the locality as Cabiche, in the municipalit
 
 ### Is Mango Quartz Natural?
 
-Yes, as far as anyone has reported. Sellers offer it as natural and untreated, and we found no report of dyed, heated or coated mango quartz.
+Yes, as far as we could find. Sellers offer it as natural, and we found no report of dyed, heated or coated mango quartz.
 
 - **Natural, untreated.** The material GIA pictured and sellers describe.
 - **Natural, treated.** None reported. Quartz in general can be dyed by heating it and quenching it in a dye bath, which leaves color in a web of fine cracks.
@@ -124,13 +123,13 @@ Under the US Federal Trade Commission's Jewelry Guides, a seller should disclose
 
 ## How to Care for Mango Quartz
 
-**Mineral Fact.** The host is quartz, hard and stable. The color sits in a soft clay. Mango quartz has no entry of its own in our Care Checker, so the ratings below start from [clear quartz](/stones/clear-quartz/) and add cautions for the clay.
+**Mineral Fact.** The host is quartz, hard and stable. The color is believed to come from inclusions of halloysite, a different mineral. Mango quartz has no entry of its own in our Care Checker, so the ratings below start from [clear quartz](/stones/clear-quartz/) and add cautions for the inclusions.
 
 - **Water.** OK for a quick wash, as for quartz.
 - **Soaking.** Brief only. Care guidance for quartz covers washing, not a long soak.
 - **Sun.** Unknown, so skip the sunny windowsill, the cautious choice.
-- **Heat.** Unknown for the clay. Quartz is very resistant to heat, but the clay is unrated, so keep it away from heaters and flames, the cautious choice.
-- **Chemicals.** Unknown for the clay, though quartz itself resists most chemicals. Skip household cleaners.
+- **Heat.** Unknown for the inclusions. Quartz is very resistant to heat, but halloysite is unrated, so keep it away from heaters and flames, the cautious choice.
+- **Chemicals.** Unknown for the inclusions, though quartz itself resists most chemicals. Skip household cleaners.
 - **Salt.** Unknown, so skip salt.
 - **Cleaning machines.** Skip ultrasonic and steam cleaners, the cautious choice for a stone with inclusions.
 - **Storage.** OK for quartz. Wrap each point on its own so the tips do not knock together.
@@ -151,7 +150,7 @@ A quick wash, yes. A long soak, no, since our care data for quartz covers washin
 - **Citrine.** Yellow quartz sold under its own name. See [citrine](/stones/citrine/).
 - **Tangerine quartz.** Another orange quartz sold under its own name. See [tangerine quartz](/stones/tangerine-quartz/).
 - **Golden healer quartz.** A yellow quartz trade name of its own. See [golden healer quartz](/stones/golden-healer-quartz/).
-- **Sulfur quartz.** Pale yellow quartz from Brazil, sold as holding sulfur. See [sulfur quartz](/stones/sulfur-quartz/).
+- **Sulfur quartz.** Pale yellow quartz sold as Brazilian and as holding sulfur. See [sulfur quartz](/stones/sulfur-quartz/).
 
 All of them belong to the big [quartz](/stones/quartz/) family.
 
@@ -169,7 +168,6 @@ We have no price data for mango quartz yet, so here is what moves the price.
 ## Sources
 
 - *Gems & Gemology*, Spring 2023, Gem News International, "2023 Tucson Photo Gallery," [GIA PDF](https://www.gia.edu/dam/migrated-assets/docs/doc1/spring-2023-gems-gemology-gem-news-international.pdf)
-- Handbook of Mineralogy, Mineral Data Publishing, [Halloysite](https://www.handbookofmineralogy.org/pdfs/halloysite.pdf)
 - Hobart M. King, Geology.com, [Quartz](https://geology.com/minerals/quartz.shtml)
 - Hobart M. King, RockTumbler.com, [Dyed Tumbled Stones](https://rocktumbler.com/blog/dyed-gemstones/)
 - International Gem Society, [Gemstone Care Guide](https://www.gemsociety.org/article/gemstone-care-guide/)

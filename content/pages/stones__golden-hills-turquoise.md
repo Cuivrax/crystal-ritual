@@ -8,7 +8,7 @@ secondary_keywords: []
 author: "Iris Holloway"
 publishDate: "2026-12-10"
 publishTime: "07:37"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://geology.com/minerals/turquoise.shtml"
@@ -18,6 +18,8 @@ sources:
   - "https://www.gia.edu/gems-gemology/fall-2015-gemnews-impregnated-dyed-turquoise"
   - "https://www.doi.gov/sites/doi.gov/files/uploads/iacb_turquoise_tri_fold_2018_web.pdf"
   - "https://doi.org/10.2478/logos-2020-0013"
+  - "https://www.jckonline.com/editorial-article/britts-pick-ophelia-hannah-blount/"
+  - "https://nationaljeweler.com/articles/15052-post-vegas-jewelry-trend-report-big-beads-western-flair-white-metals"
   - "https://www.govinfo.gov/content/pkg/CFR-2024-title16-vol1/xml/CFR-2024-title16-vol1-part23.xml"
   - "https://www.americangemsociety.org/birthstones/"
   - "https://www.gutenberg.org/ebooks/57978"
@@ -27,7 +29,7 @@ sources:
 
 # Golden Hills Turquoise Meaning, Properties & What It Really Is
 
-Golden Hills turquoise is a trade name for bright blue stone with a lavender undertone, sold as turquoise. One seller says it comes from the Altyn-Tyube area of Kazakhstan. No gem lab we could find documents the name or the material's makeup, so treat Golden Hills as a seller's label. The meanings attached to it are those of turquoise in general.
+Golden Hills turquoise is a trade name for bright blue stone with a lavender undertone, sold as turquoise. The jewelry trade magazine JCK has described it as turquoise from Kazakhstan, and one seller places its original mine in the Altyn-Tyube area there. No gem lab we could find documents the name or the material's makeup, so treat Golden Hills as a seller's label. The meanings attached to it are those of turquoise in general.
 
 <!-- PHOTO TO FIND, hero. No golden hills turquoise rows in images_candidates.csv, images_commons_candidates.csv or image_picks_new_stones.json. A product photo from a seller cannot be used. If the owner buys a piece, photograph it with the receipt that names the seller's stated mine and treatment. Never use a generic turquoise photo labeled Golden Hills. -->
 
@@ -37,7 +39,7 @@ Golden Hills turquoise is a trade name for bright blue stone with a lavender und
 |---|---|
 | What it is | A trade name, sold as turquoise. Not described by a gem lab we could find |
 | Also sold as | Golden Hill turquoise, lavender turquoise |
-| Claimed origin | The Altyn-Tyube area, Kazakhstan (one seller's claim) |
+| Claimed origin | Kazakhstan, as named in JCK, a jewelry trade magazine. The Altyn-Tyube area is one seller's claim |
 | Color (seller description) | Bright blue with a lavender undertone, sometimes with spiderweb matrix |
 | If it is turquoise | A hydrous copper aluminum phosphate, CuAl₆(PO₄)₄(OH)₈(H₂O)₄ |
 | Mohs hardness (turquoise) | 5 to 6, often lower when porous |
@@ -60,7 +62,7 @@ Golden Hills turquoise is a trade name for bright blue stone with a lavender und
 
 The origin story comes from one turquoise seller. It says Altyn-Tyube means "Golden Hill" in Kazakh, and that the original Golden Hill mine lies in that mountain range, with a second "Lavender" mine about 200 miles farther south. The same seller says rough from the two mines gets mixed and is generally marketed as Golden Hill turquoise, and that first batches reached the US market some 30 to 35 years ago. Around 2015, it says, lavender turquoise from Kazakhstan caused a stir at the Tucson gem show, where skeptics called it dyed or doubted it was turquoise at all. It adds that lab testing "has since confirmed it's the real deal," without naming the lab or the results.
 
-Here is what is documented. Turquoise does come from Kazakhstan. Sky-blue turquoise with chocolate-brown matrix is known from the Altyn-Tyube Mine, and turquoise also comes from the Zyryanovsk mine in eastern Kazakhstan.
+Here is what is documented. Turquoise does come from Kazakhstan. Sky-blue turquoise with chocolate-brown matrix is known from the Altyn-Tyube Mine, and turquoise also comes from the Zyryanovsk mine in eastern Kazakhstan. The Golden Hills name is used in the US jewelry trade too. In 2021 JCK described a one-of-a-kind ring set with "7.05 ct. Kazakhstan Golden Hills turquoise," and in 2026 National Jeweler listed two rings with Golden Hills turquoise among the pieces seen at the Las Vegas jewelry shows. These are jewelry captions, not lab reports.
 
 So the honest label for a stone that has not been tested is "sold as Golden Hills turquoise, origin as stated by the seller." It also helps to know that some material sold as turquoise is actually another mineral of the turquoise group, since these minerals are so similar.
 
@@ -151,6 +153,8 @@ For Golden Hills, the price you pay should match what the seller will put in wri
 - *Gems & Gemology*, Fall 2015, [Impregnated and Dyed Turquoise](https://www.gia.edu/gems-gemology/fall-2015-gemnews-impregnated-dyed-turquoise)
 - US Department of the Interior, Indian Arts and Crafts Board, [Turquoise brochure](https://www.doi.gov/sites/doi.gov/files/uploads/iacb_turquoise_tri_fold_2018_web.pdf) (2018)
 - Jiri Chlachula, "Gemstones of Eastern Kazakhstan," *Geologos* 26(2), 2020, [doi.org/10.2478/logos-2020-0013](https://doi.org/10.2478/logos-2020-0013)
+- Brittany Siminitz, "Britt's Pick" column, *JCK*, July 20, 2021, [jckonline.com](https://www.jckonline.com/editorial-article/britts-pick-ophelia-hannah-blount/)
+- Natalie Francisco, "Post-Vegas Jewelry Trend Report, Big Beads, Western Flair, White Metals," *National Jeweler*, June 16, 2026, [nationaljeweler.com](https://nationaljeweler.com/articles/15052-post-vegas-jewelry-trend-report-big-beads-western-flair-white-metals)
 - Federal Trade Commission, Guides for the Jewelry, Precious Metals, and Pewter Industries, 16 CFR Part 23, [govinfo.gov](https://www.govinfo.gov/content/pkg/CFR-2024-title16-vol1/xml/CFR-2024-title16-vol1-part23.xml)
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
 - George Frederick Kunz, *The Curious Lore of Precious Stones* (1913), pages 73, 109, 111 and 113 to 114, [Project Gutenberg 57978](https://www.gutenberg.org/ebooks/57978)

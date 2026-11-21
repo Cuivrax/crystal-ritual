@@ -8,7 +8,7 @@ secondary_keywords: []
 author: "Iris Holloway"
 publishDate: "2026-12-09"
 publishTime: "10:34"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/painite-jewelry-and-gemstone-information/"
@@ -151,7 +151,7 @@ The [Label Decoder](/tools/crystal-label-decoder/) turns a tag into questions li
 
 ## Price Guide
 
-Painite's price follows rarity, color, clarity and size. Eye-clean stones are scarce because the rough is so fractured, and most recovered material cannot be faceted at all. One gem marketplace says the best stones are deep red or vibrant garnet red, and that raw crystals too poor to cut sell for a tiny fraction of faceted prices. Before 2005, gem-quality painite reportedly sold for up to $60,000 a carat, according to the University of Utah's Energy & Geoscience Institute, and the price has dropped since as more material reached the market.
+Painite's price follows rarity, color, clarity and size. Eye-clean stones are scarce because the rough is so fractured, and most recovered material cannot be faceted at all. One gem marketplace says the best stones are deep red or vibrant garnet red, and that raw crystals too poor to cut sell for a tiny fraction of faceted prices.
 
 For any faceted painite, the lab report is part of the value. Without one you may be paying a rare-gem price for a garnet or a ruby.
 
@@ -166,7 +166,7 @@ For any faceted painite, the lab report is part of the value. Without one you ma
 - International Year of Crystallography 2014, [A Formerly Very Exclusive Mineral, Painite](https://www.iycr2014.org/learn/crystallography365/articles/20140706)
 - Donald Clark and Joel E. Arem, International Gem Society, [Glass](https://www.gemsociety.org/article/glass), updated February 22, 2021
 - Gemological Institute of America, [Gem Imitations](https://www.gia.edu/gem-imitation)
-- Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
+- Modern associations and seller claims as described in popular crystal books and guides, see [How We Rate](/sources/)
 
 Last reviewed November 2026.
 

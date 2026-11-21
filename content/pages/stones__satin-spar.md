@@ -9,7 +9,7 @@ secondary_keywords:
 author: "Iris Holloway"
 publishDate: "2026-12-12"
 publishTime: "05:33"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/gypsum-jewelry-and-gemstone-information/"

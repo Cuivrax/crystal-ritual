@@ -8,7 +8,7 @@ secondary_keywords: []
 author: "Iris Holloway"
 publishDate: "2026-12-14"
 publishTime: "10:10"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/jasper-gem-information/"
@@ -28,7 +28,7 @@ sources:
 
 # Maligano Jasper Meaning, Properties & What It Really Is
 
-Maligano jasper is a trade name, and its exact makeup is not documented by any gem lab or reference work we could find. Crystal sellers describe it as a brecciated jasper from Sulawesi, Indonesia, made of broken and re-healed fragments in red, orange, gray and blue. They call it grounding and protective, which is a modern belief.
+Maligano jasper is a trade name, and its exact makeup is not documented by any gem lab or reference work we could find. It is sold as a brecciated jasper, a stone of broken and re-healed fragments, said to come from Sulawesi, Indonesia. Like jasper in general, it is linked with grounding and protection, which are modern beliefs.
 
 <!-- PHOTO TO FIND, hero. Our image files have 0 maligano jasper rows (images_candidates.csv, images_commons_candidates.csv and image_picks_new_stones.json). Do not use a generic jasper or brecciated jasper photo, since the point of the page is that the name covers a specific material. Options are a photo taken by the owner of a piece bought with its label, or written permission from a dealer. Alt text suggestion "Polished maligano jasper with red and orange fragments in gray and blue veins". -->
 
@@ -36,10 +36,8 @@ Maligano jasper is a trade name, and its exact makeup is not documented by any g
 
 | Fact | Maligano jasper |
 |---|---|
-| What it is | A trade name. Sellers describe a brecciated jasper with agate-filled cracks. No gem lab description we could find |
-| Named for | The village of Maligano in Southeast Sulawesi, Indonesia, according to sellers |
-| On the market since | Around 2011 to 2012, according to sellers |
-| Colors | Red, orange, yellow, gray, blue and beige, with gray veins, according to sellers |
+| What it is | A trade name, sold as a brecciated jasper. No gem lab description we could find |
+| Named for | Maligano in Southeast Sulawesi, Indonesia, according to sellers |
 | If it is jasper | Opaque, very fine-grained quartz, Mohs 7, specific gravity 2.55 to 2.91 (jasper in general) |
 | Treatments | Not documented for this stone. Jasper in general is often dyed and heated |
 | Water | Not Enough Data. A quick rinse is the cautious choice |
@@ -50,17 +48,13 @@ Maligano jasper is a trade name, and its exact makeup is not documented by any g
 | Scratches and storage | Not Enough Data. Jasper in general is hardy enough for all jewelry uses |
 | Toxic to handle | Not Enough Data |
 | Birthstone | None on the modern US list |
-| Chakra (Modern Association) | One seller lists all seven |
+| Chakra (Modern Association) | Root, as for jasper in general |
 
 > **Is It Real? Quick Checks.** No home test can prove a stone is maligano jasper. What you can check is the pattern (angular fragments held together by veins), whether it stays opaque against a flashlight, and whether the colors look natural. Buy from a seller who names the place it was mined.
 
 ## What Maligano Jasper Actually Is
 
-**The Stone.** Maligano jasper is a name from the stone trade, and the descriptions all come from sellers.
-
-- **One mineral dealer** calls it a brecciated jasper found only in Maligano, formed when fractured jasper was cemented back together by silica-rich water, with small pockets of drusy quartz (a crust of tiny sparkling crystals).
-- **A crystal reference site run by sellers** describes several colors of jasper with veins of grayish-silver agate filling the cavities, and dates the find to around 2011 or 2012.
-- **Another dealer** says it comes from the hot spring systems of ancient volcanoes and points to its dendrites, small branching growths that look like trees or shrubs.
+**The Stone.** Maligano jasper is a name from the stone trade, and every description of it comes from sellers, who sell it as a brecciated jasper.
 
 **Jasper** is an opaque, solid or patterned form of quartz made of crystals far too small to see, colored by other minerals. **Breccia** is a rock made of angular fragments, the spaces between them filled with smaller particles and a mineral cement. A brecciated jasper is jasper that looks like that, broken pieces held together in a different material.
 
@@ -68,22 +62,22 @@ Jasper names come from colors, patterns and places, and one gem dealer warns tha
 
 ### Where Maligano Jasper Comes From
 
-Sellers say it is named after Maligano, a small village in Southeast Sulawesi, Indonesia, and that it is found only there. One seller wrote in July 2020 that the stone had yet to take off on the market and that only small amounts were mined. Ask where your piece was mined.
+Sellers say it is named after Maligano in Southeast Sulawesi, Indonesia. We found no geological description of the deposit, so ask where your piece was mined.
 
 ## Where the Meaning Comes From
 
-**The Story.** Maligano jasper was found, sellers say, only around 2011, so it has no old lore of its own. What it inherits is the long story of jasper.
+**The Story.** Maligano jasper has no old lore of its own under this name. What it inherits is the long story of jasper.
 
 - **Middle Ages.** **Tradition.** Bartholomaeus Anglicus wrote that jasper "hath as many vertues as dyvers coloures and veines." Kunz explains that color mattered as much as chemistry to old writers, so the many colors and markings of jaspers pointed to many uses (*The Curious Lore of Precious Stones*, 1913, page 91).
-- **Today.** **Modern Association.** Grounding, protection, harmony and balance, written by crystal sellers in recent years.
+- **Today.** **Modern Association.** Grounding and protection, as for jasper in general.
 
 ## What People Use Maligano Jasper for Today
 
 ### What Does Maligano Jasper Mean?
 
-**Modern Association.** Crystal sellers describe maligano jasper as grounding, protective and calming. One jewelry maker's guide says it is believed to repel negativity and bring harmony, balance and stability through life changes. A seller's reference site links it to every chakra, to Virgo and to the earth element, along with a long list of qualities. Across modern crystal guides, jasper as a family is Widely Linked with [protection](/crystals-for/protection/) and [grounding](/crystals-for/grounding/), and maligano jasper's meanings follow that pattern.
+**Modern Association.** Across modern crystal guides, jasper as a family is Widely Linked with [protection](/crystals-for/protection/) and [grounding](/crystals-for/grounding/) and Often Linked with calm in anxious moments. Sellers give maligano jasper the same meanings.
 
-The "why" is mostly the look. Sellers compare its patterns to landscapes, rivers and small trees, and an earthy, rock-like stone reads as steady. Some pages also promise physical healing. Nothing in the mineral sources behind this page supports that.
+The "why" is mostly the look. An earthy, rock-like stone reads as steady. Some pages also promise physical healing. Nothing in the mineral sources behind this page supports that.
 
 ## How to Use Maligano Jasper in Everyday Life
 
@@ -97,7 +91,7 @@ The "why" is mostly the look. Sellers compare its patterns to landscapes, rivers
 
 **What Research Says.** In a lab experiment on a long, dull visual task, people who briefly switched to a second task now and then kept their performance steady, while those who stayed on the main task without a break got steadily worse (Ariga and Lleras, *Cognition*, 2011, [doi.org/10.1016/j.cognition.2010.12.007](https://doi.org/10.1016/j.cognition.2010.12.007)). It was a short lab task, the break was another task rather than a rest, and nothing in it involved stones. Applying it to a desk stone is our extrapolation.
 
-> **When a Stone Is Not Enough.** Some sellers suggest maligano jasper for stress, anxiety and healing. A stone can be a pleasant object to hold, but it is not care. If stress or anxiety lasts, talk to a doctor or a therapist. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
+> **When a Stone Is Not Enough.** Jaspers are often chosen for stress and anxiety, and some sellers suggest them for healing. A stone can be a pleasant object to hold, but it is not care. If stress or anxiety lasts, talk to a doctor or a therapist. If you are in crisis or thinking about suicide, call or text 988, or chat at [988lifeline.org](https://988lifeline.org/), any time, day or night, in the United States. In an emergency, call 911.
 
 ## Is My Maligano Jasper Real?
 
@@ -110,7 +104,7 @@ The "why" is mostly the look. Sellers compare its patterns to landscapes, rivers
 ### Three Checks at Home, With Their Limits
 
 1. **Read the pattern with a 10x loupe.** Look for angular fragments of color held together by gray veins. That tells you it is a breccia. It does not tell you where it was mined.
-2. **Shine a flashlight through a thin edge.** In a dim room, press a phone light to the edge. Jasper stays dark. Veins that glow faintly may be agate, as sellers describe. A whole stone that glows is not textbook jasper.
+2. **Shine a flashlight through a thin edge.** In a dim room, press a phone light to the edge. Jasper stays dark. Veins that glow faintly may be chalcedony, a translucent form of quartz that can cement jasper fragments. A whole stone that glows is not textbook jasper.
 3. **Judge the colors.** Electric blue, purple or neon shades are a reason to ask about dye. Subtle dye needs a gemologist, who can use a spectroscope or a Chelsea filter, a small color filter used in gem testing.
 
 Four questions for the seller. Where exactly was it mined? Has it been dyed, heated or stabilized? Has anyone tested it? Would you call it jasper, agate or breccia, and why? The [Label Decoder](/tools/crystal-label-decoder/) helps with trade names like this one.
@@ -129,7 +123,7 @@ Four questions for the seller. Where exactly was it mined? Has it been dyed, hea
 
 ### How to Clean Maligano Jasper at Home
 
-1. **Dust it.** A soft, dry brush lifts grit out of veins and drusy pockets.
+1. **Dust it.** A soft, dry brush lifts grit out of veins and pits.
 2. **Rinse briefly.** If it is grimy, hold it under lukewarm running water for a few seconds and wipe with a soft cloth. No soap on a piece you suspect is dyed.
 3. **Dry it at once.** Pat it with a towel, then leave it on the towel for an hour so water drains out of cracks and pockets.
 
@@ -138,12 +132,12 @@ Check your other stones in the [Care Checker](/tools/crystal-care-checker/), whi
 ## Maligano Jasper vs Look-Alikes
 
 - **Brecciated jasper.** The general name for jasper fragments naturally cemented together. Maligano jasper is sold as one type of it. See [brecciated jasper](/stones/brecciated-jasper/).
-- **Picture jasper.** Jasper with scenic, picture-like patterns, a look sellers also see in maligano jasper. See [picture jasper](/stones/picture-jasper/).
+- **Picture jasper.** Jasper with scenic, picture-like patterns. See [picture jasper](/stones/picture-jasper/).
 - **Opal jasper.** A brecciated jasper in which the cementing material is opal.
 
 ## Price Guide
 
-Jaspers in general are very common, so most of the value lies in the strength of the color, the beauty of the pattern and the skill of the cutting, and a few rarer types command premium prices. One seller wrote in 2020 that maligano jasper cabochons cost more than usual because the rough is scarce. Pay for a crisp pattern and good polish, and ask where the stone was mined before paying extra for the name. We found no current US listing for maligano jasper with a clear price and size, so this guide gives no figures.
+Jaspers in general are very common, so most of the value lies in the strength of the color, the beauty of the pattern and the skill of the cutting, and a few rarer types command premium prices. Pay for a crisp pattern and good polish, and ask where the stone was mined before paying extra for the name. We found no current US listing for maligano jasper with a clear price and size, so this guide gives no figures.
 
 **Next Step.** Want the whole family? Start with [jasper](/stones/jasper/) and compare the usual picks in [crystals for grounding](/crystals-for/grounding/).
 
@@ -156,7 +150,7 @@ Jaspers in general are very common, so most of the value lies in the strength of
 - A. Ariga and A. Lleras, *Cognition* (2011), [doi.org/10.1016/j.cognition.2010.12.007](https://doi.org/10.1016/j.cognition.2010.12.007)
 - 988 Suicide & Crisis Lifeline contact details from [988lifeline.org](https://988lifeline.org/) and [SAMHSA](https://www.samhsa.gov/mental-health/988)
 - American Gem Society, [Birthstones](https://www.americangemsociety.org/birthstones/)
-- Dealer and seller descriptions of maligano jasper's origin, structure, discovery date and supply, and a dealer reference on jasper trade names
+- Seller descriptions of maligano jasper, and a dealer reference on jasper trade names
 - Modern associations as described in popular crystal books and guides, rated on our five-facet scale, see [How We Rate](/sources/)
 
 Last reviewed November 2026.

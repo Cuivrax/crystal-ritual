@@ -1,6 +1,6 @@
 ---
 title: "Cotton Candy Agate Meaning & What It Really Is"
-description: "Cotton candy agate is a trade name for pink Mexican stone sold as brecciated jasper and chalcedony. What it really is, its meaning, dye checks and safe care."
+description: "Cotton candy agate is a trade name for pink stone sold as Mexican brecciated jasper and chalcedony. What it really is, its meaning, dye checks and safe care."
 h1: "Cotton Candy Agate Meaning, Properties & What It Really Is"
 url: "/stones/cotton-candy-agate/"
 primary_keyword: "cotton candy agate"
@@ -8,7 +8,7 @@ secondary_keywords: []
 author: "Iris Holloway"
 publishDate: "2026-12-15"
 publishTime: "08:35"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gemsociety.org/article/agate-gem-information/"

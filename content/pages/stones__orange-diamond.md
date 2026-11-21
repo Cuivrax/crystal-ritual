@@ -8,7 +8,7 @@ secondary_keywords: []
 author: "Iris Holloway"
 publishDate: "2026-12-11"
 publishTime: "07:04"
-status: "draft"
+status: "verified"
 page_type: "stone"
 sources:
   - "https://www.gia.edu/gems-gemology/summer-2020-naturally-colored-yellow-orange-diamonds"
