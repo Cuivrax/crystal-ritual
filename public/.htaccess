@@ -24,6 +24,11 @@ AddDefaultCharset UTF-8
   # Hidden files stay hidden, except .well-known (certificates, verification files).
   RewriteRule (^|/)\.(?!well-known/) - [F]
 
+  # A section folder whose hub page is not published yet (/zodiac/, /care/ ...) answers 404, not 403.
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteCond %{REQUEST_FILENAME}/index.html !-f
+  RewriteRule ^ - [R=404,L]
+
   # Every page URL ends with a slash, /stones/amethyst becomes /stones/amethyst/.
   RewriteCond %{REQUEST_METHOD} =GET [OR]
   RewriteCond %{REQUEST_METHOD} =HEAD
