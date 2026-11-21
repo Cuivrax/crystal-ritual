@@ -14,8 +14,8 @@ secondary_keywords:
   - "blue quartz types"
   - "siberian blue quartz"
 author: "Iris Holloway"
-publishDate: "2026-12-25"
-publishTime: "06:19"
+publishDate: "2027-01-29"
+publishTime: "08:07"
 status: "verified"
 page_type: "stone"
 sources:

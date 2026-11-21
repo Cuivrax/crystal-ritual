@@ -7,8 +7,8 @@ primary_keyword: "larvikite"
 secondary_keywords:
   - "larvikite meaning"
 author: "Iris Holloway"
-publishDate: "2027-01-05"
-publishTime: "14:30"
+publishDate: "2027-01-25"
+publishTime: "06:16"
 status: "verified"
 page_type: "stone"
 sources:

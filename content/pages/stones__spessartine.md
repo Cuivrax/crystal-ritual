@@ -13,8 +13,8 @@ secondary_keywords:
   - "spessartine healing properties"
   - "flame spessartine"
 author: "Iris Holloway"
-publishDate: "2027-01-18"
-publishTime: "18:43"
+publishDate: "2027-02-02"
+publishTime: "05:52"
 status: "verified"
 page_type: "stone"
 sources:

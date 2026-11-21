@@ -14,8 +14,8 @@ secondary_keywords:
   - "rutilated quartz metaphysical properties"
   - "golden rutilated quartz meaning"
 author: "Iris Holloway"
-publishDate: "2026-12-13"
-publishTime: "14:01"
+publishDate: "2027-01-28"
+publishTime: "10:31"
 status: "verified"
 page_type: "stone"
 sources:

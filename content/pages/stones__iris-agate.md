@@ -10,8 +10,8 @@ secondary_keywords:
   - "horse mountain iris agate"
   - "is iris agate natural"
 author: "Iris Holloway"
-publishDate: "2026-12-22"
-publishTime: "18:44"
+publishDate: "2027-02-06"
+publishTime: "10:39"
 status: "verified"
 page_type: "stone"
 sources:

@@ -14,8 +14,8 @@ secondary_keywords:
   - "fake dalmatian jasper"
   - "dalmatian stone"
 author: "Iris Holloway"
-publishDate: "2026-12-03"
-publishTime: "07:13"
+publishDate: "2027-01-31"
+publishTime: "06:16"
 status: "verified"
 page_type: "stone"
 sources:

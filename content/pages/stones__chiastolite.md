@@ -7,8 +7,8 @@ primary_keyword: "chiastolite"
 secondary_keywords:
   - "chiastolite meaning"
 author: "Iris Holloway"
-publishDate: "2026-12-09"
-publishTime: "17:45"
+publishDate: "2027-02-05"
+publishTime: "10:01"
 status: "verified"
 page_type: "stone"
 sources:

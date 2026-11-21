@@ -14,8 +14,8 @@ secondary_keywords:
   - "blue green beryl gemstone"
   - "green beryl crystal"
 author: "Iris Holloway"
-publishDate: "2026-12-15"
-publishTime: "11:56"
+publishDate: "2027-02-08"
+publishTime: "09:36"
 status: "verified"
 page_type: "stone"
 sources:

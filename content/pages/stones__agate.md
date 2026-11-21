@@ -9,8 +9,8 @@ secondary_keywords:
   - "agate vs jasper"
   - "red agate vs carnelian"
 author: "Iris Holloway"
-publishDate: "2026-11-22"
-publishTime: "10:21"
+publishDate: "2027-01-31"
+publishTime: "07:59"
 status: "verified"
 page_type: "stone"
 sources:

@@ -14,8 +14,8 @@ secondary_keywords:
   - "benefits of yellow sapphire stone"
   - "golden yellow sapphire"
 author: "Iris Holloway"
-publishDate: "2026-12-26"
-publishTime: "18:30"
+publishDate: "2027-01-30"
+publishTime: "08:21"
 status: "verified"
 page_type: "stone"
 sources:

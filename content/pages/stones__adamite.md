@@ -14,8 +14,8 @@ secondary_keywords:
   - "adamite word"
   - "purple adamite"
 author: "Iris Holloway"
-publishDate: "2026-12-25"
-publishTime: "16:59"
+publishDate: "2027-01-29"
+publishTime: "07:51"
 status: "verified"
 page_type: "stone"
 sources:

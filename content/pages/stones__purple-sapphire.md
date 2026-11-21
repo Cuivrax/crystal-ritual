@@ -6,8 +6,8 @@ url: "/stones/purple-sapphire/"
 primary_keyword: "purple sapphire"
 secondary_keywords: []
 author: "Iris Holloway"
-publishDate: "2027-01-14"
-publishTime: "19:56"
+publishDate: "2027-02-04"
+publishTime: "06:47"
 status: "verified"
 page_type: "stone"
 sources:

@@ -11,8 +11,8 @@ secondary_keywords:
   - "prehnite charging"
   - "prehnite cleansing"
 author: "Iris Holloway"
-publishDate: "2026-11-23"
-publishTime: "16:23"
+publishDate: "2027-01-21"
+publishTime: "05:13"
 status: "verified"
 page_type: "stone"
 sources:
