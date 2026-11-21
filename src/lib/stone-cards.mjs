@@ -78,6 +78,6 @@ export function miniCardHtml(c) {
 }
 
 /** The card's <article>, with the stone's slug for the tests. */
-export function cardArticle(c, extraClass = '') {
-  return `<article class="${[cardClass(c), extraClass].filter(Boolean).join(' ')}" data-slug="${esc(c.slug)}">${c.guide ? fullCardHtml(c) : miniCardHtml(c)}</article>`;
+export function cardArticle(c) {
+  return `<article class="${cardClass(c)}" data-slug="${esc(c.slug)}">${c.guide ? fullCardHtml(c) : miniCardHtml(c)}</article>`;
 }

@@ -6,8 +6,8 @@ import { readFileSync, existsSync, statSync, readdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import {
-  familyVarieties, familyName, familyHeading, fallbackName, nameFromH1, nameFromSlug, orderCards, familySpot,
-  MIN_VARIETIES, FAMILY_ID, FAMILY_INTRO,
+  familyVarieties, familyName, familyHeading, fallbackName, nameFromH1, nameFromSlug, orderCards, familySpot, comingTileHtml,
+  MIN_VARIETIES, FAMILY_ID, FAMILY_INTRO, FAMILY_COMING,
 } from '../src/lib/families.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -60,8 +60,15 @@ test('the section sits after the Look-Alikes, else before the Price Guide, else 
   assert.equal(familySpot(k('facts', 'what')), 2);
 });
 
+test('a variety without a page is a compact tile, its name and Full Guide Coming only', () => {
+  const html = comingTileHtml({ slug: 'cats-eye-jade', name: "Cat's Eye Jade" });
+  assert.equal(html, '<li class="family-tile" data-slug="cats-eye-jade"><span class="family-tile-name">Cat&#39;s Eye Jade</span><span class="mini-chip tone-gold">Full Guide Coming</span></li>');
+  assert.equal(FAMILY_COMING, 'Coming Next');
+});
+
 test('every family member has a name and the section words have no colon, em dash or middle dot', () => {
   assert.doesNotMatch(FAMILY_INTRO, FORBIDDEN);
+  assert.doesNotMatch(FAMILY_COMING, FORBIDDEN);
   for (const [head, list] of Object.entries(families)) {
     assert.doesNotMatch(headingOf(head), FORBIDDEN, head);
     for (const slug of list) {
@@ -94,20 +101,29 @@ test('every family renders on its built head page, published varieties as links'
     const h2 = section.match(new RegExp(`<h2 class="section-title" id="${FAMILY_ID}">([\\s\\S]*?)</h2>`));
     assert.equal(h2 && visibleText(h2[1]), headingOf(head), `/stones/${head}/ heading`);
     assert.doesNotMatch(visibleText(section), FORBIDDEN, `/stones/${head}/ section text`);
-    const cards = [...section.matchAll(/<article class="([^"]*)" data-slug="([^"]+)">([\s\S]*?)<\/article>/g)].map((m) => ({ cls: m[1], slug: m[2], html: m[3] }));
-    assert.deepEqual(cards.map((c) => c.slug).sort(), [...varieties].sort(), `/stones/${head}/ shows every variety once`);
-    let coming = false;
-    for (const c of cards) {
-      if (isLive(c.slug)) {
-        assert.equal(coming, false, `${c.slug} is published and comes after a variety that is not`);
-        assert.ok(c.html.includes(`href="/stones/${c.slug}/"`), `${c.slug} is published, its card links to it`);
-        assert.doesNotMatch(c.html, /Full Guide Coming/);
-      } else {
-        coming = true;
-        assert.doesNotMatch(c.html, /<a\s/, `${c.slug} is not published, its card has no link`);
-        assert.match(c.html, /Full Guide Coming/);
-      }
+    // Published varieties, full atlas cards with their link, A to Z.
+    const live = [...section.matchAll(/<article class="([^"]*)" data-slug="([^"]+)">([\s\S]*?)<\/article>/g)].map((m) => ({ slug: m[2], html: m[3], at: m.index }));
+    // The others, compact tiles under Coming Next, A to Z.
+    const tiles = [...section.matchAll(/<li class="family-tile" data-slug="([^"]+)">([\s\S]*?)<\/li>/g)].map((m) => ({ slug: m[1], html: m[2], at: m.index }));
+    assert.deepEqual([...live, ...tiles].map((c) => c.slug).sort(), [...varieties].sort(), `/stones/${head}/ shows every variety once`);
+    for (const c of live) {
+      assert.ok(isLive(c.slug), `${c.slug} has a full card but no published page`);
+      assert.ok(c.html.includes(`href="/stones/${c.slug}/"`), `${c.slug} is published, its card links to it`);
+      assert.doesNotMatch(c.html, /Full Guide Coming/);
     }
+    for (const c of tiles) {
+      assert.equal(isLive(c.slug), false, `${c.slug} is published but shown as a tile`);
+      assert.doesNotMatch(c.html, /<a\s/, `${c.slug} is not published, its tile has no link`);
+      assert.match(c.html, /Full Guide Coming/);
+      assert.doesNotMatch(c.html, /Hardness|mini-dots|<p[\s>]|<img/, `${c.slug} tile shows its name and the chip only`);
+    }
+    const nameOf = (c) => visibleText((c.html.match(/<h3>[\s\S]*?<\/h3>|<span class="family-tile-name">[\s\S]*?<\/span>/) || [''])[0]);
+    const sorted = (list) => list.map(nameOf).every((n, i, a) => i === 0 || a[i - 1].localeCompare(n) <= 0);
+    assert.ok(sorted(live), `/stones/${head}/ published cards A to Z`);
+    assert.ok(sorted(tiles), `/stones/${head}/ tiles A to Z`);
+    const label = section.indexOf(`<h3 class="family-coming-title">${FAMILY_COMING}</h3>`);
+    assert.equal(label >= 0, tiles.length > 0, `/stones/${head}/ has Coming Next only above tiles`);
+    if (tiles.length) assert.ok(live.every((c) => c.at < label) && tiles.every((c) => c.at > label), `/stones/${head}/ published cards first, then Coming Next`);
     checked++;
   }
   // A stone page that heads no family keeps its usual layout.

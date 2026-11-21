@@ -1,21 +1,26 @@
 ---
 // "All Types of Jade", the family hub section of a head stone page (see lib/families.mjs).
-// One Stone Atlas card per variety, the full card with its link once the variety's page is
-// published, the light "Full Guide Coming" card before that. Published varieties come first,
-// then the rest A to Z, so the section fills itself as pages pass the publish gate. No script.
+// Varieties whose page is published get the full Stone Atlas card with its link. The others
+// follow as a compact list of name tiles under "Coming Next", each with Full Guide Coming,
+// A to Z. A variety moves up to a full card when its page passes the publish gate. No script.
 import { cardAssets, stoneCard, cardArticle } from '../lib/stone-cards.mjs';
-import { orderCards, fallbackName, FAMILY_ID, FAMILY_INTRO } from '../lib/families.mjs';
+import { orderCards, fallbackName, comingTileHtml, FAMILY_ID, FAMILY_INTRO, FAMILY_COMING } from '../lib/families.mjs';
 const { family, site, band = 'band-soft' } = Astro.props;
 const assets = await cardAssets(site);
 const cards = orderCards(family.varieties.map((slug) => stoneCard(slug, assets, { fallbackName: fallbackName(slug, family.planNames) })));
-// A published card with a photo or a cut-out is about two light cards tall, so it spans two rows
-// and the light cards fill the columns beside it, rows stretched so no gap shows under the short ones.
-const html = cards.map((c) => cardArticle(c, c.guide && (c.photo || c.cutout) ? 'is-tall' : '')).join('');
+const live = cards.filter((c) => c.guide);
+const coming = cards.filter((c) => !c.guide);
 ---
 <section class={['section', 'family-types', band].join(' ')} aria-labelledby={FAMILY_ID}>
   <div class="wrap">
     <h2 class="section-title" id={FAMILY_ID}>{family.heading}</h2>
     <p class="family-intro">{FAMILY_INTRO}</p>
-    <div class="atlas-grid family-grid" set:html={html} />
+    {live.length > 0 && <div class="atlas-grid family-grid" set:html={live.map(cardArticle).join('')} />}
+    {coming.length > 0 && (
+      <Fragment>
+        <h3 class="family-coming-title">{FAMILY_COMING}</h3>
+        <ul class="family-coming" set:html={coming.map(comingTileHtml).join('')} />
+      </Fragment>
+    )}
   </div>
 </section>

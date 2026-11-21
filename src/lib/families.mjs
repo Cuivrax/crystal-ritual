@@ -2,7 +2,7 @@
 // "All Types of Jade" section shows one card per variety listed in src/data/stone_families.json
 // (synced from content/_ref/stone_families.json), the published ones first, then the rest A to Z.
 // Pure functions, the data comes in as arguments so the tests run without Astro.
-import { titleCase } from './ui.mjs';
+import { titleCase, esc } from './ui.mjs';
 
 /** A family gets its section from this many varieties up. */
 export const MIN_VARIETIES = 3;
@@ -11,6 +11,8 @@ export const MIN_VARIETIES = 3;
 export const FAMILY_ID = 'all-types';
 export const FAMILY_NAV = 'All Types';
 export const FAMILY_INTRO = 'Every variety we cover, with a full guide as each one is published.';
+/** Label above the compact list of varieties whose page is not published yet. */
+export const FAMILY_COMING = 'Coming Next';
 
 /** The stone name of a plan or page H1, the way the Stone Atlas reads it ("Apricot Agate Meaning, ..." gives "Apricot Agate"). */
 export function nameFromH1(h1) {
@@ -73,4 +75,9 @@ export function familySpot(sections) {
   if (look >= 0) return look + 1;
   const price = sections.findIndex((s) => s.kind === 'price');
   return price >= 0 ? price : sections.length;
+}
+
+/** A compact name tile for a variety whose page is not published yet, its name and Full Guide Coming. */
+export function comingTileHtml({ slug, name }) {
+  return `<li class="family-tile" data-slug="${esc(slug)}"><span class="family-tile-name">${esc(name)}</span><span class="mini-chip tone-gold">Full Guide Coming</span></li>`;
 }
