@@ -6,16 +6,32 @@ import Sections from '../Sections.astro';
 import Body from '../Body.astro';
 import AuthorBox from '../AuthorBox.astro';
 import Sources from '../Sources.astro';
+import FamilyTypes from '../FamilyTypes.astro';
 import { evidenceLegend } from '../../lib/ui.mjs';
 import { breadcrumbsFor, ogImageFrom, citationsFor } from '../../lib/page-meta.mjs';
 import { comparesFor } from '../../lib/render.mjs';
+import { familyVarieties, familyName, familyHeading, familySpot, FAMILY_ID, FAMILY_NAV } from '../../lib/families.mjs';
+import families from '../../data/stone_families.json';
+import familyNames from '../../data/stone_family_names.json';
 const { page, doc, site } = Astro.props;
 const crumbs = breadcrumbsFor(page, site);
 const facts = doc.sections.find((s) => s.kind === 'facts');
 const real = doc.sections.find((s) => s.kind === 'real');
 const compare = comparesFor(site, page.slug)[0] || null;
-const toc = doc.sections.filter((s) => s.navLabel);
 const eyebrow = facts?.whatItIs || null;
+// A head stone page (jade, agate ...) is also the hub of its family, with an "All Types of Jade" section.
+const varieties = familyVarieties(page.slug, families);
+const family = varieties ? {
+  varieties,
+  planNames: familyNames.names,
+  heading: familyHeading(familyName(page.slug, { sheetName: page.stoneName, planName: familyNames.names[page.slug] })),
+} : null;
+const spot = family ? familySpot(doc.sections) : doc.sections.length;
+const before = doc.sections.slice(0, spot);
+const after = doc.sections.slice(spot);
+const near = [before[before.length - 1]?.band, after[0]?.band];
+const familyBand = !near.includes('band-soft') ? 'band-soft' : !near.includes('band-white') ? 'band-white' : '';
+const toc = [...before.filter((s) => s.navLabel), ...(family ? [{ id: FAMILY_ID, navLabel: FAMILY_NAV }] : []), ...after.filter((s) => s.navLabel)];
 ---
 <Base page={page} title={page.data.title} description={page.data.description} url={page.url} image={ogImageFrom(doc.heroHtml)} breadcrumbs={crumbs} citations={citationsFor(page)}>
   <div class="wrap"><Breadcrumbs items={crumbs} /></div>
@@ -50,7 +66,9 @@ const eyebrow = facts?.whatItIs || null;
       {doc.sources && <a href="#sources">Sources</a>}
     </nav>
   )}
-  <Sections sections={doc.sections} page={page} skip={['facts']} />
+  <Sections sections={before} page={page} skip={['facts']} />
+  {family && <FamilyTypes family={family} site={site} band={familyBand} />}
+  {after.length > 0 && <Sections sections={after} page={page} skip={['facts']} />}
   <AuthorBox text={doc.authorText} />
   <Sources html={doc.sources} lastReviewed={doc.lastReviewed} />
 </Base>

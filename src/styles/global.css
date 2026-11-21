@@ -968,6 +968,15 @@ body.theme-night { background: var(--night); color: var(--moon); }
 .atlas-cutout-box { display: flex; align-items: center; justify-content: center; aspect-ratio: 4 / 3; background: var(--soft); }
 .atlas-cutout-box .cutout, .atlas-cutout-box .cutout img { width: auto; height: auto; max-width: 140px; max-height: 140px; }
 
+/* ---------------------------------------------------------- Family hubs, "All Types of Jade" on head stone pages */
+.family-intro { margin: 0; max-width: 780px; font-size: 16px; line-height: 1.6; color: var(--muted); }
+@media (min-width: 720px) { .family-intro { font-size: 18px; } }
+.family-grid { margin-top: 24px; align-items: stretch; }
+.family-grid .atlas-card.is-tall { grid-row: span 2; }
+/* Two chips fit on one line of a four-column card, so short cards keep the row low. */
+.family-grid .mini-chip { padding: 4px 8px; }
+@media (max-width: 719px) { .family-grid { margin-top: 18px; } }
+
 /* ---------------------------------------------------------- Zodiac glyphs */
 .zodiac-badge { display: inline-flex; flex: none; align-items: center; justify-content: center; border-radius: 50%; background: var(--lavender); color: var(--lavender-ink); }
 .theme-night .zodiac-badge { background: var(--night-3); color: var(--moon); }
