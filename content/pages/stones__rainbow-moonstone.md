@@ -8,7 +8,7 @@ secondary_keywords:
   - "rainbow moonstone meaning"
   - "rainbow moonstone benefits"
 author: "Iris Holloway"
-publishDate: "2027-01-29"
+publishDate: "2027-01-27"
 publishTime: "09:47"
 status: "verified"
 page_type: "stone"

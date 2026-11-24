@@ -14,7 +14,7 @@ secondary_keywords:
   - "is magnetite magnetic"
   - "magnetite luster"
 author: "Iris Holloway"
-publishDate: "2027-01-20"
+publishDate: "2027-01-18"
 publishTime: "06:23"
 status: "verified"
 page_type: "stone"

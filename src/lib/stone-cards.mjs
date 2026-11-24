@@ -29,7 +29,7 @@ export async function cardAssets(site) {
   }
   // Cut-out stones made in Canva, the small image of a light card (and of a full card without a photo).
   const cutouts = new Map();
-  for (const slug of CUTOUTS.keys()) cutouts.set(slug, await cutoutHtml(slug));
+  for (const slug of CUTOUTS.keys()) cutouts.set(slug, await cutoutHtml(slug, { box: 160 }));
   const built = new Map(site.pages.filter((p) => p.type === 'stone').map((p) => [p.slug, p]));
   assetsCache = { thumbs, miniPhotos, cutouts, built };
   return assetsCache;
@@ -57,7 +57,7 @@ const tintClass = (c) => {
 };
 
 /** A facet mark for a stone with no checked image yet, so no card is left bare. */
-const TILE_MARK = '<svg class="tile-mark" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M6 3h12l4 6-10 12L2 9z"/><path d="M2 9h20M9 3 7 9l5 12 5-12-2-6"/></svg>';
+const TILE_MARK = '<svg class="tile-mark" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M6 3h12l4 6-10 12L2 9z"/><path d="M2 9h20M9 3 7 9l5 12 5-12-2-6"/></svg>';
 
 /** Class list of a card's <article>. */
 export function cardClass(c) {
@@ -70,7 +70,7 @@ export function fullCardHtml(c) {
     c.mohs ? `<span class="mini-chip tone-green">Hardness ${esc(fmtMohs(c.mohs))}</span>` : '',
     c.top ? `<span class="mini-chip tone-lavender">${esc(c.top.label)}, ${esc(FACET_LABELS[c.top.facets])}</span>` : '',
   ].join('');
-  const media = c.photo || (c.cutout ? `<div class="atlas-cutout-box">${c.cutout}</div>` : '');
+  const media = c.photo || `<div class="atlas-cutout-box">${c.cutout || TILE_MARK}</div>`;
   return `${media}<div class="atlas-card-body"><h3><a class="stretched" href="${esc(c.url)}">${esc(c.name)}</a></h3><p>${esc(c.line)}</p><div class="mini-chips">${chips}</div></div>`;
 }
 

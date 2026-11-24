@@ -9,7 +9,7 @@ secondary_keywords:
   - "green amethyst"
   - "prasiolite green amethyst"
 author: "Iris Holloway"
-publishDate: "2027-01-30"
+publishDate: "2027-01-29"
 publishTime: "05:11"
 status: "verified"
 page_type: "stone"

@@ -10,7 +10,7 @@ secondary_keywords:
   - "may's birthstone"
   - "what is may birthstone"
 author: "Iris Holloway"
-publishDate: "2027-01-06"
+publishDate: "2027-01-05"
 publishTime: "09:51"
 status: "verified"
 page_type: "month"

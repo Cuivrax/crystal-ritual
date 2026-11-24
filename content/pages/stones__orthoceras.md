@@ -14,7 +14,7 @@ secondary_keywords:
   - "fossils orthoceras"
   - "orthoceras fossil"
 author: "Iris Holloway"
-publishDate: "2027-01-23"
+publishDate: "2027-01-22"
 publishTime: "06:55"
 status: "verified"
 page_type: "stone"

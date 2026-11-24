@@ -877,7 +877,7 @@ body.theme-night { background: var(--night); color: var(--moon); }
 /* The Atlas holds hundreds of cards. The ones far below the screen are laid out only when the reader gets near them.
    The sizes are stand-ins until a card has been drawn once, a full card with its photo, then a name tile. */
 .atlas-grid > .atlas-card:nth-child(n+13) { content-visibility: auto; contain-intrinsic-block-size: auto 24rem; }
-.atlas-grid > .atlas-card.is-mini:nth-child(n+13) { contain-intrinsic-block-size: auto 9rem; }
+.atlas-grid > .atlas-card.is-mini:nth-child(n+13) { contain-intrinsic-block-size: auto 19rem; }
 .atlas-none, .atlas-note { color: var(--muted); font-size: 0.9375rem; }
 .atlas-note { margin-top: 20px; }
 
@@ -983,25 +983,27 @@ body.theme-night { background: var(--night); color: var(--moon); }
 .atlas-card.is-mini .atlas-card-body { padding: 14px 16px 16px; }
 .atlas-card.is-mini h3 { font-size: 1.3125rem; line-height: 1.2; margin: 0; }
 .atlas-card.is-mini p { margin: 6px 0 10px; font-size: 0.875rem; line-height: 1.5; }
-.atlas-card .photo-mini { flex: none; margin: 0; width: 76px; }
-.atlas-card .photo-mini img { width: 76px; height: 76px; aspect-ratio: 1 / 1; border-radius: 12px; object-fit: cover; }
-.atlas-card .photo-mini figcaption { display: none; }
 .mini-dots { display: flex; gap: 7px; margin-top: 8px; }
 .mini-dots i { display: block; width: 14px; height: 14px; border-radius: 50%; box-shadow: inset 0 0 0 1px rgba(43, 37, 55, 0.14); }
 .atlas-card.is-mini .mini-chips { margin-top: 10px; }
 @media (max-width: 719px) { .atlas-grid { gap: 12px; } .atlas-letter { margin-top: 6px; } }
-/* The image tile of an Atlas card. The stone, cut out, sits on a soft tile in its own color family, with a thin
+/* The image band of an Atlas card. The stone, cut out, sits on a soft band in its own color family, with a thin
    white edge and a soft shadow. One filter makes every cut-out brighter and more colorful, the hue is never changed.
-   A stone with no checked image yet shows a facet mark on the same tile. */
+   A stone with no checked image yet shows a facet mark on the same band, so no card is bare. */
 .atlas-card { --tile: var(--soft); --tile-ink: #8E84A5; }
-.atlas-card.is-mini { display: flex; align-items: stretch; }
-.atlas-card.is-mini .atlas-card-body { flex: 1 1 auto; min-width: 0; }
-.atlas-tile { flex: none; display: flex; align-items: center; justify-content: center; width: 104px; padding: 10px; background: var(--tile); }
-.tile-mark { color: var(--tile-ink); opacity: 0.75; }
-.cutout { flex: none; display: flex; align-items: center; justify-content: center; width: 84px; height: 84px; }
-.cutout img { display: block; max-width: 84px; max-height: 84px; width: auto; height: auto; object-fit: contain; filter: saturate(1.5) contrast(1.12) brightness(1.08) drop-shadow(1.5px 0 0 #fff) drop-shadow(-1.5px 0 0 #fff) drop-shadow(0 1.5px 0 #fff) drop-shadow(0 -1.5px 0 #fff) drop-shadow(0 8px 10px rgba(43, 37, 55, 0.25)); }
-.atlas-cutout-box { display: flex; align-items: center; justify-content: center; aspect-ratio: 4 / 3; background: radial-gradient(circle at 50% 42%, #fff 0, var(--tile) 72%); }
-.atlas-cutout-box .cutout, .atlas-cutout-box .cutout img { width: auto; height: auto; max-width: 150px; max-height: 150px; }
+.atlas-tile, .atlas-cutout-box { display: flex; align-items: center; justify-content: center; padding: 12px; background: radial-gradient(circle at 50% 42%, #fff 0, var(--tile) 72%); }
+.atlas-tile { aspect-ratio: 16 / 9; }
+.atlas-cutout-box { aspect-ratio: 4 / 3; }
+.tile-mark { color: var(--tile-ink); opacity: 0.7; }
+.cutout { flex: none; display: flex; align-items: center; justify-content: center; }
+.cutout img { display: block; width: auto; height: auto; max-width: 128px; max-height: 112px; object-fit: contain; filter: saturate(1.5) contrast(1.12) brightness(1.08) drop-shadow(1.5px 0 0 #fff) drop-shadow(-1.5px 0 0 #fff) drop-shadow(0 1.5px 0 #fff) drop-shadow(0 -1.5px 0 #fff) drop-shadow(0 8px 10px rgba(43, 37, 55, 0.25)); }
+.atlas-cutout-box .cutout img { max-width: 160px; max-height: 150px; }
+/* A checked photo of a stone whose page is not published yet fills the band. */
+.atlas-tile:has(.photo-mini) { padding: 0; }
+.atlas-tile .photo-mini { width: 100%; height: 100%; margin: 0; }
+.atlas-tile .photo-mini img { display: block; width: 100%; height: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 0; }
+.atlas-tile .photo-mini figcaption { display: none; }
+@media (max-width: 559px) { .atlas-tile { aspect-ratio: 5 / 2; } .cutout img { max-height: 104px; } }
 .tint-pink { --tile: #F7D9E3; --tile-ink: #7A2E4A; }
 .tint-purple { --tile: #E6DDF6; --tile-ink: #3B2F6B; }
 .tint-blue { --tile: #D8E8F1; --tile-ink: #24465A; }
@@ -1014,7 +1016,6 @@ body.theme-night { background: var(--night); color: var(--moon); }
 .tint-black { --tile: #E4E1E8; --tile-ink: #3C3747; }
 .tint-grey { --tile: #ECEAF0; --tile-ink: #4A4458; }
 .tint-white { --tile: #F3F0F5; --tile-ink: #6B6478; }
-@media (max-width: 419px) { .atlas-tile { width: 92px; } }
 
 /* ---------------------------------------------------------- Family hubs, "All Types of Jade" on head stone pages */
 .family-intro { margin: 0; max-width: 780px; font-size: 1rem; line-height: 1.6; color: var(--muted); }
