@@ -83,7 +83,7 @@ function stonesHTML(phase) {
     const name = BUILT_SET.has(s.slug) ? `<a href="/stones/${esc(s.slug)}/">${esc(s.name)}</a>` : esc(s.name);
     return `<li><span class="stone-name">${name}</span><span class="facet-rating" role="img" aria-label="${k} of 5 facets, ${FACET_LABELS[k]}">${facetSvg(k)}<span class="facet-word">${FACET_LABELS[k]}</span></span></li>`;
   }).join('');
-  return `<p class="stones-label">${esc(g.heading)}</p><ul class="phase-stones">${items}</ul>`;
+  return `<p class="stones-label">${esc(g.heading)}</p><ul class="phase-stones" role="list">${items}</ul>`;
 }
 
 // ------------------------------------------------------------ Tonight's Moon

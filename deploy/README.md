@@ -67,6 +67,14 @@ Protection anti-spam sans casse-tête visible, un champ caché piège (honeypot)
 - Remplacer le contenu de `public/indexnow-key.txt` dans le dépôt par cette clé seule, puis pousser sur `main`.
 - Au passage suivant, `pull.sh` compare l'ancien et le nouveau `sitemap.xml` et envoie la liste des URL nouvelles ou dont la date a changé.
 
+## Poids Des Pages Et Polices
+
+- Après `astro build`, `scripts/prune-css.mjs` relit chaque page de `dist/` et ne garde dans sa feuille de style que les règles que la page peut utiliser (ses classes HTML, plus tous les mots des scripts qu'elle charge). Une règle n'est retirée que si l'une de ses classes n'existe nulle part dans la page. Pour revenir en arrière, retirer `&& node scripts/prune-css.mjs dist` du script `build` de `package.json`.
+- Deux polices sont préchargées dans `Base.astro`, Gilda Display 400 (titres) et Figtree 400 (texte). Les autres graisses se chargent à l'usage.
+- `global.css` déclare deux polices de remplacement, `Figtree Fallback` (Arial) et `Gilda Fallback` (Georgia), affichées le temps que les vraies polices arrivent. Leurs valeurs viennent des fichiers de police, mesurées avec fontTools. Hauteurs de ligne, `ascent` et `descent` de `hhea` divisés par `unitsPerEm`. Largeur, moyenne des lettres pondérée par leur fréquence en anglais, Figtree 0,4466 em contre 0,4411 em pour Arial, d'où `size-adjust` 101,24 %. À recalculer si une police change.
+- Toutes les tailles de texte sont en `rem`. La page suit donc la taille de police choisie dans le navigateur ou le téléphone. Vérifier un nouveau bloc à 200 % de taille de texte sur 390 px de large, rien ne doit dépasser.
+- `scripts/interaction-shots.cjs` capture les états interactifs (menu ouvert, résultats des outils, sections dépliées) pour comparer deux versions du site avant de publier un changement de code.
+
 ## Fichiers De Ce Dossier
 
 | Fichier | Rôle |

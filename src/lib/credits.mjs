@@ -46,5 +46,5 @@ export function photoCreditsHtml(credits) {
     const credit = c.href ? `<a href="${esc(c.href)}" rel="noopener">${esc(c.text)}</a>` : esc(c.text);
     return `<li>${credit}${esc(c.note || '')}</li>`;
   }).join('');
-  return `<section class="wrap photo-credits-block" aria-labelledby="photo-credits"><h2 id="photo-credits">Photo Credits</h2><ul>${items}</ul></section>`;
+  return `<section class="wrap photo-credits-block" aria-labelledby="photo-credits"><h2 id="photo-credits">Photo Credits</h2><ul role="list">${items}</ul></section>`;
 }

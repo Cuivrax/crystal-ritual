@@ -44,7 +44,7 @@ export function facetRating(n, { compact = false } = {}) {
 export const HOW_WE_RATE_TEXT = 'We compare the main crystal books, guides and traditions, from Kunz in 1913 to today, in several languages. The more consistently a stone is linked to an intention, the more facets it gets. It shows how widely a belief is held, not whether it works.';
 
 export function facetLegend() {
-  return `<ul class="facet-legend" aria-label="The five levels">${[5, 4, 3, 2, 1]
+  return `<ul class="facet-legend" role="list" aria-label="The five levels">${[5, 4, 3, 2, 1]
     .map((n) => `<li>${facetSvg(n, { label: false })}<span>${FACET_LABELS[n]}</span></li>`).join('')}</ul>`;
 }
 

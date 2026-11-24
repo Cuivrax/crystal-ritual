@@ -68,12 +68,16 @@ function h3Groups(nodes) {
   return { before, groups };
 }
 
-/** On a phone, H3 subsections fold into <details>, open by default so nothing hides without script. */
+/**
+ * On a phone, H3 subsections fold under their heading. The markup is a plain heading and its content, open,
+ * so nothing hides without script. On a phone the script in Base.astro puts a button inside the heading.
+ * (A heading inside <summary> loses its heading role in some browsers, so <details> is not used here.)
+ */
 function foldSubsections(section) {
   const { before, groups } = h3Groups(section.nodes);
   if (groups.length < 2) return;
-  section.nodes = [...before, ...groups.map((g) => el('details', { className: ['fold'], open: true }, [
-    el('summary', {}, [g.h3, raw(icon('chevron', { size: 20, cls: 'fold-icon' }))]),
+  section.nodes = [...before, ...groups.map((g) => el('div', { className: ['h-fold'] }, [
+    g.h3,
     el('div', { className: ['fold-body'] }, g.nodes),
   ]))];
 }
@@ -313,7 +317,7 @@ function factsCard(section, ctx) {
   if (swatches.length >= 1) {
     cards.push(el('div', { className: ['card', 'colors-card'] }, [
       el('p', { className: ['card-title'] }, [txt('Colors')]),
-      raw(`<ul class="swatches">${swatches.map((s) => `<li><span class="swatch${s.light ? ' is-light' : ''}" style="background:${s.hex}"></span><span>${esc(titleCase(s.name))}</span></li>`).join('')}</ul>`),
+      raw(`<ul class="swatches" role="list">${swatches.map((s) => `<li><span class="swatch${s.light ? ' is-light' : ''}" style="background:${s.hex}"></span><span>${esc(titleCase(s.name))}</span></li>`).join('')}</ul>`),
       el('p', { className: ['card-note'] }, [txt('Swatches are approximate screen colors.')]),
     ]));
   }
@@ -501,7 +505,7 @@ function knownForAside(section, ctx) {
     return `<li><span class="kf-name">${name}</span>${facetRating(it.facets)}</li>`;
   }).join('');
   const how = ctx.isBuilt('/sources/') ? '<a class="small-link" href="/sources/#how-we-rate">How We Rate</a>' : '<a class="small-link" href="#how-we-rate">How We Rate</a>';
-  section.asideNodes = [raw(`<div class="card known-for"><div class="card-head"><p class="card-title">Known For</p>${how}</div><ul class="kf-list">${rows}</ul></div>`
+  section.asideNodes = [raw(`<div class="card known-for"><div class="card-head"><p class="card-title">Known For</p>${how}</div><ul class="kf-list" role="list">${rows}</ul></div>`
     + `<div class="how-we-rate" id="how-we-rate"><p class="card-title">How We Rate</p><p>${esc(HOW_WE_RATE_TEXT)}</p>${facetLegend()}</div>`)];
   section.layout = 'split';
 }
@@ -587,7 +591,7 @@ function rankedCards(section, ctx) {
       ...(side.length ? [el('div', { className: ['rank-side'] }, side)] : []),
     ]));
   });
-  section.nodes = [...before, el('ol', { className: ['rank-list'] }, items), ...trailing];
+  section.nodes = [...before, el('ol', { className: ['rank-list'], role: 'list' }, items), ...trailing];
   section.layout = 'ranked';
 }
 

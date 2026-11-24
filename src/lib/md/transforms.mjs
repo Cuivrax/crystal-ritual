@@ -361,7 +361,7 @@ export function processLists(tree) {
     }
 
     if (node.tagName === 'ul' && leads.filter(Boolean).length >= Math.max(2, Math.ceil(items.length * 0.6)) && items.some(hasBadgeAfterLead)) {
-      return [el('ol', { className: ['timeline'] }, items.map((li, k) => {
+      return [el('ol', { className: ['timeline'], role: 'list' }, items.map((li, k) => {
         const lead = leads[k];
         if (!lead) return el('li', { className: ['tl-item'] }, [el('span', { className: ['tl-dot'], ariaHidden: 'true' }), el('div', { className: ['tl-body'] }, li.children)]);
         const body = itemBody(li);
@@ -383,6 +383,7 @@ export function processLists(tree) {
 
     if (node.tagName === 'ol' && allLead) {
       addClass(node, 'step-cards');
+      node.properties = { ...(node.properties || {}), role: 'list' }; // Safari drops list semantics when the numbers are drawn by CSS
       items.forEach((li, k) => {
         addClass(li, 'step-card');
         const body = itemBody(li);

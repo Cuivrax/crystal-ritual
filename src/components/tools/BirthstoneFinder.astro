@@ -30,7 +30,7 @@ function chip(s, { big = false } = {}) {
   const alt = s.alternate ? ' <span class="stone-alt">Alternate</span>' : '';
   return `<li class="stone-chip${big ? ' is-big' : ''}">${media}<span class="stone-name">${name}${alt}</span></li>`;
 }
-const chips = (list, opts) => `<ul class="stone-chips">${list.map((s) => chip(s, opts)).join('')}</ul>`;
+const chips = (list, opts) => `<ul class="stone-chips" role="list">${list.map((s) => chip(s, opts)).join('')}</ul>`;
 const pageLink = (url, text) => (url && site.isBuilt(url) ? `<a class="small-link" href="${esc(url)}">${esc(text)}</a>` : '');
 
 function monthPanel(m) {

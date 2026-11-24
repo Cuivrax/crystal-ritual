@@ -4,8 +4,11 @@ import Seo from '../components/Seo.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { getSite } from '../lib/site.mjs';
-import { ornament } from '../lib/ui.mjs';
+import { ornament, icon } from '../lib/ui.mjs';
 import { extractPhotoCredits, photoCreditsHtml } from '../lib/credits.mjs';
+// The two faces every page shows first, the title face and the text face. The other weights load when used.
+import titleFont from '@fontsource/gilda-display/files/gilda-display-latin-400-normal.woff2?url';
+import textFont from '@fontsource/figtree/files/figtree-latin-400-normal.woff2?url';
 const { page = null, title, description, url, image = null, breadcrumbs = [], citations = [], night = false, bodyClass = '', showOrnament = false, noindexPage = false, errorPage = false } = Astro.props;
 const site = await getSite();
 const noindex = site.preview || noindexPage || errorPage;
@@ -13,20 +16,28 @@ const authorUrl = site.isBuilt('/about/') ? '/about/' : null;
 // Photo credits that licenses require are listed once, after Sources, instead of under each photo.
 const rendered = extractPhotoCredits(await Astro.slots.render('default'));
 const creditsHtml = photoCreditsHtml(rendered.credits);
+// Supporting browsers fetch a page of the site when the reader hovers or starts to press its link, so it opens at once.
+// Pages only (no file downloads, no form handler). Other browsers ignore the block.
+const chevron = icon('chevron', { size: 20, cls: 'fold-icon' });
+const speculation = JSON.stringify({ prefetch: [{ where: { and: [{ href_matches: '/*' }, { not: { href_matches: '/*.*' } }, { not: { href_matches: '/contact/*' } }] }, eagerness: 'moderate' }] });
 ---
 <!doctype html>
 <html lang="en-US">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="text-scale" content="scale">
 <meta name="color-scheme" content={night ? 'dark' : 'light'}>
 <meta name="theme-color" content={night ? '#141A2E' : '#FBFAF8'}>
+<link rel="preload" as="font" type="font/woff2" href={titleFont} crossorigin>
+<link rel="preload" as="font" type="font/woff2" href={textFont} crossorigin>
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="alternate" type="application/rss+xml" title="Crystal & Ritual" href="/rss.xml">
 <Seo page={page} title={title} description={description} url={url} image={image} breadcrumbs={breadcrumbs} citations={citations} noindex={noindex} authorUrl={authorUrl} errorPage={errorPage} />
+{!errorPage && <script type="speculationrules" is:inline set:html={speculation} />}
 </head>
 <body class={[night ? 'theme-night' : '', bodyClass].filter(Boolean).join(' ')}>
 <a class="skip" href="#main">Skip to the content</a>
@@ -38,9 +49,41 @@ const creditsHtml = photoCreditsHtml(rendered.credits);
 {creditsHtml && <Fragment set:html={creditsHtml} />}
 </main>
 <Footer />
-<script is:inline>
-if (window.matchMedia && window.matchMedia('(max-width: 719px)').matches) {
-  document.querySelectorAll('details.fold[open]').forEach(function (d) { d.removeAttribute('open'); });
+<script is:inline define:vars={{ chevron }}>
+// Phone only. Quick Facts and the timeline close, and each subsection folds under its heading.
+// The heading keeps its role and holds the button. Folded text stays reachable by Find in Page where the browser allows it.
+if (matchMedia('(max-width: 719px)').matches) {
+  document.querySelectorAll('details.fold[open]').forEach((d) => d.removeAttribute('open'));
+  const searchable = 'onbeforematch' in HTMLElement.prototype;
+  document.querySelectorAll('.h-fold').forEach((box, i) => {
+    const heading = box.querySelector(':scope > h3');
+    const body = box.querySelector(':scope > .fold-body');
+    if (!heading || !body) return;
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'fold-btn';
+    body.id ||= `fold-${i + 1}`;
+    button.setAttribute('aria-controls', body.id);
+    button.append(...heading.childNodes);
+    button.insertAdjacentHTML('beforeend', chevron);
+    heading.append(button);
+    const set = (open) => {
+      button.setAttribute('aria-expanded', String(open));
+      if (open) body.removeAttribute('hidden');
+      else body.setAttribute('hidden', searchable ? 'until-found' : '');
+    };
+    set(false);
+    button.addEventListener('click', () => set(button.getAttribute('aria-expanded') !== 'true'));
+    body.addEventListener('beforematch', () => button.setAttribute('aria-expanded', 'true'));
+    box.classList.add('is-ready');
+  });
+  // A link to something inside a folded subsection opens it.
+  const reveal = () => {
+    const target = location.hash.length > 1 && document.getElementById(decodeURIComponent(location.hash.slice(1)));
+    target?.closest?.('.fold-body[hidden]')?.previousElementSibling?.querySelector('.fold-btn')?.click();
+  };
+  reveal();
+  addEventListener('hashchange', reveal);
 }
 </script>
 </body>

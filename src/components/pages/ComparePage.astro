@@ -76,7 +76,7 @@ const howHref = site.isBuilt('/sources/') ? '/sources/#how-we-rate' : '#how-we-r
             {sides.map((s) => s.known.length > 0 && (
               <div>
                 <p class="fact-label">{s.name}</p>
-                <ul class="kf-list">{s.known.map((k) => <li><span class="kf-name">{k.label}</span><Fragment set:html={facetRating(k.facets)} /></li>)}</ul>
+                <ul class="kf-list" role="list">{s.known.map((k) => <li><span class="kf-name">{k.label}</span><Fragment set:html={facetRating(k.facets)} /></li>)}</ul>
               </div>
             ))}
             <p class="note" id="how-we-rate"><strong>How We Rate.</strong> {HOW_WE_RATE_TEXT}</p>

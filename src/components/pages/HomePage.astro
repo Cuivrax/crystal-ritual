@@ -101,7 +101,7 @@ const pad = (n) => String(n).padStart(2, '0');
         </div>
         <div class="home-moon-month">
           <p class="moon-month-title">The Month in Moons</p>
-          <ol class="moon-strip" data-moon-strip></ol>
+          <ol class="moon-strip" role="list" data-moon-strip></ol>
           <div class="btn-row">
             {m.moon.ctas.map((c) => c.built ? <a class="btn btn-night" href={c.href}>{c.text}</a> : null)}
           </div>
@@ -118,7 +118,7 @@ const pad = (n) => String(n).padStart(2, '0');
           <div class="muted-text" set:html={m.rituals.intro} />
         </div>
         {m.rituals.categories.length > 1 && (
-          <ul class="color-key" aria-label="Color key">
+          <ul class="color-key" role="list" aria-label="Color key">
             {m.rituals.categories.map((c) => <li class={`tone-${({ daytime: 'pink', evening: 'lavender', 'self-care': 'green', moon: 'night' })[c.toLowerCase()] || 'pink'}`}>{c}</li>)}
           </ul>
         )}
@@ -140,7 +140,7 @@ const pad = (n) => String(n).padStart(2, '0');
           <div set:html={m.notes.intro} />
           <p><a class="small-link" href="/rss.xml">Follow by RSS</a></p>
         </div>
-        <ol class="notes-list">
+        <ol class="notes-list" role="list">
           {notes.map((n, i) => (
             <li><a href={n.url}><span class="note-num">{pad(i + 1)}</span><span class="note-body"><span class="note-cat">{categoryOf(n)}</span><span class="note-title">{n.data.h1}</span></span></a></li>
           ))}

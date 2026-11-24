@@ -19,7 +19,7 @@ const coming = cards.filter((c) => !c.guide);
     {coming.length > 0 && (
       <Fragment>
         <h3 class="family-coming-title">{FAMILY_COMING}</h3>
-        <ul class="family-coming" set:html={coming.map(comingTileHtml).join('')} />
+        <ul class="family-coming" role="list" set:html={coming.map(comingTileHtml).join('')} />
       </Fragment>
     )}
   </div>
