@@ -64,11 +64,11 @@ test('tourmaline borrows the pink tourmaline cut-out and keeps its own sheet', (
   // Black Tourmaline, wherever the sign chart lists it, keeps its own cut-out (not the pink one).
   const other = data.signs.flatMap((s) => s.linked).find((s) => s.name === 'Black Tourmaline');
   if (other) assert.notEqual(other.cutout, 'pink-tourmaline');
-  for (const name of ['Chrysolite', 'Beryl']) {
-    const hit = data.months.flatMap((m) => m.older).find((s) => s.name === name);
-    assert.equal(hit.slug, null);
-    assert.equal(hit.cutout, undefined);
-  }
+  // A name with no stone sheet stays plain text. Beryl got its sheet with the Atlas collection of November 2026.
+  const older = (name) => data.months.flatMap((m) => m.older).find((s) => s.name === name);
+  assert.equal(older('Chrysolite').slug, null);
+  assert.equal(older('Chrysolite').cutout, undefined);
+  assert.equal(older('Beryl').slug, 'beryl');
 });
 
 test('every date of a leap year has exactly one sign', () => {

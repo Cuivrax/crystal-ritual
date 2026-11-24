@@ -24,7 +24,7 @@ export { normalizeText, pageProofHolds };
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const HC = process.env.HC_ROOT || '/home/claude/hc';
-const SHEET_DIRS = ['data_build/stones', 'data_build2/stones'];
+const SHEET_DIRS = ['data_build/stones', 'data_build2/stones', 'data_build3/stones'];
 const IMA_FILE = 'ima/ima_minerals_2026-07.csv';
 const IMA_MATCH = 'ima/stones_ima_match.csv';
 const OUT = join(ROOT, 'src/data/stone_extras.json');

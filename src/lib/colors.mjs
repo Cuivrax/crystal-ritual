@@ -76,7 +76,7 @@ export function colorSwatches(text) {
     if (label.length > 22) continue;
     const name = label.charAt(0).toUpperCase() + label.slice(1);
     if (out.some((o) => o.hex === hit[2] && o.name.toLowerCase() === name.toLowerCase())) continue;
-    out.push({ name, hex: hit[2], light: ['white', 'yellow'].includes(hit[1]) || hit[2] === '#F2B8CC' });
+    out.push({ name, hex: hit[2], family: hit[1], light: ['white', 'yellow'].includes(hit[1]) || hit[2] === '#F2B8CC' });
     if (out.length >= 8) break;
   }
   return out;

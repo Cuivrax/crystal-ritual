@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19",
+ "generated": "2026-11-24",
  "imaList": "IMA List of Minerals, July 2026",
  "pages": {
   "stones__adamite": {
@@ -228,8 +228,124 @@
    },
    "colors": "Colorless, white, light blue, yellow, red, green per S2; also grey and brown per S3. Colored crystals can show weak pleochroism per S1."
   },
+  "stones__black-agate": {
+   "map": {
+    "pins": [
+     {
+      "label": "United States",
+      "lon": -98,
+      "lat": 39
+     },
+     {
+      "label": "Brazil",
+      "lon": -51,
+      "lat": -10
+     },
+     {
+      "label": "Uruguay",
+      "lon": -56,
+      "lat": -33
+     }
+    ]
+   },
+   "colors": "Pure black chalcedony is rare and most black material is dyed."
+  },
+  "stones__black-jade": {
+   "map": {
+    "pins": [
+     {
+      "label": "Myanmar",
+      "lon": 96.3,
+      "lat": 25.6
+     },
+     {
+      "label": "Canada",
+      "lon": -125,
+      "lat": 54
+     },
+     {
+      "label": "New Zealand",
+      "lon": 172,
+      "lat": -42
+     },
+     {
+      "label": "China",
+      "lon": 104,
+      "lat": 35
+     }
+    ]
+   },
+   "colors": "Very dark forest green to essentially opaque black, depending on iron and thickness."
+  },
+  "stones__black-obsidian": {},
+  "stones__black-quartz": {
+   "map": {
+    "pins": [
+     {
+      "label": "Brazil",
+      "lon": -51,
+      "lat": -10
+     },
+     {
+      "label": "Scotland",
+      "lon": -4.2,
+      "lat": 57
+     },
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     },
+     {
+      "label": "Switzerland",
+      "lon": 8.2,
+      "lat": 46.8
+     },
+     {
+      "label": "California",
+      "lon": -119.5,
+      "lat": 37
+     }
+    ]
+   },
+   "colors": "Smoky quartz ranges from brown or smoky gray to a nearly opaque black (S4)."
+  },
   "stones__black-sapphire": {
    "colors": "Black is one of several non-blue colors sapphire can take, along with gray, brown and colorless (S3, S1)."
+  },
+  "stones__blue-amber": {
+   "map": {
+    "pins": [
+     {
+      "label": "Mexico",
+      "lon": -102,
+      "lat": 23.5
+     },
+     {
+      "label": "Myanmar",
+      "lon": 96,
+      "lat": 22
+     },
+     {
+      "label": "Indonesia",
+      "lon": 113,
+      "lat": -2
+     }
+    ]
+   },
+   "colors": "Blue amber shows a greenish blue surface color over a yellow to orange-brown body."
+  },
+  "stones__blue-aventurine": {
+   "map": {
+    "pins": [
+     {
+      "label": "India",
+      "lon": 79,
+      "lat": 22
+     }
+    ]
+   },
+   "colors": "Aventurine is most often green; blue is named as one of the other, less common colors."
   },
   "stones__blue-calcite": {},
   "stones__blue-chalcedony": {
@@ -264,6 +380,10 @@
    },
    "colors": "Blue chalcedony runs pale to medium blue, modified by gray or pink. Unstained chalcedony is often grayish blue. Pure deep blue is the most valuable color per S3."
   },
+  "stones__blue-jade": {
+   "colors": "Jade comes in many colors including blue. S3 lists blue among jadeite colors."
+  },
+  "stones__blue-onyx": {},
   "stones__blue-opal": {
    "map": {
     "pins": [
@@ -348,6 +468,29 @@
    },
    "colors": "Natural zircon is usually yellow, brown or red; blue is mostly produced by heat treatment."
   },
+  "stones__bolivianite": {
+   "map": {
+    "pins": [
+     {
+      "label": "Bolivia",
+      "lon": -64.5,
+      "lat": -17
+     },
+     {
+      "label": "Brazil",
+      "lon": -51,
+      "lat": -10
+     },
+     {
+      "label": "India",
+      "lon": 79,
+      "lat": 22
+     }
+    ]
+   },
+   "colors": "Purple and yellow-orange in alternating zones within one crystal."
+  },
+  "stones__brecciated-jasper": {},
   "stones__bumblebee-jasper": {
    "map": {
     "pins": [
@@ -359,6 +502,9 @@
     ]
    },
    "colors": "Bright yellow to orange bands with black, often as bull's-eye (orbicular) patterns."
+  },
+  "stones__caribbean-calcite": {
+   "colors": "Turquoise per dealer S4."
   },
   "stones__chalcocite": {
    "map": {
@@ -655,6 +801,10 @@
    },
    "colors": "Colorless."
   },
+  "stones__color-change-sapphire": {
+   "colors": "Blue to violet in daylight-equivalent light, purplish pink to pinkish purple in incandescent light."
+  },
+  "stones__cotton-candy-agate": {},
   "stones__crazy-lace-agate": {
    "map": {
     "pins": [
@@ -736,6 +886,10 @@
    },
    "colors": "Brown, blue and green are most common; violet and pink are rarer."
   },
+  "stones__garden-quartz": {
+   "colors": "Garden quartz color is not covered by any source."
+  },
+  "stones__goddess-stone": {},
   "stones__goethite": {
    "map": {
     "pins": [
@@ -788,6 +942,24 @@
    },
    "colors": "Yellowish to reddish to dark brown or black."
   },
+  "stones__golden-healer-quartz": {
+   "map": {
+    "pins": [
+     {
+      "label": "Brazil",
+      "lon": -44,
+      "lat": -18.5
+     },
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     }
+    ]
+   },
+   "colors": "No source gives the color of golden healer quartz."
+  },
+  "stones__golden-hills-turquoise": {},
   "stones__grape-agate": {
    "map": {
     "pins": [
@@ -820,6 +992,18 @@
     "imaNote": true
    },
    "colors": "Light green (S2)."
+  },
+  "stones__green-calcite": {
+   "map": {
+    "pins": [
+     {
+      "label": "Utah",
+      "lon": -111.7,
+      "lat": 39.3
+     }
+    ]
+   },
+   "colors": "S5 describes green calcite from pale mint to deeper green."
   },
   "stones__green-jade": {
    "map": {
@@ -874,6 +1058,7 @@
    },
    "colors": "Onyx is black and white banded, and sardonyx is red to brown with black or white. Green onyx is usually dyed green chalcedony, and chrysoprase is apple green chalcedony."
   },
+  "stones__green-opal": {},
   "stones__green-tourmaline": {
    "map": {
     "pins": [
@@ -890,6 +1075,9 @@
     ]
    },
    "colors": "Green tourmaline is dark green, sometimes light green or light brown."
+  },
+  "stones__honey-calcite": {
+   "colors": "Pure calcite is colorless or white. When colored crystals are found, they are generally yellow to honey-colored, per S5."
   },
   "stones__iris-agate": {
    "map": {
@@ -1105,6 +1293,26 @@
    },
    "colors": "Black, blue, brown, gray and white per S2, with a silver-blue sheen on polished surfaces."
   },
+  "stones__lavender-jade": {
+   "colors": "Jadeite occurs in many colors including lavender, lilac, pink, green and white."
+  },
+  "stones__lemurian-quartz": {
+   "map": {
+    "pins": [
+     {
+      "label": "Brazil",
+      "lon": -44,
+      "lat": -18.5
+     },
+     {
+      "label": "Peru",
+      "lon": -75,
+      "lat": -9.5
+     }
+    ]
+   },
+   "colors": "Usually sold as clear quartz crystals."
+  },
   "stones__libyan-desert-glass": {
    "map": {
     "pins": [
@@ -1233,6 +1441,8 @@
    },
    "colors": "Deep brown to black with reddish-brown patches, streaks or swirls. The common mix is black and brown swirled together."
   },
+  "stones__maligano-jasper": {},
+  "stones__mango-quartz": {},
   "stones__merlinite": {
    "map": {
     "pins": [
@@ -1374,6 +1584,29 @@
     ]
    }
   },
+  "stones__orange-diamond": {
+   "colors": "Orangey-red to yellowish-orange, with pure orange being very rare."
+  },
+  "stones__orbicular-jasper": {
+   "map": {
+    "pins": [
+     {
+      "label": "California",
+      "lon": -119.5,
+      "lat": 37
+     },
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     }
+    ]
+   },
+   "colors": "Ocean jasper, a related trade name, has a multicolored background of green, yellow, pink and more, per S4."
+  },
+  "stones__orca-agate": {
+   "colors": "No source gives the colors of orca agate."
+  },
   "stones__orthoceras": {
    "map": {
     "pins": [
@@ -1396,6 +1629,63 @@
    },
    "colors": "Fossil shows as chambers in white calcite inside a red, pink or grey limestone matrix in the museum specimen (S2)."
   },
+  "stones__painite": {
+   "colors": "Deep garnet red to brownish red-orange."
+  },
+  "stones__peach-moonstone": {
+   "map": {
+    "pins": [
+     {
+      "label": "India",
+      "lon": 79,
+      "lat": 22
+     },
+     {
+      "label": "Sri Lanka",
+      "lon": 80.7,
+      "lat": 7.8
+     },
+     {
+      "label": "Madagascar",
+      "lon": 46.9,
+      "lat": -19.5
+     }
+    ]
+   },
+   "colors": "Peach ranges from light apricot to rich peach with a silvery or pearly sheen (S5). Moonstone overall spans white, gray, brown, pink, orange, green, yellow and colorless (S3)."
+  },
+  "stones__pink-amethyst": {
+   "map": {
+    "pins": [
+     {
+      "label": "Brazil",
+      "lon": -51,
+      "lat": -10
+     },
+     {
+      "label": "Bolivia",
+      "lon": -64.5,
+      "lat": -17
+     },
+     {
+      "label": "Uruguay",
+      "lon": -56,
+      "lat": -33
+     },
+     {
+      "label": "Zambia",
+      "lon": 27.8,
+      "lat": -13.5
+     },
+     {
+      "label": "Arizona",
+      "lon": -111.7,
+      "lat": 34.3
+     }
+    ]
+   },
+   "colors": "Lilac to deep reddish purple (S2). Pinkish violet 'Rose de France' is the lightest shade (S2, S4). Most valued is strong reddish purple (S1)."
+  },
   "stones__pink-opal": {
    "map": {
     "pins": [
@@ -1417,6 +1707,23 @@
     ]
    },
    "colors": "Pale pink, pink and dark red-pink per S7. Peruvian material is pastel pink, often with blue and green stones."
+  },
+  "stones__pink-topaz": {
+   "map": {
+    "pins": [
+     {
+      "label": "Pakistan",
+      "lon": 70,
+      "lat": 30
+     },
+     {
+      "label": "Russia",
+      "lon": 60,
+      "lat": 57
+     }
+    ]
+   },
+   "colors": "Topaz occurs in natural colors including pink. Pink is one of the most highly regarded colors (S2)."
   },
   "stones__pink-tourmaline": {
    "keyNumbers": [
@@ -1506,6 +1813,53 @@
    },
    "colors": "Pale pink, rose, salmon, raspberry, magenta and reddish-pink."
   },
+  "stones__polychrome-jasper": {
+   "map": {
+    "pins": [
+     {
+      "label": "India",
+      "lon": 79,
+      "lat": 22
+     },
+     {
+      "label": "Australia",
+      "lon": 134,
+      "lat": -25
+     },
+     {
+      "label": "Russia",
+      "lon": 60,
+      "lat": 57
+     },
+     {
+      "label": "Brazil",
+      "lon": -51,
+      "lat": -10
+     },
+     {
+      "label": "Uruguay",
+      "lon": -56,
+      "lat": -33
+     },
+     {
+      "label": "Indonesia",
+      "lon": 113,
+      "lat": -2
+     },
+     {
+      "label": "Oregon",
+      "lon": -120.5,
+      "lat": 44
+     },
+     {
+      "label": "Idaho",
+      "lon": -114.6,
+      "lat": 44.3
+     }
+    ]
+   },
+   "colors": "Jasper can be almost any shade, but usually reds, browns, oranges, yellows and greens. Two, three or more hues often mingle on one stone (S4)."
+  },
   "stones__prasiolite": {
    "chain": {
     "nodes": [
@@ -1567,6 +1921,17 @@
     ]
    },
    "colors": "Light green to yellow, also colorless, blue, pink or white; rare orange found in 2000."
+  },
+  "stones__prophecy-stone": {
+   "map": {
+    "pins": [
+     {
+      "label": "Egypt",
+      "lon": 27.5,
+      "lat": 24.5
+     }
+    ]
+   }
   },
   "stones__purple-sapphire": {
    "map": {
@@ -1638,6 +2003,9 @@
     ]
    },
    "colors": "Multicolored iridescent bands in various colors (S4). Blue, green, purple and bronze are named (S5)."
+  },
+  "stones__red-agate": {
+   "colors": "Agate is often multicolored, with red to orange among its colours (S3). S4 lists red and reddish brown as natural colours."
   },
   "stones__red-jasper": {
    "keyNumbers": [
@@ -1818,6 +2186,7 @@
    },
    "colors": "Mainly colorless, transparent quartz with golden, red, or near-black rutile needles; a smoky brown form is less common (S5, S6)."
   },
+  "stones__satin-spar": {},
   "stones__spessartine": {
    "map": {
     "pins": [
@@ -1855,6 +2224,9 @@
    },
    "colors": "Yellow through red, per S1; violet-red forms are found in rhyolites in Colorado and Maine."
   },
+  "stones__spirit-quartz": {
+   "colors": "No source gives the color of spirit quartz."
+  },
   "stones__strawberry-quartz": {
    "map": {
     "pins": [
@@ -1877,6 +2249,7 @@
    },
    "colors": "Pinkish-red. Fine inclusions give a uniform strawberry shade; bolder ones show reddish needles, flakes or glints in clearer quartz."
   },
+  "stones__sulfur-quartz": {},
   "stones__sunstone": {
    "keyNumbers": [
     {
@@ -1931,6 +2304,7 @@
    },
    "colors": "Colorless, yellow, orange and red, with some pink, green or blue stones. S1 lists yellow, green, red, red-brown, colorless."
   },
+  "stones__unicorn-jasper": {},
   "stones__watermelon-tourmaline": {
    "map": {
     "pins": [
@@ -1997,6 +2371,33 @@
    },
    "colors": "Colorless to white, often slightly cloudy; natural colorless stones are rare (S4)."
   },
+  "stones__white-topaz": {
+   "colors": "Colourless is the most common natural colour of topaz (S2), so white topaz is the colourless form (S5, S2)."
+  },
+  "stones__yellow-calcite": {
+   "map": {
+    "pins": [
+     {
+      "label": "Canada",
+      "lon": -88,
+      "lat": 49
+     }
+    ]
+   },
+   "colors": "Yellow material noted as pale yellow (USSR) and light yellow (Bancroft, Ontario)."
+  },
+  "stones__yellow-jade": {
+   "map": {
+    "pins": [
+     {
+      "label": "Myanmar",
+      "lon": 96,
+      "lat": 22
+     }
+    ]
+   },
+   "colors": "Jade occurs in many colors, including yellow (S1). Yellow occurs in jadeite and in nephrite (S2)."
+  },
   "stones__yellow-sapphire": {
    "map": {
     "pins": [
@@ -2029,145 +2430,410 @@
   "abalone-shell": "The iridescent inner lining of abalone shells is nacre, also called mother-of-pearl, a biomineral made by the mollusk.",
   "actinolite": "Mineral species in a solid-solution series.",
   "adamite": "Mineral species, the zinc member of an adamite-olivenite series with the copper analogue olivenite.",
+  "adularia": "Adularia is a white or colorless, transparent to translucent variety of orthoclase, the feldspar behind moonstone's sheen.",
+  "aegirine": "Aegirine is a sodium iron pyroxene mineral, known for long slender crystals with distinctive terminations that collectors prize.",
   "afghanite": "A rare blue mineral first identified in 1968, named after Afghanistan.",
   "agate": "A translucent, usually banded variety of microcrystalline quartz (fibrous chalcedony), used as a semiprecious stone.",
+  "agatized-coral": "Agatized coral is silicified coral from the Ballast Point area of Tampa Bay, Florida, made into jewelry and ornaments.",
+  "ajoite": "Ajoite is a copper silicate mineral named for its type locality at Ajo, Arizona.",
+  "alabandite": "Alabandite is an uncommon sulfide mineral with a fairly simple chemical formula.",
+  "albite": "Albite is the sodium end member of the plagioclase feldspar series, usually white, with a few small gems cut from it.",
   "alexandrite": "The very rare color-change variety of the mineral chrysoberyl.",
+  "allophane": "Allophane is a translucent, apparently amorphous mineral that forms crusts, masses and stalactites.",
+  "almandine": "Almandine is the most common member of the garnet group and the garnet most widely faceted for jewelry.",
+  "alunite": "Alunite is a potassium aluminum sulfate mineral of the alunite group that forms where sulfate reacts with aluminous rocks.",
+  "alurgite": "Alurgite is a manganese-rich, pink to red variety of the mica mineral muscovite.",
   "amazonite": "A green to blue-green color variety of microcline, a potassium feldspar, cut as cabochons and beads.",
   "amber": "Fossilized tree resin, an organic gem material.",
+  "amblygonite": "Amblygonite is the fluorine-dominant member of a mineral series with montebrasite, and is much rarer.",
   "amethyst": "The purple color variety of quartz, used in adornment for over 2000 years.",
+  "ametrine": "Ametrine is a transparent quartz that shows the colors of both amethyst and citrine in a single gem.",
   "ammolite": "Gem-quality material made from fossil shells of certain ammonite species, found in Alberta.",
+  "analcime": "Analcime is a zeolite group mineral that often occurs with other zeolites and is closely related to the feldspathoids.",
+  "anapaite": "Anapaite is a triclinic mineral of calcium, iron and phosphate with four waters, named after Anapa in Russia.",
+  "anatase": "Anatase is a relatively uncommon but very aesthetic form of titanium dioxide, polymorphous with rutile and brookite.",
+  "andesine": "Andesine is a plagioclase feldspar, named for the Andes Mountains, that the IMA treats as a calcium-rich variety of albite.",
+  "andradite": "Andradite is a member of the garnet group that can be cut into fine gems such as demantoid.",
+  "anglesite": "Anglesite is a secondary lead mineral that forms through the alteration of lead sulfides, mainly galena.",
+  "anhydrite": "Anhydrite is an anhydrous calcium sulfate mineral, mostly found in evaporite deposits and the cap rocks above salt domes.",
+  "anorthite": "Anorthite is the most calcium-rich and sodium-poor plagioclase feldspar, and the rarest of the plagioclases.",
+  "anorthoclase": "Anorthoclase is the intermediate member of the albite-sanidine feldspar series, found in high-temperature sodium-rich volcanic rocks.",
+  "anorthosite": "Anorthosite is an igneous rock made of 90 percent or more plagioclase feldspar, often labradorite when used as a gem rock.",
+  "anthophyllite": "Anthophyllite is an amphibole mineral that forms in medium to high grade metamorphic rocks and is named for its clove color.",
+  "antigorite": "Antigorite is a magnesium iron silicate mineral of the serpentine group, sometimes dyed and sold as other stones.",
+  "antlerite": "Antlerite is an uncommon mineral typically formed in the oxidized zone of copper deposits under highly acid conditions.",
   "apatite": "A group of calcium phosphate minerals.",
   "apophyllite": "A solid solution series of minerals including fluorapophyllite-(K), fluorapophyllite-(Na) and hydroxyapophyllite-(K).",
+  "apricot-agate": "Apricot Agate is a name for agate nodules in pinkish orange to yellowish orange, often with white banding.",
   "aquamarine": "The greenish blue to blue color variety of the mineral beryl.",
+  "aquaprase": "Aquaprase is the trade name of a bluish green chalcedony, colored by chromium and nickel, from an undisclosed location in Africa.",
   "aragonite": "A carbonate mineral, one of the three most common crystal forms of calcium carbonate, and a polymorph of calcite.",
+  "argentite": "Argentite is the name for the isometric, high temperature form of silver sulfide, now known as acanthite when cooled.",
+  "arizona-pietersite": "Arizona Pietersite is a marketing name for asbestiform serpentine, a look-alike that is not true pietersite.",
+  "arsenopyrite": "Arsenopyrite is an iron arsenic sulfide and the most abundant arsenic-bearing mineral.",
+  "astrophyllite": "Astrophyllite is a mineral of the astrophyllite group, found in nepheline syenites, alkali granites and their pegmatites.",
+  "atacamite": "Atacamite is a copper chloride hydroxide mineral that forms as an oxidation product of other copper minerals in arid, saline settings.",
+  "augite": "Augite is the most common pyroxene mineral and a member of the clinopyroxene group, found in mafic igneous rocks.",
+  "aurichalcite": "Aurichalcite is a fragile zinc and copper mineral with a pastel color that forms in oxidized zones of copper and zinc deposits.",
+  "australian-opal": "Australian opal is opal from Australia, a sedimentary stone that makes up 95 percent of the world supply.",
+  "autunite": "Autunite is a radioactive secondary mineral that forms from uranium-bearing minerals.",
+  "aventurine": "Aventurine is a variety of translucent quartz or quartzite with small flake-shaped inclusions that give it a sparkle.",
   "azurite": "A soft, deep-blue copper carbonate mineral from weathered copper ore, used as a gem material, ornamental stone, ore of copper and pigment.",
   "banded-agate": "Agate forms when silica from groundwater is deposited in cavities, often in volcanic rock, in concentric or horizontal layers.",
+  "banded-amethyst": "Banded amethyst is quartz in which purple amethyst bands with white milky quartz and a little gray smoky quartz.",
   "barite": "A mineral made of barium sulfate (BaSO4), and the principal source of barium.",
+  "bastnasite": "Bastnasite is the most abundant rare earth bearing mineral, found in carbonatites, granites and pegmatites.",
+  "bauxite": "Bauxite is a rock, not a mineral, made mainly of aluminum-bearing minerals and it is the primary ore of aluminum.",
+  "benitoite": "Benitoite is an extremely rare barium titanium silicate mineral and the official state gemstone of California.",
+  "beryl": "Beryl is a relatively rare beryllium aluminum silicate mineral whose color varieties include emerald and aquamarine.",
+  "beryllonite": "Beryllonite is a rare sodium beryllium phosphate mineral that forms in granitic and alkalic pegmatites.",
   "bicolor-tourmaline": "Tourmaline with two color zones in one crystal or gem, a pattern tied to growth zoning.",
+  "bismuth": "Bismuth is an uncommon native element mineral with a metallic silver-white color and a reddish hue.",
+  "bismuthinite": "Bismuthinite is an uncommon bismuth sulfide mineral and an important ore of bismuth, with interesting crystal habits.",
+  "bixbyite": "Bixbyite is an uncommon manganese iron oxide mineral known for its dark, lustrous cubic crystals.",
+  "black-diamond": "Black diamond is a single-crystal diamond made black by dark inclusions, unlike carbonado, which is a polycrystalline diamond aggregate.",
+  "black-garnet": "Black garnet is melanite, the naturally black variety of andradite garnet.",
+  "black-kyanite": "Black kyanite is kyanite in black, a less common color than the usual blue of gem kyanite.",
+  "black-mica": "Black Mica is the name for a group of dark sheet silicate minerals, known as biotite.",
+  "black-onyx": "Black onyx is mostly dyed black chalcedony, since naturally solid black onyx is rare.",
   "black-quartz": "Smoky quartz color comes from natural gamma radiation acting on aluminum impurities.",
   "black-spinel": "Spinel is one species in a group of related minerals (spinel subgroup).",
+  "black-star-diopside": "Black star diopside is naturally black diopside that can show a four-ray star, caused by parallel needle inclusions.",
+  "black-star-sapphire": "Black star sapphire is a very dark, opaque sapphire whose star effect comes from needle-like inclusions.",
   "bloodstone": "A dark green chalcedony with spatters of bright red.",
   "blue-amber": "Amber that shows strong blue fluorescence and looks blue on a black background.",
   "blue-aventurine": "A blue-colored example of aventurine, a translucent quartz or quartzite with sparkling mica or similar inclusions.",
+  "blue-barite": "Blue barite is the blue form of barite, a barium sulfate mineral, shown as tabular crystals from Muddy Creek, Colorado.",
   "blue-chalcedony": "The blue color variety of chalcedony (cryptocrystalline quartz), prized by carvers and jewelry designers for its ethereal blues.",
+  "blue-diamond": "Blue diamond is a rare fancy colored diamond whose color mostly comes from trace boron.",
+  "blue-halite": "Blue halite is halite, the natural form of salt, whose blue color comes from defects in the crystal.",
   "blue-jade": "Jadeite colors are caused by impurities.",
+  "blue-john-fluorite": "Blue John is a massive, banded fluorite, also called Derbyshire spar, mostly from Treak Cliff near Castleton in England.",
   "blue-kyanite": "Blue kyanite is the common blue form of kyanite, an aluminum silicate mineral.",
   "blue-moonstone": "Moonstone that shows a blue adularescence (blue flash or blue sheen), rare in colorless feldspar.",
   "blue-opal": "A common opal with blue body color and no play-of-color, mostly from Peru.",
   "blue-quartz": "Dumortierite inclusions color the quartz blue.",
+  "blue-spinel": "Blue spinel is spinel colored blue, mostly by iron with slight cobalt, while cobalt spinels owe a vivid blue to dominant cobalt.",
   "blue-tigers-eye": "Natural blue tiger's eye is hawk's eye, unaltered crocidolite in quartz.",
   "blue-topaz": "A color form of topaz, the silicate mineral.",
   "blue-tourmaline": "A blue color of tourmaline, a large boron silicate mineral group.",
   "blue-turquoise": "Turquoise in its blue color, especially sky or robin's-egg blue, which is the most valued color.",
   "blue-zircon": "Zircon, a zirconium silicate mineral.",
+  "boleite": "Boleite is an uncommon blue mineral that forms cubic crystals and is mostly a collector mineral.",
+  "boracite": "Boracite is a mineral that forms in salt deposits and is rarely cut as a gem.",
   "botryoidal-hematite": "The iridescent coating sometimes seen on hematite is attributed to turgite, a mix of hematite and goethite.",
   "boulder-opal": "A gem made of precious opal within or attached to its natural host rock.",
+  "bowenite": "Bowenite is a translucent, fine-grained variety of antigorite, a serpentine mineral, used as a jade substitute and for carving.",
+  "brazilianite": "Brazilianite is a hydrothermal mineral that forms in phosphate-rich zones of granite pegmatites.",
+  "brochantite": "Brochantite is a secondary copper mineral that forms in the oxidation zone of copper deposits, and it is a minor copper ore.",
   "brookite": "A titanium dioxide (TiO2) mineral, the orthorhombic form of TiO2, and one of three main forms of titanium dioxide.",
+  "brown-diamond": "Brown diamonds are the most common natural fancy colored diamonds and come in hues from champagne to cognac.",
+  "brucite": "Brucite is a mineral used industrially as a magnesium ore.",
+  "buddstone": "Buddstone is a bright green variety of chalcedony colored by abundant inclusions of fuchsite mica.",
   "bumblebee-jasper": "Bright yellow-to-orange and black patterned gem from West Java, Indonesia.",
+  "burmese-jade": "Burmese jade is jadeite jade from the mines in Mogaung, Upper Burma, now Myanmar.",
+  "bustamite": "Bustamite is a mineral between the rhodonite and wollastonite series, classed as its own mineral and not a variety.",
+  "bytownite": "Bytownite is a calcium-rich member of the plagioclase feldspar series, and transparent crystals are rare.",
+  "cacoxenite": "Cacoxenite is a mineral that is a common accessory in oxidized magnetite and limonite iron ores.",
   "calcite": "A very common rock-forming carbonate mineral, CaCO3, and the main mineral of limestone and marble.",
+  "canasite": "Canasite is a monoclinic calcium, sodium and potassium silicate mineral from the Khibiny and Murun massifs in Russia.",
+  "cancrinite": "Cancrinite is a mineral of alkali-rich rocks that is sometimes cut as opaque to translucent gem material.",
   "carnelian": "A translucent orange to red to brown variety of chalcedony, colored by iron.",
   "cassiterite": "Mineral species of the rutile group, an oxide.",
+  "cats-eye-jade": "Nephrite, a jade, with a chatoyant cat's eye effect.",
+  "cavansite": "Cavansite is a calcium vanadium silicate mineral, first described from Oregon and dimorphous with pentagonite.",
   "celestite": "A strontium sulfate mineral, also called celestine, named from Latin for heavenly because of its often sky-blue color.",
+  "ceruleite": "Ceruleite is a rare sky-blue mineral that forms in the oxidized zone of arsenic-rich ore deposits.",
   "cerussite": "Lead carbonate mineral and an important lead ore.",
+  "chabazite": "Chabazite is a series of related zeolite minerals, mostly kept as collector specimens.",
+  "chalcanthite": "Chalcanthite is a water-soluble secondary copper mineral formed by the oxidation of copper sulfides.",
+  "chalcopyrite": "Chalcopyrite is a brass yellow copper iron sulfide mineral and the most important ore of copper.",
   "charoite": "A purple ornamental gem material that is really a rock, almost purely made of the mineral charoite.",
   "chicken-blood-stone": "Rock (a mix of minerals), not a mineral species.",
+  "chinese-writing-stone": "Chinese writing stone is a name for what appears to be a basalt porphyry, with light feldspar crystals in a dark groundmass.",
+  "chondrodite": "Chondrodite is the best known member of the humite group, found in contact metamorphic limestones and dolostones.",
+  "chrome-chalcedony": "Chrome chalcedony is green chalcedony colored by chromium, a rock variety known from Western Australia and Zimbabwe.",
   "chrome-diopside": "Chrome diopside is the chromium-rich variety of diopside, a pyroxene mineral.",
+  "chromite": "Chromite is an iron chromium oxide mineral and an ore of chromium, only cut as a curiosity.",
+  "chrysocolla-chalcedony": "Chrysocolla chalcedony is a rare blue to blue-green chalcedony, sold as Gem Silica and colored by copper.",
   "chrysoprase": "A green, nickel-colored variety of chalcedony, a cryptocrystalline quartz.",
+  "cinnabar": "Cinnabar is a toxic mercury sulfide mineral and the main ore of mercury.",
   "citrine": "The transparent, pale yellow to brownish orange variety of quartz.",
+  "citron-chrysoprase": "Citron chrysoprase is a nickel-bearing magnesite from Western Australia that is listed as a chrysoprase simulant.",
+  "cleavelandite": "Cleavelandite is a variety of albite that forms extremely thin, platy crystals, often found with tourmaline.",
+  "clinochlore": "Clinochlore is a mineral of the chlorite group, with several named varieties.",
+  "clinozoisite": "Clinozoisite is a monoclinic calcium aluminum silicate mineral of the epidote group, a rare transparent collectors mineral.",
+  "cobaltite": "Cobaltite is a rare sulfide mineral used mainly as an ore of cobalt.",
+  "colemanite": "Colemanite is a calcium borate mineral that forms in evaporite deposits and is a major ore of boron, rarely cut as a fragile gem.",
+  "colombianite": "Colombianite is a variety of obsidian from near Cali, Colombia, also called americanite.",
+  "color-change-garnet": "Color change garnet is any garnet that shifts color between daylight and incandescent light, not a single species.",
+  "color-change-sapphire": "Color change sapphire is sapphire whose color shifts between daylight or fluorescent light and incandescent light.",
+  "columbite": "Columbite is the niobium rich member of the columbite tantalite series and the main ore of niobium.",
+  "conch-shell": "Conch shell is the shell of the Queen conch, widely used for crafting and jewelry accessories.",
+  "conichalcite": "Conichalcite is a grass-green calcium copper arsenate hydroxide mineral that forms in the oxidation zone of copper ore bodies.",
+  "copal": "Copal is an amberlike resin that is typically softer than amber.",
+  "copper-rutile": "Copper rutile is copper-color rutile, traditionally seen as needle inclusions in quartz.",
+  "coquimbite": "Coquimbite is a mineral that forms as a secondary mineral in oxidized iron sulfide deposits in arid regions.",
   "coral": "The skeletons of marine coral polyps, used as gem material.",
+  "cordierite": "Cordierite is a magnesium iron aluminum silicate mineral, and its gem quality form is called iolite.",
+  "corundum": "Corundum is an aluminum oxide mineral, most famous as the mineral of ruby and sapphire.",
+  "covellite": "Covellite is a copper mineral known for its strong metallic blue iridescence, prized by collectors.",
+  "creedite": "Creedite is an uncommon mineral found in fluorite-rich hydrothermal deposits and kept mostly as a collector stone.",
+  "crocoite": "Crocoite is a deep orange-red mineral that intrigues collectors, famous for its large crystals from Tasmania.",
+  "cryolite": "Cryolite is the ice stone, a soft mineral with a hardness of 2.5 that is now mostly made synthetically.",
+  "cummingtonite": "Cummingtonite is an amphibole mineral that forms a series with magnesio-cummingtonite and grunerite.",
   "cuprite": "A type of copper oxide, mined as a copper ore and also forming as a patina on copper and bronze.",
+  "cyanotrichite": "Cyanotrichite is an uncommon blue copper mineral that forms radiating needle aggregates in the oxidation zone of copper deposits.",
   "dalmatian-jasper": "A white to cream spotted decorative stone sold as jasper.",
   "dark-amber": "Dark amber is a color form of amber.",
+  "datolite": "Datolite is a mineral that serves as a source of boron, with gems found more often in collections than in jewelry.",
+  "demantoid-garnet": "Demantoid is the green variety of andradite garnet, with colors from deep forest green to nearly colorless.",
   "dendritic-opal": "Mineraloid (amorphous hydrated silica), not a crystalline mineral.",
+  "dendritic-quartz": "Dendritic quartz is transparent quartz with fern-like inclusions of iron, manganese or other metal oxides called dendrites.",
+  "descloizite": "Descloizite is a secondary mineral from the oxidized zone of base metal deposits that carry vanadium.",
+  "desert-jasper": "Desert Jasper is another sale name for polychrome jasper from Madagascar, named for its desert-like hues.",
+  "desert-rose-selenite": "Desert rose selenite is the well-known desert rose, gypsum in a rosette shape with sand inclusions.",
   "diamond": "A rare, naturally occurring mineral made entirely of carbon, and the hardest known natural substance.",
+  "diaspore": "Diaspore is a mineral of the bauxite ore, and gem-grade color-changing crystals are cut from a Turkish deposit.",
   "diopside": "Chrome diopside's deep green comes from chromium.",
+  "dogtooth-calcite": "Dogtooth calcite is the sharp, double-pyramid scalenohedral crystal form of calcite.",
+  "dravite": "Dravite is best known as the brown tourmaline, a relatively common member of the tourmaline group.",
+  "eclogite": "Eclogite is a metamorphic rock made mostly of garnet and a jadeitic pyroxene called omphacite.",
+  "edenite": "Edenite is a hornblende-group amphibole mineral named for Edenville, New York, found mostly in metamorphosed marble.",
+  "ekanite": "Ekanite is a rare gem mineral, often radioactive, named after its discoverer F. L. D. Ekanayake.",
   "emerald": "The bluish green to green variety of beryl.",
+  "enargite": "Enargite is a copper arsenic sulfosalt mineral and an important ore of copper.",
   "enhydro-quartz": "A trade term for transparent quartz holding a fluid inclusion, ideally with a gas bubble that moves when the stone is turned.",
+  "enstatite": "Enstatite is the magnesium silicate end of the orthopyroxene series, a pyroxene mineral that is lightly colored when pure.",
+  "eosphorite": "Eosphorite is the manganese member of a series with childrenite, typically a secondary mineral in phosphate-bearing granite pegmatites.",
   "epidote": "A mineral species forming a solid-solution series with clinozoisite, within the epidote supergroup.",
+  "erythrite": "Erythrite is a deeply colored reddish or pink cobalt mineral, the cobalt member of a series with annabergite.",
   "ethiopian-opal": "Welo opal formed as silica gel in porous volcanic rock lying on clay.",
+  "ethiopian-welo-opal": "Welo opal is opal from the Wollo Province of northern Ethiopia, often with vivid play-of-color, and much of it is hydrophane.",
   "euclase": "A distinct mineral species, though it can form from the decomposition of beryl.",
   "eudialyte": "A member of the eudialyte mineral group, a family of structurally related silicates.",
+  "euxenite": "Euxenite is a rare earth oxide mineral of granite pegmatites, a minor ore of rare earths and uranium.",
+  "faden-quartz": "Faden quartz is a descriptive term for tabular quartz crystals with a white thread-like zone running through the interior.",
+  "fairy-stone": "Fairy stone is a name for the twinned, often cross-shaped staurolite crystals found around Patrick County, Virginia.",
+  "feldspar": "Feldspar is a large group of rock-forming silicate minerals that includes the gem stones moonstone, sunstone, labradorite and amazonite.",
+  "ferberite": "Ferberite is the iron rich end member of the wolframite series and an important ore of tungsten.",
   "fire-agate": "A brown agate that flashes iridescent yellow, red, orange and green from hemispherical surfaces.",
+  "fire-opal": "A red to yellow, translucent to transparent opal variety, usually faceted, named for its fire-like body color rather than play-of-color.",
   "fire-quartz": "Colored crystalline quartz generally forms in pegmatites and veins from water solutions.",
   "flint": "Flint is a variety of microcrystalline or cryptocrystalline quartz, a sedimentary rock.",
   "fluorite": "A calcium fluoride mineral, important in industry, cut into gems and ornaments when color and clarity are good.",
+  "franklinite": "Franklinite is a black zinc iron manganese oxide mineral of the spinel group, found at Franklin, New Jersey.",
+  "freshwater-pearl": "Freshwater pearls are pearls formed by freshwater mussels, and are also called river pearls.",
   "fuchsite": "Variety of muscovite in the mica group, not a separate species.",
+  "fulgurite": "Fulgurite is natural glass in tubes or crusts, formed when lightning fuses silica sand or rock.",
+  "gabbro": "Gabbro is a coarse-grained, dark-colored intrusive igneous rock made mainly of plagioclase and augite.",
+  "gadolinite": "Gadolinite is a rare yttrium and beryllium silicate mineral, mostly sought by collectors.",
   "galena": "A lead sulfide mineral and the world's primary ore of lead, sometimes mined for its silver.",
   "garden-quartz": "Colored crystalline quartz generally occurs in pegmatites and veins.",
   "garnet": "A group of closely related rock-forming minerals, with gems in almost every color.",
+  "garnierite": "Garnierite is a nickel ore that rims dunite boulders and fills fractures and voids in nickel laterite deposits.",
+  "gaspeite": "Gaspeite is a rare nickel carbonate mineral and a member of the calcite mineral group.",
+  "gem-silica": "Gem silica is a bluish green to greenish blue variety of chalcedony colored by copper.",
+  "gibbsite": "Gibbsite is an aluminum hydroxide mineral and one of the three main minerals of the aluminum ore bauxite.",
+  "girasol": "Girasol opal is a semi-transparent to translucent opal with a moving, billowy light effect that resembles moonstone.",
+  "glauberite": "Glauberite is a mineral with the formula Na2Ca(SO4)2, found mainly in evaporite deposits.",
+  "glaucophane": "Glaucophane is a bluish mineral of metamorphic rocks and one of the components of blueschist.",
+  "golden-hills-turquoise": "Golden Hills turquoise is a turquoise from Kazakhstan, cut as a gem and set in rings with diamonds.",
   "goshenite": "The colorless to near-colorless variety of beryl, also called white beryl.",
   "grape-agate": "A marketing name for purple clusters of tiny quartz crystals shaped like bunches of grapes.",
+  "gray-diamond": "Gray diamond is a fancy colored diamond, one of the least appreciated fancy diamond colors.",
   "green-agate": "Green agate is an agate with green color.",
   "green-amber": "Green, blue or violet tints in amber are rare and come from extreme fluorescence.",
+  "green-apatite": "Green apatite is the green color of apatite, a calcium phosphate gem mineral, and it grows in large crystals.",
+  "green-apophyllite": "Green apophyllite is a pastel green color form of apophyllite, best known from Poona in India.",
   "green-beryl": "Green beryl is a light green variety of beryl.",
+  "green-diamond": "Green diamond is a diamond whose color comes mostly from radiation damage to the crystal, and it is very rare.",
   "green-fluorite": "Green is one color of fluorite, the mineral calcium fluoride (CaF2).",
   "green-garnet": "Calcium garnets, including tsavorite and demantoid, typically form when limestone is altered to marble by contact metamorphism.",
   "green-jasper": "Green jasper is jasper with a light to dark green color.",
+  "green-kyanite": "Green kyanite is the green color form of kyanite, an aluminum silicate gem mineral whose gems are mostly blue.",
+  "green-malachite": "Green malachite is malachite, a green copper carbonate hydroxide mineral prized as an ornamental stone.",
   "green-onyx": "Onyx is a typically black-and-white banded variety of agate, a silicate mineral.",
   "green-opal": "Prase opal's green is attributed to nickel-bearing inclusions.",
   "green-quartz": "Green quartz is mostly prasiolite, a yellow-green to green quartz.",
   "green-sapphire": "Green sapphire is a non-red corundum, so it counts as sapphire by definition.",
+  "green-tiger-eye": "Green tiger eye is tiger's-eye sold in a green color, which is usually produced by heat or dye treatment.",
   "green-tourmaline": "Chromium or vanadium gives the intense green of chrome tourmaline.",
   "green-turquoise": "Turquoise is a hydrated copper and aluminum phosphate, a mineral of the turquoise group.",
+  "green-zircon": "Zircon, a zirconium silicate mineral (family statement).",
+  "greenlandite": "Greenlandite is a green to bluish green quartzite colored by fuchsite mica, from the Nuuk area of Greenland.",
+  "greenockite": "Greenockite is a rare cadmium sulfide mineral and the only cadmium mineral of importance.",
+  "gypsum": "Gypsum is an evaporite mineral and the most common sulfate mineral, found in layered sedimentary deposits.",
+  "gyrolite": "Gyrolite is a mineral that forms spherical to radial masses in vugs and veinlets of basalts, named from the Greek for round.",
   "halite": "The mineral form of common salt, sodium chloride.",
+  "hambergite": "Hambergite is an uncommon accessory mineral of granite pegmatites, mostly seen in collections.",
+  "hanksite": "Hanksite is a sodium potassium sulfate carbonate mineral that forms in lake evaporite deposits.",
+  "hauyne": "Haüyne is a rare blue sodalite-group mineral, related to lazurite and part of lapis lazuli, that is only rarely faceted.",
+  "hawks-eye": "Hawks Eye is the unstained blue form of tigers eye, quartz that replaced fibrous crocidolite.",
+  "hedenbergite": "Hedenbergite is a pyroxene group mineral that forms a series with diopside.",
   "heliodor": "A yellow, greenish yellow or golden-yellow variety of the mineral beryl.",
   "hematite": "Mineral species hematite, an oxide.",
   "hemimorphite": "A zinc silicate mineral and a minor ore of zinc, common as a secondary mineral in weathered rock above zinc deposits.",
+  "herderite": "Herderite is a rare calcium beryllium phosphate mineral, the fluorine-rich end member of a series with hydroxylherderite.",
   "herkimer-diamond": "Doubly terminated quartz crystals found in Herkimer County, New York, not true diamond.",
   "hessonite": "Orange to cinnamon variety of grossular garnet, the calcium-aluminum member of the garnet group.",
+  "heulandite": "Heulandite is one of the more common zeolite minerals, with a distinctive crystal form and a pearly luster on cleavage surfaces.",
+  "hexagonite": "Hexagonite is the pinkish purple variety of tremolite, a rare gem that owes its color to manganese.",
+  "hiddenite": "Hiddenite is the green, chromium-rich transparent variety of spodumene first found in North Carolina.",
+  "hollandite": "Hollandite is an opaque manganese-ore mineral of the cryptomelane group, found in metamorphic manganese ores.",
+  "holly-blue-agate": "Holly Blue is a lavender-toned blue chalcedony from Oregon, arguably the most valuable type of blue chalcedony.",
   "honey-calcite": "A yellow to honey-colored form of calcite.",
+  "hornblende": "Hornblende is a field and classroom name for a group of dark-colored amphibole minerals found in many igneous and metamorphic rocks.",
   "howlite": "The dark veins are black, threadlike impurities or host-rock matrix the howlite grows around.",
+  "humite": "Humite is the namesake mineral of the humite group, a magnesium iron silicate with fluorine and hydroxyl.",
+  "hurlbutite": "Hurlbutite is a rare calcium beryllium phosphate mineral that forms late in granite pegmatites.",
+  "hydrogrossular-garnet": "Hydrogrossular is a garnet that is never transparent and is often used as a jade substitute.",
+  "hypersthene": "Hypersthene is an orthopyroxene, an iron-magnesium silicate between enstatite and ferrosilite, that is sometimes used as an ornamental stone.",
+  "iceland-spar": "Iceland spar is clear, cleaved, colorless calcite, best known for showing double refraction.",
+  "ilmenite": "Ilmenite is a black iron-titanium oxide mineral and the primary ore of titanium.",
+  "impactite": "Impactite is terrestrial rock altered by the heat, pressure and shock of a large meteorite impact.",
+  "imperial-jasper": "Imperial jasper is a Mexican jasper variegated in green and yellow, partly translucent, and priced at a premium because it is relatively rare.",
   "imperial-topaz": "A prized color variety of topaz, reddish orange to orangy red.",
+  "indonesian-blue-amber": "Indonesian blue amber is a rare blue amber with some production from Indonesia, where its blue is a UV fluorescence.",
+  "inesite": "Inesite is an uncommon pink manganese-bearing mineral that collectors prize for its chisel-shaped crystals.",
   "jade": "A cultural term for a very durable material used for tools, carvings and gems, covering two different minerals, jadeite and nephrite.",
+  "jamesonite": "Jamesonite is a hydrothermal lead antimony sulfide mineral with the formula Pb4FeSb6S14.",
+  "japan-law-twin": "Japan Law Twin is a twinning form of quartz in which two crystals are joined.",
   "jasper": "An opaque, solid or patterned variety of cryptocrystalline quartz colored by mineral impurities.",
+  "jaspillite": "Jaspillite, spelled jaspilite in the source, is a banded iron formation rock of gray hematite and red jasper bands.",
+  "jeremejevite": "Jeremejevite is a rare borate mineral, best known for its aesthetic blue and gemmy crystals.",
   "jet": "Black organic gem material, a variety of lignite coal that forms from fossilized wood.",
+  "k2-jasper": "K2 Jasper is a white granite from northern Pakistan with blue azurite orbs, and it is not jasper.",
   "kammererite": "A chromium-bearing variety of clinochlore, a mineral in the chlorite group.",
+  "kernite": "Kernite is a sodium borate mineral first found in 1926 at Boron, California, and a key source of borax.",
+  "kimberlite": "Kimberlite is an igneous rock known as the main host rock of diamonds, named for Kimberley in South Africa.",
   "kingman-turquoise": "Variety of the mineral turquoise, an opaque hydrous copper aluminum phosphate.",
+  "kinoite": "Kinoite is a monoclinic calcium copper silicate hydroxide mineral with a deep azurite-blue color.",
+  "kornerupine": "Kornerupine is a rare magnesium aluminum boron silicate mineral that is cut as a gemstone, usually dark brown or green.",
   "kunzite": "The best-known variety of the mineral spodumene, named after George F. Kunz.",
   "kyanite": "Orange kyanite from Loliondo, Tanzania owes its color to small amounts of manganese.",
   "labradorite": "A plagioclase feldspar, best known for the iridescent flash called labradorescence.",
   "lace-agate": "A variety of agate, which is chalcedony (microcrystalline quartz).",
   "lapis-lazuli": "A blue rock made of several minerals, mainly lazurite with calcite and pyrite, prized since antiquity.",
+  "lawsonite": "Lawsonite is a rare mineral described as a hydrated variant of the feldspar anorthite.",
+  "lazulite": "Lazulite is an aesthetic blue mineral that forms in distinct crystals.",
+  "legrandite": "Legrandite is an uncommon zinc arsenate mineral that forms in the oxidized zone of zinc and arsenic deposits.",
   "lepidolite": "A rare lithium-rich mica mineral, usually pink, red or purple.",
+  "leucite": "Leucite is a feldspathoid mineral that forms directly from cooling lava in volcanic rock.",
+  "libethenite": "Libethenite is an uncommon secondary mineral that forms in the oxidized zone of copper deposits.",
+  "limonite": "Limonite is a mineraloid of hydrous iron oxides, not a true mineral, formed mostly by the weathering of iron-bearing materials.",
+  "linarite": "Linarite is a very rare blue collector mineral that forms as a secondary mineral in the oxidized zones of lead-copper deposits.",
+  "lizardite": "Lizardite is a mineral of the kaolinite serpentine group, probably the most common serpentine mineral.",
+  "lodestone": "Lodestone is a naturally magnetized form of magnetite that can pick up small pieces of iron.",
+  "loellingite": "Loellingite is an uncommon arsenic mineral of the Loellingite group, found in veins with other sulfides.",
+  "ludlamite": "Ludlamite is an iron magnesium manganese phosphate mineral found in granite pegmatites.",
   "magnetite": "A very common iron oxide mineral, found in igneous, metamorphic and sedimentary rocks, and the most commonly mined ore of iron.",
   "mahogany-obsidian": "A reddish-brown to black variety of obsidian, which is natural volcanic glass formed from rapidly cooled lava.",
   "malachite": "A green copper carbonate hydroxide mineral and a minor copper ore, often cut into cabochons, beads and carvings.",
+  "mali-garnet": "Mali garnet is a yellow-green to brown gem garnet from Mali with a composition between grossular and andradite.",
   "mammoth-ivory": "Organic gem material cut from the tusks of the extinct mammoth.",
+  "mandarin-garnet": "Mandarin garnet is a trade name for vivid orange spessartite garnet, first found in Namibia.",
+  "maw-sit-sit": "Maw sit sit is a chromium-rich metamorphic rock with bright green color and black or white spots, bands and swirls, and it is not a true jade.",
+  "mellite": "Mellite is an uncommon secondary mineral that forms in brown coal and lignite deposits.",
+  "mesolite": "Mesolite is a zeolite group mineral found in cavities of volcanic rocks, typically basalt, and in hydrothermal veins.",
+  "mexican-agate": "Mexican agate is a name for agate from Mexico, and rarely a misnomer for Mexican onyx, which is a banded travertine.",
   "mexican-fire-opal": "A red to yellow, translucent to transparent opal variety, usually faceted, named for its fire-like body color rather than play-of-color.",
+  "microcline": "Microcline is a potassium feldspar polymorphous with orthoclase and sanidine, differing from them only in crystal structure.",
+  "microlite": "Microlite is a tantalum-rich member of the pyrochlore supergroup, found as small crystals and rarely cut as gems.",
   "milky-quartz": "Forms in crystalline quartz veins and pegmatites, often with gold in hydrothermal veins.",
+  "millerite": "Millerite is a nickel ore mineral known for slender brassy crystals and hair-like tufts.",
+  "mimetite": "Mimetite is a mineral of the apatite group, found in many places around the world.",
+  "mohawkite": "Mohawkite is a mixture of copper arsenide minerals, copper and silver found at the Mohawk Mine in Michigan.",
   "moldavite": "A natural glass thought to have formed in an asteroid impact about 15 million years ago.",
+  "monazite": "Monazite is a rare phosphate mineral mined from placer deposits for its rare earth and thorium content.",
   "mookaite-jasper": "Silicified porcelanite, classed as a rock.",
   "moonstone": "Gem-quality feldspar showing adularescence, a soft glow that seems to float under the surface.",
   "moqui-marbles": "Small brownish-black balls of iron oxide and sandstone that weather out of Navajo Sandstone.",
+  "mordenite": "Mordenite is a zeolite mineral that forms in veins in igneous rocks and from volcanic glass, with fibrous material sometimes cut for collectors.",
   "morganite": "The pink to orange-pink variety of beryl, the mineral species that also includes emerald and aquamarine.",
+  "moroccan-agate": "Moroccan agate is agate from deposits in the Atlas Mountains, with Sidi Rahal the best studied source.",
+  "mottramite": "Mottramite is a secondary mineral from the oxidized zone of base metal deposits that carry vanadium.",
+  "muscovite": "Muscovite is the most common mineral of the mica family and a major rock-forming mineral.",
   "natrolite": "A mineral species in the zeolite group.",
+  "neon-apatite": "Neon apatite is bright green to blue gem apatite from southern Madagascar whose neon color comes from heat treatment.",
+  "nepheline": "Nepheline is a rock-forming mineral found mostly in alkali-rich igneous rocks, and it is rarely cut as a gem.",
+  "neptunite": "Neptunite is a relatively recent mineral first found in the early 1900s, with black crystals often on white natrolite.",
+  "nontronite": "Nontronite is a soft, claylike mineral of the smectite group, formed as a weathering product of basalts.",
   "obsidian": "An igneous rock and a mineraloid, not a mineral.",
   "ocean-jasper": "A silicified rhyolite sold as a variety of orbicular jasper.",
+  "okenite": "Okenite is a hydrated calcium silicate mineral that often forms white cotton-ball clusters of very fine fibers in volcanic cavities.",
+  "oligoclase": "Oligoclase is a plagioclase feldspar, treated by the IMA as a calcium-rich variety of albite.",
   "opal": "A hydrated, amorphous form of silica, chemically like quartz but with 3% to 21% water.",
+  "orange-aventurine": "Orange aventurine is sparkly translucent quartz or quartzite whose orange color can come from hematite or goethite inclusions.",
+  "orange-diamond": "Orange diamond is a diamond with an orange body color, caused mostly by nitrogen impurities in the crystal.",
+  "orange-kyanite": "Orange kyanite is kyanite in a rare orange color, shown here from Tanzania.",
   "orange-sapphire": "Orange sapphire is a fancy sapphire, meaning a gem-quality corundum in a color other than red.",
   "orbicular-jasper": "Jasper is colored by various mineral impurities.",
+  "oregon-sunstone": "Oregon sunstone is a labradorite feldspar from Oregon whose copper inclusions can give a schiller glow.",
+  "orpiment": "Orpiment is a mineral known for its strikingly bright yellow color, though it can also be bright orange or lustrous brown.",
   "orthoclase": "A feldspar mineral with formula KAlSi3O8.",
+  "owyhee-blue-opal": "Owyhee Blue Opal is blue opal mined in the Owyhee Mountains of eastern Oregon near the Idaho border.",
+  "padparadscha-sapphire": "Padparadscha sapphire is a variety of corundum with a subtle pinkish orange to orangey pink color.",
+  "painite": "Painite is a rare gem mineral found only in Myanmar, first identified as a new species in 1957.",
+  "papagoite": "Papagoite is a rare gem material first found in Ajo, Arizona, and also found in South Africa and Namibia.",
+  "paragonite": "Paragonite is a mineral of the mica group that occurs in low- to medium-grade metamorphic schists and phyllites.",
+  "pargasite": "Pargasite is a calcic amphibole mineral of the hornblende group, named after Pargas in Finland.",
   "peach-moonstone": "A peach-colored moonstone, a warm-toned feldspar with adularescent sheen.",
+  "peach-quartz": "Peach quartz is a name some people give to orange quartz, a quartz colored by impurities.",
   "peacock-ore": "Peacock ore is the name for bornite, a copper iron sulfide mineral, called that for its tarnish.",
+  "peanut-obsidian": "Peanut obsidian is a gray to greenish gray perlite with red stellate spherulites that look like a mass of peanuts.",
+  "peanut-wood": "Peanut wood is a petrified wood from Australia, dark brown to black with white markings the size of a peanut.",
+  "pegmatite": "Pegmatite is an igneous rock made almost entirely of crystals more than one centimeter across.",
   "peridot": "The green gem variety of the mineral olivine, found in mantle rock, lava and meteorites.",
+  "peristerite": "Peristerite is primarily oligoclase with a complex mixture of feldspars, and it shows a blue or white iridescence.",
   "persian-turquoise": "A color and trade name for the finest sky-blue turquoise, long associated with Iranian mines.",
+  "perthite": "Perthite is an intergrowth of feldspars, albite and oligoclase with orthoclase or microcline.",
+  "petalite": "Petalite is a lithium bearing mineral that rarely occurs as gem quality crystal and suits earrings and pendants.",
   "petrified-wood": "Fossilized wood where plant tissue has been replaced by minerals, mostly silica.",
+  "pezzottaite": "Pezzottaite is a rare mineral similar to beryl that is recognized as its own species and sometimes sold as raspberry beryl.",
   "phantom-quartz": "A rock crystal containing ghost-like inner outlines of earlier crystal faces, formed when growth paused and other minerals coated the faces.",
+  "phosphophyllite": "Phosphophyllite is a rare zinc phosphate mineral that can show a lovely blue-green color.",
   "picture-jasper": "A jasper variety whose patterns look like scenes or pictures when cut.",
   "pink-amethyst": "Amethyst is a violet variety of quartz, so pink amethyst would be a light amethyst within quartz.",
+  "pink-aventurine": "Pink aventurine is aventurine quartz whose pink color and sparkle come from tiny flakes of lepidolite mica.",
+  "pink-diamond": "Pink diamond is a fancy colored diamond, among the rarest gems on the planet.",
+  "pink-grossular-garnet": "Pink grossular garnet is the light pink to raspberry-red form of grossular, a member of the garnet group.",
+  "pink-halite": "Pink halite is pink-colored halite, found for example as hopper crystals at Searles Lake in California.",
+  "pink-jade": "Pink jade is a name sometimes given to Wyoming jade that gets its color from thulite, a variety of zoisite.",
   "pink-opal": "A pink variety of common opal, opal without play-of-color.",
   "pink-sapphire": "Sapphire is corundum in every color except red.",
   "pink-topaz": "Chromium causes pink and red color in topaz.",
+  "pipestone": "Pipestone is a soft red claystone (argillite) called catlinite that has long been quarried to make pipes.",
+  "plumbogummite": "Plumbogummite is an uncommon secondary mineral of the crandallite group, found in oxidized lead deposits.",
+  "plume-agate": "Plume agate is a kind of moss agate, mostly pale agate holding fluffy red, yellow or violet masses that resemble egret plumes.",
+  "pollucite": "Pollucite is a rare cesium zeolite mineral and the main ore of cesium, only occasionally cut as a gem.",
   "polychrome-jasper": "A descriptive name for jasper showing several colors.",
+  "porcelain-jasper": "Porcelain jasper is a hard, naturally baked impure clay, or porcellanite, whose red color makes it look like jasper.",
+  "powellite": "Powellite is a rare calcium molybdate mineral that forms a series with scheelite and is mostly a collectors mineral.",
   "prasiolite": "A yellow-green to green variety of quartz, cut as faceted stones for jewelry or collectors.",
   "prehnite": "A calcium aluminum silicate mineral, popular as a green cabochon material and sometimes faceted.",
   "prehnite-epidote": "Prehnite is most often a vein or amygdule mineral in basalt, associated with native copper, laumontite, epidote, chlorite, quartz and calcite.",
+  "preseli-bluestone": "Preseli Bluestone is a spotted metamorphosed dolerite from the Preseli Hills in Wales.",
+  "proustite": "Proustite is a deep red silver arsenic sulfide mineral, a rare collector gem that was also a minor silver ore.",
+  "pumpellyite": "Pumpellyite is a group of closely related minerals found in igneous and metamorphic rocks, named for geologist Raphael Pumpelly.",
+  "purple-apatite": "Purple apatite is the violet to purple color of apatite, a phosphate mineral, and is highly prized.",
+  "purple-chalcedony": "Purple chalcedony is a microcrystalline form of amethyst quartz with a grayish, slightly reddish purple color.",
+  "purple-diamond": "Purple diamonds are fancy-colored diamonds colored by natural plastic deformation, and pure purple stones are very rare.",
   "purple-fluorite": "Purple fluorite is fluorite, the mineral calcium fluoride, in purple color.",
   "purple-jade": "A purple rock containing jadeite and quartz, reported from Turkey and now used in the jewelry trade for beads, cabochons and carvings.",
+  "purple-scapolite": "Purple scapolite is the purple gem color of scapolite, the second most common gem color after yellow.",
   "purpurite": "Rare manganese-dominant end member of a mineral series with heterosite, a purple manganese iron phosphate.",
+  "pyrargyrite": "Pyrargyrite is a silver-bearing mineral of the proustite group, rarely cut as a gem.",
   "pyrite": "A brass-yellow iron sulfide mineral with a bright metallic luster, the most common sulfide mineral.",
   "pyromorphite": "A lead chlorophosphate mineral of the apatite group, sometimes mined as an ore of lead.",
+  "pyrope": "Pyrope is a member of the garnet group and makes a popular dark red gemstone.",
+  "pyrophyllite": "Pyrophyllite is a soft aluminum silicate mineral like talc, used for ceramics and as a minor carving stone.",
+  "pyroxmangite": "Pyroxmangite is a rare manganese silicate mineral and a high-temperature polymorph of rhodonite.",
+  "pyrrhotite": "Pyrrhotite is a magnetic iron sulfide mineral with a bronze color.",
+  "quartz": "Quartz is a mineral made of silicon and oxygen, the most abundant mineral in Earth's crust.",
   "quartz-geode": "A geode is a rock structure, not a mineral species.",
+  "quartzite": "Quartzite is a nonfoliated metamorphic rock made almost entirely of quartz, formed when quartz-rich sandstone is altered.",
+  "rainbow-andradite-garnet": "Rainbow andradite garnet is a rare dark root-beer-brown andradite garnet that shows an iridescent phenomenon.",
   "rainbow-fluorite": "A multi-colored fluorite cut from color-zoned crystals.",
   "rainbow-lattice-sunstone": "A rare sunstone from Australia that shows glitter, a bluish glow and a rainbow lattice pattern.",
   "rainbow-moonstone": "A trade name mostly used for white labradorite, a plagioclase feldspar with blue flashes.",
@@ -2176,61 +2842,126 @@
   "realgar": "An arsenic sulfide mineral and one of the principal sources of arsenic.",
   "red-agate": "Red agate is an agate with red color, from iron oxide bands.",
   "red-beryl": "An extremely rare red variety of beryl colored by trace manganese.",
+  "red-diamond": "Red diamond is a fancy-colored diamond with a red hue, the rarest of all the fancy-colored diamond varieties.",
   "red-jade": "Jade is an umbrella term for two rocks, jadeite (sodium aluminum pyroxene) and nephrite (calcium magnesium amphibole).",
   "red-spinel": "Red spinel is the red color of spinel, a gem species from a group of related minerals.",
+  "rhodizite": "Rhodizite is a rare late-stage mineral of alkali-rich granite pegmatites and the potassium end member of a series with londonite.",
   "rhodochrosite": "A manganese carbonate mineral from light pink to bright red, used as a manganese ore, gemstone and specimen.",
   "rhodonite": "A pink manganese silicate mineral of variable composition, used as a gem and ornamental stone.",
+  "rhyolite": "Rhyolite is an extrusive igneous rock with a very high silica content, usually pink or gray with very fine grains.",
+  "richterite": "Richterite is a sodic-calcic amphibole mineral named for the German mineralogist Theodor Richter.",
   "roman-glass": "Glass made and worked in the Roman world, used for tablewares, toilet items, jewelry, storage, mosaics and more.",
+  "rosasite": "Rosasite is an uncommon copper zinc carbonate mineral that forms in the oxidized zone of copper and zinc deposits.",
   "rose-quartz": "A pink variety of quartz, usually translucent and massive rather than in clear crystals.",
   "rubellite": "Dark pink to red variety of tourmaline, colored by trace manganese.",
   "ruby": "A variety of the mineral species corundum (aluminum oxide).",
   "ruby-fuchsite": "Bright red corundum (ruby) crystals found inside green fuchsite mica, sold as a mixed gem material.",
   "rudraksha": "The cleaned stone (pit or seed) of the fruit of Elaeocarpus trees, used as Hindu prayer beads.",
   "rutilated-quartz": "A variety of quartz, a mineral made of silicon and oxygen.",
+  "rutile": "Rutile is a titanium oxide mineral, TiO2, known for its bright luster and its needles inside other gems.",
+  "saltwater-pearl": "Saltwater pearls are pearls grown in marine oysters, natural or cultured, and they set the traditional standard for the round white pearl.",
+  "samarskite": "Samarskite is a radioactive, brittle, metamict yttrium niobium tantalum oxide mineral found in granite pegmatites.",
+  "sanidine": "Sanidine is a potassium feldspar mineral of volcanic rocks, with little gem significance.",
   "sapphire": "Gem-quality corundum of any color except red (red is ruby).",
+  "sapphirine": "Sapphirine is a rare gem mineral species distinct from sapphire, most often grayish blue.",
   "sardonyx": "A banded chalcedony with red to brown (sard) bands alternating with black or white (onyx) bands.",
+  "satin-spar": "Satin spar is a fibrous variety of gypsum that shows a chatoyant glow when cut as cabochons.",
+  "saussurite": "Saussurite is an alteration product of basaltic rocks, mostly albite and epidote or zoisite, sometimes sold as jade.",
+  "scapolite": "Scapolite is a mineral group with a series from marialite to meionite, and the gems that form in it carry the name.",
+  "schalenblende": "Schalenblende is a banded zinc sulfide rock of sphalerite, sometimes layered with wurtzite, and rarely cut into cabochons.",
   "scheelite": "A calcium tungstate mineral and an important ore of tungsten.",
+  "scorodite": "Scorodite is a secondary mineral of the variscite group, formed by oxidation of sulfides that contain arsenic.",
   "selenite": "Colorless, transparent crystals of gypsum.",
+  "septarian-nodule": "Septarian nodules, also called septaria, are concretions with radial and concentric septa of coarse minerals.",
+  "serandite": "Serandite is a rare mineral, the manganese end member of a series with pectolite, famous from Mont Saint Hilaire in Quebec.",
+  "shaman-stone": "Shaman stone is a collector name for Moqui marbles, iron concretions of iron oxide and sandstone.",
+  "shark-tooth": "Shark teeth are very hard structures of enameloid over dentine, and fossil ones take their color from the sediment.",
   "siderite": "Carbonate mineral of the calcite group, forming solid-solution series with magnesite, rhodochrosite and smithsonite.",
+  "sillimanite": "Sillimanite is a metamorphic aluminum silicate mineral, trimorphous with kyanite and andalusite and cut as a rare collector gem.",
+  "silver-rutile": "Silver rutile here means silvery gray tufts of the titanium dioxide mineral rutile, found inside quartz crystals.",
   "silver-sheen-obsidian": "A sheen variety of obsidian (volcanic glass) with a silvery light effect.",
+  "sinhalite": "Sinhalite is a rare mineral formed in boron-rich skarns and found as gem pebbles in Sri Lanka.",
+  "sleeping-beauty-turquoise": "Sleeping Beauty turquoise is turquoise from the Sleeping Beauty mine in Globe, Arizona, prized for its even sky blue color.",
+  "smithsonite": "Smithsonite is a zinc carbonate mineral, an ore of zinc and a minor gemstone.",
   "smoky-quartz": "A brown to black color variety of the mineral quartz.",
   "snow-quartz": "A milky white, cloudy variety of quartz, the same material as milky quartz.",
   "snowflake-obsidian": "A black variety of obsidian (volcanic glass) with white snowflake-like inclusions of cristobalite, the mineral that crystallizes inside the glass.",
   "sodalite": "A blue to blue-violet feldspathoid mineral used as gem, carving and architectural stone.",
+  "sonora-sunrise": "Sonora Sunrise is a trade name for a rock made mainly of bluish-green chrysocolla and bright red cuprite.",
+  "sonora-sunset": "Sonora Sunset is a trade name for a rock of bluish-green chrysocolla and bright red cuprite.",
+  "spectrolite": "Spectrolite is a trade name for labradorite feldspar from Finland that shows strong flashes of several colors.",
   "sphalerite": "A zinc sulfide mineral and the most important ore of zinc.",
+  "sphene-titanite": "Sphene Titanite is a rare titanium mineral, called titanite by geologists and sphene as a gemstone.",
   "spinel": "The magnesium-aluminium member of the spinel mineral group, long mistaken for ruby.",
+  "spodumene": "Spodumene is a pyroxene mineral found in lithium-rich pegmatites, with kunzite, hiddenite and triphane as its gem colors.",
+  "sponge-coral": "Sponge coral is the trade name of Melithaea ochracea, a gem coral from the South China Sea with open, sponge-like holes.",
+  "spurrite": "Spurrite is a mineral formed by high-temperature thermal metamorphism along the contact between carbonate rock and mafic magma.",
   "star-garnet": "The star comes from oriented rutile needle inclusions.",
   "star-ruby": "Ruby (red corundum) cut as a cabochon to show a six-rayed star from rutile needle inclusions.",
   "star-sapphire": "A sapphire that shows a star-like effect called asterism, caused by intersecting needle-like inclusions.",
+  "staurolite": "Staurolite is a metamorphic mineral famous for its twinned, cross-shaped crystals, found in schist and gneiss.",
+  "steatite-soapstone": "Steatite Soapstone is a rock made up largely or wholly of the mineral talc.",
+  "stibnite": "Stibnite is the primary ore of antimony and forms some of the most outstanding natural crystals.",
+  "stromatolite": "Stromatolites are hard, raised, reef-like structures built by cyanobacteria.",
+  "strontianite": "Strontianite is a strontium carbonate mineral and, with celestine, a principal ore of strontium.",
   "sugilite": "A rare pink to purple gemstone and silicate mineral.",
+  "sunset-tourmaline": "Sunset tourmaline is a bicolor form of tourmaline cut as a gem and set in jewelry such as rings.",
   "sunstone": "Feldspar with tiny reflective inclusions that give a glittery flash called aventurescence.",
+  "tantalite": "Tantalite is a dark, very heavy oxide mineral, the tantalum rich member of a series with columbite and an important ore.",
   "tanzanite": "The blue-violet variety of zoisite, named by Tiffany & Co after Tanzania.",
+  "thulite": "Thulite is the pink to reddish variety of the mineral zoisite, an opaque stone used as a minor gemstone.",
+  "thunder-bay-amethyst": "Thunder Bay amethyst is amethyst from vein deposits around Thunder Bay, where gem quality material is extremely rare.",
   "tiffany-stone": "A trade name for a purple, blue and white gem material from Utah, cut into beads, cabochons and tumbled stones.",
+  "tiger-iron": "Tiger iron is a market name for a red, hematite-rich microcrystalline quartz rock from banded iron formations in Western Australia.",
   "tigers-eye": "Chatoyant quartz-group material formed when blue crocidolite alters to quartz with fibrous structure kept, then iron-stained golden brown.",
   "topaz": "A silicate mineral containing aluminum and fluorine, hardness 8, sold in many natural and treated colors.",
   "tourmaline": "A supergroup of boron silicate minerals with over thirty species, occurring in more colors than any other mineral group.",
+  "tremolite": "Tremolite is a mineral that forms a series with actinolite, and its dense fibrous form is nephrite jade.",
+  "triphane": "Triphane is the name for yellow gem-quality spodumene, and an early name for spodumene itself.",
+  "triplite": "Triplite is a manganese iron phosphate mineral found mainly in granite pegmatites.",
   "tsavorite-garnet": "Tsavorite is a bright green grossular garnet, one of the two calcium garnets highly regarded in the gem trade.",
+  "tugtupite": "Tugtupite is a rare gem mineral of the helvine group, first discovered in 1960 and closely related to sodalite.",
   "turquoise": "An opaque mineral in shades of blue, bluish green, green and yellowish green, treasured as a gemstone for thousands of years.",
   "turritella-agate": "A brown, translucent to semi-transparent fossil-bearing agate from the Green River Formation of Wyoming, full of spiral snail shells.",
+  "umbalite": "Umbalite is a trade name for a garnet, either malaya garnet or rhodolite from the Umba valley.",
   "unakite": "A pink and green metamorphic rock, popular as lapidary material.",
+  "uvarovite": "Uvarovite is a rare member of the garnet group that is always deep green in color.",
+  "uvite": "Uvite is an uncommon tourmaline named for the Uva Province of Sri Lanka, where it was first identified.",
   "variscite": "A rare hydrated aluminum phosphate mineral, usually green, often cut into cabochons and small carvings.",
+  "vayrynenite": "Vayrynenite is a mineral that forms as an alteration product of beryl and triphylite in complex zoned granite pegmatites.",
+  "vera-cruz-amethyst": "Vera Cruz amethyst is amethyst from Vera Cruz in Mexico, noted for very pale, clear prismatic crystals.",
+  "verdite": "Verdite is a trade name for grayish green to bright green metamorphic rocks colored by fuchsite mica.",
   "vesuvianite": "A calcium aluminum silicate mineral, also known as idocrase, especially when used as a gem.",
+  "veszelyite": "Veszelyite is a rare copper zinc phosphate mineral found in the oxidized zone of some base-metal deposits.",
+  "villiaumite": "Villiaumite is a sodium fluoride mineral found in nepheline syenite and its pegmatites.",
+  "violet-sapphire": "Corundum (family statement, all gem-quality corundum other than red is sapphire).",
   "vivianite": "Mineral species in the vivianite group.",
   "watermelon-tourmaline": "A concentrically color-zoned elbaite variety of tourmaline.",
+  "wavellite": "Wavellite is a radiating phosphate mineral that forms pinwheel balls, named after William Wavell.",
+  "whewellite": "Whewellite is a rare oxalate mineral that forms in veins, coal seams and organic concretions, best kept as a display piece.",
   "white-agate": "Agate is a banded variety of chalcedony, a fibrous form of quartz.",
+  "white-buffalo-stone": "White buffalo stone is a name for a white cabochon material described as a so-to-speak albino turquoise.",
   "white-calcite": "White is the usual color of calcite, a carbonate mineral.",
   "white-jade": "White nephrite is found in small quarries and as river pebbles and boulders near the Kuen-Lun range.",
   "white-opal": "Play of color in opal comes from diffraction by stacked silica spheres and is unrelated to body color.",
   "white-topaz": "White topaz is colorless topaz, a gem variety of the topaz mineral.",
   "white-turquoise": "Turquoise is an opaque mineral, a hydrous copper and aluminum phosphate.",
   "willemite": "A zinc silicate mineral, the zinc analogue of phenakite.",
+  "wolframite": "Wolframite is a series of iron manganese tungstate minerals between huebnerite and ferberite, and an important ore of tungsten.",
+  "wollastonite": "Wollastonite is a calcium silicate mineral that is an important industrial material and is sometimes cut as a curiosity gem.",
+  "xonotlite": "Xonotlite is a mineral that forms in contact metamorphic deposits within limestones, serpentinites and metavolcanic rocks.",
   "yellow-agate": "Agate forms when silica from groundwater fills cavities, and color bands come from changing water chemistry.",
   "yellow-apatite": "Apatite is a group of phosphate minerals, not one species.",
   "yellow-aventurine": "A yellow color of aventurine, a translucent quartz or quartzite with sparkly mineral inclusions (aventurescence).",
+  "yellow-diamond": "Yellow diamond is a fancy colored diamond whose yellow most often comes from nitrogen impurities in the crystal lattice.",
   "yellow-jade": "Jadeite color is caused by impurities.",
   "yellow-opal": "Opal forms when water deposits microscopic silica spheres in rock cavities, as silica gel fills crevices.",
+  "yellow-quartz": "Yellow quartz is the yellow to orange variety of quartz that is known as citrine.",
   "yellow-sapphire": "Sapphire is a variety of the mineral corundum.",
   "yellow-topaz": "Yellow topaz is the yellow form of topaz, which is a naturally occurring neo-silicate mineral.",
-  "zircon": "A zirconium silicate mineral, used as a gemstone for about 2000 years and today the primary ore of zirconium."
+  "zebra-stone": "Zebra stone, also called zebra rock, is a banded siliceous argillite known only from Western Australia.",
+  "zincite": "Zincite is a rare zinc oxide mineral with a distinctive bright orange color.",
+  "zircon": "A zirconium silicate mineral, used as a gemstone for about 2000 years and today the primary ore of zirconium.",
+  "zunyite": "Zunyite is a mineral that forms cubic, tetrahedral crystals in highly aluminous shales and altered volcanic rocks."
  }
 }

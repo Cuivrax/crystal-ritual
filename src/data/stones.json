@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-19",
- "count": 374,
+ "generated": "2026-11-24",
+ "count": 829,
  "stones": {
   "agate": {
    "slug": "agate",
@@ -9014,6 +9014,8138 @@
     "green",
     "yellow",
     "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "adularia": {
+   "slug": "adularia",
+   "name": "Adularia",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "orthoclase",
+   "mohs": {
+    "min": 6,
+    "max": 6
+   },
+   "colors": "White or colorless.",
+   "colorFamilies": [
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "aegirine": {
+   "slug": "aegirine",
+   "name": "Aegirine",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6
+   },
+   "colors": "Dark green to greenish black, also reddish brown or black.",
+   "colorFamilies": [
+    "green",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "agatized-coral": {
+   "slug": "agatized-coral",
+   "name": "Agatized Coral",
+   "aliases": [],
+   "kind": "variety",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "ajoite": {
+   "slug": "ajoite",
+   "name": "Ajoite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3.5,
+    "max": 3.5
+   },
+   "colors": "Blue-green to light green.",
+   "colorFamilies": [
+    "blue",
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "alabandite": {
+   "slug": "alabandite",
+   "name": "Alabandite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": "Iron-black, tarnishing brown, deep green to brown and red in thin slivers.",
+   "colorFamilies": [
+    "green",
+    "red",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "albite": {
+   "slug": "albite",
+   "name": "Albite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "White to gray, bluish, greenish or reddish, sometimes chatoyant.",
+   "colorFamilies": [
+    "green",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "allophane": {
+   "slug": "allophane",
+   "name": "Allophane",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 3
+   },
+   "colors": "White, pale blue to sky blue, green or brown.",
+   "colorFamilies": [
+    "blue",
+    "green",
+    "brown",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "almandine": {
+   "slug": "almandine",
+   "name": "Almandine",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 7,
+    "max": 7.5
+   },
+   "colors": "Deep red, brownish red, red-violet or black, sometimes sectored.",
+   "colorFamilies": [
+    "purple",
+    "red",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "alunite": {
+   "slug": "alunite",
+   "name": "Alunite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": "Colorless if pure, otherwise white, pale gray, yellow, red or reddish brown.",
+   "colorFamilies": [
+    "yellow",
+    "red",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "alurgite": {
+   "slug": "alurgite",
+   "name": "Alurgite",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "muscovite",
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "amber-calcite": {
+   "slug": "amber-calcite",
+   "name": "Amber Calcite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "calcite",
+   "mohs": {
+    "min": 3,
+    "max": 3
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "amblygonite": {
+   "slug": "amblygonite",
+   "name": "Amblygonite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": "Milk-white, pale yellow, beige, salmon-pink, pale green, pale blue, gray, or colorless.",
+   "colorFamilies": [
+    "pink",
+    "blue",
+    "green",
+    "yellow",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "amethyst-cacoxenite": {
+   "slug": "amethyst-cacoxenite",
+   "name": "Amethyst Cacoxenite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "ametrine": {
+   "slug": "ametrine",
+   "name": "Ametrine",
+   "aliases": [
+    "amethyst-citrine"
+   ],
+   "kind": "variety",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Bicolor orange or yellow and purple.",
+   "colorFamilies": [
+    "purple",
+    "yellow",
+    "orange"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "amphibole-quartz": {
+   "slug": "amphibole-quartz",
+   "name": "Amphibole Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "analcime": {
+   "slug": "analcime",
+   "name": "Analcime",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 5.5
+   },
+   "colors": "White, colorless, gray, pink, greenish or yellowish.",
+   "colorFamilies": [
+    "pink",
+    "green",
+    "yellow",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "anapaite": {
+   "slug": "anapaite",
+   "name": "Anapaite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3.5,
+    "max": 3.5
+   },
+   "colors": "Green to pale green, colorless to pale green in transmitted light.",
+   "colorFamilies": [
+    "green",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "anatase": {
+   "slug": "anatase",
+   "name": "Anatase",
+   "aliases": [
+    "Octahedrite"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": "Brown, pale yellow or reddish brown, indigo, black, also pale green, pale lilac and gray.",
+   "colorFamilies": [
+    "purple",
+    "blue",
+    "green",
+    "yellow",
+    "brown",
+    "black",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "ancestralite": {
+   "slug": "ancestralite",
+   "name": "Ancestralite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "andesine": {
+   "slug": "andesine",
+   "name": "Andesine",
+   "aliases": [],
+   "kind": "variety",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "White, gray, green and yellow as natural mineral.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "andradite": {
+   "slug": "andradite",
+   "name": "Andradite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": "Green, yellowish green, yellow, brown, brownish red and black.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "red",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "angel-aura-quartz": {
+   "slug": "angel-aura-quartz",
+   "name": "Angel Aura Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "anglesite": {
+   "slug": "anglesite",
+   "name": "Anglesite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 3
+   },
+   "colors": "Colorless to white, commonly tinted gray, also orange, yellow, green, blue and rarely violet.",
+   "colorFamilies": [
+    "purple",
+    "blue",
+    "green",
+    "yellow",
+    "orange",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "anhydrite": {
+   "slug": "anhydrite",
+   "name": "Anhydrite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 3.5
+   },
+   "colors": "Colorless, white and light shades of brown, red, gray, pink, blue and violet.",
+   "colorFamilies": [
+    "pink",
+    "purple",
+    "blue",
+    "red",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "anorthite": {
+   "slug": "anorthite",
+   "name": "Anorthite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "White, grayish and reddish, colorless in thin section.",
+   "colorFamilies": [
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "anorthoclase": {
+   "slug": "anorthoclase",
+   "name": "Anorthoclase",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6
+   },
+   "colors": "Colorless, also white, pale creamy yellow, red and green.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "red",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "anorthosite": {
+   "slug": "anorthosite",
+   "name": "Anorthosite",
+   "aliases": [],
+   "kind": "rock",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "anthophyllite": {
+   "slug": "anthophyllite",
+   "name": "Anthophyllite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": "Gray, brownish gray, yellowish brown, clove-brown, brownish green and emerald-green.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "brown",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "antigorite": {
+   "slug": "antigorite",
+   "name": "Antigorite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 3.5
+   },
+   "colors": "Green, blue-green, white.",
+   "colorFamilies": [
+    "blue",
+    "green",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "antlerite": {
+   "slug": "antlerite",
+   "name": "Antlerite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3.5,
+    "max": 3.5
+   },
+   "colors": "Emerald-green, blackish green and pale green.",
+   "colorFamilies": [
+    "green",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "apricot-agate": {
+   "slug": "apricot-agate",
+   "name": "Apricot Agate",
+   "aliases": [],
+   "kind": "trade_name",
+   "parent": "agate",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "A blend of white, yellow, pink, peach and orange.",
+   "colorFamilies": [
+    "orange",
+    "pink",
+    "yellow",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "aquaprase": {
+   "slug": "aquaprase",
+   "name": "Aquaprase",
+   "aliases": [],
+   "kind": "trade_name",
+   "parent": "chalcedony",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Vibrant bluish green, translucent.",
+   "colorFamilies": [
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "argentite": {
+   "slug": "argentite",
+   "name": "Argentite",
+   "aliases": [],
+   "kind": "variety",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 3
+   },
+   "colors": "Lead gray to black.",
+   "colorFamilies": [
+    "black",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "arizona-pietersite": {
+   "slug": "arizona-pietersite",
+   "name": "Arizona Pietersite",
+   "aliases": [],
+   "kind": "trade_name",
+   "parent": "serpentine",
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "arsenopyrite": {
+   "slug": "arsenopyrite",
+   "name": "Arsenopyrite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": "Silvery-white to steel gray, tarnishing to pink, brown or copper tones.",
+   "colorFamilies": [
+    "pink",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "astrophyllite": {
+   "slug": "astrophyllite",
+   "name": "Astrophyllite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 3
+   },
+   "colors": "Bronze yellow to gold yellow, brown to reddish brown.",
+   "colorFamilies": [
+    "yellow",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "atacamite": {
+   "slug": "atacamite",
+   "name": "Atacamite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 3.5
+   },
+   "colors": "Bright green, dark emerald-green to blackish green.",
+   "colorFamilies": [
+    "green",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "augite": {
+   "slug": "augite",
+   "name": "Augite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": "Black, brown, greenish, violet-brown.",
+   "colorFamilies": [
+    "purple",
+    "green",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "aurichalcite": {
+   "slug": "aurichalcite",
+   "name": "Aurichalcite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 1,
+    "max": 2
+   },
+   "colors": "Pale green, greenish blue and sky blue.",
+   "colorFamilies": [
+    "blue",
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "australian-opal": {
+   "slug": "australian-opal",
+   "name": "Australian Opal",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "opal",
+   "mohs": {
+    "min": 5,
+    "max": 6.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "autunite": {
+   "slug": "autunite",
+   "name": "Autunite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2,
+    "max": 2.5
+   },
+   "colors": "Lemon-yellow to sulfur-yellow, greenish yellow to pale green, sometimes dark green to greenish black.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "aventurine": {
+   "slug": "aventurine",
+   "name": "Aventurine Stone,",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "quartz",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": "Most often green, but also orange, yellow, red, pink, brown, white, gray and blue.",
+   "colorFamilies": [
+    "pink",
+    "blue",
+    "green",
+    "yellow",
+    "orange",
+    "red",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "banded-amethyst": {
+   "slug": "banded-amethyst",
+   "name": "Banded Amethyst",
+   "aliases": [
+    "chevron amethyst"
+   ],
+   "kind": "variety",
+   "parent": "amethyst",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Purple amethyst bands with white milky quartz and gray smoky quartz. Zones run from dark purple to light purple and white.",
+   "colorFamilies": [
+    "purple",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": "Amethyst in general is the birthstone for February."
+  },
+  "bastnasite": {
+   "slug": "bastnasite",
+   "name": "Bastnasite",
+   "aliases": [
+    "Bastnäsite-(Ce)"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4,
+    "max": 4.5
+   },
+   "colors": "Wax-yellow, honey-yellow, reddish brown.",
+   "colorFamilies": [
+    "yellow",
+    "orange",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "bauxite": {
+   "slug": "bauxite",
+   "name": "Bauxite",
+   "aliases": [],
+   "kind": "rock",
+   "parent": null,
+   "mohs": {
+    "min": 1,
+    "max": 3
+   },
+   "colors": "White, gray, sometimes stained yellow, orange, red, pink or brown by iron.",
+   "colorFamilies": [
+    "pink",
+    "yellow",
+    "orange",
+    "red",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "benitoite": {
+   "slug": "benitoite",
+   "name": "Benitoite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "Mostly violetish-blue, sometimes colorless, with rare orange heat-treated stones.",
+   "colorFamilies": [
+    "purple",
+    "blue",
+    "orange",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "beryl": {
+   "slug": "beryl",
+   "name": "Beryl",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 7.5,
+    "max": 8
+   },
+   "colors": "Green, yellow, blue, red, pink, orange or colorless, normally colorless when pure.",
+   "colorFamilies": [
+    "pink",
+    "blue",
+    "green",
+    "yellow",
+    "orange",
+    "red",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "beryllonite": {
+   "slug": "beryllonite",
+   "name": "Beryllonite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": "Colorless, white to pale yellow.",
+   "colorFamilies": [
+    "yellow",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "bismuth": {
+   "slug": "bismuth",
+   "name": "Bismuth",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2,
+    "max": 2.5
+   },
+   "colors": "Silver-white with a reddish hue, tarnishing yellow to dark gray or iridescent.",
+   "colorFamilies": [
+    "yellow",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "bismuthinite": {
+   "slug": "bismuthinite",
+   "name": "Bismuthinite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2,
+    "max": 2.5
+   },
+   "colors": "Lead-gray to tin-white, with a yellowish or iridescent tarnish.",
+   "colorFamilies": [
+    "yellow",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "bixbyite": {
+   "slug": "bixbyite",
+   "name": "Bixbyite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "Black.",
+   "colorFamilies": [
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "black-diamond": {
+   "slug": "black-diamond",
+   "name": "Black Diamond",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "diamond",
+   "mohs": {
+    "min": 10,
+    "max": 10
+   },
+   "colors": "Black, though the diamond itself may be nearly colorless, brown or very dark green.",
+   "colorFamilies": [
+    "green",
+    "brown",
+    "black",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "black-garnet": {
+   "slug": "black-garnet",
+   "name": "Black Garnet",
+   "aliases": [
+    "Melanite"
+   ],
+   "kind": "variety",
+   "parent": "garnet",
+   "mohs": {
+    "min": 6.5,
+    "max": 7.5
+   },
+   "colors": "Black.",
+   "colorFamilies": [
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "black-kyanite": {
+   "slug": "black-kyanite",
+   "name": "Black Kyanite",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "kyanite",
+   "mohs": {
+    "min": 4.5,
+    "max": 7
+   },
+   "colors": "Black.",
+   "colorFamilies": [
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "black-mica": {
+   "slug": "black-mica",
+   "name": "Black Mica",
+   "aliases": [
+    "biotite"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 3
+   },
+   "colors": "Black, dark green or dark brown.",
+   "colorFamilies": [
+    "green",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "black-mother-of-pearl": {
+   "slug": "black-mother-of-pearl",
+   "name": "Black Mother Of Pearl",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "black-obsidian": {
+   "slug": "black-obsidian",
+   "name": "Black Obsidian",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "obsidian",
+   "mohs": {
+    "min": 5.5,
+    "max": 5.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "black-onyx": {
+   "slug": "black-onyx",
+   "name": "Black Onyx",
+   "aliases": [],
+   "kind": "treated",
+   "parent": "onyx",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Solid black.",
+   "colorFamilies": [
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "black-star-diopside": {
+   "slug": "black-star-diopside",
+   "name": "Black Star Diopside",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "diopside",
+   "mohs": {
+    "min": 5.5,
+    "max": 5.5
+   },
+   "colors": "Natural black, with a thin white or silver star on a jet-black stone.",
+   "colorFamilies": [
+    "black",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "black-star-sapphire": {
+   "slug": "black-star-sapphire",
+   "name": "Black Star Sapphire",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "star-sapphire",
+   "mohs": {
+    "min": 9,
+    "max": 9
+   },
+   "colors": "Black, from sapphire so dark that light barely passes through, whatever its underlying hue.",
+   "colorFamilies": [
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "black-sunstone": {
+   "slug": "black-sunstone",
+   "name": "Black Sunstone",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "blue-barite": {
+   "slug": "blue-barite",
+   "name": "Blue Barite",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "barite",
+   "mohs": {
+    "min": 3,
+    "max": 3.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "blue-chert": {
+   "slug": "blue-chert",
+   "name": "Blue Chert",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "chert",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "blue-diamond": {
+   "slug": "blue-diamond",
+   "name": "Blue Diamond",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "diamond",
+   "mohs": {
+    "min": 10,
+    "max": 10
+   },
+   "colors": "Mostly grey with a tint of blue, with saturation ranging from fancy to fancy vivid.",
+   "colorFamilies": [
+    "blue",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "blue-dolomite": {
+   "slug": "blue-dolomite",
+   "name": "Blue Dolomite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "dolomite",
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "blue-flower-agate": {
+   "slug": "blue-flower-agate",
+   "name": "Blue Flower Agate",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "agate",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "blue-fluorite": {
+   "slug": "blue-fluorite",
+   "name": "Blue Fluorite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "fluorite",
+   "mohs": {
+    "min": 4,
+    "max": 4
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "blue-halite": {
+   "slug": "blue-halite",
+   "name": "Blue Halite",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "halite",
+   "mohs": {
+    "min": 2,
+    "max": 2.5
+   },
+   "colors": "Blue, from blue to deep blue.",
+   "colorFamilies": [
+    "blue"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "blue-john-fluorite": {
+   "slug": "blue-john-fluorite",
+   "name": "Blue John Fluorite",
+   "aliases": [
+    "Derbyshire Spar",
+    "Bluejohn"
+   ],
+   "kind": "variety",
+   "parent": "fluorite",
+   "mohs": {
+    "min": 4,
+    "max": 4
+   },
+   "colors": "Streaked or banded zones of dark blue and violet with lighter yellowish, greenish or off-white zones.",
+   "colorFamilies": [
+    "purple",
+    "blue",
+    "green",
+    "yellow",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "blue-opalized-petrified-wood": {
+   "slug": "blue-opalized-petrified-wood",
+   "name": "Blue Opalized Petrified Wood",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "petrified-wood",
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "blue-scheelite": {
+   "slug": "blue-scheelite",
+   "name": "Blue Scheelite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "scheelite",
+   "mohs": {
+    "min": 4.5,
+    "max": 5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "blue-spinel": {
+   "slug": "blue-spinel",
+   "name": "Blue Spinel",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "spinel",
+   "mohs": {
+    "min": 8,
+    "max": 8
+   },
+   "colors": "Many shades of blue, from darker greenish blue to vivid, intense blue.",
+   "colorFamilies": [
+    "blue",
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "blueberry-fluorite": {
+   "slug": "blueberry-fluorite",
+   "name": "Blueberry Fluorite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "fluorite",
+   "mohs": {
+    "min": 4,
+    "max": 4
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "boleite": {
+   "slug": "boleite",
+   "name": "Boleite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 3.5
+   },
+   "colors": "Deep Prussian blue to indigo, bluish green in transmitted light.",
+   "colorFamilies": [
+    "blue",
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "boracite": {
+   "slug": "boracite",
+   "name": "Boracite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 7,
+    "max": 7.5
+   },
+   "colors": "Colorless, white, gray or yellow, bluish green to dark green if iron-bearing.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "bowenite": {
+   "slug": "bowenite",
+   "name": "Bowenite",
+   "aliases": [
+    "precious serpentine",
+    "tangiwai",
+    "tangawaite",
+    "New Zealand jade",
+    "Rhode Island jade",
+    "Sushou jade"
+   ],
+   "kind": "variety",
+   "parent": "serpentine",
+   "mohs": {
+    "min": 4,
+    "max": 6
+   },
+   "colors": "Blue-green, yellow-green or dark green, and cream to blue-green in the cream-colored material.",
+   "colorFamilies": [
+    "blue",
+    "green",
+    "yellow",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "brandberg-amethyst": {
+   "slug": "brandberg-amethyst",
+   "name": "Brandberg Amethyst",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "amethyst",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "brandberg-quartz": {
+   "slug": "brandberg-quartz",
+   "name": "Brandberg Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "brazilianite": {
+   "slug": "brazilianite",
+   "name": "Brazilianite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 5.5
+   },
+   "colors": "Chartreuse-yellow, pale yellow and yellow-green, colorless in transmitted light.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "brochantite": {
+   "slug": "brochantite",
+   "name": "Brochantite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": "Emerald green, blackish green and pale green.",
+   "colorFamilies": [
+    "green",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "brown-aragonite": {
+   "slug": "brown-aragonite",
+   "name": "Brown Aragonite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "aragonite",
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "brown-aventurine": {
+   "slug": "brown-aventurine",
+   "name": "Brown Aventurine",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "aventurine",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "brown-calcite": {
+   "slug": "brown-calcite",
+   "name": "Brown Calcite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "calcite",
+   "mohs": {
+    "min": 3,
+    "max": 3
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "brown-diamond": {
+   "slug": "brown-diamond",
+   "name": "Brown Diamond",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "diamond",
+   "mohs": {
+    "min": 10,
+    "max": 10
+   },
+   "colors": "Light brown with a yellow tint to deep brown with an orange tint.",
+   "colorFamilies": [
+    "yellow",
+    "orange",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "brucite": {
+   "slug": "brucite",
+   "name": "Brucite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 2.5
+   },
+   "colors": "Pale white, blue, gray or green, with manganoan brucite in yellow, reddish brown and dark brown.",
+   "colorFamilies": [
+    "blue",
+    "green",
+    "yellow",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "buddstone": {
+   "slug": "buddstone",
+   "name": "Buddstone",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "chalcedony",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Bright green.",
+   "colorFamilies": [
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "burmese-jade": {
+   "slug": "burmese-jade",
+   "name": "Burmese Jade",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "jade",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "bustamite": {
+   "slug": "bustamite",
+   "name": "Bustamite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6.5
+   },
+   "colors": "Light pastel pink to brownish red.",
+   "colorFamilies": [
+    "pink",
+    "red",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "bytownite": {
+   "slug": "bytownite",
+   "name": "Bytownite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "Colorless, white or gray in the Handbook of Mineralogy, and pale yellow to brown in a faceting guide.",
+   "colorFamilies": [
+    "yellow",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "cacoxenite": {
+   "slug": "cacoxenite",
+   "name": "Cacoxenite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 4
+   },
+   "colors": "Yellow to brownish yellow or reddish orange, also golden yellow, deep orange and rarely greenish.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "orange",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "canasite": {
+   "slug": "canasite",
+   "name": "Canasite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": "Greenish yellow to grayish green per the mineral data, but the material sold as canasite is usually purplish.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "cancrinite": {
+   "slug": "cancrinite",
+   "name": "Cancrinite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": "Colorless, white, light blue to light grayish blue, honey-yellow, orange or reddish.",
+   "colorFamilies": [
+    "blue",
+    "yellow",
+    "orange",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "cats-eye-jade": {
+   "slug": "cats-eye-jade",
+   "name": "Cat's Eye Jade",
+   "aliases": [
+    "Cat's-Eye Nephrite Jade"
+   ],
+   "kind": "variety",
+   "parent": "jade",
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "cavansite": {
+   "slug": "cavansite",
+   "name": "Cavansite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 4
+   },
+   "colors": "Brilliant sky blue to greenish blue.",
+   "colorFamilies": [
+    "blue",
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "ceruleite": {
+   "slug": "ceruleite",
+   "name": "Ceruleite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": "Sky-blue to pale blue.",
+   "colorFamilies": [
+    "blue"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "chabazite": {
+   "slug": "chabazite",
+   "name": "Chabazite",
+   "aliases": [
+    "acadialite"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4,
+    "max": 5
+   },
+   "colors": "Clear, white, pink, yellowish, reddish and brown.",
+   "colorFamilies": [
+    "pink",
+    "yellow",
+    "brown",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "chalcanthite": {
+   "slug": "chalcanthite",
+   "name": "Chalcanthite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 2.5
+   },
+   "colors": "Berlin blue to sky blue and greenish blue, colorless to pale blue in transmitted light.",
+   "colorFamilies": [
+    "blue",
+    "green",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "chalcopyrite": {
+   "slug": "chalcopyrite",
+   "name": "Chalcopyrite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": "Brass yellow, tarnishing to gray green and sometimes iridescent.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "champagne-topaz": {
+   "slug": "champagne-topaz",
+   "name": "Champagne Topaz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "topaz",
+   "mohs": {
+    "min": 8,
+    "max": 8
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "chinese-writing-stone": {
+   "slug": "chinese-writing-stone",
+   "name": "Chinese Writing Stone",
+   "aliases": [
+    "Chinese writing rock"
+   ],
+   "kind": "rock",
+   "parent": "porphyry",
+   "mohs": {
+    "min": 6,
+    "max": 7
+   },
+   "colors": "Light colored feldspar crystals on a dark background.",
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "chondrodite": {
+   "slug": "chondrodite",
+   "name": "Chondrodite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "Light yellow, yellow, brown and red.",
+   "colorFamilies": [
+    "yellow",
+    "red",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "chrome-chalcedony": {
+   "slug": "chrome-chalcedony",
+   "name": "Chrome Chalcedony",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "chalcedony",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Dark green, translucent, with a strong red reaction to the Chelsea filter.",
+   "colorFamilies": [
+    "green",
+    "red"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "chromite": {
+   "slug": "chromite",
+   "name": "Chromite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": "Dark gray to black, rarely brownish black.",
+   "colorFamilies": [
+    "brown",
+    "black",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "chrysocolla-chalcedony": {
+   "slug": "chrysocolla-chalcedony",
+   "name": "Chrysocolla Chalcedony",
+   "aliases": [
+    "Gem Silica"
+   ],
+   "kind": "variety",
+   "parent": "chalcedony",
+   "mohs": {
+    "min": 6,
+    "max": 7
+   },
+   "colors": "Blue to blue-green, opaque to near transparent.",
+   "colorFamilies": [
+    "blue",
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "cinnabar": {
+   "slug": "cinnabar",
+   "name": "Cinnabar",
+   "aliases": [
+    "cinnabarite",
+    "mercurblende"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2,
+    "max": 2.5
+   },
+   "colors": "Bright red to brownish red, sometimes gray.",
+   "colorFamilies": [
+    "red",
+    "brown",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "citron-chrysoprase": {
+   "slug": "citron-chrysoprase",
+   "name": "Citron Chrysoprase",
+   "aliases": [],
+   "kind": "variety",
+   "parent": null,
+   "mohs": {
+    "min": 4,
+    "max": 4
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "clear-calcite": {
+   "slug": "clear-calcite",
+   "name": "Clear Calcite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "calcite",
+   "mohs": {
+    "min": 3,
+    "max": 3
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "clear-fluorite": {
+   "slug": "clear-fluorite",
+   "name": "Clear Fluorite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "fluorite",
+   "mohs": {
+    "min": 4,
+    "max": 4
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "cleavelandite": {
+   "slug": "cleavelandite",
+   "name": "Cleavelandite",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "albite",
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "White and sometimes very transparent.",
+   "colorFamilies": [
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "clinochlore": {
+   "slug": "clinochlore",
+   "name": "Clinochlore",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2,
+    "max": 2.5
+   },
+   "colors": "Grass-green, olive-green, yellowish or white, also pink to rose-red.",
+   "colorFamilies": [
+    "pink",
+    "green",
+    "yellow",
+    "red",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "clinozoisite": {
+   "slug": "clinozoisite",
+   "name": "Clinozoisite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6.5,
+    "max": 6.5
+   },
+   "colors": "Colorless, pale yellow, pink, red, gray or green. Pakistani crystals are gemmy brown.",
+   "colorFamilies": [
+    "pink",
+    "green",
+    "yellow",
+    "red",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "cobaltite": {
+   "slug": "cobaltite",
+   "name": "Cobaltite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 5.5
+   },
+   "colors": "Silver-white, opaque, with a grayish black streak.",
+   "colorFamilies": [
+    "black",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "cobra-jasper": {
+   "slug": "cobra-jasper",
+   "name": "Cobra Jasper",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "jasper",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "colemanite": {
+   "slug": "colemanite",
+   "name": "Colemanite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4.5,
+    "max": 4.5
+   },
+   "colors": "Colorless, milky white, pale yellow or gray.",
+   "colorFamilies": [
+    "yellow",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "colombianite": {
+   "slug": "colombianite",
+   "name": "Colombianite",
+   "aliases": [
+    "americanite"
+   ],
+   "kind": "variety",
+   "parent": "obsidian",
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "color-change-garnet": {
+   "slug": "color-change-garnet",
+   "name": "Color Change Garnet",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "garnet",
+   "mohs": {
+    "min": 6.5,
+    "max": 7.5
+   },
+   "colors": "Blue-green in daylight and purple in incandescent light for the Madagascar stones. Other stones shift red to purplish red.",
+   "colorFamilies": [
+    "purple",
+    "blue",
+    "green",
+    "red"
+   ],
+   "chakra": null,
+   "birthstone": "January, for garnet in general."
+  },
+  "color-change-sapphire": {
+   "slug": "color-change-sapphire",
+   "name": "Color Change Sapphire",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "sapphire",
+   "mohs": {
+    "min": 9,
+    "max": 9
+   },
+   "colors": "Blue to violet in daylight-equivalent light, purplish pink to pinkish purple in incandescent light.",
+   "colorFamilies": [
+    "pink",
+    "purple",
+    "blue"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "colorless-topaz": {
+   "slug": "colorless-topaz",
+   "name": "Colorless Topaz",
+   "aliases": [
+    "White topaz"
+   ],
+   "kind": "unknown",
+   "parent": "topaz",
+   "mohs": {
+    "min": 8,
+    "max": 8
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "columbite": {
+   "slug": "columbite",
+   "name": "Columbite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6
+   },
+   "colors": "Dark black, iron black to dark brown.",
+   "colorFamilies": [
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "conch-shell": {
+   "slug": "conch-shell",
+   "name": "Conch Shell",
+   "aliases": [],
+   "kind": "organic",
+   "parent": null,
+   "mohs": null,
+   "colors": "A fashioned Queen conch shell bead showed alternating white, cream and light pink bands.",
+   "colorFamilies": [
+    "pink",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "conichalcite": {
+   "slug": "conichalcite",
+   "name": "Conichalcite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4.5,
+    "max": 4.5
+   },
+   "colors": "Grass green to yellowish green, pistachio green and emerald green, zoned in places, and from dominantly green to dominantly yellow.",
+   "colorFamilies": [
+    "green",
+    "yellow"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "copal": {
+   "slug": "copal",
+   "name": "Copal",
+   "aliases": [
+    "copalite",
+    "kopal",
+    "kopalite"
+   ],
+   "kind": "organic",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "copper-rutile": {
+   "slug": "copper-rutile",
+   "name": "Copper Rutile",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "rutile",
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "Copper-colored, alongside golden rutile.",
+   "colorFamilies": [
+    "yellow"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "coquimbite": {
+   "slug": "coquimbite",
+   "name": "Coquimbite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 2.5
+   },
+   "colors": "Pale violet to amethystine, rarely pale yellow or pale green.",
+   "colorFamilies": [
+    "purple",
+    "green",
+    "yellow"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "coral-calcite": {
+   "slug": "coral-calcite",
+   "name": "Coral Calcite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "calcite",
+   "mohs": {
+    "min": 3,
+    "max": 3
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "cordierite": {
+   "slug": "cordierite",
+   "name": "Cordierite",
+   "aliases": [
+    "Iolite",
+    "Water Sapphire"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 7,
+    "max": 7.5
+   },
+   "colors": "Blue, smoky blue and bluish violet, also greenish, yellowish brown or gray.",
+   "colorFamilies": [
+    "purple",
+    "blue",
+    "green",
+    "yellow",
+    "brown",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "corundum": {
+   "slug": "corundum",
+   "name": "Corundum, the Mineral Behind Ruby & Every Sapphire Color",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 9,
+    "max": 9
+   },
+   "colors": "Typically gray to brown, colorless when pure, with trace metals giving almost any color. Chromium gives red and iron with titanium give blue.",
+   "colorFamilies": [
+    "blue",
+    "red",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "cotton-candy-agate": {
+   "slug": "cotton-candy-agate",
+   "name": "Cotton Candy Agate",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "agate",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "covellite": {
+   "slug": "covellite",
+   "name": "Covellite",
+   "aliases": [
+    "Covelline"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 1.5,
+    "max": 2
+   },
+   "colors": "Indigo-blue or darker, commonly highly iridescent, brass-yellow to deep red.",
+   "colorFamilies": [
+    "blue",
+    "yellow",
+    "red"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "creedite": {
+   "slug": "creedite",
+   "name": "Creedite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4,
+    "max": 4
+   },
+   "colors": "Colorless to white and purple, with orange material from newer sources.",
+   "colorFamilies": [
+    "purple",
+    "orange",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "crocoite": {
+   "slug": "crocoite",
+   "name": "Crocoite",
+   "aliases": [
+    "red lead ore"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 3
+   },
+   "colors": "Intense red-orange to yellow-orange, with hyacinth-red crystals.",
+   "colorFamilies": [
+    "yellow",
+    "orange",
+    "red"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "cryolite": {
+   "slug": "cryolite",
+   "name": "Cryolite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 2.5
+   },
+   "colors": "Colorless, white, pale brown, pink and smoky to black.",
+   "colorFamilies": [
+    "pink",
+    "brown",
+    "black",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "cummingtonite": {
+   "slug": "cummingtonite",
+   "name": "Cummingtonite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": "Dark green, brown, gray or beige.",
+   "colorFamilies": [
+    "green",
+    "brown",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "cyanotrichite": {
+   "slug": "cyanotrichite",
+   "name": "Cyanotrichite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 4.5
+   },
+   "colors": "Sky-blue to azure-blue.",
+   "colorFamilies": [
+    "blue"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "datolite": {
+   "slug": "datolite",
+   "name": "Datolite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 5.5
+   },
+   "colors": "Colorless or white, commonly with a greenish tinge, and also grayish, yellow, green, red or pink.",
+   "colorFamilies": [
+    "pink",
+    "green",
+    "yellow",
+    "red",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "demantoid-garnet": {
+   "slug": "demantoid-garnet",
+   "name": "Demantoid Garnet",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "garnet",
+   "mohs": {
+    "min": 6.5,
+    "max": 7.5
+   },
+   "colors": "Deep forest greens to light, nearly colorless hues, with yellow secondary hues often present and brown when saturation is low.",
+   "colorFamilies": [
+    "yellow",
+    "brown",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "dendritic-quartz": {
+   "slug": "dendritic-quartz",
+   "name": "Dendritic Quartz",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Transparent with reddish-brown or black dendritic inclusions.",
+   "colorFamilies": [
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "descloizite": {
+   "slug": "descloizite",
+   "name": "Descloizite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 3.5
+   },
+   "colors": "Brownish red, red-orange, reddish brown to blackish brown, nearly black.",
+   "colorFamilies": [
+    "orange",
+    "red",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "desert-jasper": {
+   "slug": "desert-jasper",
+   "name": "Desert Jasper",
+   "aliases": [
+    "Polychrome Jasper"
+   ],
+   "kind": "trade_name",
+   "parent": "jasper",
+   "mohs": null,
+   "colors": "Earthy red, brown, yellow, gray and cream.",
+   "colorFamilies": [
+    "yellow",
+    "red",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "desert-rose-selenite": {
+   "slug": "desert-rose-selenite",
+   "name": "Desert Rose Selenite",
+   "aliases": [
+    "Desert Rose"
+   ],
+   "kind": "variety",
+   "parent": "selenite",
+   "mohs": {
+    "min": 2,
+    "max": 2
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "diaspore": {
+   "slug": "diaspore",
+   "name": "Diaspore",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": "White, pale gray, colorless, greenish gray, brown, pale yellow, pink or lilac, and it may change color from brownish green in daylight to raspberry pink in artificial light.",
+   "colorFamilies": [
+    "pink",
+    "purple",
+    "green",
+    "yellow",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "dogtooth-calcite": {
+   "slug": "dogtooth-calcite",
+   "name": "Dogtooth Calcite",
+   "aliases": [
+    "Dogtooth Spar"
+   ],
+   "kind": "variety",
+   "parent": "calcite",
+   "mohs": {
+    "min": 3,
+    "max": 3
+   },
+   "colors": "Clear colorless or amber-orange examples are considered classics.",
+   "colorFamilies": [
+    "orange",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "dragon-vein-agate": {
+   "slug": "dragon-vein-agate",
+   "name": "Dragon Vein Agate",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "agate",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "dravite": {
+   "slug": "dravite",
+   "name": "Dravite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": "tourmaline",
+   "mohs": {
+    "min": 7,
+    "max": 7.5
+   },
+   "colors": "Brown, yellow-brown, orange-brown and reddish-brown.",
+   "colorFamilies": [
+    "yellow",
+    "orange",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "eclogite": {
+   "slug": "eclogite",
+   "name": "Eclogite",
+   "aliases": [],
+   "kind": "rock",
+   "parent": null,
+   "mohs": null,
+   "colors": "Red garnet in bright dark green omphacite.",
+   "colorFamilies": [
+    "green",
+    "red"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "edenite": {
+   "slug": "edenite",
+   "name": "Edenite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": "White, gray and pale green.",
+   "colorFamilies": [
+    "green",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "ekanite": {
+   "slug": "ekanite",
+   "name": "Ekanite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4.5,
+    "max": 5
+   },
+   "colors": "Colorless, light to dark green, yellow-green to yellowish brown, straw-yellow, red from inclusions.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "red",
+    "brown",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "enargite": {
+   "slug": "enargite",
+   "name": "Enargite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 3
+   },
+   "colors": "Grayish black to iron-black.",
+   "colorFamilies": [
+    "black",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "enstatite": {
+   "slug": "enstatite",
+   "name": "Enstatite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": "White, grayish, yellowish, greenish, olive-green or brown.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "eosphorite": {
+   "slug": "eosphorite",
+   "name": "Eosphorite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 5
+   },
+   "colors": "Pink to rose-red, commonly brown to black when oxidized.",
+   "colorFamilies": [
+    "pink",
+    "red",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "erythrite": {
+   "slug": "erythrite",
+   "name": "Erythrite",
+   "aliases": [
+    "Red cobalt",
+    "Cobalt ochre"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 1.5,
+    "max": 2.5
+   },
+   "colors": "Crimson to peach-red, pale rose, or pink, may be zoned.",
+   "colorFamilies": [
+    "orange",
+    "pink",
+    "red"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "ethiopian-welo-opal": {
+   "slug": "ethiopian-welo-opal",
+   "name": "Ethiopian Welo Opal",
+   "aliases": [
+    "Welo opal"
+   ],
+   "kind": "variety",
+   "parent": "opal",
+   "mohs": {
+    "min": 5.5,
+    "max": 6.5
+   },
+   "colors": "Vivid play-of-color on a clear, white, yellow, orange or brown body color.",
+   "colorFamilies": [
+    "yellow",
+    "orange",
+    "brown",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "euxenite": {
+   "slug": "euxenite",
+   "name": "Euxenite",
+   "aliases": [
+    "euxenite-(Y)"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6.5
+   },
+   "colors": "Black with a tinge of yellow, brown or green.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "faden-quartz": {
+   "slug": "faden-quartz",
+   "name": "Faden Quartz",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "fairy-stone": {
+   "slug": "fairy-stone",
+   "name": "Fairy Stone",
+   "aliases": [
+    "fairy crosses"
+   ],
+   "kind": "variety",
+   "parent": "staurolite",
+   "mohs": {
+    "min": 7,
+    "max": 7.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "fairy-wand-quartz": {
+   "slug": "fairy-wand-quartz",
+   "name": "Fairy Wand Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "feldspar": {
+   "slug": "feldspar",
+   "name": "Feldspar, the Mineral Family Behind Moonstone, Sunstone & Labradorite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "Usually white, pink, gray or brown, also colorless, yellow, orange, red, black, blue and green.",
+   "colorFamilies": [
+    "pink",
+    "blue",
+    "green",
+    "yellow",
+    "orange",
+    "red",
+    "brown",
+    "black",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "ferberite": {
+   "slug": "ferberite",
+   "name": "Ferberite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4,
+    "max": 4.5
+   },
+   "colors": "Black, dark brown in transmitted light.",
+   "colorFamilies": [
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "fire-opal": {
+   "slug": "fire-opal",
+   "name": "Fire Opal",
+   "aliases": [
+    "fire opal",
+    "Mexican opal",
+    "sun opal",
+    "cherry opal",
+    "Mexican fire opal"
+   ],
+   "kind": "variety",
+   "parent": "opal",
+   "mohs": {
+    "min": 5,
+    "max": 6.5
+   },
+   "colors": "Orange, yellow, red, brown or a combination; Mexico is best known for bright yellow, orange and red fire opal.",
+   "colorFamilies": [
+    "yellow",
+    "orange",
+    "red",
+    "brown"
+   ],
+   "chakra": "Yellow fire opal is tied to the solar plexus chakra (S5).",
+   "birthstone": "Fire opal is described as an April birthstone and an alternative to opal for October (S5); opal in general is an October birthstone (S1)."
+  },
+  "flower-jasper": {
+   "slug": "flower-jasper",
+   "name": "Flower Jasper",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "jasper",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "flower-obsidian": {
+   "slug": "flower-obsidian",
+   "name": "Flower Obsidian",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "obsidian",
+   "mohs": {
+    "min": 5.5,
+    "max": 5.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "franklinite": {
+   "slug": "franklinite",
+   "name": "Franklinite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6
+   },
+   "colors": "Iron-black, brown or red, may be tarnished.",
+   "colorFamilies": [
+    "red",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "freshwater-pearl": {
+   "slug": "freshwater-pearl",
+   "name": "Freshwater Pearl",
+   "aliases": [
+    "river pearls"
+   ],
+   "kind": "organic",
+   "parent": "pearl",
+   "mohs": {
+    "min": 2.5,
+    "max": 3
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "fulgurite": {
+   "slug": "fulgurite",
+   "name": "Fulgurite",
+   "aliases": [],
+   "kind": "natural_glass",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "gabbro": {
+   "slug": "gabbro",
+   "name": "Gabbro",
+   "aliases": [],
+   "kind": "rock",
+   "parent": null,
+   "mohs": null,
+   "colors": "Usually black or dark green, sometimes with a few light-colored grains.",
+   "colorFamilies": [
+    "green",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "gadolinite": {
+   "slug": "gadolinite",
+   "name": "Gadolinite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": "Black, greenish-black or green.",
+   "colorFamilies": [
+    "green",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "galaxy-opal": {
+   "slug": "galaxy-opal",
+   "name": "Galaxy Opal",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "opal",
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "galaxyite": {
+   "slug": "galaxyite",
+   "name": "Galaxyite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "garnierite": {
+   "slug": "garnierite",
+   "name": "Garnierite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "gaspeite": {
+   "slug": "gaspeite",
+   "name": "Gaspeite",
+   "aliases": [
+    "Allura"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4.5,
+    "max": 5
+   },
+   "colors": "Yellowish green to bright green, often with brown matrix or mottling.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "gem-silica": {
+   "slug": "gem-silica",
+   "name": "Gem Silica",
+   "aliases": [
+    "chrysocolla chalcedony",
+    "gem silica chrysocolla"
+   ],
+   "kind": "variety",
+   "parent": "chalcedony",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Bluish green to greenish blue, with the best stones a strongly saturated blue.",
+   "colorFamilies": [
+    "blue",
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "genesis-stone": {
+   "slug": "genesis-stone",
+   "name": "Genesis Stone",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "gibbsite": {
+   "slug": "gibbsite",
+   "name": "Gibbsite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 3.5
+   },
+   "colors": "Colorless, white, gray, pale green or pale red.",
+   "colorFamilies": [
+    "green",
+    "red",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "girasol-rose-quartz": {
+   "slug": "girasol-rose-quartz",
+   "name": "Girasol Rose Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "girasol": {
+   "slug": "girasol",
+   "name": "Girasol",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "opal",
+   "mohs": {
+    "min": 5.5,
+    "max": 6.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "glauberite": {
+   "slug": "glauberite",
+   "name": "Glauberite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 3
+   },
+   "colors": "Gray or pale yellow, also colorless.",
+   "colorFamilies": [
+    "yellow",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "glaucophane": {
+   "slug": "glaucophane",
+   "name": "Glaucophane",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6
+   },
+   "colors": "Gray to lavender-blue, commonly zoned.",
+   "colorFamilies": [
+    "purple",
+    "blue",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "goddess-stone": {
+   "slug": "goddess-stone",
+   "name": "Goddess Stone",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "gold-rutile": {
+   "slug": "gold-rutile",
+   "name": "Gold Rutile",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "rutile",
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "golden-barite": {
+   "slug": "golden-barite",
+   "name": "Golden Barite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "barite",
+   "mohs": {
+    "min": 2.5,
+    "max": 3.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "golden-calcite": {
+   "slug": "golden-calcite",
+   "name": "Golden Calcite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "calcite",
+   "mohs": {
+    "min": 3,
+    "max": 3
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "golden-hills-turquoise": {
+   "slug": "golden-hills-turquoise",
+   "name": "Golden Hills Turquoise",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "turquoise",
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "golden-labradorite": {
+   "slug": "golden-labradorite",
+   "name": "Golden Labradorite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "labradorite",
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "golden-yellow-apatite": {
+   "slug": "golden-yellow-apatite",
+   "name": "Golden Yellow Apatite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "apatite",
+   "mohs": {
+    "min": 5,
+    "max": 5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "gray-diamond": {
+   "slug": "gray-diamond",
+   "name": "Gray Diamond",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "diamond",
+   "mohs": {
+    "min": 10,
+    "max": 10
+   },
+   "colors": "Pure gray, or gray with blue, purple, violet, yellow or green tones.",
+   "colorFamilies": [
+    "purple",
+    "blue",
+    "green",
+    "yellow",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "green-apatite": {
+   "slug": "green-apatite",
+   "name": "Green Apatite",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "apatite",
+   "mohs": {
+    "min": 5,
+    "max": 5
+   },
+   "colors": "Green, from light green stones called asparagus stones to golden green. Green apatites fluoresce a greenish mustard color.",
+   "colorFamilies": [
+    "green",
+    "yellow"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "green-apophyllite": {
+   "slug": "green-apophyllite",
+   "name": "Green Apophyllite",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "apophyllite",
+   "mohs": {
+    "min": 4.5,
+    "max": 5
+   },
+   "colors": "Pastel green, as shown by specimens from Poona, India.",
+   "colorFamilies": [
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "green-aragonite": {
+   "slug": "green-aragonite",
+   "name": "Green Aragonite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "aragonite",
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "green-banded-agate": {
+   "slug": "green-banded-agate",
+   "name": "Green Banded Agate",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "agate",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "green-chlorite": {
+   "slug": "green-chlorite",
+   "name": "Green Chlorite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "chlorite",
+   "mohs": {
+    "min": 2,
+    "max": 3
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "green-diamond": {
+   "slug": "green-diamond",
+   "name": "Green Diamond",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "diamond",
+   "mohs": {
+    "min": 10,
+    "max": 10
+   },
+   "colors": "Green, often with a secondary blue or yellow tone, or a grayish or brownish green.",
+   "colorFamilies": [
+    "blue",
+    "green",
+    "yellow",
+    "brown",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "green-kyanite": {
+   "slug": "green-kyanite",
+   "name": "Green Kyanite",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "kyanite",
+   "mohs": {
+    "min": 4.5,
+    "max": 7
+   },
+   "colors": "Green. Green kyanite occurs as blades in quartzite.",
+   "colorFamilies": [
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "green-malachite": {
+   "slug": "green-malachite",
+   "name": "Green Malachite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": "malachite",
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": "Banded light and dark green, or just dark green when crystalline.",
+   "colorFamilies": [
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "green-rutile": {
+   "slug": "green-rutile",
+   "name": "Green Rutile",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "rutile",
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "green-sardonyx": {
+   "slug": "green-sardonyx",
+   "name": "Green Sardonyx",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "green-tiger-eye": {
+   "slug": "green-tiger-eye",
+   "name": "Green Tiger Eye",
+   "aliases": [],
+   "kind": "treated",
+   "parent": "tigers-eye",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Green.",
+   "colorFamilies": [
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "green-zircon": {
+   "slug": "green-zircon",
+   "name": "Green Zircon",
+   "aliases": [
+    "Beccarite"
+   ],
+   "kind": "variety",
+   "parent": "zircon",
+   "mohs": {
+    "min": 6,
+    "max": 7.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": "Zircon in general is a December birthstone."
+  },
+  "greenlandite": {
+   "slug": "greenlandite",
+   "name": "Greenlandite",
+   "aliases": [
+    "grønlandite"
+   ],
+   "kind": "rock",
+   "parent": null,
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Green to bluish green.",
+   "colorFamilies": [
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "greenockite": {
+   "slug": "greenockite",
+   "name": "Greenockite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 3.5
+   },
+   "colors": "Shades of yellow and orange, rarely deep red.",
+   "colorFamilies": [
+    "yellow",
+    "orange",
+    "red"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "guava-quartz": {
+   "slug": "guava-quartz",
+   "name": "Guava Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "gypsum": {
+   "slug": "gypsum",
+   "name": "Gypsum, the Mineral Behind Selenite, Satin Spar & Desert Rose",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2,
+    "max": 2
+   },
+   "colors": "Clear, colorless, white, gray, yellow, red and brown.",
+   "colorFamilies": [
+    "yellow",
+    "red",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "gyrolite": {
+   "slug": "gyrolite",
+   "name": "Gyrolite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 4
+   },
+   "colors": "Colorless to white, sometimes grayish, tan, yellowish, brownish or pale green from inclusions.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "hambergite": {
+   "slug": "hambergite",
+   "name": "Hambergite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 7.5,
+    "max": 7.5
+   },
+   "colors": "Colorless, pale gray and pale yellow.",
+   "colorFamilies": [
+    "yellow",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "hanksite": {
+   "slug": "hanksite",
+   "name": "Hanksite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 3.5
+   },
+   "colors": "Colorless to pale yellow, may be grayish green due to clay inclusions.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "hauyne": {
+   "slug": "hauyne",
+   "name": "Hauyne",
+   "aliases": [
+    "Haüyne"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": "Celebrated in blue, but also white, gray, green, yellow, red and pink.",
+   "colorFamilies": [
+    "pink",
+    "blue",
+    "green",
+    "yellow",
+    "red",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "hawks-eye": {
+   "slug": "hawks-eye",
+   "name": "Hawks Eye",
+   "aliases": [
+    "Hawk's Eye"
+   ],
+   "kind": "variety",
+   "parent": "tigers-eye",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Blue, the original crocidolite color left unstained.",
+   "colorFamilies": [
+    "blue"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "hedenbergite": {
+   "slug": "hedenbergite",
+   "name": "Hedenbergite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6.5
+   },
+   "colors": "Black, dark green or green-brown, brownish green in thin section.",
+   "colorFamilies": [
+    "green",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "hematoid-quartz": {
+   "slug": "hematoid-quartz",
+   "name": "Hematoid Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "herderite": {
+   "slug": "herderite",
+   "name": "Herderite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 5.5
+   },
+   "colors": "Light green, colorless in transmitted light. Brazilian crystals also come colorless, pink, green and violetish.",
+   "colorFamilies": [
+    "pink",
+    "purple",
+    "green",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "heulandite": {
+   "slug": "heulandite",
+   "name": "Heulandite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": "Colorless, white, gray, yellow, red, pink, orange, brown or black.",
+   "colorFamilies": [
+    "pink",
+    "yellow",
+    "orange",
+    "red",
+    "brown",
+    "black",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "hexagonite": {
+   "slug": "hexagonite",
+   "name": "Hexagonite",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "tremolite",
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": "Pinkish purple, with pink, orangy pink and violet pleochroic colors.",
+   "colorFamilies": [
+    "pink",
+    "purple"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "hiddenite": {
+   "slug": "hiddenite",
+   "name": "Hiddenite",
+   "aliases": [],
+   "kind": "variety",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 7
+   },
+   "colors": "Emerald green, yellow-green and yellow.",
+   "colorFamilies": [
+    "green",
+    "yellow"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "himalayan-quartz": {
+   "slug": "himalayan-quartz",
+   "name": "Himalayan Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "hollandite": {
+   "slug": "hollandite",
+   "name": "Hollandite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6
+   },
+   "colors": "Black, grayish black to silvery gray.",
+   "colorFamilies": [
+    "black",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "holly-blue-agate": {
+   "slug": "holly-blue-agate",
+   "name": "Holly Blue Agate",
+   "aliases": [
+    "Holly Blue"
+   ],
+   "kind": "variety",
+   "parent": "agate",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Blue modified by slight to moderate pink, giving a noticeably lavender gem.",
+   "colorFamilies": [
+    "pink",
+    "purple",
+    "blue"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "hornblende": {
+   "slug": "hornblende",
+   "name": "Hornblende",
+   "aliases": [],
+   "kind": "trade_name",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": "Usually black, dark green or dark brown.",
+   "colorFamilies": [
+    "green",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "humite": {
+   "slug": "humite",
+   "name": "Humite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6
+   },
+   "colors": "White, yellow, dark orange or brown.",
+   "colorFamilies": [
+    "yellow",
+    "orange",
+    "brown",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "hurlbutite": {
+   "slug": "hurlbutite",
+   "name": "Hurlbutite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6
+   },
+   "colors": "Colorless to greenish white.",
+   "colorFamilies": [
+    "green",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "hydrogrossular-garnet": {
+   "slug": "hydrogrossular-garnet",
+   "name": "Hydrogrossular Garnet",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "garnet",
+   "mohs": {
+    "min": 6.5,
+    "max": 7.5
+   },
+   "colors": "Most often bluish green, also pink, white and gray.",
+   "colorFamilies": [
+    "pink",
+    "green",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "hypersthene": {
+   "slug": "hypersthene",
+   "name": "Hypersthene",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": "Gray, brown or green.",
+   "colorFamilies": [
+    "green",
+    "brown",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "iceland-spar": {
+   "slug": "iceland-spar",
+   "name": "Iceland Spar",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "calcite",
+   "mohs": {
+    "min": 3,
+    "max": 3
+   },
+   "colors": "Completely colorless, ice-like.",
+   "colorFamilies": [
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "ilmenite": {
+   "slug": "ilmenite",
+   "name": "Ilmenite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": "Black.",
+   "colorFamilies": [
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "impactite": {
+   "slug": "impactite",
+   "name": "Impactite",
+   "aliases": [],
+   "kind": "rock",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "imperial-jasper": {
+   "slug": "imperial-jasper",
+   "name": "Imperial Jasper",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "jasper",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": "Variegated green and yellow hues.",
+   "colorFamilies": [
+    "green",
+    "yellow"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "indonesia-agate": {
+   "slug": "indonesia-agate",
+   "name": "Indonesia Agate",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "agate",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "indonesian-blue-amber": {
+   "slug": "indonesian-blue-amber",
+   "name": "Indonesian Blue Amber",
+   "aliases": [
+    "Blue amber"
+   ],
+   "kind": "variety",
+   "parent": "amber",
+   "mohs": {
+    "min": 2,
+    "max": 2.5
+   },
+   "colors": "Greenish blue, a surface fluorescence stimulated by ultraviolet light.",
+   "colorFamilies": [
+    "blue",
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "inesite": {
+   "slug": "inesite",
+   "name": "Inesite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": "Rose-red, pink, orange-pink, orange-red-brown and deep wine-red, turning ginger-brown on exposure.",
+   "colorFamilies": [
+    "pink",
+    "orange",
+    "red",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "isua-stone": {
+   "slug": "isua-stone",
+   "name": "Isua Stone",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "jamesonite": {
+   "slug": "jamesonite",
+   "name": "Jamesonite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 2.5
+   },
+   "colors": "Gray-black, and it may tarnish iridescent.",
+   "colorFamilies": [
+    "black",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "japan-law-twin": {
+   "slug": "japan-law-twin",
+   "name": "Japan Law Twin",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "jaspillite": {
+   "slug": "jaspillite",
+   "name": "Jaspillite",
+   "aliases": [
+    "Jaspilite"
+   ],
+   "kind": "rock",
+   "parent": null,
+   "mohs": null,
+   "colors": "Gray hematite bands alternating with red jasper bands.",
+   "colorFamilies": [
+    "red",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "jeremejevite": {
+   "slug": "jeremejevite",
+   "name": "Jeremejevite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6.5,
+    "max": 7.5
+   },
+   "colors": "Colorless, light blue, yellow-brown, greenish, light or golden yellow, and sometimes violet.",
+   "colorFamilies": [
+    "purple",
+    "blue",
+    "green",
+    "yellow",
+    "brown",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "k2-jasper": {
+   "slug": "k2-jasper",
+   "name": "K2 Jasper",
+   "aliases": [
+    "K2 Granite",
+    "raindrop azurite"
+   ],
+   "kind": "rock",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6
+   },
+   "colors": "Bright white granite with sharply contrasting bright blue azurite orbs, sometimes green malachite stains.",
+   "colorFamilies": [
+    "blue",
+    "green",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "kernite": {
+   "slug": "kernite",
+   "name": "Kernite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 2.5
+   },
+   "colors": "Colorless, white if altered at the surface to tincalconite.",
+   "colorFamilies": [
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "kimberlite": {
+   "slug": "kimberlite",
+   "name": "Kimberlite",
+   "aliases": [],
+   "kind": "rock",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "kinoite": {
+   "slug": "kinoite",
+   "name": "Kinoite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4,
+    "max": 5
+   },
+   "colors": "Deep azurite-blue.",
+   "colorFamilies": [
+    "blue"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "kornerupine": {
+   "slug": "kornerupine",
+   "name": "Kornerupine",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 7
+   },
+   "colors": "Colorless, white, blue, green, dark green, greenish yellow, yellow-brown and black. Gem material is mostly dark brown or green, with lighter green from Kenya.",
+   "colorFamilies": [
+    "blue",
+    "green",
+    "yellow",
+    "brown",
+    "black",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "kundalini-citrine": {
+   "slug": "kundalini-citrine",
+   "name": "Kundalini Citrine",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "citrine",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "laser-wand-quartz": {
+   "slug": "laser-wand-quartz",
+   "name": "Laser Wand Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "lavender-moon-quartz": {
+   "slug": "lavender-moon-quartz",
+   "name": "Lavender Moon Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "lawsonite": {
+   "slug": "lawsonite",
+   "name": "Lawsonite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6
+   },
+   "colors": "Colorless, white, pale blue to grayish blue, translucent.",
+   "colorFamilies": [
+    "blue",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "lazulite": {
+   "slug": "lazulite",
+   "name": "Lazulite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": "Azure blue, sky blue, bluish white, yellow green or blue green, rarely green.",
+   "colorFamilies": [
+    "blue",
+    "green",
+    "yellow",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "legrandite": {
+   "slug": "legrandite",
+   "name": "Legrandite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4.5,
+    "max": 4.5
+   },
+   "colors": "Bright yellow, wax-yellow or colorless.",
+   "colorFamilies": [
+    "yellow",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "lemon-calcite": {
+   "slug": "lemon-calcite",
+   "name": "Lemon Calcite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "calcite",
+   "mohs": {
+    "min": 3,
+    "max": 3
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "leucite": {
+   "slug": "leucite",
+   "name": "Leucite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": "White and gray, colorless in thin section.",
+   "colorFamilies": [
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "leucitite": {
+   "slug": "leucitite",
+   "name": "Leucitite",
+   "aliases": [],
+   "kind": "rock",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "libethenite": {
+   "slug": "libethenite",
+   "name": "Libethenite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4,
+    "max": 4
+   },
+   "colors": "Light to dark olive-green, dark green, blackish green and black.",
+   "colorFamilies": [
+    "green",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "limonite": {
+   "slug": "limonite",
+   "name": "Limonite",
+   "aliases": [],
+   "kind": "rock",
+   "parent": null,
+   "mohs": {
+    "min": 1,
+    "max": 5
+   },
+   "colors": "Yellowish brown to brown to black.",
+   "colorFamilies": [
+    "yellow",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "linarite": {
+   "slug": "linarite",
+   "name": "Linarite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 2.5
+   },
+   "colors": "Bright to dark azure-blue.",
+   "colorFamilies": [
+    "blue"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "lithium-quartz": {
+   "slug": "lithium-quartz",
+   "name": "Lithium Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "lizardite": {
+   "slug": "lizardite",
+   "name": "Lizardite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 2.5
+   },
+   "colors": "Green, light yellow to white.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "lodestone": {
+   "slug": "lodestone",
+   "name": "Lodestone",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "magnetite",
+   "mohs": {
+    "min": 5,
+    "max": 6.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "loellingite": {
+   "slug": "loellingite",
+   "name": "Loellingite",
+   "aliases": [
+    "Löllingite"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 5.5
+   },
+   "colors": "Steel-gray to silver-white.",
+   "colorFamilies": [
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "ludlamite": {
+   "slug": "ludlamite",
+   "name": "Ludlamite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3.5,
+    "max": 3.5
+   },
+   "colors": "Apple green to bright green, nearly colorless in transmitted light.",
+   "colorFamilies": [
+    "green",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "mali-garnet": {
+   "slug": "mali-garnet",
+   "name": "Mali Garnet",
+   "aliases": [
+    "Grossular-andradite",
+    "Grandite"
+   ],
+   "kind": "variety",
+   "parent": "garnet",
+   "mohs": {
+    "min": 6.5,
+    "max": 7.5
+   },
+   "colors": "Mostly yellow-green to brown, rarely intense green. Golden and olive-green stones are shown, and some rare ones change from grayish green to brown.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "brown",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "maligano-jasper": {
+   "slug": "maligano-jasper",
+   "name": "Maligano Jasper",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "jasper",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "mandarin-garnet": {
+   "slug": "mandarin-garnet",
+   "name": "Mandarin Garnet",
+   "aliases": [
+    "hollandine",
+    "Kunene spessartine"
+   ],
+   "kind": "trade_name",
+   "parent": "garnet",
+   "mohs": {
+    "min": 6.5,
+    "max": 7.5
+   },
+   "colors": "Vivid orange, the classic mandarin orange hue.",
+   "colorFamilies": [
+    "orange"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "mango-quartz": {
+   "slug": "mango-quartz",
+   "name": "Mango Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "maw-sit-sit": {
+   "slug": "maw-sit-sit",
+   "name": "Maw Sit Sit",
+   "aliases": [
+    "maw-sit-sit",
+    "maw-sit sit",
+    "mawsitsit"
+   ],
+   "kind": "rock",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 7
+   },
+   "colors": "Highly saturated green to light green and even black, often mottled or veined with black and sometimes white.",
+   "colorFamilies": [
+    "green",
+    "black",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "mellite": {
+   "slug": "mellite",
+   "name": "Mellite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2,
+    "max": 2.5
+   },
+   "colors": "Honey-yellow, deep red, pale shades of red, brown, gray and white.",
+   "colorFamilies": [
+    "yellow",
+    "orange",
+    "red",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "mesolite": {
+   "slug": "mesolite",
+   "name": "Mesolite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 5
+   },
+   "colors": "Colorless, white, gray and yellowish.",
+   "colorFamilies": [
+    "yellow",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "mexican-agate": {
+   "slug": "mexican-agate",
+   "name": "Mexican Agate",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "agate",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "mica-quartz": {
+   "slug": "mica-quartz",
+   "name": "Mica Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "microcline": {
+   "slug": "microcline",
+   "name": "Microcline",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "White, pale cream-yellow, red, green and blue, colorless in thin section.",
+   "colorFamilies": [
+    "blue",
+    "green",
+    "yellow",
+    "red",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "microlite": {
+   "slug": "microlite",
+   "name": "Microlite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 5.5
+   },
+   "colors": "Green and brown crystals, golden orange crystals, garnet red crystals, and massive brownish or reddish material.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "orange",
+    "red",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "midnight-lace-obsidian": {
+   "slug": "midnight-lace-obsidian",
+   "name": "Midnight Lace Obsidian",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "obsidian",
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "millerite": {
+   "slug": "millerite",
+   "name": "Millerite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 3.5
+   },
+   "colors": "Pale brass-yellow to bronze-yellow, tarnishing to iridescence.",
+   "colorFamilies": [
+    "yellow"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "mimetite": {
+   "slug": "mimetite",
+   "name": "Mimetite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": "Pale to bright yellow, yellowish brown, yellow-orange or white, may be colorless.",
+   "colorFamilies": [
+    "yellow",
+    "orange",
+    "brown",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "mohawkite": {
+   "slug": "mohawkite",
+   "name": "Mohawkite",
+   "aliases": [],
+   "kind": "rock",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 4
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "monazite": {
+   "slug": "monazite",
+   "name": "Monazite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 5.5
+   },
+   "colors": "Yellowish to reddish brown, greenish.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "moon-quartz": {
+   "slug": "moon-quartz",
+   "name": "Moon Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "moonstone-tourmaline": {
+   "slug": "moonstone-tourmaline",
+   "name": "Moonstone Tourmaline",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "mordenite": {
+   "slug": "mordenite",
+   "name": "Mordenite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 4
+   },
+   "colors": "Colorless, white, yellowish and pinkish, with color in cut material due to staining.",
+   "colorFamilies": [
+    "pink",
+    "yellow",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "moroccan-agate": {
+   "slug": "moroccan-agate",
+   "name": "Moroccan Agate",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "agate",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Pink-orange outer rim and red-brown inner rim, with a mostly gray-blue or white interior (Sidi Rahal agate).",
+   "colorFamilies": [
+    "pink",
+    "blue",
+    "orange",
+    "red",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "mottramite": {
+   "slug": "mottramite",
+   "name": "Mottramite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 3.5
+   },
+   "colors": "Grass green, olive green, yellow green, siskin green, blackish brown to nearly black.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "mugglestone": {
+   "slug": "mugglestone",
+   "name": "Mugglestone",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "muscovite": {
+   "slug": "muscovite",
+   "name": "Muscovite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 3
+   },
+   "colors": "Colorless in thin sheets, sometimes tinted brown, yellow, green or rose. Thick pieces look black, brown or silver.",
+   "colorFamilies": [
+    "pink",
+    "green",
+    "yellow",
+    "brown",
+    "black",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "nellite": {
+   "slug": "nellite",
+   "name": "Nellite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "neon-apatite": {
+   "slug": "neon-apatite",
+   "name": "Neon Apatite",
+   "aliases": [],
+   "kind": "treated",
+   "parent": "apatite",
+   "mohs": {
+    "min": 5,
+    "max": 5
+   },
+   "colors": "Neon green, mint green, blue-green and blue, including a Paraiba-like blue and an indicolite-like blue.",
+   "colorFamilies": [
+    "blue",
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "nepheline": {
+   "slug": "nepheline",
+   "name": "Nepheline",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": "Colorless, white, gray or yellowish, and variously colored by impurities.",
+   "colorFamilies": [
+    "yellow",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "neptunite": {
+   "slug": "neptunite",
+   "name": "Neptunite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": "Black, deep red-brown in thin fragments, nearly opaque.",
+   "colorFamilies": [
+    "red",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "nguni-jasper": {
+   "slug": "nguni-jasper",
+   "name": "Nguni Jasper",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "jasper",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "nine-dragon-jade": {
+   "slug": "nine-dragon-jade",
+   "name": "Nine Dragon Jade",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "jade",
+   "mohs": {
+    "min": 6,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "noble-serpentine": {
+   "slug": "noble-serpentine",
+   "name": "Noble Serpentine",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "serpentine",
+   "mohs": {
+    "min": 2,
+    "max": 5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "nontronite": {
+   "slug": "nontronite",
+   "name": "Nontronite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 1,
+    "max": 2
+   },
+   "colors": "Yellow, olive-green, green, orange and brown, and may be zoned.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "orange",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "okenite": {
+   "slug": "okenite",
+   "name": "Okenite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 5
+   },
+   "colors": "White or colorless, sometimes slightly yellow.",
+   "colorFamilies": [
+    "yellow",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "oligoclase": {
+   "slug": "oligoclase",
+   "name": "Oligoclase",
+   "aliases": [],
+   "kind": "variety",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "White, sometimes tinted gray, green or red.",
+   "colorFamilies": [
+    "green",
+    "red",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "orange-aventurine": {
+   "slug": "orange-aventurine",
+   "name": "Orange Aventurine",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "aventurine",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": "Orange, including reddish-orange pieces. Colors other than green are uncommon in aventurine.",
+   "colorFamilies": [
+    "green",
+    "orange"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "orange-diamond": {
+   "slug": "orange-diamond",
+   "name": "Orange Diamond",
+   "aliases": [
+    "fire diamonds"
+   ],
+   "kind": "variety",
+   "parent": "diamond",
+   "mohs": {
+    "min": 10,
+    "max": 10
+   },
+   "colors": "Orangey-red to yellowish-orange, with pure orange being very rare.",
+   "colorFamilies": [
+    "yellow",
+    "orange",
+    "red"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "orange-feldspar": {
+   "slug": "orange-feldspar",
+   "name": "Orange Feldspar",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "feldspar",
+   "mohs": {
+    "min": 6,
+    "max": 6
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "orange-kyanite": {
+   "slug": "orange-kyanite",
+   "name": "Orange Kyanite",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "kyanite",
+   "mohs": {
+    "min": 4.5,
+    "max": 7
+   },
+   "colors": "Orange.",
+   "colorFamilies": [
+    "orange"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "orange-selenite": {
+   "slug": "orange-selenite",
+   "name": "Orange Selenite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "selenite",
+   "mohs": {
+    "min": 2,
+    "max": 2
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "orchid-calcite": {
+   "slug": "orchid-calcite",
+   "name": "Orchid Calcite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "calcite",
+   "mohs": {
+    "min": 3,
+    "max": 3
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "oregon-sunstone": {
+   "slug": "oregon-sunstone",
+   "name": "Oregon Sunstone",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "sunstone",
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "Clear, gold, peach, coral, pink, red, green and blue.",
+   "colorFamilies": [
+    "orange",
+    "pink",
+    "blue",
+    "green",
+    "yellow",
+    "red",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "orpiment": {
+   "slug": "orpiment",
+   "name": "Orpiment",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 1.5,
+    "max": 2
+   },
+   "colors": "Lemon-yellow to golden or brownish yellow, also bright orange or lustrous brown.",
+   "colorFamilies": [
+    "yellow",
+    "orange",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "outback-jasper": {
+   "slug": "outback-jasper",
+   "name": "Outback Jasper",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "jasper",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "owyhee-blue-opal": {
+   "slug": "owyhee-blue-opal",
+   "name": "Owyhee Blue Opal",
+   "aliases": [
+    "Owyhee Blue"
+   ],
+   "kind": "variety",
+   "parent": "opal",
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": "Blue gray to brilliant sky blue, including pale to medium blue and powder blue.",
+   "colorFamilies": [
+    "blue",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "padparadscha-sapphire": {
+   "slug": "padparadscha-sapphire",
+   "name": "Padparadscha Sapphire",
+   "aliases": [
+    "padparadscha"
+   ],
+   "kind": "variety",
+   "parent": "sapphire",
+   "mohs": {
+    "min": 9,
+    "max": 9
+   },
+   "colors": "A subtle mix of pinkish orange to orangey pink with pastel tones and low to medium saturation, per the LMHC definition.",
+   "colorFamilies": [
+    "pink",
+    "orange"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "painite": {
+   "slug": "painite",
+   "name": "Painite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 8,
+    "max": 8
+   },
+   "colors": "Deep garnet red to brownish red-orange.",
+   "colorFamilies": [
+    "orange",
+    "red",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "papagoite": {
+   "slug": "papagoite",
+   "name": "Papagoite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 5.5
+   },
+   "colors": "Cerulean blue.",
+   "colorFamilies": [
+    "blue"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "paragonite": {
+   "slug": "paragonite",
+   "name": "Paragonite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 3
+   },
+   "colors": "Colorless, pale yellow, grayish, grayish white, greenish, light apple-green.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pargasite": {
+   "slug": "pargasite",
+   "name": "Pargasite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": "Bluish green, grayish black, light brown, bright green when chromium bearing.",
+   "colorFamilies": [
+    "green",
+    "brown",
+    "black",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "peach-agate": {
+   "slug": "peach-agate",
+   "name": "Peach Agate",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "agate",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "peach-quartz": {
+   "slug": "peach-quartz",
+   "name": "Peach Quartz",
+   "aliases": [
+    "Orange Quartz"
+   ],
+   "kind": "trade_name",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Light orange to bright orange to brownish orange.",
+   "colorFamilies": [
+    "orange",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "peanut-obsidian": {
+   "slug": "peanut-obsidian",
+   "name": "Peanut Obsidian",
+   "aliases": [],
+   "kind": "rock",
+   "parent": "obsidian",
+   "mohs": null,
+   "colors": "Gray to greenish gray base with red or brownish red stellate spherulites.",
+   "colorFamilies": [
+    "green",
+    "red",
+    "brown",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "peanut-wood": {
+   "slug": "peanut-wood",
+   "name": "Peanut Wood",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "petrified-wood",
+   "mohs": {
+    "min": 5.5,
+    "max": 7
+   },
+   "colors": "Dark brown to black wood with white to cream oval markings.",
+   "colorFamilies": [
+    "brown",
+    "black",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pegmatite": {
+   "slug": "pegmatite",
+   "name": "Pegmatite",
+   "aliases": [],
+   "kind": "rock",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "peristerite": {
+   "slug": "peristerite",
+   "name": "Peristerite",
+   "aliases": [],
+   "kind": "variety",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "Iridescence that is either blue or white (white or bluish schiller).",
+   "colorFamilies": [
+    "blue",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "perthite": {
+   "slug": "perthite",
+   "name": "Perthite",
+   "aliases": [],
+   "kind": "rock",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "Nearly colorless, white, flesh to salmon-pink, shades of green, gray or brown.",
+   "colorFamilies": [
+    "pink",
+    "green",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "petalite": {
+   "slug": "petalite",
+   "name": "Petalite",
+   "aliases": [
+    "Castorite"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6.5,
+    "max": 6.5
+   },
+   "colors": "Colorless, white, gray, rarely reddish or greenish.",
+   "colorFamilies": [
+    "green",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "petrified-ironwood": {
+   "slug": "petrified-ironwood",
+   "name": "Petrified Ironwood",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "petrified-wood",
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pezzottaite": {
+   "slug": "pezzottaite",
+   "name": "Pezzottaite",
+   "aliases": [
+    "Raspberry Beryl"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 8,
+    "max": 8
+   },
+   "colors": "Raspberry-red to pink.",
+   "colorFamilies": [
+    "pink",
+    "red"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "phoenix-stone": {
+   "slug": "phoenix-stone",
+   "name": "Phoenix Stone",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "phosphophyllite": {
+   "slug": "phosphophyllite",
+   "name": "Phosphophyllite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 3.5
+   },
+   "colors": "Pale bluish green, sea-green or colorless.",
+   "colorFamilies": [
+    "green",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "picasso-marble": {
+   "slug": "picasso-marble",
+   "name": "Picasso Marble",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "marble",
+   "mohs": {
+    "min": 3,
+    "max": 3
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pink-aragonite": {
+   "slug": "pink-aragonite",
+   "name": "Pink Aragonite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "aragonite",
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pink-aventurine": {
+   "slug": "pink-aventurine",
+   "name": "Pink Aventurine",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "aventurine",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": "Pink, with the sparkly glitter of aventurescence.",
+   "colorFamilies": [
+    "pink"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pink-botswana-agate": {
+   "slug": "pink-botswana-agate",
+   "name": "Pink Botswana Agate",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "agate",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pink-chalcedony": {
+   "slug": "pink-chalcedony",
+   "name": "Pink Chalcedony",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "chalcedony",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pink-diamond": {
+   "slug": "pink-diamond",
+   "name": "Pink Diamond",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "diamond",
+   "mohs": {
+    "min": 10,
+    "max": 10
+   },
+   "colors": "Pink, sometimes with brown, orange, yellow or purple secondary hues.",
+   "colorFamilies": [
+    "pink",
+    "purple",
+    "yellow",
+    "orange",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pink-fluorite": {
+   "slug": "pink-fluorite",
+   "name": "Pink Fluorite",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "fluorite",
+   "mohs": {
+    "min": 4,
+    "max": 4
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pink-grossular-garnet": {
+   "slug": "pink-grossular-garnet",
+   "name": "Pink Grossular Garnet",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "garnet",
+   "mohs": {
+    "min": 6.5,
+    "max": 7.5
+   },
+   "colors": "Light pink to raspberry-red.",
+   "colorFamilies": [
+    "pink",
+    "red"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pink-halite": {
+   "slug": "pink-halite",
+   "name": "Pink Halite",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "halite",
+   "mohs": {
+    "min": 2,
+    "max": 2.5
+   },
+   "colors": "Pink.",
+   "colorFamilies": [
+    "pink"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pink-himalayan-quartz": {
+   "slug": "pink-himalayan-quartz",
+   "name": "Pink Himalayan Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pink-jade": {
+   "slug": "pink-jade",
+   "name": "Pink Jade",
+   "aliases": [],
+   "kind": "trade_name",
+   "parent": "jade",
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pink-petalite": {
+   "slug": "pink-petalite",
+   "name": "Pink Petalite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "petalite",
+   "mohs": {
+    "min": 6.5,
+    "max": 6.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pink-scolecite": {
+   "slug": "pink-scolecite",
+   "name": "Pink Scolecite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "scolecite",
+   "mohs": {
+    "min": 5,
+    "max": 5.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pink-zebra-jasper": {
+   "slug": "pink-zebra-jasper",
+   "name": "Pink Zebra Jasper",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "jasper",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pipestone": {
+   "slug": "pipestone",
+   "name": "Pipestone",
+   "aliases": [
+    "Pipe stone",
+    "Catlinite"
+   ],
+   "kind": "rock",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 2.5
+   },
+   "colors": "Red, from traces of hematite, described as deep reddish brown for catlinite.",
+   "colorFamilies": [
+    "red",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pistachio-calcite": {
+   "slug": "pistachio-calcite",
+   "name": "Pistachio Calcite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "calcite",
+   "mohs": {
+    "min": 3,
+    "max": 3
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "plum-blossom-jasper": {
+   "slug": "plum-blossom-jasper",
+   "name": "Plum Blossom Jasper",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "jasper",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "plumbogummite": {
+   "slug": "plumbogummite",
+   "name": "Plumbogummite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4.5,
+    "max": 5
+   },
+   "colors": "Grayish white, grayish blue, yellowish gray, yellowish brown, green or pale blue.",
+   "colorFamilies": [
+    "blue",
+    "green",
+    "yellow",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "plume-agate": {
+   "slug": "plume-agate",
+   "name": "Plume Agate",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "agate",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": "Virtually colorless or light colored, commonly bluish, with red, yellow, yellowish brown or violet plumes.",
+   "colorFamilies": [
+    "purple",
+    "yellow",
+    "red",
+    "brown",
+    "white"
+   ],
+   "chakra": "Moss agate in general is said to be connected with the heart chakra.",
+   "birthstone": "Agate in general is considered by some people the birthstone for June."
+  },
+  "pollucite": {
+   "slug": "pollucite",
+   "name": "Pollucite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": "Colorless, white or gray, or tinted pink, blue or violet.",
+   "colorFamilies": [
+    "pink",
+    "purple",
+    "blue",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "porcelain-jasper": {
+   "slug": "porcelain-jasper",
+   "name": "Porcelain Jasper",
+   "aliases": [],
+   "kind": "rock",
+   "parent": "porcellanite",
+   "mohs": null,
+   "colors": "Red.",
+   "colorFamilies": [
+    "red"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "powellite": {
+   "slug": "powellite",
+   "name": "Powellite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": "Straw-yellow, greenish yellow, yellow-brown, brown, colorless, may be zoned, also blue to nearly black. Copper-rich material can be green.",
+   "colorFamilies": [
+    "blue",
+    "green",
+    "yellow",
+    "brown",
+    "black",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "preseli-bluestone": {
+   "slug": "preseli-bluestone",
+   "name": "Preseli Bluestone",
+   "aliases": [],
+   "kind": "rock",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "proustite": {
+   "slug": "proustite",
+   "name": "Proustite",
+   "aliases": [
+    "ruby silver"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2,
+    "max": 2.5
+   },
+   "colors": "Deep red, scarlet to vermilion, with a bright red streak. Darker, more metallic crystals still look red when backlit.",
+   "colorFamilies": [
+    "red"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pumpellyite": {
+   "slug": "pumpellyite",
+   "name": "Pumpellyite",
+   "aliases": [
+    "Chlorastrolite"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 5.5
+   },
+   "colors": "Green, bluish green, greenish black, brown.",
+   "colorFamilies": [
+    "green",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "purple-agate": {
+   "slug": "purple-agate",
+   "name": "Purple Agate",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "agate",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "purple-apatite": {
+   "slug": "purple-apatite",
+   "name": "Purple Apatite",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "apatite",
+   "mohs": {
+    "min": 5,
+    "max": 5
+   },
+   "colors": "Rich violet to purple.",
+   "colorFamilies": [
+    "purple"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "purple-aragonite": {
+   "slug": "purple-aragonite",
+   "name": "Purple Aragonite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "aragonite",
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "purple-chalcedony": {
+   "slug": "purple-chalcedony",
+   "name": "Purple Chalcedony",
+   "aliases": [
+    "Damsonite"
+   ],
+   "kind": "variety",
+   "parent": "chalcedony",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Grayish, slightly reddish purple, in darker and lighter shades.",
+   "colorFamilies": [
+    "purple",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "purple-diamond": {
+   "slug": "purple-diamond",
+   "name": "Purple Diamond",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "diamond",
+   "mohs": {
+    "min": 10,
+    "max": 10
+   },
+   "colors": "Purple, often with gray or brown undertones, and sometimes paired with a pink hue.",
+   "colorFamilies": [
+    "pink",
+    "purple",
+    "brown",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "purple-scapolite": {
+   "slug": "purple-scapolite",
+   "name": "Purple Scapolite",
+   "aliases": [
+    "Petschite"
+   ],
+   "kind": "variety",
+   "parent": "scapolite",
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": "Purple.",
+   "colorFamilies": [
+    "purple"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pyrargyrite": {
+   "slug": "pyrargyrite",
+   "name": "Pyrargyrite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 2.5
+   },
+   "colors": "Deep red, darkens with exposure to light.",
+   "colorFamilies": [
+    "red"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pyrope": {
+   "slug": "pyrope",
+   "name": "Pyrope",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": "garnet",
+   "mohs": {
+    "min": 7,
+    "max": 7.5
+   },
+   "colors": "Dark blood red, sometimes with a very slight brownish tint.",
+   "colorFamilies": [
+    "red",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pyrophyllite": {
+   "slug": "pyrophyllite",
+   "name": "Pyrophyllite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 1,
+    "max": 2
+   },
+   "colors": "White, pale blue, yellow, apple-green, grayish green or brownish green.",
+   "colorFamilies": [
+    "blue",
+    "green",
+    "yellow",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pyroxmangite": {
+   "slug": "pyroxmangite",
+   "name": "Pyroxmangite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": "Pink to red, often with brown or black oxidation coatings, and reddish brown to purplish pink when transparent.",
+   "colorFamilies": [
+    "pink",
+    "red",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "pyrrhotite": {
+   "slug": "pyrrhotite",
+   "name": "Pyrrhotite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": "Brownish bronze, reddish bronze and yellowish bronze, usually tarnished.",
+   "colorFamilies": [
+    "yellow",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "quantum-quattro": {
+   "slug": "quantum-quattro",
+   "name": "Quantum Quattro",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "quartz": {
+   "slug": "quartz",
+   "name": "Types of Quartz, the Mineral Behind Most Crystals",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Occurs in virtually every color, commonly clear, white, gray, purple, yellow, brown, black, pink, green and red.",
+   "colorFamilies": [
+    "pink",
+    "purple",
+    "green",
+    "yellow",
+    "red",
+    "brown",
+    "black",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "quartzite": {
+   "slug": "quartzite",
+   "name": "Quartzite",
+   "aliases": [],
+   "kind": "rock",
+   "parent": null,
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Usually white to gray, pink, red or purple when stained by iron, and sometimes yellow, orange, brown, green or blue.",
+   "colorFamilies": [
+    "pink",
+    "purple",
+    "blue",
+    "green",
+    "yellow",
+    "orange",
+    "red",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "que-sera-stone": {
+   "slug": "que-sera-stone",
+   "name": "Que Sera Stone",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "rainbow-andradite-garnet": {
+   "slug": "rainbow-andradite-garnet",
+   "name": "Rainbow Andradite Garnet",
+   "aliases": [
+    "rainbow andradite",
+    "iridescent andradite"
+   ],
+   "kind": "variety",
+   "parent": "garnet",
+   "mohs": {
+    "min": 7,
+    "max": 7.5
+   },
+   "colors": "Dark root-beer brown with an iridescent play of color.",
+   "colorFamilies": [
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "rainbow-pyrite": {
+   "slug": "rainbow-pyrite",
+   "name": "Rainbow Pyrite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "pyrite",
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "red-aragonite": {
+   "slug": "red-aragonite",
+   "name": "Red Aragonite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "aragonite",
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "red-calcite": {
+   "slug": "red-calcite",
+   "name": "Red Calcite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "calcite",
+   "mohs": {
+    "min": 3,
+    "max": 3
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "red-diamond": {
+   "slug": "red-diamond",
+   "name": "Red Diamond",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "diamond",
+   "mohs": {
+    "min": 10,
+    "max": 10
+   },
+   "colors": "Red, with blended grades that include purple, brown and orange hues.",
+   "colorFamilies": [
+    "purple",
+    "orange",
+    "red",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "red-goldstone": {
+   "slug": "red-goldstone",
+   "name": "Red Goldstone",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "goldstone",
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "red-picasso-jasper": {
+   "slug": "red-picasso-jasper",
+   "name": "Red Picasso Jasper",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "red-selenite": {
+   "slug": "red-selenite",
+   "name": "Red Selenite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "selenite",
+   "mohs": {
+    "min": 2,
+    "max": 2
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "rhodizite": {
+   "slug": "rhodizite",
+   "name": "Rhodizite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 8,
+    "max": 8.5
+   },
+   "colors": "Colorless to white, with a possible pale gray or pale yellow tinge.",
+   "colorFamilies": [
+    "yellow",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "rhyolite": {
+   "slug": "rhyolite",
+   "name": "Rhyolite",
+   "aliases": [
+    "liparite"
+   ],
+   "kind": "rock",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 7
+   },
+   "colors": "Light gray, pink, yellowish, cream, mauve, tan to medium brown, and light to brick-red, with mottled or banded patterns common.",
+   "colorFamilies": [
+    "pink",
+    "yellow",
+    "red",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "richterite": {
+   "slug": "richterite",
+   "name": "Richterite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": "Brown, yellow, green, brownish red.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "red",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "rosasite": {
+   "slug": "rosasite",
+   "name": "Rosasite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4.5,
+    "max": 4.5
+   },
+   "colors": "Green, bluish green and sky-blue.",
+   "colorFamilies": [
+    "blue",
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "ruby-feldspar": {
+   "slug": "ruby-feldspar",
+   "name": "Ruby Feldspar",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "feldspar",
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "rutile": {
+   "slug": "rutile",
+   "name": "Rutile",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "Reddish brown, red, pale yellow, pale blue or violet, rarely grass-green, black if rich in Nb and Ta.",
+   "colorFamilies": [
+    "purple",
+    "blue",
+    "green",
+    "yellow",
+    "red",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "saffordite": {
+   "slug": "saffordite",
+   "name": "Saffordite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "saltwater-pearl": {
+   "slug": "saltwater-pearl",
+   "name": "Saltwater Pearl",
+   "aliases": [],
+   "kind": "organic",
+   "parent": "pearl",
+   "mohs": {
+    "min": 2.5,
+    "max": 3
+   },
+   "colors": "White to cream, often with rose, blue or green overtones. Black, gray, yellow and gold also occur, and Tahitian cultured pearls are black or very dark with green and purplish pink overtones.",
+   "colorFamilies": [
+    "pink",
+    "blue",
+    "green",
+    "yellow",
+    "black",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": "June (pearl in general)."
+  },
+  "samadhi-quartz": {
+   "slug": "samadhi-quartz",
+   "name": "Samadhi Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "samarskite": {
+   "slug": "samarskite",
+   "name": "Samarskite",
+   "aliases": [
+    "Samarskite-(Y)"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": "Velvet-black, sometimes with a brownish tint, and brown to yellowish brown when altered.",
+   "colorFamilies": [
+    "yellow",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "sand-dollar-fossil": {
+   "slug": "sand-dollar-fossil",
+   "name": "Sand Dollar Fossil",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "sanidine": {
+   "slug": "sanidine",
+   "name": "Sanidine",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6
+   },
+   "colors": "Mostly colorless, occasionally brown or yellow.",
+   "colorFamilies": [
+    "yellow",
+    "brown",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "sapphirine": {
+   "slug": "sapphirine",
+   "name": "Sapphirine",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 7.5,
+    "max": 7.5
+   },
+   "colors": "Light to dark blue or green, white, gray, pale red and yellow. Gem material is most often grayish blue, rarely violet, purple, green, pink, brown or red.",
+   "colorFamilies": [
+    "pink",
+    "purple",
+    "blue",
+    "green",
+    "yellow",
+    "red",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "satin-spar": {
+   "slug": "satin-spar",
+   "name": "Satin Spar",
+   "aliases": [
+    "Atlas spar"
+   ],
+   "kind": "variety",
+   "parent": "gypsum",
+   "mohs": {
+    "min": 2,
+    "max": 2
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "saussurite": {
+   "slug": "saussurite",
+   "name": "Saussurite",
+   "aliases": [
+    "Dushan jade",
+    "jade tenace",
+    "Nanyang jade",
+    "Swiss jade"
+   ],
+   "kind": "rock",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "scapolite": {
+   "slug": "scapolite",
+   "name": "Scapolite",
+   "aliases": [
+    "Wernerite"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5.5,
+    "max": 6
+   },
+   "colors": "Near colorless through pinks and purples to yellow and orange, with yellow the most common.",
+   "colorFamilies": [
+    "yellow",
+    "orange",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "scepter-quartz": {
+   "slug": "scepter-quartz",
+   "name": "Scepter Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "schalenblende": {
+   "slug": "schalenblende",
+   "name": "Schalenblende",
+   "aliases": [],
+   "kind": "rock",
+   "parent": "sphalerite",
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "scorodite": {
+   "slug": "scorodite",
+   "name": "Scorodite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": "Pale leek green, grayish green, liver brown, pale blue, violet, yellow, pale grayish or colorless.",
+   "colorFamilies": [
+    "purple",
+    "blue",
+    "green",
+    "yellow",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "septarian-nodule": {
+   "slug": "septarian-nodule",
+   "name": "Septarian Nodule",
+   "aliases": [
+    "Septarium",
+    "Septaria"
+   ],
+   "kind": "rock",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "serandite": {
+   "slug": "serandite",
+   "name": "Serandite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4.5,
+    "max": 5.5
+   },
+   "colors": "Pink and salmon-colored crystals.",
+   "colorFamilies": [
+    "pink"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "shaman-stone": {
+   "slug": "shaman-stone",
+   "name": "Shaman Stone",
+   "aliases": [
+    "Moqui marbles",
+    "Moki",
+    "Navajo cherries",
+    "Navajo berries",
+    "Kayenta berries",
+    "Entrada berries",
+    "Hopi marbles",
+    "Moqui balls",
+    "iron concretions"
+   ],
+   "kind": "rock",
+   "parent": null,
+   "mohs": null,
+   "colors": "Brownish black.",
+   "colorFamilies": [
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "shark-tooth": {
+   "slug": "shark-tooth",
+   "name": "Shark Tooth",
+   "aliases": [],
+   "kind": "organic",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "shell-fossil": {
+   "slug": "shell-fossil",
+   "name": "Shell Fossil",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "sillimanite": {
+   "slug": "sillimanite",
+   "name": "Sillimanite",
+   "aliases": [
+    "Fibrolite"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6.5,
+    "max": 7.5
+   },
+   "colors": "Colorless or white to gray, also brown, yellow, yellow-green, gray-green, blue-green, blue.",
+   "colorFamilies": [
+    "blue",
+    "green",
+    "yellow",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "silver-lace-agate": {
+   "slug": "silver-lace-agate",
+   "name": "Silver Lace Agate",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "agate",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "silver-rutile": {
+   "slug": "silver-rutile",
+   "name": "Silver Rutile",
+   "aliases": [
+    "Silvery rutile"
+   ],
+   "kind": "variety",
+   "parent": "rutile",
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "Silvery gray.",
+   "colorFamilies": [
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "sinhalite": {
+   "slug": "sinhalite",
+   "name": "Sinhalite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": "Colorless, pale yellow, yellow, greenish brown and dark brown, or brownish pink to pale pink if chromian.",
+   "colorFamilies": [
+    "pink",
+    "green",
+    "yellow",
+    "brown",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "skeletal-quartz": {
+   "slug": "skeletal-quartz",
+   "name": "Skeletal Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "sleeping-beauty-turquoise": {
+   "slug": "sleeping-beauty-turquoise",
+   "name": "Sleeping Beauty Turquoise",
+   "aliases": [
+    "Sleeping Beauty"
+   ],
+   "kind": "variety",
+   "parent": "turquoise",
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": "Sky blue to soft creamy blue, with virtually no matrix.",
+   "colorFamilies": [
+    "blue"
+   ],
+   "chakra": null,
+   "birthstone": "Turquoise in general is the December birthstone."
+  },
+  "smithsonite": {
+   "slug": "smithsonite",
+   "name": "Smithsonite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4,
+    "max": 4.5
+   },
+   "colors": "Usually brown or gray, but may be colorless, white, yellow, green, blue or pink.",
+   "colorFamilies": [
+    "pink",
+    "blue",
+    "green",
+    "yellow",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "snakeskin-jasper": {
+   "slug": "snakeskin-jasper",
+   "name": "Snakeskin Jasper",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "jasper",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "sonora-sunrise": {
+   "slug": "sonora-sunrise",
+   "name": "Sonora Sunrise",
+   "aliases": [
+    "Sonora Sunset",
+    "Chrysocolla Cuprite",
+    "Sonoran Sunrise",
+    "Sonoran Sunset"
+   ],
+   "kind": "rock",
+   "parent": null,
+   "mohs": {
+    "min": 2,
+    "max": 4
+   },
+   "colors": "Bluish-green chrysocolla beside bright red cuprite, a red sky over a green landscape.",
+   "colorFamilies": [
+    "green",
+    "red"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "sonora-sunset": {
+   "slug": "sonora-sunset",
+   "name": "Sonora Sunset",
+   "aliases": [
+    "Sonora Sunrise",
+    "Chrysocolla Cuprite",
+    "Sonoran Sunrise",
+    "Sonoran Sunset"
+   ],
+   "kind": "trade_name",
+   "parent": null,
+   "mohs": null,
+   "colors": "Bluish-green with bright red, with some black iron minerals and orange chalcotrichite.",
+   "colorFamilies": [
+    "green",
+    "orange",
+    "red",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "spectrolite": {
+   "slug": "spectrolite",
+   "name": "Spectrolite",
+   "aliases": [
+    "Spectroliitti",
+    "Arctic Blue",
+    "Finlandia Blue",
+    "Finnish labradorite"
+   ],
+   "kind": "trade_name",
+   "parent": "labradorite",
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "Flashes of dark red, orange, yellow, blue and green, with strong multicolor labradorescence.",
+   "colorFamilies": [
+    "blue",
+    "green",
+    "yellow",
+    "orange",
+    "red"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "sphene-titanite": {
+   "slug": "sphene-titanite",
+   "name": "Sphene Titanite",
+   "aliases": [
+    "Sphene",
+    "Titanite"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 5.5
+   },
+   "colors": "Yellow, orange, brown and green, often zoned. Also colorless, red, blue and black.",
+   "colorFamilies": [
+    "blue",
+    "green",
+    "yellow",
+    "orange",
+    "red",
+    "brown",
+    "black",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "spiderweb-jasper": {
+   "slug": "spiderweb-jasper",
+   "name": "Spiderweb Jasper",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "jasper",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "spiderweb-obsidian": {
+   "slug": "spiderweb-obsidian",
+   "name": "Spiderweb Obsidian",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "obsidian",
+   "mohs": {
+    "min": 5.5,
+    "max": 5.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "spodumene": {
+   "slug": "spodumene",
+   "name": "Spodumene",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": "White, gray, colorless, yellow, green, blue, lilac, pink and brown, sometimes pleochroic.",
+   "colorFamilies": [
+    "pink",
+    "purple",
+    "blue",
+    "green",
+    "yellow",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "sponge-coral": {
+   "slug": "sponge-coral",
+   "name": "Sponge Coral",
+   "aliases": [
+    "Melithaea ochracea"
+   ],
+   "kind": "organic",
+   "parent": "coral",
+   "mohs": {
+    "min": 3.5,
+    "max": 3.5
+   },
+   "colors": "Strong orangey-red, often with fine yellow or orange trails, and also blue sponge coral with a grayish hue.",
+   "colorFamilies": [
+    "blue",
+    "yellow",
+    "orange",
+    "red",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "spotted-agate": {
+   "slug": "spotted-agate",
+   "name": "Spotted Agate",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "agate",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "spurrite": {
+   "slug": "spurrite",
+   "name": "Spurrite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 5
+   },
+   "colors": "White to gray or lavender-gray, and medium to dark purple in material from Mexico.",
+   "colorFamilies": [
+    "purple",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "star-jasper": {
+   "slug": "star-jasper",
+   "name": "Star Jasper",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "jasper",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "staurolite": {
+   "slug": "staurolite",
+   "name": "Staurolite",
+   "aliases": [
+    "fairy cross",
+    "fairy stone"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 7,
+    "max": 7.5
+   },
+   "colors": "Usually brown, reddish brown, yellowish brown, brownish black, black or dark gray.",
+   "colorFamilies": [
+    "yellow",
+    "brown",
+    "black",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "steatite-soapstone": {
+   "slug": "steatite-soapstone",
+   "name": "Steatite Soapstone",
+   "aliases": [
+    "Soapstone",
+    "Steatite"
+   ],
+   "kind": "rock",
+   "parent": null,
+   "mohs": {
+    "min": 1,
+    "max": 7
+   },
+   "colors": "White, gray, greenish gray or pale green, often discolored reddish or brownish and mottled.",
+   "colorFamilies": [
+    "green",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "stibnite": {
+   "slug": "stibnite",
+   "name": "Stibnite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2,
+    "max": 2
+   },
+   "colors": "Lead-gray, tarnishing blackish or iridescent.",
+   "colorFamilies": [
+    "black",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "strawberry-onyx": {
+   "slug": "strawberry-onyx",
+   "name": "Strawberry Onyx",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "onyx",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "striped-brown-jasper": {
+   "slug": "striped-brown-jasper",
+   "name": "Striped Brown Jasper",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "jasper",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "striped-flint": {
+   "slug": "striped-flint",
+   "name": "Striped Flint",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "flint",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "stromatolite": {
+   "slug": "stromatolite",
+   "name": "Stromatolite",
+   "aliases": [],
+   "kind": "organic",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "strontianite": {
+   "slug": "strontianite",
+   "name": "Strontianite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3.5,
+    "max": 3.5
+   },
+   "colors": "Colorless, gray, pale yellow, pale green, yellowish brown or pale red.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "red",
+    "brown",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "sulfur-quartz": {
+   "slug": "sulfur-quartz",
+   "name": "Sulfur Quartz",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "sunset-tourmaline": {
+   "slug": "sunset-tourmaline",
+   "name": "Sunset Tourmaline",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "tourmaline",
+   "mohs": {
+    "min": 7,
+    "max": 7.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "tantalite": {
+   "slug": "tantalite",
+   "name": "Tantalite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "Dark black, iron-black to dark brown or even reddish brown.",
+   "colorFamilies": [
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "thulite": {
+   "slug": "thulite",
+   "name": "Thulite",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "zoisite",
+   "mohs": {
+    "min": 6,
+    "max": 7
+   },
+   "colors": "Pink to reddish, sometimes mottled with streaks or spots of white quartz.",
+   "colorFamilies": [
+    "pink",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "thunder-bay-amethyst": {
+   "slug": "thunder-bay-amethyst",
+   "name": "Thunder Bay Amethyst",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "amethyst",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "tiger-iron": {
+   "slug": "tiger-iron",
+   "name": "Tiger Iron",
+   "aliases": [],
+   "kind": "rock",
+   "parent": null,
+   "mohs": null,
+   "colors": "Red, hematite-rich.",
+   "colorFamilies": [
+    "red"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "tremolite": {
+   "slug": "tremolite",
+   "name": "Tremolite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": "White, gray, lavender to pink, transparent to translucent.",
+   "colorFamilies": [
+    "pink",
+    "purple",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "triphane": {
+   "slug": "triphane",
+   "name": "Triphane",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "spodumene",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": "Yellow.",
+   "colorFamilies": [
+    "yellow"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "triplite": {
+   "slug": "triplite",
+   "name": "Triplite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 5.5
+   },
+   "colors": "Chestnut-brown, reddish brown, flesh-red, salmon-pink, brownish black to black if altered.",
+   "colorFamilies": [
+    "pink",
+    "red",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "tugtupite": {
+   "slug": "tugtupite",
+   "name": "Tugtupite",
+   "aliases": [
+    "Reindeer Stone"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4,
+    "max": 6.5
+   },
+   "colors": "White, pink, carmine, bluish, greenish.",
+   "colorFamilies": [
+    "pink",
+    "green",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "turkish-amethyst": {
+   "slug": "turkish-amethyst",
+   "name": "Turkish Amethyst",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "amethyst",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "umbalite": {
+   "slug": "umbalite",
+   "name": "Umbalite",
+   "aliases": [],
+   "kind": "trade_name",
+   "parent": "garnet",
+   "mohs": {
+    "min": 6.5,
+    "max": 7.5
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "unicorn-jasper": {
+   "slug": "unicorn-jasper",
+   "name": "Unicorn Jasper",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "jasper",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "uvarovite": {
+   "slug": "uvarovite",
+   "name": "Uvarovite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6.5,
+    "max": 7.5
+   },
+   "colors": "Consistently deep green, emerald green.",
+   "colorFamilies": [
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "uvite": {
+   "slug": "uvite",
+   "name": "Uvite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 7.5,
+    "max": 7.5
+   },
+   "colors": "Brown, light to dark green, red and black, and may be zoned.",
+   "colorFamilies": [
+    "green",
+    "red",
+    "brown",
+    "black"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "vatican-stone": {
+   "slug": "vatican-stone",
+   "name": "Vatican Stone",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "vayrynenite": {
+   "slug": "vayrynenite",
+   "name": "Vayrynenite",
+   "aliases": [
+    "Väyrynenite"
+   ],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 5,
+    "max": 5
+   },
+   "colors": "Rose-red, salmon-pink, pale pink, brownish pink and pale gray.",
+   "colorFamilies": [
+    "pink",
+    "red",
+    "brown",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "vera-cruz-amethyst": {
+   "slug": "vera-cruz-amethyst",
+   "name": "Vera Cruz Amethyst",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "amethyst",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Very pale, clear amethyst crystals, often phantomed with a clear quartz interior.",
+   "colorFamilies": [
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "verdite": {
+   "slug": "verdite",
+   "name": "Verdite",
+   "aliases": [
+    "Africa's green gold"
+   ],
+   "kind": "rock",
+   "parent": null,
+   "mohs": {
+    "min": 3,
+    "max": 4
+   },
+   "colors": "Grayish green to bright green.",
+   "colorFamilies": [
+    "green",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "veszelyite": {
+   "slug": "veszelyite",
+   "name": "Veszelyite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": "Greenish blue to dark blue, greenish blue in transmitted light.",
+   "colorFamilies": [
+    "blue",
+    "green"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "villiaumite": {
+   "slug": "villiaumite",
+   "name": "Villiaumite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2,
+    "max": 2.5
+   },
+   "colors": "Carmine red, lavender pink to light orange.",
+   "colorFamilies": [
+    "pink",
+    "purple",
+    "orange",
+    "red"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "violet-sapphire": {
+   "slug": "violet-sapphire",
+   "name": "Violet Sapphire",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "sapphire",
+   "mohs": {
+    "min": 9,
+    "max": 9
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "vogel-crystal": {
+   "slug": "vogel-crystal",
+   "name": "Vogel Crystal",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": null,
+   "mohs": null,
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "volcano-agate": {
+   "slug": "volcano-agate",
+   "name": "Volcano Agate",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "agate",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "wavellite": {
+   "slug": "wavellite",
+   "name": "Wavellite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": "White, greenish white, green, yellow, yellowish brown, turquoise-blue, brown, brownish black.",
+   "colorFamilies": [
+    "teal",
+    "blue",
+    "green",
+    "yellow",
+    "brown",
+    "black",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "whewellite": {
+   "slug": "whewellite",
+   "name": "Whewellite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 2.5,
+    "max": 3
+   },
+   "colors": "Colorless, white, may be pale yellow or pale brown.",
+   "colorFamilies": [
+    "yellow",
+    "brown",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "white-aragonite": {
+   "slug": "white-aragonite",
+   "name": "White Aragonite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "aragonite",
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "white-aventurine": {
+   "slug": "white-aventurine",
+   "name": "White Aventurine",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "aventurine",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "white-buffalo-stone": {
+   "slug": "white-buffalo-stone",
+   "name": "White Buffalo Stone",
+   "aliases": [],
+   "kind": "trade_name",
+   "parent": "turquoise",
+   "mohs": {
+    "min": 5,
+    "max": 6
+   },
+   "colors": "White.",
+   "colorFamilies": [
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": "December, for turquoise in general."
+  },
+  "white-jasper": {
+   "slug": "white-jasper",
+   "name": "White Jasper",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "jasper",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "wolframite": {
+   "slug": "wolframite",
+   "name": "Wolframite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4,
+    "max": 4.5
+   },
+   "colors": "Black to grey or brown.",
+   "colorFamilies": [
+    "brown",
+    "black",
+    "grey"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "wollastonite": {
+   "slug": "wollastonite",
+   "name": "Wollastonite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4.5,
+    "max": 5
+   },
+   "colors": "White, colorless, brown, red, yellow or pale green.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "red",
+    "brown",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "wood-jasper": {
+   "slug": "wood-jasper",
+   "name": "Wood Jasper",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "jasper",
+   "mohs": {
+    "min": 6.5,
+    "max": 7
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "xonotlite": {
+   "slug": "xonotlite",
+   "name": "Xonotlite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 6,
+    "max": 6.5
+   },
+   "colors": "Chalky white to bluish gray or pale pink, and the color fades on exposure.",
+   "colorFamilies": [
+    "pink",
+    "grey",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "yellow-aragonite": {
+   "slug": "yellow-aragonite",
+   "name": "Yellow Aragonite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "aragonite",
+   "mohs": {
+    "min": 3.5,
+    "max": 4
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "yellow-diamond": {
+   "slug": "yellow-diamond",
+   "name": "Yellow Diamond",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "diamond",
+   "mohs": {
+    "min": 10,
+    "max": 10
+   },
+   "colors": "Pure yellow, or yellow mixed with green, orange or brown, from muted brownish to vivid yellow.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "orange",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "yellow-fluorite": {
+   "slug": "yellow-fluorite",
+   "name": "Yellow Fluorite",
+   "aliases": [],
+   "kind": "variety",
+   "parent": "fluorite",
+   "mohs": {
+    "min": 4,
+    "max": 4
+   },
+   "colors": "Yellow, including pale yellow, as in cut yellow fluorites listed from Illinois.",
+   "colorFamilies": [
+    "yellow"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "yellow-quartz": {
+   "slug": "yellow-quartz",
+   "name": "Yellow Quartz",
+   "aliases": [
+    "citrine"
+   ],
+   "kind": "variety",
+   "parent": "quartz",
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Pale yellow through yellow-orange to rich golden orange and very dark orange. Gem-A adds brownish orange and greenish yellow.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "orange",
+    "brown"
+   ],
+   "chakra": null,
+   "birthstone": "Citrine is the birthstone for November."
+  },
+  "zebra-calcite": {
+   "slug": "zebra-calcite",
+   "name": "Zebra Calcite",
+   "aliases": [],
+   "kind": "unknown",
+   "parent": "calcite",
+   "mohs": {
+    "min": 3,
+    "max": 3
+   },
+   "colors": null,
+   "colorFamilies": [],
+   "chakra": null,
+   "birthstone": null
+  },
+  "zebra-stone": {
+   "slug": "zebra-stone",
+   "name": "Zebra Stone",
+   "aliases": [
+    "Zebra rock"
+   ],
+   "kind": "rock",
+   "parent": null,
+   "mohs": null,
+   "colors": "Alternating red and white or cream bands, described for zebra rock.",
+   "colorFamilies": [
+    "red",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "zincite": {
+   "slug": "zincite",
+   "name": "Zincite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 4,
+    "max": 4
+   },
+   "colors": "Yellow-orange to deep red, rarely yellow, green or colorless.",
+   "colorFamilies": [
+    "green",
+    "yellow",
+    "orange",
+    "red",
+    "white"
+   ],
+   "chakra": null,
+   "birthstone": null
+  },
+  "zunyite": {
+   "slug": "zunyite",
+   "name": "Zunyite",
+   "aliases": [],
+   "kind": "mineral_species",
+   "parent": null,
+   "mohs": {
+    "min": 7,
+    "max": 7
+   },
+   "colors": "Grayish white.",
+   "colorFamilies": [
     "grey",
     "white"
    ],

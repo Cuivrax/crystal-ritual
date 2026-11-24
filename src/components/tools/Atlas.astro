@@ -47,7 +47,7 @@ let lastLetter = '';
         <Fragment>
           {head && <p class="atlas-letter" data-letter={letter}>{letter}</p>}
           {c.guide
-            ? <article class="atlas-card is-link" data-letter={letter} data-search={c.search} data-colors={c.colors.join(' ')} data-ints={c.ints.join(' ')} data-hard={c.hard} data-guide="1" set:html={fullCardHtml(c)} />
+            ? <article class={cardClass(c)} data-letter={letter} data-search={c.search} data-colors={c.colors.join(' ')} data-ints={c.ints.join(' ')} data-hard={c.hard} data-guide="1" set:html={fullCardHtml(c)} />
             : <article class={cardClass(c)} data-letter={letter} data-search={c.search} data-colors={c.colors.join(' ')} data-ints={c.ints.join(' ')} data-hard={c.hard} set:html={miniCardHtml(c)} />}
         </Fragment>
       );

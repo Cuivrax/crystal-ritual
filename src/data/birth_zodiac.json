@@ -346,7 +346,7 @@
    "older": [
     {
      "name": "Beryl",
-     "slug": null
+     "slug": "beryl"
     },
     {
      "name": "Opal",
@@ -810,7 +810,7 @@
    "stone1913": [
     {
      "name": "Beryl",
-     "slug": null
+     "slug": "beryl"
     }
    ],
    "linked": [

@@ -731,7 +731,7 @@ body.theme-night { background: var(--night); color: var(--moon); }
 .atlas-card h3 { font-size: 1.625rem; }
 .atlas-card h3 a { color: var(--ink); text-decoration: none; }
 .atlas-card p { margin: 4px 0 12px; font-size: 0.9375rem; color: var(--muted); line-height: 1.55; }
-.mini-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.mini-chips { display: flex; flex-wrap: wrap; gap: 8px; }
 .mini-chip { font-size: 0.8125rem; padding: 4px 10px; border-radius: 12px; color: var(--tone-ink); }
 
 .home-letter { background: var(--soft); padding: 64px 0; }
@@ -983,21 +983,38 @@ body.theme-night { background: var(--night); color: var(--moon); }
 .atlas-card.is-mini .atlas-card-body { padding: 14px 16px 16px; }
 .atlas-card.is-mini h3 { font-size: 1.3125rem; line-height: 1.2; margin: 0; }
 .atlas-card.is-mini p { margin: 6px 0 10px; font-size: 0.875rem; line-height: 1.5; }
-.atlas-card.is-mini.has-photo { display: flex; align-items: flex-start; gap: 12px; padding: 14px 0 0 14px; }
-.atlas-card.is-mini.has-photo .atlas-card-body { padding: 0 16px 16px 0; flex: 1 1 auto; min-width: 0; }
-.atlas-card .photo-mini { flex: none; margin: 0; width: 72px; }
-.atlas-card .photo-mini img { width: 72px; height: 72px; aspect-ratio: 1 / 1; border-radius: 12px; object-fit: cover; }
-.mini-dots { display: flex; gap: 4px; margin-top: 8px; }
+.atlas-card .photo-mini { flex: none; margin: 0; width: 76px; }
+.atlas-card .photo-mini img { width: 76px; height: 76px; aspect-ratio: 1 / 1; border-radius: 12px; object-fit: cover; }
+.atlas-card .photo-mini figcaption { display: none; }
+.mini-dots { display: flex; gap: 7px; margin-top: 8px; }
 .mini-dots i { display: block; width: 14px; height: 14px; border-radius: 50%; box-shadow: inset 0 0 0 1px rgba(43, 37, 55, 0.14); }
 .atlas-card.is-mini .mini-chips { margin-top: 10px; }
 @media (max-width: 719px) { .atlas-grid { gap: 12px; } .atlas-letter { margin-top: 6px; } }
-/* cut-out stones on the Atlas cards */
-.atlas-card.is-mini.has-cutout { display: flex; align-items: flex-start; gap: 10px; padding: 12px 0 0 12px; }
-.atlas-card.is-mini.has-cutout .atlas-card-body { padding: 2px 16px 16px 0; flex: 1 1 auto; min-width: 0; }
-.cutout { flex: none; display: flex; align-items: center; justify-content: center; width: 80px; height: 80px; }
-.cutout img { display: block; max-width: 80px; max-height: 80px; width: auto; height: auto; object-fit: contain; filter: drop-shadow(0 6px 8px rgba(43, 37, 55, 0.18)); }
-.atlas-cutout-box { display: flex; align-items: center; justify-content: center; aspect-ratio: 4 / 3; background: var(--soft); }
-.atlas-cutout-box .cutout, .atlas-cutout-box .cutout img { width: auto; height: auto; max-width: 140px; max-height: 140px; }
+/* The image tile of an Atlas card. The stone, cut out, sits on a soft tile in its own color family, with a thin
+   white edge and a soft shadow. One filter makes every cut-out brighter and more colorful, the hue is never changed.
+   A stone with no checked image yet shows a facet mark on the same tile. */
+.atlas-card { --tile: var(--soft); --tile-ink: #8E84A5; }
+.atlas-card.is-mini { display: flex; align-items: stretch; }
+.atlas-card.is-mini .atlas-card-body { flex: 1 1 auto; min-width: 0; }
+.atlas-tile { flex: none; display: flex; align-items: center; justify-content: center; width: 104px; padding: 10px; background: var(--tile); }
+.tile-mark { color: var(--tile-ink); opacity: 0.75; }
+.cutout { flex: none; display: flex; align-items: center; justify-content: center; width: 84px; height: 84px; }
+.cutout img { display: block; max-width: 84px; max-height: 84px; width: auto; height: auto; object-fit: contain; filter: saturate(1.5) contrast(1.12) brightness(1.08) drop-shadow(1.5px 0 0 #fff) drop-shadow(-1.5px 0 0 #fff) drop-shadow(0 1.5px 0 #fff) drop-shadow(0 -1.5px 0 #fff) drop-shadow(0 8px 10px rgba(43, 37, 55, 0.25)); }
+.atlas-cutout-box { display: flex; align-items: center; justify-content: center; aspect-ratio: 4 / 3; background: radial-gradient(circle at 50% 42%, #fff 0, var(--tile) 72%); }
+.atlas-cutout-box .cutout, .atlas-cutout-box .cutout img { width: auto; height: auto; max-width: 150px; max-height: 150px; }
+.tint-pink { --tile: #F7D9E3; --tile-ink: #7A2E4A; }
+.tint-purple { --tile: #E6DDF6; --tile-ink: #3B2F6B; }
+.tint-blue { --tile: #D8E8F1; --tile-ink: #24465A; }
+.tint-teal { --tile: #D5ECEA; --tile-ink: #1F4F4C; }
+.tint-green { --tile: #DDEBDF; --tile-ink: #2D5141; }
+.tint-yellow { --tile: #FAE9C2; --tile-ink: #6E5214; }
+.tint-orange { --tile: #FBE2CC; --tile-ink: #7A4318; }
+.tint-red { --tile: #F9DDD3; --tile-ink: #7A3A2A; }
+.tint-brown { --tile: #EFE3D6; --tile-ink: #5E4530; }
+.tint-black { --tile: #E4E1E8; --tile-ink: #3C3747; }
+.tint-grey { --tile: #ECEAF0; --tile-ink: #4A4458; }
+.tint-white { --tile: #F3F0F5; --tile-ink: #6B6478; }
+@media (max-width: 419px) { .atlas-tile { width: 92px; } }
 
 /* ---------------------------------------------------------- Family hubs, "All Types of Jade" on head stone pages */
 .family-intro { margin: 0; max-width: 780px; font-size: 1rem; line-height: 1.6; color: var(--muted); }
@@ -1063,7 +1080,7 @@ ul.stone-chips, .prose ul.stone-chips { list-style: none; margin: 0; padding: 0;
 .stone-chip a { color: var(--ink); }
 .stone-cut, .stone-cut img { width: 34px !important; height: 34px !important; }
 .stone-chip.is-big .stone-cut, .stone-chip.is-big .stone-cut img { width: 44px !important; height: 44px !important; }
-.stone-cut img { object-fit: contain; filter: drop-shadow(0 3px 4px rgba(43, 37, 55, 0.2)); }
+.stone-cut img { object-fit: contain; filter: saturate(1.5) contrast(1.12) brightness(1.08) drop-shadow(0 3px 4px rgba(43, 37, 55, 0.2)); }
 .stone-dot { flex: none; width: 18px; height: 18px; margin: 8px; border-radius: 50%; box-shadow: inset 0 0 0 1px rgba(43, 37, 55, 0.14); }
 .stone-dot.is-empty { background: var(--line-2); }
 .stone-alt { margin-left: 4px; padding: 1px 8px; border-radius: 10px; background: var(--soft); font-size: 0.75rem; font-weight: 600; color: var(--muted); }

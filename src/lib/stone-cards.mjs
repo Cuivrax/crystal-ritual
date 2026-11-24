@@ -50,9 +50,18 @@ export function stoneCard(slug, assets, { fallbackName = null } = {}) {
   return { ...base, guide: false, fact: stoneExtras.facts?.[slug] || null, swatches: colorSwatches(sheet?.colors || '').slice(0, 6), cutout, photo: cutout ? null : assets.miniPhotos.get(slug) || null };
 }
 
+/** The soft background of a card's image tile, the family of the first color the stone's sheet names. */
+const tintClass = (c) => {
+  const first = colorSwatches(c.sheet?.colors || '')[0];
+  return first ? `tint-${first.family}` : '';
+};
+
+/** A facet mark for a stone with no checked image yet, so no card is left bare. */
+const TILE_MARK = '<svg class="tile-mark" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M6 3h12l4 6-10 12L2 9z"/><path d="M2 9h20M9 3 7 9l5 12 5-12-2-6"/></svg>';
+
 /** Class list of a card's <article>. */
 export function cardClass(c) {
-  return c.guide ? 'atlas-card is-link' : ['atlas-card', 'is-mini', c.cutout ? 'has-cutout' : c.photo ? 'has-photo' : ''].filter(Boolean).join(' ');
+  return c.guide ? ['atlas-card', 'is-link', tintClass(c)].filter(Boolean).join(' ') : ['atlas-card', 'is-mini', tintClass(c)].filter(Boolean).join(' ');
 }
 
 /** Inner HTML of the full card of a published stone. */
@@ -74,7 +83,7 @@ export function miniCardHtml(c) {
     c.mohs ? `<span class="mini-chip tone-green">Hardness ${esc(fmtMohs(c.mohs))}</span>` : '',
     '<span class="mini-chip tone-gold">Full Guide Coming</span>',
   ].join('');
-  return `${c.cutout || c.photo || ''}<div class="atlas-card-body"><h3>${esc(c.name)}</h3>${dots}${c.fact ? `<p>${esc(c.fact)}</p>` : ''}<div class="mini-chips">${chips}</div></div>`;
+  return `<div class="atlas-tile">${c.cutout || c.photo || TILE_MARK}</div><div class="atlas-card-body"><h3>${esc(c.name)}</h3>${dots}${c.fact ? `<p>${esc(c.fact)}</p>` : ''}<div class="mini-chips">${chips}</div></div>`;
 }
 
 /** The card's <article>, with the stone's slug for the tests. */

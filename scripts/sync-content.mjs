@@ -34,7 +34,7 @@ const DATA_FILES = [
   ['content/_ref/stone_families.json', 'stone_families.json'],
 ];
 const PLAN_CSV = 'content/_ref/content_plan.csv';
-const STONE_SHEET_DIRS = ['data_build/stones', 'data_build2/stones'];
+const STONE_SHEET_DIRS = ['data_build/stones', 'data_build2/stones', 'data_build3/stones'];
 
 function parseCsv(text) {
   const rows = [];
