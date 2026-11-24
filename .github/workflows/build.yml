@@ -1,16 +1,18 @@
 # Builds the site and publishes dist/ to the "deploy" branch.
 # The o2switch server pulls that branch with deploy/pull.sh (cron), so this workflow
 # never touches the server and needs no SSH key and no secret beyond the default GITHUB_TOKEN.
-# It runs on every push to main and every hour at minute 23 (minute 5 runs were often skipped by GitHub), so pages whose publish time
-# has passed go live within the hour.
+# It runs on every push to main and four times an hour (GitHub drops many scheduled runs, on November 21 none ran for
+# six hours). The server script deploy/pull.sh asks for a build at the exact publish time, this schedule is the safety net.
 name: Build and publish to the deploy branch
 
 on:
   push:
     branches: [main]
   schedule:
+    - cron: '8 * * * *'
     - cron: '23 * * * *'
-    - cron: '47 * * * *'
+    - cron: '38 * * * *'
+    - cron: '53 * * * *'
   workflow_dispatch:
 
 permissions:
