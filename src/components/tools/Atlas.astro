@@ -21,7 +21,11 @@ const slugs = new Set([...Object.keys(stonesIndex.stones), ...assets.built.keys(
 const cards = [...slugs].map((slug) => {
   const c = stoneCard(slug, assets);
   return { ...c, ints: intsOf(slug), colors: c.sheet?.colorFamilies || [], hard: hardBucket(c.sheet?.mohs), search: searchOf(c.name, c.sheet?.aliases) };
-}).sort((a, b) => a.name.localeCompare(b.name));
+});
+// Full guides open the Atlas as one group. The others follow A to Z, and inside a letter the stones with a picture come first.
+const groupOf = (c) => (c.guide ? 'Full Guides' : c.name.charAt(0).toUpperCase());
+const pic = (c) => (c.cutout || c.photo ? 0 : 1);
+cards.sort((a, b) => (a.guide ? 0 : 1) - (b.guide ? 0 : 1) || (a.guide ? 0 : groupOf(a).localeCompare(groupOf(b))) || pic(a) - pic(b) || a.name.localeCompare(b.name));
 const guides = cards.filter((c) => c.guide).length;
 const colorOpts = COLOR_FAMILIES.filter((c) => cards.some((x) => x.colors.includes(c)));
 const intentOpts = Object.keys(INTENTIONS).filter((k) => cards.some((x) => x.ints.includes(k)));
@@ -40,7 +44,7 @@ let lastLetter = '';
   <p class="atlas-count" id="atlas-count" aria-live="polite">{countText(cards.length, guides)}</p>
   <div class="atlas-grid">
     {cards.map((c) => {
-      const letter = c.name.charAt(0).toUpperCase();
+      const letter = groupOf(c);
       const head = letter !== lastLetter;
       lastLetter = letter;
       return (
@@ -54,7 +58,7 @@ let lastLetter = '';
     })}
   </div>
   <p class="atlas-none" id="atlas-none" hidden>No stone matches. Try another name or fewer filters.</p>
-  <p class="atlas-note">Intentions are beliefs, rated on our five-facet scale. A stone is listed under an intention from Often Linked up. Stones marked Full Guide Coming get their own page soon.</p>
+  <p class="atlas-note">Intentions are beliefs, rated on our five-facet scale. A stone is listed under an intention from Often Linked up.</p>
 </section>
 <script>
   const form = document.querySelector('.atlas-filters');

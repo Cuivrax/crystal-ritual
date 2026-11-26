@@ -5,6 +5,14 @@
 // (scripts/build-stone-extras.mjs) and "Full Guide Coming", with a cut-out or a checked photo when one exists.
 import { stoneThumbs, stonesIndex, knownFor, stoneExtras, photosOf } from './render.mjs';
 import { figureHtml, cutoutHtml, CUTOUTS } from './images.mjs';
+import careData from '../data/care.json';
+import { ratingLabel } from './ui.mjs';
+
+// The care chip of a card, what a rinse does to the stone, when our sources cover it.
+const WATER = new Map(careData.stones.map((s) => [s.slug, s.care?.water?.rating]));
+const WATER_TONE = { ok: 'green', brief_only: 'gold', avoid: 'pink' };
+const WATER_TEXT = { ok: 'Water Safe', brief_only: 'Quick Rinse Only', avoid: 'Keep Dry' };
+const careChip = (slug) => { const r = WATER.get(slug); return WATER_TEXT[r] ? `<span class="mini-chip tone-${WATER_TONE[r]}">${WATER_TEXT[r]}</span>` : ''; };
 import { colorSwatches } from './colors.mjs';
 import { FACET_LABELS, esc } from './ui.mjs';
 import { listNames } from './worldmap.mjs';
@@ -67,7 +75,7 @@ export function cardClass(c) {
 /** Inner HTML of the full card of a published stone. */
 export function fullCardHtml(c) {
   const chips = [
-    c.mohs ? `<span class="mini-chip tone-green">Hardness ${esc(fmtMohs(c.mohs))}</span>` : '',
+    careChip(c.slug),
     c.top ? `<span class="mini-chip tone-lavender">${esc(c.top.label)}, ${esc(FACET_LABELS[c.top.facets])}</span>` : '',
   ].join('');
   const media = c.photo || `<div class="atlas-cutout-box">${c.cutout || TILE_MARK}</div>`;
@@ -80,8 +88,7 @@ export function miniCardHtml(c) {
     ? `<span class="mini-dots" role="img" aria-label="${esc(`Colors ${listNames(c.swatches.map((s) => s.name.toLowerCase()))}`)}">${c.swatches.map((s) => `<i style="background:${s.hex}"></i>`).join('')}</span>`
     : '';
   const chips = [
-    c.mohs ? `<span class="mini-chip tone-green">Hardness ${esc(fmtMohs(c.mohs))}</span>` : '',
-    '<span class="mini-chip tone-gold">Full Guide Coming</span>',
+    careChip(c.slug),
   ].join('');
   return `<div class="atlas-tile">${c.cutout || c.photo || TILE_MARK}</div><div class="atlas-card-body"><h3>${esc(c.name)}</h3>${dots}${c.fact ? `<p>${esc(c.fact)}</p>` : ''}<div class="mini-chips">${chips}</div></div>`;
 }

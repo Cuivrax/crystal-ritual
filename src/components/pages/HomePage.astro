@@ -83,7 +83,7 @@ const pad = (n) => String(n).padStart(2, '0');
     </section>
   )}
 
-  {m.quote && (
+  {false && m.quote && (
     <section class="wrap quote-band">
       <Fragment set:html={icon('star', { size: 36 })} />
       <blockquote><p set:html={m.quote.text} /></blockquote>
@@ -117,15 +117,10 @@ const pad = (n) => String(n).padStart(2, '0');
           <h2 class="home-h2" id={m.rituals.id}>{m.rituals.title}</h2>
           <div class="muted-text" set:html={m.rituals.intro} />
         </div>
-        {m.rituals.categories.length > 1 && (
-          <ul class="color-key" role="list" aria-label="Color key">
-            {m.rituals.categories.map((c) => <li class={`tone-${({ daytime: 'pink', evening: 'lavender', 'self-care': 'green', moon: 'night' })[c.toLowerCase()] || 'pink'}`}>{c}</li>)}
-          </ul>
-        )}
       </div>
-      <div class="home-ritual-grid">
+      <div class="home-ritual-grid is-compact">
         {m.rituals.cards.map((c) => {
-          const inner = `${c.eyebrow ? `<span class="hr-eyebrow">${esc(c.eyebrow)}</span>` : ''}<h3>${esc(c.title)}</h3><p>${esc(c.text)}</p>${c.link && c.link.built ? `<span class="hr-more">${esc(c.link.text)}</span>` : ''}`;
+          const inner = `${c.eyebrow ? `<span class="hr-eyebrow">${esc(c.eyebrow)}</span>` : ''}<h3>${esc(c.title.replace(/^Five Minutes /, '').replace(/^./, (x) => x.toUpperCase()))}</h3><p>${esc(c.text)}</p>${c.link && c.link.built ? `<span class="hr-more">${esc(c.link.text)}</span>` : ''}`;
           return c.link && c.link.built ? <a class={`home-ritual tone-${c.tone}`} href={c.link.href} set:html={inner} /> : <div class={`home-ritual tone-${c.tone}`} set:html={inner} />;
         })}
       </div>

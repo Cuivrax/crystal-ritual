@@ -1,15 +1,20 @@
 ---
 import { MAIN_NAV, SITE_NAME, pathOf } from '../lib/nav.mjs';
 import { logoMark, icon } from '../lib/ui.mjs';
-import { getSite } from '../lib/site.mjs';
+import { getSite, childrenOf } from '../lib/site.mjs';
+import { shortName } from '../lib/page-meta.mjs';
 const { current = '/' } = Astro.props;
 const site = await getSite();
 const homeBuilt = site.isBuilt('/');
 const items = MAIN_NAV.map((n) => {
   const built = site.isBuilt(pathOf(n.href));
   const here = n.match.some((m) => current.startsWith(m)) || (!n.href.includes('#') && pathOf(n.href) === current);
-  return { ...n, built, here };
+  // Drop-down, only pages that are built, and none when a single link would repeat the section itself.
+  let sub = n.auto ? childrenOf(site, n.href).map((c) => ({ label: shortName(c), href: c.url })) : (n.sub || []).filter((x) => site.isBuilt(pathOf(x.href)));
+  if (sub.length < 2) sub = [];
+  return { ...n, built, here, sub };
 });
+const CHEV = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>';
 const searchHref = site.isBuilt('/stones/') ? '/stones/#atlas' : null;
 ---
 <header class="site-header">
@@ -18,9 +23,12 @@ const searchHref = site.isBuilt('/stones/') ? '/stones/#atlas' : null;
       ? <a class="brand" href="/"><Fragment set:html={logoMark({ size: 40 })} /><span class="brand-name">{SITE_NAME}</span></a>
       : <span class="brand"><Fragment set:html={logoMark({ size: 40 })} /><span class="brand-name">{SITE_NAME}</span></span>}
     <nav class="main-nav" aria-label="Main">
-      {items.map((n) => n.built
-        ? <a href={n.href} aria-current={n.here ? 'page' : undefined}>{n.label}</a>
-        : <span class="is-off">{n.label}</span>)}
+      {items.filter((n) => n.built).map((n) => (
+        <div class="nav-item">
+          <a href={n.href} aria-current={n.here ? 'page' : undefined}>{n.label}</a>
+          {n.sub.length > 0 && <ul class="sub-nav" role="list">{n.sub.map((x) => <li><a href={x.href}>{x.label}</a></li>)}</ul>}
+        </div>
+      ))}
     </nav>
     <div class="head-actions">
       {searchHref && <a class="round-btn" href={searchHref} aria-label="Search the Stone Atlas"><Fragment set:html={icon('magnifier', { size: 18, stroke: 2 })} /></a>}
@@ -29,10 +37,20 @@ const searchHref = site.isBuilt('/stones/') ? '/stones/#atlas' : null;
   </div>
   <nav class="mobile-nav" id="mobile-nav" aria-label="Main" hidden>
     <ul>
-      {items.map((n) => <li>{n.built ? <a href={n.href} aria-current={n.here ? 'page' : undefined}>{n.label}</a> : <span class="is-off">{n.label}</span>}</li>)}
+      {items.filter((n) => n.built).map((n) => (
+        <li class={n.sub.length > 0 ? 'has-sub' : undefined}>
+          <div class="m-row">
+            <a href={n.href} aria-current={n.here ? 'page' : undefined}>{n.label}</a>
+            {n.sub.length > 0
+              ? <button type="button" class="m-toggle" aria-expanded="false" aria-label={`Show the pages of ${n.label}`}><Fragment set:html={CHEV} /></button>
+              : <span class="m-chev" aria-hidden="true"><Fragment set:html={CHEV} /></span>}
+          </div>
+          {n.sub.length > 0 && <ul class="mobile-sub" role="list" hidden>{n.sub.map((x) => <li><a href={x.href}>{x.label}<span class="m-chev" aria-hidden="true"><Fragment set:html={CHEV} /></span></a></li>)}</ul>}
+        </li>
+      ))}
     </ul>
   </nav>
-  <noscript><style>.mobile-nav[hidden] { display: block; } .menu-toggle { display: none; }</style></noscript>
+  <noscript><style>.mobile-nav[hidden], .mobile-sub[hidden] { display: block; } .menu-toggle { display: none; }</style></noscript>
 </header>
 <script is:inline>
 (function () {
@@ -44,6 +62,13 @@ const searchHref = site.isBuilt('/stones/') ? '/stones/#atlas' : null;
     b.setAttribute('aria-expanded', String(!open));
     b.setAttribute('aria-label', open ? 'Open menu' : 'Close menu');
     n.hidden = open;
+  });
+  n.querySelectorAll('.m-toggle').forEach(function (t) {
+    t.addEventListener('click', function () {
+      var o = t.getAttribute('aria-expanded') === 'true';
+      t.setAttribute('aria-expanded', String(!o));
+      t.closest('li').querySelector('.mobile-sub').hidden = o;
+    });
   });
 })();
 </script>

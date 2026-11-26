@@ -1,10 +1,11 @@
 ---
-const { html = null, lastReviewed = null } = Astro.props;
+const { html = null, lastReviewed = null, fold = false } = Astro.props;
 ---
 {(html || lastReviewed) && (
   <section class="wrap sources-block" aria-labelledby="sources">
-    {html && <h2 id="sources">Sources</h2>}
-    {html && <Fragment set:html={html} />}
+    {html && fold && <details class="fold sec-fold is-small"><summary><h2 id="sources">Sources</h2><svg class="fold-chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></summary><Fragment set:html={html} /></details>}
+    {html && !fold && <h2 id="sources">Sources</h2>}
+    {html && !fold && <Fragment set:html={html} />}
     {lastReviewed && <p class="reviewed" set:html={lastReviewed} />}
   </section>
 )}

@@ -7,11 +7,17 @@ import Body from '../Body.astro';
 import AuthorBox from '../AuthorBox.astro';
 import Sources from '../Sources.astro';
 import { childrenOf } from '../../lib/site.mjs';
+import { hubCard, HUB_TOOL } from '../../lib/hub-cards.mjs';
 import { breadcrumbsFor, ogImageFrom, citationsFor, shortName } from '../../lib/page-meta.mjs';
 const { page, doc, site } = Astro.props;
 const crumbs = breadcrumbsFor(page, site);
 const hasAtlas = doc.slots.includes('atlas');
 const children = hasAtlas ? [] : childrenOf(site, page.url);
+// Picture cards when every child has its set, the plain text cards otherwise.
+const pics = [];
+for (const c of children) pics.push(await hubCard(c, shortName(c)));
+const visual = children.length > 0 && pics.every(Boolean);
+const tool = HUB_TOOL[page.url] && site.isBuilt(HUB_TOOL[page.url].href) ? HUB_TOOL[page.url] : null;
 ---
 <Base page={page} title={page.data.title} description={page.data.description} url={page.url} image={ogImageFrom(doc.heroHtml)} breadcrumbs={crumbs} citations={citationsFor(page)}>
   <div class="wrap"><Breadcrumbs items={crumbs} /></div>
@@ -24,8 +30,31 @@ const children = hasAtlas ? [] : childrenOf(site, page.url);
       </div>
     </div>
   </section>
+  {visual && (
+    <section class="section hub-visual" aria-labelledby="in-this-section">
+      <div class="wrap">
+        <h2 class="visually-hidden" id="in-this-section">In This Section</h2>
+        <div class="hub-grid">
+          {pics.map((c) => (
+            <a class={`hub-card tone-${c.tone}`} href={c.url}>
+              <span class="hub-pics" aria-hidden="true">{c.pics.map((h) => <span class="hub-pic" set:html={h} />)}</span>
+              <span class="hub-label">{c.label}</span>
+              <span class="hub-line">{c.line}</span>
+              {c.chip && <span class="hub-chip">{c.chip}</span>}
+            </a>
+          ))}
+        </div>
+        {tool && (
+          <a class="hub-tool" href={tool.href}>
+            <span><span class="hub-tool-title">{tool.title}</span><span class="hub-tool-text">{tool.text}</span></span>
+            <span class="hub-tool-cta">{tool.cta}</span>
+          </a>
+        )}
+      </div>
+    </section>
+  )}
   {doc.intro && <div class="wrap section-intro"><div class="prose"><Body html={doc.intro} page={page} /></div></div>}
-  {children.length > 0 && (
+  {!visual && children.length > 0 && (
     <section class="section band-soft" aria-labelledby="in-this-section">
       <div class="wrap">
         <h2 class="section-title" id="in-this-section">In This Section</h2>

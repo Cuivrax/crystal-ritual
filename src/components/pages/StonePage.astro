@@ -9,16 +9,41 @@ import Sources from '../Sources.astro';
 import FamilyTypes from '../FamilyTypes.astro';
 import { evidenceLegend } from '../../lib/ui.mjs';
 import { breadcrumbsFor, ogImageFrom, citationsFor } from '../../lib/page-meta.mjs';
-import { comparesFor } from '../../lib/render.mjs';
+import { comparesFor, knownFor } from '../../lib/render.mjs';
+import careData from '../../data/care.json';
 import { familyVarieties, familyName, familyHeading, familySpot, FAMILY_ID, FAMILY_NAV } from '../../lib/families.mjs';
 import families from '../../data/stone_families.json';
 import familyNames from '../../data/stone_family_names.json';
 const { page, doc, site } = Astro.props;
 const crumbs = breadcrumbsFor(page, site);
-const facts = doc.sections.find((s) => s.kind === 'facts');
-const real = doc.sections.find((s) => s.kind === 'real');
+// Reading order, what people come for first (meaning and use), then the stone itself, its story, and the buying and care notes.
+const ORDER = ['facts', 'today', 'ritual', 'what', 'story', 'real', 'care', 'lookalikes', 'price'];
+const rankOf = (s) => (ORDER.includes(s.kind) ? ORDER.indexOf(s.kind) : ORDER.indexOf('care') + 0.5);
+const sections = doc.sections.map((s, i) => ({ s, i })).sort((a, b) => rankOf(a.s) - rankOf(b.s) || a.i - b.i).map((x, i) => ({ ...x.s, band: i % 2 ? 'band-soft' : '' }));
+const facts = sections.find((s) => s.kind === 'facts');
+// Quick Facts keeps its tiles and its lists, the hardness and color cards move under What It Is.
+const CARDS = '<div class="facts-cards">';
+if (facts) {
+  const cut = facts.html.indexOf(CARDS);
+  const what = sections.find((s) => s.kind === 'what');
+  if (cut > 0 && what) { what.tailHtml = facts.html.slice(cut); facts.html = facts.html.slice(0, cut); }
+  // The identity, care and buying lists stay open. The Is It Real callout leaves, the page has its own section for it.
+  facts.html = facts.html.replace(/<aside class="callout callout-real">[\s\S]*?<\/aside>/, '');
+}
+// In 30 Seconds, four answers from the page's own data.
+const care = careData.stones.find((x) => x.slug === page.slug)?.care || {};
+const CARE_WORD = { water: { ok: 'Water Safe', brief_only: 'Quick Rinse Only', avoid: 'Keep It Dry' }, sun_light: { ok: 'Fine In Light', brief_only: 'Short Sun Only', avoid: 'Keep Out Of Sun' } };
+const careLine = ['water', 'sun_light'].map((k) => CARE_WORD[k][care[k]?.rating]).filter(Boolean).join(', ');
+const linked = knownFor(page.slug, 3).map((k) => k.label).join(', ');
+const real = sections.find((s) => s.kind === 'real');
 const compare = comparesFor(site, page.slug)[0] || null;
 const eyebrow = facts?.whatItIs || null;
+const quick = [
+  eyebrow && { k: 'What It Is', v: eyebrow },
+  linked && { k: 'Most Linked To', v: linked, href: sections.find((x) => x.kind === 'today') ? `#${sections.find((x) => x.kind === 'today').id}` : null },
+  careLine && { k: 'Care', v: careLine, href: sections.find((x) => x.kind === 'care') ? `#${sections.find((x) => x.kind === 'care').id}` : null },
+  real && { k: 'Before You Buy', v: 'How To Tell If Yours Is Real', href: `#${real.id}` },
+].filter(Boolean);
 // A head stone page (jade, agate ...) is also the hub of its family, with an "All Types of Jade" section.
 const varieties = familyVarieties(page.slug, families);
 const family = varieties ? {
@@ -26,9 +51,9 @@ const family = varieties ? {
   planNames: familyNames.names,
   heading: familyHeading(familyName(page.slug, { sheetName: page.stoneName, planName: familyNames.names[page.slug] })),
 } : null;
-const spot = family ? familySpot(doc.sections) : doc.sections.length;
-const before = doc.sections.slice(0, spot);
-const after = doc.sections.slice(spot);
+const spot = family ? familySpot(sections) : sections.length;
+const before = sections.slice(0, spot);
+const after = sections.slice(spot);
 const near = [before[before.length - 1]?.band, after[0]?.band];
 const familyBand = !near.includes('band-soft') ? 'band-soft' : !near.includes('band-white') ? 'band-white' : '';
 const toc = [...before.filter((s) => s.navLabel), ...(family ? [{ id: FAMILY_ID, navLabel: FAMILY_NAV }] : []), ...after.filter((s) => s.navLabel)];
@@ -52,6 +77,21 @@ const toc = [...before.filter((s) => s.navLabel), ...(family ? [{ id: FAMILY_ID,
       </div>
     </div>
   </section>
+  {quick.length >= 3 && (
+    <section class="wrap in-30" aria-label="In 30 seconds">
+      <p class="in-30-title">In 30 Seconds</p>
+      <div class="in-30-grid">
+        {quick.map((q) => q.href
+          ? <a class="in-30-item" href={q.href}><span class="in-30-k">{q.k}</span><span class="in-30-v">{q.v}</span></a>
+          : <div class="in-30-item"><span class="in-30-k">{q.k}</span><span class="in-30-v">{q.v}</span></div>)}
+      </div>
+    </section>
+  )}
+  {toc.length > 2 && (
+    <nav class="toc is-sticky" aria-label="On this page">
+      {toc.map((s) => <a href={`#${s.id}`}>{s.navLabel}</a>)}
+    </nav>
+  )}
   {facts && (
     <section class="section section-facts" aria-labelledby={facts.id}>
       <div class="wrap">
@@ -60,15 +100,38 @@ const toc = [...before.filter((s) => s.navLabel), ...(family ? [{ id: FAMILY_ID,
       </div>
     </section>
   )}
-  {toc.length > 2 && (
-    <nav class="toc" aria-label="On this page">
-      {toc.map((s) => <a href={`#${s.id}`}>{s.navLabel}</a>)}
-      {doc.sources && <a href="#sources">Sources</a>}
-    </nav>
-  )}
-  <Sections sections={before} page={page} skip={['facts']} />
+  <Sections sections={before} page={page} skip={['facts']} fold={['lookalikes', 'price']} />
   {family && <FamilyTypes family={family} site={site} band={familyBand} />}
-  {after.length > 0 && <Sections sections={after} page={page} skip={['facts']} />}
+  {after.length > 0 && <Sections sections={after} page={page} skip={['facts']} fold={['lookalikes', 'price']} />}
   <AuthorBox text={doc.authorText} />
-  <Sources html={doc.sources} lastReviewed={doc.lastReviewed} />
+  <Sources html={doc.sources} lastReviewed={doc.lastReviewed} fold />
 </Base>
+<script is:inline>
+(function () {
+  var nav = document.querySelector('.toc.is-sticky');
+  if (!nav) return;
+  var links = [].slice.call(nav.querySelectorAll('a'));
+  var map = {};
+  links.forEach(function (a) { var el = document.getElementById(a.getAttribute('href').slice(1)); if (el) map[el.id] = a; });
+  var ids = Object.keys(map), cur = null, wait = false;
+  function mark() {
+    wait = false;
+    var hit = null;
+    ids.forEach(function (id) { if (document.getElementById(id).getBoundingClientRect().top < window.innerHeight * 0.35) hit = id; });
+    if (hit === cur) return;
+    cur = hit;
+    links.forEach(function (a) { a.removeAttribute('aria-current'); });
+    if (hit) { map[hit].setAttribute('aria-current', 'true'); nav.scrollLeft = Math.max(0, map[hit].offsetLeft - nav.clientWidth / 2 + map[hit].offsetWidth / 2); }
+  }
+  window.addEventListener('scroll', function () { if (!wait) { wait = true; requestAnimationFrame(mark); } }, { passive: true });
+  mark();
+  // A link into a folded section opens it first.
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a[href^="#"]');
+    if (!a) return;
+    var t = document.getElementById(a.getAttribute('href').slice(1));
+    var d = t && t.closest('details');
+    if (d) d.open = true;
+  });
+})();
+</script>

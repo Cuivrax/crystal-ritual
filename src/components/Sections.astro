@@ -1,13 +1,20 @@
 ---
 import Body from './Body.astro';
 import { badge } from '../lib/ui.mjs';
-const { sections = [], page, skip = [], plainBands = false } = Astro.props;
+const { sections = [], page, skip = [], plainBands = false, fold = [] } = Astro.props;
+const CHEV = '<svg class="fold-chev" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>';
 const list = sections.filter((s) => !skip.includes(s.kind));
 ---
 {list.map((s) => (
   <section class={['section', `kind-${s.kind}`, plainBands ? '' : s.band].filter(Boolean).join(' ')} aria-labelledby={s.id}>
     <div class="wrap">
-      {s.layout === 'price' ? (
+      {fold.includes(s.kind) ? (
+        <details class="fold sec-fold">
+          <summary><h2 class="section-title" id={s.id} set:html={s.headingHtml} /><Fragment set:html={CHEV} /></summary>
+          <div class="prose"><Body html={s.html} page={page} /></div>
+          {s.extraHtml && <Fragment set:html={s.extraHtml} />}
+        </details>
+      ) : s.layout === 'price' ? (
         <div class="price-row">
           <div class="card">
             <h2 class="section-title" id={s.id} set:html={s.headingHtml} />
@@ -32,6 +39,7 @@ const list = sections.filter((s) => !skip.includes(s.kind));
                   {s.bodyAsideHtml && <aside class="side what-aside" set:html={s.bodyAsideHtml} />}
                 </div>
               )}
+              {s.tailHtml && <div class="prose layout-facts what-tail"><Body html={s.tailHtml} page={page} /></div>}
             </Fragment>
           ) : s.layout === 'split' && s.asideHtml ? (
             <div class="split">
