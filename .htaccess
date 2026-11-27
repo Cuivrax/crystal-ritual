@@ -1,0 +1,92 @@
+# Crystal & Ritual, Apache rules for o2switch (shared hosting).
+# Static site built by Astro (dist/). Pages live in folders with an index.html.
+
+Options -Indexes
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+AddDefaultCharset UTF-8
+
+<IfModule mod_mime.c>
+  AddType image/avif .avif
+  AddType image/webp .webp
+  AddType font/woff2 .woff2
+</IfModule>
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # HTTPS and the www host (the domain used by the holding page, pins and posts), in one redirect.
+  RewriteCond %{HTTPS} !=on [OR]
+  RewriteCond %{HTTP_HOST} !^www\. [NC]
+  RewriteCond %{HTTP_HOST} ^(?:www\.)?(.+)$ [NC]
+  RewriteRule ^ https://www.%1%{REQUEST_URI} [R=301,L,NE]
+
+  # Hidden files stay hidden, except .well-known (certificates, verification files).
+  RewriteRule (^|/)\.(?!well-known/) - [F]
+
+  # A section folder whose hub page is not published yet (/zodiac/, /care/ ...) answers 404, not 403.
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteCond %{REQUEST_FILENAME}/index.html !-f
+  RewriteRule ^ - [R=404,L]
+
+  # Every page URL ends with a slash, /stones/amethyst becomes /stones/amethyst/.
+  RewriteCond %{REQUEST_METHOD} =GET [OR]
+  RewriteCond %{REQUEST_METHOD} =HEAD
+  RewriteCond %{REQUEST_URI} !\.[a-zA-Z0-9]{1,6}$
+  RewriteCond %{REQUEST_URI} !/$
+  RewriteRule ^(.*)$ /$1/ [R=301,L]
+
+  # /index.html is never a URL of its own.
+  RewriteCond %{THE_REQUEST} \s/+(.*/)?index\.html[\s?] [NC]
+  RewriteRule ^(.*/)?index\.html$ /$1 [R=301,L,NC]
+</IfModule>
+
+# The contact form handler is the only PHP file. It must never be cached.
+<Files "send.php">
+  <IfModule mod_headers.c>
+    Header set Cache-Control "no-store"
+    Header set X-Robots-Tag "noindex, nofollow"
+  </IfModule>
+</Files>
+
+# Compression, Brotli where the server has it, gzip otherwise.
+<IfModule mod_brotli.c>
+  AddOutputFilterByType BROTLI_COMPRESS text/html text/plain text/css text/xml application/xml application/rss+xml application/javascript text/javascript application/json image/svg+xml
+</IfModule>
+<IfModule !mod_brotli.c>
+  <IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/css text/xml application/xml application/rss+xml application/javascript text/javascript application/json image/svg+xml
+  </IfModule>
+</IfModule>
+
+<IfModule mod_headers.c>
+  # Hashed build assets (fonts, scripts, images) never change, cache them for a year.
+  <If "%{REQUEST_URI} =~ m#^/_astro/#">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </If>
+  # HTML, feeds and the sitemap change with each publication, keep them short.
+  <If "%{REQUEST_URI} =~ m#(/|\.html|\.xml|\.txt)$#">
+    Header set Cache-Control "public, max-age=300, must-revalidate"
+  </If>
+  <FilesMatch "\.(svg|ico|png)$">
+    Header set Cache-Control "public, max-age=86400"
+  </FilesMatch>
+
+  # Basic security headers. No Content-Security-Policy, it would break the inline tool scripts.
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(), interest-cohort=()"
+  Header always set Strict-Transport-Security "max-age=31536000" "expr=%{HTTPS} == 'on'"
+  Header unset X-Powered-By
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/html "access plus 5 minutes"
+  ExpiresByType image/avif "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType font/woff2 "access plus 1 year"
+  ExpiresByType text/javascript "access plus 1 year"
+</IfModule>
